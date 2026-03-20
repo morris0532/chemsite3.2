@@ -6,6 +6,9 @@ import { Input } from "@/components/ui/input";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { products } from "@/data/products";
 import { blogPosts } from "@/data/blogs";
+import { productsRu } from "@/data/products_ru";
+import { blogPostsRu } from "@/data/blogs_ru";
+import { Globe } from "lucide-react";
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -21,8 +24,16 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
   const location = useLocation();
   const navigate = useNavigate();
 
-  const pageTitle = title ? `${title} | Sinochemi` : "Sinochemi - Global Chemical Supplier";
-  const pageDescription = description || "Sinochemi is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.";
+  const isRu = location.pathname.startsWith("/ru");
+  const langPrefix = isRu ? "/ru" : "/en";
+
+  const pageTitle = title 
+    ? `${title} | Sinochemi` 
+    : (isRu ? "Sinochemi - Глобальный поставщик химикатов" : "Sinochemi - Global Chemical Supplier");
+  
+  const pageDescription = description || (isRu 
+    ? "Sinochemi - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
+    : "Sinochemi is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.");
 
   // Update document title and meta tags
   if (typeof document !== "undefined") {
@@ -38,9 +49,34 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
       document.head.appendChild(canonical);
     }
     canonical.setAttribute('href', `https://sinochemi.com${location.pathname}`);
+
+    // Update hreflang tags
+    let enLink = document.querySelector('link[hreflang="en"]');
+    if (!enLink) {
+      enLink = document.createElement('link');
+      enLink.setAttribute('rel', 'alternate');
+      enLink.setAttribute('hreflang', 'en');
+      document.head.appendChild(enLink);
+    }
+    enLink.setAttribute('href', `https://sinochemi.com${location.pathname.replace(/^\/ru/, '/en')}`);
+
+    let ruLink = document.querySelector('link[hreflang="ru"]');
+    if (!ruLink) {
+      ruLink = document.createElement('link');
+      ruLink.setAttribute('rel', 'alternate');
+      ruLink.setAttribute('hreflang', 'ru');
+      document.head.appendChild(ruLink);
+    }
+    ruLink.setAttribute('href', `https://sinochemi.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`);
   }
 
-  const navLinks = [
+  const navLinks = isRu ? [
+    { href: "/ru", label: "Главная" },
+    { href: "/ru/products", label: "Продукты" },
+    { href: "/ru/about", label: "О нас" },
+    { href: "/ru/blog", label: "Блог" },
+    { href: "/ru/contact", label: "Контакты" },
+  ] : [
     { href: "/en", label: "Home" },
     { href: "/en/products", label: "Products" },
     { href: "/en/about", label: "About Us" },
@@ -49,29 +85,39 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
   ];
 
   const isActive = (href: string) => {
-    if (href === "/en") return location.pathname === "/en" || location.pathname === "/";
+    if (href === "/en" || href === "/ru") return location.pathname === href || (href === "/en" && location.pathname === "/");
     return location.pathname.startsWith(href);
   };
 
+  const currentProducts = isRu ? productsRu : products;
+  const currentBlogs = isRu ? blogPostsRu : blogPosts;
+
   const searchResults = searchQuery.trim().length > 1
     ? [
-        ...products
+        ...currentProducts
           .filter(
             (p) =>
               p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
               p.shortDescription.toLowerCase().includes(searchQuery.toLowerCase()) ||
               p.nameCn.includes(searchQuery)
           )
-          .map((p) => ({ type: "Product" as const, title: p.name, url: `/en/products/${p.slug}`, desc: p.shortDescription })),
-        ...blogPosts
+          .map((p) => ({ type: "Product" as const, title: p.name, url: `${langPrefix}/products/${p.slug}`, desc: p.shortDescription })),
+        ...currentBlogs
           .filter(
             (b) =>
               b.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
               b.excerpt.toLowerCase().includes(searchQuery.toLowerCase())
           )
-          .map((b) => ({ type: "Blog" as const, title: b.title, url: `/en/blog/${b.slug}`, desc: b.excerpt })),
+          .map((b) => ({ type: "Blog" as const, title: b.title, url: `${langPrefix}/blog/${b.slug}`, desc: b.excerpt })),
       ]
     : [];
+
+  const toggleLanguage = () => {
+    const newPath = isRu 
+      ? location.pathname.replace("/ru", "/en") 
+      : (location.pathname === "/" ? "/ru" : location.pathname.replace("/en", "/ru"));
+    navigate(newPath);
+  };
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -136,6 +182,15 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
             <div className="flex items-center gap-2">
               <Button
                 variant="ghost"
+                size="sm"
+                onClick={toggleLanguage}
+                className="text-gray-600 hover:text-[#0066B3] flex items-center gap-1 px-2"
+              >
+                <Globe className="w-4 h-4" />
+                <span className="font-medium uppercase">{isRu ? "EN" : "RU"}</span>
+              </Button>
+              <Button
+                variant="ghost"
                 size="icon"
                 onClick={() => setSearchOpen(true)}
                 className="text-gray-600 hover:text-[#0066B3]"
@@ -143,9 +198,9 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
               >
                 <Search className="w-5 h-5" />
               </Button>
-              <Link to="/en/contact">
+              <Link to={`${langPrefix}/contact`}>
                 <Button className="hidden sm:inline-flex bg-[#0066B3] hover:bg-[#004A82] text-white">
-                  Get a Quote
+                  {isRu ? "Запросить цену" : "Get a Quote"}
                 </Button>
               </Link>
               <Button

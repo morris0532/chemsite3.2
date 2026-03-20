@@ -33,8 +33,14 @@ const App = () => (
           <Route path="/en/blog/:slug" element={<BlogDetail />} />
           <Route path="/en/contact" element={<Contact />} />
 
-          {/* Future language routes - redirect to English for now */}
-          <Route path="/ru/*" element={<Navigate to="/en" replace />} />
+          {/* Russian routes */}
+          <Route path="/ru" element={<Index />} />
+          <Route path="/ru/products" element={<Products />} />
+          <Route path="/ru/products/:slug" element={<ProductDetail />} />
+          <Route path="/ru/about" element={<About />} />
+          <Route path="/ru/blog" element={<Blog />} />
+          <Route path="/ru/blog/:slug" element={<BlogDetail />} />
+          <Route path="/ru/contact" element={<Contact />} />
           <Route path="/fr/*" element={<Navigate to="/en" replace />} />
 
           {/* 404 */}

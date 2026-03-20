@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useLocation } from "react-router-dom";
 import { Mail, Phone, MapPin, MessageCircle, Send, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -6,7 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import Layout from "@/components/Layout";
 
-const jsonLd = {
+const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "ContactPage",
   name: "Contact Sinochemi",
@@ -24,7 +25,16 @@ const jsonLd = {
   },
 };
 
+const jsonLdRu = {
+  ...jsonLdEn,
+  name: "Связаться с Sinochemi",
+  description: "Свяжитесь с Sinochemi для запросов о химической продукции, ценах и технической поддержке.",
+};
+
 export default function ContactPage() {
+  const location = useLocation();
+  const isRu = location.pathname.startsWith("/ru");
+  
   const [formData, setFormData] = useState({ name: "", email: "", company: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
@@ -56,18 +66,66 @@ export default function ContactPage() {
     setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   };
 
+  const content = isRu ? {
+    title: "Свяжитесь с нами - Получите предложение на промышленные химикаты",
+    description: "Свяжитесь с Sinochemi для запросов о химической продукции, ценах и технической поддержке. Свяжитесь с нами по электронной почте, WhatsApp или через нашу контактную форму.",
+    heroTitle: "Свяжитесь с нами",
+    heroDesc: "Готовы закупать качественные химикаты? Свяжитесь с нашей командой для получения информации о ценах, продукции и технической поддержке.",
+    getInTouch: "Связаться",
+    getInTouchDesc: "Мы здесь, чтобы помочь. Свяжитесь с нами по любому из следующих каналов.",
+    email: "Электронная почта",
+    phone: "Телефон",
+    whatsapp: "WhatsApp",
+    address: "Адрес",
+    addressValue: "Провинция Шаньдун, Китай",
+    sendMessage: "Отправьте нам сообщение",
+    sendMessageDesc: "Заполните форму ниже, и наша команда свяжется с вами в течение 24 часов.",
+    successTitle: "Сообщение успешно отправлено!",
+    successDesc: "Благодарим вас за обращение. Мы ответим на ваш запрос в течение 24 часов.",
+    fullName: "Полное имя *",
+    emailAddress: "Адрес электронной почты *",
+    companyName: "Название компании (необязательно)",
+    message: "Сообщение *",
+    messagePlaceholder: "Расскажите нам о ваших требованиях, интересующих продуктах, необходимом количестве...",
+    sending: "Отправка...",
+    sendButton: "Отправить сообщение",
+  } : {
+    title: "Contact Us - Get a Quote for Industrial Chemicals",
+    description: "Contact Sinochemi for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
+    heroTitle: "Contact Us",
+    heroDesc: "Ready to source quality chemicals? Get in touch with our team for pricing, product information, and technical support.",
+    getInTouch: "Get In Touch",
+    getInTouchDesc: "We are here to help. Reach out to us through any of the following channels.",
+    email: "Email",
+    phone: "Phone",
+    whatsapp: "WhatsApp",
+    address: "Address",
+    addressValue: "Shandong Province, China",
+    sendMessage: "Send Us a Message",
+    sendMessageDesc: "Fill out the form below and our team will get back to you within 24 hours.",
+    successTitle: "Message Sent Successfully!",
+    successDesc: "Thank you for contacting us. We will respond to your inquiry within 24 hours.",
+    fullName: "Full Name *",
+    emailAddress: "Email Address *",
+    companyName: "Company Name (Optional)",
+    message: "Message *",
+    messagePlaceholder: "Tell us about your requirements, products of interest, quantity needed...",
+    sending: "Sending...",
+    sendButton: "Send Message",
+  };
+
   return (
     <Layout
-      title="Contact Us - Get a Quote for Industrial Chemicals"
-      description="Contact Sinochemi for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form."
-      jsonLd={jsonLd}
+      title={content.title}
+      description={content.description}
+      jsonLd={isRu ? jsonLdRu : jsonLdEn}
     >
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">Contact Us</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-4">{content.heroTitle}</h1>
           <p className="text-blue-100 max-w-2xl text-lg">
-            Ready to source quality chemicals? Get in touch with our team for pricing, product information, and technical support.
+            {content.heroDesc}
           </p>
         </div>
       </section>
@@ -77,8 +135,8 @@ export default function ContactPage() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
             {/* Contact Info */}
             <div className="space-y-6">
-              <h2 className="text-2xl font-bold text-[#1A1A2E]">Get In Touch</h2>
-              <p className="text-gray-600">We are here to help. Reach out to us through any of the following channels.</p>
+              <h2 className="text-2xl font-bold text-[#1A1A2E]">{content.getInTouch}</h2>
+              <p className="text-gray-600">{content.getInTouchDesc}</p>
 
               <div className="space-y-4">
                 <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
@@ -86,7 +144,7 @@ export default function ContactPage() {
                     <Mail className="w-5 h-5 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">Email</h3>
+                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
                     <a href="mailto:info@sinochemi.com" className="text-[#0066B3] hover:underline text-sm">info@sinochemi.com</a>
                   </div>
                 </div>
@@ -96,7 +154,7 @@ export default function ContactPage() {
                     <Phone className="w-5 h-5 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">Phone</h3>
+                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.phone}</h3>
                     <a href="tel:+8613583262050" className="text-[#0066B3] hover:underline text-sm">+86 13583262050</a>
                   </div>
                 </div>
@@ -106,7 +164,7 @@ export default function ContactPage() {
                     <MessageCircle className="w-5 h-5 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">WhatsApp</h3>
+                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
                     <a href="https://wa.me/8613583262050?text=Hello%2C%20I%27m%20interested%20in%20your%20products." target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">+86 13583262050</a>
                   </div>
                 </div>
@@ -116,8 +174,8 @@ export default function ContactPage() {
                     <MapPin className="w-5 h-5 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">Address</h3>
-                    <p className="text-gray-600 text-sm">Shandong Province, China</p>
+                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.address}</h3>
+                    <p className="text-gray-600 text-sm">{content.addressValue}</p>
                   </div>
                 </div>
               </div>
@@ -126,39 +184,39 @@ export default function ContactPage() {
             {/* Contact Form */}
             <div className="lg:col-span-2">
               <div className="bg-white rounded-2xl border border-gray-200 p-6 md:p-8 shadow-sm">
-                <h2 className="text-2xl font-bold text-[#1A1A2E] mb-2">Send Us a Message</h2>
-                <p className="text-gray-600 text-sm mb-6">Fill out the form below and our team will get back to you within 24 hours.</p>
+                <h2 className="text-2xl font-bold text-[#1A1A2E] mb-2">{content.sendMessage}</h2>
+                <p className="text-gray-600 text-sm mb-6">{content.sendMessageDesc}</p>
 
                 {submitted ? (
                   <div className="text-center py-12">
                     <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <CheckCircle className="w-8 h-8 text-green-600" />
                     </div>
-                    <h3 className="text-xl font-semibold text-gray-900 mb-2">Message Sent Successfully!</h3>
-                    <p className="text-gray-600">Thank you for contacting us. We will respond to your inquiry within 24 hours.</p>
+                    <h3 className="text-xl font-semibold text-gray-900 mb-2">{content.successTitle}</h3>
+                    <p className="text-gray-600">{content.successDesc}</p>
                   </div>
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-5">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                       <div>
-                        <Label htmlFor="name">Full Name *</Label>
+                        <Label htmlFor="name">{content.fullName}</Label>
                         <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder="John Doe" className="mt-1" />
                       </div>
                       <div>
-                        <Label htmlFor="email">Email Address *</Label>
+                        <Label htmlFor="email">{content.emailAddress}</Label>
                         <Input id="email" name="email" type="email" required value={formData.email} onChange={handleChange} placeholder="john@company.com" className="mt-1" />
                       </div>
                     </div>
                     <div>
-                      <Label htmlFor="company">Company Name (Optional)</Label>
-                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder="Your company name" className="mt-1" />
+                      <Label htmlFor="company">{content.companyName}</Label>
+                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isRu ? "Название вашей компании" : "Your company name"} className="mt-1" />
                     </div>
                     <div>
-                      <Label htmlFor="message">Message *</Label>
-                      <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder="Tell us about your requirements, products of interest, quantity needed..." rows={5} className="mt-1" />
+                      <Label htmlFor="message">{content.message}</Label>
+                      <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder={content.messagePlaceholder} rows={5} className="mt-1" />
                     </div>
                     <Button type="submit" disabled={submitting} className="bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8">
-                      {submitting ? "Sending..." : <><Send className="w-4 h-4 mr-2" /> Send Message</>}
+                      {submitting ? content.sending : <><Send className="w-4 h-4 mr-2" /> {content.sendButton}</>}
                     </Button>
                   </form>
                 )}

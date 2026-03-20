@@ -1,27 +1,34 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useLocation } from "react-router-dom";
 import { ChevronRight, Calendar, User, Share2, Facebook, Twitter, Linkedin, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { getBlogBySlug, getRecentBlogs } from "@/data/blogs";
+import { getBlogBySlugRu, getRecentBlogsRu } from "@/data/blogs_ru";
 
 export default function BlogDetailPage() {
   const { slug } = useParams<{ slug: string }>();
-  const post = getBlogBySlug(slug || "");
+  const location = useLocation();
+  const isRu = location.pathname.startsWith("/ru");
+  const langPrefix = isRu ? "/ru" : "/en";
+  
+  const post = isRu ? getBlogBySlugRu(slug || "") : getBlogBySlug(slug || "");
 
   if (!post) {
     return (
-      <Layout title="Article Not Found">
+      <Layout title={isRu ? "Статья не найдена" : "Article Not Found"}>
         <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-800 mb-4">Article Not Found</h1>
-          <p className="text-gray-600 mb-6">The article you are looking for does not exist.</p>
-          <Link to="/en/blog"><Button className="bg-[#0066B3] text-white">Browse All Articles</Button></Link>
+          <h1 className="text-2xl font-bold text-gray-800 mb-4">{isRu ? "Статья не найдена" : "Article Not Found"}</h1>
+          <p className="text-gray-600 mb-6">{isRu ? "Статья, которую вы ищете, не существует." : "The article you are looking for does not exist."}</p>
+          <Link to={`${langPrefix}/blog`}><Button className="bg-[#0066B3] text-white">{isRu ? "Просмотреть все статьи" : "Browse All Articles"}</Button></Link>
         </div>
       </Layout>
     );
   }
 
-  const currentUrl = `https://sinochemi.com/en/blog/${post.slug}`;
-  const recentPosts = getRecentBlogs(4).filter((b) => b.slug !== post.slug).slice(0, 3);
+  const currentUrl = `https://sinochemi.com${langPrefix}/blog/${post.slug}`;
+  const recentPosts = isRu 
+    ? getRecentBlogsRu(4).filter((b) => b.slug !== post.slug).slice(0, 3)
+    : getRecentBlogs(4).filter((b) => b.slug !== post.slug).slice(0, 3);
 
   const articleJsonLd = {
     "@context": "https://schema.org",
@@ -33,6 +40,26 @@ export default function BlogDetailPage() {
     author: { "@type": "Person", name: post.author },
     publisher: { "@type": "Organization", name: "Sinochemi", logo: { "@type": "ImageObject", url: "https://sinochemi.com/logo.png" } },
     mainEntityOfPage: { "@type": "WebPage", "@id": currentUrl },
+  };
+
+  const content = isRu ? {
+    home: "Главная",
+    blog: "Блог",
+    backToBlog: "Назад в блог",
+    share: "Поделиться:",
+    recentArticles: "Последние статьи",
+    needChemicals: "Нужны химические продукты?",
+    getQuoteDesc: "Получите конкурентоспособные цены на 22+ промышленных химиката.",
+    getQuote: "Получить предложение",
+  } : {
+    home: "Home",
+    blog: "Blog",
+    backToBlog: "Back to Blog",
+    share: "Share:",
+    recentArticles: "Recent Articles",
+    needChemicals: "Need Chemical Products?",
+    getQuoteDesc: "Get competitive pricing on 22+ industrial chemicals.",
+    getQuote: "Get a Quote",
   };
 
   // Simple markdown-to-HTML converter
@@ -102,9 +129,9 @@ export default function BlogDetailPage() {
       <div className="bg-[#F5F7FA] border-b border-gray-200">
         <div className="container mx-auto px-4 py-3">
           <nav className="flex items-center gap-1 text-sm text-gray-500" aria-label="Breadcrumb">
-            <Link to="/en" className="hover:text-[#0066B3]">Home</Link>
+            <Link to={langPrefix} className="hover:text-[#0066B3]">{content.home}</Link>
             <ChevronRight className="w-3.5 h-3.5" />
-            <Link to="/en/blog" className="hover:text-[#0066B3]">Blog</Link>
+            <Link to={`${langPrefix}/blog`} className="hover:text-[#0066B3]">{content.blog}</Link>
             <ChevronRight className="w-3.5 h-3.5" />
             <span className="text-[#0066B3] font-medium line-clamp-1">{post.title}</span>
           </nav>
@@ -116,8 +143,8 @@ export default function BlogDetailPage() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
             {/* Article */}
             <article className="lg:col-span-2">
-              <Link to="/en/blog" className="inline-flex items-center text-sm text-[#0066B3] hover:underline mb-4">
-                <ArrowLeft className="w-4 h-4 mr-1" /> Back to Blog
+              <Link to={`${langPrefix}/blog`} className="inline-flex items-center text-sm text-[#0066B3] hover:underline mb-4">
+                <ArrowLeft className="w-4 h-4 mr-1" /> {content.backToBlog}
               </Link>
 
               <div className="aspect-video rounded-2xl overflow-hidden mb-6">
@@ -126,7 +153,7 @@ export default function BlogDetailPage() {
 
               <div className="flex flex-wrap items-center gap-3 mb-4">
                 <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</span>
+                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : "en-US", { month: "long", day: "numeric", year: "numeric" })}</span>
                 <span className="text-xs text-gray-500 flex items-center gap-1"><User className="w-3 h-3" /> {post.author}</span>
               </div>
 
@@ -146,7 +173,7 @@ export default function BlogDetailPage() {
 
               {/* Share */}
               <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
-                <span className="text-sm text-gray-500 flex items-center gap-1"><Share2 className="w-4 h-4" /> Share:</span>
+                <span className="text-sm text-gray-500 flex items-center gap-1"><Share2 className="w-4 h-4" /> {content.share}</span>
                 <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(currentUrl)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors" aria-label="Share on LinkedIn"><Linkedin className="w-4 h-4 text-gray-600" /></a>
                 <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors" aria-label="Share on Facebook"><Facebook className="w-4 h-4 text-gray-600" /></a>
                 <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(currentUrl)}&text=${encodeURIComponent(post.title)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors" aria-label="Share on Twitter"><Twitter className="w-4 h-4 text-gray-600" /></a>
@@ -156,16 +183,16 @@ export default function BlogDetailPage() {
             {/* Sidebar */}
             <aside>
               <div className="sticky top-24">
-                <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">Recent Articles</h3>
+                <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">{content.recentArticles}</h3>
                 <div className="space-y-4">
                   {recentPosts.map((rp) => (
-                    <Link key={rp.id} to={`/en/blog/${rp.slug}`} className="group flex gap-3">
+                    <Link key={rp.id} to={`${langPrefix}/blog/${rp.slug}`} className="group flex gap-3">
                       <div className="w-20 h-16 bg-gray-50 rounded-lg overflow-hidden flex-shrink-0">
                         <img src={rp.image} alt={rp.title} className="w-full h-full object-cover" loading="lazy" />
                       </div>
                       <div>
                         <h4 className="text-sm font-medium text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors line-clamp-2">{rp.title}</h4>
-                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString("en-US", { month: "short", day: "numeric" })}</p>
+                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString(isRu ? "ru-RU" : "en-US", { month: "short", day: "numeric" })}</p>
                       </div>
                     </Link>
                   ))}
@@ -173,10 +200,10 @@ export default function BlogDetailPage() {
 
                 {/* CTA */}
                 <div className="mt-8 bg-[#0066B3] rounded-xl p-6 text-white">
-                  <h3 className="font-bold mb-2">Need Chemical Products?</h3>
-                  <p className="text-sm text-blue-100 mb-4">Get competitive pricing on 22+ industrial chemicals.</p>
-                  <Link to="/en/contact">
-                    <Button className="w-full bg-white text-[#0066B3] hover:bg-blue-50">Get a Quote</Button>
+                  <h3 className="font-bold mb-2">{content.needChemicals}</h3>
+                  <p className="text-sm text-blue-100 mb-4">{content.getQuoteDesc}</p>
+                  <Link to={`${langPrefix}/contact`}>
+                    <Button className="w-full bg-white text-[#0066B3] hover:bg-blue-50">{content.getQuote}</Button>
                   </Link>
                 </div>
               </div>

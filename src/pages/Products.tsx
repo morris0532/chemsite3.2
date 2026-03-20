@@ -1,52 +1,81 @@
 import { useState, useMemo } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { Grid3X3, List, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { products, productCategories } from "@/data/products";
-
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  name: "Industrial Chemical Products",
-  description: "Complete catalog of industrial chemicals from Sinochemi",
-  numberOfItems: products.length,
-  itemListElement: products.map((p, i) => ({
-    "@type": "ListItem",
-    position: i + 1,
-    item: {
-      "@type": "Product",
-      name: p.name,
-      description: p.shortDescription,
-      url: `https://sinochemi.com/en/products/${p.slug}`,
-      sku: p.cas,
-    },
-  })),
-};
+import { productsRu, productCategoriesRu } from "@/data/products_ru";
 
 export default function ProductsPage() {
-  const [category, setCategory] = useState("All Products");
+  const location = useLocation();
+  const isRu = location.pathname.startsWith("/ru");
+  const langPrefix = isRu ? "/ru" : "/en";
+  
+  const currentProducts = isRu ? productsRu : products;
+  const currentCategories = isRu ? productCategoriesRu : productCategories;
+  const defaultCategory = isRu ? "Все продукты" : "All Products";
+
+  const [category, setCategory] = useState(defaultCategory);
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
 
   const filtered = useMemo(() => {
-    return products.filter((p) => {
-      const matchCategory = category === "All Products" || p.category === category;
+    return currentProducts.filter((p) => {
+      const matchCategory = category === defaultCategory || p.category === category;
       return matchCategory;
     });
-  }, [category]);
+  }, [category, currentProducts, defaultCategory]);
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: isRu ? "Каталог промышленной химической продукции" : "Industrial Chemical Products",
+    description: isRu ? "Полный каталог промышленных химикатов от Sinochemi" : "Complete catalog of industrial chemicals from Sinochemi",
+    numberOfItems: currentProducts.length,
+    itemListElement: currentProducts.map((p, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "Product",
+        name: p.name,
+        description: p.shortDescription,
+        url: `https://sinochemi.com${langPrefix}/products/${p.slug}`,
+        sku: p.cas,
+      },
+    })),
+  };
+
+  const content = isRu ? {
+    title: "Каталог промышленной химической продукции",
+    description: "Просмотрите наш полный каталог из 22+ промышленных химикатов, включая тиосульфат натрия, каустическую соду, щавелевую кислоту, хлорид кальция и другие. Конкурентоспособные цены с глобальной доставкой.",
+    heroTitle: "Наши химические продукты",
+    heroDesc: "Изучите наш широкий ассортимент высококачественных промышленных химикатов. Все продукты доступны для глобального экспорта с полной документацией.",
+    found: "найдено продуктов",
+    viewDetails: "Подробнее",
+    noProducts: "Продукты, соответствующие вашим критериям, не найдены.",
+    clearFilters: "Очистить фильтры",
+  } : {
+    title: "Industrial Chemical Products Catalog",
+    description: "Browse our complete catalog of 22+ industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and more. Competitive pricing with global shipping.",
+    heroTitle: "Our Chemical Products",
+    heroDesc: "Explore our comprehensive range of high-quality industrial chemicals. All products are available for global export with complete documentation.",
+    found: "products found",
+    viewDetails: "View Details",
+    noProducts: "No products found matching your criteria.",
+    clearFilters: "Clear Filters",
+  };
 
   return (
     <Layout
-      title="Industrial Chemical Products Catalog"
-      description="Browse our complete catalog of 22+ industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and more. Competitive pricing with global shipping."
+      title={content.title}
+      description={content.description}
       jsonLd={jsonLd}
     >
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">Our Chemical Products</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-4">{content.heroTitle}</h1>
           <p className="text-blue-100 max-w-2xl text-lg">
-            Explore our comprehensive range of high-quality industrial chemicals. All products are available for global export with complete documentation.
+            {content.heroDesc}
           </p>
         </div>
       </section>
@@ -56,7 +85,7 @@ export default function ProductsPage() {
           {/* Filters */}
           <div className="flex flex-col md:flex-row gap-4 mb-8">
             <div className="flex gap-2 flex-wrap">
-              {productCategories.map((cat) => (
+              {currentCategories.map((cat) => (
                 <Button
                   key={cat}
                   variant={category === cat ? "default" : "outline"}
@@ -72,7 +101,7 @@ export default function ProductsPage() {
 
           {/* Results count & view toggle */}
           <div className="flex items-center justify-between mb-6">
-            <p className="text-sm text-gray-600">{filtered.length} product{filtered.length !== 1 ? "s" : ""} found</p>
+            <p className="text-sm text-gray-600">{filtered.length} {content.found}</p>
             <div className="flex gap-1">
               <Button variant={viewMode === "grid" ? "default" : "ghost"} size="icon" onClick={() => setViewMode("grid")} className={viewMode === "grid" ? "bg-[#0066B3] text-white" : ""}>
                 <Grid3X3 className="w-4 h-4" />
@@ -89,7 +118,7 @@ export default function ProductsPage() {
               {filtered.map((product) => (
                 <Link
                   key={product.id}
-                  to={`/en/products/${product.slug}`}
+                  to={`${langPrefix}/products/${product.slug}`}
                   className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1"
                 >
                   <div className="aspect-[4/3] bg-gray-50 overflow-hidden">
@@ -101,7 +130,7 @@ export default function ProductsPage() {
                     <p className="text-xs text-gray-500 mb-2">CAS: {product.cas}</p>
                     <p className="text-sm text-gray-600 line-clamp-2">{product.shortDescription}</p>
                     <div className="mt-3 flex items-center text-sm text-[#0066B3] font-medium">
-                      View Details <ArrowRight className="ml-1 w-3.5 h-3.5" />
+                      {content.viewDetails} <ArrowRight className="ml-1 w-3.5 h-3.5" />
                     </div>
                   </div>
                 </Link>
@@ -112,7 +141,7 @@ export default function ProductsPage() {
               {filtered.map((product) => (
                 <Link
                   key={product.id}
-                  to={`/en/products/${product.slug}`}
+                  to={`${langPrefix}/products/${product.slug}`}
                   className="group flex gap-4 bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all p-4"
                 >
                   <div className="w-32 h-24 bg-gray-50 rounded-lg overflow-hidden flex-shrink-0">
@@ -126,8 +155,8 @@ export default function ProductsPage() {
                     <h2 className="text-base font-semibold text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors">{product.name}</h2>
                     <p className="text-sm text-gray-600 line-clamp-1 mt-1">{product.shortDescription}</p>
                     <div className="flex gap-4 mt-2 text-xs text-gray-500">
-                      <span>Ports: {product.ports}</span>
-                      <span>Loading: {product.loading}</span>
+                      <span>{isRu ? "Порты" : "Ports"}: {product.ports}</span>
+                      <span>{isRu ? "Загрузка" : "Loading"}: {product.loading}</span>
                     </div>
                   </div>
                 </Link>
@@ -137,9 +166,9 @@ export default function ProductsPage() {
 
           {filtered.length === 0 && (
             <div className="text-center py-16">
-              <p className="text-gray-500 text-lg">No products found matching your criteria.</p>
-              <Button variant="outline" className="mt-4" onClick={() => { setCategory("All Products"); }}>
-                Clear Filters
+              <p className="text-gray-500 text-lg">{content.noProducts}</p>
+              <Button variant="outline" className="mt-4" onClick={() => { setCategory(defaultCategory); }}>
+                {content.clearFilters}
               </Button>
             </div>
           )}

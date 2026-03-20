@@ -1,10 +1,11 @@
 import { Award, Globe, Users, TrendingUp, CheckCircle } from "lucide-react";
+import { useLocation } from "react-router-dom";
 import Layout from "@/components/Layout";
 
 const LAB_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/08108beb-b4ff-4efc-b6fa-1c545073bedd.png";
 const HERO_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/0821521e-e54b-4dff-b118-4f4b9ba70803.png";
 
-const jsonLd = {
+const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Sinochemi",
@@ -15,7 +16,12 @@ const jsonLd = {
   address: { "@type": "PostalAddress", addressRegion: "Shandong", addressCountry: "CN" },
 };
 
-const milestones = [
+const jsonLdRu = {
+  ...jsonLdEn,
+  description: "Sinochemi - ведущий поставщик химикатов B2B из Китая с многолетним опытом международной торговли химикатами.",
+};
+
+const milestonesEn = [
   { year: "2010", title: "Company Founded", desc: "Sinochemi established in Shandong Province, China, focusing on chemical export trade." },
   { year: "2013", title: "Global Expansion", desc: "Expanded export operations to Southeast Asia, Middle East, and Africa." },
   { year: "2016", title: "Product Diversification", desc: "Grew product portfolio to 15+ chemical products across multiple categories." },
@@ -24,25 +30,84 @@ const milestones = [
   { year: "2025", title: "Digital Transformation", desc: "Launched digital platform for streamlined global chemical procurement." },
 ];
 
-const stats = [
+const milestonesRu = [
+  { year: "2010", title: "Основание компании", desc: "Компания Sinochemi основана в провинции Шаньдун, Китай, с упором на экспортную торговлю химикатами." },
+  { year: "2013", title: "Глобальное расширение", desc: "Расширение экспортных операций в Юго-Восточную Азию, Ближний Восток и Африку." },
+  { year: "2016", title: "Диверсификация продукции", desc: "Портфель продукции вырос до 15+ химических продуктов в нескольких категориях." },
+  { year: "2019", title: "Сертификация качества", desc: "Получен сертификат системы менеджмента качества ISO 9001." },
+  { year: "2022", title: "Лидерство на рынке", desc: "Стали ведущим поставщиком тиосульфата натрия и щавелевой кислоты на международных рынках." },
+  { year: "2025", title: "Цифровая трансформация", desc: "Запуск цифровой платформы для оптимизации глобальных закупок химикатов." },
+];
+
+const statsEn = [
   { icon: Globe, value: "50+", label: "Countries Served" },
   { icon: Award, value: "22+", label: "Chemical Products" },
   { icon: Users, value: "500+", label: "Global Clients" },
   { icon: TrendingUp, value: "15+", label: "Years Experience" },
 ];
 
-const values = [
+const statsRu = [
+  { icon: Globe, value: "50+", label: "Обслуживаемых стран" },
+  { icon: Award, value: "22+", label: "Химических продуктов" },
+  { icon: Users, value: "500+", label: "Глобальных клиентов" },
+  { icon: TrendingUp, value: "15+", label: "Лет опыта" },
+];
+
+const valuesEn = [
   { title: "Quality First", desc: "Every product undergoes rigorous quality testing with complete COA documentation." },
   { title: "Customer Focus", desc: "Dedicated support team providing responsive service and technical guidance." },
   { title: "Global Reach", desc: "Efficient logistics network connecting Chinese manufacturers to worldwide buyers." },
   { title: "Integrity", desc: "Transparent pricing, honest communication, and reliable delivery commitments." },
 ];
 
+const valuesRu = [
+  { title: "Качество прежде всего", desc: "Каждый продукт проходит строгие испытания качества с полной документацией COA." },
+  { title: "Ориентация на клиента", desc: "Специализированная команда поддержки, обеспечивающая оперативное обслуживание и техническое руководство." },
+  { title: "Глобальный охват", desc: "Эффективная логистическая сеть, соединяющая китайских производителей с покупателями по всему миру." },
+  { title: "Честность", desc: "Прозрачное ценообразование, честное общение и надежные обязательства по доставке." },
+];
+
 export default function AboutPage() {
+  const location = useLocation();
+  const isRu = location.pathname.startsWith("/ru");
+  
+  const milestones = isRu ? milestonesRu : milestonesEn;
+  const stats = isRu ? statsRu : statsEn;
+  const values = isRu ? valuesRu : valuesEn;
+  const jsonLd = isRu ? jsonLdRu : jsonLdEn;
+
+  const content = isRu ? {
+    title: "О Sinochemi - Ведущий поставщик химикатов из Китая",
+    description: "Узнайте о Sinochemi, надежном поставщике химикатов B2B с 15-летним опытом обслуживания 500+ клиентов в 50+ странах. Сертифицированное качество ISO.",
+    heroTitle: "О Sinochemi",
+    heroDesc: "Ваш надежный партнер в глобальной торговле химикатами. Мы соединяем качественных китайских производителей химикатов с покупателями по всему миру.",
+    ourStory: "Наша история",
+    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinochemi выросла из небольшой торговой компании в ведущего поставщика химикатов B2B, обслуживающего клиентов в 50+ странах. Наш путь был продиктован стремлением к качеству, надежности и удовлетворенности клиентов.",
+    storyP2: "Мы специализируемся на поиске и экспорте широкого спектра промышленных химикатов, включая тиосульфат натрия, каустическую соду, щавелевую кислоту, хлорид кальция и многие другие. Наши глубокие отношения с ведущими китайскими производителями обеспечивают стабильное качество и конкурентоспособные цены.",
+    storyP3: "Благодаря опытной команде профессионалов химической промышленности мы предоставляем полный спектр услуг: от выбора продукции и проверки качества до координации логистики и послепродажной поддержки.",
+    coreValues: "Наши основные ценности",
+    ourJourney: "Наш путь",
+    certTitle: "Сертификация и гарантия качества",
+    certDesc: "Мы поддерживаем самые высокие стандарты качества посредством строгих испытаний и международно признанных сертификатов.",
+  } : {
+    title: "About Sinochemi - Leading Chemical Supplier from China",
+    description: "Learn about Sinochemi, a trusted B2B chemical supplier with 15+ years of experience serving 500+ clients in 50+ countries. ISO certified quality management.",
+    heroTitle: "About Sinochemi",
+    heroDesc: "Your trusted partner in global chemical trade. We connect quality Chinese chemical manufacturers with buyers worldwide.",
+    ourStory: "Our Story",
+    storyP1: "Founded in 2010 in Shandong Province, China, Sinochemi has grown from a small trading company into a leading B2B chemical supplier serving clients across 50+ countries. Our journey has been driven by a commitment to quality, reliability, and customer satisfaction.",
+    storyP2: "We specialize in sourcing and exporting a comprehensive range of industrial chemicals, including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and many more. Our deep relationships with top Chinese manufacturers ensure consistent quality and competitive pricing.",
+    storyP3: "With an experienced team of chemical industry professionals, we provide end-to-end service from product selection and quality inspection to logistics coordination and after-sales support.",
+    coreValues: "Our Core Values",
+    ourJourney: "Our Journey",
+    certTitle: "Certifications and Quality Assurance",
+    certDesc: "We maintain the highest quality standards through rigorous testing and internationally recognized certifications.",
+  };
+
   return (
     <Layout
-      title="About Sinochemi - Leading Chemical Supplier from China"
-      description="Learn about Sinochemi, a trusted B2B chemical supplier with 15+ years of experience serving 500+ clients in 50+ countries. ISO certified quality management."
+      title={content.title}
+      description={content.description}
       jsonLd={jsonLd}
     >
       {/* Hero */}
@@ -52,9 +117,9 @@ export default function AboutPage() {
           <div className="absolute inset-0 bg-gradient-to-r from-[#0066B3]/90 to-[#0066B3]/60" />
         </div>
         <div className="container mx-auto px-4 relative z-10 text-white">
-          <h1 className="text-3xl md:text-5xl font-bold mb-4">About Sinochemi</h1>
+          <h1 className="text-3xl md:text-5xl font-bold mb-4">{content.heroTitle}</h1>
           <p className="text-lg text-blue-100 max-w-2xl">
-            Your trusted partner in global chemical trade. We connect quality Chinese chemical manufacturers with buyers worldwide.
+            {content.heroDesc}
           </p>
         </div>
       </section>
@@ -81,15 +146,15 @@ export default function AboutPage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl font-bold text-[#1A1A2E] mb-6">Our Story</h2>
+              <h2 className="text-3xl font-bold text-[#1A1A2E] mb-6">{content.ourStory}</h2>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Founded in 2010 in Shandong Province, China, Sinochemi has grown from a small trading company into a leading B2B chemical supplier serving clients across 50+ countries. Our journey has been driven by a commitment to quality, reliability, and customer satisfaction.
+                {content.storyP1}
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
-                We specialize in sourcing and exporting a comprehensive range of industrial chemicals, including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and many more. Our deep relationships with top Chinese manufacturers ensure consistent quality and competitive pricing.
+                {content.storyP2}
               </p>
               <p className="text-gray-700 leading-relaxed">
-                With an experienced team of chemical industry professionals, we provide end-to-end service from product selection and quality inspection to logistics coordination and after-sales support.
+                {content.storyP3}
               </p>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg">
@@ -102,7 +167,7 @@ export default function AboutPage() {
       {/* Core Values */}
       <section className="py-12 md:py-16 bg-[#F5F7FA]">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">Our Core Values</h2>
+          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">{content.coreValues}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {values.map((v, i) => (
               <div key={i} className="bg-white rounded-xl p-6 border border-gray-200 hover:shadow-md transition-shadow">
@@ -118,7 +183,7 @@ export default function AboutPage() {
       {/* Timeline */}
       <section className="py-12 md:py-16">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">Our Journey</h2>
+          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">{content.ourJourney}</h2>
           <div className="max-w-3xl mx-auto">
             {milestones.map((m, i) => (
               <div key={i} className="flex gap-6 mb-8 last:mb-0">
@@ -141,9 +206,9 @@ export default function AboutPage() {
       {/* Certifications */}
       <section className="py-12 md:py-16 bg-[#F5F7FA]">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-4">Certifications and Quality Assurance</h2>
+          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-4">{content.certTitle}</h2>
           <p className="text-gray-600 max-w-2xl mx-auto mb-8">
-            We maintain the highest quality standards through rigorous testing and internationally recognized certifications.
+            {content.certDesc}
           </p>
           <div className="flex flex-wrap justify-center gap-6">
             {["ISO 9001:2015", "ISO 14001", "SGS Verified", "Intertek Certified", "REACH Compliant"].map((cert) => (
