@@ -1,7 +1,6 @@
 import { useState, useMemo } from "react";
 import { Link } from "react-router-dom";
-import { Search, Grid3X3, List, ArrowRight } from "lucide-react";
-import { Input } from "@/components/ui/input";
+import { Grid3X3, List, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { products, productCategories } from "@/data/products";
@@ -26,22 +25,15 @@ const jsonLd = {
 };
 
 export default function ProductsPage() {
-  const [search, setSearch] = useState("");
   const [category, setCategory] = useState("All Products");
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
 
   const filtered = useMemo(() => {
     return products.filter((p) => {
-      const matchSearch =
-        !search.trim() ||
-        p.name.toLowerCase().includes(search.toLowerCase()) ||
-        p.nameCn.includes(search) ||
-        p.cas.includes(search) ||
-        p.shortDescription.toLowerCase().includes(search.toLowerCase());
       const matchCategory = category === "All Products" || p.category === category;
-      return matchSearch && matchCategory;
+      return matchCategory;
     });
-  }, [search, category]);
+  }, [category]);
 
   return (
     <Layout
@@ -63,15 +55,6 @@ export default function ProductsPage() {
         <div className="container mx-auto px-4">
           {/* Filters */}
           <div className="flex flex-col md:flex-row gap-4 mb-8">
-            <div className="relative flex-1 max-w-md">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
-              <Input
-                placeholder="Search by name, CAS number..."
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                className="pl-10"
-              />
-            </div>
             <div className="flex gap-2 flex-wrap">
               {productCategories.map((cat) => (
                 <Button
@@ -155,7 +138,7 @@ export default function ProductsPage() {
           {filtered.length === 0 && (
             <div className="text-center py-16">
               <p className="text-gray-500 text-lg">No products found matching your criteria.</p>
-              <Button variant="outline" className="mt-4" onClick={() => { setSearch(""); setCategory("All Products"); }}>
+              <Button variant="outline" className="mt-4" onClick={() => { setCategory("All Products"); }}>
                 Clear Filters
               </Button>
             </div>
