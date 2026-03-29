@@ -29,7 +29,12 @@ export default async function handler(req: any, res: any) {
           <p>Thank you for your interest in our product: <strong>${product}</strong>.</p>
           <p>As requested, here are the technical documents you need:</p>
           <ul>
-            ${documents.split(', ').map((doc: string) => `<li><strong>${doc}</strong>: <a href="https://sinopeakchem.com/docs/${product.toLowerCase().replace(/\s+/g, '-')}-${doc.toLowerCase()}.pdf">Download ${doc}</a></li>`).join('')}
+            ${documents.split(', ').map((doc: string) => {
+              // Extract product slug from name (consistent with products.ts slugs)
+              const slug = product.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+              const docType = doc.toLowerCase();
+              return `<li><strong>${doc}</strong>: <a href="https://sinopeakchem.com/docs/${slug}-${docType}.pdf">Download ${doc}</a></li>`;
+            }).join('')}
           </ul>
           <p>If you have any further questions or need a formal quote, please don't hesitate to reply to this email.</p>
           <br />
