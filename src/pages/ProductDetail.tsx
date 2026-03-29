@@ -28,6 +28,15 @@ export default function ProductDetailPage() {
   const [docCOA, setDocCOA] = useState(true);
   const [docSubmitted, setDocSubmitted] = useState(false);
   const [docModalOpen, setDocModalOpen] = useState(false);
+  const [activeImageIndex, setActiveImageIndex] = useState(0);
+
+  // Generate image variants: main slug.webp, then slug-1.webp, slug-2.webp, slug-3.webp
+  const productImages = [
+    `/products/${slug}.webp`,
+    `/products/${slug}-1.webp`,
+    `/products/${slug}-2.webp`,
+    `/products/${slug}-3.webp`,
+  ];
 
   if (!product) {
     return (
@@ -169,9 +178,45 @@ export default function ProductDetailPage() {
       <section className="py-8 md:py-12">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
-            {/* Image */}
-            <div className="bg-gray-50 rounded-2xl overflow-hidden aspect-[4/3] border border-gray-100 shadow-sm">
-              <img src={product.image} alt={product.name} className="w-full h-full object-cover" loading="eager" />
+            {/* Image Gallery */}
+            <div className="flex flex-col gap-4">
+              <div className="bg-gray-50 rounded-2xl overflow-hidden aspect-[4/3] border border-gray-100 shadow-sm relative group">
+                <img 
+                  src={activeImageIndex === 0 ? product.image : productImages[activeImageIndex]} 
+                  alt={product.name} 
+                  className="w-full h-full object-contain p-4" 
+                  loading="eager"
+                  onError={(e) => {
+                    // Fallback to default image if extra images are missing
+                    if (activeImageIndex !== 0) {
+                      (e.target as HTMLImageElement).src = product.image;
+                    }
+                  }}
+                />
+              </div>
+              
+              {/* Thumbnails - only show if you intend to upload multiple images */}
+              <div className="grid grid-cols-4 gap-3">
+                {productImages.map((img, idx) => (
+                  <button
+                    key={idx}
+                    onClick={() => setActiveImageIndex(idx)}
+                    className={`aspect-square rounded-lg overflow-hidden border-2 transition-all ${
+                      activeImageIndex === idx ? "border-[#0066B3] ring-2 ring-blue-100" : "border-gray-100 hover:border-gray-300"
+                    }`}
+                  >
+                    <img 
+                      src={idx === 0 ? product.image : img} 
+                      alt={`${product.name} view ${idx + 1}`} 
+                      className="w-full h-full object-cover"
+                      onError={(e) => {
+                        // Hide the thumbnail button if image doesn't exist
+                        (e.target as HTMLImageElement).closest('button')?.classList.add('hidden');
+                      }}
+                    />
+                  </button>
+                ))}
+              </div>
             </div>
 
             {/* Info */}
