@@ -39,7 +39,7 @@ export const products: Product[] = [
     hsCode: "2832300000",
     slug: "sodium-thiosulphate",
     shortDescription: "High-purity sodium thiosulphate (sodium hyposulfite) for industrial, photographic, and water treatment applications.",
-    description: `Sodium Thiosulphate (Na₂S₂O₃), commonly known as Sodium Hyposulfite or "Hypo," is a versatile inorganic compound that serves as a cornerstone in numerous industrial and chemical processes. Our high-purity Sodium Thiosulphate is manufactured using advanced crystallization techniques, ensuring a product that meets the most stringent international quality standards. 
+    description: `[Sodium Thiosulphate](/en/products/sodium-thiosulphate) (Na₂S₂O₃), commonly known as Sodium Hyposulfite or "Hypo," is a versatile inorganic compound that serves as a cornerstone in numerous industrial and chemical processes. Our high-purity [Sodium Thiosulphate](/en/products/sodium-thiosulphate) is manufactured using advanced crystallization techniques, ensuring a product that meets the most stringent international quality standards. 
 
 In the realm of **water treatment**, Sodium Thiosulphate is indispensable for its rapid and effective dechlorination capabilities. It is widely used in municipal water treatment plants, industrial wastewater facilities, and aquaculture to neutralize residual chlorine and chloramines, protecting aquatic life and ensuring water safety for discharge. Its reaction with chlorine is instantaneous, making it a preferred choice for emergency dechlorination and routine maintenance.
 
@@ -94,7 +94,7 @@ As a leading supplier, we ensure our Sodium Thiosulphate (CAS: 7772-98-7) meets 
     hsCode: "2815110000",
     slug: "caustic-soda",
     shortDescription: "Premium caustic soda flakes and pearls for chemical processing, water treatment, and manufacturing industries.",
-    description: `Caustic Soda, chemically known as Sodium Hydroxide (NaOH), is one of the most fundamental and widely used industrial chemicals in the world. Often referred to as "the workhorse of the chemical industry," it is a strong base with exceptional reactivity, making it essential for a vast array of manufacturing and processing applications. We supply premium-grade Caustic Soda in both flake and pearl (prill) forms, characterized by high purity, low impurity levels, and excellent solubility.
+    description: `[Caustic Soda](/en/products/caustic-soda), chemically known as Sodium Hydroxide (NaOH), is one of the most fundamental and widely used industrial chemicals in the world. Often referred to as "the workhorse of the chemical industry," it is a strong base with exceptional reactivity, making it essential for a vast array of manufacturing and processing applications. We supply premium-grade [Caustic Soda](/en/products/caustic-soda) in both flake and pearl (prill) forms, characterized by high purity, low impurity levels, and excellent solubility.
 
 In the **pulp and paper industry**, Caustic Soda is a critical component of the Kraft process used for pulping wood. It helps break down the lignin that binds cellulose fibers together, enabling the production of high-quality paper products. Additionally, it is used in the bleaching process to achieve the desired whiteness and brightness of the final paper.
 
@@ -150,7 +150,7 @@ Our Sodium Hydroxide (CAS: 1310-73-2), classified under HS Code 2815110000, is a
     hsCode: "2917111000",
     slug: "oxalic-acid",
     shortDescription: "High-quality oxalic acid for cleaning, bleaching, rust removal, and industrial chemical processes.",
-    description: `Oxalic Acid (C₂H₂O₄), the simplest dicarboxylic acid, is a powerful organic acid with a wide range of industrial applications. Known for its exceptional reducing and chelating properties, it is a vital chemical in cleaning, bleaching, and specialized chemical synthesis. Our Oxalic Acid is produced to a high purity standard (≥99.6%), appearing as white crystalline granules that are easily soluble in water and ethanol.
+    description: `[Oxalic Acid](/en/products/oxalic-acid) (C₂H₂O₄), the simplest dicarboxylic acid, is a powerful organic acid with a wide range of industrial applications. Known for its exceptional reducing and chelating properties, it is a vital chemical in cleaning, bleaching, and specialized chemical synthesis. Our [Oxalic Acid](/en/products/oxalic-acid) is produced to a high purity standard (≥99.6%), appearing as white crystalline granules that are easily soluble in water and ethanol.
 
 One of the most prominent uses of Oxalic Acid is in **rust removal and metal cleaning**. It effectively reacts with iron oxides to form water-soluble complexes, making it an ideal agent for removing rust stains from metal surfaces, concrete, and stone. It is widely used in the automotive, maritime, and construction industries for surface preparation and restoration.
 
@@ -204,7 +204,7 @@ Due to its acidic and toxic nature, our Oxalic Acid is packaged in secure, label
     hsCode: "2827200000",
     slug: "calcium-chloride",
     shortDescription: "Industrial-grade calcium chloride for de-icing, dust control, oil drilling, and desiccant applications.",
-    description: `Calcium Chloride (CaCl₂) is a highly versatile inorganic salt known for its exceptional hygroscopic properties and its ability to significantly lower the freezing point of water. Available in anhydrous (94%) and dihydrate (74% or 77%) forms, it is an essential chemical for infrastructure maintenance, industrial processing, and resource extraction. Our Calcium Chloride is produced to meet rigorous quality standards, ensuring consistent performance across all applications.
+    description: `[Calcium Chloride](/en/products/calcium-chloride) (CaCl₂) is a highly versatile inorganic salt known for its exceptional hygroscopic properties and its ability to significantly lower the freezing point of water. Available in anhydrous (94%) and dihydrate (74% or 77%) forms, it is an essential chemical for infrastructure maintenance, industrial processing, and resource extraction. Our [Calcium Chloride](/en/products/calcium-chloride) is produced to meet rigorous quality standards, ensuring consistent performance across all applications.
 
 In **road maintenance and safety**, Calcium Chloride is a premier agent for **de-icing and snow melting**. It is more effective than traditional rock salt at lower temperatures, remaining active down to -32°C (-25°F). Its exothermic properties allow it to release heat as it dissolves, accelerating the melting process. Additionally, it is widely used for **dust control** on unpaved roads, construction sites, and mining areas. Its hygroscopic nature allows it to absorb moisture from the air, keeping the surface damp and binding dust particles together, which improves air quality and reduces road maintenance costs.
 
@@ -409,7 +409,7 @@ Our Soda Ash is produced using modern Solvay or natural soda ash processes, ensu
     hsCode: "2918140000",
     slug: "citric-acid-anhydrous",
     shortDescription: "Food and industrial grade citric acid anhydrous for food, beverage, and pharmaceutical applications.",
-    description: `Citric Acid Anhydrous (C₆H₈O₇) is a high-purity, organic acid widely recognized for its exceptional acidifying, flavoring, and chelating properties. It is a vital ingredient in the production of food, beverages, pharmaceuticals, and various industrial materials. Our Citric Acid Anhydrous is manufactured through the fermentation of natural carbohydrates (such as corn or molasses) using advanced biotechnology, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E330).
+    description: `[Citric Acid Anhydrous](/en/products/citric-acid-anhydrous) (C₆H₈O₇) is a high-purity, organic acid widely recognized for its exceptional acidifying, flavoring, and chelating properties. It is a vital ingredient in the production of food, beverages, pharmaceuticals, and various industrial materials. Our [Citric Acid Anhydrous](/en/products/citric-acid-anhydrous) is manufactured through the fermentation of natural carbohydrates (such as corn or molasses) using advanced biotechnology, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E330).
 
 In the **food and beverage industry**, Citric Acid Anhydrous is the most widely used acidulant. It provides a pleasant, tart flavor to a vast array of products, including soft drinks, juices, candies, jams, and jellies. Its high solubility and clean taste make it an ideal choice for these applications. It also acts as a natural preservative by lowering the pH of the product, which inhibits the growth of bacteria and molds. Furthermore, it enhances the activity of antioxidants and helps stabilize the color and flavor of processed foods.
 
@@ -460,7 +460,7 @@ Our Citric Acid Anhydrous is available in various particle sizes (fine, medium, 
     hsCode: "2918140000",
     slug: "citric-acid-monohydrate",
     shortDescription: "High-purity citric acid monohydrate for food processing, beverages, and cleaning applications.",
-    description: `Citric Acid Monohydrate (C₆H₈O₇·H₂O) is a high-purity, organic acid that contains one molecule of water of crystallization. It is widely recognized for its exceptional acidifying, flavoring, and chelating properties, similar to its anhydrous counterpart. Our Citric Acid Monohydrate is manufactured through the fermentation of natural carbohydrates using advanced biotechnology, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E330).
+    description: `[Citric Acid Monohydrate](/en/products/citric-acid-monohydrate) (C₆H₈O₇·H₂O) is a high-purity, organic acid that contains one molecule of water of crystallization. It is widely recognized for its exceptional acidifying, flavoring, and chelating properties, similar to its anhydrous counterpart. Our [Citric Acid Monohydrate](/en/products/citric-acid-monohydrate) is manufactured through the fermentation of natural carbohydrates using advanced biotechnology, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E330).
 
 In the **food and beverage industry**, Citric Acid Monohydrate is a primary acidulant and flavoring agent. It provides a sharp, refreshing tartness to products such as soft drinks, fruit juices, candies, and desserts. Its ability to lower the pH of food products makes it an effective natural preservative, extending the shelf life by inhibiting microbial growth. It also enhances the flavor profile of various processed foods and acts as a stabilizer for colors and vitamins.
 
@@ -509,7 +509,7 @@ Our Citric Acid Monohydrate is available in various particle sizes to meet speci
     hsCode: "2918150000",
     slug: "tri-sodium-citrate",
     shortDescription: "Food and pharmaceutical grade tri-sodium citrate for buffering, emulsifying, and flavoring applications.",
-    description: `Tri-sodium Citrate (Na₃C₆H₅O₇), also known as Sodium Citrate, is a high-purity sodium salt of citric acid. It is widely recognized for its exceptional buffering, sequestering, and flavoring properties. Our Tri-sodium Citrate is manufactured through the neutralization of citric acid with high-purity sodium hydroxide or sodium carbonate, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E331).
+    description: `[Tri-sodium Citrate](/en/products/tri-sodium-citrate) (Na₃C₆H₅O₇), also known as Sodium Citrate, is a high-purity sodium salt of citric acid. It is widely recognized for its exceptional buffering, sequestering, and flavoring properties. Our [Tri-sodium Citrate](/en/products/tri-sodium-citrate) is manufactured through the neutralization of citric acid with high-purity sodium hydroxide or sodium carbonate, ensuring a product that meets the most stringent international quality standards (BP/USP/FCC/E331).
 
 In the **food and beverage industry**, Tri-sodium Citrate is a versatile additive (E331). It is primarily used as a **buffering agent** to control the pH of various products, such as soft drinks, energy drinks, and gelatin desserts. It provides a mild, salty-tart flavor and enhances the overall taste profile. As a **sequestering agent**, it binds with calcium ions in milk and dairy products, preventing the coagulation of proteins and ensuring a smooth, consistent texture in processed cheeses, evaporated milk, and ice cream. It also acts as an emulsifier and stabilizer in various processed foods.
 
@@ -558,7 +558,7 @@ Our Tri-sodium Citrate is available in various particle sizes (fine and granular
     hsCode: "2835291000",
     slug: "trisodium-phosphate",
     shortDescription: "Industrial trisodium phosphate for cleaning, water treatment, and food processing applications.",
-    description: `Trisodium Phosphate (TSP, Na₃PO₄), also known as Sodium Phosphate Tribasic, is a high-performance inorganic salt widely recognized for its exceptional cleaning, degreasing, and buffering capabilities. It is a vital ingredient in the production of heavy-duty cleaning agents, industrial degreasers, and various chemical products. Our TSP is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
+    description: `[Trisodium Phosphate](/en/products/trisodium-phosphate) (TSP, Na₃PO₄), also known as Sodium Phosphate Tribasic, is a high-performance inorganic salt widely recognized for its exceptional cleaning, degreasing, and buffering capabilities. It is a vital ingredient in the production of heavy-duty cleaning agents, industrial degreasers, and various chemical products. Our TSP is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
 
 In the **cleaning and degreasing industry**, TSP is a primary "heavy-duty cleaner." It is highly effective at removing grease, oil, wax, and other organic deposits from a wide range of surfaces, including metal, concrete, and wood. Its high alkalinity (pH 12 in a 1% solution) makes it an ideal choice for cleaning industrial equipment, floors, and walls. It is also used as a "paint stripper" or "surface preparer" before painting, as it helps to etch the surface and improve paint adhesion.
 
@@ -608,11 +608,11 @@ Our TSP is available in various forms, including anhydrous and dodecahydrate (Na
     hsCode: "3102210000",
     slug: "ammonium-sulphate",
     shortDescription: "Agricultural and industrial grade ammonium sulphate fertilizer and chemical intermediate.",
-    description: `Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
+    description: `[Ammonium Sulphate](/en/products/ammonium-sulphate) ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our [Ammonium Sulphate](/en/products/ammonium-sulphate) is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
 
 In the **agricultural industry**, Ammonium Sulphate is a primary "nitrogen-sulfur fertilizer." It provides a readily available source of nitrogen (21%) and sulfur (24%) to crops, promoting healthy growth and increasing yields. Its high sulfur content makes it particularly effective for sulfur-deficient soils and for crops that require high levels of sulfur, such as oilseeds, legumes, and vegetables. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
 
-The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the production of various other ammonium salts, such as ammonium persulfate and ammonium chloride. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
+The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the production of various other ammonium salts, such as ammonium persulfate and [ammonium chloride](/en/products/ammonium-chloride). It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
 
 In **food processing**, food-grade Ammonium Sulphate is used as a **dough conditioner** and **yeast nutrient** in the baking industry. It helps to improve the texture and volume of bread and other baked goods. It also acts as a **pH regulator** and **stabilizer** in various processed foods.
 
@@ -658,7 +658,7 @@ Our Ammonium Sulphate is available in various grades, including agricultural gra
     hsCode: "2835399000",
     slug: "sodium-hexametaphosphate",
     shortDescription: "High-quality sodium hexametaphosphate for water treatment, food processing, and industrial applications.",
-    description: `Sodium Hexametaphosphate (SHMP, (NaPO₃)₆) is a high-performance polyphosphate widely recognized for its exceptional sequestering, buffering, and dispersing capabilities. It is a vital ingredient in the production of cleaning agents, food products, and various industrial materials. Our SHMP is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
+    description: `[Sodium Hexametaphosphate](/en/products/sodium-hexametaphosphate) (SHMP, (NaPO₃)₆) is a high-performance polyphosphate widely recognized for its exceptional sequestering, buffering, and dispersing capabilities. It is a vital ingredient in the production of cleaning agents, food products, and various industrial materials. Our SHMP is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
 
 In the **water treatment industry**, SHMP is a primary "sequestrant" and "scale inhibitor." It works by binding with calcium and magnesium ions in hard water, preventing them from forming insoluble scale in pipes, boilers, and heat exchangers. This helps to improve the efficiency of water systems and reduce maintenance costs. It is also used as a **dispersing agent** to prevent the settling of solids in water treatment processes.
 
@@ -708,13 +708,13 @@ Our SHMP is available in various forms, including powder and glassy flakes, to m
     hsCode: "2832100000",
     slug: "sodium-metabisulphite",
     shortDescription: "Food and industrial grade sodium metabisulphite for preservation, bleaching, and water treatment.",
-    description: `Sodium Metabisulphite (Na₂S₂O₅) is a high-performance inorganic salt widely recognized for its exceptional antioxidant, preservative, and reducing capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our Sodium Metabisulphite is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
+    description: `[Sodium Metabisulphite](/en/products/sodium-metabisulphite) (Na₂S₂O₅) is a high-performance inorganic salt widely recognized for its exceptional antioxidant, preservative, and reducing capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our [Sodium Metabisulphite](/en/products/sodium-metabisulphite) is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
 
 In the **food industry**, Sodium Metabisulphite is a primary "preservative" and "antioxidant" (E223). It works by releasing sulfur dioxide (SO₂), which inhibits the growth of bacteria, yeasts, and molds, extending the shelf life of various products. It is widely used in the preservation of dried fruits, vegetables, fruit juices, and wines. It also helps to prevent the browning of fruits and vegetables by inhibiting the action of enzymes.
 
 The **industrial sector** utilizes Sodium Metabisulphite as a versatile **reducing agent**. It is used in the **textile industry** for bleaching wool and other natural fibers and for removing excess chlorine after bleaching processes. In the **pulp and paper industry**, it is used as a bleaching assistant and for the production of wood pulp. In **water treatment**, it is used as a dechlorination agent to remove residual chlorine from treated water.
 
-In **mining and metallurgy**, Sodium Metabisulphite is used as a **flotation agent** for the separation of various minerals and for the recovery of precious metals. It is also employed in the **chemical industry** as a raw material for the production of various other sulfur-based chemicals, such as sodium thiosulphate and sodium sulfite.
+In **mining and metallurgy**, Sodium Metabisulphite is used as a **flotation agent** for the separation of various minerals and for the recovery of precious metals. It is also employed in the **chemical industry** as a raw material for the production of various other sulfur-based chemicals, such as [sodium thiosulphate](/en/products/sodium-thiosulphate) and [sodium sulfite](/en/products/sodium-sulfite).
 
 The **pharmaceutical industry** employs Sodium Metabisulphite as an **antioxidant** and **stabilizer** in various medications and as a component in various pharmaceutical formulations. It is also used in **photography** as a component in developing and fixing solutions.
 
@@ -758,7 +758,7 @@ Our Sodium Metabisulphite is available in various grades, including food grade a
     hsCode: "2832100000",
     slug: "sodium-sulfite",
     shortDescription: "Industrial sodium sulfite for water treatment, pulp and paper, and chemical processing.",
-    description: `Sodium Sulfite (Na₂SO₃) is a high-performance inorganic salt widely recognized for its exceptional reducing, antioxidant, and oxygen-scavenging capabilities. It is a vital ingredient in the production of industrial chemicals, food products, and various other materials. Our Sodium Sulfite is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
+    description: `[Sodium Sulfite](/en/products/sodium-sulfite) (Na₂SO₃) is a high-performance inorganic salt widely recognized for its exceptional reducing, antioxidant, and oxygen-scavenging capabilities. It is a vital ingredient in the production of industrial chemicals, food products, and various other materials. Our [Sodium Sulfite](/en/products/sodium-sulfite) is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
 
 In the **water treatment industry**, Sodium Sulfite is a primary "oxygen scavenger." It works by reacting with dissolved oxygen in water to form sodium sulfate, preventing the corrosion of pipes, boilers, and heat exchangers. This is particularly important in high-pressure boiler systems, where even small amounts of dissolved oxygen can cause significant damage. It is also used as a **dechlorination agent** to remove residual chlorine from treated water.
 
@@ -766,7 +766,7 @@ The **pulp and paper industry** utilizes Sodium Sulfite as a **bleaching assista
 
 In **food processing**, food-grade Sodium Sulfite is used as a **preservative** and **antioxidant** (E221). It helps to prevent the spoilage and browning of various products, such as dried fruits, vegetables, and fruit juices. It also acts as a **stabilizer** for colors and flavors in these products.
 
-The **chemical industry** employs Sodium Sulfite as a raw material for the production of various other sulfur-based chemicals, such as sodium thiosulphate and sodium metabisulphite. It is also used in **photography** as a component in developing and fixing solutions and in **metallurgy** for the refining of various metals.
+The **chemical industry** employs Sodium Sulfite as a raw material for the production of various other sulfur-based chemicals, such as [sodium thiosulphate](/en/products/sodium-thiosulphate) and [sodium metabisulphite](/en/products/sodium-metabisulphite). It is also used in **photography** as a component in developing and fixing solutions and in **metallurgy** for the refining of various metals.
 
 Furthermore, Sodium Sulfite finds applications in **leather tanning** as a reducing agent and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
 
@@ -858,7 +858,7 @@ Our Sodium Bicarbonate is available in various grades, including food grade (FCC
     hsCode: "2915291000",
     slug: "sodium-acetate-anhydrous",
     shortDescription: "High-purity sodium acetate anhydrous for textile dyeing, food, and chemical synthesis.",
-    description: `Sodium Acetate Anhydrous (CH₃COONa) is a high-purity, inorganic salt widely recognized for its exceptional buffering, seasoning, and chemical intermediate capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our Sodium Acetate Anhydrous is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
+    description: `[Sodium Acetate Anhydrous](/en/products/sodium-acetate-anhydrous) (CH₃COONa) is a high-purity, inorganic salt widely recognized for its exceptional buffering, seasoning, and chemical intermediate capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our [Sodium Acetate Anhydrous](/en/products/sodium-acetate-anhydrous) is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
 
 In the **food industry**, Sodium Acetate Anhydrous is a primary "seasoning" and "preservative" (E262i). It provides a mild, salty-tart flavor to various products, such as potato chips, snacks, and seasonings. It also acts as a **buffering agent** to control the pH of various processed foods and beverages, ensuring a consistent taste and texture. Its antimicrobial properties help to extend the shelf life of these products by inhibiting the growth of bacteria and molds.
 
@@ -908,7 +908,7 @@ Our Sodium Acetate Anhydrous is available in various grades, including food grad
     hsCode: "2827101000",
     slug: "ammonium-chloride",
     shortDescription: "Industrial and agricultural grade ammonium chloride for fertilizer, electroplating, and flux applications.",
-    description: `Ammonium Chloride (NH₄Cl) is a high-performance inorganic salt widely recognized for its exceptional nitrogen content and its ability to act as a flux and chemical intermediate. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our Ammonium Chloride is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
+    description: `[Ammonium Chloride](/en/products/ammonium-chloride) (NH₄Cl) is a high-performance inorganic salt widely recognized for its exceptional nitrogen content and its ability to act as a flux and chemical intermediate. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our [Ammonium Chloride](/en/products/ammonium-chloride) is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
 
 In the **agricultural industry**, Ammonium Chloride is a primary "nitrogen fertilizer." It provides a readily available source of nitrogen (25%) to crops, promoting healthy growth and increasing yields. It is particularly effective for crops that are tolerant of chloride, such as rice, wheat, and corn. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
 
@@ -1008,13 +1008,13 @@ Our PAC is available in various grades, including drinking water grade and indus
     hsCode: "2832100000",
     slug: "sodium-bisulfite",
     shortDescription: "Industrial sodium bisulfite for water treatment, food preservation, and chemical processing.",
-    description: `Sodium Bisulfite (NaHSO₃) is a high-performance inorganic salt widely recognized for its exceptional reducing, antioxidant, and preservative capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our Sodium Bisulfite is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
+    description: `[Sodium Bisulfite](/en/products/sodium-bisulfite) (NaHSO₃) is a high-performance inorganic salt widely recognized for its exceptional reducing, antioxidant, and preservative capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our [Sodium Bisulfite](/en/products/sodium-bisulfite) is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
 
 In the **food industry**, Sodium Bisulfite is a primary "preservative" and "antioxidant" (E222). It works by releasing sulfur dioxide (SO₂), which inhibits the growth of bacteria, yeasts, and molds, extending the shelf life of various products. It is widely used in the preservation of dried fruits, vegetables, fruit juices, and wines. It also helps to prevent the browning of fruits and vegetables by inhibiting the action of enzymes.
 
 The **industrial sector** utilizes Sodium Bisulfite as a versatile **reducing agent**. It is used in the **textile industry** for bleaching wool and other natural fibers and for removing excess chlorine after bleaching processes. In the **pulp and paper industry**, it is used as a bleaching assistant and for the production of wood pulp. In **water treatment**, it is used as a dechlorination agent to remove residual chlorine from treated water.
 
-In **mining and metallurgy**, Sodium Bisulfite is used as a **flotation agent** for the separation of various minerals and for the recovery of precious metals. It is also employed in the **chemical industry** as a raw material for the production of various other sulfur-based chemicals, such as sodium thiosulphate and sodium sulfite.
+In **mining and metallurgy**, Sodium Bisulfite is used as a **flotation agent** for the separation of various minerals and for the recovery of precious metals. It is also employed in the **chemical industry** as a raw material for the production of various other sulfur-based chemicals, such as [sodium thiosulphate](/en/products/sodium-thiosulphate) and [sodium sulfite](/en/products/sodium-sulfite).
 
 The **pharmaceutical industry** employs Sodium Bisulfite as an **antioxidant** and **stabilizer** in various medications and as a component in various pharmaceutical formulations. It is also used in **photography** as a component in developing and fixing solutions.
 
@@ -1058,7 +1058,7 @@ Our Sodium Bisulfite is available in various grades, including food grade and in
     hsCode: "2840190000",
     slug: "borax",
     shortDescription: "Industrial borax for glass manufacturing, ceramics, detergents, and metallurgical applications.",
-    description: `Borax (Na₂B₄O₇·10H₂O), also known as Sodium Borate, is a high-performance inorganic salt widely recognized for its exceptional cleaning, buffering, and fluxing capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our Borax is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
+    description: `[Borax](/en/products/borax) (Na₂B₄O₇·10H₂O), also known as Sodium Borate, is a high-performance inorganic salt widely recognized for its exceptional cleaning, buffering, and fluxing capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our [Borax](/en/products/borax) is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
 
 In the **cleaning and detergent industry**, Borax is a primary "cleaning booster" and "water softener." It works by sequestering calcium and magnesium ions in hard water, preventing them from interfering with the action of surfactants. This ensures that detergents can work effectively even in challenging water conditions, improving the overall cleaning power. It is also used as a **buffering agent** to control the pH of various cleaning formulations and as a **deodorizing agent** to remove odors from various surfaces.
 
@@ -1108,7 +1108,7 @@ Our Borax is available in various forms, including decahydrate and pentahydrate,
     hsCode: "2811199090",
     slug: "sulfamic-acid",
     shortDescription: "High-purity sulfamic acid for descaling, cleaning, and electroplating applications.",
-    description: `Sulfamic Acid (H₃NSO₃) is a high-performance inorganic acid widely recognized for its exceptional cleaning, descaling, and chemical intermediate capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our Sulfamic Acid is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
+    description: `[Sulfamic Acid](/en/products/sulfamic-acid) (H₃NSO₃) is a high-performance inorganic acid widely recognized for its exceptional cleaning, descaling, and chemical intermediate capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our [Sulfamic Acid](/en/products/sulfamic-acid) is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
 
 In the **cleaning and descaling industry**, Sulfamic Acid is a primary "descaling agent." It is highly effective at removing calcium and magnesium scale, rust, and other mineral deposits from a wide range of surfaces, including boilers, heat exchangers, and piping systems. Its high acidity (pH 1.2 in a 1% solution) and low corrosivity compared to other strong acids make it an ideal choice for cleaning industrial equipment and household appliances. It is also used as a **cleaning agent** for ceramic tiles and grout.
 
