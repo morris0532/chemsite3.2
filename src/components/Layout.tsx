@@ -151,11 +151,11 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16 md:h-20">
             {/* Logo */}
-            <Link to={langPrefix} className="flex items-center gap-2 flex-shrink-0">
-              <img src="/logo.png" alt="Sinopeakchem Logo" className="w-10 h-10 object-contain rounded-lg" />
-              <div>
-                <span className="text-xl font-bold text-[#0066B3]">Sinopeakchem</span>
-                <span className="hidden sm:block text-[10px] text-gray-500 -mt-1">Global Chemical Supplier</span>
+            <Link to={langPrefix} className="flex items-center gap-3 flex-shrink-0">
+              <img src="/logo.png" alt="Sinopeakchem Logo" className="w-12 h-12 md:w-14 md:h-14 object-contain rounded-lg" />
+              <div className="flex flex-col">
+                <span className="text-xl md:text-2xl font-bold text-[#0066B3] leading-tight">Sinopeakchem</span>
+                <span className="hidden sm:block text-[10px] md:text-xs text-gray-500 font-medium">Global Chemical Supplier</span>
               </div>
             </Link>
 
@@ -251,9 +251,9 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Company Info */}
             <div>
-              <div className="flex items-center gap-2 mb-4">
-                <img src="/logo.png" alt="Sinopeakchem Logo" className="w-8 h-8 object-contain rounded-lg" />
-                <span className="text-lg font-bold text-white">Sinopeakchem</span>
+              <div className="flex items-center gap-3 mb-6">
+                <img src="/logo.png" alt="Sinopeakchem Logo" className="w-10 h-10 object-contain rounded-lg" />
+                <span className="text-xl font-bold text-white">Sinopeakchem</span>
               </div>
               <p className="text-sm text-gray-400 mb-4">
                 Your trusted global chemical supplier. We provide high-quality industrial chemicals with competitive pricing and reliable shipping worldwide.
