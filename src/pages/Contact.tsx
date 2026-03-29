@@ -43,23 +43,32 @@ export default function ContactPage() {
     e.preventDefault();
     setSubmitting(true);
     try {
-      await fetch("https://formspree.io/f/xpwdgqkl", {
+      const response = await fetch("/api/send-email", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          ...formData,
-          _subject: `New Inquiry from ${formData.name} - ${formData.company || "N/A"}`,
+          name: formData.name,
+          email: formData.email,
+          subject: `New Inquiry from ${formData.company || "N/A"}`,
+          message: formData.message,
         }),
       });
-    } catch {
-      // silent fail
-    }
-    setSubmitting(false);
-    setSubmitted(true);
-    setTimeout(() => {
-      setSubmitted(false);
+      
+      if (!response.ok) {
+        throw new Error("Failed to send email");
+      }
+      
+      setSubmitted(true);
       setFormData({ name: "", email: "", company: "", message: "" });
-    }, 5000);
+      setTimeout(() => {
+        setSubmitted(false);
+      }, 5000);
+    } catch (error) {
+      console.error("Error submitting form:", error);
+      // Fallback or alert can be added here
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
