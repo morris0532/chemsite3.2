@@ -1,178 +1,458 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sinochemi.com/</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru" />
   </url>
   <url>
     <loc>https://sinochemi.com/en</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/about</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/about" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/contact</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/contact" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/about</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/about" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/blog</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/blog" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/contact</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/contact" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-thiosulphate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-thiosulphate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/caustic-soda</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/caustic-soda" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/oxalic-acid</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/oxalic-acid" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/calcium-chloride</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/calcium-chloride" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-tripolyphosphate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-tripolyphosphate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-sulfate-anhydrous</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-sulfate-anhydrous" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/soda-ash</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/soda-ash" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/citric-acid-anhydrous</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/citric-acid-anhydrous" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/citric-acid-monohydrate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/citric-acid-monohydrate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/tri-sodium-citrate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/tri-sodium-citrate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/trisodium-phosphate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/trisodium-phosphate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/ammonium-sulphate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/ammonium-sulphate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-hexametaphosphate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-hexametaphosphate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-metabisulphite</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-metabisulphite" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-sulfite</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-sulfite" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-bicarbonate</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-bicarbonate" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-acetate-anhydrous</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-acetate-anhydrous" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/ammonium-chloride</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/ammonium-chloride" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/polyaluminum-chloride</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/polyaluminum-chloride" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sodium-bisulfite</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sodium-bisulfite" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/borax</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/borax" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/products/sulfamic-acid</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/products/sulfamic-acid" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/how-to-choose-the-right-chem-supplier-from-china</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/how-to-choose-the-right-chem-supplier-from-china" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/complete-guide-sodium-thiosulphate-applications</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/complete-guide-sodium-thiosulphate-applications" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/how-to-choose-right-caustic-soda-grade</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/how-to-choose-right-caustic-soda-grade" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/global-chemical-shipping-guide-2026</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/global-chemical-shipping-guide-2026" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/water-treatment-chemicals-comparison</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/water-treatment-chemicals-comparison" />
   </url>
   <url>
     <loc>https://sinochemi.com/en/blog/oxalic-acid-industrial-applications</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinochemi.com/ru/blog/oxalic-acid-industrial-applications" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-thiosulphate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-thiosulphate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/caustic-soda</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/caustic-soda" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/oxalic-acid</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/oxalic-acid" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/calcium-chloride</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/calcium-chloride" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-tripolyphosphate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-tripolyphosphate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/aluminium-sulphate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/aluminium-sulphate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/citric-acid</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/citric-acid" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-citrate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-citrate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/glacial-acetic-acid</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/glacial-acetic-acid" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-acetate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-acetate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/calcium-hypochlorite</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/calcium-hypochlorite" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/poly-aluminium-chloride</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/poly-aluminium-chloride" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/polyacrylamide</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/polyacrylamide" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/borax-decahydrate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/borax-decahydrate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/boric-acid</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/boric-acid" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/formic-acid</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/formic-acid" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-isopropyl-xanthate</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-isopropyl-xanthate" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-metabisulphite</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-metabisulphite" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-sulphide</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-sulphide" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/sodium-hydrosulphide</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/sodium-hydrosulphide" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/lithopone</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/lithopone" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/products/zinc-oxide</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/products/zinc-oxide" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/blog/tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/blog/tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/blog/how-to-choose-the-right-chem-supplier-from-china</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/blog/how-to-choose-the-right-chem-supplier-from-china" />
+  </url>
+  <url>
+    <loc>https://sinochemi.com/ru/blog/complete-guide-sodium-thiosulphate-applications</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinochemi.com/en/blog/complete-guide-sodium-thiosulphate-applications" />
   </url>
 </urlset>
