@@ -1,4 +1,6 @@
 import { Resend } from 'resend';
+import fs from 'fs';
+import path from 'path';
 
 // Vercel Serverless Function
 export default async function handler(req: any, res: any) {
@@ -18,6 +20,20 @@ export default async function handler(req: any, res: any) {
 
   try {
     if (type === 'doc_request') {
+      const docList = documents.split(', ');
+      const slug = product.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      
+      // Check which files exist on server
+      const docsWithStatus = docList.map((doc: string) => {
+        const docType = doc.toLowerCase();
+        const fileName = `${slug}-${docType}.pdf`;
+        const filePath = path.join(process.cwd(), 'public', 'docs', fileName);
+        const exists = fs.existsSync(filePath);
+        return { name: doc, fileName, exists, url: `https://sinopeakchem.com/docs/${fileName}` };
+      });
+
+      const missingDocs = docsWithStatus.filter((d: any) => !d.exists);
+
       // 1. Send to Customer
       await resend.emails.send({
         from: 'Sinopeakchem <onboarding@resend.dev>',
@@ -29,13 +45,15 @@ export default async function handler(req: any, res: any) {
           <p>Thank you for your interest in our product: <strong>${product}</strong>.</p>
           <p>As requested, here are the technical documents you need:</p>
           <ul>
-            ${documents.split(', ').map((doc: string) => {
-              // Extract product slug from name (consistent with products.ts slugs)
-              const slug = product.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-              const docType = doc.toLowerCase();
-              return `<li><strong>${doc}</strong>: <a href="https://sinopeakchem.com/docs/${slug}-${docType}.pdf">Download ${doc}</a></li>`;
+            ${docsWithStatus.map((doc: any) => {
+              if (doc.exists) {
+                return `<li><strong>${doc.name}</strong>: <a href="${doc.url}">Download ${doc.name}</a></li>`;
+              } else {
+                return `<li><strong>${doc.name}</strong>: <span style="color: #e53e3e;">Currently being updated. Our team will send it to you manually shortly.</span></li>`;
+              }
             }).join('')}
           </ul>
+          ${missingDocs.length > 0 ? `<p><em>Note: Some documents are undergoing final review and will be sent to you by our technical team within 24 hours.</em></p>` : ''}
           <p>If you have any further questions or need a formal quote, please don't hesitate to reply to this email.</p>
           <br />
           <p>Best Regards,</p>
@@ -47,9 +65,14 @@ export default async function handler(req: any, res: any) {
       const data = await resend.emails.send({
         from: 'Sinopeakchem System <onboarding@resend.dev>',
         to: 'info@sinopeakchem.com',
-        subject: `[Lead] Document Request: ${product} from ${name || email}`,
+        subject: `${missingDocs.length > 0 ? '[URGENT - DOC MISSING] ' : '[Lead] '}Document Request: ${product} from ${name || email}`,
         html: `
           <h2>New Document Request (Lead)</h2>
+          ${missingDocs.length > 0 ? `<div style="padding: 15px; background-color: #fff5f5; border: 1px solid #feb2b2; color: #c53030; margin-bottom: 20px;">
+            <strong>ATTENTION:</strong> The following documents were MISSING and NOT sent to the customer:
+            <ul>${missingDocs.map((d: any) => `<li>${d.name} (${d.fileName})</li>`).join('')}</ul>
+            Please reply to the customer (${email}) manually with the requested files.
+          </div>` : ''}
           <p><strong>Product:</strong> ${product}</p>
           <p><strong>Name:</strong> ${name || 'N/A'}</p>
           <p><strong>Email:</strong> ${email}</p>
