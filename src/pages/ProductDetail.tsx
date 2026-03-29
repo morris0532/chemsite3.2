@@ -74,19 +74,23 @@ export default function ProductDetailPage() {
   const handleDocSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      await fetch("https://formspree.io/f/xpwdgqkl", {
+      const response = await fetch("/api/send-email", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
+          type: 'doc_request',
           email: docEmail,
           company: docCompany,
           product: product.name,
           documents: [docMSDS && "MSDS", docCOA && "COA"].filter(Boolean).join(", "),
-          _subject: `Document Request: ${product.name}`,
         }),
       });
-    } catch {
-      // silent fail
+      
+      if (!response.ok) {
+        throw new Error("Failed to send document request");
+      }
+    } catch (error) {
+      console.error("Error submitting document request:", error);
     }
     setDocSubmitted(true);
     setTimeout(() => {
