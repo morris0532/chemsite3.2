@@ -13,10 +13,10 @@ const SHIP_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/202
 const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Sinochemi",
-  url: "https://sinochemi.com",
-  logo: "https://sinochemi.com/logo.png",
-  description: "Sinochemi is a leading B2B chemical supplier from China, offering high-quality industrial chemicals with global shipping.",
+  name: "Sinopeakchem",
+  url: "https://sinopeakchem.com",
+  logo: "https://sinopeakchem.com/logo.png",
+  description: "Sinopeakchem is a leading B2B chemical supplier from China, offering high-quality industrial chemicals with global shipping.",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+86-13583262050",
@@ -28,7 +28,7 @@ const jsonLdEn = {
 
 const jsonLdRu = {
   ...jsonLdEn,
-  description: "Sinochemi - ведущий поставщик химикатов B2B из Китая, предлагающий высококачественные промышленные химикаты с глобальной доставкой.",
+  description: "Sinopeakchem - ведущий поставщик химикатов B2B из Китая, предлагающий высококачественные промышленные химикаты с глобальной доставкой.",
   contactPoint: {
     ...jsonLdEn.contactPoint,
     availableLanguage: ["English", "Chinese", "Russian"],
@@ -66,10 +66,10 @@ export default function HomePage() {
   const content = isRu ? {
     heroBadge: "Нам доверяют покупатели в 50+ странах",
     heroTitle: "Ваш надежный партнер по поставкам <span class=\"text-blue-200\">химикатов</span>",
-    heroDesc: "Sinochemi поставляет промышленные химикаты премиум-класса по всему миру. От тиосульфата натрия до каустической соды — мы обеспечиваем качество и надежную логистику.",
+    heroDesc: "Sinopeakchem поставляет промышленные химикаты премиум-класса по всему миру. От тиосульфата натрия до каустической соды — мы обеспечиваем качество и надежную логистику.",
     viewProducts: "Посмотреть продукты",
     getQuote: "Запросить цену",
-    whyChoose: "Почему выбирают Sinochemi?",
+    whyChoose: "Почему выбирают Sinopeakchem?",
     whyChooseDesc: "Мы сочетаем качественную продукцию, конкурентоспособные цены и надежную логистику для обслуживания покупателей химикатов по всему миру.",
     featuredTitle: "Популярные продукты",
     featuredDesc: "Наши самые популярные промышленные химикаты, которым доверяют покупатели во всем мире",
@@ -83,10 +83,10 @@ export default function HomePage() {
   } : {
     heroBadge: "Trusted by buyers in 50+ countries",
     heroTitle: "Your Reliable <span class=\"text-blue-200\">Chemical</span> Supply Partner",
-    heroDesc: "Sinochemi delivers premium industrial chemicals worldwide. From sodium thiosulphate to caustic soda, we provide quality products with competitive pricing and dependable logistics.",
+    heroDesc: "Sinopeakchem delivers premium industrial chemicals worldwide. From sodium thiosulphate to caustic soda, we provide quality products with competitive pricing and dependable logistics.",
     viewProducts: "View Products",
     getQuote: "Get a Quote",
-    whyChoose: "Why Choose Sinochemi?",
+    whyChoose: "Why Choose Sinopeakchem?",
     whyChooseDesc: "We combine quality products, competitive pricing, and reliable logistics to serve chemical buyers worldwide.",
     featuredTitle: "Featured Products",
     featuredDesc: "Our most popular industrial chemicals trusted by buyers worldwide",
@@ -103,14 +103,14 @@ export default function HomePage() {
     <Layout
       title={isRu ? "Глобальный поставщик химикатов | Промышленные химикаты из Китая" : "Global Chemical Supplier | Industrial Chemicals from China"}
       description={isRu 
-        ? "Sinochemi - ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката, включая тиосульфат натрия, каустическую соду, щавелевую кислоту. Глобальная доставка из Китая."
-        : "Sinochemi is a leading B2B chemical supplier offering 22+ high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid. Global shipping from China."}
+        ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката, включая тиосульфат натрия, каустическую соду, щавелевую кислоту. Глобальная доставка из Китая."
+        : "Sinopeakchem is a leading B2B chemical supplier offering 22+ high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid. Global shipping from China."}
       jsonLd={jsonLd}
     >
       {/* Hero Section */}
       <section className="relative min-h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinochemi Chemical Manufacturing Plant" className="w-full h-full object-cover" />
+          <img src={HERO_IMG} alt="Sinopeakchem Chemical Manufacturing Plant" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0066B3]/90 via-[#0066B3]/70 to-transparent" />
         </div>
         <div className="container mx-auto px-4 relative z-10 py-20">

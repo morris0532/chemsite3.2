@@ -8,9 +8,9 @@ const HERO_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/202
 const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Sinochemi",
-  url: "https://sinochemi.com",
-  description: "Sinochemi is a leading B2B chemical supplier from China with years of experience in international chemical trade.",
+  name: "Sinopeakchem",
+  url: "https://sinopeakchem.com",
+  description: "Sinopeakchem is a leading B2B chemical supplier from China with years of experience in international chemical trade.",
   foundingDate: "2010",
   numberOfEmployees: { "@type": "QuantitativeValue", value: "50+" },
   address: { "@type": "PostalAddress", addressRegion: "Shandong", addressCountry: "CN" },
@@ -18,11 +18,11 @@ const jsonLdEn = {
 
 const jsonLdRu = {
   ...jsonLdEn,
-  description: "Sinochemi - ведущий поставщик химикатов B2B из Китая с многолетним опытом международной торговли химикатами.",
+  description: "Sinopeakchem - ведущий поставщик химикатов B2B из Китая с многолетним опытом международной торговли химикатами.",
 };
 
 const milestonesEn = [
-  { year: "2010", title: "Company Founded", desc: "Sinochemi established in Shandong Province, China, focusing on chemical export trade." },
+  { year: "2010", title: "Company Founded", desc: "Sinopeakchem established in Shandong Province, China, focusing on chemical export trade." },
   { year: "2013", title: "Global Expansion", desc: "Expanded export operations to Southeast Asia, Middle East, and Africa." },
   { year: "2016", title: "Product Diversification", desc: "Grew product portfolio to 15+ chemical products across multiple categories." },
   { year: "2019", title: "Quality Certification", desc: "Achieved ISO 9001 quality management system certification." },
@@ -31,7 +31,7 @@ const milestonesEn = [
 ];
 
 const milestonesRu = [
-  { year: "2010", title: "Основание компании", desc: "Компания Sinochemi основана в провинции Шаньдун, Китай, с упором на экспортную торговлю химикатами." },
+  { year: "2010", title: "Основание компании", desc: "Компания Sinopeakchem основана в провинции Шаньдун, Китай, с упором на экспортную торговлю химикатами." },
   { year: "2013", title: "Глобальное расширение", desc: "Расширение экспортных операций в Юго-Восточную Азию, Ближний Восток и Африку." },
   { year: "2016", title: "Диверсификация продукции", desc: "Портфель продукции вырос до 15+ химических продуктов в нескольких категориях." },
   { year: "2019", title: "Сертификация качества", desc: "Получен сертификат системы менеджмента качества ISO 9001." },
@@ -77,12 +77,12 @@ export default function AboutPage() {
   const jsonLd = isRu ? jsonLdRu : jsonLdEn;
 
   const content = isRu ? {
-    title: "О Sinochemi - Ведущий поставщик химикатов из Китая",
-    description: "Узнайте о Sinochemi, надежном поставщике химикатов B2B с 15-летним опытом обслуживания 500+ клиентов в 50+ странах. Сертифицированное качество ISO.",
-    heroTitle: "О Sinochemi",
+    title: "О Sinopeakchem - Ведущий поставщик химикатов из Китая",
+    description: "Узнайте о Sinopeakchem, надежном поставщике химикатов B2B с 15-летним опытом обслуживания 500+ клиентов в 50+ странах. Сертифицированное качество ISO.",
+    heroTitle: "О Sinopeakchem",
     heroDesc: "Ваш надежный партнер в глобальной торговле химикатами. Мы соединяем качественных китайских производителей химикатов с покупателями по всему миру.",
     ourStory: "Наша история",
-    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinochemi выросла из небольшой торговой компании в ведущего поставщика химикатов B2B, обслуживающего клиентов в 50+ странах. Наш путь был продиктован стремлением к качеству, надежности и удовлетворенности клиентов.",
+    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinopeakchem выросла из небольшой торговой компании в ведущего поставщика химикатов B2B, обслуживающего клиентов в 50+ странах. Наш путь был продиктован стремлением к качеству, надежности и удовлетворенности клиентов.",
     storyP2: "Мы специализируемся на поиске и экспорте широкого спектра промышленных химикатов, включая тиосульфат натрия, каустическую соду, щавелевую кислоту, хлорид кальция и многие другие. Наши глубокие отношения с ведущими китайскими производителями обеспечивают стабильное качество и конкурентоспособные цены.",
     storyP3: "Благодаря опытной команде профессионалов химической промышленности мы предоставляем полный спектр услуг: от выбора продукции и проверки качества до координации логистики и послепродажной поддержки.",
     coreValues: "Наши основные ценности",
@@ -90,12 +90,12 @@ export default function AboutPage() {
     certTitle: "Сертификация и гарантия качества",
     certDesc: "Мы поддерживаем самые высокие стандарты качества посредством строгих испытаний и международно признанных сертификатов.",
   } : {
-    title: "About Sinochemi - Leading Chemical Supplier from China",
-    description: "Learn about Sinochemi, a trusted B2B chemical supplier with 15+ years of experience serving 500+ clients in 50+ countries. ISO certified quality management.",
-    heroTitle: "About Sinochemi",
+    title: "About Sinopeakchem - Leading Chemical Supplier from China",
+    description: "Learn about Sinopeakchem, a trusted B2B chemical supplier with 15+ years of experience serving 500+ clients in 50+ countries. ISO certified quality management.",
+    heroTitle: "About Sinopeakchem",
     heroDesc: "Your trusted partner in global chemical trade. We connect quality Chinese chemical manufacturers with buyers worldwide.",
     ourStory: "Our Story",
-    storyP1: "Founded in 2010 in Shandong Province, China, Sinochemi has grown from a small trading company into a leading B2B chemical supplier serving clients across 50+ countries. Our journey has been driven by a commitment to quality, reliability, and customer satisfaction.",
+    storyP1: "Founded in 2010 in Shandong Province, China, Sinopeakchem has grown from a small trading company into a leading B2B chemical supplier serving clients across 50+ countries. Our journey has been driven by a commitment to quality, reliability, and customer satisfaction.",
     storyP2: "We specialize in sourcing and exporting a comprehensive range of industrial chemicals, including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and many more. Our deep relationships with top Chinese manufacturers ensure consistent quality and competitive pricing.",
     storyP3: "With an experienced team of chemical industry professionals, we provide end-to-end service from product selection and quality inspection to logistics coordination and after-sales support.",
     coreValues: "Our Core Values",
@@ -113,7 +113,7 @@ export default function AboutPage() {
       {/* Hero */}
       <section className="relative py-20 overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinochemi Chemical Plant" className="w-full h-full object-cover" />
+          <img src={HERO_IMG} alt="Sinopeakchem Chemical Plant" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0066B3]/90 to-[#0066B3]/60" />
         </div>
         <div className="container mx-auto px-4 relative z-10 text-white">
@@ -158,7 +158,7 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg">
-              <img src={LAB_IMG} alt="Sinochemi Quality Control Laboratory" className="w-full h-full object-cover" />
+              <img src={LAB_IMG} alt="Sinopeakchem Quality Control Laboratory" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>

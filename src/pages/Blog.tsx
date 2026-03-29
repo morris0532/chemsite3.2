@@ -17,14 +17,14 @@ export default function BlogPage() {
     "@type": "Blog",
     name: isRu ? "Блог Sinochemi - Новости химической промышленности" : "Sinochemi Blog - Chemical Industry Insights",
     description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : "Industry news, product guides, and technical articles about industrial chemicals.",
-    url: `https://sinochemi.com${langPrefix}/blog`,
+    url: `https://sinopeakchem.com${langPrefix}/blog`,
     publisher: { "@type": "Organization", name: "Sinochemi" },
     blogPost: currentBlogs.map((post) => ({
       "@type": "BlogPosting",
       headline: post.title,
       datePublished: post.date,
       author: { "@type": "Person", name: post.author },
-      url: `https://sinochemi.com${langPrefix}/blog/${post.slug}`,
+      url: `https://sinopeakchem.com${langPrefix}/blog/${post.slug}`,
     })),
   };
 

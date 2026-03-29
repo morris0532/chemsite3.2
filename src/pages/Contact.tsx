@@ -15,7 +15,7 @@ const jsonLdEn = {
   mainEntity: {
     "@type": "Organization",
     name: "Sinochemi",
-    email: "info@sinochemi.com",
+    email: "info@sinopeakchem.com",
     telephone: "+86-13583262050",
     address: {
       "@type": "PostalAddress",
@@ -145,7 +145,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
-                    <a href="mailto:info@sinochemi.com" className="text-[#0066B3] hover:underline text-sm">info@sinochemi.com</a>
+                    <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">info@sinopeakchem.com</a>
                   </div>
                 </div>
 

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Base URL of the website
-const BASE_URL = 'https://sinochemi.com';
+const BASE_URL = 'https://sinopeakchem.com';
 
 // Get current date for lastmod
 const currentDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD

@@ -43,7 +43,7 @@ export default function ProductsPage() {
         "@type": "Product",
         name: p.name,
         description: p.shortDescription,
-        url: `https://sinochemi.com${langPrefix}/products/${p.slug}`,
+        url: `https://sinopeakchem.com${langPrefix}/products/${p.slug}`,
         sku: p.cas,
       },
     })),

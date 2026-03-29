@@ -28,12 +28,12 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
   const langPrefix = isRu ? "/ru" : "/en";
 
   const pageTitle = title 
-    ? `${title} | Sinochemi` 
-    : (isRu ? "Sinochemi - Глобальный поставщик химикатов" : "Sinochemi - Global Chemical Supplier");
+    ? `${title} | Sinopeakchem` 
+    : (isRu ? "Sinopeakchem - Глобальный поставщик химикатов" : "Sinopeakchem - Global Chemical Supplier");
   
   const pageDescription = description || (isRu 
-    ? "Sinochemi - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
-    : "Sinochemi is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.");
+    ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
+    : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.");
 
   // Update document title and meta tags
   if (typeof document !== "undefined") {
@@ -48,7 +48,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
       canonical.setAttribute('rel', 'canonical');
       document.head.appendChild(canonical);
     }
-    canonical.setAttribute('href', `https://sinochemi.com${location.pathname}`);
+    canonical.setAttribute('href', `https://sinopeakchem.com${location.pathname}`);
 
     // Update hreflang tags
     let enLink = document.querySelector('link[hreflang="en"]');
@@ -58,7 +58,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
       enLink.setAttribute('hreflang', 'en');
       document.head.appendChild(enLink);
     }
-    enLink.setAttribute('href', `https://sinochemi.com${location.pathname.replace(/^\/ru/, '/en')}`);
+    enLink.setAttribute('href', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`);
 
     let ruLink = document.querySelector('link[hreflang="ru"]');
     if (!ruLink) {
@@ -67,7 +67,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
       ruLink.setAttribute('hreflang', 'ru');
       document.head.appendChild(ruLink);
     }
-    ruLink.setAttribute('href', `https://sinochemi.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`);
+    ruLink.setAttribute('href', `https://sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`);
   }
 
   const navLinks = isRu ? [
@@ -133,7 +133,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
       <div className="bg-[#004A82] text-white text-sm py-2 hidden md:block">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center gap-4">
-            <span className="flex items-center gap-1"><Mail className="w-3.5 h-3.5" /> info@sinochemi.com</span>
+            <span className="flex items-center gap-1"><Mail className="w-3.5 h-3.5" /> info@sinopeakchem.com</span>
             <span className="flex items-center gap-1"><Phone className="w-3.5 h-3.5" /> +86 13583262050</span>
           </div>
           <div className="flex items-center gap-3">
@@ -156,7 +156,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
                 <span className="text-white font-bold text-lg">S</span>
               </div>
               <div>
-                <span className="text-xl font-bold text-[#0066B3]">Sinochemi</span>
+                <span className="text-xl font-bold text-[#0066B3]">Sinopeakchem</span>
                 <span className="hidden sm:block text-[10px] text-gray-500 -mt-1">Global Chemical Supplier</span>
               </div>
             </Link>
@@ -257,7 +257,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
                 <div className="w-8 h-8 bg-[#0066B3] rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold text-sm">S</span>
                 </div>
-                <span className="text-lg font-bold text-white">Sinochemi</span>
+                <span className="text-lg font-bold text-white">Sinopeakchem</span>
               </div>
               <p className="text-sm text-gray-400 mb-4">
                 Your trusted global chemical supplier. We provide high-quality industrial chemicals with competitive pricing and reliable shipping worldwide.
@@ -300,7 +300,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
               <ul className="space-y-3 text-sm">
                 <li className="flex items-start gap-2">
                   <Mail className="w-4 h-4 mt-0.5 flex-shrink-0 text-[#0066B3]" />
-                  <span>info@sinochemi.com</span>
+                  <span>info@sinopeakchem.com</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Phone className="w-4 h-4 mt-0.5 flex-shrink-0 text-[#0066B3]" />
@@ -326,7 +326,7 @@ export default function Layout({ children, title, description, jsonLd }: LayoutP
           </div>
 
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-500">
-            <p>© {new Date().getFullYear()} Sinochemi. All rights reserved. | Your Trusted Global Chemical Supplier</p>
+            <p>© {new Date().getFullYear()} Sinopeakchem. All rights reserved. | Your Trusted Global Chemical Supplier</p>
           </div>
         </div>
       </footer>

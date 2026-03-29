@@ -42,7 +42,7 @@ export default function ProductDetailPage() {
   }
 
   const relatedProducts = isRu ? getRelatedProductsRu(product.slug, 4) : getRelatedProducts(product.slug, 4);
-  const currentUrl = `https://sinochemi.com${langPrefix}/products/${product.slug}`;
+  const currentUrl = `https://sinopeakchem.com${langPrefix}/products/${product.slug}`;
 
   const productJsonLd = {
     "@context": "https://schema.org",

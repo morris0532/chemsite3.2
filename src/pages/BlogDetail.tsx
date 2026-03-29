@@ -25,7 +25,7 @@ export default function BlogDetailPage() {
     );
   }
 
-  const currentUrl = `https://sinochemi.com${langPrefix}/blog/${post.slug}`;
+  const currentUrl = `https://sinopeakchem.com${langPrefix}/blog/${post.slug}`;
   const recentPosts = isRu 
     ? getRecentBlogsRu(4).filter((b) => b.slug !== post.slug).slice(0, 3)
     : getRecentBlogs(4).filter((b) => b.slug !== post.slug).slice(0, 3);
@@ -38,7 +38,7 @@ export default function BlogDetailPage() {
     image: post.image,
     datePublished: post.date,
     author: { "@type": "Person", name: post.author },
-    publisher: { "@type": "Organization", name: "Sinochemi", logo: { "@type": "ImageObject", url: "https://sinochemi.com/logo.png" } },
+    publisher: { "@type": "Organization", name: "Sinopeakchem", logo: { "@type": "ImageObject", url: "https://sinopeakchem.com/logo.png" } },
     mainEntityOfPage: { "@type": "WebPage", "@id": currentUrl },
   };
 
@@ -121,7 +121,7 @@ export default function BlogDetailPage() {
 
   return (
     <Layout
-      title={`${post.title} | Sinochemi Blog`}
+      title={`${post.title} | Sinopeakchem Blog`}
       description={post.excerpt}
       jsonLd={articleJsonLd}
     >
