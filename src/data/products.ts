@@ -49,7 +49,9 @@ In **mining and metallurgy**, particularly in gold and silver extraction, Sodium
 
 The **textile and leather industries** utilize Sodium Thiosulphate as an antichlor to remove excess chlorine after bleaching processes. It also serves as a reducing agent in chrome tanning and as a mordant in dyeing processes, ensuring consistent color quality and material integrity. Furthermore, it finds applications in the pharmaceutical industry as an antidote for cyanide poisoning and in the production of various chemical intermediates.
 
-Our Sodium Thiosulphate is available in various grades, including industrial and high-purity crystalline forms. We offer flexible packaging solutions, such as 25KG moisture-proof woven bags and 1000KG jumbo bags, to accommodate different handling and storage requirements. With strategic shipping from major Chinese ports like Qingdao, Tianjin, and Dalian, we ensure reliable global delivery and competitive logistics costs. Every shipment is accompanied by a comprehensive Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) to guarantee transparency and safety compliance.`,
+Our Sodium Thiosulphate is available in various grades, including industrial and high-purity crystalline forms. We offer flexible packaging solutions, such as 25KG moisture-proof woven bags and 1000KG jumbo bags, to accommodate different handling and storage requirements. With strategic shipping from major Chinese ports like Qingdao, Tianjin, and Dalian, we ensure reliable global delivery and competitive logistics costs. Every shipment is accompanied by a comprehensive Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) to guarantee transparency and safety compliance.
+
+As a leading supplier, we ensure our Sodium Thiosulphate (CAS: 7772-98-7) meets the highest industry standards for applications ranging from photographic fixing to gold leaching. Classified under HS Code 2832300000, our product is a reliable choice for buyers seeking high-purity (≥99%) sodium hyposulfite for their supply chain.`,
     image: DEFAULT_IMAGE,
     specs: [
       { label: "Chemical Formula", value: "Na₂S₂O₃·5H₂O" },
@@ -104,7 +106,9 @@ The **textile industry** utilizes Caustic Soda for mercerization, a treatment th
 
 Furthermore, Caustic Soda is essential in **aluminum production** (Bayer process) to extract alumina from bauxite ore. It also finds applications in food processing (for peeling fruits and vegetables, and processing cocoa), pharmaceutical manufacturing, and as a chemical intermediate for hundreds of other products.
 
-Our Caustic Soda is produced using modern membrane cell technology, ensuring high purity (typically 96% or 99%) and minimal environmental impact. We provide robust packaging in 25KG PP/PE bags and jumbo bags, designed to withstand the hygroscopic nature of the product during international transit. Shipping from major hubs like Qingdao and Tianjin ensures efficient logistics and timely delivery to our global clientele.`,
+Our Caustic Soda is produced using modern membrane cell technology, ensuring high purity (typically 96% or 99%) and minimal environmental impact. We provide robust packaging in 25KG PP/PE bags and jumbo bags, designed to withstand the hygroscopic nature of the product during international transit. Shipping from major hubs like Qingdao and Tianjin ensures efficient logistics and timely delivery to our global clientele.
+
+Our Sodium Hydroxide (CAS: 1310-73-2), classified under HS Code 2815110000, is a benchmark for quality in the chlor-alkali industry. Whether you require 99% purity for alumina refining or 96% for pulp and paper manufacturing, our membrane-grade caustic soda provides unmatched performance and value.`,
     image: DEFAULT_IMAGE,
     specs: [
       { label: "Chemical Formula", value: "NaOH" },

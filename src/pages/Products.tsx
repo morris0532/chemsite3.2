@@ -34,7 +34,7 @@ export default function ProductsPage() {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: isRu ? "Каталог промышленной химической продукции" : "Industrial Chemical Products",
-    description: isRu ? "Полный каталог промышленных химикатов от Sinochemi" : "Complete catalog of industrial chemicals from Sinochemi",
+    description: isRu ? "Полный каталог промышленных химикатов от Sinopeakchem" : "Complete catalog of industrial chemicals from Sinopeakchem",
     numberOfItems: currentProducts.length,
     itemListElement: currentProducts.map((p, i) => ({
       "@type": "ListItem",

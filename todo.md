@@ -1,4 +1,4 @@
-# Sinochemi - B2B Chemical Company Website
+# Sinopeakchem - B2B Chemical Company Website
 
 ## Design Guidelines
 

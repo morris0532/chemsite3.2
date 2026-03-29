@@ -10,11 +10,11 @@ import Layout from "@/components/Layout";
 const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  name: "Contact Sinochemi",
-  description: "Get in touch with Sinochemi for chemical product inquiries, pricing, and technical support.",
+  name: "Contact Sinopeakchem",
+  description: "Get in touch with Sinopeakchem for chemical product inquiries, pricing, and technical support.",
   mainEntity: {
     "@type": "Organization",
-    name: "Sinochemi",
+    name: "Sinopeakchem",
     email: "info@sinopeakchem.com",
     telephone: "+86-13583262050",
     address: {
@@ -27,8 +27,8 @@ const jsonLdEn = {
 
 const jsonLdRu = {
   ...jsonLdEn,
-  name: "Связаться с Sinochemi",
-  description: "Свяжитесь с Sinochemi для запросов о химической продукции, ценах и технической поддержке.",
+  name: "Связаться с Sinopeakchem",
+  description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке.",
 };
 
 export default function ContactPage() {
@@ -68,7 +68,7 @@ export default function ContactPage() {
 
   const content = isRu ? {
     title: "Свяжитесь с нами - Получите предложение на промышленные химикаты",
-    description: "Свяжитесь с Sinochemi для запросов о химической продукции, ценах и технической поддержке. Свяжитесь с нами по электронной почте, WhatsApp или через нашу контактную форму.",
+    description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке. Свяжитесь с нами по электронной почте, WhatsApp или через нашу контактную форму.",
     heroTitle: "Свяжитесь с нами",
     heroDesc: "Готовы закупать качественные химикаты? Свяжитесь с нашей командой для получения информации о ценах, продукции и технической поддержке.",
     getInTouch: "Связаться",
@@ -91,7 +91,7 @@ export default function ContactPage() {
     sendButton: "Отправить сообщение",
   } : {
     title: "Contact Us - Get a Quote for Industrial Chemicals",
-    description: "Contact Sinochemi for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
+    description: "Contact Sinopeakchem for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
     heroTitle: "Contact Us",
     heroDesc: "Ready to source quality chemicals? Get in touch with our team for pricing, product information, and technical support.",
     getInTouch: "Get In Touch",

@@ -15,10 +15,10 @@ export default function BlogPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
-    name: isRu ? "Блог Sinochemi - Новости химической промышленности" : "Sinochemi Blog - Chemical Industry Insights",
+    name: isRu ? "Блог Sinopeakchem - Новости химической промышленности" : "Sinopeakchem Blog - Chemical Industry Insights",
     description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : "Industry news, product guides, and technical articles about industrial chemicals.",
     url: `https://sinopeakchem.com${langPrefix}/blog`,
-    publisher: { "@type": "Organization", name: "Sinochemi" },
+    publisher: { "@type": "Organization", name: "Sinopeakchem" },
     blogPost: currentBlogs.map((post) => ({
       "@type": "BlogPosting",
       headline: post.title,
@@ -30,13 +30,13 @@ export default function BlogPage() {
 
   const content = isRu ? {
     title: "Блог - Новости химической промышленности и руководства по продуктам",
-    description: "Читайте последние новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах от экспертной команды Sinochemi.",
+    description: "Читайте последние новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах от экспертной команды Sinopeakchem.",
     heroTitle: "Блог",
     heroDesc: "Новости отрасли, руководства по продуктам и технические статьи от нашей экспертной команды.",
     readMore: "Читать далее",
   } : {
     title: "Blog - Chemical Industry Insights and Product Guides",
-    description: "Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinochemi's expert team.",
+    description: "Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.",
     heroTitle: "Blog",
     heroDesc: "Industry insights, product guides, and technical articles from our expert team.",
     readMore: "Read More",
