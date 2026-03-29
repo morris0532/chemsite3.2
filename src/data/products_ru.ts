@@ -319,3 +319,22 @@ export const productsRu: Product[] = [
     featured: false,
   }
 ];
+
+export const productCategoriesRu = categoriesRu;
+
+export function getProductBySlugRu(slug: string): Product | undefined {
+  return productsRu.find((p) => p.slug === slug);
+}
+
+export function getFeaturedProductsRu(): Product[] {
+  return productsRu.filter((p) => p.featured);
+}
+
+export function getRelatedProductsRu(currentSlug: string, limit = 4): Product[] {
+  const current = getProductBySlugRu(currentSlug);
+  if (!current) return productsRu.slice(0, limit);
+  return productsRu
+    .filter((p) => p.slug !== currentSlug && p.category === current.category)
+    .concat(productsRu.filter((p) => p.slug !== currentSlug && p.category !== current.category))
+    .slice(0, limit);
+}
