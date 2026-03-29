@@ -179,8 +179,8 @@ export default function ProductDetailPage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
             {/* Image Gallery */}
-            <div className="flex flex-col gap-4">
-              <div className="bg-gray-50 rounded-2xl overflow-hidden aspect-[4/3] border border-gray-100 shadow-sm relative group">
+            <div className="flex flex-col gap-6">
+              <div className="bg-white rounded-[2rem] overflow-hidden aspect-[4/3] border border-gray-100 shadow-md relative group transition-all hover:shadow-lg">
                 <img 
                   src={activeImageIndex === 0 ? product.image : productImages[activeImageIndex]} 
                   alt={product.name} 
@@ -201,7 +201,7 @@ export default function ProductDetailPage() {
                   <button
                     key={idx}
                     onClick={() => setActiveImageIndex(idx)}
-                    className={`aspect-square rounded-lg overflow-hidden border-2 transition-all ${
+                    className={`aspect-square rounded-xl overflow-hidden border-2 transition-all ${
                       activeImageIndex === idx ? "border-[#0066B3] ring-2 ring-blue-100" : "border-gray-100 hover:border-gray-300"
                     }`}
                   >

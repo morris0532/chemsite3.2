@@ -179,11 +179,11 @@ export default function HomePage() {
                 to={`${langPrefix}/products/${product.slug}`}
                 className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1"
               >
-                <div className="aspect-[4/3] bg-gray-50 overflow-hidden">
+                <div className="aspect-[4/3] bg-gray-50 overflow-hidden m-3 rounded-2xl">
                   <img
                     src={product.image}
                     alt={product.name}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                     loading="lazy"
                   />
                 </div>

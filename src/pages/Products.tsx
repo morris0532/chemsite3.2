@@ -127,8 +127,8 @@ export default function ProductsPage() {
                     to={`${langPrefix}/products/${product.slug}`}
                     className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1"
                   >
-                    <div className="aspect-[4/3] bg-gray-50 overflow-hidden">
-                      <img src={product.image} alt={product.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <div className="aspect-[4/3] bg-gray-50 overflow-hidden m-3 rounded-2xl">
+                      <img src={product.image} alt={product.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
                     </div>
                     <div className="p-4">
                       <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-0.5 rounded-full">{product.category}</span>
