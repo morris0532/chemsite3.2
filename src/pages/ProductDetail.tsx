@@ -51,13 +51,13 @@ export default function ProductDetailPage() {
     description: product.description,
     image: product.image,
     sku: product.cas,
-    brand: { "@type": "Brand", name: "Sinochemi" },
-    manufacturer: { "@type": "Organization", name: "Sinochemi" },
+    brand: { "@type": "Brand", name: "Sinopeakchem" },
+    manufacturer: { "@type": "Organization", name: "Sinopeakchem" },
     offers: {
       "@type": "Offer",
       availability: "https://schema.org/InStock",
       priceCurrency: "USD",
-      seller: { "@type": "Organization", name: "Sinochemi" },
+      seller: { "@type": "Organization", name: "Sinopeakchem" },
     },
   };
 
