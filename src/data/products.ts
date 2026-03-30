@@ -30,7 +30,7 @@ export interface Product {
 
 const DEFAULT_IMAGE = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png";
 
-export const products: Product[] = 
+export const products: Product[] = [
   {
     id: "1",
     name: "Sodium Thiosulphate",

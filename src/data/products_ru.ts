@@ -19,7 +19,7 @@ export const categoriesRu = [
   "Другие",
 ];
 
-export const productsRu: Product[] = 
+export const productsRu: Product[] = [
   {
     id: "1",
     name: "Тиосульфат натрия",

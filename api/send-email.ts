@@ -16,7 +16,11 @@ export default async function handler(req: any, res: any) {
     return res.status(400).json({ error: 'Missing required fields' });
   }
 
-  const resend = new Resend(process.env.RESEND_API_KEY || 're_aMc6CbVu_JbyMDUdzNpmA8GDo3RqSDirV');
+  if (!process.env.RESEND_API_KEY) {
+    return res.status(500).json({ error: 'Resend API key not configured' });
+  }
+
+  const resend = new Resend(process.env.RESEND_API_KEY);
 
   try {
     if (type === 'doc_request') {
