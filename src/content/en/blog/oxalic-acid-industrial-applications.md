@@ -50,4 +50,4 @@ Used as an intermediate in:
 - Use tightly sealed containers
 - Keep away from strong oxidizers and bases
 ## Conclusion
-Oxalic acid is an essential industrial chemical with diverse applications. Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation. Contact us for pricing and availability.
+[Oxalic acid](https://www.sinopeakchem.com/en/products/oxalic-acid) is an essential industrial chemical with diverse applications. Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation. Contact us for pricing and availability.
