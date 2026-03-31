@@ -3,7 +3,7 @@ import {
   ChevronRight, FileText, Share2, Facebook, Twitter, Linkedin, 
   Download, CheckCircle2, Info, Package, Truck, ShieldCheck, 
   ArrowRight, HelpCircle, Layers, Target, Mail, Beaker, 
-  Globe, Shield, Zap, Award, Microscope
+  Globe, Shield, Zap, Award, Microscope, MessageCircle
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -337,51 +337,15 @@ export default function ProductDetailPage() {
                 </div>
 
                 <div className="mb-8">
-                  <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
-                    <DialogTrigger asChild>
-                      <Button className="w-full h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
-                        {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
-                      </Button>
-                    </DialogTrigger>
-                    <DialogContent className="sm:max-w-[450px] rounded-[2rem] p-8">
-                      <DialogHeader>
-                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}</DialogTitle>
-                      </DialogHeader>
-                      {docSubmitted ? (
-                        <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
-                          <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
-                            <CheckCircle2 className="w-10 h-10 text-green-500" />
-                          </div>
-                          <h3 className="text-xl font-bold text-slate-900 mb-2">Request Sent!</h3>
-                          <p className="text-slate-500">Our team will contact you within 24 hours.</p>
-                        </div>
-                      ) : (
-                        <form onSubmit={handleDocSubmit} className="space-y-6 mt-4">
-                          <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Work Email</Label>
-                            <Input required type="email" placeholder="name@company.com" className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docEmail} onChange={e => setDocEmail(e.target.value)} />
-                          </div>
-                          <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Company Name</Label>
-                            <Input required placeholder="Your Company Ltd." className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docCompany} onChange={e => setDocCompany(e.target.value)} />
-                          </div>
-                          <div className="flex gap-6 py-2">
-                            <div className="flex items-center space-x-2">
-                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(v) => setDocMSDS(!!v)} />
-                              <label htmlFor="msds" className="text-sm font-bold text-slate-700">MSDS</label>
-                            </div>
-                            <div className="flex items-center space-x-2">
-                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(v) => setDocCOA(!!v)} />
-                              <label htmlFor="coa" className="text-sm font-bold text-slate-700">COA</label>
-                            </div>
-                          </div>
-                          <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base">
-                            Submit Request
-                          </Button>
-                        </form>
-                      )}
-                    </DialogContent>
-                  </Dialog>
+                  <a 
+                    href={`https://wa.me/8613583262050?text=Hi%20SinoPeak%2C%20I%27m%20interested%20in%20${encodeURIComponent(product.name)}%20(CAS%3A%20${product.cas})%20and%20would%20like%20to%20know%20more%20about%20pricing%20and%20availability.`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center justify-center w-full h-14 px-8 bg-[#25D366] hover:bg-[#1fb854] text-white rounded-2xl font-bold text-base shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 gap-2"
+                  >
+                    <MessageCircle className="w-5 h-5" />
+                    Chat on WhatsApp
+                  </a>
                 </div>
               </div>
             </div>
