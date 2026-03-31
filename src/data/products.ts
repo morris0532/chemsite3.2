@@ -52,7 +52,7 @@ The **textile and leather industries** utilize Sodium Thiosulphate as an antichl
 Our Sodium Thiosulphate is available in various grades, including industrial and high-purity crystalline forms. We offer flexible packaging solutions, such as 25KG moisture-proof woven bags and 1000KG jumbo bags, to accommodate different handling and storage requirements. With strategic shipping from major Chinese ports like Qingdao, Tianjin, and Dalian, we ensure reliable global delivery and competitive logistics costs. Every shipment is accompanied by a comprehensive Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) to guarantee transparency and safety compliance.
 
 As a leading supplier, we ensure our Sodium Thiosulphate (CAS: 7772-98-7) meets the highest industry standards for applications ranging from photographic fixing to gold leaching. Classified under HS Code 2832300000, our product is a reliable choice for buyers seeking high-purity (≥99%) sodium hyposulfite for their supply chain.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/sodium-thiosulphate-7772-98-7.jpg",
     specs: [
       { label: "Chemical Formula", value: "Na₂S₂O₃·5H₂O" },
       { label: "CAS Number", value: "7772-98-7" },
@@ -109,7 +109,7 @@ Furthermore, Caustic Soda is essential in **aluminum production** (Bayer process
 Our Caustic Soda is produced using modern membrane cell technology, ensuring high purity (typically 96% or 99%) and minimal environmental impact. We provide robust packaging in 25KG PP/PE bags and jumbo bags, designed to withstand the hygroscopic nature of the product during international transit. Shipping from major hubs like Qingdao and Tianjin ensures efficient logistics and timely delivery to our global clientele.
 
 Our Sodium Hydroxide (CAS: 1310-73-2), classified under HS Code 2815110000, is a benchmark for quality in the chlor-alkali industry. Whether you require 99% purity for alumina refining or 96% for pulp and paper manufacturing, our membrane-grade caustic soda provides unmatched performance and value.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/caustic-soda-1310-73-2.jpg",
     specs: [
       { label: "Chemical Formula", value: "NaOH" },
       { label: "CAS Number", value: "1310-73-2" },
@@ -163,7 +163,7 @@ In **chemical synthesis and pharmaceuticals**, Oxalic Acid is a valuable interme
 Furthermore, Oxalic Acid finds applications in **wastewater treatment** for the removal of heavy metals and as a reducing agent in various chemical processes. It is also used in wood restoration to remove "graying" caused by weather exposure, bringing back the natural color of the wood.
 
 Due to its acidic and toxic nature, our Oxalic Acid is packaged in secure, labeled 25KG bags or jumbo bags that comply with international hazardous material shipping regulations (UN 3261, Class 8). We provide comprehensive documentation, including COA and MSDS, to ensure safe handling and regulatory compliance. With efficient shipping from Qingdao and Tianjin, we provide a reliable supply chain for this essential organic acid.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/oxalic-acid-144-62-7.jpg",
     specs: [
       { label: "Chemical Formula", value: "C₂H₂O₄·2H₂O" },
       { label: "CAS Number", value: "6153-56-6" },
@@ -215,7 +215,7 @@ In the **construction industry**, Calcium Chloride serves as a potent **concrete
 As a **desiccant and moisture absorber**, Calcium Chloride is used in industrial drying processes and in consumer products like moisture-absorbing bags for closets and basements. It is also employed in **wastewater treatment** to remove fluorides and to break oil-water emulsions. In the **food industry** (food grade), it is used as a firming agent in canned vegetables, a source of electrolytes in sports drinks, and in cheesemaking to ensure consistent curd formation.
 
 Our Calcium Chloride is available in various physical forms, including flakes, pellets, and powder, to suit different application methods. We offer robust packaging in 25KG bags and 1000KG jumbo bags, ensuring the product remains dry and free-flowing during transport. With strategic shipping from ports like Qingdao, Nanjing, and Ningbo, we provide efficient global distribution and competitive pricing.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/calcium-chloride-10043-52-4.jpg",
     specs: [
       { label: "Chemical Formula", value: "CaCl₂" },
       { label: "CAS Number", value: "10043-52-4" },
@@ -267,7 +267,7 @@ In **industrial applications**, STPP serves as a powerful dispersing agent. In t
 Furthermore, STPP finds applications in **water treatment** as a scale inhibitor and in the production of flame retardants, anti-corrosion pigments, and various chemical intermediates. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
 
 Our STPP is available in different bulk densities (light and dense) and particle sizes to meet specific formulation requirements. We provide high-quality packaging in 25KG bags and jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin and Qingdao, we offer a consistent and cost-effective supply of STPP to our global partners. Comprehensive technical documentation, including COA and MSDS, is provided with every shipment to ensure safety and quality assurance.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/sodium-tripolyphosphate-7758-29-4.jpg",
     specs: [
       { label: "Chemical Formula", value: "Na₅P₃O₁₀" },
       { label: "CAS Number", value: "7758-29-4" },
@@ -320,7 +320,7 @@ The **pulp and paper industry** employs Sodium Sulfate Anhydrous in the Kraft pr
 Furthermore, Sodium Sulfate Anhydrous is used in **leather tanning** as a neutral salt to help regulate the swelling of the hides and in **pharmaceuticals** as a mild laxative and as a component in various medications. It is also used in **animal feed** as a source of sodium and sulfur and in **thermal energy storage** as a phase change material.
 
 Our Sodium Sulfate Anhydrous is available in various particle sizes and grades to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Sodium Sulfate Anhydrous to our global partners.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/sodium-sulfate-anhydrous-7757-82-6.jpg",
     specs: [
       { label: "Chemical Formula", value: "Na₂SO₄" },
       { label: "CAS Number", value: "7757-82-6" },
@@ -371,7 +371,7 @@ In **water treatment**, Soda Ash is used for pH adjustment and neutralization of
 Furthermore, Soda Ash is essential in **metallurgy** for the refining of various metals, such as aluminum, lead, and zinc. It is also used in **food processing** (as a pH regulator and leavening agent) and in **pharmaceuticals** as an antacid and as a component in various medications.
 
 Our Soda Ash is produced using modern Solvay or natural soda ash processes, ensuring high purity and minimal environmental impact. We provide robust packaging in 25KG, 40KG, 50KG, and 1000KG jumbo bags, designed to withstand the hygroscopic nature of the product during international transit. Shipping from major hubs like Tianjin, Qingdao, and Lianyungang ensures efficient logistics and timely delivery to our global clientele.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/soda-ash-497-19-8.jpg",
     specs: [
       { label: "Chemical Formula", value: "Na₂CO₃" },
       { label: "CAS Number", value: "497-19-8" },
@@ -1071,7 +1071,7 @@ The **chemical industry** employs Borax as a raw material for the production of 
 Furthermore, Borax finds applications in **personal care products**, such as soaps and lotions, where it acts as an emulsifier and buffering agent. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
 
 Our Borax is available in various forms, including decahydrate and pentahydrate, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Borax to our global partners.`,
-    image: DEFAULT_IMAGE,
+    image: "/images/products/borax-1303-96-4.jpg",
     specs: [
       { label: "Chemical Formula", value: "Na₂B₄O₇·10H₂O" },
       { label: "CAS Number", value: "1303-96-4" },
