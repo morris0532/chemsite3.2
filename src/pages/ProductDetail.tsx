@@ -167,10 +167,16 @@ export default function ProductDetailPage() {
                 </div>
 
                 <div className="flex flex-wrap gap-4">
+                  <Link to={`${langPrefix}/contact`}>
+                    <Button className="h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
+                      {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
+                    </Button>
+                  </Link>
+                  
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
                     <DialogTrigger asChild>
-                      <Button className="h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
-                        {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
+                      <Button variant="outline" className="h-14 px-8 border-slate-200 rounded-2xl font-bold text-base text-slate-600 hover:bg-slate-50 transition-all">
+                        <Download className="mr-2 w-5 h-5" /> {content.techDocs}
                       </Button>
                     </DialogTrigger>
                     <DialogContent className="sm:max-w-[450px] rounded-[2rem] p-8">
@@ -213,9 +219,7 @@ export default function ProductDetailPage() {
                     </DialogContent>
                   </Dialog>
                   
-                  <Button variant="outline" className="h-14 px-8 border-slate-200 rounded-2xl font-bold text-base text-slate-600 hover:bg-slate-50 transition-all">
-                    <Download className="mr-2 w-5 h-5" /> {content.techDocs}
-                  </Button>
+
                 </div>
               </div>
             </div>
