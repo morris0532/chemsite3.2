@@ -24,7 +24,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
   
-  // Correctly call hooks at the top level
   const enContent = useMarkdownContent('en');
   const ruContent = useMarkdownContent('ru');
   const currentContent = isRu ? ruContent : enContent;
@@ -40,7 +39,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   const pageImage = image || "https://sinopeakchem.com/logo.png";
 
   useEffect(() => {
-    // Anti-scraping logic for Phone
     const country = "86";
     const p1 = "135";
     const p2 = "8326";
@@ -61,21 +59,16 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     };
 
     setMeta('description', pageDescription);
-    
-    // Open Graph
     setMeta('og:title', pageTitle, true);
     setMeta('og:description', pageDescription, true);
     setMeta('og:type', 'website', true);
     setMeta('og:url', `https://sinopeakchem.com${location.pathname}`, true);
     setMeta('og:image', pageImage, true);
-
-    // Twitter Card
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', pageTitle);
     setMeta('twitter:description', pageDescription);
     setMeta('twitter:image', pageImage);
 
-    // Canonical and Hreflang
     const setLink = (rel: string, href: string, hreflang?: string) => {
       let element = document.querySelector(`link[rel='${rel}']${hreflang ? `[hreflang='${hreflang}']` : ''}`) as HTMLLinkElement;
       if (!element) {
@@ -118,14 +111,12 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     const targetPrefix = isRu ? '/en' : '/ru';
     const targetContent = isRu ? enContent : ruContent;
     
-    // Handle Policy pages - always show English version
     if (location.pathname.includes('/privacy-policy') || location.pathname.includes('/terms-of-service')) {
       const policyPath = location.pathname.includes('/privacy-policy') ? '/en/privacy-policy' : '/en/terms-of-service';
       navigate(policyPath);
       return;
     }
     
-    // Handle Blog Detail pages
     if (location.pathname.includes('/blog/')) {
       const currentSlug = location.pathname.split('/blog/')[1];
       const currentPost = currentContent.posts.find((p: any) => p.slug === currentSlug);
@@ -138,7 +129,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       }
     }
 
-    // Handle Product Detail pages
     if (location.pathname.includes('/products/')) {
       const currentSlug = location.pathname.split('/products/')[1];
       const currentProduct = currentContent.products.find((p: any) => p.slug === currentSlug);
@@ -151,7 +141,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       }
     }
 
-    // Default fallback for other pages
     const newPath = isRu 
       ? location.pathname.replace("/ru", "/en") 
       : (location.pathname === "/" ? "/ru" : location.pathname.replace("/en", "/ru"));
@@ -160,7 +149,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
-      {/* JSON-LD Structured Data */}
       {jsonLd && (
         <script
           type="application/ld+json"
@@ -168,7 +156,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
         />
       )}
 
-      {/* Top Bar - Premium Styling */}
       <div className="bg-gradient-to-r from-[#003d66] to-[#004a82] text-white text-xs py-2.5 hidden md:block border-b border-[#002d4d]">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center gap-6">
@@ -187,11 +174,9 @@ export default function Layout({ children, title, description, image, jsonLd }: 
         </div>
       </div>
 
-      {/* Header - Premium Navigation */}
       <header className="bg-white sticky top-0 z-50 border-b border-gray-100/50 shadow-sm">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16 md:h-18">
-            {/* Logo */}
             <Link to={langPrefix} className="flex items-center gap-2.5 flex-shrink-0 group">
               <img src="/logo.png" alt="Sinopeakchem Logo" className="w-11 h-11 md:w-12 md:h-12 object-contain rounded-lg group-hover:shadow-md transition-all duration-300" />
               <div className="flex flex-col">
@@ -200,7 +185,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </div>
             </Link>
 
-            {/* Desktop Nav */}
             <nav className="hidden lg:flex items-center gap-0.5">
               {navLinks.map((link) => (
                 <Link
@@ -217,7 +201,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               ))}
             </nav>
 
-            {/* Actions */}
             <div className="flex items-center gap-1.5">
               <Button
                 variant="ghost"
@@ -235,7 +218,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 className="text-gray-500 hover:text-[#0066B3] hover:bg-gray-50/60 rounded-lg transition-all duration-300"
                 aria-label="Search"
               >
-                <Search className="w-5 h-5" />
+                <Search className="w-4 h-4" />
               </Button>
               <Link to={`${langPrefix}/contact`}>
                 <Button className="hidden sm:inline-flex bg-[#0066B3] hover:bg-[#004a82] text-white font-semibold px-6 h-10 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5">
@@ -253,7 +236,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
           </div>
 
-          {/* Mobile Nav */}
           {mobileMenuOpen && (
             <nav className="lg:hidden pb-4 space-y-2">
               {navLinks.map((link) => (
@@ -275,19 +257,15 @@ export default function Layout({ children, title, description, image, jsonLd }: 
         </div>
       </header>
 
-      {/* Search Dialog */}
-      <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
+      <SearchDialog isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
 
-      {/* Main Content */}
       <main className="flex-1">
         {children}
       </main>
 
-      {/* Footer */}
       <footer className="bg-gradient-to-b from-[#0a2540] to-[#051a2f] text-white py-16 border-t border-[#1a3a52]">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
-            {/* Brand */}
             <div>
               <div className="flex items-center gap-2.5 mb-6">
                 <img src="/logo.png" alt="Sinopeakchem" className="w-10 h-10 rounded-lg" />
@@ -309,7 +287,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </div>
             </div>
 
-            {/* Quick Links */}
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : "Quick Links"}</h3>
               <ul className="space-y-4">
@@ -324,7 +301,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </ul>
             </div>
 
-            {/* Products */}
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Продукты" : "Products"}</h3>
               <ul className="space-y-4">
@@ -339,7 +315,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </ul>
             </div>
 
-            {/* Legal */}
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Юридическая информация" : "Legal"}</h3>
               <ul className="space-y-4">
@@ -358,7 +333,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </ul>
             </div>
 
-            {/* Contact Info */}
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : "Contact Info"}</h3>
               <ul className="space-y-5">
@@ -386,7 +360,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
           </div>
 
-          {/* Bottom Bar */}
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
               {isRu 
