@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Alkali Products"
-featured: true
+featured: false
 ---
 
 ## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China Manufacturer & Supplier for High-Purity Baking Soda

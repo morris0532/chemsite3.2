@@ -49,7 +49,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Chloride Compounds"
-featured: true
+featured: false
 ---
 
 ## Ammonium Chloride (CAS 12125-02-9): Your Trusted China Manufacturer & Supplier for High-Grade NH₄Cl

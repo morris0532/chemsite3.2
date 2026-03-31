@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfur Compounds"
-featured: true
+featured: false
 ---
 
 ## Sodium Bisulfite (CAS 7631-90-5): Your Trusted China Manufacturer & Supplier for High-Purity NaHSO₃

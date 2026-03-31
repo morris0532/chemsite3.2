@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Citrates"
-featured: true
+featured: false
 ---
 
 ## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China Manufacturer & Supplier for High-Purity TSC

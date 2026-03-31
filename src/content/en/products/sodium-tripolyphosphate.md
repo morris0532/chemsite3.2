@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Phosphates"
-featured: true
+featured: false
 ---
 
 ## Sodium Tripolyphosphate (CAS 7758-29-4): Your Trusted China Manufacturer & Supplier for High-Purity STPP

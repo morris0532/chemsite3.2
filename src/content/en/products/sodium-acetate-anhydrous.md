@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Organic Salts"
-featured: true
+featured: false
 ---
 
 ## Sodium Acetate Anhydrous (CAS 127-09-3): Your Trusted China Manufacturer & Supplier for High-Purity CH₃COONa

@@ -69,7 +69,9 @@ export default function HomePage() {
   const langPrefix = isRu ? "/ru" : "/en";
   
   const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : 'en');
-  const featuredProducts = markdownProducts.slice(0, 3);
+  const featuredProducts = useMemo(() => {
+    return markdownProducts.filter((p: any) => p.featured === true).slice(0, 3);
+  }, [markdownProducts]);
   const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);

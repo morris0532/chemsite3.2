@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Organic Acids"
-featured: true
+featured: false
 ---
 
 ## Citric Acid Anhydrous (CAS 77-92-9): Your Trusted China Manufacturer & Supplier for High-Purity C₆H₈O₇

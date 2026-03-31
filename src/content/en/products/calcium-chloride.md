@@ -49,7 +49,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Chloride Compounds"
-featured: true
+featured: false
 ---
 
 ## Calcium Chloride (CAS 10043-52-4): Your Trusted China Manufacturer & Supplier for High-Purity CaCl₂

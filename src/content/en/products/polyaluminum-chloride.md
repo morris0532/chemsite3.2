@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "20-22MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Water Treatment"
-featured: true
+featured: false
 ---
 
 ## Polyaluminum Chloride (CAS 1327-41-9): Your Trusted China Manufacturer & Supplier for High-Efficiency PAC

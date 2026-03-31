@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Phosphates"
-featured: true
+featured: false
 ---
 
 ## Sodium Hexametaphosphate (CAS 10124-56-8): Your Trusted China Manufacturer & Supplier for High-Purity SHMP

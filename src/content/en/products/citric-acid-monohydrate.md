@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Organic Acids"
-featured: true
+featured: false
 ---
 
 ## Citric Acid Monohydrate (CAS 5949-29-1): Your Trusted China Manufacturer & Supplier for High-Purity C₆H₈O₇·H₂O
