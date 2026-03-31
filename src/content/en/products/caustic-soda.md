@@ -6,7 +6,7 @@ cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"
 shortDescription: "High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk purchase and export from China. Leading manufacturer for industrial applications including paper, textile, and water treatment. 99% purity available."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e0b12e3b-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/caustic-soda-1310-73-2.jpg"
 specs: [
   {"label":"Chemical Formula","value":"NaOH"},
   {"label":"CAS Number","value":"1310-73-2"},

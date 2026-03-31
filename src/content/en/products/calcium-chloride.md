@@ -6,7 +6,7 @@ cas: "10043-52-4"
 hsCode: "2827200000"
 slug: "calcium-chloride"
 shortDescription: "High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk purchase and export from China. Essential for de-icing, oil & gas, and food applications. Trusted manufacturer with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/calcium-chloride-10043-52-4.jpg"
 specs: [
   {"label":"Chemical Formula","value":"CaCl₂"},
   {"label":"CAS Number","value":"10043-52-4"},
