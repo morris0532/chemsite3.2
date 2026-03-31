@@ -1,15 +1,15 @@
 import { Link, useLocation } from "react-router-dom";
 import { ArrowRight, Calendar, User } from "lucide-react";
 import Layout from "@/components/Layout";
-import { blogPosts } from "@/data/blogs";
-import { blogPostsRu } from "@/data/blogs_ru";
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 export default function BlogPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const currentBlogs = isRu ? blogPostsRu : blogPosts;
+  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : 'en');
+  const currentBlogs = markdownPosts;
   const sorted = [...currentBlogs].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   const jsonLd = {

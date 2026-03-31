@@ -3,10 +3,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X, Search, ChevronDown, MessageCircle, Facebook, Twitter, Linkedin, Instagram, Mail, Phone, MapPin, Globe } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SearchDialog } from "./SearchDialog";
-import { products } from "@/data/products";
-import { blogPosts } from "@/data/blogs";
-import { productsRu } from "@/data/products_ru";
-import { blogPostsRu } from "@/data/blogs_ru";
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -26,7 +23,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
 
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
-  const currentProducts = isRu ? productsRu : products;
+  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : 'en');
+  const currentProducts = markdownProducts;
 
   const pageTitle = title 
     ? `${title} | Sinopeakchem` 

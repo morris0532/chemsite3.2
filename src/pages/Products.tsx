@@ -3,17 +3,20 @@ import { Link, useLocation } from "react-router-dom";
 import { Grid3X3, List, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
-import { products, productCategories } from "@/data/products";
-import { productsRu, productCategoriesRu } from "@/data/products_ru";
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 export default function ProductsPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const currentProducts = isRu ? productsRu : products;
-  const currentCategories = isRu ? productCategoriesRu : productCategories;
+  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : 'en');
+  const currentProducts = markdownProducts;
   const defaultCategory = isRu ? "Все" : "All Products";
+  const currentCategories = useMemo(() => {
+    const categories = Array.from(new Set(currentProducts.map((p: any) => p.category)));
+    return [defaultCategory, ...categories];
+  }, [currentProducts, defaultCategory]);
 
   const [category, setCategory] = useState(defaultCategory);
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");

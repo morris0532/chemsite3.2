@@ -69,6 +69,11 @@ export default function markdownPlugin() {
                   loading: frontmatter.loading || '',
                   image: frontmatter.image || '/logo.png',
                   nameCn: frontmatter.nameCn || '',
+                  specs: frontmatter.specs || [],
+                  applications: frontmatter.applications || [],
+                  faqs: frontmatter.faqs || [],
+                  ports: frontmatter.ports || '',
+                  featured: frontmatter.featured || false,
                 });
               }
             });

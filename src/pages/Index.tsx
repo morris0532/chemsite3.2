@@ -2,10 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import { ArrowRight, Shield, Globe, Truck, FlaskConical, Award, Users, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
-import { products } from "@/data/products";
-import { blogPosts } from "@/data/blogs";
-import { productsRu } from "@/data/products_ru";
-import { blogPostsRu } from "@/data/blogs_ru";
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 const HERO_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/0821521e-e54b-4dff-b118-4f4b9ba70803.png";
 const SHIP_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e6ad8468-80af-478a-a520-d0ca3ba12cdb.png";
@@ -71,8 +68,9 @@ export default function HomePage() {
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const featuredProducts = (isRu ? productsRu : products).slice(0, 3);
-  const recentBlogs = [...(isRu ? blogPostsRu : blogPosts)]
+  const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : 'en');
+  const featuredProducts = markdownProducts.slice(0, 3);
+  const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
   const features = isRu ? featuresRu : featuresEn;

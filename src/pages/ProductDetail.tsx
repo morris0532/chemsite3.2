@@ -17,8 +17,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import remarkBreaks from "remark-breaks";
 import Layout from "@/components/Layout";
-import { products } from "@/data/products";
-import { productsRu } from "@/data/products_ru";
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 import { JsonLd, generateProductSchema } from "../components/JsonLd";
 
 export default function ProductDetailPage() {
@@ -28,8 +27,8 @@ export default function ProductDetailPage() {
   const locale = isRu ? "ru" : "en";
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const currentProducts = isRu ? productsRu : products;
-  const product = currentProducts.find(p => p.slug === slug) as any;
+  const { products: markdownProducts } = useMarkdownContent(locale);
+  const product = markdownProducts.find((p: any) => p.slug === slug);
   
   const [docEmail, setDocEmail] = useState("");
   const [docCompany, setDocCompany] = useState("");
@@ -40,10 +39,10 @@ export default function ProductDetailPage() {
 
   const relatedProducts = useMemo(() => {
     if (!product) return [];
-    return currentProducts
-      .filter(p => p.slug !== product.slug && p.category === product.category)
+    return markdownProducts
+      .filter((p: any) => p.slug !== product.slug && p.category === product.category)
       .slice(0, 4);
-  }, [product, currentProducts]);
+  }, [product, markdownProducts]);
 
   if (!product) {
     return (
