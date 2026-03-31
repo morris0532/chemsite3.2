@@ -72,30 +72,117 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/contact" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/contact" />
   </url>
-  <!-- Product Pages -->
   <url>
-    <loc>https://sinopeakchem.com/en/products/sodium-thiosulphate</loc>
+    <loc>https://sinopeakchem.com/en/blog/chemical-shipping-logistics-china-guide</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-thiosulphate" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-thiosulphate" />
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/chemical-shipping-logistics-china-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/chemical-shipping-logistics-china-guide" />
   </url>
   <url>
-    <loc>https://sinopeakchem.com/en/products/caustic-soda</loc>
+    <loc>https://sinopeakchem.com/en/blog/complete-guide-sodium-thiosulphate-applications</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/caustic-soda" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/caustic-soda" />
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/complete-guide-sodium-thiosulphate-applications" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/complete-guide-sodium-thiosulphate-applications" />
   </url>
   <url>
-    <loc>https://sinopeakchem.com/en/products/soda-ash</loc>
+    <loc>https://sinopeakchem.com/en/blog/how-to-choose-right-caustic-soda-grade</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/soda-ash" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/soda-ash" />
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/how-to-choose-right-caustic-soda-grade" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/how-to-choose-right-caustic-soda-grade" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/en/blog/how-to-choose-the-right-chem-supplier-from-china</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/how-to-choose-the-right-chem-supplier-from-china" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/how-to-choose-the-right-chem-supplier-from-china" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/en/blog/oxalic-acid-industrial-applications</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/oxalic-acid-industrial-applications" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/oxalic-acid-industrial-applications" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/en/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/en/blog/water-treatment-chemicals-comparison</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/water-treatment-chemicals-comparison" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/water-treatment-chemicals-comparison" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/chemical-shipping-logistics-china-guide</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/chemical-shipping-logistics-china-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/chemical-shipping-logistics-china-guide" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/complete-guide-sodium-thiosulphate-applications</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/complete-guide-sodium-thiosulphate-applications" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/complete-guide-sodium-thiosulphate-applications" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/how-to-choose-right-caustic-soda-grade</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/how-to-choose-right-caustic-soda-grade" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/how-to-choose-right-caustic-soda-grade" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/how-to-choose-the-right-chem-supplier-from-china</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/how-to-choose-the-right-chem-supplier-from-china" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/how-to-choose-the-right-chem-supplier-from-china" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/oxalic-acid-industrial-applications</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/oxalic-acid-industrial-applications" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/oxalic-acid-industrial-applications" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/blog/water-treatment-chemicals-comparison</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/blog/water-treatment-chemicals-comparison" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/blog/water-treatment-chemicals-comparison" />
   </url>
   <url>
     <loc>https://sinopeakchem.com/en/products/ammonium-chloride</loc>
@@ -130,6 +217,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/calcium-chloride" />
   </url>
   <url>
+    <loc>https://sinopeakchem.com/en/products/caustic-soda</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/caustic-soda" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/caustic-soda" />
+  </url>
+  <url>
     <loc>https://sinopeakchem.com/en/products/citric-acid-anhydrous</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -160,6 +255,14 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/polyaluminum-chloride" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/polyaluminum-chloride" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/en/products/soda-ash</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/soda-ash" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/soda-ash" />
   </url>
   <url>
     <loc>https://sinopeakchem.com/en/products/sodium-acetate-anhydrous</loc>
@@ -218,6 +321,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-sulfite" />
   </url>
   <url>
+    <loc>https://sinopeakchem.com/en/products/sodium-thiosulphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-thiosulphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-thiosulphate" />
+  </url>
+  <url>
     <loc>https://sinopeakchem.com/en/products/sodium-tripolyphosphate</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -243,6 +354,182 @@
   </url>
   <url>
     <loc>https://sinopeakchem.com/en/products/trisodium-phosphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/trisodium-phosphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/trisodium-phosphate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/ammonium-chloride</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/ammonium-chloride" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/ammonium-chloride" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/ammonium-sulphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/ammonium-sulphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/ammonium-sulphate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/borax</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/borax" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/borax" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/calcium-chloride</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/calcium-chloride" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/calcium-chloride" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/caustic-soda</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/caustic-soda" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/caustic-soda" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/citric-acid-anhydrous</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/citric-acid-anhydrous" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/citric-acid-anhydrous" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/citric-acid-monohydrate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/citric-acid-monohydrate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/citric-acid-monohydrate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/oxalic-acid</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/oxalic-acid" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/oxalic-acid" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/polyaluminum-chloride</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/polyaluminum-chloride" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/polyaluminum-chloride" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/soda-ash</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/soda-ash" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/soda-ash" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-acetate-anhydrous</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-acetate-anhydrous" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-acetate-anhydrous" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-bicarbonate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-bicarbonate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-bicarbonate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-bisulfite</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-bisulfite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-bisulfite" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-hexametaphosphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-hexametaphosphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-hexametaphosphate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-metabisulphite</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-metabisulphite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-metabisulphite" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-sulfate-anhydrous</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-sulfate-anhydrous" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-sulfate-anhydrous" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-sulfite</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-sulfite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-sulfite" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-thiosulphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-thiosulphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-thiosulphate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sodium-tripolyphosphate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sodium-tripolyphosphate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sodium-tripolyphosphate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/sulfamic-acid</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/sulfamic-acid" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/sulfamic-acid" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/tri-sodium-citrate</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sinopeakchem.com/en/products/tri-sodium-citrate" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sinopeakchem.com/ru/products/tri-sodium-citrate" />
+  </url>
+  <url>
+    <loc>https://sinopeakchem.com/ru/products/trisodium-phosphate</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

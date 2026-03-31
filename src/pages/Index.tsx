@@ -1,4 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
+import { useMemo } from "react";
 import { ArrowRight, Shield, Globe, Truck, FlaskConical, Award, Users, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
