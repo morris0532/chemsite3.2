@@ -4,7 +4,7 @@ import {
   Download, CheckCircle2, Info, Package, Truck, ShieldCheck, 
   ArrowRight, HelpCircle, Layers, Target, Mail, Beaker, 
   Globe, Shield, Zap, Award, Microscope
-} from "lucide-react";
+} from "lucide-center";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
@@ -132,7 +132,6 @@ export default function ProductDetailPage() {
                     className="w-full h-full object-contain p-12 group-hover:scale-105 transition-transform duration-700"
                   />
                 </div>
-
               </div>
             </div>
 
@@ -228,8 +227,61 @@ export default function ProductDetailPage() {
       <section className="py-24 bg-slate-50/50">
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap -mx-8">
+            {/* Left: Detailed Content Sections */}
+            <div className="w-full lg:w-2/3 px-8 lg:order-first">
+              {/* Overview Section */}
+              <div id="overview" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.overview}
+                </h2>
+                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {product.description}
+                  </ReactMarkdown>
+                </div>
+              </div>
+
+              {/* Specifications Section */}
+              <div id="specs" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.specifications}
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {product.specs.map((spec: any, i: number) => (
+                    <div key={i} className="flex justify-between items-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 group">
+                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{spec.label}</span>
+                      <span className="text-sm font-bold text-slate-900 group-hover:text-[#0066B3] transition-colors">{spec.value}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Applications Section - Modern Card Grid */}
+              <div id="apps" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.applications}
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                  {product.applications.map((app: string, i: number) => (
+                    <div key={i} className="group p-8 bg-white rounded-[2rem] border border-slate-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-1">
+                      <div className="w-14 h-14 bg-blue-50 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-500">
+                        <Beaker className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-500" />
+                      </div>
+                      <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
+                      <p className="text-sm text-slate-500 font-medium leading-relaxed">
+                        High-performance application in {app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
             {/* Right: Sticky Navigation & Trust Badges */}
-            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0">
+            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0 lg:order-last">
               <div className="lg:sticky lg:top-32">
                 <div className="mb-8">
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
@@ -330,59 +382,6 @@ export default function ProductDetailPage() {
                       </div>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Right: Detailed Content Sections */}
-            <div className="w-full lg:w-2/3 px-8">
-              {/* Overview Section */}
-              <div id="overview" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
-                  {content.overview}
-                </h2>
-                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight">
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                    {product.description}
-                  </ReactMarkdown>
-                </div>
-              </div>
-
-              {/* Specifications Section */}
-              <div id="specs" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
-                  {content.specifications}
-                </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {product.specs.map((spec: any, i: number) => (
-                    <div key={i} className="flex justify-between items-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 group">
-                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{spec.label}</span>
-                      <span className="text-sm font-bold text-slate-900 group-hover:text-[#0066B3] transition-colors">{spec.value}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Applications Section - Modern Card Grid */}
-              <div id="apps" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
-                  {content.applications}
-                </h2>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-                  {product.applications.map((app: string, i: number) => (
-                    <div key={i} className="group p-8 bg-white rounded-[2rem] border border-slate-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-1">
-                      <div className="w-14 h-14 bg-blue-50 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-500">
-                        <Beaker className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-500" />
-                      </div>
-                      <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
-                      <p className="text-sm text-slate-500 font-medium leading-relaxed">
-                        High-performance application in {app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.
-                      </p>
-                    </div>
-                  ))}
                 </div>
               </div>
             </div>
