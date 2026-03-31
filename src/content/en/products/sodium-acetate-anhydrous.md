@@ -2,14 +2,14 @@
 id: "17"
 name: "Sodium Acetate Anhydrous"
 nameCn: "无水醋酸钠"
-cas: "127-09-3"
+cas: "127-09-3 / 6131-90-4"
 hsCode: "2915291000"
 slug: "sodium-acetate-anhydrous"
 shortDescription: "High-purity Sodium Acetate Anhydrous (CH3COONa) for bulk purchase and export from China. Essential for textile, pharmaceutical, and food applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"CH₃COONa"},
-  {"label":"CAS Number","value":"127-09-3"},
+  {"label":"CAS Number","value":"127-09-3 / 6131-90-4"},
   {"label":"HS Code","value":"2915291000"},
   {"label":"Purity","value":"≥99.0%"},
   {"label":"Appearance","value":"White crystalline powder"},

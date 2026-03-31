@@ -2,14 +2,14 @@
 id: "8"
 name: "Citric Acid Anhydrous"
 nameCn: "无水柠檬酸"
-cas: "77-92-9"
+cas: "77-92-9 / 5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-anhydrous"
 shortDescription: "High-purity Citric Acid Anhydrous for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"C₆H₈O₇"},
-  {"label":"CAS Number","value":"77-92-9"},
+  {"label":"CAS Number","value":"77-92-9 / 5949-29-1"},
   {"label":"HS Code","value":"2918140000"},
   {"label":"Purity","value":"≥99.5%"},
   {"label":"Appearance","value":"White crystalline powder"},
