@@ -161,8 +161,8 @@ export default function ProductDetailPage() {
                     <p className="text-base font-bold text-slate-900">{product.hsCode}</p>
                   </div>
                   <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100">
-                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1">Loading</p>
-                    <p className="text-base font-bold text-slate-900">{product.loading}</p>
+                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1">CAS Number</p>
+                    <p className="text-base font-bold text-slate-900">{product.cas}</p>
                   </div>
                 </div>
 
