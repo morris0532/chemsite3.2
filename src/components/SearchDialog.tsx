@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { Search, X, Package, BookOpen } from 'lucide-react';
+import { Search, X, Package, BookOpen, MessageCircle, ArrowRight } from 'lucide-react';
 import { useSearch } from '../hooks/useSearch';
 
 interface SearchDialogProps {
@@ -75,8 +75,39 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
                 {isRu ? "Введите поисковый запрос" : "Enter a search query"}
               </div>
             ) : results.length === 0 ? (
-              <div className="px-6 py-12 text-center text-gray-500">
-                {isRu ? "Результаты не найдены" : "No results found"}
+              <div className="px-6 py-12 text-center">
+                <div className="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Search className="w-8 h-8 text-gray-400" />
+                </div>
+                <h3 className="text-lg font-bold text-gray-900 mb-2">
+                  {isRu ? "Результаты не найдены" : "No results found"}
+                </h3>
+                <p className="text-gray-500 mb-8 max-w-xs mx-auto">
+                  {isRu 
+                    ? "Не нашли нужный CAS номер или продукт? Наша сеть поставок охватывает более 1000 химикатов." 
+                    : "Can't find the CAS number or product you need? Our supply network covers over 1,000+ chemicals."}
+                </p>
+                <div className="flex flex-col gap-3 max-w-xs mx-auto">
+                  <a
+                    href="https://wa.me/8615064825590"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center justify-center gap-2 px-6 py-3 bg-[#25D366] text-white rounded-xl font-bold hover:bg-[#128C7E] transition-all shadow-lg shadow-green-200"
+                  >
+                    <MessageCircle className="w-5 h-5" />
+                    {isRu ? "Спросить в WhatsApp" : "Ask on WhatsApp"}
+                  </a>
+                  <button
+                    onClick={() => {
+                      navigate(isRu ? '/ru/contact' : '/en/contact');
+                      onClose();
+                    }}
+                    className="flex items-center justify-center gap-2 px-6 py-3 bg-gray-100 text-gray-700 rounded-xl font-bold hover:bg-gray-200 transition-all"
+                  >
+                    {isRu ? "Отправить запрос" : "Send Inquiry"}
+                    <ArrowRight className="w-4 h-4" />
+                  </button>
+                </div>
               </div>
             ) : (
               <div className="divide-y divide-gray-100">

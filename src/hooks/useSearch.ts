@@ -9,6 +9,7 @@ export interface SearchResult {
   description: string;
   category: string;
   image: string;
+  cas?: string;
   language: 'en' | 'ru';
   score?: number;
 }
@@ -48,6 +49,7 @@ export function useSearch(currentLocale: 'en' | 'ru') {
         description: product.shortDescription,
         category: product.category,
         image: product.image,
+        cas: product.cas,
         language: 'en' as const,
       })),
       // 俄文产品
@@ -58,6 +60,7 @@ export function useSearch(currentLocale: 'en' | 'ru') {
         description: product.shortDescription,
         category: product.category,
         image: product.image,
+        cas: product.cas,
         language: 'ru' as const,
       })),
     ];
@@ -65,6 +68,7 @@ export function useSearch(currentLocale: 'en' | 'ru') {
     return new Fuse(items, {
       keys: [
         { name: 'title', weight: 2 },
+        { name: 'cas', weight: 2 },
         { name: 'description', weight: 1 },
         { name: 'category', weight: 0.5 },
       ],
