@@ -5,27 +5,72 @@ nameCn: "氨基磺酸"
 cas: "5329-14-6"
 hsCode: "2811199090"
 slug: "sulfamic-acid"
-shortDescription: "High-purity sulfamic acid for descaling, cleaning, and electroplating applications."
+shortDescription: "High-purity Sulfamic Acid (H3NSO3) for bulk purchase and export from China. Essential for cleaning, electroplating, and textile applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"NH₂SO₃H"},{"label":"CAS Number","value":"5329-14-6"},{"label":"HS Code","value":"2811199090"},{"label":"Purity","value":"≥99.5%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"25MT per 20GP container"},{"label":"Available Ports","value":"Tianjin"}]
-applications: ["Industrial descaling and cleaning","Electroplating industry","Paper and pulp bleaching","Herbicide manufacturing","Flame retardant synthesis","Concrete admixture"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (25MT) for the best pricing and shipping efficiency."},{"question":"Is sulfamic acid safer than hydrochloric acid for descaling?","answer":"Yes, sulfamic acid is generally considered safer than hydrochloric acid for descaling applications. It is less corrosive to metals, produces no harmful fumes, and is easier to handle and store."},{"question":"What industries use sulfamic acid?","answer":"Major industries include cleaning and maintenance, electroplating, paper manufacturing, agriculture (herbicides), and construction (concrete admixtures)."}]
-ports: "Tianjin"
+specs: [
+  {"label":"Chemical Formula","value":"H₃NSO₃"},
+  {"label":"CAS Number","value":"5329-14-6"},
+  {"label":"HS Code","value":"2811199090"},
+  {"label":"Purity","value":"≥99.5%"},
+  {"label":"Appearance","value":"White crystalline powder"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Cleaning agent (descaling, rust removal)",
+  "Electroplating (pH regulator, additive)",
+  "Textile industry (dye fixing, bleaching)",
+  "Paper and pulp industry (chlorine stabilizer)",
+  "Sweetener manufacturing",
+  "Chemical synthesis"
+]
+faqs: [
+  {"question":"What grades of Sulfamic Acid do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sulfamic Acid, offering industrial grade with ≥99.5% purity. It is available for bulk purchase and export, ideal for various industrial applications."},{
+    "question":"What is the typical purity of your Sulfamic Acid products?",
+    "answer":"Our Sulfamic Acid (H₃NSO₃) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is Sulfamic Acid packaged for international shipping from China?",
+    "answer":"For export, our Sulfamic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade Sulfamic Acid?",
+    "answer":"Our industrial grade Sulfamic Acid is widely used as a cleaning agent for descaling, in electroplating as a pH regulator, and in the textile industry for dye fixing. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sulfamic Acid?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Sulfamic Acid orders from your factory?",
+    "answer":"Standard lead time for bulk Sulfamic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
-category: "Specialty Acids"
+category: "Acids"
+featured: true
 ---
 
-Sulfamic Acid (H₃NSO₃) is a high-performance inorganic acid widely recognized for its exceptional cleaning, descaling, and chemical intermediate capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our Sulfamic Acid is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
+## Sulfamic Acid (CAS 5329-14-6): Your Trusted China Manufacturer & Supplier for High-Purity H₃NSO₃
 
-In the **cleaning and descaling industry**, Sulfamic Acid is a primary "descaling agent." It is highly effective at removing calcium and magnesium scale, rust, and other mineral deposits from a wide range of surfaces, including boilers, heat exchangers, and piping systems. Its high acidity (pH 1.2 in a 1% solution) and low corrosivity compared to other strong acids make it an ideal choice for cleaning industrial equipment and household appliances. It is also used as a **cleaning agent** for ceramic tiles and grout.
+As a premier **China manufacturer and supplier** of **Sulfamic Acid (H₃NSO₃)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Sulfamic Acid is produced to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, electroplating, and industrial applications (HS Code: 2811199090).
 
-The **industrial sector** utilizes Sulfamic Acid as a versatile **chemical intermediate**. It is used in the production of various other sulfamates and as a building block for other organic chemicals. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a scale inhibitor and for the removal of residual chlorine from treated water.
+### Key Applications & Benefits:
 
-In **agriculture**, Sulfamic Acid is used as a **herbicide** and **desiccant** for certain types of crops. It helps to control the growth of weeds and to facilitate the harvesting of crops. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
+1.  **Cleaning Agent**: Widely used as an effective **cleaning agent** for descaling, rust removal, and cleaning of industrial equipment, boilers, and heat exchangers. Its non-hygroscopic nature and strong acidic properties make it superior to other acids in many applications.
 
-The **chemical industry** employs Sulfamic Acid as a raw material for the production of various other sulfur-based chemicals and as a building block for other inorganic chemicals. It is also used in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete.
+2.  **Electroplating**: Essential in **electroplating** as a **pH regulator** and **additive** in various plating baths, including nickel plating. It helps to improve the quality and brightness of plated surfaces.
 
-Furthermore, Sulfamic Acid finds applications in **personal care products**, such as hair dyes and perms, where it acts as a pH regulator and stabilizer. Its high solubility and stable nature make it an ideal choice for many applications.
+3.  **Textile Industry**: Employed in the **textile industry** for **dye fixing**, ensuring color fastness and preventing fading. It is also used as a **bleaching agent** and a descaling agent for textile machinery.
 
-Our Sulfamic Acid is available in various grades, including industrial grade and high-purity grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Sulfamic Acid to our global partners.
+4.  **Paper and Pulp Industry**: Used in the **paper and pulp industry** as a **chlorine stabilizer** and a bleaching agent, contributing to the brightness and quality of paper products.
+
+5.  **Sweetener Manufacturing**: Applied in the manufacturing of **artificial sweeteners**, such as cyclamates, as a key intermediate.
+
+6.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the production of herbicides, pesticides, and other organic compounds.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our Sulfamic Acid, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sulfamic Acid manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

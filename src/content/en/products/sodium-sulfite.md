@@ -1,31 +1,76 @@
 ---
 id: "15"
-name: "Sodium Sulfite"
-nameCn: "亚硫酸钠"
+name: "Sodium Sulfite Anhydrous"
+nameCn: "无水亚硫酸钠"
 cas: "7757-83-7"
 hsCode: "2832100000"
 slug: "sodium-sulfite"
-shortDescription: "Industrial sodium sulfite for water treatment, pulp and paper, and chemical processing."
+shortDescription: "High-purity Sodium Sulfite Anhydrous (Na2SO3) for bulk purchase and export from China. Essential for water treatment, photography, and textile applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"Na₂SO₃"},{"label":"CAS Number","value":"7757-83-7"},{"label":"HS Code","value":"2832100000"},{"label":"Purity","value":"≥96%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Qingdao / Tianjin"}]
-applications: ["Water treatment (oxygen scavenger)","Pulp and paper bleaching","Textile industry","Photography chemicals","Food preservative","Chemical synthesis"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"A full 20-foot container (27MT) is recommended for cost-effective international shipping."},{"question":"What is the main use in water treatment?","answer":"Sodium sulfite is used as an oxygen scavenger in boiler water treatment to prevent corrosion caused by dissolved oxygen."},{"question":"How should it be stored?","answer":"Store in a cool, dry, well-ventilated area in tightly sealed containers. Sodium sulfite can oxidize to sodium sulfate when exposed to air."}]
-ports: "Qingdao / Tianjin"
-loading: "27MT/20GP"
+specs: [
+  {"label":"Chemical Formula","value":"Na₂SO₃"},
+  {"label":"CAS Number","value":"7757-83-7"},
+  {"label":"HS Code","value":"2832100000"},
+  {"label":"Purity","value":"≥96%"},
+  {"label":"Appearance","value":"White crystalline powder"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Water treatment (oxygen scavenger, dechlorination)",
+  "Photography (reducing agent, preservative)",
+  "Textile industry (bleaching, desulfurizing agent)",
+  "Pulp and paper industry (bleaching agent)",
+  "Food additive (preservative, antioxidant)",
+  "Chemical synthesis"
+]
+faqs: [
+  {"question":"What grades of Sodium Sulfite Anhydrous do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Sulfite Anhydrous, offering industrial grade and photographic grade with ≥96% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+    "question":"What is the typical purity of your Sodium Sulfite Anhydrous products?",
+    "answer":"Our Sodium Sulfite Anhydrous (Na₂SO₃) is available with a minimum purity of 96%. We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is Sodium Sulfite Anhydrous packaged for international shipping from China?",
+    "answer":"For export, our Sodium Sulfite Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade Sodium Sulfite Anhydrous?",
+    "answer":"Our industrial grade Sodium Sulfite Anhydrous is widely used in water treatment as an oxygen scavenger, in photography as a reducing agent, and in the textile industry as a bleaching agent. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Sulfite Anhydrous?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Sodium Sulfite Anhydrous orders from your factory?",
+    "answer":"Standard lead time for bulk Sodium Sulfite Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
+loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfur Compounds"
+featured: true
 ---
 
-Sodium Sulfite (Na₂SO₃) is a high-performance inorganic salt widely recognized for its exceptional reducing, antioxidant, and oxygen-scavenging capabilities. It is a vital ingredient in the production of industrial chemicals, food products, and various other materials. Our Sodium Sulfite is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
+## Sodium Sulfite Anhydrous (CAS 7757-83-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂SO₃
 
-In the **water treatment industry**, Sodium Sulfite is a primary "oxygen scavenger." It works by reacting with dissolved oxygen in water to form sodium sulfate, preventing the corrosion of pipes, boilers, and heat exchangers. This is particularly important in high-pressure boiler systems, where even small amounts of dissolved oxygen can cause significant damage. It is also used as a **dechlorination agent** to remove residual chlorine from treated water.
+As a premier **China manufacturer and supplier** of **Sodium Sulfite Anhydrous (Na₂SO₃)**, we offer **high-purity** product with **≥96% purity** for **bulk purchase** and **export** worldwide. Our Sodium Sulfite Anhydrous is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and industrial applications (HS Code: 2832100000).
 
-The **pulp and paper industry** utilizes Sodium Sulfite as a **bleaching assistant** and for the production of wood pulp. It helps to improve the brightness and quality of the final paper products. In the **textile industry**, it is used as a bleaching agent for wool and other natural fibers and for removing excess chlorine after bleaching processes.
+### Key Applications & Benefits:
 
-In **food processing**, food-grade Sodium Sulfite is used as a **preservative** and **antioxidant** (E221). It helps to prevent the spoilage and browning of various products, such as dried fruits, vegetables, and fruit juices. It also acts as a **stabilizer** for colors and flavors in these products.
+1.  **Water Treatment**: Widely used in **water treatment** as an effective **oxygen scavenger** to remove dissolved oxygen from boiler feed water, preventing corrosion. It also serves as a **dechlorination agent** in municipal and industrial water systems.
 
-The **chemical industry** employs Sodium Sulfite as a raw material for the production of various other sulfur-based chemicals, such as sodium thiosulphate and sodium metabisulphite. It is also used in **photography** as a component in developing and fixing solutions and in **metallurgy** for the refining of various metals.
+2.  **Photography**: Essential in **photography** as a **reducing agent** in developing solutions and as a **preservative** to prevent oxidation of photographic chemicals, ensuring stable and high-quality images.
 
-Furthermore, Sodium Sulfite finds applications in **leather tanning** as a reducing agent and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
+3.  **Textile Industry**: Employed in the **textile industry** as a **bleaching agent** for wool, cotton, and other natural fibers. It also functions as a **desulfurizing agent** and a reducing agent in various dyeing processes.
 
-Our Sodium Sulfite is available in various grades, including industrial grade and food grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Sodium Sulfite to our global partners.
+4.  **Pulp and Paper Industry**: Used in the **pulp and paper industry** as a **bleaching agent** for wood pulp, improving the brightness and whiteness of paper products.
+
+5.  **Food Additive**: Food-grade Sodium Sulfite Anhydrous is used as a **preservative** and **antioxidant** in certain food products, preventing spoilage and maintaining freshness.
+
+6.  **Chemical Synthesis**: Serves as a versatile **reducing agent** and **sulfonating agent** in various organic and inorganic chemical synthesis processes.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our Sodium Sulfite Anhydrous, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Sulfite Anhydrous manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

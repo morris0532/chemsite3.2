@@ -1,31 +1,76 @@
 ---
 id: "14"
-name: "Sodium Metabisulphite"
+name: "Sodium Metabisulphite (SMBS)"
 nameCn: "焦亚硫酸钠"
 cas: "7681-57-4"
 hsCode: "2832100000"
 slug: "sodium-metabisulphite"
-shortDescription: "Food and industrial grade sodium metabisulphite for preservation, bleaching, and water treatment."
+shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"Na₂S₂O₅"},{"label":"CAS Number","value":"7681-57-4"},{"label":"HS Code","value":"2832100000"},{"label":"Purity","value":"≥97%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Qingdao / Tianjin"}]
-applications: ["Food preservative and antioxidant","Water treatment (dechlorination)","Textile bleaching","Photography chemicals","Mining and ore processing","Leather tanning"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (27MT) for the best pricing."},{"question":"Is this product food grade?","answer":"Yes, we offer food grade sodium metabisulphite suitable for use as a preservative in food and beverage products."},{"question":"How does it work as a preservative?","answer":"Sodium metabisulphite releases sulfur dioxide (SO₂) which acts as an antimicrobial and antioxidant agent, preventing spoilage and browning in food products."}]
-ports: "Qingdao / Tianjin"
-loading: "27MT/20GP"
+specs: [
+  {"label":"Chemical Formula","value":"Na₂S₂O₅"},
+  {"label":"CAS Number","value":"7681-57-4"},
+  {"label":"HS Code","value":"2832100000"},
+  {"label":"Purity","value":"≥97%"},
+  {"label":"Appearance","value":"White crystalline powder"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Water treatment (dechlorination, oxygen scavenger)",
+  "Food preservation (antioxidant, antimicrobial)",
+  "Mining (flotation agent, depressant)",
+  "Textile industry (bleaching, dyeing, reducing agent)",
+  "Pulp and paper industry (bleaching agent)",
+  "Photography (fixing agent)"
+]
+faqs: [
+  {"question":"What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of SMBS, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+    "question":"What is the typical purity of your SMBS products?",
+    "answer":"Our Sodium Metabisulphite (Na₂S₂O₅) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is SMBS packaged for international shipping from China?",
+    "answer":"For export, our SMBS is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade SMBS?",
+    "answer":"Our industrial grade SMBS is widely used in water treatment as a dechlorination agent, in food preservation as an antioxidant, in mining as a flotation agent, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for SMBS?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk SMBS orders from your factory?",
+    "answer":"Standard lead time for bulk SMBS orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
+loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfur Compounds"
+featured: true
 ---
 
-Sodium Metabisulphite (Na₂S₂O₅) is a high-performance inorganic salt widely recognized for its exceptional antioxidant, preservative, and reducing capabilities. It is a vital ingredient in the production of food products, industrial chemicals, and various other materials. Our Sodium Metabisulphite is manufactured to high standards of purity and consistency, ensuring optimal performance in both food-grade and industrial applications.
+## Sodium Metabisulphite (CAS 7681-57-4): Your Trusted China Manufacturer & Supplier for High-Purity SMBS
 
-In the **food industry**, Sodium Metabisulphite is a primary "preservative" and "antioxidant" (E223). It works by releasing sulfur dioxide (SO₂), which inhibits the growth of bacteria, yeasts, and molds, extending the shelf life of various products. It is widely used in the preservation of dried fruits, vegetables, fruit juices, and wines. It also helps to prevent the browning of fruits and vegetables by inhibiting the action of enzymes.
+As a premier **China manufacturer and supplier** of **Sodium Metabisulphite (SMBS)**, we offer **high-purity** product with **≥97% purity** for **bulk purchase** and **export** worldwide. Our SMBS is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food preservation, and industrial applications (HS Code: 2832100000).
 
-The **industrial sector** utilizes Sodium Metabisulphite as a versatile **reducing agent**. It is used in the **textile industry** for bleaching wool and other natural fibers and for removing excess chlorine after bleaching processes. In the **pulp and paper industry**, it is used as a bleaching assistant and for the production of wood pulp. In **water treatment**, it is used as a dechlorination agent to remove residual chlorine from treated water.
+### Key Applications & Benefits:
 
-In **mining and metallurgy**, Sodium Metabisulphite is used as a **flotation agent** for the separation of various minerals and for the recovery of precious metals. It is also employed in the **chemical industry** as a raw material for the production of various other sulfur-based chemicals, such as sodium thiosulphate and sodium sulfite.
+1.  **Water Treatment**: Widely used in **water treatment** as an effective **dechlorination agent** to remove residual chlorine from municipal and industrial water systems. It also functions as an **oxygen scavenger** in boiler feed water, preventing corrosion.
 
-The **pharmaceutical industry** employs Sodium Metabisulphite as an **antioxidant** and **stabilizer** in various medications and as a component in various pharmaceutical formulations. It is also used in **photography** as a component in developing and fixing solutions.
+2.  **Food Preservation**: Essential in **food preservation** as an **antioxidant** and **antimicrobial agent**. It prevents enzymatic browning in fruits and vegetables, extends the shelf life of seafood, and is used in winemaking to inhibit bacterial growth.
 
-Furthermore, Sodium Metabisulphite finds applications in **leather tanning** as a reducing agent and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
+3.  **Mining Industry**: Employed in the **mining industry** as a **flotation agent** and **depressant** for mineral processing, helping to separate valuable minerals from gangue. It is particularly effective in gold and silver extraction.
 
-Our Sodium Metabisulphite is available in various grades, including food grade and industrial grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Sodium Metabisulphite to our global partners.
+4.  **Textile Industry**: Used in the **textile industry** as a **bleaching agent**, **dyeing auxiliary**, and **reducing agent**. It helps to remove excess dye, improve color fastness, and prepare fabrics for further processing.
+
+5.  **Pulp and Paper Industry**: Applied in the **pulp and paper industry** as a **bleaching agent** for wood pulp, improving the brightness and whiteness of paper products.
+
+6.  **Photography**: Functions as a **fixing agent** in photographic developers, contributing to the chemical process of developing photographic films and papers.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our SMBS, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Metabisulphite manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

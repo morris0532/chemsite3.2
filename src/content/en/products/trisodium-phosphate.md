@@ -1,31 +1,76 @@
 ---
 id: "11"
-name: "Trisodium Phosphate"
+name: "Trisodium Phosphate (TSP)"
 nameCn: "磷酸三钠"
 cas: "7601-54-9"
 hsCode: "2835291000"
 slug: "trisodium-phosphate"
-shortDescription: "Industrial trisodium phosphate for cleaning, water treatment, and food processing applications."
+shortDescription: "High-purity Trisodium Phosphate (TSP) for bulk purchase and export from China. Essential for cleaning, food additive, and water treatment applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"Na₃PO₄·12H₂O"},{"label":"CAS Number","value":"7601-54-9"},{"label":"HS Code","value":"2835291000"},{"label":"Purity","value":"≥98%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Tianjin / Qingdao"}]
-applications: ["Industrial cleaning and degreasing","Water treatment","Food additive (emulsifier)","Boiler water treatment","Paint stripping","Ceramic manufacturing"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"A full 20-foot container (27MT) is recommended for the most cost-effective ordering."},{"question":"Is TSP safe for food use?","answer":"Food grade TSP is available and approved as a food additive in many countries. It is used as an emulsifier and acidity regulator."},{"question":"What are the main applications?","answer":"TSP is primarily used for industrial cleaning, degreasing, water treatment, and as a food additive. It is also used in paint stripping and ceramic manufacturing."}]
-ports: "Tianjin / Qingdao"
-loading: "27MT/20GP"
+specs: [
+  {"label":"Chemical Formula","value":"Na₃PO₄"},
+  {"label":"CAS Number","value":"7601-54-9"},
+  {"label":"HS Code","value":"2835299000"},
+  {"label":"Purity","value":"≥98%"},
+  {"label":"Appearance","value":"White crystalline powder/granular"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Cleaning agent (heavy-duty cleaner, degreaser)",
+  "Food additive (emulsifier, thickener, pH regulator)",
+  "Water treatment (scale inhibitor, dispersant)",
+  "Metal treatment (rust removal, degreasing)",
+  "Ceramics and tiles (dispersant)",
+  "Textile dyeing"
+]
+faqs: [
+  {"question":"What grades of Trisodium Phosphate (TSP) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of TSP, offering food grade and industrial grade with ≥98% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+    "question":"What is the typical purity of your Trisodium Phosphate products?",
+    "answer":"Our TSP (Na₃PO₄) is available with a minimum purity of 98%. We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is Trisodium Phosphate packaged for international shipping from China?",
+    "answer":"For export, our TSP is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade Trisodium Phosphate?",
+    "answer":"Our industrial grade TSP is widely used as a heavy-duty cleaning agent, in food as an emulsifier, and in water treatment as a scale inhibitor. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Trisodium Phosphate?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Trisodium Phosphate orders from your factory?",
+    "answer":"Standard lead time for bulk TSP orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
+loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
-category: "Phosphate Compounds"
+category: "Phosphates"
+featured: true
 ---
 
-Trisodium Phosphate (TSP, Na₃PO₄), also known as Sodium Phosphate Tribasic, is a high-performance inorganic salt widely recognized for its exceptional cleaning, degreasing, and buffering capabilities. It is a vital ingredient in the production of heavy-duty cleaning agents, industrial degreasers, and various chemical products. Our TSP is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and food-grade applications.
+## Trisodium Phosphate (CAS 7601-54-9): Your Trusted China Manufacturer & Supplier for High-Purity TSP
 
-In the **cleaning and degreasing industry**, TSP is a primary "heavy-duty cleaner." It is highly effective at removing grease, oil, wax, and other organic deposits from a wide range of surfaces, including metal, concrete, and wood. Its high alkalinity (pH 12 in a 1% solution) makes it an ideal choice for cleaning industrial equipment, floors, and walls. It is also used as a "paint stripper" or "surface preparer" before painting, as it helps to etch the surface and improve paint adhesion.
+As a premier **China manufacturer and supplier** of **Trisodium Phosphate (TSP)**, we offer **high-purity** product with **≥98% purity** for **bulk purchase** and **export** worldwide. Our TSP is produced to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, food additive, and industrial applications (HS Code: 2835299000).
 
-The **food industry** utilizes food-grade TSP as a versatile additive (E339). It is primarily used as a **buffering agent** to control the pH of various products, such as processed cheeses, evaporated milk, and cereals. It also acts as an **emulsifier** and **stabilizer** in these products, ensuring a smooth, consistent texture and preventing the separation of fats and water. In meat and poultry processing, it is used to improve water retention and enhance the tenderness of the final products.
+### Key Applications & Benefits:
 
-In **industrial applications**, TSP serves as a powerful **water softener** and **scale inhibitor**. It reacts with calcium and magnesium ions in hard water to form insoluble precipitates that can be easily removed, preventing the formation of scale in pipes, boilers, and heat exchangers. It is also used in **textile processing** as a scouring agent and in **paper manufacturing** as a bleaching assistant.
+1.  **Cleaning Agent**: Widely used as a powerful **heavy-duty cleaning agent** and **degreaser** in industrial, commercial, and household settings. It effectively removes stubborn stains, grease, and grime from various surfaces, including concrete, metal, and painted surfaces.
 
-The **chemical industry** employs TSP as a raw material for the production of various other phosphates and as a building block for other inorganic chemicals. It is also used in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete.
+2.  **Food Additive**: Food-grade TSP is used as an **emulsifier, thickener, and pH regulator** in various food products, including processed meats, dairy products, and baked goods. It helps to improve texture, retain moisture, and extend shelf life.
 
-Furthermore, TSP finds applications in **wastewater treatment** for the removal of heavy metals and as a nutrient source for biological treatment processes. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
+3.  **Water Treatment**: Essential in **water treatment** as a **scale inhibitor** and **dispersant**. It prevents the formation of scale in boilers and cooling systems, and helps to disperse suspended solids, improving water clarity and preventing fouling.
 
-Our TSP is available in various forms, including anhydrous and dodecahydrate (Na₃PO₄·12H₂O), to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of TSP to our global partners.
+4.  **Metal Treatment**: Employed in **metal treatment** for **rust removal** and **degreasing** of metal surfaces before painting or plating. Its alkaline properties help to neutralize acids and remove contaminants.
+
+5.  **Ceramics and Tiles**: Used in the **ceramics and tiles industry** as a **dispersant** to reduce the viscosity of ceramic slips, allowing for easier processing and higher solid content.
+
+6.  **Textile Dyeing**: Applied in the **textile industry** as a buffering agent and sequestrant in dyeing processes, ensuring uniform color and preventing dye precipitation.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our TSP, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Trisodium Phosphate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

@@ -5,26 +5,75 @@ nameCn: "氯化钙"
 cas: "10043-52-4"
 hsCode: "2827200000"
 slug: "calcium-chloride"
-shortDescription: "Industrial-grade calcium chloride for de-icing, dust control, oil drilling, and desiccant applications."
+shortDescription: "High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk purchase and export from China. Essential for de-icing, oil & gas, and food applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"CaCl₂"},{"label":"CAS Number","value":"10043-52-4"},{"label":"HS Code","value":"2827200000"},{"label":"Purity","value":"74% / 77% / 94%"},{"label":"Appearance","value":"White flakes / pellets / powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"25-27MT per 20GP container"},{"label":"Available Ports","value":"Qingdao / Nanjing / Ningbo-Zhoushan"}]
-applications: ["Road de-icing and snow melting","Dust control on unpaved roads","Oil and gas drilling fluids","Desiccant and moisture absorber","Concrete accelerator","Food processing (food grade)","Refrigeration brine"]
-faqs: [{"question":"What forms of Calcium Chloride are available?","answer":"We offer Calcium Chloride in flakes (74-77%), pellets/prills (94-97%), and powder forms. The choice depends on your specific application and handling preferences."},{"question":"What is the recommended order quantity?","answer":"For best cost efficiency, we recommend ordering a full 20-foot container (20GP), which holds 25-27 metric tons. Full container loads offer the most competitive pricing."},{"question":"Can Calcium Chloride be used for food applications?","answer":"Yes, we offer food-grade Calcium Chloride that meets food safety standards. It is commonly used in cheese making, beer brewing, and as a firming agent in canned vegetables."},{"question":"What shipping ports are available?","answer":"We ship from Qingdao, Nanjing, and Ningbo-Zhoushan ports. Port selection depends on your destination and preferred shipping route."},{"question":"How should Calcium Chloride be stored?","answer":"Store in a dry, cool area in tightly sealed containers. Calcium Chloride is highly hygroscopic and will absorb moisture from the air, which can cause caking."}]
-ports: "Qingdao / Nanjing / Ningbo-Zhoushan"
+specs: [
+  {"label":"Chemical Formula","value":"CaCl₂"},
+  {"label":"CAS Number","value":"10043-52-4"},
+  {"label":"HS Code","value":"2827200000"},
+  {"label":"Purity","value":"≥74% / ≥94% (Anhydrous)"},
+  {"label":"Appearance","value":"White flakes, pellets, or powder"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "De-icing agent (roads, sidewalks)",
+  "Oil and gas drilling fluids",
+  "Dust control (unpaved roads)",
+  "Food additive (firming agent, electrolyte)",
+  "Refrigeration brines",
+  "Concrete accelerator",
+  "Desiccant (drying agent)"
+]
+faqs: [
+  {"question":"What forms of Calcium Chloride do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Calcium Chloride, offering flakes, pellets, and powder forms with purities ranging from ≥74% to ≥94% (anhydrous). All forms are available for bulk purchase and export, catering to diverse industrial needs."},{
+    "question":"What is the typical purity of your Calcium Chloride products?",
+    "answer":"Our Calcium Chloride (CaCl₂) is available in various purities, including ≥74% (dihydrate) and ≥94% (anhydrous). We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is Calcium Chloride packaged for international shipping from China?",
+    "answer":"For export, our Calcium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade Calcium Chloride?",
+    "answer":"Our industrial grade Calcium Chloride is widely used as a de-icing agent for roads, in oil and gas drilling fluids, for dust control on unpaved roads, as a food additive, and as a desiccant. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Calcium Chloride?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Calcium Chloride orders from your factory?",
+    "answer":"Standard lead time for bulk Calcium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Chloride Compounds"
 featured: true
 ---
 
-Calcium Chloride (CaCl₂) is a highly versatile inorganic salt known for its exceptional hygroscopic properties and its ability to significantly lower the freezing point of water. Available in anhydrous (94%) and dihydrate (74% or 77%) forms, it is an essential chemical for infrastructure maintenance, industrial processing, and resource extraction. Our Calcium Chloride is produced to meet rigorous quality standards, ensuring consistent performance across all applications.
+## Calcium Chloride (CAS 10043-52-4): Your Trusted China Manufacturer & Supplier for High-Purity CaCl₂
 
-In **road maintenance and safety**, Calcium Chloride is a premier agent for **de-icing and snow melting**. It is more effective than traditional rock salt at lower temperatures, remaining active down to -32°C (-25°F). Its exothermic properties allow it to release heat as it dissolves, accelerating the melting process. Additionally, it is widely used for **dust control** on unpaved roads, construction sites, and mining areas. Its hygroscopic nature allows it to absorb moisture from the air, keeping the surface damp and binding dust particles together, which improves air quality and reduces road maintenance costs.
+As a premier **China manufacturer and supplier** of **Calcium Chloride (CaCl₂)**, we offer **high-purity flakes, pellets, and powder** with **≥74% to ≥94% (anhydrous) purity** for **bulk purchase** and **export** worldwide. Our Calcium Chloride is produced to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, food, and environmental applications (HS Code: 2827200000).
 
-The **oil and gas industry** relies heavily on Calcium Chloride for drilling and completion fluids. It is used to increase the density of clear brines, providing the necessary hydrostatic pressure to control wellbore stability and prevent blowouts. It also helps inhibit shale swelling and acts as a key component in "packer fluids" and workover operations.
+### Key Applications & Benefits:
 
-In the **construction industry**, Calcium Chloride serves as a potent **concrete accelerator**. When added to concrete mixes, it speeds up the setting time and increases early strength development, which is particularly beneficial for cold-weather concreting and projects requiring rapid turnaround.
+1.  **De-icing Agent**: Widely used as an effective **de-icing agent** for roads, sidewalks, and parking lots, especially in cold climates. It lowers the freezing point of water, preventing ice formation and melting existing ice.
 
-As a **desiccant and moisture absorber**, Calcium Chloride is used in industrial drying processes and in consumer products like moisture-absorbing bags for closets and basements. It is also employed in **wastewater treatment** to remove fluorides and to break oil-water emulsions. In the **food industry** (food grade), it is used as a firming agent in canned vegetables, a source of electrolytes in sports drinks, and in cheesemaking to ensure consistent curd formation.
+2.  **Oil and Gas Industry**: Essential in the **oil and gas industry** as a component in drilling fluids, completion fluids, and workover fluids. It helps to control formation pressures, stabilize boreholes, and prevent hydrate formation.
 
-Our Calcium Chloride is available in various physical forms, including flakes, pellets, and powder, to suit different application methods. We offer robust packaging in 25KG bags and 1000KG jumbo bags, ensuring the product remains dry and free-flowing during transport. With strategic shipping from ports like Qingdao, Nanjing, and Ningbo, we provide efficient global distribution and competitive pricing.
+3.  **Dust Control**: Effectively used for **dust control** on unpaved roads, construction sites, and mining operations. Its hygroscopic properties absorb moisture from the air, binding dust particles and preventing their release.
+
+4.  **Food Additive**: Food-grade Calcium Chloride is used as a **firming agent** in canned vegetables, a **coagulant** in cheesemaking, and an **electrolyte** in sports drinks. It is also used to prevent spoilage and maintain texture.
+
+5.  **Refrigeration Brines**: Utilized in **refrigeration systems** as a brine solution due to its low freezing point and high thermal capacity, making it an efficient heat transfer medium.
+
+6.  **Concrete Accelerator**: Acts as a **concrete accelerator**, speeding up the setting time of concrete and mortar, which is particularly useful in cold weather construction.
+
+7.  **Desiccant**: Functions as a powerful **desiccant (drying agent)** in various industrial processes and packaging to absorb moisture and prevent humidity-related damage.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our Calcium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Calcium Chloride manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

@@ -1,32 +1,76 @@
 ---
 id: "1"
-name: "Sodium Thiosulphate"
-nameCn: "大苏打"
+name: "Sodium Thiosulphate (Hypo)"
+nameCn: "硫代硫酸钠"
 cas: "7772-98-7"
 hsCode: "2832300000"
-slug: "sodium-thiosulphate"
-shortDescription: "High-purity sodium thiosulphate (sodium hyposulfite) for industrial, photographic, and water treatment applications."
+sług: "sodium-thiosulphate"
+shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},{"label":"CAS Number","value":"7772-98-7"},{"label":"HS Code","value":"2832300000"},{"label":"Purity","value":"≥99%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"27-28MT per 20GP container"},{"label":"Available Ports","value":"Qingdao / Tianjin / Dalian"}]
-applications: ["Water treatment and dechlorination","Photographic fixing agent","Gold and silver ore extraction","Textile industry bleaching","Leather processing","Pharmaceutical intermediates","Aquaculture water purification"]
-faqs: [{"question":"What is the minimum order quantity for Sodium Thiosulphate?","answer":"For optimal cost efficiency, we recommend ordering a full 20-foot container (20GP), which holds approximately 27-28 metric tons. We do not set a fixed MOQ, but a full container load ensures the best pricing and shipping economics."},{"question":"What purity grades are available?","answer":"We offer industrial grade (≥98%) and high-purity grade (≥99%). Both grades are suitable for water treatment, photography, and other industrial applications. Custom specifications can be discussed based on your requirements."},{"question":"How is Sodium Thiosulphate packaged for export?","answer":"Standard packaging includes 25KG woven bags with PE inner liners, or 1000KG (1MT) jumbo bags. Custom packaging can be arranged upon request. All packaging is designed to protect against moisture during ocean transport."},{"question":"What are the shipping ports available?","answer":"We can ship from Qingdao, Tianjin, or Dalian ports in China. The choice of port depends on your destination and shipping route preferences. We work with major shipping lines to ensure competitive freight rates."},{"question":"Can you provide MSDS and COA documents?","answer":"Yes, we provide complete documentation including Material Safety Data Sheet (MSDS) and Certificate of Analysis (COA) for every shipment. You can request these documents through our website by submitting your email address."},{"question":"What is the typical lead time for orders?","answer":"Standard lead time is 7-15 days after order confirmation, depending on the quantity and current stock levels. For large orders or special specifications, please contact us for an accurate delivery schedule."}]
+specs: [
+  {"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},
+  {"label":"CAS Number","value":"7772-98-7"},
+  {"label":"HS Code","value":"2832300000"},
+  {"label":"Purity","value":"≥99% (Anhydrous/Pentahydrate)"},
+  {"label":"Appearance","value":"White crystalline powder/crystals"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  },
+  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Water treatment (dechlorination, heavy metal removal)",
+  "Photography (fixing agent)",
+  "Medical (antidote for cyanide poisoning)",
+  "Textile industry (reducing agent, bleaching)",
+  "Chemical analysis (titrant)",
+  "Leather tanning"
+]
+faqs: [
+  {"question":"What grades of Sodium Thiosulphate do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Thiosulphate, offering both anhydrous and pentahydrate forms with ≥99% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+    "question":"What is the typical purity of your Sodium Thiosulphate products?",
+    "answer":"Our Sodium Thiosulphate (Na₂S₂O₃) is available with a minimum purity of 99% for both anhydrous and pentahydrate forms. We ensure strict quality control to meet international standards for all applications."
+  },{
+    "question":"How is Sodium Thiosulphate packaged for international shipping from China?",
+    "answer":"For export, our Sodium Thiosulphate is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+  },{
+    "question":"What are the main applications of your industrial grade Sodium Thiosulphate?",
+    "answer":"Our industrial grade Sodium Thiosulphate is widely used in water treatment as a dechlorination agent, in photography as a fixing agent, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Thiosulphate?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Sodium Thiosulphate orders from your factory?",
+    "answer":"Standard lead time for bulk Sodium Thiosulphate orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
 ports: "Qingdao / Tianjin / Dalian"
-loading: "27-28MT/20GP"
+loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfur Compounds"
 featured: true
 ---
 
-[Sodium Thiosulphate (Na₂S₂O₃), commonly known as Sodium Hyposulfite or "Hypo," is a versatile inorganic compound that serves as a cornerstone in numerous industrial and chemical processes. Our high-purity Sodium Thiosulphate is manufactured using advanced crystallization techniques, ensuring a product that meets the most stringent international quality standards. 
+## Sodium Thiosulphate (CAS 7772-98-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂S₂O₃
 
-In the realm of **water treatment**, Sodium Thiosulphate is indispensable for its rapid and effective dechlorination capabilities. It is widely used in municipal water treatment plants, industrial wastewater facilities, and aquaculture to neutralize residual chlorine and chloramines, protecting aquatic life and ensuring water safety for discharge. Its reaction with chlorine is instantaneous, making it a preferred choice for emergency dechlorination and routine maintenance.
+As a premier **China manufacturer and supplier** of **Sodium Thiosulphate (Na₂S₂O₃)**, commonly known as **Hypo**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Thiosulphate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and medical applications (HS Code: 2832300000).
 
-The **photographic industry** has long relied on Sodium Thiosulphate as a primary fixing agent. It works by dissolving unexposed silver halide from film and photographic paper, "fixing" the image and making it permanent and light-insensitive. Despite the rise of digital photography, it remains essential for traditional film processing and specialized medical imaging applications.
+### Key Applications & Benefits:
 
-In **mining and metallurgy**, particularly in gold and silver extraction, Sodium Thiosulphate is gaining prominence as a more environmentally friendly alternative to traditional cyanide leaching. It forms stable complexes with precious metals, allowing for efficient recovery from certain types of ores where cyanide may be less effective or environmentally restricted.
+1.  **Water Treatment**: Widely used in **water treatment** as an effective **dechlorination agent** to remove residual chlorine from municipal and industrial water systems. It also helps in the **removal of heavy metals** from wastewater through precipitation.
 
-The **textile and leather industries** utilize Sodium Thiosulphate as an antichlor to remove excess chlorine after bleaching processes. It also serves as a reducing agent in chrome tanning and as a mordant in dyeing processes, ensuring consistent color quality and material integrity. Furthermore, it finds applications in the pharmaceutical industry as an antidote for cyanide poisoning and in the production of various chemical intermediates.
+2.  **Photography**: Essential in **photography** as a **fixing agent** (hypo) in the development process. It dissolves undeveloped silver halides, making the image permanent and light-stable.
 
-Our Sodium Thiosulphate is available in various grades, including industrial and high-purity crystalline forms. We offer flexible packaging solutions, such as 25KG moisture-proof woven bags and 1000KG jumbo bags, to accommodate different handling and storage requirements. With strategic shipping from major Chinese ports like Qingdao, Tianjin, and Dalian, we ensure reliable global delivery and competitive logistics costs. Every shipment is accompanied by a comprehensive Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) to guarantee transparency and safety compliance.
+3.  **Medical Applications**: Employed in **medical applications** as an **antidote for cyanide poisoning** and as a treatment for certain fungal infections. It is also used in veterinary medicine.
 
-As a leading supplier, we ensure our Sodium Thiosulphate (CAS: 7772-98-7) meets the highest industry standards for applications ranging from photographic fixing to gold leaching. Classified under HS Code 2832300000, our product is a reliable choice for buyers seeking high-purity (≥99%) sodium hyposulfite for their supply chain.
+4.  **Textile Industry**: Used in the **textile industry** as a **reducing agent** and **bleaching agent**. It helps to remove excess chlorine after bleaching processes and can be used in certain dyeing applications.
+
+5.  **Chemical Analysis**: Serves as a standard **titrant** in **chemical analysis** for iodometric titrations, used to determine the concentration of oxidizing agents.
+
+6.  **Leather Tanning**: Applied in **leather tanning** processes as a reducing agent and to remove excess sulfur from hides.
+
+### Packaging, Logistics & Quality Assurance:
+
+We provide flexible **packaging solutions** for our Sodium Thiosulphate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Thiosulphate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.

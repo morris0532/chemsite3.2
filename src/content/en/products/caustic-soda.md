@@ -5,30 +5,72 @@ nameCn: "片碱"
 cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"
-shortDescription: "Premium caustic soda flakes and pearls for chemical processing, water treatment, and manufacturing industries."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Chemical Formula","value":"NaOH"},{"label":"CAS Number","value":"1310-73-2"},{"label":"HS Code","value":"2815110000"},{"label":"Purity","value":"≥96% / ≥99%"},{"label":"Appearance","value":"White flakes / pearls"},{"label":"Packaging","value":"25KG bags / Jumbo bags"},{"label":"Loading","value":"25MT per 20GP container"},{"label":"Available Ports","value":"Qingdao / Tianjin"}]
-applications: ["Soap and detergent manufacturing","Paper and pulp industry","Water treatment","Textile processing","Petroleum refining","Aluminum production","Food processing (food grade)"]
-faqs: [{"question":"What forms of Caustic Soda do you offer?","answer":"We supply Caustic Soda in both flakes and pearls (prills) form. Flakes are the most common form for industrial use, while pearls offer easier handling and dissolving properties."},{"question":"What is the minimum order quantity?","answer":"For cost optimization, we recommend ordering a full 20-foot container (20GP) which holds approximately 25 metric tons. Full container loads provide the best unit pricing and shipping efficiency."},{"question":"How should Caustic Soda be stored?","answer":"Caustic Soda should be stored in a cool, dry, well-ventilated area away from moisture and acids. Keep containers tightly sealed. It is highly hygroscopic and will absorb moisture from the air if exposed."},{"question":"What purity levels are available?","answer":"We offer 96% purity (standard industrial grade) and 99% purity (high-purity grade). The choice depends on your specific application requirements."},{"question":"Can you provide technical documentation?","answer":"Yes, we provide MSDS, COA, and other technical documents for all shipments. Request documents through our website or contact our sales team directly."}]
-ports: "Qingdao / Tianjin"
-loading: "25MT/20GP"
+shortDescription: "High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk purchase and export from China. Leading manufacturer for industrial applications including paper, textile, and water treatment. 99% purity available."
+image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e0b12e3b-5209-41f4-9875-561825e0cc52.png"
+specs: [
+  {"label":"Chemical Formula","value":"NaOH"},
+  {"label":"CAS Number","value":"1310-73-2"},
+  {"label":"HS Code","value":"2815110000"},
+  {"label":"Purity","value":"≥96% / ≥99% (Flakes/Pearls)"},
+  {"label":"Appearance","value":"White flakes or pearls"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner / Jumbo bags. Custom packaging available for bulk orders."},
+  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+]
+applications: [
+  "Paper and pulp industry (pulping, bleaching)",
+  "Textile industry (mercerizing, dyeing)",
+  "Water treatment (pH adjustment, heavy metal removal)",
+  "Soap and detergent manufacturing",
+  "Alumina production",
+  "Petroleum refining",
+  "Chemical intermediates production"
+]
+faqs: [
+  {"question":"What forms of Caustic Soda do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Caustic Soda, offering both high-purity flakes and pearls (micro-pearls) with ≥99% purity. Both forms are ideal for various industrial applications and available for bulk purchase and export."},{
+    "question":"What is the typical purity of your Caustic Soda products?",
+    "answer":"Our Caustic Soda (Sodium Hydroxide) is available in both 96% and 99% purity grades. We ensure strict quality control to meet international standards for all industrial applications."
+  },{
+    "question":"How is Caustic Soda packaged for international shipping from China?",
+    "answer":"For export, our Caustic Soda is typically packaged in 25KG PP woven bags with inner PE liners, designed to withstand the rigors of international transport and protect against moisture. Custom packaging solutions can be arranged for large volume orders."
+  },{
+    "question":"What are the main applications of your industrial grade Caustic Soda?",
+    "answer":"Our industrial grade Caustic Soda is widely used in the paper and pulp industry, textile mercerizing, water treatment for pH adjustment, soap and detergent manufacturing, alumina production, and petroleum refining. Its versatility makes it a key chemical intermediate."
+  },{
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Caustic Soda?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+  },{
+    "question":"What is the lead time for bulk Caustic Soda orders from your factory?",
+    "answer":"Standard lead time for bulk Caustic Soda orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+  }
+]
+ports: "Qingdao / Tianjin / Dalian"
+loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Alkali Products"
 featured: true
 ---
 
-Caustic Soda, chemically known as Sodium Hydroxide (NaOH), is one of the most fundamental and widely used industrial chemicals in the world. Often referred to as "the workhorse of the chemical industry," it is a strong base with exceptional reactivity, making it essential for a vast array of manufacturing and processing applications. We supply premium-grade Caustic Soda in both flake and pearl (prill) forms, characterized by high purity, low impurity levels, and excellent solubility.
+## Caustic Soda (CAS 1310-73-2): Your Trusted China Manufacturer & Supplier for High-Purity Sodium Hydroxide
 
-In the **pulp and paper industry**, Caustic Soda is a critical component of the Kraft process used for pulping wood. It helps break down the lignin that binds cellulose fibers together, enabling the production of high-quality paper products. Additionally, it is used in the bleaching process to achieve the desired whiteness and brightness of the final paper.
+As a leading **China manufacturer and supplier** of **Caustic Soda (NaOH)**, also known as **Sodium Hydroxide**, we provide **high-purity flakes and pearls** with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Caustic Soda is produced using advanced membrane cell technology, ensuring consistent quality that meets the most demanding industrial applications (HS Code: 2815110000).
 
-The **soap and detergent industry** relies heavily on Caustic Soda for the saponification process. It reacts with fats and oils to produce soap, and is a key ingredient in the manufacturing of various cleaning agents, surfactants, and industrial degreasers. Its ability to dissolve grease and organic deposits makes it an ideal choice for heavy-duty cleaning applications.
+### Key Applications & Benefits:
 
-In **water treatment**, Sodium Hydroxide is used for pH adjustment and neutralization of acidic wastewater. It is also employed in the regeneration of ion exchange resins used in water softening and demineralization processes. Its high alkalinity makes it effective for precipitating heavy metals from industrial effluents, helping facilities meet environmental discharge standards.
+1.  **Paper and Pulp Industry**: Indispensable in the **paper and pulp industry** for pulping wood, bleaching paper, and de-inking recycled paper. It plays a crucial role in breaking down lignin and purifying cellulose fibers.
 
-The **textile industry** utilizes Caustic Soda for mercerization, a treatment that improves the strength, luster, and dye affinity of cotton fibers. It is also used in the scouring process to remove impurities from raw fibers before dyeing and finishing. In the **petroleum and natural gas industry**, it is used to remove acidic contaminants (such as hydrogen sulfide and carbon dioxide) from hydrocarbons, a process known as "sweetening."
+2.  **Textile Industry**: Widely used in the **textile industry** for mercerizing cotton, which enhances its strength, luster, and dye uptake. It's also vital in various dyeing and finishing processes.
 
-Furthermore, Caustic Soda is essential in **aluminum production** (Bayer process) to extract alumina from bauxite ore. It also finds applications in food processing (for peeling fruits and vegetables, and processing cocoa), pharmaceutical manufacturing, and as a chemical intermediate for hundreds of other products.
+3.  **Water Treatment**: An essential chemical in **water treatment** for pH adjustment, neutralization of acidic waste streams, and removal of heavy metals. Its strong alkaline properties make it highly effective in industrial and municipal water purification.
 
-Our Caustic Soda is produced using modern membrane cell technology, ensuring high purity (typically 96% or 99%) and minimal environmental impact. We provide robust packaging in 25KG PP/PE bags and jumbo bags, designed to withstand the hygroscopic nature of the product during international transit. Shipping from major hubs like Qingdao and Tianjin ensures efficient logistics and timely delivery to our global clientele.
+4.  **Soap and Detergent Manufacturing**: A primary raw material in the production of **soaps and detergents** through the saponification of fats and oils, creating cleaning agents for both industrial and household use.
 
-Our Sodium Hydroxide (CAS: 1310-73-2), classified under HS Code 2815110000, is a benchmark for quality in the chlor-alkali industry. Whether you require 99% purity for alumina refining or 96% for pulp and paper manufacturing, our membrane-grade caustic soda provides unmatched performance and value.
+5.  **Alumina Production**: Critically used in the Bayer process for the extraction of **alumina** from bauxite ore, a fundamental step in aluminum production.
+
+6.  **Petroleum Refining & Chemical Intermediates**: Employed in **petroleum refining** to remove impurities and in the synthesis of numerous **chemical intermediates**, including pharmaceuticals, plastics, and other organic compounds.
+
+### Packaging, Logistics & Quality Assurance:
+
+We offer flexible **packaging solutions** for our Caustic Soda, including robust 25KG PP woven bags with PE inner liners, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We provide reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Caustic Soda manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
