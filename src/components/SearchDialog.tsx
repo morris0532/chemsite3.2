@@ -84,8 +84,8 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
                 </h3>
                 <p className="text-gray-500 mb-8 max-w-xs mx-auto">
                   {isRu 
-                    ? "Не нашли нужный CAS номер или продукт? Наша сеть поставок охватывает более 1000 химикатов." 
-                    : "Can't find the CAS number or product you need? Our supply network covers over 1,000+ chemicals."}
+                    ? "Не нашли нужный CAS номер или продукт? Как ваш надежный партнер, мы можем помочь найти специфические химикаты через нашу сеть проверенных заводов." 
+                    : "Can't find the CAS number or product you need? As your trusted partner, we can help source specific chemicals through our network of verified factories."}
                 </p>
                 <div className="flex flex-col gap-3 max-w-xs mx-auto">
                   <a
