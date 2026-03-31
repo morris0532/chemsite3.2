@@ -1,5 +1,10 @@
 import { useParams, Link, useLocation } from "react-router-dom";
-import { ChevronRight, FileText, Share2, Facebook, Twitter, Linkedin, Download, CheckCircle2, Info, Package, Truck, ShieldCheck, ArrowRight, HelpCircle, Layers, Target, Mail } from "lucide-react";
+import { 
+  ChevronRight, FileText, Share2, Facebook, Twitter, Linkedin, 
+  Download, CheckCircle2, Info, Package, Truck, ShieldCheck, 
+  ArrowRight, HelpCircle, Layers, Target, Mail, Beaker, 
+  Globe, Shield, Zap, Award, Microscope
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
@@ -79,6 +84,10 @@ export default function ProductDetailPage() {
     faqDesc: "Найдите ответы на распространенные вопросы о продукте",
     relatedTitle: "Другие высококачественные химикаты",
     viewAll: "Все продукты",
+    trustTitle: "Почему выбирают нас",
+    trustQuality: "Гарантия качества",
+    trustGlobal: "Глобальная логистика",
+    trustSupport: "Техническая поддержка"
   } : {
     specifications: "Specifications",
     applications: "Applications",
@@ -94,147 +103,131 @@ export default function ProductDetailPage() {
     faqDesc: "Find answers to common questions about the product",
     relatedTitle: "Other high-quality chemicals you might be interested in",
     viewAll: "View All Products",
+    trustTitle: "Why Choose SinoPeak",
+    trustQuality: "Quality Assurance",
+    trustGlobal: "Global Logistics",
+    trustSupport: "Technical Support"
   };
 
   return (
-    <Layout
-      title={`${product.name} - CAS ${product.cas} | ${isRu ? "Поставщик промышленной химии" : "Industrial Chemical Supplier"}`}
+    <Layout 
+      title={`${product.name} (CAS: ${product.cas}) | SinoPeak`}
       description={product.shortDescription}
       image={product.image}
+      jsonLd={generateProductSchema(product, currentUrl)}
     >
-      <JsonLd data={generateProductSchema(product, locale)} />
-
-      {/* Breadcrumb */}
-      <div className="bg-gradient-to-r from-[#F8FAFC] to-[#F0F4F8] border-b border-gray-100/50">
-        <div className="container mx-auto px-4 py-3">
-          <nav className="flex items-center gap-2 text-xs text-gray-500 font-semibold" aria-label="Breadcrumb">
-            <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors duration-300">{isRu ? "Главная" : "Home"}</Link>
-            <ChevronRight className="w-3.5 h-3.5 text-gray-300" />
-            <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors duration-300">{isRu ? "Продукты" : "Products"}</Link>
-            <ChevronRight className="w-3.5 h-3.5 text-gray-300" />
-            <span className="text-[#0066B3] font-bold">{product.name}</span>
-          </nav>
-        </div>
-      </div>
-
-      {/* Product Header */}
-      <section className="py-10 md:py-12 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-start">
-            {/* Image Section */}
-            <div className="space-y-6">
-              <div className="bg-gradient-to-br from-[#F8FAFC] to-[#F0F4F8] rounded-3xl overflow-hidden aspect-square border border-gray-100/50 shadow-md relative group transition-all hover:shadow-xl hover:shadow-blue-900/10 p-6 md:p-10">
-                <img 
-                  src={product.image} 
-                  alt={product.name} 
-                  className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" 
-                />
+      {/* Hero Section - Premium Split Layout */}
+      <section className="relative pt-32 pb-20 overflow-hidden bg-white">
+        <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,rgba(0,102,179,0.03),transparent_50%)] pointer-events-none" />
+        <div className="container mx-auto px-4 relative">
+          <div className="flex flex-wrap -mx-4 items-center">
+            {/* Left: Image with Premium Frame */}
+            <div className="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
+              <div className="relative group">
+                <div className="absolute -inset-4 bg-gradient-to-tr from-blue-100/20 to-transparent rounded-[2.5rem] blur-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
+                <div className="relative aspect-square rounded-[2rem] overflow-hidden bg-slate-50 border border-slate-100 shadow-2xl shadow-blue-900/5">
+                  <img 
+                    src={product.image} 
+                    alt={product.name} 
+                    className="w-full h-full object-contain p-12 group-hover:scale-105 transition-transform duration-700"
+                  />
+                </div>
+                {/* Floating Badges */}
+                <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-3xl shadow-xl border border-slate-50 hidden md:block animate-in slide-in-from-bottom-4 duration-700">
+                  <div className="flex items-center gap-4">
+                    <div className="w-12 h-12 bg-blue-50 rounded-2xl flex items-center justify-center">
+                      <ShieldCheck className="w-6 h-6 text-[#0066B3]" />
+                    </div>
+                    <div>
+                      <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Certified Quality</p>
+                      <p className="text-sm font-bold text-slate-900">ISO 9001 Compliant</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
 
-            {/* Info Section */}
-            <div className="flex flex-col">
-              <div className="mb-6">
-                <span className="text-[9px] font-bold text-[#0066B3] bg-blue-50 px-3 py-1.5 rounded-full uppercase tracking-wider inline-block mb-4">{product.category}</span>
-                <h1 className="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-3 tracking-tight">{product.name}</h1>
-                <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-gray-600 font-semibold">
-                  {product.nameCn && <span className="flex items-center gap-1.5 text-emerald-600"><CheckCircle2 className="w-3.5 h-3.5" /> {product.nameCn}</span>}
-                  <span className="flex items-center gap-1.5"><Layers className="w-3.5 h-3.5 text-blue-500" /> CAS: {product.cas}</span>
-                  <span className="flex items-center gap-1.5"><Target className="w-3.5 h-3.5 text-blue-500" /> HS Code: {product.hsCode}</span>
+            {/* Right: Content with High-End Typography */}
+            <div className="w-full lg:w-1/2 px-4">
+              <div className="lg:pl-12">
+                <div className="flex items-center gap-3 mb-6">
+                  <span className="px-4 py-1.5 bg-blue-50 text-[#0066B3] text-[11px] font-black uppercase tracking-[0.2em] rounded-full border border-blue-100/50">
+                    {product.category}
+                  </span>
+                  <span className="text-slate-300">/</span>
+                  <span className="text-slate-400 text-[11px] font-bold tracking-widest uppercase">CAS: {product.cas}</span>
                 </div>
-              </div>
+                
+                <h1 className="text-4xl md:text-6xl font-black text-slate-900 mb-6 tracking-tight leading-[1.1]">
+                  {product.name}
+                  <span className="block text-xl md:text-2xl font-bold text-slate-400 mt-2 tracking-normal">{product.nameCn}</span>
+                </h1>
+                
+                <p className="text-lg md:text-xl text-slate-600 font-medium leading-relaxed mb-10 max-w-xl">
+                  {product.shortDescription}
+                </p>
 
-              <p className="text-base text-gray-600 leading-relaxed mb-8 font-medium">
-                {product.shortDescription}
-              </p>
-
-              {/* Quick Specs Cards */}
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
-                <div className="flex items-center gap-3 p-4 bg-gradient-to-br from-blue-50 to-blue-50/50 rounded-xl border border-blue-100/30 group hover:bg-white hover:shadow-md transition-all duration-300">
-                  <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm group-hover:bg-[#0066B3] transition-all duration-300">
-                    <Package className="w-5 h-5 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
+                <div className="grid grid-cols-2 gap-6 mb-10">
+                  <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100">
+                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1">HS Code</p>
+                    <p className="text-base font-bold text-slate-900">{product.hsCode}</p>
                   </div>
-                  <div>
-                    <p className="text-[9px] uppercase text-gray-400 font-extrabold tracking-widest mb-0.5">{content.packaging}</p>
-                    <p className="text-sm font-bold text-gray-900">{product.packaging}</p>
-                  </div>
-                </div>
-                <div className="flex items-center gap-3 p-4 bg-gradient-to-br from-blue-50 to-blue-50/50 rounded-xl border border-blue-100/30 group hover:bg-white hover:shadow-md transition-all duration-300">
-                  <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm group-hover:bg-[#0066B3] transition-all duration-300">
-                    <Truck className="w-5 h-5 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
-                  </div>
-                  <div>
-                    <p className="text-[9px] uppercase text-gray-400 font-extrabold tracking-widest mb-0.5">{content.loading}</p>
-                    <p className="text-sm font-bold text-gray-900">{product.loading}</p>
+                  <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100">
+                    <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1">Loading</p>
+                    <p className="text-base font-bold text-slate-900">{product.loading}</p>
                   </div>
                 </div>
-              </div>
 
-              {/* Action Buttons */}
-              <div className="flex flex-wrap gap-3 mb-8">
-                <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
-                  <DialogTrigger asChild>
-                    <Button className="bg-[#0066B3] hover:bg-[#004a82] text-white px-6 h-12 rounded-lg font-bold shadow-md hover:shadow-lg hover:shadow-blue-500/20 transition-all duration-300 hover:-translate-y-0.5 flex items-center gap-2">
-                      <FileText className="w-4 h-4" /> {content.techDocs}
-                    </Button>
-                  </DialogTrigger>
-                  <DialogContent className="sm:max-w-[400px] rounded-2xl">
-                    <DialogHeader>
-                      <DialogTitle className="text-xl font-bold">{isRu ? "Запросить технические документы" : "Request Technical Documents"}</DialogTitle>
-                    </DialogHeader>
-                    {docSubmitted ? (
-                      <div className="py-8 text-center">
-                        <div className="w-16 h-16 bg-emerald-50 text-emerald-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                          <CheckCircle2 className="w-8 h-8" />
+                <div className="flex flex-wrap gap-4">
+                  <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
+                    <DialogTrigger asChild>
+                      <Button className="h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
+                        {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
+                      </Button>
+                    </DialogTrigger>
+                    <DialogContent className="sm:max-w-[450px] rounded-[2rem] p-8">
+                      <DialogHeader>
+                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}</DialogTitle>
+                      </DialogHeader>
+                      {docSubmitted ? (
+                        <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
+                          <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <CheckCircle2 className="w-10 h-10 text-green-500" />
+                          </div>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">Request Sent!</h3>
+                          <p className="text-slate-500">Our team will contact you within 24 hours.</p>
                         </div>
-                        <h3 className="text-xl font-bold text-gray-900 mb-2">{isRu ? "Запрос отправлен!" : "Request Submitted!"}</h3>
-                        <p className="text-sm text-gray-600">{isRu ? "Мы отправим документы на вашу электронную почту в ближайшее время." : "We will send the documents to your email shortly."}</p>
-                      </div>
-                    ) : (
-                      <form onSubmit={handleDocSubmit} className="space-y-4 py-2">
-                        <div className="space-y-1.5">
-                          <Label htmlFor="email" className="text-sm font-bold text-gray-700">{isRu ? "Адрес электронной почты *" : "Email Address *"}</Label>
-                          <Input id="email" type="email" required value={docEmail} onChange={(e) => setDocEmail(e.target.value)} placeholder="your@email.com" className="h-10 rounded-lg border-gray-200 focus:border-[#0066B3] focus:ring-2 focus:ring-blue-500/20" />
-                        </div>
-                        <div className="space-y-1.5">
-                          <Label htmlFor="company" className="text-sm font-bold text-gray-700">{isRu ? "Название компании" : "Company Name"}</Label>
-                          <Input id="company" value={docCompany} onChange={(e) => setDocCompany(e.target.value)} className="h-10 rounded-lg border-gray-200 focus:border-[#0066B3] focus:ring-2 focus:ring-blue-500/20" />
-                        </div>
-                        <div className="space-y-3 pt-1">
-                          <Label className="text-sm font-bold text-gray-700">{isRu ? "Необходимые документы" : "Documents Needed"}</Label>
-                          <div className="flex gap-6">
+                      ) : (
+                        <form onSubmit={handleDocSubmit} className="space-y-6 mt-4">
+                          <div className="space-y-2">
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Work Email</Label>
+                            <Input required type="email" placeholder="name@company.com" className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docEmail} onChange={e => setDocEmail(e.target.value)} />
+                          </div>
+                          <div className="space-y-2">
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Company Name</Label>
+                            <Input required placeholder="Your Company Ltd." className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docCompany} onChange={e => setDocCompany(e.target.value)} />
+                          </div>
+                          <div className="flex gap-6 py-2">
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(checked) => setDocMSDS(!!checked)} className="w-4 h-4 rounded" />
-                              <label htmlFor="msds" className="text-xs font-bold text-gray-600 cursor-pointer">MSDS</label>
+                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(v) => setDocMSDS(!!v)} />
+                              <label htmlFor="msds" className="text-sm font-bold text-slate-700">MSDS</label>
                             </div>
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(checked) => setDocCOA(!!checked)} className="w-4 h-4 rounded" />
-                              <label htmlFor="coa" className="text-xs font-bold text-gray-600 cursor-pointer">COA</label>
+                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(v) => setDocCOA(!!v)} />
+                              <label htmlFor="coa" className="text-sm font-bold text-slate-700">COA</label>
                             </div>
                           </div>
-                        </div>
-                        <Button type="submit" className="w-full bg-[#0066B3] hover:bg-[#004a82] h-11 rounded-lg font-bold text-base mt-2 shadow-md transition-all duration-300 hover:-translate-y-0.5">
-                          {isRu ? "Отправить запрос" : "Submit Request"}
-                        </Button>
-                      </form>
-                    )}
-                  </DialogContent>
-                </Dialog>
-
-                <Link to={`${langPrefix}/contact`}>
-                  <Button variant="outline" className="border-2 border-gray-200 text-gray-700 h-12 px-8 rounded-lg font-bold hover:bg-gray-50 hover:border-gray-300 transition-all duration-300">
-                    {content.getQuote}
+                          <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base">
+                            Submit Request
+                          </Button>
+                        </form>
+                      )}
+                    </DialogContent>
+                  </Dialog>
+                  
+                  <Button variant="outline" className="h-14 px-8 border-slate-200 rounded-2xl font-bold text-base text-slate-600 hover:bg-slate-50 transition-all">
+                    <Download className="mr-2 w-5 h-5" /> {content.techDocs}
                   </Button>
-                </Link>
-              </div>
-
-              {/* Social Share */}
-              <div className="flex items-center gap-4 pt-5 border-t border-gray-100">
-                <span className="text-[9px] uppercase font-extrabold text-gray-400 tracking-widest">{content.share}</span>
-                <div className="flex items-center gap-2">
-                  <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(currentUrl)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 hover:bg-blue-50 flex items-center justify-center transition-all duration-300 text-gray-400 hover:text-[#0077B5] hover:scale-110" aria-label="Share on LinkedIn"><Linkedin className="w-3.5 h-3.5" /></a>
-                  <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 hover:bg-blue-50 flex items-center justify-center transition-all duration-300 text-gray-400 hover:text-[#1877F2] hover:scale-110" aria-label="Share on Facebook"><Facebook className="w-3.5 h-3.5" /></a>
-                  <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(currentUrl)}&text=${encodeURIComponent(product.name)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-gray-50 hover:bg-blue-50 flex items-center justify-center transition-all duration-300 text-gray-400 hover:text-[#1DA1F2] hover:scale-110" aria-label="Share on Twitter"><Twitter className="w-3.5 h-3.5" /></a>
                 </div>
               </div>
             </div>
@@ -242,74 +235,139 @@ export default function ProductDetailPage() {
         </div>
       </section>
 
-      {/* Tabs Content Section */}
-      <section className="py-12 bg-gradient-to-b from-white to-[#F8FAFC] border-t border-gray-100/50">
+      {/* Main Content - Asymmetric Layout */}
+      <section className="py-24 bg-slate-50/50">
         <div className="container mx-auto px-4">
-          <Tabs defaultValue="overview" className="w-full">
-            <TabsList className="w-full justify-start border-b rounded-none bg-transparent h-auto p-0 mb-10 overflow-x-auto flex-nowrap scrollbar-hide">
-              <TabsTrigger value="overview" className="rounded-none border-b-[2px] border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:bg-transparent px-6 py-4 font-bold text-gray-500 data-[state=active]:text-gray-900 text-base transition-all duration-300">{content.overview}</TabsTrigger>
-              {product.specs && product.specs.length > 0 && (
-                <TabsTrigger value="specs" className="rounded-none border-b-[2px] border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:bg-transparent px-6 py-4 font-bold text-gray-500 data-[state=active]:text-gray-900 text-base transition-all duration-300">{content.specifications}</TabsTrigger>
-              )}
-              {product.applications && product.applications.length > 0 && (
-                <TabsTrigger value="apps" className="rounded-none border-b-[2px] border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:bg-transparent px-6 py-4 font-bold text-gray-500 data-[state=active]:text-gray-900 text-base transition-all duration-300">{content.applications}</TabsTrigger>
-              )}
-            </TabsList>
-            
-            <TabsContent value="overview" className="mt-0 animate-in fade-in duration-500">
-              <div className="prose prose-blue max-w-3xl prose-sm md:prose-base prose-headings:text-gray-900 prose-p:text-gray-600 prose-p:leading-relaxed prose-p:mb-6 prose-li:mb-2">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {product.description}
-                </ReactMarkdown>
-              </div>
-            </TabsContent>
-
-            {product.specs && (
-              <TabsContent value="specs" className="mt-0 animate-in fade-in duration-500">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-0 border-t border-gray-100/50 pt-4">
-                  {product.specs.map((spec: any, i: number) => (
-                    <div key={i} className="flex justify-between items-baseline py-4 border-b border-gray-100/50 group hover:bg-slate-50/50 px-2 -mx-2 rounded-lg transition-all duration-300">
-                      <span className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.15em] whitespace-nowrap mr-8">{spec.label}</span>
-                      <span className="text-sm font-semibold text-slate-900 text-right leading-relaxed">{spec.value}</span>
-                    </div>
-                  ))}
+          <div className="flex flex-wrap -mx-8">
+            {/* Left: Sticky Navigation & Trust Badges */}
+            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0">
+              <div className="lg:sticky lg:top-32">
+                <div className="mb-12">
+                  <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Navigation</h2>
+                  <nav className="space-y-2">
+                    {[
+                      {id: 'overview', label: content.overview},
+                      {id: 'specs', label: content.specifications},
+                      {id: 'apps', label: content.applications}
+                    ].map((tab) => (
+                      <button 
+                        key={tab.id}
+                        onClick={() => document.getElementById(tab.id)?.scrollIntoView({ behavior: 'smooth' })}
+                        className="flex items-center w-full p-4 rounded-2xl text-left font-bold text-slate-600 hover:bg-white hover:text-[#0066B3] hover:shadow-sm transition-all group"
+                      >
+                        <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mr-4 group-hover:bg-[#0066B3] transition-colors" />
+                        {tab.label}
+                      </button>
+                    ))}
+                  </nav>
                 </div>
-              </TabsContent>
-            )}
 
-            {product.applications && (
-              <TabsContent value="apps" className="mt-0 animate-in fade-in duration-500">
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {product.applications.map((app: string, i: number) => (
-                    <div key={i} className="flex items-start gap-3 p-4 bg-white rounded-2xl border border-gray-100/50 shadow-sm hover:shadow-md transition-all duration-300 group">
-                      <div className="w-8 h-8 bg-gradient-to-br from-blue-50 to-blue-100 rounded-full flex items-center justify-center flex-shrink-0 group-hover:from-[#0066B3] group-hover:to-[#004a82] transition-all duration-300">
-                        <CheckCircle2 className="w-4 h-4 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
+                <div className="p-8 rounded-[2rem] bg-white border border-slate-100 shadow-sm">
+                  <h3 className="text-lg font-black text-slate-900 mb-6">{content.trustTitle}</h3>
+                  <div className="space-y-6">
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Award className="w-5 h-5 text-[#0066B3]" />
                       </div>
-                      <span className="text-gray-700 font-bold text-sm leading-tight pt-1.5">{app}</span>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustQuality}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">SGS & BV Inspected</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Globe className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustGlobal}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">50+ Countries Served</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Microscope className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustSupport}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">Expert Lab Analysis</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Right: Detailed Content Sections */}
+            <div className="w-full lg:w-2/3 px-8">
+              {/* Overview Section */}
+              <div id="overview" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.overview}
+                </h2>
+                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {product.description}
+                  </ReactMarkdown>
+                </div>
+              </div>
+
+              {/* Specifications Section */}
+              <div id="specs" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.specifications}
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {product.specs.map((spec: any, i: number) => (
+                    <div key={i} className="flex justify-between items-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 group">
+                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{spec.label}</span>
+                      <span className="text-sm font-bold text-slate-900 group-hover:text-[#0066B3] transition-colors">{spec.value}</span>
                     </div>
                   ))}
                 </div>
-              </TabsContent>
-            )}
-          </Tabs>
+              </div>
+
+              {/* Applications Section - Modern Card Grid */}
+              <div id="apps" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                  {content.applications}
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                  {product.applications.map((app: string, i: number) => (
+                    <div key={i} className="group p-8 bg-white rounded-[2rem] border border-slate-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-1">
+                      <div className="w-14 h-14 bg-blue-50 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-500">
+                        <Beaker className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-500" />
+                      </div>
+                      <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
+                      <p className="text-sm text-slate-500 font-medium leading-relaxed">
+                        High-performance application in {app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* FAQ Section */}
+      {/* FAQ Section - Clean & Minimal */}
       {product.faqs && product.faqs.length > 0 && (
-        <section className="py-16 bg-gradient-to-b from-[#F8FAFC] to-white">
-          <div className="container mx-auto px-4 max-w-3xl">
-            <div className="text-center mb-10">
-              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3 tracking-tight">{content.faqTitle}</h2>
-              <p className="text-sm text-gray-600 font-medium">{content.faqDesc}</p>
+        <section className="py-24 bg-white border-t border-slate-100">
+          <div className="container mx-auto px-4 max-w-4xl">
+            <div className="text-center mb-16">
+              <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Support</h2>
+              <h3 className="text-4xl font-black text-slate-900 tracking-tight">{content.faqTitle}</h3>
             </div>
-            <Accordion type="single" collapsible className="w-full space-y-3">
+            <Accordion type="single" collapsible className="w-full space-y-4">
               {product.faqs.map((faq: any, i: number) => (
-                <AccordionItem key={i} value={`item-${i}`} className="border-none rounded-2xl px-5 bg-white shadow-sm overflow-hidden transition-all hover:shadow-md">
-                  <AccordionTrigger className="hover:no-underline py-5 text-left font-bold text-gray-900 text-base hover:text-[#0066B3] transition-colors duration-300">
+                <AccordionItem key={i} value={`item-${i}`} className="border border-slate-100 rounded-3xl px-8 bg-slate-50/30 overflow-hidden transition-all hover:bg-white hover:shadow-lg hover:shadow-blue-900/5">
+                  <AccordionTrigger className="hover:no-underline py-6 text-left font-bold text-slate-900 text-lg hover:text-[#0066B3] transition-colors">
                     {faq.question}
                   </AccordionTrigger>
-                  <AccordionContent className="text-gray-600 pb-5 leading-relaxed text-sm font-medium">
+                  <AccordionContent className="text-slate-600 pb-8 leading-relaxed text-base font-medium">
                     {faq.answer}
                   </AccordionContent>
                 </AccordionItem>
@@ -319,27 +377,27 @@ export default function ProductDetailPage() {
         </section>
       )}
 
-      {/* Related Products Section */}
+      {/* Related Products - Premium Carousel Style */}
       {relatedProducts.length > 0 && (
-        <section className="py-20 bg-white">
+        <section className="py-24 bg-slate-900 overflow-hidden">
           <div className="container mx-auto px-4">
-            <div className="flex items-end justify-between mb-10">
+            <div className="flex items-end justify-between mb-16">
               <div>
-                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3 tracking-tight">{isRu ? "Похожие продукты" : "Related Products"}</h2>
-                <p className="text-sm text-gray-600 font-medium">{content.relatedTitle}</p>
+                <h2 className="text-[11px] font-black text-blue-400 uppercase tracking-[0.3em] mb-4">Discovery</h2>
+                <h3 className="text-4xl font-black text-white tracking-tight">{isRu ? "Похожие продукты" : "Related Products"}</h3>
               </div>
-              <Link to={`${langPrefix}/products`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold text-sm hover:gap-3 transition-all duration-300 hover:text-[#004a82]">
-                {content.viewAll} <ArrowRight className="w-4 h-4" />
+              <Link to={`${langPrefix}/products`} className="flex items-center gap-2 text-blue-400 font-black text-sm hover:gap-4 transition-all duration-300">
+                {content.viewAll} <ArrowRight className="w-5 h-5" />
               </Link>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
               {relatedProducts.map((p: any) => (
-                <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group bg-white rounded-3xl p-5 border border-gray-100/50 shadow-sm hover:shadow-lg hover:shadow-blue-900/10 transition-all duration-300 hover:-translate-y-1">
-                  <div className="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-[#F8FAFC] to-[#F0F4F8] mb-4 p-4 group-hover:from-white group-hover:to-blue-50/30 transition-all duration-300">
-                    <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500" />
+                <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group relative bg-white/5 backdrop-blur-sm rounded-[2.5rem] p-8 border border-white/10 hover:bg-white transition-all duration-500 hover:-translate-y-2">
+                  <div className="aspect-square rounded-2xl overflow-hidden bg-white/5 mb-8 p-6 group-hover:bg-slate-50 transition-all duration-500">
+                    <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-700" />
                   </div>
-                  <h3 className="text-base font-bold text-gray-900 group-hover:text-[#0066B3] transition-colors duration-300 line-clamp-1 mb-1">{p.name}</h3>
-                  <p className="text-[9px] text-gray-400 uppercase font-extrabold tracking-widest">{p.category}</p>
+                  <h3 className="text-xl font-black text-white group-hover:text-slate-900 transition-colors duration-500 mb-2">{p.name}</h3>
+                  <p className="text-[10px] text-blue-400 uppercase font-black tracking-widest">{p.category}</p>
                 </Link>
               ))}
             </div>
