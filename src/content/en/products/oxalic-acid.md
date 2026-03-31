@@ -2,7 +2,7 @@
 id: "3"
 name: "Oxalic Acid"
 nameCn: "草酸"
-cas: "6153-56-6"
+cas: "144-62-7"
 hsCode: "2917111000"
 slug: "oxalic-acid"
 shortDescription: "High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from China. Essential for rare earth extraction, textile dyeing, and metal cleaning. Trusted manufacturer with competitive pricing."
