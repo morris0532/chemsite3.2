@@ -2,14 +2,14 @@
 id: "1"
 name: "Sodium Thiosulphate (Hypo)"
 nameCn: "硫代硫酸钠"
-cas: "7772-98-7"
+cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 sług: "sodium-thiosulphate"
 shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted manufacturer with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},
-  {"label":"CAS Number","value":"7772-98-7"},
+  {"label":"CAS Number","value":"7772-98-7 / 10102-17-7"},
   {"label":"HS Code","value":"2832300000"},
   {"label":"Purity","value":"≥99% (Anhydrous/Pentahydrate)"},
   {"label":"Appearance","value":"White crystalline powder/crystals"},
@@ -51,7 +51,7 @@ category: "Sulfur Compounds"
 featured: false
 ---
 
-## Sodium Thiosulphate (CAS 7772-98-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂S₂O₃
+## Sodium Thiosulphate (CAS 7772-98-7 / 10102-17-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂S₂O₃
 
 As a premier **China manufacturer and supplier** of **Sodium Thiosulphate (Na₂S₂O₃)**, commonly known as **Hypo**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Thiosulphate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and medical applications (HS Code: 2832300000).
 
