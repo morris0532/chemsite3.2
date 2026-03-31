@@ -235,7 +235,7 @@ export default function ProductDetailPage() {
                   <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
                   {content.overview}
                 </h2>
-                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight">
+                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-p:mb-6 prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight prose-h3:mt-8 prose-h3:mb-4 prose-h4:mt-6 prose-h4:mb-3">
                   <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {product.description}
                   </ReactMarkdown>

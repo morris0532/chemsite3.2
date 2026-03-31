@@ -161,8 +161,20 @@ export default function ContactPage() {
               <p className="text-gray-600">{content.getInTouchDesc}</p>
 
               <div className="space-y-4">
-                {/* Phone removed as per previous request */}
+                {/* Email */}
+                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
+                  <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
+                    <Mail className="w-5 h-5 text-white" />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
+                    <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">
+                      info@sinopeakchem.com
+                    </a>
+                  </div>
+                </div>
 
+                {/* WhatsApp */}
                 <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
                   <div className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center flex-shrink-0">
                     <MessageCircle className="w-5 h-5 text-white" />
