@@ -76,9 +76,7 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
               </div>
             ) : results.length === 0 ? (
               <div className="px-6 py-12 text-center">
-                <div className="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Search className="w-8 h-8 text-gray-400" />
-                </div>
+
                 <h3 className="text-lg font-bold text-gray-900 mb-2">
                   {isRu ? "Результаты не найдены" : "No results found"}
                 </h3>
