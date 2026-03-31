@@ -51,7 +51,6 @@ category: "Organic Acids"
 featured: true
 ---
 
-
 ## Citric Acid Anhydrous (CAS 77-92-9): Your Trusted China Manufacturer & Supplier for High-Purity C₆H₈O₇
 
 As a premier **China manufacturer and supplier** of **Citric Acid Anhydrous (C₆H₈O₇)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Citric Acid Anhydrous is produced through advanced fermentation processes, ensuring consistent quality that meets the most stringent international standards for food, pharmaceutical, and industrial applications (HS Code: 2918140000).

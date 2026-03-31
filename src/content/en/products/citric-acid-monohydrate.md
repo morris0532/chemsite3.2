@@ -51,7 +51,6 @@ category: "Organic Acids"
 featured: true
 ---
 
-
 ## Citric Acid Monohydrate (CAS 5949-29-1): Your Trusted China Manufacturer & Supplier for High-Purity C₆H₈O₇·H₂O
 
 As a premier **China manufacturer and supplier** of **Citric Acid Monohydrate (C₆H₈O₇·H₂O)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Citric Acid Monohydrate is produced through advanced fermentation processes, ensuring consistent quality that meets the most stringent international standards for food, pharmaceutical, and industrial applications (HS Code: 2918140000).

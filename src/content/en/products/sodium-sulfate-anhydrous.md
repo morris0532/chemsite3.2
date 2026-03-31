@@ -51,7 +51,6 @@ category: "Sulfates"
 featured: true
 ---
 
-
 ## Sodium Sulfate Anhydrous (CAS 7757-82-6): Your Trusted China Manufacturer & Supplier for High-Purity Na₂SO₄
 
 As a premier **China manufacturer and supplier** of **Sodium Sulfate Anhydrous (Na₂SO₄)**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Sulfate Anhydrous is produced to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, textile, and glass manufacturing applications (HS Code: 2833110000).

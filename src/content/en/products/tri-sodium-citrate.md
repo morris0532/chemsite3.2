@@ -51,7 +51,6 @@ category: "Citrates"
 featured: true
 ---
 
-
 ## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China Manufacturer & Supplier for High-Purity TSC
 
 As a premier **China manufacturer and supplier** of **Tri-Sodium Citrate (TSC)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Tri-Sodium Citrate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food additive, pharmaceutical, and industrial applications (HS Code: 2918150000).

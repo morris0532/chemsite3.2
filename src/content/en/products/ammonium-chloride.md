@@ -52,7 +52,6 @@ category: "Chloride Compounds"
 featured: true
 ---
 
-
 ## Ammonium Chloride (CAS 12125-02-9): Your Trusted China Manufacturer & Supplier for High-Grade NH₄Cl
 
 As a premier **China manufacturer and supplier** of **Ammonium Chloride (NH₄Cl)**, we offer **high-grade** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Ammonium Chloride is produced to meet stringent international quality standards, making it ideal for a wide range of industrial, agricultural, and feed applications (HS Code: 2827101000).

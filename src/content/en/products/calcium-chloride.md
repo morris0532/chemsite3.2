@@ -52,7 +52,6 @@ category: "Chloride Compounds"
 featured: true
 ---
 
-
 ## Calcium Chloride (CAS 10043-52-4): Your Trusted China Manufacturer & Supplier for High-Purity CaCl₂
 
 As a premier **China manufacturer and supplier** of **Calcium Chloride (CaCl₂)**, we offer **high-purity flakes, pellets, and powder** with **≥74% to ≥94% (anhydrous) purity** for **bulk purchase** and **export** worldwide. Our Calcium Chloride is produced to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, food, and environmental applications (HS Code: 2827200000).

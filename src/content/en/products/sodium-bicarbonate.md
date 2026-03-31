@@ -51,7 +51,6 @@ category: "Alkali Products"
 featured: true
 ---
 
-
 ## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China Manufacturer & Supplier for High-Purity Baking Soda
 
 As a premier **China manufacturer and supplier** of **Sodium Bicarbonate (NaHCO₃)**, commonly known as **Baking Soda**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bicarbonate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food, feed, pharmaceutical, and industrial applications (HS Code: 2836300000).

@@ -51,7 +51,6 @@ category: "Water Treatment"
 featured: true
 ---
 
-
 ## Polyaluminum Chloride (CAS 1327-41-9): Your Trusted China Manufacturer & Supplier for High-Efficiency PAC
 
 As a premier **China manufacturer and supplier** of **Polyaluminum Chloride (PAC)**, we offer **high-efficiency** product with **≥28% and ≥30% Al₂O₃ content** for **bulk purchase** and **export** worldwide. Our PAC is produced to meet stringent international quality standards, making it an essential coagulant and flocculant for a wide range of water treatment applications (HS Code: 2827320000).

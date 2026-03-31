@@ -16,7 +16,6 @@ packaging: "25/50KG/Jumbo bags"
 category: "Sulfate Compounds"
 ---
 
-
 Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
 
 In the **agricultural industry**, Ammonium Sulphate is a primary "nitrogen-sulfur fertilizer." It provides a readily available source of nitrogen (21%) and sulfur (24%) to crops, promoting healthy growth and increasing yields. Its high sulfur content makes it particularly effective for sulfur-deficient soils and for crops that require high levels of sulfur, such as oilseeds, legumes, and vegetables. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.

@@ -51,7 +51,6 @@ category: "Phosphates"
 featured: true
 ---
 
-
 ## Trisodium Phosphate (CAS 7601-54-9): Your Trusted China Manufacturer & Supplier for High-Purity TSP
 
 As a premier **China manufacturer and supplier** of **Trisodium Phosphate (TSP)**, we offer **high-purity** product with **≥98% purity** for **bulk purchase** and **export** worldwide. Our TSP is produced to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, food additive, and industrial applications (HS Code: 2835299000).

@@ -51,7 +51,6 @@ category: "Phosphates"
 featured: true
 ---
 
-
 ## Sodium Tripolyphosphate (CAS 7758-29-4): Your Trusted China Manufacturer & Supplier for High-Purity STPP
 
 As a premier **China manufacturer and supplier** of **Sodium Tripolyphosphate (STPP)**, we offer **high-purity** product with **≥57% P₂O₅ content** for **bulk purchase** and **export** worldwide. Our STPP is produced to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, food, and industrial applications (HS Code: 2835319000).

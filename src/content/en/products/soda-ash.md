@@ -28,7 +28,6 @@ packaging: "40KG/Jumbo bags"
 category: "Alkali Products"
 ---
 
-
 ## Soda Ash (CAS 497-19-8): Your Premier China Supplier for Light & Dense Sodium Carbonate
 
 As a leading **China supplier and manufacturer** of **Soda Ash (Na₂CO₃)**, also known as **Sodium Carbonate**, we offer both **Light Soda Ash** and **Dense Soda Ash** with **≥99.2% purity** for **bulk purchase** and **export** worldwide. Our Soda Ash is produced using advanced processes, ensuring consistent quality that meets the diverse needs of various industrial applications (HS Code: 2836200000).

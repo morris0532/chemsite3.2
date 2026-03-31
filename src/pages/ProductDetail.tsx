@@ -15,6 +15,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useState, useMemo } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import remarkBreaks from "remark-breaks";
 import Layout from "@/components/Layout";
 import { products } from "@/data/products";
 import { productsRu } from "@/data/products_ru";
@@ -235,8 +236,8 @@ export default function ProductDetailPage() {
                   <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
                   {content.overview}
                 </h2>
-                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-p:mb-6 prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight prose-h3:mt-8 prose-h3:mb-4 prose-h4:mt-6 prose-h4:mb-3">
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-p:mb-8 prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight prose-h3:mt-8 prose-h3:mb-4 prose-h4:mt-6 prose-h4:mb-3 prose-li:mb-3">
+                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
                     {product.description}
                   </ReactMarkdown>
                 </div>

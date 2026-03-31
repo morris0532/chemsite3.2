@@ -16,7 +16,6 @@ packaging: "25KG/50KG bags"
 category: "Boron Compounds"
 ---
 
-
 Borax (Na₂B₄O₇·10H₂O), also known as Sodium Borate, is a high-performance inorganic salt widely recognized for its exceptional cleaning, buffering, and fluxing capabilities. It is a vital ingredient in the production of cleaning agents, industrial chemicals, and various other products. Our Borax is manufactured to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
 
 In the **cleaning and detergent industry**, Borax is a primary "cleaning booster" and "water softener." It works by sequestering calcium and magnesium ions in hard water, preventing them from interfering with the action of surfactants. This ensures that detergents can work effectively even in challenging water conditions, improving the overall cleaning power. It is also used as a **buffering agent** to control the pH of various cleaning formulations and as a **deodorizing agent** to remove odors from various surfaces.

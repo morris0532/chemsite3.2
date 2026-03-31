@@ -51,7 +51,6 @@ category: "Organic Salts"
 featured: true
 ---
 
-
 ## Sodium Acetate Anhydrous (CAS 127-09-3): Your Trusted China Manufacturer & Supplier for High-Purity CH₃COONa
 
 As a premier **China manufacturer and supplier** of **Sodium Acetate Anhydrous (CH₃COONa)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Acetate Anhydrous is produced to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, pharmaceutical, and food applications (HS Code: 2915291000).
