@@ -89,7 +89,7 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
                 </p>
                 <div className="flex flex-col gap-3 max-w-xs mx-auto">
                   <a
-                    href="https://wa.me/8615064825590"
+                    href="https://wa.me/8613583262050"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 px-6 py-3 bg-[#25D366] text-white rounded-xl font-bold hover:bg-[#128C7E] transition-all shadow-lg shadow-green-200"
