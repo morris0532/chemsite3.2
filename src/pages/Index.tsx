@@ -71,7 +71,11 @@ export default function HomePage() {
   
   const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : 'en');
   const featuredProducts = useMemo(() => {
-    return markdownProducts.filter((p: any) => p.featured === true).slice(0, 3);
+    const order = ['oxalic-acid', 'caustic-soda', 'sodium-sulfate-anhydrous'];
+    return markdownProducts
+      .filter((p: any) => p.featured === true)
+      .sort((a: any, b: any) => order.indexOf(a.slug) - order.indexOf(b.slug))
+      .slice(0, 3);
   }, [markdownProducts]);
   const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())

@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Alkali Products"
-featured: false
+featured: true
 ---
 
 ## Caustic Soda (CAS 1310-73-2): Your Trusted China Manufacturer & Supplier for High-Purity Sodium Hydroxide

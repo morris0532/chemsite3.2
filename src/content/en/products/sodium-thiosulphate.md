@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfur Compounds"
-featured: true
+featured: false
 ---
 
 ## Sodium Thiosulphate (CAS 7772-98-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂S₂O₃
