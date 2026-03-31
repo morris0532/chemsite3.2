@@ -75,21 +75,24 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     setMeta('twitter:description', pageDescription);
     setMeta('twitter:image', pageImage);
 
-    // Canonical and    const setLink = (rel: string, href: string, hreflang?: string) => {
-      let element = document.querySelector(`link[rel=\'${rel}\']${hreflang ? `[hreflang=\'${hreflang}\']` : \'\'}`) as HTMLLinkElement;
+    // Canonical and Hreflang
+    const setLink = (rel: string, href: string, hreflang?: string) => {
+      let element = document.querySelector(`link[rel='${rel}']${hreflang ? `[hreflang='${hreflang}']` : ''}`) as HTMLLinkElement;
       if (!element) {
-        element = document.createElement(\'link\');
-        element.setAttribute(\'rel\', rel);
-        if (hreflang) element.setAttribute(\'hreflang\', hreflang);
+        element = document.createElement('link');
+        element.setAttribute('rel', rel);
+        if (hreflang) element.setAttribute('hreflang', hreflang);
         document.head.appendChild(element);
       }
-      element.setAttribute(\'href\', href);
-     };
+      element.setAttribute('href', href);
+    };
 
-    setLink(\'canonical\', `https://sinopeakchem.com${location.pathname}`);
-    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, \'/en\')}`, \'en\');
-    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.startsWith(\'/en\') ? location.pathname.replace(/^\/en/, \'/ru\') : \'/ru\' + location.pathname}`, \'ru\');
-    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, \'/en/$2\')}`, \'x-default\');  }, [pageTitle, pageDescription, pageImage, location.pathname]);
+    setLink('canonical', `https://sinopeakchem.com${location.pathname}`);
+    setLink('alternate', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`, 'en');
+    setLink('alternate', `https://sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`, 'ru');
+    setLink('alternate', `https://sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
+
+  }, [pageTitle, pageDescription, pageImage, location.pathname]);
 
   const navLinks = isRu ? [
     { href: "/ru", label: "Главная" },
@@ -244,24 +247,21 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 size="icon"
                 className="lg:hidden text-gray-600 hover:text-[#0066B3] hover:bg-gray-50/60 rounded-lg transition-all duration-300"
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-                aria-label="Menu"
               >
-                {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+                {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
               </Button>
             </div>
           </div>
-        </div>
 
-        {/* Mobile Menu */}
-        {mobileMenuOpen && (
-          <div className="lg:hidden bg-white border-t border-gray-100 shadow-lg">
-            <nav className="container mx-auto px-4 py-4 flex flex-col gap-1">
+          {/* Mobile Nav */}
+          {mobileMenuOpen && (
+            <nav className="lg:hidden pb-4 space-y-2">
               {navLinks.map((link) => (
                 <Link
                   key={link.href}
                   to={link.href}
                   onClick={() => setMobileMenuOpen(false)}
-                  className={`px-4 py-3 rounded-lg text-sm font-semibold transition-all duration-300 ${
+                  className={`block px-4 py-2.5 rounded-lg text-sm font-semibold transition-all duration-300 ${
                     isActive(link.href)
                       ? "text-[#0066B3] bg-blue-50/80"
                       : "text-gray-600 hover:text-[#0066B3] hover:bg-gray-50/60"
@@ -270,33 +270,36 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   {link.label}
                 </Link>
               ))}
-              <Link to={`${langPrefix}/contact`} onClick={() => setMobileMenuOpen(false)}>
-                <Button className="w-full mt-2 bg-[#0066B3] hover:bg-[#004a82] text-white font-semibold rounded-lg transition-all duration-300 shadow-md">
-                  {isRu ? "Запросить цену" : "Get a Quote"}
-                </Button>
-              </Link>
             </nav>
-          </div>
-        )}
+          )}
+        </div>
       </header>
 
-      {/* Main Content */}
-      <main className="flex-1">{children}</main>
+      {/* Search Dialog */}
+      <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
 
-      {/* Footer - Premium Styling */}
-      <footer className="bg-[#1A1A2E] text-white pt-20 pb-10">
+      {/* Main Content */}
+      <main className="flex-1">
+        {children}
+      </main>
+
+      {/* Footer */}
+      <footer className="bg-gradient-to-b from-[#0a2540] to-[#051a2f] text-white py-16 border-t border-[#1a3a52]">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
             {/* Brand */}
-            <div className="lg:col-span-1">
-              <Link to={langPrefix} className="flex items-center gap-3 mb-6">
-                <img src="/logo.png" alt="Sinopeakchem Logo" className="w-12 h-12 object-contain bg-white rounded-lg p-1" />
-                <span className="text-2xl font-bold tracking-tight">Sinopeakchem</span>
-              </Link>
-              <p className="text-gray-400 mb-8 leading-relaxed">
+            <div>
+              <div className="flex items-center gap-2.5 mb-6">
+                <img src="/logo.png" alt="Sinopeakchem" className="w-10 h-10 rounded-lg" />
+                <div>
+                  <h2 className="text-lg font-bold">Sinopeakchem</h2>
+                  <p className="text-xs text-gray-400">Global Chemical Supplier</p>
+                </div>
+              </div>
+              <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 {isRu 
-                  ? "Ведущий поставщик высококачественных промышленных химикатов, соединяющий китайское производство с мировыми потребностями."
-                  : "Leading supplier of high-quality industrial chemicals, bridging Chinese manufacturing with global industrial needs."}
+                  ? "Ведущий поставщик промышленных химикатов с 50+ странами экспорта."
+                  : "Leading industrial chemical supplier with 50+ countries export experience."}
               </p>
               <div className="flex items-center gap-4">
                 <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#0066B3] flex items-center justify-center transition-all duration-300"><Facebook className="w-5 h-5" /></a>
@@ -307,16 +310,6 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
 
             {/* Quick Links */}
-
-                </li>
-                <li>
-                  <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
-                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
-                    {isRu ? "Условия использования" : "Terms of Service"}
-                  </Link>
-                </li>
-              </ul>
-            </div>
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : "Quick Links"}</h3>
               <ul className="space-y-4">
@@ -346,6 +339,25 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </ul>
             </div>
 
+            {/* Legal */}
+            <div>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Юридическая информация" : "Legal"}</h3>
+              <ul className="space-y-4">
+                <li>
+                  <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
+                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
+                    {isRu ? "Политика конфиденциальности" : "Privacy Policy"}
+                  </Link>
+                </li>
+                <li>
+                  <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
+                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
+                    {isRu ? "Условия использования" : "Terms of Service"}
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
             {/* Contact Info */}
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : "Contact Info"}</h3>
@@ -366,37 +378,29 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Mail className="w-5 h-5 text-[#0066B3]" /></div>
                   <a href="mailto:info@sinopeakchem.com" className="text-gray-400 hover:text-white transition-colors">info@sinopeakchem.com</a>
                 </li>
+                <li className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><MessageCircle className="w-5 h-5 text-[#0066B3]" /></div>
+                  <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">WhatsApp</a>
+                </li>
               </ul>
             </div>
           </div>
 
           {/* Bottom Bar */}
-          <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-            <p>© {new Date().getFullYear()} Sinopeakchem. All rights reserved.</p>
-            <div className="flex items-center gap-8">
-              <a href="#" className="hover:text-white transition-colors">{isRu ? "Политика конфиденциальности" : "Privacy Policy"}</a>
-              <a href="#" className="hover:text-white transition-colors">{isRu ? "Условия использования" : "Terms of Service"}</a>
+          <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+            <p className="text-gray-400 text-sm">
+              {isRu 
+                ? "© 2024 Sinopeakchem. Все права защищены."
+                : "© 2024 Sinopeakchem. All rights reserved."}
+            </p>
+            <div className="flex items-center gap-6">
+              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : "Privacy"}</a>
+              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : "Terms"}</a>
+              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Карта сайта" : "Sitemap"}</a>
             </div>
           </div>
         </div>
       </footer>
-
-      {/* Search Dialog */}
-      <SearchDialog isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
-
-      {/* WhatsApp Floating Button */}
-      <a
-        href="https://wa.me/8613583262050"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="fixed bottom-8 right-8 z-50 w-14 h-14 bg-[#25D366] text-white rounded-full flex items-center justify-center shadow-2xl hover:scale-110 transition-transform group"
-        aria-label="Contact on WhatsApp"
-      >
-        <MessageCircle className="w-7 h-7" />
-        <span className="absolute right-full mr-4 px-4 py-2 bg-white text-gray-900 text-sm font-bold rounded-xl shadow-xl opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
-          {isRu ? "Связаться с нами" : "Chat with us"}
-        </span>
-      </a>
     </div>
   );
 }
