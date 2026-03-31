@@ -75,23 +75,21 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     setMeta('twitter:description', pageDescription);
     setMeta('twitter:image', pageImage);
 
-    // Canonical and Hreflang
-    const setLink = (rel: string, href: string, hreflang?: string) => {
-      let element = document.querySelector(`link[rel='${rel}']${hreflang ? `[hreflang='${hreflang}']` : ''}`) as HTMLLinkElement;
+    // Canonical and    const setLink = (rel: string, href: string, hreflang?: string) => {
+      let element = document.querySelector(`link[rel=\'${rel}\']${hreflang ? `[hreflang=\'${hreflang}\']` : \'\'}`) as HTMLLinkElement;
       if (!element) {
-        element = document.createElement('link');
-        element.setAttribute('rel', rel);
-        if (hreflang) element.setAttribute('hreflang', hreflang);
+        element = document.createElement(\'link\');
+        element.setAttribute(\'rel\', rel);
+        if (hreflang) element.setAttribute(\'hreflang\', hreflang);
         document.head.appendChild(element);
       }
-      element.setAttribute('href', href);
-    };
+      element.setAttribute(\'href\', href);
+     };
 
-    setLink('canonical', `https://sinopeakchem.com${location.pathname}`);
-    setLink('alternate', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`, 'en');
-    setLink('alternate', `https://sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`, 'ru');
-
-  }, [pageTitle, pageDescription, pageImage, location.pathname]);
+    setLink(\'canonical\', `https://sinopeakchem.com${location.pathname}`);
+    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, \'/en\')}`, \'en\');
+    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.startsWith(\'/en\') ? location.pathname.replace(/^\/en/, \'/ru\') : \'/ru\' + location.pathname}`, \'ru\');
+    setLink(\'alternate\', `https://sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, \'/en/$2\')}`, \'x-default\');  }, [pageTitle, pageDescription, pageImage, location.pathname]);
 
   const navLinks = isRu ? [
     { href: "/ru", label: "Главная" },
@@ -116,6 +114,13 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     const targetLocale = isRu ? 'en' : 'ru';
     const targetPrefix = isRu ? '/en' : '/ru';
     const targetContent = isRu ? enContent : ruContent;
+    
+    // Handle Policy pages - always show English version
+    if (location.pathname.includes('/privacy-policy') || location.pathname.includes('/terms-of-service')) {
+      const policyPath = location.pathname.includes('/privacy-policy') ? '/en/privacy-policy' : '/en/terms-of-service';
+      navigate(policyPath);
+      return;
+    }
     
     // Handle Blog Detail pages
     if (location.pathname.includes('/blog/')) {
@@ -302,6 +307,16 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
 
             {/* Quick Links */}
+
+                </li>
+                <li>
+                  <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
+                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
+                    {isRu ? "Условия использования" : "Terms of Service"}
+                  </Link>
+                </li>
+              </ul>
+            </div>
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : "Quick Links"}</h3>
               <ul className="space-y-4">
