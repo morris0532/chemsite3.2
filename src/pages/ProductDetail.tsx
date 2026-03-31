@@ -4,7 +4,7 @@ import {
   Download, CheckCircle2, Info, Package, Truck, ShieldCheck, 
   ArrowRight, HelpCircle, Layers, Target, Mail, Beaker, 
   Globe, Shield, Zap, Award, Microscope
-} from "lucide-center";
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
@@ -228,7 +228,7 @@ export default function ProductDetailPage() {
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap -mx-8">
             {/* Left: Detailed Content Sections */}
-            <div className="w-full lg:w-2/3 px-8 lg:order-first">
+            <div className="w-full lg:w-2/3 px-8">
               {/* Overview Section */}
               <div id="overview" className="mb-24 scroll-mt-32">
                 <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
@@ -281,12 +281,65 @@ export default function ProductDetailPage() {
             </div>
 
             {/* Right: Sticky Navigation & Trust Badges */}
-            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0 lg:order-last">
+            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0 order-last">
               <div className="lg:sticky lg:top-32">
+                <div className="mb-12 hidden lg:block">
+                  <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Navigation</h2>
+                  <nav className="space-y-2">
+                    {[
+                      {id: 'overview', label: content.overview},
+                      {id: 'specs', label: content.specifications},
+                      {id: 'apps', label: content.applications}
+                    ].map((tab) => (
+                      <button 
+                        key={tab.id}
+                        onClick={() => document.getElementById(tab.id)?.scrollIntoView({ behavior: 'smooth' })}
+                        className="flex items-center w-full p-4 rounded-2xl text-left font-bold text-slate-600 hover:bg-white hover:text-[#0066B3] hover:shadow-sm transition-all group"
+                      >
+                        <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mr-4 group-hover:bg-[#0066B3] transition-colors" />
+                        {tab.label}
+                      </button>
+                    ))}
+                  </nav>
+                </div>
+
+                <div className="p-8 rounded-[2rem] bg-white border border-slate-100 shadow-sm mb-8">
+                  <h3 className="text-lg font-black text-slate-900 mb-6">{content.trustTitle}</h3>
+                  <div className="space-y-6">
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Award className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustQuality}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">SGS & BV Inspected</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Globe className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustGlobal}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">50+ Countries Served</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Microscope className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustSupport}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">Expert Lab Analysis</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="mb-8">
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
                     <DialogTrigger asChild>
-                      <Button className="w-full h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1 mb-8">
+                      <Button className="w-full h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
                         {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
                       </Button>
                     </DialogTrigger>
@@ -329,59 +382,6 @@ export default function ProductDetailPage() {
                       )}
                     </DialogContent>
                   </Dialog>
-                </div>
-
-                <div className="mb-12 hidden lg:block">
-                  <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Navigation</h2>
-                  <nav className="space-y-2">
-                    {[
-                      {id: 'overview', label: content.overview},
-                      {id: 'specs', label: content.specifications},
-                      {id: 'apps', label: content.applications}
-                    ].map((tab) => (
-                      <button 
-                        key={tab.id}
-                        onClick={() => document.getElementById(tab.id)?.scrollIntoView({ behavior: 'smooth' })}
-                        className="flex items-center w-full p-4 rounded-2xl text-left font-bold text-slate-600 hover:bg-white hover:text-[#0066B3] hover:shadow-sm transition-all group"
-                      >
-                        <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mr-4 group-hover:bg-[#0066B3] transition-colors" />
-                        {tab.label}
-                      </button>
-                    ))}
-                  </nav>
-                </div>
-
-                <div className="p-8 rounded-[2rem] bg-white border border-slate-100 shadow-sm">
-                  <h3 className="text-lg font-black text-slate-900 mb-6">{content.trustTitle}</h3>
-                  <div className="space-y-6">
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Award className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustQuality}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">SGS & BV Inspected</p>
-                      </div>
-                    </div>
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Globe className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustGlobal}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">50+ Countries Served</p>
-                      </div>
-                    </div>
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Microscope className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustSupport}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">Expert Lab Analysis</p>
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
