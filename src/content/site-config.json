@@ -1,0 +1,54 @@
+{
+  "en": {
+    "navigation": [
+      { "name": "Home", "link": "/en" },
+      { "name": "Products", "link": "/en/products" },
+      { "name": "Blog", "link": "/en/blog" },
+      { "name": "About", "link": "/en/about" },
+      { "name": "Contact", "link": "/en/contact" }
+    ],
+    "footer": {
+      "companyDesc": "Leading industrial chemical supplier from China, providing high-quality chemical products to global markets since 2010.",
+      "contact": {
+        "email": "sales@sinopeakchem.com",
+        "phone": "+86-532-8581-1234",
+        "address": "Shandong, China"
+      },
+      "copyright": "© 2026 Sinopeakchem. All rights reserved."
+    },
+    "ui": {
+      "readMore": "Read More",
+      "viewDetails": "View Details",
+      "getQuote": "Get a Quote",
+      "backToBlog": "Back to Blog",
+      "relatedProducts": "Related Products",
+      "recentArticles": "Recent Articles"
+    }
+  },
+  "ru": {
+    "navigation": [
+      { "name": "Главная", "link": "/ru" },
+      { "name": "Продукты", "link": "/ru/products" },
+      { "name": "Блог", "link": "/ru/blog" },
+      { "name": "О нас", "link": "/ru/about" },
+      { "name": "Контакты", "link": "/ru/contact" }
+    ],
+    "footer": {
+      "companyDesc": "Ведущий поставщик промышленной химии из Китая, поставляющий высококачественную химическую продукцию на мировые рынки с 2010 года.",
+      "contact": {
+        "email": "sales@sinopeakchem.com",
+        "phone": "+86-532-8581-1234",
+        "address": "Шаньдун, Китай"
+      },
+      "copyright": "© 2026 Sinopeakchem. Все права защищены."
+    },
+    "ui": {
+      "readMore": "Читать далее",
+      "viewDetails": "Подробнее",
+      "getQuote": "Получить предложение",
+      "backToBlog": "Назад в блог",
+      "relatedProducts": "Похожие продукты",
+      "recentArticles": "Последние статьи"
+    }
+  }
+}

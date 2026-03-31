@@ -1,11 +1,11 @@
 import { Link, useLocation } from "react-router-dom";
-import { ArrowRight, Shield, Globe, Truck, FlaskConical, Award, Users } from "lucide-react";
+import { ArrowRight, Shield, Globe, Truck, FlaskConical, Award, Users, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
-import { getFeaturedProducts } from "@/data/products";
-import { getRecentBlogs } from "@/data/blogs";
-import { getFeaturedProductsRu } from "@/data/products_ru";
-import { getRecentBlogsRu } from "@/data/blogs_ru";
+import { products } from "@/data/products";
+import { blogPosts } from "@/data/blogs";
+import { productsRu } from "@/data/products_ru";
+import { blogPostsRu } from "@/data/blogs_ru";
 
 const HERO_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/0821521e-e54b-4dff-b118-4f4b9ba70803.png";
 const SHIP_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e6ad8468-80af-478a-a520-d0ca3ba12cdb.png";
@@ -16,19 +16,32 @@ const jsonLdEn = {
   name: "Sinopeakchem",
   url: "https://sinopeakchem.com",
   logo: "https://sinopeakchem.com/logo.png",
-  description: "Sinopeakchem is a leading B2B chemical supplier from China, offering high-quality industrial chemicals with global shipping.",
+  description: "Sinopeakchem is a premier B2B chemical supply partner from China, providing high-purity industrial chemicals and comprehensive supply chain solutions.",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+86-13583262050",
     contactType: "sales",
     availableLanguage: ["English", "Chinese"],
   },
-  sameAs: [],
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "No. 182, Jinshui Road, Licang District",
+    addressLocality: "Qingdao",
+    addressRegion: "Shandong",
+    postalCode: "266000",
+    addressCountry: "CN",
+  },
+  sameAs: [
+    "https://www.facebook.com/sinopeakchem",
+    "https://twitter.com/sinopeakchem",
+    "https://www.linkedin.com/company/sinopeakchem",
+    "https://www.instagram.com/sinopeakchem"
+  ],
 };
 
 const jsonLdRu = {
   ...jsonLdEn,
-  description: "Sinopeakchem - ведущий поставщик химикатов B2B из Китая, предлагающий высококачественные промышленные химикаты с глобальной доставкой.",
+  description: "Sinopeakchem — ведущий партнер по поставкам химикатов B2B из Китая, предлагающий высокочистые промышленные химикаты и комплексные решения для цепочки поставок.",
   contactPoint: {
     ...jsonLdEn.contactPoint,
     availableLanguage: ["English", "Chinese", "Russian"],
@@ -36,21 +49,21 @@ const jsonLdRu = {
 };
 
 const featuresEn = [
-  { icon: FlaskConical, title: "22+ Chemical Products", desc: "Comprehensive range of industrial chemicals for diverse applications" },
-  { icon: Shield, title: "Quality Assured", desc: "Strict quality control with COA and MSDS documentation for every shipment" },
-  { icon: Globe, title: "Global Shipping", desc: "Export from major Chinese ports to destinations worldwide" },
-  { icon: Truck, title: "Reliable Logistics", desc: "Efficient container loading and competitive freight rates" },
-  { icon: Award, title: "Industry Certified", desc: "ISO certified manufacturing with international quality standards" },
-  { icon: Users, title: "Expert Support", desc: "Dedicated sales team with technical expertise and responsive service" },
+  { icon: FlaskConical, title: "Premier Portfolio", desc: "Access to 22+ high-purity industrial chemicals optimized for global industrial standards" },
+  { icon: Shield, title: "Quality Leadership", desc: "Rigorous multi-stage quality control with full batch traceability and COA/MSDS documentation" },
+  { icon: Globe, title: "Strategic Export", desc: "Seamless global distribution from China's primary maritime hubs to over 50 countries" },
+  { icon: Truck, title: "Supply Chain Excellence", desc: "Optimized logistics solutions with efficient container management and priority freight" },
+  { icon: Award, title: "Global Compliance", desc: "Products meeting international regulatory requirements with rigorous internal testing" },
+  { icon: Users, title: "Strategic Support", desc: "Dedicated industry experts providing technical guidance and responsive global service" },
 ];
 
 const featuresRu = [
-  { icon: FlaskConical, title: "22+ химических продукта", desc: "Широкий ассортимент промышленных химикатов для различных областей применения" },
-  { icon: Shield, title: "Гарантия качества", desc: "Строгий контроль качества с документацией COA и MSDS для каждой партии" },
-  { icon: Globe, title: "Глобальная доставка", desc: "Экспорт из крупнейших китайских портов в пункты назначения по всему миру" },
-  { icon: Truck, title: "Надежная логистика", desc: "Эффективная загрузка контейнеров и конкурентоспособные фрахтовые ставки" },
-  { icon: Award, title: "Сертифицировано", desc: "Производство, сертифицированное по ISO, с международными стандартами качества" },
-  { icon: Users, title: "Экспертная поддержка", desc: "Специализированная команда продаж с техническим опытом и оперативным обслуживанием" },
+  { icon: FlaskConical, title: "Премиальный портфель", desc: "Доступ к 22+ высокочистым промышленным химикатам, оптимизированным под мировые стандарты" },
+  { icon: Shield, title: "Лидерство в качестве", desc: "Строгий многоступенчатый контроль качества с полной прослеживаемостью партий и документацией" },
+  { icon: Globe, title: "Стратегический экспорт", desc: "Бесперебойная глобальная дистрибуция из основных морских узлов Китая в более чем 50 стран" },
+  { icon: Truck, title: "Совершенство цепочки поставок", desc: "Оптимизированные логистические решения с эффективным управлением контейнерами" },
+  { icon: Award, title: "Глобальное соответствие", desc: "Продукция, отвечающая международным нормативным требованиям, с строгим внутренним тестированием" },
+  { icon: Users, title: "Стратегическая поддержка", desc: "Отраслевые эксперты, предоставляющие техническое руководство и оперативный сервис" },
 ];
 
 export default function HomePage() {
@@ -58,79 +71,81 @@ export default function HomePage() {
   const isRu = location.pathname.startsWith("/ru");
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const featuredProducts = isRu ? getFeaturedProductsRu() : getFeaturedProducts();
-  const recentBlogs = isRu ? getRecentBlogsRu(3) : getRecentBlogs(3);
+  const featuredProducts = (isRu ? productsRu : products).slice(0, 3);
+  const recentBlogs = [...(isRu ? blogPostsRu : blogPosts)]
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, 3);
   const features = isRu ? featuresRu : featuresEn;
   const jsonLd = isRu ? jsonLdRu : jsonLdEn;
 
   const content = isRu ? {
-    heroBadge: "Нам доверяют покупатели в 50+ странах",
-    heroTitle: "Ваш надежный партнер по поставкам <span class=\"text-blue-200\">химикатов</span>",
-    heroDesc: "Sinopeakchem поставляет промышленные химикаты премиум-класса по всему миру. От тиосульфата натрия до каустической соды — мы обеспечиваем качество и надежную логистику.",
-    viewProducts: "Посмотреть продукты",
-    getQuote: "Запросить цену",
+    heroBadge: "Выбор ведущих предприятий в 50+ странах",
+    heroTitle: "Ваш стратегический партнер по <span class=\"text-blue-100\">химическим</span> решениям",
+    heroDesc: "Sinopeakchem поставляет высокочистые промышленные химикаты по всему миру. Мы обеспечиваем превосходное качество продукции и надежную глобальную логистику.",
+    viewProducts: "Продуктовый портфель",
+    getQuote: "Запросить предложение",
     whyChoose: "Почему выбирают Sinopeakchem?",
-    whyChooseDesc: "Мы сочетаем качественную продукцию, конкурентоспособные цены и надежную логистику для обслуживания покупателей химикатов по всему миру.",
-    featuredTitle: "Популярные продукты",
-    featuredDesc: "Наши самые популярные промышленные химикаты, которым доверяют покупатели во всем мире",
+    whyChooseDesc: "Мы объединяем передовое производство, стратегическую логистику и глубокую экспертизу для обеспечения бесперебойных поставок по всему миру.",
+    featuredTitle: "Ключевые продукты",
+    featuredDesc: "Наши наиболее востребованные химические решения, которым доверяют лидеры отрасли",
     viewAll: "Все продукты",
-    ctaTitle: "Готовы закупать качественные химикаты?",
-    ctaDesc: "Получите конкурентоспособные цены на 22+ промышленных химиката с надежной глобальной доставкой. Наша команда готова помочь вам.",
-    chatWhatsApp: "Чат в WhatsApp",
-    latestInsights: "Последние новости",
-    latestInsightsDesc: "Новости отрасли, руководства по продуктам и технические статьи",
+    ctaTitle: "Необходимы надежные поставки химикатов?",
+    ctaDesc: "Получите доступ к 22+ высококачественным промышленным химикатам с гарантированной глобальной доставкой. Наша команда экспертов готова помочь.",
+    chatWhatsApp: "Связаться в WhatsApp",
+    latestInsights: "Отраслевая экспертиза",
+    latestInsightsDesc: "Новости рынка, технические руководства и аналитические статьи",
     viewAllArticles: "Все статьи",
   } : {
-    heroBadge: "Trusted by buyers in 50+ countries",
-    heroTitle: "Your Reliable <span class=\"text-blue-200\">Chemical</span> Supply Partner",
-    heroDesc: "Sinopeakchem delivers premium industrial chemicals worldwide. From sodium thiosulphate to caustic soda, we provide quality products with competitive pricing and dependable logistics.",
-    viewProducts: "View Products",
-    getQuote: "Get a Quote",
+    heroBadge: "Preferred partner for enterprises in 50+ countries",
+    heroTitle: "Your Strategic <span class=\"text-blue-100\">Chemical</span> Solution Partner",
+    heroDesc: "Sinopeakchem delivers high-purity industrial chemicals worldwide. We ensure superior product quality, competitive supply chain value, and dependable global logistics.",
+    viewProducts: "Explore Portfolio",
+    getQuote: "Request a Quote",
     whyChoose: "Why Choose Sinopeakchem?",
-    whyChooseDesc: "We combine quality products, competitive pricing, and reliable logistics to serve chemical buyers worldwide.",
-    featuredTitle: "Featured Products",
-    featuredDesc: "Our most popular industrial chemicals trusted by buyers worldwide",
+    whyChooseDesc: "We integrate premier manufacturing, strategic logistics, and deep industry expertise to serve global chemical markets with excellence.",
+    featuredTitle: "Core Products",
+    featuredDesc: "Our most sought-after chemical solutions trusted by industry leaders worldwide",
     viewAll: "View All Products",
-    ctaTitle: "Ready to Source Quality Chemicals?",
-    ctaDesc: "Get competitive pricing on 22+ industrial chemicals with reliable global shipping. Our team is ready to assist you.",
-    chatWhatsApp: "Chat on WhatsApp",
-    latestInsights: "Latest Insights",
-    latestInsightsDesc: "Industry news, product guides, and technical articles",
+    ctaTitle: "Looking for a Premier Chemical Partner?",
+    ctaDesc: "Access 22+ high-purity industrial chemicals with guaranteed global shipping. Our expert team is ready to support your procurement needs.",
+    chatWhatsApp: "Contact on WhatsApp",
+    latestInsights: "Industry Expertise",
+    latestInsightsDesc: "Market news, technical product guides, and industry analysis",
     viewAllArticles: "View All Articles",
   };
 
   return (
     <Layout
-      title={isRu ? "Глобальный поставщик химикатов | Промышленные химикаты из Китая" : "Global Chemical Supplier | Industrial Chemicals from China"}
+      title={isRu ? "Ведущий поставщик химикатов | Промышленные решения из Китая" : "Premier Chemical Supplier | Industrial Solutions from China"}
       description={isRu 
-        ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката, включая тиосульфат натрия, каустическую соду, щавелевую кислоту. Глобальная доставка из Китая."
-        : "Sinopeakchem is a leading B2B chemical supplier offering 22+ high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid. Global shipping from China."}
+        ? "Sinopeakchem — ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката. Глобальная дистрибуция из Китая с гарантией качества."
+        : "Sinopeakchem is a premier B2B chemical supplier offering 22+ high-purity industrial chemicals. Global distribution from China with guaranteed quality leadership."}
       jsonLd={jsonLd}
     >
       {/* Hero Section */}
-      <section className="relative min-h-[600px] flex items-center overflow-hidden">
+      <section className="relative min-h-[500px] md:min-h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinopeakchem Chemical Manufacturing Plant" className="w-full h-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#0066B3]/90 via-[#0066B3]/70 to-transparent" />
+          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Supply" className="w-full h-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#003d66]/95 via-[#004a82]/80 to-transparent" />
         </div>
-        <div className="container mx-auto px-4 relative z-10 py-20">
-          <div className="max-w-2xl text-white">
-            <div className="inline-flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-full px-4 py-1.5 text-sm mb-6">
-              <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
+        <div className="container mx-auto px-4 relative z-10 py-12 md:py-16">
+          <div className="max-w-3xl text-white">
+            <div className="inline-flex items-center gap-2.5 bg-white/8 backdrop-blur-xl border border-white/15 rounded-full px-5 py-2.5 text-xs font-semibold mb-8 shadow-lg">
+              <span className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
               {content.heroBadge}
             </div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6" dangerouslySetInnerHTML={{ __html: content.heroTitle }} />
-            <p className="text-lg md:text-xl text-blue-100 mb-8 leading-relaxed">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.15] mb-6 drop-shadow-lg" dangerouslySetInnerHTML={{ __html: content.heroTitle }} />
+            <p className="text-lg md:text-xl text-blue-50/85 mb-8 leading-relaxed max-w-2xl font-medium">
               {content.heroDesc}
             </p>
             <div className="flex flex-wrap gap-4">
               <Link to={`${langPrefix}/products`}>
-                <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 font-semibold text-base px-8">
-                  {content.viewProducts} <ArrowRight className="ml-2 w-5 h-5" />
+                <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 font-bold text-base px-8 h-14 rounded-lg shadow-xl shadow-blue-900/25 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-900/35 hover:-translate-y-1">
+                  {content.viewProducts} <ArrowRight className="ml-2.5 w-5 h-5" />
                 </Button>
               </Link>
               <Link to={`${langPrefix}/contact`}>
-                <Button size="lg" variant="outline" className="!bg-transparent border-2 border-white text-white hover:!bg-white/10 font-semibold text-base px-8">
+                <Button size="lg" variant="outline" className="!bg-white/8 border-2 border-white/30 text-white hover:!bg-white/15 backdrop-blur-sm font-bold text-base px-8 h-14 rounded-lg transition-all duration-300 hover:border-white/50 hover:-translate-y-1">
                   {content.getQuote}
                 </Button>
               </Link>
@@ -140,20 +155,20 @@ export default function HomePage() {
       </section>
 
       {/* Features Section */}
-      <section className="py-16 md:py-20 bg-[#F5F7FA]">
+      <section className="py-16 md:py-20 bg-gradient-to-b from-[#F8FAFC] to-white">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.whyChoose}</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">{content.whyChooseDesc}</p>
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 tracking-tight">{content.whyChoose}</h2>
+            <p className="text-gray-600 text-base max-w-2xl mx-auto font-medium leading-relaxed">{content.whyChooseDesc}</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((f, i) => (
-              <div key={i} className="bg-white rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow border border-gray-100 group">
-                <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center mb-4 group-hover:bg-[#0066B3] transition-colors">
-                  <f.icon className="w-6 h-6 text-[#0066B3] group-hover:text-white transition-colors" />
+              <div key={i} className="bg-white rounded-2xl p-8 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100/50 group hover:-translate-y-1">
+                <div className="w-14 h-14 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl flex items-center justify-center mb-6 group-hover:from-[#0066B3] group-hover:to-[#004a82] transition-all duration-300 shadow-sm">
+                  <f.icon className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
                 </div>
-                <h3 className="text-lg font-semibold text-[#1A1A2E] mb-2">{f.title}</h3>
-                <p className="text-gray-600 text-sm">{f.desc}</p>
+                <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-[#0066B3] transition-colors duration-300">{f.title}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed font-medium">{f.desc}</p>
               </div>
             ))}
           </div>
@@ -161,114 +176,123 @@ export default function HomePage() {
       </section>
 
       {/* Featured Products */}
-      <section className="py-16 md:py-20">
+      <section className="py-16 md:py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="flex items-end justify-between mb-12">
-            <div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.featuredTitle}</h2>
-              <p className="text-gray-600">{content.featuredDesc}</p>
+          <div className="flex items-end justify-between mb-14">
+            <div className="max-w-2xl">
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3 tracking-tight">{content.featuredTitle}</h2>
+              <p className="text-gray-600 text-base font-medium">{content.featuredDesc}</p>
             </div>
-            <Link to={`${langPrefix}/products`} className="hidden md:inline-flex items-center text-[#0066B3] font-medium hover:underline">
-              {content.viewAll} <ArrowRight className="ml-1 w-4 h-4" />
+            <Link to={`${langPrefix}/products`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold text-base hover:gap-3 transition-all duration-300 hover:text-[#004a82]">
+              {content.viewAll} <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {featuredProducts.map((product) => (
               <Link
                 key={product.id}
                 to={`${langPrefix}/products/${product.slug}`}
-                className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1"
+                className="group bg-white rounded-3xl border border-gray-100/50 overflow-hidden shadow-sm hover:shadow-xl hover:shadow-blue-900/10 transition-all duration-300 hover:-translate-y-2"
               >
-                <div className="aspect-[4/3] bg-gray-50 overflow-hidden m-3 rounded-2xl">
+                <div className="aspect-[4/3] bg-gradient-to-br from-[#F8FAFC] to-[#F0F4F8] overflow-hidden m-4 rounded-2xl p-8 group-hover:from-white group-hover:to-blue-50/30 transition-all duration-300">
                   <img
                     src={product.image}
                     alt={product.name}
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                    className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500"
                     loading="lazy"
                   />
                 </div>
-                <div className="p-5">
-                  <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{product.category}</span>
-                  <h3 className="text-lg font-semibold text-[#1A1A2E] mt-3 mb-2 group-hover:text-[#0066B3] transition-colors">{product.name}</h3>
-                  <p className="text-sm text-gray-600 line-clamp-2 mb-3">{product.shortDescription}</p>
-                  <div className="flex items-center justify-between text-xs text-gray-500">
-                    <span>CAS: {product.cas}</span>
-                    <span>{product.loading}</span>
+                <div className="p-6">
+                  <span className="text-[9px] font-bold text-[#0066B3] bg-blue-50 px-3 py-1.5 rounded-full uppercase tracking-widest mb-4 inline-block">
+                    {product.category}
+                  </span>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-[#0066B3] transition-colors duration-300">
+                    {product.name}
+                  </h3>
+                  <div className="flex items-center gap-3 text-gray-500 text-xs font-medium">
+                    <span className="flex items-center gap-1.5"><FlaskConical className="w-3.5 h-3.5" /> CAS: {product.cas}</span>
+                    <span className="flex items-center gap-1.5"><Truck className="w-3.5 h-3.5" /> {product.loading}</span>
                   </div>
                 </div>
               </Link>
             ))}
           </div>
-          <div className="text-center mt-8 md:hidden">
-            <Link to={`${langPrefix}/products`}>
-              <Button variant="outline" className="border-[#0066B3] text-[#0066B3]">
-                {content.viewAll} <ArrowRight className="ml-1 w-4 h-4" />
-              </Button>
+          <div className="mt-10 md:hidden">
+            <Link to={`${langPrefix}/products`} className="flex items-center justify-center gap-2 text-[#0066B3] font-bold py-4 border-2 border-blue-50 rounded-2xl hover:bg-blue-50 transition-all duration-300">
+              {content.viewAll} <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
         </div>
       </section>
 
       {/* CTA Section */}
-      <section className="relative py-20 overflow-hidden">
+      <section className="py-20 md:py-24 relative overflow-hidden">
         <div className="absolute inset-0">
-          <img src={SHIP_IMG} alt="Global Chemical Shipping" className="w-full h-full object-cover" />
-          <div className="absolute inset-0 bg-[#0066B3]/85" />
+          <img src={SHIP_IMG} alt="Sinopeakchem Global Logistics" className="w-full h-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#001a2e]/95 via-[#001a2e]/95 to-[#001a2e]/95" />
         </div>
-        <div className="container mx-auto px-4 relative z-10 text-center text-white">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">{content.ctaTitle}</h2>
-          <p className="text-lg text-blue-100 max-w-2xl mx-auto mb-8">
-            {content.ctaDesc}
-          </p>
-          <div className="flex flex-wrap justify-center gap-4">
-            <Link to={`${langPrefix}/contact`}>
-              <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 font-semibold px-8">
-                {content.getQuote}
-              </Button>
-            </Link>
-            <a href="https://wa.me/8613583262050?text=Hello%2C%20I%27m%20interested%20in%20your%20products." target="_blank" rel="noopener noreferrer">
-              <Button size="lg" variant="outline" className="!bg-transparent border-2 border-white text-white hover:!bg-white/10 font-semibold px-8">
-                {content.chatWhatsApp}
-              </Button>
-            </a>
+        <div className="container mx-auto px-4 relative z-10 text-center">
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-white mb-6 leading-tight drop-shadow-2xl whitespace-nowrap md:whitespace-normal">
+              {content.ctaTitle}
+            </h2>
+            <p className="text-lg md:text-xl text-blue-50/95 mb-10 leading-relaxed font-medium drop-shadow-lg">
+              {content.ctaDesc}
+            </p>
+            <div className="flex flex-wrap justify-center gap-5">
+              <Link to={`${langPrefix}/contact`}>
+                <Button size="lg" className="bg-[#0066B3] hover:bg-[#004a82] text-white hover:text-white font-bold text-base px-10 h-14 rounded-xl shadow-2xl shadow-blue-900/40 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-blue-900/60">
+                  {content.getQuote}
+                </Button>
+              </Link>
+              <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer">
+                <Button size="lg" variant="outline" className="bg-white/10 border-2 border-white/30 text-white hover:text-white hover:bg-white/30 hover:border-white/50 backdrop-blur-md font-bold text-base px-10 h-14 rounded-xl transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-white/20">
+                  <MessageCircle className="mr-2.5 w-5 h-5 fill-current" /> {content.chatWhatsApp}
+                </Button>
+              </a>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Blog Section */}
-      <section className="py-16 md:py-20 bg-[#F5F7FA]">
+      <section className="py-16 md:py-20 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
-          <div className="flex items-end justify-between mb-12">
-            <div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.latestInsights}</h2>
-              <p className="text-gray-600">{content.latestInsightsDesc}</p>
+          <div className="flex items-end justify-between mb-14">
+            <div className="max-w-2xl">
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3 tracking-tight">{content.latestInsights}</h2>
+              <p className="text-gray-600 text-base font-medium">{content.latestInsightsDesc}</p>
             </div>
-            <Link to={`${langPrefix}/blog`} className="hidden md:inline-flex items-center text-[#0066B3] font-medium hover:underline">
-              {content.viewAllArticles} <ArrowRight className="ml-1 w-4 h-4" />
+            <Link to={`${langPrefix}/blog`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold text-base hover:gap-3 transition-all duration-300 hover:text-[#004a82]">
+              {content.viewAllArticles} <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {recentBlogs.map((post) => (
               <Link
                 key={post.id}
                 to={`${langPrefix}/blog/${post.slug}`}
-                className="group bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all hover:-translate-y-1"
+                className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100/50 hover:-translate-y-1"
               >
-                <div className="aspect-video bg-gray-50 overflow-hidden">
+                <div className="aspect-video overflow-hidden">
                   <img
                     src={post.image}
                     alt={post.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   />
                 </div>
-                <div className="p-5">
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : "en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
+                <div className="p-6">
+                  <div className="flex items-center gap-3 text-xs text-gray-400 font-bold uppercase tracking-wider mb-3">
+                    <span className="text-[#0066B3]">{post.category}</span>
+                    <span>•</span>
+                    <span>{post.date}</span>
                   </div>
-                  <h3 className="text-base font-semibold text-[#1A1A2E] mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-2">{post.title}</h3>
-                  <p className="text-sm text-gray-600 line-clamp-2">{post.excerpt}</p>
+                  <h3 className="text-lg font-bold text-gray-900 mb-3 group-hover:text-[#0066B3] transition-colors duration-300 line-clamp-2">
+                    {post.title}
+                  </h3>
+                  <p className="text-gray-500 text-sm line-clamp-2 font-medium leading-relaxed">
+                    {post.excerpt}
+                  </p>
                 </div>
               </Link>
             ))}

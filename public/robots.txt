@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+# Disallow specific paths that do not need to be indexed
+Disallow: /api/
+
+Sitemap: https://sinopeakchem.com/sitemap.xml

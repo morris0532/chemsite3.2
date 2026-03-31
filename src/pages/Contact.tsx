@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { Mail, Phone, MapPin, MessageCircle, Send, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -19,7 +19,10 @@ const jsonLdEn = {
     telephone: "+86-13583262050",
     address: {
       "@type": "PostalAddress",
+      streetAddress: "No. 182, Jinshui Road, Licang District",
+      addressLocality: "Qingdao",
       addressRegion: "Shandong",
+      postalCode: "266000",
       addressCountry: "CN",
     },
   },
@@ -38,6 +41,19 @@ export default function ContactPage() {
   const [formData, setFormData] = useState({ name: "", email: "", company: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [waLink, setWaLink] = useState("");
+  const [waDisplay, setWaDisplay] = useState("");
+
+  // Anti-scraping logic for WhatsApp/Phone
+  useEffect(() => {
+    const country = "86";
+    const part1 = "135";
+    const part2 = "8326";
+    const part3 = "2050";
+    const full = country + part1 + part2 + part3;
+    setWaLink(`https://wa.me/${full}?text=Hello%2C%20I%27m%20interested%20in%20your%20products.`);
+    setWaDisplay(`+${country} ${part1} ${part2} ${part3}`);
+  }, []);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -65,7 +81,6 @@ export default function ContactPage() {
       }, 5000);
     } catch (error) {
       console.error("Error submitting form:", error);
-      // Fallback or alert can be added here
     } finally {
       setSubmitting(false);
     }
@@ -83,10 +98,9 @@ export default function ContactPage() {
     getInTouch: "Связаться",
     getInTouchDesc: "Мы здесь, чтобы помочь. Свяжитесь с нами по любому из следующих каналов.",
     email: "Электронная почта",
-    phone: "Телефон",
     whatsapp: "WhatsApp",
     address: "Адрес",
-    addressValue: "Провинция Шаньдун, Китай",
+    addressValue: "№ 182, ул. Цзиньшуй, район Лицан, Циндао, провинция Шаньдун, Китай",
     sendMessage: "Отправьте нам сообщение",
     sendMessageDesc: "Заполните форму ниже, и наша команда свяжется с вами в течение 24 часов.",
     successTitle: "Сообщение успешно отправлено!",
@@ -106,10 +120,9 @@ export default function ContactPage() {
     getInTouch: "Get In Touch",
     getInTouchDesc: "We are here to help. Reach out to us through any of the following channels.",
     email: "Email",
-    phone: "Phone",
     whatsapp: "WhatsApp",
     address: "Address",
-    addressValue: "Shandong Province, China",
+    addressValue: "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China",
     sendMessage: "Send Us a Message",
     sendMessageDesc: "Fill out the form below and our team will get back to you within 24 hours.",
     successTitle: "Message Sent Successfully!",
@@ -148,25 +161,7 @@ export default function ContactPage() {
               <p className="text-gray-600">{content.getInTouchDesc}</p>
 
               <div className="space-y-4">
-                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
-                  <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Mail className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
-                    <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">info@sinopeakchem.com</a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
-                  <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Phone className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.phone}</h3>
-                    <a href="tel:+8613583262050" className="text-[#0066B3] hover:underline text-sm">+86 13583262050</a>
-                  </div>
-                </div>
+                {/* Phone removed as per previous request */}
 
                 <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
                   <div className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center flex-shrink-0">
@@ -174,7 +169,9 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
-                    <a href="https://wa.me/8613583262050?text=Hello%2C%20I%27m%20interested%20in%20your%20products." target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">+86 13583262050</a>
+                    <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">
+                      {waDisplay || "Loading..."}
+                    </a>
                   </div>
                 </div>
 

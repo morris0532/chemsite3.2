@@ -1,17 +1,32 @@
 import { useParams, Link, useLocation } from "react-router-dom";
-import { ChevronRight, Calendar, User, Share2, Facebook, Twitter, Linkedin, ArrowLeft } from "lucide-react";
+import { ChevronRight, Calendar, User, Share2, Facebook, Twitter, Linkedin, ArrowLeft, Tag } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
-import { getBlogBySlug, getRecentBlogs } from "@/data/blogs";
-import { getBlogBySlugRu, getRecentBlogsRu } from "@/data/blogs_ru";
+import { useMarkdownContent } from "../hooks/useMarkdownContent";
+import { useSiteConfig } from "../hooks/useSiteConfig";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import { JsonLd, generateBlogSchema } from "../components/JsonLd";
+import { useMemo } from "react";
 
 export default function BlogDetailPage() {
   const { slug } = useParams<{ slug: string }>();
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
+  const locale = isRu ? "ru" : "en";
   const langPrefix = isRu ? "/ru" : "/en";
   
-  const post = isRu ? getBlogBySlugRu(slug || "") : getBlogBySlug(slug || "");
+  const { posts, getPostBySlug } = useMarkdownContent(locale);
+  const { ui } = useSiteConfig(locale);
+  const post = getPostBySlug(slug || "");
+
+  const recentPosts = useMemo(() => {
+    if (!post) return [];
+    return posts
+      .filter((b: any) => b.slug !== post.slug)
+      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
+      .slice(0, 3);
+  }, [post, posts]);
 
   if (!post) {
     return (
@@ -26,21 +41,6 @@ export default function BlogDetailPage() {
   }
 
   const currentUrl = `https://sinopeakchem.com${langPrefix}/blog/${post.slug}`;
-  const recentPosts = isRu 
-    ? getRecentBlogsRu(4).filter((b) => b.slug !== post.slug).slice(0, 3)
-    : getRecentBlogs(4).filter((b) => b.slug !== post.slug).slice(0, 3);
-
-  const articleJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: post.title,
-    description: post.excerpt,
-    image: post.image,
-    datePublished: post.date,
-    author: { "@type": "Person", name: post.author },
-    publisher: { "@type": "Organization", name: "Sinopeakchem", logo: { "@type": "ImageObject", url: "https://sinopeakchem.com/logo.png" } },
-    mainEntityOfPage: { "@type": "WebPage", "@id": currentUrl },
-  };
 
   const content = isRu ? {
     home: "Главная",
@@ -62,69 +62,14 @@ export default function BlogDetailPage() {
     getQuote: "Get a Quote",
   };
 
-  // Simple markdown-to-HTML converter
-  const renderContent = (content: string) => {
-    const lines = content.split("\n");
-    const html: string[] = [];
-    let inList = false;
-    let inTable = false;
-
-    for (const line of lines) {
-      const trimmed = line.trim();
-
-      if (trimmed.startsWith("## ")) {
-        if (inList) { html.push("</ul>"); inList = false; }
-        if (inTable) { html.push("</tbody></table></div>"); inTable = false; }
-        html.push(`<h2 class="text-2xl font-bold text-[#1A1A2E] mt-8 mb-4">${trimmed.slice(3)}</h2>`);
-      } else if (trimmed.startsWith("### ")) {
-        if (inList) { html.push("</ul>"); inList = false; }
-        html.push(`<h3 class="text-xl font-semibold text-[#1A1A2E] mt-6 mb-3">${trimmed.slice(4)}</h3>`);
-      } else if (trimmed.startsWith("- **")) {
-        if (!inList) { html.push('<ul class="space-y-2 mb-4">'); inList = true; }
-        const boldMatch = trimmed.match(/^- \*\*(.+?)\*\*:?\s*(.*)/);
-        if (boldMatch) {
-          html.push(`<li class="text-gray-700"><strong class="text-[#1A1A2E]">${boldMatch[1]}</strong>${boldMatch[2] ? ": " + boldMatch[2] : ""}</li>`);
-        } else {
-          html.push(`<li class="text-gray-700">${trimmed.slice(2)}</li>`);
-        }
-      } else if (trimmed.startsWith("- ")) {
-        if (!inList) { html.push('<ul class="list-disc list-inside space-y-1 mb-4 text-gray-700">'); inList = true; }
-        html.push(`<li>${trimmed.slice(2)}</li>`);
-      } else if (/^\d+\.\s/.test(trimmed)) {
-        if (!inList) { html.push('<ol class="list-decimal list-inside space-y-1 mb-4 text-gray-700">'); inList = true; }
-        html.push(`<li>${trimmed.replace(/^\d+\.\s/, "")}</li>`);
-      } else if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
-        if (inList) { html.push("</ul>"); inList = false; }
-        if (trimmed.includes("---")) continue;
-        const cells = trimmed.split("|").filter(Boolean).map((c) => c.trim());
-        if (!inTable) {
-          html.push('<div class="overflow-x-auto mb-4"><table class="w-full border-collapse border border-gray-200 text-sm">');
-          html.push(`<thead><tr>${cells.map((c) => `<th class="border border-gray-200 px-3 py-2 bg-gray-50 text-left font-medium text-[#1A1A2E]">${c}</th>`).join("")}</tr></thead><tbody>`);
-          inTable = true;
-        } else {
-          html.push(`<tr>${cells.map((c) => `<td class="border border-gray-200 px-3 py-2 text-gray-700">${c}</td>`).join("")}</tr>`);
-        }
-      } else if (trimmed === "") {
-        if (inList) { html.push("</ul>"); inList = false; }
-        if (inTable) { html.push("</tbody></table></div>"); inTable = false; }
-      } else {
-        if (inList) { html.push("</ul>"); inList = false; }
-        // Handle inline bold
-        const processed = trimmed.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-        html.push(`<p class="text-gray-700 leading-relaxed mb-4">${processed}</p>`);
-      }
-    }
-    if (inList) html.push("</ul>");
-    if (inTable) html.push("</tbody></table></div>");
-    return html.join("\n");
-  };
-
   return (
     <Layout
       title={`${post.title} | Sinopeakchem Blog`}
       description={post.excerpt}
-      jsonLd={articleJsonLd}
+      image={post.image}
     >
+      <JsonLd data={generateBlogSchema(post, locale)} />
+
       {/* Breadcrumb */}
       <div className="bg-[#F5F7FA] border-b border-gray-200">
         <div className="container mx-auto px-4 py-3">
@@ -159,14 +104,16 @@ export default function BlogDetailPage() {
 
               <h1 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-6">{post.title}</h1>
 
-              <div
-                className="prose prose-gray max-w-none"
-                dangerouslySetInnerHTML={{ __html: renderContent(post.content) }}
-              />
+              <div className="prose prose-gray max-w-none">
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  {post.content}
+                </ReactMarkdown>
+              </div>
 
               {/* Tags */}
               <div className="flex flex-wrap gap-2 mt-8 pt-6 border-t border-gray-200">
-                {post.tags.map((tag) => (
+                <Tag className="w-4 h-4 text-gray-400 mr-1" />
+                {post.tags.map((tag: string) => (
                   <span key={tag} className="text-xs bg-gray-100 text-gray-600 px-3 py-1 rounded-full">#{tag}</span>
                 ))}
               </div>
@@ -185,8 +132,8 @@ export default function BlogDetailPage() {
               <div className="sticky top-24">
                 <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">{content.recentArticles}</h3>
                 <div className="space-y-4">
-                  {recentPosts.map((rp) => (
-                    <Link key={rp.id} to={`${langPrefix}/blog/${rp.slug}`} className="group flex gap-3">
+                  {recentPosts.map((rp: any) => (
+                    <Link key={rp.slug} to={`${langPrefix}/blog/${rp.slug}`} className="group flex gap-3">
                       <div className="w-20 h-16 bg-gray-50 rounded-lg overflow-hidden flex-shrink-0">
                         <img src={rp.image} alt={rp.title} className="w-full h-full object-cover" loading="lazy" />
                       </div>

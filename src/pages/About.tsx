@@ -1,4 +1,4 @@
-import { Award, Globe, Users, TrendingUp, CheckCircle } from "lucide-react";
+import { Award, Globe, Users, TrendingUp, CheckCircle, ShieldCheck, Microscope, Zap } from "lucide-react";
 import { useLocation } from "react-router-dom";
 import Layout from "@/components/Layout";
 
@@ -10,61 +10,68 @@ const jsonLdEn = {
   "@type": "Organization",
   name: "Sinopeakchem",
   url: "https://sinopeakchem.com",
-  description: "Sinopeakchem is a leading B2B chemical supplier from China with years of experience in international chemical trade.",
+  description: "Sinopeakchem is a premier B2B chemical supply partner from China with over 15 years of excellence in international chemical distribution and quality management.",
   foundingDate: "2010",
   numberOfEmployees: { "@type": "QuantitativeValue", value: "50+" },
-  address: { "@type": "PostalAddress", addressRegion: "Shandong", addressCountry: "CN" },
+  address: { 
+    "@type": "PostalAddress", 
+    streetAddress: "No. 182, Jinshui Road, Licang District",
+    addressLocality: "Qingdao",
+    addressRegion: "Shandong",
+    postalCode: "266000",
+    addressCountry: "CN" 
+  },
 };
 
 const jsonLdRu = {
   ...jsonLdEn,
-  description: "Sinopeakchem - ведущий поставщик химикатов B2B из Китая с многолетним опытом международной торговли химикатами.",
+  description: "Sinopeakchem — ведущий партнер по поставкам химикатов B2B из Китая с более чем 15-летним опытом в международной дистрибуции химикатов и управлении качеством.",
 };
 
 const milestonesEn = [
-  { year: "2010", title: "Company Founded", desc: "Sinopeakchem established in Shandong Province, China, focusing on chemical export trade." },
-  { year: "2013", title: "Global Expansion", desc: "Expanded export operations to Southeast Asia, Middle East, and Africa." },
-  { year: "2016", title: "Product Diversification", desc: "Grew product portfolio to 15+ chemical products across multiple categories." },
-  { year: "2019", title: "Quality Certification", desc: "Achieved ISO 9001 quality management system certification." },
-  { year: "2022", title: "Market Leadership", desc: "Became a leading supplier of sodium thiosulphate and oxalic acid in international markets." },
-  { year: "2025", title: "Digital Transformation", desc: "Launched digital platform for streamlined global chemical procurement." },
+  { year: "2010", title: "Strategic Foundation", desc: "Sinopeakchem established in Shandong, China, with a vision to redefine chemical export standards." },
+  { year: "2013", title: "Global Footprint", desc: "Accelerated expansion across Southeast Asia, the Middle East, and Africa, building a robust global network." },
+  { year: "2016", title: "Portfolio Optimization", desc: "Strategic diversification of product range to 15+ high-purity chemicals for specialized industries." },
+  { year: "2019", title: "Quality Excellence", desc: "Implementation of a comprehensive internal quality management system with advanced batch traceability." },
+  { year: "2022", title: "Industry Leadership", desc: "Recognized as a premier global supplier of sodium thiosulphate and oxalic acid." },
+  { year: "2025", title: "Supply Chain Innovation", desc: "Advanced digital procurement platform launched to optimize the global chemical supply chain." },
 ];
 
 const milestonesRu = [
-  { year: "2010", title: "Основание компании", desc: "Компания Sinopeakchem основана в провинции Шаньдун, Китай, с упором на экспортную торговлю химикатами." },
-  { year: "2013", title: "Глобальное расширение", desc: "Расширение экспортных операций в Юго-Восточную Азию, Ближний Восток и Африку." },
-  { year: "2016", title: "Диверсификация продукции", desc: "Портфель продукции вырос до 15+ химических продуктов в нескольких категориях." },
-  { year: "2019", title: "Сертификация качества", desc: "Получен сертификат системы менеджмента качества ISO 9001." },
-  { year: "2022", title: "Лидерство на рынке", desc: "Стали ведущим поставщиком тиосульфата натрия и щавелевой кислоты на международных рынках." },
-  { year: "2025", title: "Цифровая трансформация", desc: "Запуск цифровой платформы для оптимизации глобальных закупок химикатов." },
+  { year: "2010", title: "Стратегическое основание", desc: "Основание Sinopeakchem в Шаньдуне, Китай, с видением пересмотра стандартов экспорта химикатов." },
+  { year: "2013", title: "Глобальное присутствие", desc: "Ускоренное расширение в Юго-Восточной Азии, на Ближнем Востоке и в Африке." },
+  { year: "2016", title: "Оптимизация портфеля", desc: "Стратегическая диверсификация ассортимента до 15+ высокочистых химикатов." },
+  { year: "2019", title: "Превосходство качества", desc: "Внедрение комплексной внутренней системы управления качеством с прослеживаемостью партий." },
+  { year: "2022", title: "Лидерство в отрасли", desc: "Признание в качестве ведущего мирового поставщика тиосульфата натрия и щавелевой кислоты." },
+  { year: "2025", title: "Инновации в цепочке поставок", desc: "Запуск цифровой платформы для оптимизации глобальных поставок химикатов." },
 ];
 
 const statsEn = [
   { icon: Globe, value: "50+", label: "Countries Served" },
-  { icon: Award, value: "22+", label: "Chemical Products" },
-  { icon: Users, value: "500+", label: "Global Clients" },
-  { icon: TrendingUp, value: "15+", label: "Years Experience" },
+  { icon: Award, value: "22+", label: "Premier Products" },
+  { icon: Users, value: "500+", label: "Global Partners" },
+  { icon: TrendingUp, value: "15+", label: "Years Excellence" },
 ];
 
 const statsRu = [
   { icon: Globe, value: "50+", label: "Обслуживаемых стран" },
-  { icon: Award, value: "22+", label: "Химических продуктов" },
-  { icon: Users, value: "500+", label: "Глобальных клиентов" },
+  { icon: Award, value: "22+", label: "Премиум-продуктов" },
+  { icon: Users, value: "500+", label: "Глобальных партнеров" },
   { icon: TrendingUp, value: "15+", label: "Лет опыта" },
 ];
 
 const valuesEn = [
-  { title: "Quality First", desc: "Every product undergoes rigorous quality testing with complete COA documentation." },
-  { title: "Customer Focus", desc: "Dedicated support team providing responsive service and technical guidance." },
-  { title: "Global Reach", desc: "Efficient logistics network connecting Chinese manufacturers to worldwide buyers." },
-  { title: "Integrity", desc: "Transparent pricing, honest communication, and reliable delivery commitments." },
+  { icon: ShieldCheck, title: "Quality Leadership", desc: "Uncompromising internal quality control protocols with full COA/MSDS batch verification." },
+  { icon: Microscope, title: "Technical Expertise", desc: "Deep industry knowledge providing specialized technical support for complex applications." },
+  { icon: Zap, title: "Logistics Agility", desc: "Strategic supply chain management ensuring rapid response and priority global shipping." },
+  { icon: Users, title: "Strategic Partnership", desc: "Committed to long-term value creation through transparent and reliable supply solutions." },
 ];
 
 const valuesRu = [
-  { title: "Качество прежде всего", desc: "Каждый продукт проходит строгие испытания качества с полной документацией COA." },
-  { title: "Ориентация на клиента", desc: "Специализированная команда поддержки, обеспечивающая оперативное обслуживание и техническое руководство." },
-  { title: "Глобальный охват", desc: "Эффективная логистическая сеть, соединяющая китайских производителей с покупателями по всему миру." },
-  { title: "Честность", desc: "Прозрачное ценообразование, честное общение и надежные обязательства по доставке." },
+  { icon: ShieldCheck, title: "Лидерство в качестве", desc: "Бескомпромиссные внутренние протоколы контроля качества с полной проверкой партий COA/MSDS." },
+  { icon: Microscope, title: "Техническая экспертиза", desc: "Глубокие отраслевые знания, обеспечивающие специализированную поддержку сложных областей применения." },
+  { icon: Zap, title: "Логистическая гибкость", desc: "Стратегическое управление цепочками поставок, обеспечивающее быстрый отклик и приоритетную доставку." },
+  { icon: Users, title: "Стратегическое партнерство", desc: "Стремление к долгосрочному созданию ценности через прозрачные и надежные решения." },
 ];
 
 export default function AboutPage() {
@@ -77,31 +84,31 @@ export default function AboutPage() {
   const jsonLd = isRu ? jsonLdRu : jsonLdEn;
 
   const content = isRu ? {
-    title: "О Sinopeakchem - Ведущий поставщик химикатов из Китая",
-    description: "Узнайте о Sinopeakchem, надежном поставщике химикатов B2B с 15-летним опытом обслуживания 500+ клиентов в 50+ странах. Сертифицированное качество ISO.",
+    title: "О Sinopeakchem — Ведущий партнер по поставкам химикатов",
+    description: "Узнайте о Sinopeakchem, ведущем поставщике химикатов B2B с 15-летним опытом обслуживания 500+ клиентов в 50+ странах. Лидерство в качестве и логистике.",
     heroTitle: "О Sinopeakchem",
-    heroDesc: "Ваш надежный партнер в глобальной торговле химикатами. Мы соединяем качественных китайских производителей химикатов с покупателями по всему миру.",
+    heroDesc: "Ваш стратегический партнер в глобальной торговле химикатами. Мы обеспечиваем связь между высокотехнологичным производством Китая и мировым рынком.",
     ourStory: "Наша история",
-    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinopeakchem выросла из небольшой торговой компании в ведущего поставщика химикатов B2B, обслуживающего клиентов в 50+ странах. Наш путь был продиктован стремлением к качеству, надежности и удовлетворенности клиентов.",
-    storyP2: "Мы специализируемся на поиске и экспорте широкого спектра промышленных химикатов, включая тиосульфат натрия, каустическую соду, щавелевую кислоту, хлорид кальция и многие другие. Наши глубокие отношения с ведущими китайскими производителями обеспечивают стабильное качество и конкурентоспособные цены.",
-    storyP3: "Благодаря опытной команде профессионалов химической промышленности мы предоставляем полный спектр услуг: от выбора продукции и проверки качества до координации логистики и послепродажной поддержки.",
-    coreValues: "Наши основные ценности",
-    ourJourney: "Наш путь",
-    certTitle: "Сертификация и гарантия качества",
-    certDesc: "Мы поддерживаем самые высокие стандарты качества посредством строгих испытаний и международно признанных сертификатов.",
+    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinopeakchem превратилась из специализированного торгового предприятия в ведущего мирового партнера по поставкам химикатов B2B. Наш путь был продиктован стремлением к безупречному качеству, операционной эффективности и стратегическому партнерству.",
+    storyP2: "Мы специализируемся на поставках широкого спектра высокочистых промышленных химикатов, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и хлорид кальция. Наши глубокие связи с ведущими производственными базами Китая гарантируют стабильное качество и исключительную ценность цепочки поставок.",
+    storyP3: "Благодаря команде экспертов с глубоким пониманием химической отрасли, мы предоставляем комплексные решения: от строгого контроля качества на этапе производства до сложной международной логистики и технической поддержки.",
+    coreValues: "Наши стратегические ценности",
+    ourJourney: "Этапы развития",
+    certTitle: "Гарантия качества и соответствие стандартам",
+    certDesc: "Мы обеспечиваем превосходство продукции через строгие внутренние протоколы тестирования и сотрудничество с ведущими мировыми инспекционными агентствами.",
   } : {
-    title: "About Sinopeakchem - Leading Chemical Supplier from China",
-    description: "Learn about Sinopeakchem, a trusted B2B chemical supplier with 15+ years of experience serving 500+ clients in 50+ countries. ISO certified quality management.",
+    title: "About Sinopeakchem - Premier Chemical Supply Partner",
+    description: "Learn about Sinopeakchem, a premier B2B chemical supplier with 15+ years of excellence serving 500+ clients in 50+ countries. Quality leadership and logistics expertise.",
     heroTitle: "About Sinopeakchem",
-    heroDesc: "Your trusted partner in global chemical trade. We connect quality Chinese chemical manufacturers with buyers worldwide.",
+    heroDesc: "Your strategic partner in the global chemical trade. We bridge the gap between advanced Chinese manufacturing and the global industrial market.",
     ourStory: "Our Story",
-    storyP1: "Founded in 2010 in Shandong Province, China, Sinopeakchem has grown from a small trading company into a leading B2B chemical supplier serving clients across 50+ countries. Our journey has been driven by a commitment to quality, reliability, and customer satisfaction.",
-    storyP2: "We specialize in sourcing and exporting a comprehensive range of industrial chemicals, including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and many more. Our deep relationships with top Chinese manufacturers ensure consistent quality and competitive pricing.",
-    storyP3: "With an experienced team of chemical industry professionals, we provide end-to-end service from product selection and quality inspection to logistics coordination and after-sales support.",
-    coreValues: "Our Core Values",
-    ourJourney: "Our Journey",
-    certTitle: "Certifications and Quality Assurance",
-    certDesc: "We maintain the highest quality standards through rigorous testing and internationally recognized certifications.",
+    storyP1: "Founded in 2010 in Shandong Province, China, Sinopeakchem has evolved from a specialized trading entity into a premier global B2B chemical supply partner. Our trajectory has been defined by a commitment to uncompromising quality, operational excellence, and strategic partnership.",
+    storyP2: "We specialize in the strategic sourcing and distribution of a comprehensive range of high-purity industrial chemicals, including sodium thiosulphate, caustic soda, oxalic acid, and calcium chloride. Our deep-rooted relationships with China's leading manufacturing bases ensure consistent quality and superior supply chain value.",
+    storyP3: "With a team of industry veterans possessing deep technical insight, we provide end-to-end supply chain solutions—from rigorous production-stage quality audits to complex international logistics and dedicated technical support.",
+    coreValues: "Our Strategic Values",
+    ourJourney: "Our Strategic Journey",
+    certTitle: "Quality Assurance & Compliance",
+    certDesc: "We ensure product excellence through rigorous internal testing protocols and collaboration with world-leading third-party inspection agencies.",
   };
 
   return (
@@ -111,30 +118,30 @@ export default function AboutPage() {
       jsonLd={jsonLd}
     >
       {/* Hero */}
-      <section className="relative py-20 overflow-hidden">
+      <section className="relative py-20 md:py-24 overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinopeakchem Chemical Plant" className="w-full h-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#0066B3]/90 to-[#0066B3]/60" />
+          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Operations" className="w-full h-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#003d66]/95 via-[#004a82]/85 to-transparent" />
         </div>
         <div className="container mx-auto px-4 relative z-10 text-white">
-          <h1 className="text-3xl md:text-5xl font-bold mb-4">{content.heroTitle}</h1>
-          <p className="text-lg text-blue-100 max-w-2xl">
+          <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight drop-shadow-xl">{content.heroTitle}</h1>
+          <p className="text-lg md:text-xl text-blue-50/90 max-w-2xl font-medium leading-relaxed drop-shadow-lg">
             {content.heroDesc}
           </p>
         </div>
       </section>
 
       {/* Stats */}
-      <section className="py-12 bg-white">
+      <section className="py-16 bg-white border-b border-gray-100">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             {stats.map((stat, i) => (
-              <div key={i} className="text-center">
-                <div className="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center mx-auto mb-3">
-                  <stat.icon className="w-7 h-7 text-[#0066B3]" />
+              <div key={i} className="text-center group">
+                <div className="w-16 h-16 bg-blue-50 rounded-2xl flex items-center justify-center mx-auto mb-5 group-hover:bg-[#0066B3] transition-all duration-300 shadow-sm">
+                  <stat.icon className="w-8 h-8 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
                 </div>
-                <p className="text-3xl font-bold text-[#0066B3]">{stat.value}</p>
-                <p className="text-sm text-gray-600 mt-1">{stat.label}</p>
+                <p className="text-4xl font-extrabold text-[#0066B3] tracking-tight">{stat.value}</p>
+                <p className="text-xs md:text-sm text-gray-500 mt-2 font-bold uppercase tracking-widest">{stat.label}</p>
               </div>
             ))}
           </div>
@@ -142,38 +149,45 @@ export default function AboutPage() {
       </section>
 
       {/* Company Story */}
-      <section className="py-12 md:py-16">
+      <section className="py-16 md:py-24 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
-              <h2 className="text-3xl font-bold text-[#1A1A2E] mb-6">{content.ourStory}</h2>
-              <p className="text-gray-700 leading-relaxed mb-4">
-                {content.storyP1}
-              </p>
-              <p className="text-gray-700 leading-relaxed mb-4">
-                {content.storyP2}
-              </p>
-              <p className="text-gray-700 leading-relaxed">
-                {content.storyP3}
-              </p>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div className="order-2 lg:order-1">
+              <div className="inline-block px-4 py-1.5 bg-blue-50 text-[#0066B3] text-[10px] font-bold uppercase tracking-[0.2em] rounded-full mb-6">
+                Established 2010
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-8 tracking-tight">{content.ourStory}</h2>
+              <div className="space-y-6 text-gray-600 leading-relaxed font-medium text-base md:text-lg">
+                <p>{content.storyP1}</p>
+                <p>{content.storyP2}</p>
+                <p>{content.storyP3}</p>
+              </div>
             </div>
-            <div className="rounded-2xl overflow-hidden shadow-lg">
-              <img src={LAB_IMG} alt="Sinopeakchem Quality Control Laboratory" className="w-full h-full object-cover" />
+            <div className="order-1 lg:order-2 relative">
+              <div className="absolute -inset-4 bg-blue-100/50 rounded-[3rem] blur-2xl -z-10" />
+              <div className="rounded-[2.5rem] overflow-hidden shadow-2xl shadow-blue-900/20 border-8 border-white">
+                <img src={LAB_IMG} alt="Sinopeakchem Quality Excellence Center" className="w-full h-full object-cover" />
+              </div>
             </div>
           </div>
         </div>
       </section>
 
       {/* Core Values */}
-      <section className="py-12 md:py-16 bg-[#F5F7FA]">
+      <section className="py-16 md:py-24 bg-white">
+        <div className="container mx-auto px-4 text-center mb-16">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4 tracking-tight">{content.coreValues}</h2>
+          <div className="w-20 h-1.5 bg-[#0066B3] mx-auto rounded-full" />
+        </div>
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">{content.coreValues}</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {values.map((v, i) => (
-              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200 hover:shadow-md transition-shadow">
-                <CheckCircle className="w-8 h-8 text-[#0066B3] mb-4" />
-                <h3 className="text-lg font-semibold text-[#1A1A2E] mb-2">{v.title}</h3>
-                <p className="text-sm text-gray-600">{v.desc}</p>
+              <div key={i} className="bg-white rounded-3xl p-8 border border-gray-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-300 group hover:-translate-y-2">
+                <div className="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-300">
+                  <v.icon className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
+                </div>
+                <h3 className="text-xl font-bold text-[#1A1A2E] mb-3 tracking-tight group-hover:text-[#0066B3] transition-colors">{v.title}</h3>
+                <p className="text-gray-500 text-sm leading-relaxed font-medium">{v.desc}</p>
               </div>
             ))}
           </div>
@@ -181,40 +195,47 @@ export default function AboutPage() {
       </section>
 
       {/* Timeline */}
-      <section className="py-12 md:py-16">
+      <section className="py-16 md:py-24 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-8 text-center">{content.ourJourney}</h2>
-          <div className="max-w-3xl mx-auto">
-            {milestones.map((m, i) => (
-              <div key={i} className="flex gap-6 mb-8 last:mb-0">
-                <div className="flex flex-col items-center">
-                  <div className="w-12 h-12 bg-[#0066B3] rounded-full flex items-center justify-center text-white font-bold text-sm flex-shrink-0">
-                    {m.year}
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-16 text-center tracking-tight">{content.ourJourney}</h2>
+          <div className="max-w-4xl mx-auto relative">
+            <div className="absolute left-[23px] md:left-1/2 top-0 bottom-0 w-0.5 bg-blue-100 -translate-x-1/2 hidden md:block" />
+            <div className="space-y-12 md:space-y-20">
+              {milestones.map((m, i) => (
+                <div key={i} className={`flex flex-col md:flex-row gap-8 md:gap-0 items-start md:items-center ${i % 2 === 1 ? 'md:flex-row-reverse' : ''}`}>
+                  <div className="md:w-1/2 flex justify-start md:justify-end px-0 md:px-12">
+                    <div className={`bg-white p-6 rounded-2xl shadow-sm border border-gray-100 w-full max-w-sm ${i % 2 === 1 ? 'md:text-left' : 'md:text-right'}`}>
+                      <span className="inline-block px-3 py-1 bg-blue-50 text-[#0066B3] text-xs font-bold rounded-full mb-3">{m.year}</span>
+                      <h3 className="text-lg font-bold text-[#1A1A2E] mb-2">{m.title}</h3>
+                      <p className="text-sm text-gray-500 font-medium leading-relaxed">{m.desc}</p>
+                    </div>
                   </div>
-                  {i < milestones.length - 1 && <div className="w-0.5 flex-1 bg-blue-200 mt-2" />}
+                  <div className="absolute left-[23px] md:left-1/2 w-12 h-12 bg-white border-4 border-[#0066B3] rounded-full -translate-x-1/2 z-10 flex items-center justify-center shadow-lg hidden md:flex">
+                    <div className="w-3 h-3 bg-[#0066B3] rounded-full animate-pulse" />
+                  </div>
+                  <div className="md:w-1/2" />
                 </div>
-                <div className="pb-8">
-                  <h3 className="text-lg font-semibold text-[#1A1A2E]">{m.title}</h3>
-                  <p className="text-sm text-gray-600 mt-1">{m.desc}</p>
-                </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Certifications */}
-      <section className="py-12 md:py-16 bg-[#F5F7FA]">
+      {/* Quality Assurance */}
+      <section className="py-16 md:py-24 bg-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-[#1A1A2E] mb-4">{content.certTitle}</h2>
-          <p className="text-gray-600 max-w-2xl mx-auto mb-8">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-emerald-50 text-emerald-600 text-[10px] font-bold uppercase tracking-[0.2em] rounded-full mb-6">
+            <ShieldCheck className="w-3.5 h-3.5" /> Quality Assurance
+          </div>
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-6 tracking-tight">{content.certTitle}</h2>
+          <p className="text-gray-500 max-w-2xl mx-auto mb-12 font-medium text-lg">
             {content.certDesc}
           </p>
           <div className="flex flex-wrap justify-center gap-6">
-            {["ISO 9001:2015", "ISO 14001", "SGS Verified", "Intertek Certified", "REACH Compliant"].map((cert) => (
-              <div key={cert} className="bg-white rounded-lg px-6 py-4 border border-gray-200 shadow-sm">
-                <Award className="w-8 h-8 text-[#0066B3] mx-auto mb-2" />
-                <p className="text-sm font-medium text-[#1A1A2E]">{cert}</p>
+            {["Strict Internal QC", "Batch Traceability", "SGS Inspection Support", "BV Verified", "REACH Compliant"].map((cert) => (
+              <div key={cert} className="bg-white rounded-2xl px-8 py-6 border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 group">
+                <Microscope className="w-8 h-8 text-[#0066B3] mx-auto mb-4 group-hover:scale-110 transition-transform" />
+                <p className="text-sm font-bold text-[#1A1A2E] uppercase tracking-wider">{cert}</p>
               </div>
             ))}
           </div>
