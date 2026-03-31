@@ -257,7 +257,7 @@ export default function ProductDetailPage() {
             </TabsList>
             
             <TabsContent value="overview" className="mt-0 animate-in fade-in duration-500">
-              <div className="prose prose-blue max-w-none prose-sm md:prose-base prose-headings:text-gray-900 prose-p:text-gray-600 prose-p:leading-relaxed">
+              <div className="prose prose-blue max-w-3xl prose-sm md:prose-base prose-headings:text-gray-900 prose-p:text-gray-600 prose-p:leading-relaxed prose-p:mb-6 prose-li:mb-2">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                   {product.description}
                 </ReactMarkdown>

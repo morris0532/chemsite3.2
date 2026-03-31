@@ -51,6 +51,7 @@ category: "Acids"
 featured: true
 ---
 
+
 ## Sulfamic Acid (CAS 5329-14-6): Your Trusted China Manufacturer & Supplier for High-Purity H₃NSO₃
 
 As a premier **China manufacturer and supplier** of **Sulfamic Acid (H₃NSO₃)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Sulfamic Acid is produced to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, electroplating, and industrial applications (HS Code: 2811199090).
@@ -74,3 +75,4 @@ As a premier **China manufacturer and supplier** of **Sulfamic Acid (H₃NSO₃)
 We provide flexible **packaging solutions** for our Sulfamic Acid, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sulfamic Acid manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+

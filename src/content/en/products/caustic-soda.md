@@ -51,6 +51,7 @@ category: "Alkali Products"
 featured: true
 ---
 
+
 ## Caustic Soda (CAS 1310-73-2): Your Trusted China Manufacturer & Supplier for High-Purity Sodium Hydroxide
 
 As a leading **China manufacturer and supplier** of **Caustic Soda (NaOH)**, also known as **Sodium Hydroxide**, we provide **high-purity flakes and pearls** with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Caustic Soda is produced using advanced membrane cell technology, ensuring consistent quality that meets the most demanding industrial applications (HS Code: 2815110000).
@@ -74,3 +75,4 @@ As a leading **China manufacturer and supplier** of **Caustic Soda (NaOH)**, als
 We offer flexible **packaging solutions** for our Caustic Soda, including robust 25KG PP woven bags with PE inner liners, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We provide reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Caustic Soda manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+
