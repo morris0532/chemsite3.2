@@ -48,7 +48,7 @@ ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
 category: "Sulfates"
-featured: false
+featured: true
 ---
 
 ## Sodium Sulfate Anhydrous (CAS 7757-82-6): Your Trusted China Manufacturer & Supplier for High-Purity Na₂SO₄
