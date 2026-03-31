@@ -110,6 +110,42 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   };
 
   const toggleLanguage = () => {
+    const targetLocale = isRu ? 'en' : 'ru';
+    const targetPrefix = isRu ? '/en' : '/ru';
+    
+    // Handle Blog Detail pages
+    if (location.pathname.includes('/blog/')) {
+      const currentSlug = location.pathname.split('/blog/')[1];
+      const { posts: currentPosts } = useMarkdownContent(isRu ? 'ru' : 'en');
+      const { posts: targetPosts } = useMarkdownContent(targetLocale);
+      
+      const currentPost = currentPosts.find((p: any) => p.slug === currentSlug);
+      if (currentPost && currentPost.id) {
+        const targetPost = targetPosts.find((p: any) => p.id === currentPost.id);
+        if (targetPost) {
+          navigate(`${targetPrefix}/blog/${targetPost.slug}`);
+          return;
+        }
+      }
+    }
+
+    // Handle Product Detail pages
+    if (location.pathname.includes('/products/')) {
+      const currentSlug = location.pathname.split('/products/')[1];
+      const { products: currentProducts } = useMarkdownContent(isRu ? 'ru' : 'en');
+      const { products: targetProducts } = useMarkdownContent(targetLocale);
+      
+      const currentProduct = currentProducts.find((p: any) => p.slug === currentSlug);
+      if (currentProduct && currentProduct.id) {
+        const targetProduct = targetProducts.find((p: any) => p.id === currentProduct.id);
+        if (targetProduct) {
+          navigate(`${targetPrefix}/products/${targetProduct.slug}`);
+          return;
+        }
+      }
+    }
+
+    // Default fallback for other pages
     const newPath = isRu 
       ? location.pathname.replace("/ru", "/en") 
       : (location.pathname === "/" ? "/ru" : location.pathname.replace("/en", "/ru"));
