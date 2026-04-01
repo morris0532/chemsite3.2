@@ -164,13 +164,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               <Phone className="w-3.5 h-3.5 opacity-80" /> {phoneDisplay || "Loading..."}
             </span>
           </div>
-          <div className="flex items-center gap-4">
-            <span className="text-white/60 font-medium">Follow us:</span>
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-all duration-300 hover:scale-110"><Facebook className="w-3.5 h-3.5" /></a>
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-all duration-300 hover:scale-110"><Twitter className="w-3.5 h-3.5" /></a>
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-all duration-300 hover:scale-110"><Linkedin className="w-3.5 h-3.5" /></a>
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-all duration-300 hover:scale-110"><Instagram className="w-3.5 h-3.5" /></a>
-          </div>
+
         </div>
       </div>
 
@@ -279,12 +273,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   ? "Ведущий поставщик промышленных химикатов с 50+ странами экспорта."
                   : "Leading industrial chemical supplier with 50+ countries export experience."}
               </p>
-              <div className="flex items-center gap-4">
-                <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#0066B3] flex items-center justify-center transition-all duration-300"><Facebook className="w-5 h-5" /></a>
-                <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#0066B3] flex items-center justify-center transition-all duration-300"><Twitter className="w-5 h-5" /></a>
-                <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#0066B3] flex items-center justify-center transition-all duration-300"><Linkedin className="w-5 h-5" /></a>
-                <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#0066B3] flex items-center justify-center transition-all duration-300"><Instagram className="w-5 h-5" /></a>
-              </div>
+
             </div>
 
             <div>
