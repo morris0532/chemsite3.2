@@ -1,61 +1,61 @@
 ---
 id: "5"
 slug: "oxalic-acid-industrial-applications"
-title: "Oxalic Acid: Industrial Applications and Safety Guidelines"
-excerpt: "Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines."
+title: "Acide oxalique : applications industrielles et consignes de sécurité"
+excerpt: "Explorez les diverses applications industrielles de l'acide oxalique, de l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes consignes de sécurité et de manipulation."
 date: "2026-02-20"
-author: "Sinopeakchem Technical Team"
-category: "Product Guide"
-tags: ["oxalic acid","rust removal","industrial chemicals","safety"]
+author: "Équipe Technique Sinopeakchem"
+category: "Guide Produit"
+tags: ["acide oxalique","élimination de la rouille","produits chimiques industriels","sécurité"]
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 ---
 
-## What is Oxalic Acid?
-Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid manufacturer](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is produced industrially for numerous applications.
+## Qu'est-ce que l'acide oxalique ?
+L'acide oxalique (C₂H₂O₄) est l'acide dicarboxylique le plus simple et l'un des acides organiques les plus forts. En tant que [fabricant leader d'acide oxalique de haute pureté](https://www.sinopeakchem.com/fr/products/oxalic-acid), Sinopeakchem s'assure que ce produit chimique polyvalent répond aux exigences strictes des acheteurs industriels mondiaux. Il est présent naturellement dans de nombreuses plantes et est produit industriellement pour de nombreuses applications.
 
-## Key Industrial Applications
-### 1. Metal Cleaning and Rust Removal
-Oxalic acid is highly effective at dissolving iron oxide (rust) and is widely used for:
-- Cleaning metal surfaces before coating
-- Removing rust stains from concrete and stone
-- Brightening aluminum and stainless steel
+## Principales applications industrielles
+### 1. Nettoyage des métaux et élimination de la rouille
+L'acide oxalique est très efficace pour dissoudre l'oxyde de fer (rouille) et est largement utilisé pour :
+- Nettoyer les surfaces métalliques avant le revêtement
+- Éliminer les taches de rouille sur le béton et la pierre
+- Faire briller l'aluminium et l'acier inoxydable
 
-### 2. Marble and Stone Polishing
-In the stone industry, oxalic acid is used to:
-- Polish marble and granite surfaces
-- Remove stains from natural stone
-- Restore shine to weathered stone
+### 2. Polissage du marbre et de la pierre
+Dans l'industrie de la pierre, l'acide oxalique est utilisé pour :
+- Polir les surfaces de marbre et de granit
+- Éliminer les taches sur la pierre naturelle
+- Restaurer l'éclat de la pierre altérée
 
-### 3. Textile and Leather Industry
-Applications include:
-- Bleaching cotton and linen fabrics
-- Removing iron stains from textiles
-- Leather processing and tanning
+### 3. Industrie du textile et du cuir
+Les applications comprennent :
+- Blanchiment des tissus de coton et de lin
+- Élimination des taches de fer sur les textiles
+- Traitement et tannage du cuir
 
-### 4. Rare Earth Element Extraction
-Oxalic acid plays a crucial role in:
-- Precipitating rare earth oxalates from solution
-- Purifying rare earth concentrates
-- Producing high-purity rare earth oxides
+### 4. Extraction d'éléments de terres rares
+L'acide oxalique joue un rôle crucial dans :
+- La précipitation des oxalates de terres rares à partir d'une solution
+- La purification des concentrés de terres rares
+- La production d'oxydes de terres rares de haute pureté
 
-### 5. Pharmaceutical Industry
-Used as an intermediate in:
-- Antibiotic synthesis
-- Vitamin C production
-- Various pharmaceutical compounds
+### 5. Industrie pharmaceutique
+Utilisé comme intermédiaire dans :
+- La synthèse d'antibiotiques
+- La production de vitamine C
+- Divers composés pharmaceutiques
 
-## Safety Guidelines
-### Handling Precautions
-- Wear appropriate PPE (gloves, goggles, respirator)
-- Work in well-ventilated areas
-- Avoid contact with skin and eyes
-- Do not ingest
+## Consignes de sécurité
+### Précautions de manipulation
+- Porter un EPI approprié (gants, lunettes, respirateur)
+- Travailler dans des zones bien ventilées
+- Éviter tout contact avec la peau et les yeux
+- Ne pas ingérer
 
-### Storage Requirements
-- Store in cool, dry, well-ventilated area
-- Keep away from heat sources and incompatible materials
-- Use tightly sealed containers
-- Keep away from strong oxidizers and bases
+### Exigences de stockage
+- Conserver dans un endroit frais, sec et bien ventilé
+- Tenir à l'écart des sources de chaleur et des matériaux incompatibles
+- Utiliser des récipients hermétiquement fermés
+- Tenir à l'écart des oxydants et des bases forts
 
 ## Conclusion
-As a trusted [Oxalic Acid supplier from China](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation and global logistics support. Whether you need bulk quantities for rare earth extraction or specialized industrial cleaning, contact us for pricing and availability.
+En tant que [fournisseur d'acide oxalique de confiance en Chine](https://www.sinopeakchem.com/fr/products/oxalic-acid), Sinopeakchem fournit de l'acide oxalique de haute pureté (≥99,6 %) avec une documentation de sécurité complète et un support logistique mondial. Que vous ayez besoin de quantités en vrac pour l'extraction de terres rares ou pour un nettoyage industriel spécialisé, contactez-nous pour connaître les prix et la disponibilité.

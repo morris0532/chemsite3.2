@@ -1,56 +1,64 @@
 ---
 id: "4"
 slug: "water-treatment-chemicals-comparison"
-title: "Water Treatment Chemicals Comparison: PAC vs Aluminum Sulfate vs Ferric Chloride"
-excerpt: "Compare the most popular water treatment coagulants including Polyaluminum Chloride (PAC), Aluminum Sulfate, and Ferric Chloride to find the best solution for your water treatment needs."
+title: "Comparaison des produits chimiques de traitement de l'eau : PAC vs Sulfate d'aluminium vs Chlorure ferrique"
+excerpt: "Comparez les coagulants de traitement de l'eau les plus populaires, notamment le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure ferrique, pour trouver la meilleure solution pour vos besoins de traitement de l'eau."
 date: "2026-02-28"
-author: "Sinopeakchem Technical Team"
-category: "Technical Article"
-tags: ["water treatment","PAC","coagulant","chemical comparison"]
+author: "Équipe Technique Sinopeakchem"
+category: "Article Technique"
+tags: ["traitement de l'eau","PAC","coagulant","comparaison chimique"]
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/08108beb-b4ff-4efc-b6fa-1c545073bedd.png"
 ---
 
 ## Introduction
-Choosing the right coagulant is crucial for effective water treatment. This article compares three popular options: PAC, Aluminum Sulfate, and Ferric Chloride.
-## Polyaluminum Chloride (PAC)
-### Advantages
-- Effective over a wide pH range (5.0-9.0)
-- Lower dosage required compared to alum
-- Faster floc formation
-- Less sludge production
-- Lower residual aluminum in treated water
-### Best For
-- Municipal drinking water treatment
-- Industrial wastewater
-- High-turbidity water sources
-## Aluminum Sulfate (Alum)
-### Advantages
-- Lower cost per unit
-- Well-established technology
-- Easy to handle and dose
-- Effective for most water types
-### Limitations
-- Narrower effective pH range (5.5-7.5)
-- Higher dosage required
-- More sludge production
-- Higher residual aluminum
-## Ferric Chloride
-### Advantages
-- Effective for heavy metal removal
-- Works well in cold water
-- Good for phosphorus removal
-- Effective at low pH
-### Limitations
-- Can cause color issues
-- Corrosive to equipment
-- More expensive than alum
-## Comparison Table
-| Parameter | PAC | Alum | Ferric Chloride |
+Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet article compare trois options populaires : le PAC, le sulfate d'aluminium et le chlorure ferrique.
+
+## Polychlorure d'aluminium (PAC)
+### Avantages
+- Efficace sur une large plage de pH (5,0-9,0)
+- Dosage plus faible requis par rapport à l'alun
+- Formation de floc plus rapide
+- Moins de production de boues
+- Aluminium résiduel plus faible dans l'eau traitée
+
+### Idéal pour
+- Traitement de l'eau potable municipale
+- Eaux usées industrielles
+- Sources d'eau à forte turbidité
+
+## Sulfate d'aluminium (Alun)
+### Avantages
+- Coût unitaire inférieur
+- Technologie bien établie
+- Facile à manipuler et à doser
+- Efficace pour la plupart des types d'eau
+
+### Limites
+- Plage de pH efficace plus étroite (5,5-7,5)
+- Dosage plus élevé requis
+- Plus de production de boues
+- Aluminium résiduel plus élevé
+
+## Chlorure ferrique
+### Avantages
+- Efficace pour l'élimination des métaux lourds
+- Fonctionne bien dans l'eau froide
+- Bon pour l'élimination du phosphore
+- Efficace à bas pH
+
+### Limites
+- Peut causer des problèmes de coloration
+- Corrosif pour l'équipement
+- Plus cher que l'alun
+
+## Tableau de comparaison
+| Paramètre | PAC | Alun | Chlorure ferrique |
 |-----------|-----|------|-----------------|
-| Effective pH | 5.0-9.0 | 5.5-7.5 | 4.0-11.0 |
-| Dosage | Low | Medium | Medium |
-| Floc Speed | Fast | Medium | Fast |
-| Sludge Volume | Low | High | Medium |
-| Cost | Medium | Low | High |
+| pH efficace | 5,0-9,0 | 5,5-7,5 | 4,0-11,0 |
+| Dosage | Faible | Moyen | Moyen |
+| Vitesse de floc | Rapide | Moyen | Rapide |
+| Volume de boues | Faible | Élevé | Moyen |
+| Coût | Moyen | Faible | Élevé |
+
 ## Conclusion
-PAC offers the best overall performance for most water treatment applications. Contact Sinopeakchem for high-quality PAC and other water treatment chemicals.
+Le PAC offre les meilleures performances globales pour la plupart des applications de traitement de l'eau. Contactez Sinopeakchem pour du PAC de haute qualité et d'autres produits chimiques de traitement de l'eau.

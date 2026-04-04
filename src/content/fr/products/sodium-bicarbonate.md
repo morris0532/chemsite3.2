@@ -1,77 +1,76 @@
 ---
 id: "16"
-name: "Sodium Bicarbonate (Baking Soda)"
-nameCn: "小苏打"
+name: "Bicarbonate de sodium (Bicarbonate de soude)"
+nameCn: "Bicarbonate de sodium"
 cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"
-shortDescription: "High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from China. Essential for food, feed, pharmaceutical, and industrial applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Bicarbonate de sodium (bicarbonate de soude) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications alimentaires, animales, pharmaceutiques et industrielles. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"NaHCO₃"},
-  {"label":"CAS Number","value":"144-55-8"},
-  {"label":"HS Code","value":"2836300000"},
-  {"label":"Purity","value":"≥99.0% (Food Grade)"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"NaHCO₃"},
+  {"label":"Numéro CAS","value":"144-55-8"},
+  {"label":"Code SH","value":"2836300000"},
+  {"label":"Pureté","value":"≥99,0% (Qualité alimentaire)"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25-27 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Food industry (leavening agent, pH regulator, buffer)",
-  "Feed additive (ruminant feed, poultry feed)",
-  "Pharmaceutical industry (antacid, effervescent agent)",
-  "Detergent and cleaning products (mild abrasive, deodorizer)",
-  "Fire extinguishers",
-  "Water treatment"
+  "Industrie alimentaire (agent levant, régulateur de pH, tampon)",
+  "Additif pour l'alimentation animale (aliments pour ruminants, aliments pour volailles)",
+  "Industrie pharmaceutique (antacide, agent effervescent)",
+  "Détergents et produits de nettoyage (abrasif doux, désodorisant)",
+  "Extincteurs",
+  "Traitement de l'eau"
 ]
 faqs: [
-  {"question":"What grades of Sodium Bicarbonate do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Bicarbonate, offering food grade, feed grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Bicarbonate products?",
-    "answer":"Our Sodium Bicarbonate (NaHCO₃) is available with a minimum purity of 99.0% for food grade applications. We ensure strict quality control to meet international standards."
+  {"question":"Quelles qualités de bicarbonate de sodium fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader de bicarbonate de sodium en Chine, proposant des qualités alimentaire, animale et industrielle avec une pureté ≥99,0%. Toutes les qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
+    "question":"Quelle est la pureté typique de vos produits de bicarbonate de sodium ?",
+    "answer":"Notre bicarbonate de sodium (NaHCO₃) est available avec une pureté minimale de 99,0% pour les applications de qualité alimentaire. Nous assurons un contrôle qualité strict pour répondre aux normes internationales."
   },{
-    "question":"How is Sodium Bicarbonate packaged for international shipping from China?",
-    "answer":"For export, our Sodium Bicarbonate is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment le bicarbonate de sodium est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre bicarbonate de sodium est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Bicarbonate?",
-    "answer":"Our industrial grade Sodium Bicarbonate is widely used in food as a leavening agent, in animal feed, in pharmaceuticals as an antacid, and in cleaning products. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre bicarbonate de sodium de qualité industrielle ?",
+    "answer":"Notre bicarbonate de sodium de qualité industrielle est largement utilisé dans l'alimentation comme agent levant, dans l'alimentation animale, dans les produits pharmaceutiques comme antacide et dans les produits de nettoyage. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Bicarbonate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour le bicarbonate de sodium ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Sodium Bicarbonate orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Bicarbonate orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes en gros de bicarbonate de sodium de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes en gros de bicarbonate de sodium est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Alkali Products"
+packaging: "Sacs de 25KG/Jumbo"
+category: "Produits alcalins"
 featured: false
 ---
 
-## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China Manufacturer & Supplier for High-Purity Baking Soda
+## Bicarbonate de sodium (CAS 144-55-8) : Votre fabricant et fournisseur de confiance en Chine pour le bicarbonate de soude de haute pureté
 
-As a premier **China manufacturer and supplier** of **Sodium Bicarbonate (NaHCO₃)**, commonly known as **Baking Soda**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bicarbonate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food, feed, pharmaceutical, and industrial applications (HS Code: 2836300000).
+En tant que **fabricant et fournisseur de premier plan en Chine** de **bicarbonate de sodium (NaHCO₃)**, communément appelé **bicarbonate de soude**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,0%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre bicarbonate de sodium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications alimentaires, animales, pharmaceutiques et industrielles (Code SH : 2836300000).
 
-### Key Applications & Benefits:
+### Applications clés et avantages :
 
-1.  **Food Industry**: Widely used as a **leavening agent** in baking, reacting with acids to produce carbon dioxide, which causes dough to rise. It also functions as a **pH regulator** and **buffer** in various food products, enhancing flavor and stability.
+1.  **Industrie alimentaire** : Largement utilisé comme **agent levant** en boulangerie, réagissant avec les acides pour produire du dioxyde de carbone, ce qui fait lever la pâte. Il fonctionne également comme **régulateur de pH** et **tampon** dans divers produits alimentaires, améliorant la saveur et la stabilité.
 
-2.  **Feed Additive**: Essential as a **feed additive** for livestock, particularly ruminants and poultry. It acts as a buffer in animal feed, helping to stabilize rumen pH and improve digestion, leading to better animal health and productivity.
+2.  **Additif pour l'alimentation animale** : Essentiel comme **additif alimentaire** pour le bétail, en particulier les ruminants et la volaille. Il agit comme un tampon dans l'alimentation animale, aidant à stabiliser le pH du rumen et à améliorer la digestion, ce qui conduit à une meilleure santé et productivité des animaux.
 
-3.  **Pharmaceutical Industry**: Employed in the **pharmaceutical industry** as an **antacid** to relieve heartburn and indigestion, and as an **effervescent agent** in various medications and health supplements.
+3.  **Industrie pharmaceutique** : Employé dans l'**industrie pharmaceutique** comme **antacide** pour soulager les brûlures d'estomac et l'indigestion, et comme **agent effervescent** dans divers médicaments et compléments alimentaires.
 
-4.  **Detergent and Cleaning Products**: Used in **detergent and cleaning products** as a mild abrasive, deodorizer, and water softener. It effectively removes stains, neutralizes odors, and enhances cleaning efficiency without harsh chemicals.
+4.  **Détergents et produits de nettoyage** : Utilisé dans les **détergents et produits de nettoyage** comme abrasif doux, désodorisant et adoucisseur d'eau. Il élimine efficacement les taches, neutralise les odeurs et améliore l'efficacité du nettoyage sans produits chimiques agressifs.
 
-5.  **Fire Extinguishers**: A key component in **dry chemical fire extinguishers**, where it releases carbon dioxide upon heating, smothering flames and preventing re-ignition.
+5.  **Extincteurs** : Un composant clé des **extincteurs à poudre chimique**, où il libère du dioxyde de carbone lors du chauffage, étouffant les flammes et empêchant la réinflammation.
 
-6.  **Water Treatment**: Utilized in **water treatment** processes for pH adjustment and alkalinity control, contributing to the overall quality of treated water.
+6.  **Traitement de l'eau** : Utilisé dans les processus de **traitement de l'eau** pour l'ajustement du pH et le contrôle de l'alcalinité, contribuant à la qualité globale de l'eau traitée.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Sodium Bicarbonate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre bicarbonate de sodium, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 à 27 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Bicarbonate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que votre **fabricant et fournisseur de bicarbonate de sodium** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.

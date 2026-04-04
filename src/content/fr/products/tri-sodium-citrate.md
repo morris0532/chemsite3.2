@@ -1,77 +1,77 @@
 ---
 id: "10"
-name: "Tri-Sodium Citrate (TSC)"
-nameCn: "柠檬酸三钠"
+name: "Citrate de trisodium (TSC)"
+nameCn: "Citrate de trisodium"
 cas: "68-04-2"
 hsCode: "2918150000"
 slug: "tri-sodium-citrate"
-shortDescription: "High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China. Essential for food additive, pharmaceutical, and detergent applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Citrate de trisodium (TSC) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les additifs alimentaires, les produits pharmaceutiques et les applications de détergents. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"Na₃C₆H₅O₇·2H₂O"},
-  {"label":"CAS Number","value":"68-04-2"},
-  {"label":"HS Code","value":"2918150000"},
-  {"label":"Purity","value":"≥99.0%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"Na₃C₆H₅O₇·2H₂O"},
+  {"label":"Numéro CAS","value":"68-04-2"},
+  {"label":"Code SH","value":"2918150000"},
+  {"label":"Pureté","value":"≥99,0%"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Food additive (acidity regulator, emulsifier, stabilizer)",
-  "Pharmaceutical industry (anticoagulant, alkalizing agent)",
-  "Detergent and cleaning products (builder, water softener)",
-  "Cosmetics and personal care products",
-  "Chemical synthesis",
-  "Photography"
+  "Additif alimentaire (régulateur d'acidité, émulsifiant, stabilisant)",
+  "Industrie pharmaceutique (anticoagulant, agent alcalinisant)",
+  "Produits détergents et de nettoyage (adjuvant, adoucisseur d'eau)",
+  "Cosmétiques et produits de soins personnels",
+  "Synthèse chimique",
+  "Photographie"
 ]
 faqs: [
-  {"question":"What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of TSC, offering food grade, pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Tri-Sodium Citrate products?",
-    "answer":"Our Tri-Sodium Citrate (Na₃C₆H₅O₇·2H₂O) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"Quelles qualités de citrate de trisodium (TSC) fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader de TSC en Chine, proposant une qualité alimentaire, une qualité pharmaceutique et une qualité industrielle avec une pureté ≥99,0%. Toutes les qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
+    "question":"Quelle est la pureté typique de vos produits de citrate de trisodium ?",
+    "answer":"Notre citrate de trisodium (Na₃C₆H₅O₇·2H₂O) est disponible avec une pureté minimale de 99,0%. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
   },{
-    "question":"How is Tri-Sodium Citrate packaged for international shipping from China?",
-    "answer":"For export, our TSC is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment le citrate de trisodium est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre TSC est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Tri-Sodium Citrate?",
-    "answer":"Our industrial grade TSC is widely used in food as an acidity regulator, in pharmaceuticals as an anticoagulant, and in detergents as a builder. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre citrate de trisodium de qualité industrielle ?",
+    "answer":"Notre TSC de qualité industrielle est largement utilisé dans l'alimentation comme régulateur d'acidité, dans les produits pharmaceutiques comme anticoagulant et dans les détergents comme adjuvant. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Tri-Sodium Citrate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour le citrate de trisodium ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Tri-Sodium Citrate orders from your factory?",
-    "answer":"Standard lead time for bulk TSC orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes en gros de citrate de trisodium de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes en gros de TSC est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
+packaging: "Sacs de 25KG/Jumbo"
 category: "Citrates"
 featured: false
 ---
 
-## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China Manufacturer & Supplier for High-Purity TSC
+## Citrate de trisodium (CAS 68-04-2) : Votre fabricant et fournisseur de confiance en Chine pour le TSC de haute pureté
 
-As a premier **China manufacturer and supplier** of **Tri-Sodium Citrate (TSC)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Tri-Sodium Citrate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food additive, pharmaceutical, and industrial applications (HS Code: 2918150000).
+En tant que **fabricant et fournisseur de premier plan en Chine** de **citrate de trisodium (TSC)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,0%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre citrate de trisodium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications d'additifs alimentaires, pharmaceutiques et industrielles (Code SH : 2918150000).
 
-### Key Applications & Benefits:
+### Applications clés et avantages :
 
-1.  **Food Additive**: Widely used in the **food industry** as an **acidity regulator, emulsifier, and stabilizer**. It helps to control pH, prevent coagulation, and improve the texture and shelf life of various food products, including beverages, dairy products, and processed meats.
+1.  **Additif alimentaire** : Largement utilisé dans l'**industrie alimentaire** comme **régulateur d'acidité, émulsifiant et stabilisant**. Il aide à contrôler le pH, à prévenir la coagulation et à améliorer la texture et la durée de conservation de divers produits alimentaires, notamment les boissons, les produits laitiers et les viandes transformées.
 
-2.  **Pharmaceutical Industry**: Essential in the **pharmaceutical industry** as an **anticoagulant** for blood collection and storage, and as an **alkalizing agent** in medications to treat urinary tract infections. It is also used in effervescent formulations.
+2.  **Industrie pharmaceutique** : Essentiel dans l'**industrie pharmaceutique** comme **anticoagulant** pour la collecte et le stockage du sang, et comme **agent alcalinisant** dans les médicaments pour traiter les infections des voies urinaires. Il est également utilisé dans les formulations effervescentes.
 
-3.  **Detergent and Cleaning Products**: Employed in **detergent and cleaning products** as a **builder and water softener**. It chelates metal ions in hard water, preventing them from interfering with the action of surfactants and enhancing cleaning efficiency.
+3.  **Produits détergents et de nettoyage** : Employé dans les **produits détergents et de nettoyage** comme **adjuvant et adoucisseur d'eau**. Il chélate les ions métalliques dans l'eau dure, les empêchant d'interférer avec l'action des tensioactifs et améliorant l'efficacité du nettoyage.
 
-4.  **Cosmetics and Personal Care Products**: Used in **cosmetics and personal care products** as a pH adjuster, buffering agent, and chelating agent, contributing to product stability and performance.
+4.  **Cosmétiques et produits de soins personnels** : Utilisé dans les **cosmétiques et les produits de soins personnels** comme ajusteur de pH, agent tampon et agent chélatant, contribuant à la stabilité et à la performance du produit.
 
-5.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the production of other citrate derivatives and organic compounds.
+5.  **Synthèse chimique** : Sert de matière première polyvalente dans divers processus de **synthèse chimique** pour la production d'autres dérivés de citrate et de composés organiques.
 
-6.  **Photography**: Applied in **photography** as a buffering agent in developing solutions.
+6.  **Photographie** : Appliqué en **photographie** comme agent tampon dans les solutions de développement.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our TSC, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre TSC, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Tri-Sodium Citrate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que votre **fabricant et fournisseur de citrate de trisodium** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
 

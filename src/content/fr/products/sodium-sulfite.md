@@ -1,77 +1,77 @@
 ---
 id: "15"
-name: "Sodium Sulfite Anhydrous"
-nameCn: "无水亚硫酸钠"
+name: "Sulfite de sodium anhydre"
+nameCn: "Sulfite de sodium anhydre"
 cas: "7757-83-7"
 hsCode: "2832100000"
 slug: "sodium-sulfite"
-shortDescription: "High-purity Sodium Sulfite Anhydrous (Na2SO3) for bulk purchase and export from China. Essential for water treatment, photography, and textile applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Sulfite de sodium anhydre (Na2SO3) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la photographie et les applications textiles. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂SO₃"},
-  {"label":"CAS Number","value":"7757-83-7"},
-  {"label":"HS Code","value":"2832100000"},
-  {"label":"Purity","value":"≥96%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"Na₂SO₃"},
+  {"label":"Numéro CAS","value":"7757-83-7"},
+  {"label":"Code SH","value":"2832100000"},
+  {"label":"Pureté","value":"≥96%"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Water treatment (oxygen scavenger, dechlorination)",
-  "Photography (reducing agent, preservative)",
-  "Textile industry (bleaching, desulfurizing agent)",
-  "Pulp and paper industry (bleaching agent)",
-  "Food additive (preservative, antioxidant)",
-  "Chemical synthesis"
+  "Traitement de l'eau (désoxygénant, déchloration)",
+  "Photographie (agent réducteur, conservateur)",
+  "Industrie textile (blanchiment, agent de désulfuration)",
+  "Industrie des pâtes et papiers (agent de blanchiment)",
+  "Additif alimentaire (conservateur, antioxydant)",
+  "Synthèse chimique"
 ]
 faqs: [
-  {"question":"What grades of Sodium Sulfite Anhydrous do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Sulfite Anhydrous, offering industrial grade and photographic grade with ≥96% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Sulfite Anhydrous products?",
-    "answer":"Our Sodium Sulfite Anhydrous (Na₂SO₃) is available with a minimum purity of 96%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"Quelles qualités de sulfite de sodium anhydre fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader de sulfite de sodium anhydre en Chine, proposant une qualité industrielle et une qualité photographique avec une pureté ≥96%. Les deux qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
+    "question":"Quelle est la pureté typique de vos produits de sulfite de sodium anhydre ?",
+    "answer":"Notre sulfite de sodium anhydre (Na₂SO₃) est disponible avec une pureté minimale de 96%. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
   },{
-    "question":"How is Sodium Sulfite Anhydrous packaged for international shipping from China?",
-    "answer":"For export, our Sodium Sulfite Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment le sulfite de sodium anhydre est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre sulfite de sodium anhydre est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Sulfite Anhydrous?",
-    "answer":"Our industrial grade Sodium Sulfite Anhydrous is widely used in water treatment as an oxygen scavenger, in photography as a reducing agent, and in the textile industry as a bleaching agent. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre sulfite de sodium anhydre de qualité industrielle ?",
+    "answer":"Notre sulfite de sodium anhydre de qualité industrielle est largement utilisé dans le traitement de l'eau comme désoxygénant, dans la photographie comme agent réducteur et dans l'industrie textile comme agent de blanchiment. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Sulfite Anhydrous?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour le sulfite de sodium anhydre ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Sodium Sulfite Anhydrous orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Sulfite Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes en gros de sulfite de sodium anhydre de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes en gros de sulfite de sodium anhydre est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+packaging: "Sacs de 25KG/Jumbo"
+category: "Composés du soufre"
 featured: false
 ---
 
-## Sodium Sulfite Anhydrous (CAS 7757-83-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂SO₃
+## Sulfite de sodium anhydre (CAS 7757-83-7) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂SO₃ de haute pureté
 
-As a premier **China manufacturer and supplier** of **Sodium Sulfite Anhydrous (Na₂SO₃)**, we offer **high-purity** product with **≥96% purity** for **bulk purchase** and **export** worldwide. Our Sodium Sulfite Anhydrous is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and industrial applications (HS Code: 2832100000).
+En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfite de sodium anhydre (Na₂SO₃)**, nous proposons un produit de **haute pureté** avec une **pureté ≥96%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre sulfite de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de traitement de l'eau, de photographie et industrielles (Code SH : 2832100000).
 
-### Key Applications & Benefits:
+### Applications clés et avantages :
 
-1.  **Water Treatment**: Widely used in **water treatment** as an effective **oxygen scavenger** to remove dissolved oxygen from boiler feed water, preventing corrosion. It also serves as a **dechlorination agent** in municipal and industrial water systems.
+1.  **Traitement de l'eau** : Largement utilisé dans le **traitement de l'eau** comme un **désoxygénant** efficace pour éliminer l'oxygène dissous de l'eau d'alimentation des chaudières, empêchant ainsi la corrosion. Il sert également d'**agent de déchloration** dans les systèmes d'eau municipaux et industriels.
 
-2.  **Photography**: Essential in **photography** as a **reducing agent** in developing solutions and as a **preservative** to prevent oxidation of photographic chemicals, ensuring stable and high-quality images.
+2.  **Photographie** : Essentiel en **photographie** comme **agent réducteur** dans les solutions de développement et comme **conservateur** pour empêcher l'oxydation des produits chimiques photographiques, assurant des images stables et de haute qualité.
 
-3.  **Textile Industry**: Employed in the **textile industry** as a **bleaching agent** for wool, cotton, and other natural fibers. It also functions as a **desulfurizing agent** and a reducing agent in various dyeing processes.
+3.  **Industrie textile** : Employé dans l'**industrie textile** comme **agent de blanchiment** pour la laine, le coton et d'autres fibres naturelles. Il fonctionne également comme **agent de désulfuration** et agent réducteur dans divers processus de teinture.
 
-4.  **Pulp and Paper Industry**: Used in the **pulp and paper industry** as a **bleaching agent** for wood pulp, improving the brightness and whiteness of paper products.
+4.  **Industrie des pâtes et papiers** : Utilisé dans l'**industrie des pâtes et papiers** comme **agent de blanchiment** pour la pâte de bois, améliorant la brillance et la blancheur des produits en papier.
 
-5.  **Food Additive**: Food-grade Sodium Sulfite Anhydrous is used as a **preservative** and **antioxidant** in certain food products, preventing spoilage and maintaining freshness.
+5.  **Additif alimentaire** : Le sulfite de sodium anhydre de qualité alimentaire est utilisé comme **conservateur** et **antioxydant** dans certains produits alimentaires, empêchant la détérioration et maintenant la fraîcheur.
 
-6.  **Chemical Synthesis**: Serves as a versatile **reducing agent** and **sulfonating agent** in various organic and inorganic chemical synthesis processes.
+6.  **Synthèse chimique** : Sert d'**agent réducteur** et d'**agent de sulfonation** polyvalent dans divers processus de synthèse chimique organique et inorganique.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Sodium Sulfite Anhydrous, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre sulfite de sodium anhydre, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Sulfite Anhydrous manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que votre **fabricant et fournisseur de sulfite de sodium anhydre** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
 

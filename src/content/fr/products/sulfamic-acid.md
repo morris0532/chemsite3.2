@@ -1,77 +1,77 @@
 ---
 id: "22"
-name: "Sulfamic Acid"
-nameCn: "氨基磺酸"
+name: "Acide sulfamique"
+nameCn: "Acide sulfamique"
 cas: "5329-14-6"
 hsCode: "2811199090"
 slug: "sulfamic-acid"
-shortDescription: "High-purity Sulfamic Acid (H3NSO3) for bulk purchase and export from China. Essential for cleaning, electroplating, and textile applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie et les applications textiles. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"H₃NSO₃"},
-  {"label":"CAS Number","value":"5329-14-6"},
-  {"label":"HS Code","value":"2811199090"},
-  {"label":"Purity","value":"≥99.5%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"H₃NSO₃"},
+  {"label":"Numéro CAS","value":"5329-14-6"},
+  {"label":"Code SH","value":"2811199090"},
+  {"label":"Pureté","value":"≥99,5%"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Cleaning agent (descaling, rust removal)",
-  "Electroplating (pH regulator, additive)",
-  "Textile industry (dye fixing, bleaching)",
-  "Paper and pulp industry (chlorine stabilizer)",
-  "Sweetener manufacturing",
-  "Chemical synthesis"
+  "Agent de nettoyage (détartrage, élimination de la rouille)",
+  "Galvanoplastie (régulateur de pH, additif)",
+  "Industrie textile (fixation de teinture, blanchiment)",
+  "Industrie du papier et de la pâte (stabilisateur de chlore)",
+  "Fabrication d'édulcorants",
+  "Synthèse chimique"
 ]
 faqs: [
-  {"question":"What grades of Sulfamic Acid do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sulfamic Acid, offering industrial grade with ≥99.5% purity. It is available for bulk purchase and export, ideal for various industrial applications."},{
-    "question":"What is the typical purity of your Sulfamic Acid products?",
-    "answer":"Our Sulfamic Acid (H₃NSO₃) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"Quelles qualités d'acide sulfamique fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader d'acide sulfamique en Chine, proposant une qualité industrielle avec une pureté ≥99,5%. Il est disponible pour l'achat en gros et l'exportation, idéal pour diverses applications industrielles."},{
+    "question":"Quelle est la pureté typique de vos produits d'acide sulfamique ?",
+    "answer":"Notre acide sulfamique (H₃NSO₃) est disponible avec une pureté minimale de 99,5%. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
   },{
-    "question":"How is Sulfamic Acid packaged for international shipping from China?",
-    "answer":"For export, our Sulfamic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment l'acide sulfamique est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre acide sulfamique est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Sulfamic Acid?",
-    "answer":"Our industrial grade Sulfamic Acid is widely used as a cleaning agent for descaling, in electroplating as a pH regulator, and in the textile industry for dye fixing. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre acide sulfamique de qualité industrielle ?",
+    "answer":"Notre acide sulfamique de qualité industrielle est largement utilisé comme agent de nettoyage pour le détartrage, en galvanoplastie comme régulateur de pH et dans l'industrie textile pour la fixation des teintures. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sulfamic Acid?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour l'acide sulfamique ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Sulfamic Acid orders from your factory?",
-    "answer":"Standard lead time for bulk Sulfamic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes en gros d'acide sulfamique de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes en gros d'acide sulfamique est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Acids"
+packaging: "Sacs de 25KG/Jumbo"
+category: "Acides"
 featured: false
 ---
 
-## Sulfamic Acid (CAS 5329-14-6): Your Trusted China Manufacturer & Supplier for High-Purity H₃NSO₃
+## Acide sulfamique (CAS 5329-14-6) : Votre fabricant et fournisseur de confiance en Chine pour le H₃NSO₃ de haute pureté
 
-As a premier **China manufacturer and supplier** of **Sulfamic Acid (H₃NSO₃)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Sulfamic Acid is produced to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, electroplating, and industrial applications (HS Code: 2811199090).
+En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide sulfamique (H₃NSO₃)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,5%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide sulfamique est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de nettoyage, de galvanoplastie et industrielles (Code SH : 2811199090).
 
-### Key Applications & Benefits:
+### Applications clés et avantages :
 
-1.  **Cleaning Agent**: Widely used as an effective **cleaning agent** for descaling, rust removal, and cleaning of industrial equipment, boilers, and heat exchangers. Its non-hygroscopic nature and strong acidic properties make it superior to other acids in many applications.
+1.  **Agent de nettoyage** : Largement utilisé comme un **agent de nettoyage** efficace pour le détartrage, l'élimination de la rouille et le nettoyage des équipements industriels, des chaudières et des échangeurs de chaleur. Sa nature non hygroscopique et ses fortes propriétés acides le rendent supérieur aux autres acides dans de nombreuses applications.
 
-2.  **Electroplating**: Essential in **electroplating** as a **pH regulator** and **additive** in various plating baths, including nickel plating. It helps to improve the quality and brightness of plated surfaces.
+2.  **Galvanoplastie** : Essentiel en **galvanoplastie** comme **régulateur de pH** et **additif** dans divers bains de placage, y compris le nickelage. Il aide à améliorer la qualité et la brillance des surfaces plaquées.
 
-3.  **Textile Industry**: Employed in the **textile industry** for **dye fixing**, ensuring color fastness and preventing fading. It is also used as a **bleaching agent** and a descaling agent for textile machinery.
+3.  **Industrie textile** : Employé dans l'**industrie textile** pour la **fixation des teintures**, assurant la solidité des couleurs et empêchant la décoloration. Il est également utilisé comme **agent de blanchiment** et agent de détartrage pour les machines textiles.
 
-4.  **Paper and Pulp Industry**: Used in the **paper and pulp industry** as a **chlorine stabilizer** and a bleaching agent, contributing to the brightness and quality of paper products.
+4.  **Industrie du papier et de la pâte** : Utilisé dans l'**industrie du papier et de la pâte** comme **stabilisateur de chlore** et agent de blanchiment, contribuant à la brillance et à la qualité des produits en papier.
 
-5.  **Sweetener Manufacturing**: Applied in the manufacturing of **artificial sweeteners**, such as cyclamates, as a key intermediate.
+5.  **Fabrication d'édulcorants** : Appliqué dans la fabrication d'**édulcorants artificiels**, tels que les cyclamates, comme intermédiaire clé.
 
-6.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the production of herbicides, pesticides, and other organic compounds.
+6.  **Synthèse chimique** : Sert de matière première polyvalente dans divers processus de **synthèse chimique** pour la production d'herbicides, de pesticides et d'autres composés organiques.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Sulfamic Acid, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre acide sulfamique, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sulfamic Acid manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que votre **fabricant et fournisseur d'acide sulfamique** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
 

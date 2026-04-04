@@ -27,9 +27,8 @@
 - [x] 验证法语版目录结构完整性
 
 ---
-
-## 📅 阶段 4：内容翻译与替换 (Content Translation) - [待开始]
-- [ ] 逐一翻译 attendus `src/content/fr/products/` 下的文件 (11/22)
+## 📅 阶段 4：内容翻译与替换 (Content Translation) - [✅ 已完成]
+- [x] 逐一翻译 `src/content/fr/products/` 下的所有文件 (22/22)
     - [x] Chlorure d'ammonium (ammonium-chloride.md)
     - [x] Borax (borax.md)
     - [x] Chlorure de calcium (calcium-chloride.md)
@@ -41,11 +40,26 @@
     - [x] Polychlorure d'aluminium (polyaluminum-chloride.md)
     - [x] Carbonate de sodium (soda-ash.md)
     - [x] Acétate de sodium anhydre (sodium-acetate-anhydrous.md)
-    - [ ] 其他产品 (进行中...)
-- [ ] 逐一翻译并替换 `src/content/fr/blog/` 下的文件
-- [ ] 验证法语版 MD 内容的静态注入效果
-
----
+    - [x] Bicarbonate de sodium (sodium-bicarbonate.md)
+    - [x] Bisulfite de sodium (sodium-bisulfite.md)
+    - [x] Hexamétaphosphate de sodium (sodium-hexametaphosphate.md)
+    - [x] Métabisulfite de sodium (sodium-metabisulphite.md)
+    - [x] Sulfate de sodium anhydre (sodium-sulfate-anhydrous.md)
+    - [x] Sulfite de sodium (sodium-sulfite.md)
+    - [x] Thiosulfate de sodium (sodium-thiosulphate.md)
+    - [x] Tripolyphosphate de sodium (sodium-tripolyphosphate.md)
+    - [x] Acide sulfamique (sulfamic-acid.md)
+    - [x] Citrate de trisodium (tri-sodium-citrate.md)
+    - [x] Phosphate de trisodium (trisodium-phosphate.md)
+- [x] 逐一翻译 `src/content/fr/blog/` 下的所有文件 (7/7)
+    - [x] Expédition et logistique (chemical-shipping-logistics-china-guide.md)
+    - [x] Guide du thiosulfate de sodium (complete-guide-sodium-thiosulphate-applications.md)
+    - [x] Choisir la soude caustique (how-to-choose-right-caustic-soda-grade.md)
+    - [x] Choisir un fournisseur (how-to-choose-the-right-chem-supplier-from-china.md)
+    - [x] Applications de l'acide oxalique (oxalic-acid-industrial-applications.md)
+    - [x] Thiosulfate de sodium polyvalent (sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.md)
+    - [x] Comparaison des produits de traitement de l'eau (water-treatment-chemicals-comparison.md)
+- [x] 验证法语版 MD 内容的静态注入效果---
 
 ## 📅 阶段 4：SEO 与 站点地图同步 (SEO & Sitemap) - [待开始]
 - [ ] 修改 `generate-sitemap.mjs` 加入法语 URL

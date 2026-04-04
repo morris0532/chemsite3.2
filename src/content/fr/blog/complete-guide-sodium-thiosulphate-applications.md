@@ -1,25 +1,30 @@
 ---
 id: "1"
 slug: "complete-guide-sodium-thiosulphate-applications"
-title: "Complete Guide to Sodium Thiosulphate: Applications, Properties, and Industrial Uses"
-excerpt: "Discover the versatile applications of sodium thiosulphate across water treatment, photography, mining, and more. Learn about its chemical properties and how to choose the right grade for your needs."
+title: "Guide complet du thiosulfate de sodium : applications, propriétés et utilisations industrielles"
+excerpt: "Découvrez les applications polyvalentes du thiosulfate de sodium dans le traitement de l'eau, la photographie, l'exploitation minière et plus encore. Découvrez ses propriétés chimiques et comment choisir la bonne qualité pour vos besoins."
 date: "2026-03-15"
-author: "Sinopeakchem Technical Team"
-category: "Product Guide"
-tags: ["sodium thiosulphate","water treatment","chemical guide"]
+author: "Équipe Technique Sinopeakchem"
+category: "Guide Produit"
+tags: ["thiosulfate de sodium","traitement de l'eau","guide chimique"]
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 ---
 
 ## Introduction
-Sodium thiosulphate (Na2S2O3) is a versatile inorganic compound with numerous industrial applications. This guide explores its properties and how it's used across various sectors.
-## Key Applications
-### 1. Water Treatment
-Used for dechlorination in municipal water treatment and aquaculture. It effectively neutralizes residual chlorine.
-### 2. Photography
-Known as "hypo," it serves as a fixing agent to dissolve unexposed silver halides on film and paper.
-### 3. Mining
-Used in gold and silver extraction as an alternative to cyanide leaching.
-### 4. Medical
-Used as an antidote for cyanide poisoning and in various dermatological treatments.
+Le thiosulfate de sodium (Na2S2O3) est un composé inorganique polyvalent avec de nombreuses applications industrielles. Ce guide explore ses propriétés et son utilisation dans divers secteurs.
+
+## Applications clés
+### 1. Traitement de l'eau
+Utilisé pour la déchloration dans le traitement des eaux municipales et l'aquaculture. Il neutralise efficacement le chlore résiduel.
+
+### 2. Photographie
+Connu sous le nom de « hypo », il sert d'agent de fixation pour dissoudre les halogénures d'argent non exposés sur le film et le papier.
+
+### 3. Exploitation minière
+Utilisé dans l'extraction de l'or et de l'argent comme alternative à la lixiviation au cyanure.
+
+### 4. Médical
+Utilisé comme antidote pour l'empoisonnement au cyanure et dans divers traitements dermatologiques.
+
 ## Conclusion
-Choosing the right grade of sodium thiosulphate is essential for optimal performance in your specific application. Sinopeakchem offers high-purity sodium thiosulphate for all industrial needs.
+Choisir la bonne qualité de thiosulfate de sodium est essentiel pour une performance optimale dans votre application spécifique. Sinopeakchem propose du thiosulfate de sodium de haute pureté pour tous les besoins industriels.
