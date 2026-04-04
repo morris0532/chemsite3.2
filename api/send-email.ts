@@ -69,6 +69,7 @@ export default async function handler(req: any, res: any) {
       const data = await resend.emails.send({
         from: 'Sinopeakchem System <info@sinopeakchem.com>',
         to: 'info@sinopeakchem.com',
+        reply_to: email,
         subject: `${missingDocs.length > 0 ? '[URGENT - DOC MISSING] ' : '[Lead] '}Document Request: ${product} from ${name || email}`,
         html: `
           <h2>New Document Request (Lead)</h2>
