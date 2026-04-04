@@ -11,6 +11,8 @@ import Blog from './pages/Blog';
 import BlogDetail from './pages/BlogDetail';
 import Contact from './pages/Contact';
 import NotFound from './pages/NotFound';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import TermsOfService from './pages/TermsOfService';
 
 const queryClient = new QueryClient();
 
@@ -32,6 +34,8 @@ const App = () => (
           <Route path="/en/blog" element={<Blog />} />
           <Route path="/en/blog/:slug" element={<BlogDetail />} />
           <Route path="/en/contact" element={<Contact />} />
+          <Route path="/en/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/en/terms-of-service" element={<TermsOfService />} />
 
           {/* Russian routes */}
           <Route path="/ru" element={<Index />} />
@@ -41,6 +45,8 @@ const App = () => (
           <Route path="/ru/blog" element={<Blog />} />
           <Route path="/ru/blog/:slug" element={<BlogDetail />} />
           <Route path="/ru/contact" element={<Contact />} />
+          <Route path="/ru/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/ru/terms-of-service" element={<TermsOfService />} />
           <Route path="/fr/*" element={<Navigate to="/en" replace />} />
 
           {/* 404 */}

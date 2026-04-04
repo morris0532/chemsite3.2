@@ -341,10 +341,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Mail className="w-5 h-5 text-[#0066B3]" /></div>
                   <a href="mailto:info@sinopeakchem.com" className="text-gray-400 hover:text-white transition-colors">info@sinopeakchem.com</a>
                 </li>
-                <li className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><MessageCircle className="w-5 h-5 text-[#0066B3]" /></div>
-                  <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">WhatsApp</a>
-                </li>
+
               </ul>
             </div>
           </div>
@@ -356,13 +353,26 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 : "© 2024 Sinopeakchem. All rights reserved."}
             </p>
             <div className="flex items-center gap-6">
-              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : "Privacy"}</a>
-              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : "Terms"}</a>
-              <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Карта сайта" : "Sitemap"}</a>
+              <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : "Privacy"}</Link>
+              <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : "Terms"}</Link>
             </div>
           </div>
         </div>
       </footer>
+
+      {/* Floating WhatsApp Button */}
+      <a 
+        href="https://wa.me/8613583262050" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="fixed bottom-8 right-8 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-2xl hover:scale-110 transition-transform duration-300 flex items-center justify-center group"
+        aria-label="Chat on WhatsApp"
+      >
+        <MessageCircle className="w-7 h-7" />
+        <span className="absolute right-full mr-4 bg-white text-gray-800 px-4 py-2 rounded-lg text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap shadow-lg pointer-events-none">
+          {isRu ? "Свяжитесь с нами" : "Chat with us"}
+        </span>
+      </a>
     </div>
   );
 }
