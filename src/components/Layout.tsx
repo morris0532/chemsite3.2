@@ -259,7 +259,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
 
       <footer className="bg-gradient-to-b from-[#0a2540] to-[#051a2f] text-white py-16 border-t border-white/10">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
             <div>
               <div className="flex items-center gap-2.5 mb-6">
                 <img src="/logo.png" alt="Sinopeakchem" className="w-10 h-10 rounded-lg" />
