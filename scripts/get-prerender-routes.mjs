@@ -3,7 +3,7 @@ import path from 'path';
 
 export function getPrerenderRoutes() {
   const contentDir = path.resolve('src/content');
-  const locales = ['en', 'ru'];
+  const locales = ['en', 'ru', 'fr'];
   const basePages = [
     '',
     '/products',
@@ -18,6 +18,7 @@ export function getPrerenderRoutes() {
   basePages.forEach(page => {
     routes.push(`/en${page}`);
     routes.push(`/ru${page}`);
+    routes.push(`/fr${page}`);
   });
 
   // 2. 博客文章
