@@ -33,7 +33,9 @@ export default async function handler(req: any, res: any) {
         const fileName = `${slug}-${docType}.pdf`;
         const filePath = path.join(process.cwd(), 'public', 'docs', fileName);
         const exists = fs.existsSync(filePath);
-        return { name: doc, fileName, exists, url: `https://sinopeakchem.com/docs/${fileName}` };
+        // Generate a slightly obfuscated download link through our new API
+        const obfuscatedUrl = `https://sinopeakchem.com/api/download?file=${fileName}`;
+        return { name: doc, fileName, exists, url: obfuscatedUrl };
       });
 
       const missingDocs = docsWithStatus.filter((d: any) => !d.exists);
