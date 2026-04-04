@@ -23,7 +23,7 @@ routes.forEach(route => {
 
   const targetFile = path.join(targetDir, 'index.html');
   fs.writeFileSync(targetFile, template);
-  console.log(\`Prerendered: \${route}\`);
+  console.log(`Prerendered: ${route}`);
 });
 
 console.log('Prerendering completed.');

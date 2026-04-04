@@ -17,9 +17,9 @@ export function getPrerenderRoutes() {
   const routes = [];
 
   basePages.forEach(page => {
-    routes.push(\`/en\${page}\`);
-    routes.push(\`/ru\${page}\`);
-    routes.push(\`/fr\${page}\`);
+    routes.push(`/en${page}`);
+    routes.push(`/ru${page}`);
+    routes.push(`/fr${page}`);
   });
 
   locales.forEach(locale => {
@@ -28,7 +28,7 @@ export function getPrerenderRoutes() {
       fs.readdirSync(blogDir).forEach(file => {
         if (file.endsWith('.md')) {
           const slug = file.replace('.md', '');
-          routes.push(\`/\${locale}/blog/\${slug}\`);
+          routes.push(`/${locale}/blog/${slug}`);
         }
       });
     }
@@ -40,7 +40,7 @@ export function getPrerenderRoutes() {
       fs.readdirSync(productDir).forEach(file => {
         if (file.endsWith('.md')) {
           const slug = file.replace('.md', '');
-          routes.push(\`/\${locale}/products/\${slug}\`);
+          routes.push(`/${locale}/products/${slug}`);
         }
       });
     }
