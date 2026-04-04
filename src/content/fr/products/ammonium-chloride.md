@@ -1,78 +1,77 @@
 ---
 id: "18"
-name: "Ammonium Chloride"
+name: "Chlorure d'ammonium"
 nameCn: "氯化铵"
 cas: "12125-02-9"
 hsCode: "2827101000"
 slug: "ammonium-chloride"
-shortDescription: "High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China. Essential for fertilizer, feed additive, and industrial applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les engrais, les additifs alimentaires et les applications industrielles. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"NH₄Cl"},
-  {"label":"CAS Number","value":"12125-02-9"},
-  {"label":"HS Code","value":"2827101000"},
-  {"label":"Purity","value":"≥99.5% (Industrial Grade)"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"NH₄Cl"},
+  {"label":"Numéro CAS","value":"12125-02-9"},
+  {"label":"Code SH","value":"2827101000"},
+  {"label":"Pureté","value":"≥99,5 % (Qualité industrielle)"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25-27 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Fertilizer (nitrogen source for crops)",
-  "Feed additive (ruminants, poultry)",
-  "Dry cell batteries",
-  "Metal working (flux for soldering)",
-  "Textile and leather industry",
-  "Pharmaceutical intermediates",
-  "Food additive (E510)"
+  "Engrais (source d'azote pour les cultures)",
+  "Additif alimentaire (ruminants, volaille)",
+  "Piles sèches",
+  "Travail des métaux (flux pour le soudage)",
+  "Industrie textile et du cuir",
+  "Intermédiaires pharmaceutiques",
+  "Additif alimentaire (E510)"
 ]
 faqs: [
-  {"question":"What grades of Ammonium Chloride do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Ammonium Chloride, offering industrial grade (≥99.5% purity) and feed grade. Both are available for bulk purchase and export, catering to various industrial and agricultural requirements."},{
-    "question":"What is the typical purity of your Ammonium Chloride products?",
-    "answer":"Our Ammonium Chloride (NH₄Cl) is available with a minimum purity of 99.5% for industrial applications. We ensure strict quality control to meet international standards."
+  {"question":"Quelles qualités de chlorure d'ammonium fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine de chlorure d'ammonium, proposant une qualité industrielle (pureté ≥99,5 %) et une qualité alimentaire. Les deux sont disponibles pour l'achat en gros et l'exportation, répondant à diverses exigences industrielles et agricoles."},{
+    "question":"Quelle est la pureté typique de vos produits de chlorure d'ammonium ?",
+    "answer":"Notre chlorure d'ammonium (NH₄Cl) est disponible avec une pureté minimale de 99,5 % pour les applications industrielles. Nous assurons un contrôle qualité strict pour répondre aux normes internationales."
   },{
-    "question":"How is Ammonium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Ammonium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment le chlorure d'ammonium est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre chlorure d'ammonium est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Ammonium Chloride?",
-    "answer":"Our industrial grade Ammonium Chloride is widely used as a nitrogen fertilizer, a feed additive for livestock, in dry cell batteries, as a flux in metalworking, and in the textile and leather industries. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre chlorure d'ammonium de qualité industrielle ?",
+    "answer":"Notre chlorure d'ammonium de qualité industrielle est largement utilisé comme engrais azoté, additif alimentaire pour le bétail, dans les piles sèches, comme flux dans le travail des métaux, et dans les industries du textile et du cuir. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Ammonium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour le chlorure d'ammonium ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Ammonium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Ammonium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes de chlorure d'ammonium en gros de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes de chlorure d'ammonium en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+category: "Composés de chlorure"
 featured: false
 ---
 
-## Ammonium Chloride (CAS 12125-02-9): Your Trusted China Manufacturer & Supplier for High-Grade NH₄Cl
+## Chlorure d'ammonium (CAS 12125-02-9) : Votre fabricant et fournisseur de confiance en Chine pour le NH₄Cl de haute qualité
 
-As a premier **China manufacturer and supplier** of **Ammonium Chloride (NH₄Cl)**, we offer **high-grade** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Ammonium Chloride is produced to meet stringent international quality standards, making it ideal for a wide range of industrial, agricultural, and feed applications (HS Code: 2827101000).
+En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure d'ammonium (NH₄Cl)**, nous proposons un produit de **haute qualité** avec une **pureté ≥99,5 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure d'ammonium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui le rend idéal pour une large gamme d'applications industrielles, agricoles et alimentaires (Code SH : 2827101000).
 
-### Key Applications & Benefits:
+### Principales applications et avantages :
 
-1.  **Fertilizer Industry**: Widely used as a **nitrogen fertilizer** for various crops, particularly rice and wheat. It provides a readily available source of nitrogen, promoting healthy plant growth and increasing yields.
+1.  **Industrie des engrais** : Largement utilisé comme **engrais azoté** pour diverses cultures, en particulier le riz et le blé. Il fournit une source d'azote facilement disponible, favorisant une croissance saine des plantes et augmentant les rendements.
 
-2.  **Feed Additive**: Essential as a **feed additive** for ruminants (e.g., cattle, sheep) to prevent urinary calculi and as a source of non-protein nitrogen. It also finds use in poultry feed.
+2.  **Additif alimentaire** : Essentiel comme **additif alimentaire** pour les ruminants (par exemple, les bovins, les moutons) pour prévenir les calculs urinaires et comme source d'azote non protéique. Il est également utilisé dans l'alimentation des volailles.
 
-3.  **Dry Cell Batteries**: A critical electrolyte in the manufacturing of **dry cell batteries** (Leclanché cells), contributing to their electrical conductivity.
+3.  **Piles sèches** : Un électrolyte critique dans la fabrication de **piles sèches** (piles Leclanché), contribuant à leur conductivité électrique.
 
-4.  **Metal Working**: Functions as a **flux for soldering and welding**, cleaning the surface of metals by reacting with metal oxides to form volatile chlorides, ensuring stronger bonds.
+4.  **Travail des métaux** : Fonctionne comme un **flux pour le brasage et le soudage**, nettoyant la surface des métaux en réagissant avec les oxydes métalliques pour former des chlorures volatils, assurant des liaisons plus solides.
 
-5.  **Textile and Leather Industry**: Used in the **textile industry** for dyeing and printing, and in the **leather industry** for tanning processes.
+5.  **Industrie textile et du cuir** : Utilisé dans l'**industrie textile** pour la teinture et l'impression, et dans l'**industrie du cuir** pour les processus de tannage.
 
-6.  **Pharmaceutical & Food Additive**: Employed in the **pharmaceutical industry** as an expectorant and diuretic, and as a **food additive (E510)** in some food products.
+6.  **Additif pharmaceutique et alimentaire** : Employé dans l'**industrie pharmaceutique** comme expectorant et diurétique, et comme **additif alimentaire (E510)** dans certains produits alimentaires.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Ammonium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre chlorure d'ammonium, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 à 27 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Ammonium Chloride manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que **fabricant et fournisseur de chlorure d'ammonium** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
