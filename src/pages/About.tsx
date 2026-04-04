@@ -35,21 +35,21 @@ const jsonLdFr = {
 
 const statsEn = [
   { icon: Award, value: "22+", label: "Premier Products" },
-  { icon: TrendingUp, value: "Nearly 30", label: "Years Experience" },
+  { icon: TrendingUp, value: "28+", label: "Years Experience" },
   { icon: Globe, value: "50+", label: "Countries Served" },
   { icon: Users, value: "500+", label: "Global Partners" },
 ];
 
 const statsRu = [
   { icon: Award, value: "22+", label: "Премиум-продуктов" },
-  { icon: TrendingUp, value: "Почти 30", label: "Лет опыта" },
+  { icon: TrendingUp, value: "28+", label: "Лет опыта" },
   { icon: Globe, value: "50+", label: "Обслуживаемых стран" },
   { icon: Users, value: "500+", label: "Глобальных партнеров" },
 ];
 
 const statsFr = [
   { icon: Award, value: "22+", label: "Produits Phares" },
-  { icon: TrendingUp, value: "Près de 30", label: "Années d'Expérience" },
+  { icon: TrendingUp, value: "28+", label: "Années d'Expérience" },
   { icon: Globe, value: "50+", label: "Pays Desservis" },
   { icon: Users, value: "500+", label: "Partenaires Mondiaux" },
 ];
@@ -168,7 +168,8 @@ export default function AboutPage() {
 
   const content = isRu ? {
     title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
-    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с почти 30-летним опытом. Мы объединяем управление брендами и глобальную логистику.",
+    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с более чем 28-летним опытом. Мы объединяем управление брендами и глобальную логистику.",
+    heroTitle: "Поиск лучших решений — наша конечная цель",
     heroTitle: "Поиск лучших решений — наша конечная цель",
     heroDesc: "Эксперты по высокостандартному обслуживанию, соединяющие передовое китайское производство с мировыми промышленными потребностями.",
     ourStory: "Наша история",
@@ -182,13 +183,13 @@ export default function AboutPage() {
     affiliation: "Этот сайт принадлежит Shandong Lan star Technology Group Co.,Ltd"
   } : (isFr ? {
     title: "À propos de Sinopeakchem - Experts en Service de Haut Niveau",
-    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec près de 30 ans d'excellence. Intégrant l'exploitation de marques et la logistique mondiale.",
+    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec plus de 28 ans d'excellence. Intégrant l'exploitation de marques et la logistique mondiale.",
     heroTitle: "Trouver la Meilleure Solution est Notre Objectif Ultime",
     heroDesc: "Experts en service de haut niveau faisant le pont entre la fabrication chinoise avancée et les besoins industriels mondiaux.",
     ourStory: "Notre Histoire",
     storySubtitle: "Depuis 1998, notre équipe a réussi à comprendre les besoins de l'industrie et à créer des produits fiables pour tous.",
     storyP1: "Fondée en 1998 dans la province du Shandong, en Chine, Sinopeakchem est devenue une entreprise chimique multifonctionnelle et innovante intégrant l'exploitation de marques et les services de plateforme.",
-    storyP2: "Nos produits couvrent une large gamme comprenant l'acide oxalique, le thiosulfate de sodium, le chlorure de calcium, le sulfite de sodium, l'acide citrique et d'autres séries de phosphates et de l'acide citrique. Nous nous efforçons de devenir une étoile brillante dans l'industrie chimique.",
+    storyP2: "Nos produits couvrent une large gamme comprenant l'acide oxalique, le thiosulfate de sodium, le chlorure de calcium, le sulfite de sodium, l'acide citrique et d'autres séries de phosphates et de sulfates. Nous nous efforçons de devenir une étoile brillante dans l'industrie chimique.",
     strategicHubs: "Hubs Stratégiques",
     serviceCommitment: "Notre Engagement de Service",
     visionTitle: "Positionnement Commercial",
@@ -196,7 +197,7 @@ export default function AboutPage() {
     affiliation: "Ce site appartient à Shandong Lan star Technology Group Co.,Ltd"
   } : {
     title: "About Sinopeakchem - High-standard Service Experts",
-    description: "Learn about Sinopeakchem, a multi-functional chemical company with nearly 30 years of excellence. Integrating brand operation and global logistics.",
+    description: "Learn about Sinopeakchem, a multi-functional chemical company with 28+ years of excellence. Integrating brand operation and global logistics.",
     heroTitle: "Finding the Best Solution is Our Ultimate Goal",
     heroDesc: "High-standard service experts bridging the gap between advanced Chinese manufacturing and global industrial needs.",
     ourStory: "Our Story",
