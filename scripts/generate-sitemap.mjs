@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const SITE_URL = 'https://sinopeakchem.com';
+const SITE_URL = 'https://www.sinopeakchem.com';
 
 async function generateSitemap() {
   const contentDir = path.resolve('src/content');
