@@ -257,7 +257,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
         {children}
       </main>
 
-      <footer className="bg-gradient-to-b from-[#0a2540] to-[#051a2f] text-white py-16 border-t border-[#1a3a52]">
+      <footer className="bg-gradient-to-b from-[#0a2540] to-[#051a2f] text-white py-16 border-t border-white/10">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
             <div>
