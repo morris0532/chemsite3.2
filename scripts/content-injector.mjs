@@ -8,8 +8,9 @@ const routes = getPrerenderRoutes();
 const distDir = path.resolve('dist');
 const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
+const BASE_URL = 'https://www.sinopeakchem.com';
 
-console.log(`Starting content injection for ${routes.length} routes...`);
+console.log(`Starting advanced content injection for ${routes.length} routes...`);
 
 // 预先读取所有产品和博客的元数据，用于列表页的关键词生成
 const contentMetadata = {
@@ -26,7 +27,13 @@ const contentMetadata = {
         if (file.endsWith('.md')) {
           const fileContent = fs.readFileSync(path.join(dir, file), 'utf-8');
           const { data } = matter(fileContent);
-          contentMetadata[locale][type].push(data.title || data.name || '');
+          contentMetadata[locale][type].push({
+            title: data.title || data.name || '',
+            slug: data.slug || file.replace('.md', ''),
+            date: data.date || '',
+            cas: data.cas || '',
+            image: data.image || ''
+          });
         }
       });
     }
@@ -46,6 +53,8 @@ routes.forEach(route => {
   let title = '';
   let description = '';
   let keywords = '';
+  let ogImage = 'https://www.sinopeakchem.com/images/og-image.jpg';
+  let jsonLd = null;
 
   const parts = route.split('/').filter(Boolean); // [en, blog, slug] 或 [en, products, slug] 或 [en, about]
   const locale = parts[0] || 'en';
@@ -59,10 +68,36 @@ routes.forEach(route => {
       const fileContent = fs.readFileSync(mdFilePath, 'utf-8');
       const { data, content } = matter(fileContent);
       contentHtml = marked.parse(content);
-      title = data.title || data.name || '';
-      description = data.excerpt || data.description || data.shortDescription || '';
       
-      // 提取关键词 (支持 tags 数组或 keywords 字符串)
+      if (type === 'products') {
+        title = `${data.name} (CAS ${data.cas}) - Bulk Supply from China`;
+        description = `Buy high-purity ${data.name} (${data.cas}) in bulk from China. ${data.shortDescription || ''} Competitive pricing with COA/MSDS.`;
+        ogImage = data.image || ogImage;
+        jsonLd = {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": data.name,
+          "description": data.shortDescription || description,
+          "sku": `CAS-${data.cas}`,
+          "brand": { "@type": "Brand", "name": "Sinopeakchem" },
+          "manufacturer": { "@type": "Organization", "name": "Sinopeakchem" },
+          "image": data.image
+        };
+      } else {
+        title = data.title;
+        description = data.excerpt || '';
+        ogImage = data.image || ogImage;
+        jsonLd = {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": data.title,
+          "datePublished": data.date,
+          "author": { "@type": "Organization", "name": "Sinopeakchem" },
+          "image": data.image
+        };
+      }
+      
+      // 提取关键词
       if (Array.isArray(data.tags)) {
         keywords = data.tags.join(', ');
       } else if (data.keywords) {
@@ -76,50 +111,54 @@ routes.forEach(route => {
   else if (parts.length === 2) {
     const page = parts[1];
     if (page === 'products') {
-      title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
-      description = 'Browse our wide range of high-quality industrial chemicals.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      // 动态生成产品列表页关键词：汇总所有产品名称
-      const productNames = contentMetadata[locale].products.slice(0, 15).join(', ');
+      title = `Industrial Chemical Products | Oxalic Acid, Caustic Soda & More`;
+      description = `Browse 22+ high-purity industrial chemicals from Sinopeakchem. Including organic acids, alkali products, sulfates, and specialty chemicals. COA/MSDS available.`;
+      const productNames = contentMetadata[locale].products.slice(0, 15).map(p => p.title).join(', ');
       keywords = `${productNames}, ${locale === 'ru' ? 'химикаты, промышленная химия' : (locale === 'fr' ? 'produits chimiques, chimie industrielle' : 'chemicals, industrial chemicals')}`;
     } else if (page === 'blog') {
-      title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
-      description = 'Latest industry insights and product guides from Sinopeakchem.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      // 动态生成博客列表页关键词：汇总所有博客标题
-      const blogTitles = contentMetadata[locale].blog.slice(0, 10).join(', ');
+      title = `Blog - Chemical Industry Insights and Product Guides`;
+      description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.`;
+      const blogTitles = contentMetadata[locale].blog.slice(0, 10).map(b => b.title).join(', ');
       keywords = `${blogTitles}, ${locale === 'ru' ? 'новости отрасли, химические руководства' : (locale === 'fr' ? 'actualités de l\'industrie, guides chimiques' : 'industry news, chemical guides')}`;
     } else if (page === 'about') {
       title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
       description = siteConfig[locale]?.footer?.companyDesc || '';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
       keywords = locale === 'ru' ? 'о нас, компания, поставщик химикатов, Китай' : (locale === 'fr' ? 'à propos, entreprise, fournisseur de produits chimiques, Chine' : 'about, company, chemical supplier, China');
     } else if (page === 'contact') {
       title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
       keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
-    } else if (page === 'privacy-policy') {
-      title = locale === 'ru' ? 'Политика конфиденциальности' : (locale === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy');
-      description = 'Privacy policy and data protection at Sinopeakchem.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = locale === 'ru' ? 'конфиденциальность, защита данных, политика' : (locale === 'fr' ? 'confidentialité, protection des données, politique' : 'privacy, data protection, policy');
-    } else if (page === 'terms-of-service') {
-      title = locale === 'ru' ? 'Условия использования' : (locale === 'fr' ? 'Conditions d\'utilisation' : 'Terms of Service');
-      description = 'Terms of service and usage guidelines for Sinopeakchem website.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = locale === 'ru' ? 'условия использования, правила, соглашение' : (locale === 'fr' ? 'conditions d\'utilisation, règles, accord' : 'terms of service, rules, agreement');
     }
   }
   // 3. 处理首页
   else if (parts.length === 1) {
-    title = locale === 'ru' ? 'Главная' : (locale === 'fr' ? 'Accueil' : 'Home');
-    description = siteConfig[locale]?.footer?.companyDesc || '';
-    contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+    title = `Sinopeakchem - Leading Industrial Chemical Supplier from China | 22+ Products`;
+    description = `Sinopeakchem is a premier industrial chemical supplier from China, exporting high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
     keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
+    jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Sinopeakchem",
+      "url": BASE_URL,
+      "logo": `${BASE_URL}/logo.png`,
+      "description": description,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No. 182, Jinshui Road, Licang District",
+        "addressLocality": "Qingdao",
+        "addressRegion": "Shandong Province",
+        "addressCountry": "CN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+86-135-8326-2050",
+        "email": "info@sinopeakchem.com",
+        "contactType": "sales"
+      }
+    };
   }
 
-  if (contentHtml || title || description || keywords) {
+  if (title || description || keywords) {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
     // 1. 注入正文到 <div id="root"></div>
@@ -129,26 +168,22 @@ routes.forEach(route => {
     }
 
     // 2. 注入 SEO Title
-    if (title) {
-      const fullTitle = `${title} | Sinopeakchem`;
-      const titleRegex = /<title>[\s\S]*?<\/title>/i;
-      if (titleRegex.test(html)) {
-        html = html.replace(titleRegex, `<title>${fullTitle}</title>`);
-      } else {
-        html = html.replace(/<\/head>/i, `  <title>${fullTitle}</title>\n  </head>`);
-      }
+    const fullTitle = `${title} | Sinopeakchem`;
+    const titleRegex = /<title>[\s\S]*?<\/title>/i;
+    if (titleRegex.test(html)) {
+      html = html.replace(titleRegex, `<title>${fullTitle}</title>`);
+    } else {
+      html = html.replace(/<\/head>/i, `  <title>${fullTitle}</title>\n  </head>`);
     }
 
     // 3. 注入 SEO Description
-    if (description) {
-      const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
-      const descMeta = `<meta name="description" content="${cleanDesc}" />`;
-      const descRegex = /<meta\s+name="description"\s+content=".*?"\s*\/?>/i;
-      if (descRegex.test(html)) {
-        html = html.replace(descRegex, descMeta);
-      } else {
-        html = html.replace(/<\/head>/i, `  ${descMeta}\n  </head>`);
-      }
+    const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
+    const descMeta = `<meta name="description" content="${cleanDesc}" />`;
+    const descRegex = /<meta\s+name="description"\s+content=".*?"\s*\/?>/i;
+    if (descRegex.test(html)) {
+      html = html.replace(descRegex, descMeta);
+    } else {
+      html = html.replace(/<\/head>/i, `  ${descMeta}\n  </head>`);
     }
 
     // 4. 注入 SEO Keywords
@@ -163,11 +198,49 @@ routes.forEach(route => {
       }
     }
 
+    // 5. 注入 Canonical 标签
+    const canonicalUrl = `${BASE_URL}${route}`;
+    const canonicalTag = `<link rel="canonical" href="${canonicalUrl}" />`;
+    html = html.replace(/<\/head>/i, `  ${canonicalTag}\n  </head>`);
+
+    // 6. 注入 Hreflang 标签
+    const currentPath = route.replace(/^\/(en|ru|fr)/, '');
+    const hreflangTags = [
+      `<link rel="alternate" hreflang="en" href="${BASE_URL}/en${currentPath}" />`,
+      `<link rel="alternate" hreflang="ru" href="${BASE_URL}/ru${currentPath}" />`,
+      `<link rel="alternate" hreflang="fr" href="${BASE_URL}/fr${currentPath}" />`,
+      `<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${currentPath}" />`
+    ].join('\n  ');
+    html = html.replace(/<\/head>/i, `  ${hreflangTags}\n  </head>`);
+
+    // 7. 注入 Open Graph & Twitter Card
+    const ogTags = [
+      `<meta property="og:title" content="${title}" />`,
+      `<meta property="og:description" content="${cleanDesc}" />`,
+      `<meta property="og:image" content="${ogImage}" />`,
+      `<meta property="og:url" content="${canonicalUrl}" />`,
+      `<meta property="og:type" content="website" />`,
+      `<meta property="og:site_name" content="Sinopeakchem" />`,
+      `<meta property="og:locale" content="${locale === 'en' ? 'en_US' : (locale === 'ru' ? 'ru_RU' : 'fr_FR')}" />`,
+      `<meta name="twitter:card" content="summary_large_image" />`,
+      `<meta name="twitter:title" content="${title}" />`,
+      `<meta name="twitter:description" content="${cleanDesc}" />`,
+      `<meta name="twitter:image" content="${ogImage}" />`
+    ].join('\n  ');
+    html = html.replace(/<\/head>/i, `  ${ogTags}\n  </head>`);
+
+    // 8. 注入 JSON-LD 结构化数据
+    if (jsonLd) {
+      const jsonLdTag = `<script type="application/ld+json">\n${JSON.stringify(jsonLd, null, 2)}\n</script>`;
+      html = html.replace(/<\/head>/i, `  ${jsonLdTag}\n  </head>`);
+    }
+
+    // 9. 修正 <html> 标签的 lang 属性
+    html = html.replace(/<html lang="en">/i, `<html lang="${locale}">`);
+
     fs.writeFileSync(targetFile, html);
-    console.log(`Injected content and SEO meta into: ${route} (Title: ${title})`);
-  } else {
-    console.log(`No content found for: ${route}, keeping original.`);
+    console.log(`Injected advanced SEO into: ${route} (Title: ${title})`);
   }
 });
 
-console.log('Content injection completed.');
+console.log('Advanced content injection completed.');
