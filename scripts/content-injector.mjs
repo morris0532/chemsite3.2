@@ -23,6 +23,7 @@ routes.forEach(route => {
   let contentHtml = '';
   let title = '';
   let description = '';
+  let keywords = '';
 
   const parts = route.split('/').filter(Boolean); // [en, blog, slug] 或 [en, products, slug] 或 [en, about]
   const locale = parts[0] || 'en';
@@ -38,6 +39,15 @@ routes.forEach(route => {
       contentHtml = marked.parse(content);
       title = data.title || data.name || '';
       description = data.excerpt || data.description || data.shortDescription || '';
+      
+      // 提取关键词 (支持 tags 数组或 keywords 字符串)
+      if (Array.isArray(data.tags)) {
+        keywords = data.tags.join(', ');
+      } else if (data.keywords) {
+        keywords = data.keywords;
+      } else if (data.category) {
+        keywords = `${data.category}, chemical supplier, China`;
+      }
     }
   } 
   // 2. 处理 About, Contact, Privacy, Terms (硬编码或简单逻辑)
@@ -47,18 +57,22 @@ routes.forEach(route => {
       title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
       description = siteConfig[locale]?.footer?.companyDesc || '';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = 'about, company, chemical supplier, China';
     } else if (page === 'contact') {
       title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = 'contact, inquiry, sales, chemical products';
     } else if (page === 'products') {
       title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
       description = 'Browse our wide range of high-quality industrial chemicals.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = 'products, chemicals, industrial chemicals, catalog';
     } else if (page === 'blog') {
       title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
       description = 'Latest industry insights and product guides from Sinopeakchem.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = 'blog, industry news, chemical guides, technical articles';
     }
   }
   // 3. 处理首页
@@ -66,9 +80,10 @@ routes.forEach(route => {
     title = locale === 'ru' ? 'Главная' : (locale === 'fr' ? 'Accueil' : 'Home');
     description = siteConfig[locale]?.footer?.companyDesc || '';
     contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+    keywords = 'chemical supplier, China, industrial chemicals, B2B';
   }
 
-  if (contentHtml || title || description) {
+  if (contentHtml || title || description || keywords) {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
     // 1. 注入正文到 <div id="root"></div>
@@ -97,6 +112,18 @@ routes.forEach(route => {
         html = html.replace(descRegex, descMeta);
       } else {
         html = html.replace(/<\/head>/i, `  ${descMeta}\n  </head>`);
+      }
+    }
+
+    // 4. 注入 SEO Keywords
+    if (keywords) {
+      const cleanKeywords = keywords.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
+      const keywordsMeta = `<meta name="keywords" content="${cleanKeywords}" />`;
+      const keywordsRegex = /<meta\s+name="keywords"\s+content=".*?"\s*\/?>/i;
+      if (keywordsRegex.test(html)) {
+        html = html.replace(keywordsRegex, keywordsMeta);
+      } else {
+        html = html.replace(/<\/head>/i, `  ${keywordsMeta}\n  </head>`);
       }
     }
 
