@@ -1,80 +1,79 @@
 ---
 id: "4"
-name: "Calcium Chloride"
+name: "Chlorure de calcium"
 nameCn: "氯化钙"
 cas: "10043-52-4 / 10035-04-8"
 hsCode: "2827200000"
 slug: "calcium-chloride"
-shortDescription: "High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk purchase and export from China. Essential for de-icing, oil & gas, and food applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Chlorure de calcium (CaCl2) de haute pureté en écailles, granulés et poudre pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant de confiance avec des prix compétitifs."
 image: "/images/products/calcium-chloride-10043-52-4.jpg"
 specs: [
-  {"label":"Chemical Formula","value":"CaCl₂"},
-  {"label":"CAS Number","value":"10043-52-4 / 10035-04-8"},
-  {"label":"HS Code","value":"2827200000"},
-  {"label":"Purity","value":"≥74% / ≥94% (Anhydrous)"},
-  {"label":"Appearance","value":"White flakes, pellets, or powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"CaCl₂"},
+  {"label":"Numéro CAS","value":"10043-52-4 / 10035-04-8"},
+  {"label":"Code SH","value":"2827200000"},
+  {"label":"Pureté","value":"≥74 % / ≥94 % (Anhydre)"},
+  {"label":"Apparence","value":"Écailles, granulés ou poudre blancs"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25-27 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "De-icing agent (roads, sidewalks)",
-  "Oil and gas drilling fluids",
-  "Dust control (unpaved roads)",
-  "Food additive (firming agent, electrolyte)",
-  "Refrigeration brines",
-  "Concrete accelerator",
-  "Desiccant (drying agent)"
+  "Agent de déglaçage (routes, trottoirs)",
+  "Fluides de forage pétrolier et gazier",
+  "Contrôle de la poussière (routes non pavées)",
+  "Additif alimentaire (agent de raffermissement, électrolyte)",
+  "Saumures de réfrigération",
+  "Accélérateur de béton",
+  "Déshydratant (agent de séchage)"
 ]
 faqs: [
-  {"question":"What forms of Calcium Chloride do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Calcium Chloride, offering flakes, pellets, and powder forms with purities ranging from ≥74% to ≥94% (anhydrous). All forms are available for bulk purchase and export, catering to diverse industrial needs."},{
-    "question":"What is the typical purity of your Calcium Chloride products?",
-    "answer":"Our Calcium Chloride (CaCl₂) is available in various purities, including ≥74% (dihydrate) and ≥94% (anhydrous). We ensure strict quality control to meet international standards for all applications."
+  {"question":"Quelles formes de chlorure de calcium fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine de chlorure de calcium, proposant des formes en écailles, en granulés et en poudre avec des puretés allant de ≥74 % à ≥94 % (anhydre). Toutes les formes sont disponibles pour l'achat en gros et l'exportation, répondant à divers besoins industriels."},{
+    "question":"Quelle est la pureté typique de vos produits de chlorure de calcium ?",
+    "answer":"Notre chlorure de calcium (CaCl₂) est disponible en diverses puretés, notamment ≥74 % (dihydraté) et ≥94 % (anhydre). Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
   },{
-    "question":"How is Calcium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Calcium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment le chlorure de calcium est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre chlorure de calcium est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Calcium Chloride?",
-    "answer":"Our industrial grade Calcium Chloride is widely used as a de-icing agent for roads, in oil and gas drilling fluids, for dust control on unpaved roads, as a food additive, and as a desiccant. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre chlorure de calcium de qualité industrielle ?",
+    "answer":"Notre chlorure de calcium de qualité industrielle est largement utilisé comme agent de déglaçage pour les routes, dans les fluides de forage pétrolier et gazier, pour le contrôle de la poussière sur les routes non pavées, comme additif alimentaire et comme déshydratant. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Calcium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour le chlorure de calcium ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Calcium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Calcium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes de chlorure de calcium en gros de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes de chlorure de calcium en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
 packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+category: "Composés de chlorure"
 featured: false
 ---
 
-## Calcium Chloride (CAS 10043-52-4): Your Trusted China Manufacturer & Supplier for High-Purity CaCl₂
+## Chlorure de calcium (CAS 10043-52-4) : Votre fabricant et fournisseur de confiance en Chine pour le CaCl₂ de haute pureté
 
-As a premier **China manufacturer and supplier** of **Calcium Chloride (CaCl₂)**, we offer **high-purity flakes, pellets, and powder** with **≥74% to ≥94% (anhydrous) purity** for **bulk purchase** and **export** worldwide. Our Calcium Chloride is produced to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, food, and environmental applications (HS Code: 2827200000).
+En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure de calcium (CaCl₂)**, nous proposons des **écailles, des granulés et de la poudre de haute pureté** avec une **pureté de ≥74 % à ≥94 % (anhydre)** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure de calcium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles, alimentaires et environnementales (Code SH : 2827200000).
 
-### Key Applications & Benefits:
+### Principales applications et avantages :
 
-1.  **De-icing Agent**: Widely used as an effective **de-icing agent** for roads, sidewalks, and parking lots, especially in cold climates. It lowers the freezing point of water, preventing ice formation and melting existing ice.
+1.  **Agent de déglaçage** : Largement utilisé comme un **agent de déglaçage** efficace pour les routes, les trottoirs et les parkings, en particulier dans les climats froids. Il abaisse le point de congélation de l'eau, empêchant la formation de glace et faisant fondre la glace existante.
 
-2.  **Oil and Gas Industry**: Essential in the **oil and gas industry** as a component in drilling fluids, completion fluids, and workover fluids. It helps to control formation pressures, stabilize boreholes, and prevent hydrate formation.
+2.  **Industrie du pétrole et du gaz** : Essentiel dans l'**industrie du pétrole et du gaz** en tant que composant des fluides de forage, des fluides de complétion et des fluides de reconditionnement. Il aide à contrôler les pressions de formation, à stabiliser les puits de forage et à prévenir la formation d'hydrates.
 
-3.  **Dust Control**: Effectively used for **dust control** on unpaved roads, construction sites, and mining operations. Its hygroscopic properties absorb moisture from the air, binding dust particles and preventing their release.
+3.  **Contrôle de la poussière** : Utilisé efficacement pour le **contrôle de la poussière** sur les routes non pavées, les chantiers de construction et les opérations minières. Ses propriétés hygroscopiques absorbent l'humidité de l'air, liant les particules de poussière et empêchant leur libération.
 
-4.  **Food Additive**: Food-grade Calcium Chloride is used as a **firming agent** in canned vegetables, a **coagulant** in cheesemaking, and an **electrolyte** in sports drinks. It is also used to prevent spoilage and maintain texture.
+4.  **Additif alimentaire** : Le chlorure de calcium de qualité alimentaire est utilisé comme **agent de raffermissement** dans les légumes en conserve, comme **coagulant** dans la fabrication du fromage et comme **électrolyte** dans les boissons sportives. Il est également utilisé pour prévenir la détérioration et maintenir la texture.
 
-5.  **Refrigeration Brines**: Utilized in **refrigeration systems** as a brine solution due to its low freezing point and high thermal capacity, making it an efficient heat transfer medium.
+5.  **Saumures de réfrigération** : Utilisé dans les **systèmes de réfrigération** comme solution de saumure en raison de son bas point de congélation et de sa capacité thermique élevée, ce qui en fait un milieu de transfert de chaleur efficace.
 
-6.  **Concrete Accelerator**: Acts as a **concrete accelerator**, speeding up the setting time of concrete and mortar, which is particularly useful in cold weather construction.
+6.  **Accélérateur de béton** : Agit comme un **accélérateur de béton**, accélérant le temps de prise du béton et du mortier, ce qui est particulièrement utile dans la construction par temps froid.
 
-7.  **Desiccant**: Functions as a powerful **desiccant (drying agent)** in various industrial processes and packaging to absorb moisture and prevent humidity-related damage.
+7.  **Déshydratant** : Fonctionne comme un puissant **déshydratant (agent de séchage)** dans divers processus industriels et emballages pour absorber l'humidité et prévenir les dommages liés à l'humidité.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Calcium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre chlorure de calcium, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 à 27 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Calcium Chloride manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que **fabricant et fournisseur de chlorure de calcium** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
