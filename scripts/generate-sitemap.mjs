@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const SITE_URL = 'https:
+const SITE_URL = 'https://www.sinopeakchem.com';
 
 async function generateSitemap() {
   const contentDir = path.resolve('src/content');
@@ -11,11 +11,14 @@ async function generateSitemap() {
     '/products',
     '/blog',
     '/about',
-    '/contact'
+    '/contact',
+    '/privacy-policy',
+    '/terms-of-service'
   ];
 
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http:
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">`;
 
   const today = new Date().toISOString().split('T')[0];
 
@@ -32,20 +35,16 @@ async function generateSitemap() {
   </url>`;
   };
 
-  
   pages.forEach(page => {
     const enLoc = `${SITE_URL}/en${page}`;
     const ruLoc = `${SITE_URL}/ru${page}`;
     const frLoc = `${SITE_URL}/fr${page}`;
-    
     
     addUrl(enLoc, 'weekly', page === '' ? '1.0' : '0.8', enLoc, ruLoc, frLoc);
     addUrl(ruLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
     addUrl(frLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
   });
 
-  
-  
   const blogSlugs = new Set();
   for (const locale of locales) {
     const blogDir = path.join(contentDir, locale, 'blog');
@@ -69,8 +68,6 @@ async function generateSitemap() {
     }
   }
 
-  
-  
   const productSlugs = new Set();
   for (const locale of locales) {
     const productDir = path.join(contentDir, locale, 'products');

@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://www.sinopeakchem.com/</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr" />
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.sinopeakchem.com/en</loc>
     <lastmod>2026-04-04</lastmod>
@@ -143,6 +135,60 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/contact" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/contact" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/contact" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/en/privacy-policy</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/privacy-policy" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/ru/privacy-policy</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/privacy-policy" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/fr/privacy-policy</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/privacy-policy" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/en/terms-of-service</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/terms-of-service" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/ru/terms-of-service</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/terms-of-service" />
+  </url>
+  <url>
+    <loc>https://www.sinopeakchem.com/fr/terms-of-service</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sinopeakchem.com/en/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.sinopeakchem.com/ru/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sinopeakchem.com/fr/terms-of-service" />
   </url>
   <url>
     <loc>https://www.sinopeakchem.com/en/blog/chemical-shipping-logistics-china-guide</loc>
