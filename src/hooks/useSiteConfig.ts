@@ -1,9 +1,9 @@
 import { useMemo } from 'react';
 import siteConfigData from '../content/site-config.json';
 
-export function useSiteConfig(locale: 'en' | 'ru') {
+export function useSiteConfig(locale: 'en' | 'ru' | 'fr') {
   const config = useMemo(() => {
-    return siteConfigData[locale] || siteConfigData.en;
+    return (siteConfigData as any)[locale] || siteConfigData.en;
   }, [locale]);
 
   return {

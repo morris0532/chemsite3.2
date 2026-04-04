@@ -5,7 +5,7 @@ const SITE_URL = 'https://www.sinopeakchem.com';
 
 async function generateSitemap() {
   const contentDir = path.resolve('src/content');
-  const locales = ['en', 'ru'];
+  const locales = ['en', 'ru', 'fr'];
   const pages = [
     '',
     '/products',
@@ -19,7 +19,7 @@ async function generateSitemap() {
 
   const today = new Date().toISOString().split('T')[0];
 
-  const addUrl = (loc, changefreq, priority, enLoc, ruLoc) => {
+  const addUrl = (loc, changefreq, priority, enLoc, ruLoc, frLoc) => {
     sitemap += `
   <url>
     <loc>${loc}</loc>
@@ -28,6 +28,7 @@ async function generateSitemap() {
     <priority>${priority}</priority>
     <xhtml:link rel="alternate" hreflang="en" href="${enLoc}" />
     <xhtml:link rel="alternate" hreflang="ru" href="${ruLoc}" />
+    <xhtml:link rel="alternate" hreflang="fr" href="${frLoc}" />
   </url>`;
   };
 
@@ -35,37 +36,61 @@ async function generateSitemap() {
   pages.forEach(page => {
     const enLoc = `${SITE_URL}/en${page}`;
     const ruLoc = `${SITE_URL}/ru${page}`;
-    addUrl(`${SITE_URL}/en${page}`, 'weekly', page === '' ? '1.0' : '0.8', enLoc, ruLoc);
-    if (page !== '') { // Avoid duplicate for homepage, as /en is already added
-      addUrl(`${SITE_URL}/ru${page}`, 'weekly', '0.8', enLoc, ruLoc);
-    }
+    const frLoc = `${SITE_URL}/fr${page}`;
+    
+    // 为每个语言添加 URL 条目
+    addUrl(enLoc, 'weekly', page === '' ? '1.0' : '0.8', enLoc, ruLoc, frLoc);
+    addUrl(ruLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
+    addUrl(frLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
   });
 
   // 2. 添加博客文章
+  // 先获取所有博客的 slug，确保 alternate 链接完整
+  const blogSlugs = new Set();
   for (const locale of locales) {
     const blogDir = path.join(contentDir, locale, 'blog');
     if (fs.existsSync(blogDir)) {
-      const files = fs.readdirSync(blogDir).filter(f => f.endsWith('.md'));
-      files.forEach(file => {
-        const slug = file.replace('.md', '');
-        const enLoc = `${SITE_URL}/en/blog/${slug}`;
-        const ruLoc = `${SITE_URL}/ru/blog/${slug}`;
-        addUrl(`${SITE_URL}/${locale}/blog/${slug}`, 'monthly', '0.6', enLoc, ruLoc);
-      });
+      fs.readdirSync(blogDir)
+        .filter(f => f.endsWith('.md'))
+        .forEach(f => blogSlugs.add(f.replace('.md', '')));
+    }
+  }
+
+  for (const slug of blogSlugs) {
+    const enLoc = `${SITE_URL}/en/blog/${slug}`;
+    const ruLoc = `${SITE_URL}/ru/blog/${slug}`;
+    const frLoc = `${SITE_URL}/fr/blog/${slug}`;
+    
+    for (const locale of locales) {
+      const blogFile = path.join(contentDir, locale, 'blog', `${slug}.md`);
+      if (fs.existsSync(blogFile)) {
+        addUrl(`${SITE_URL}/${locale}/blog/${slug}`, 'monthly', '0.6', enLoc, ruLoc, frLoc);
+      }
     }
   }
 
   // 3. 添加产品页面
+  // 先获取所有产品的 slug
+  const productSlugs = new Set();
   for (const locale of locales) {
     const productDir = path.join(contentDir, locale, 'products');
     if (fs.existsSync(productDir)) {
-      const files = fs.readdirSync(productDir).filter(f => f.endsWith('.md'));
-      files.forEach(file => {
-        const slug = file.replace('.md', '');
-        const enLoc = `${SITE_URL}/en/products/${slug}`;
-        const ruLoc = `${SITE_URL}/ru/products/${slug}`;
-        addUrl(`${SITE_URL}/${locale}/products/${slug}`, 'monthly', '0.7', enLoc, ruLoc);
-      });
+      fs.readdirSync(productDir)
+        .filter(f => f.endsWith('.md'))
+        .forEach(f => productSlugs.add(f.replace('.md', '')));
+    }
+  }
+
+  for (const slug of productSlugs) {
+    const enLoc = `${SITE_URL}/en/products/${slug}`;
+    const ruLoc = `${SITE_URL}/ru/products/${slug}`;
+    const frLoc = `${SITE_URL}/fr/products/${slug}`;
+    
+    for (const locale of locales) {
+      const productFile = path.join(contentDir, locale, 'products', `${slug}.md`);
+      if (fs.existsSync(productFile)) {
+        addUrl(`${SITE_URL}/${locale}/products/${slug}`, 'monthly', '0.7', enLoc, ruLoc, frLoc);
+      }
     }
   }
 

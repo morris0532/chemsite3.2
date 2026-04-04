@@ -13,10 +13,11 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
   const navigate = useNavigate();
   const location = useLocation();
   const isRu = location.pathname.startsWith('/ru');
-  const locale = isRu ? 'ru' : 'en';
-  const langPrefix = isRu ? '/ru' : '/en';
+  const isFr = location.pathname.startsWith('/fr');
+  const locale = isRu ? 'ru' : (isFr ? 'fr' : 'en');
+  const langPrefix = isRu ? '/ru' : (isFr ? '/fr' : '/en');
 
-  const { search } = useSearch(locale as 'en' | 'ru');
+  const { search } = useSearch(locale as 'en' | 'ru' | 'fr');
   const results = search(query);
 
   const handleResultClick = useCallback((result: any) => {
@@ -37,6 +38,38 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
 
   if (!isOpen) return null;
 
+  const content = isRu ? {
+    placeholder: "Поиск продуктов, статей...",
+    enterQuery: "Введите поисковый запрос",
+    noResults: "Результаты не найдены",
+    noResultsDesc: "Не нашли нужный CAS номер или продукт? Как ваш надежный партнер, мы можем помочь найти специфические химикаты через нашу сеть проверенных заводов.",
+    askWhatsApp: "Спросить в WhatsApp",
+    sendInquiry: "Отправить запрос",
+    product: "Продукт",
+    article: "Статья",
+    foundResults: (count: number) => `Найдено ${count} результатов`
+  } : (isFr ? {
+    placeholder: "Rechercher des produits, articles...",
+    enterQuery: "Entrez une requête de recherche",
+    noResults: "Aucun résultat trouvé",
+    noResultsDesc: "Vous ne trouvez pas le numéro CAS ou le produit dont vous avez besoin ? En tant que partenaire de confiance, nous pouvons vous aider à trouver des produits chimiques spécifiques via notre réseau d'usines vérifiées.",
+    askWhatsApp: "Demander sur WhatsApp",
+    sendInquiry: "Envoyer une demande",
+    product: "Produit",
+    article: "Article",
+    foundResults: (count: number) => `${count} résultats trouvés`
+  } : {
+    placeholder: "Search products, articles...",
+    enterQuery: "Enter a search query",
+    noResults: "No results found",
+    noResultsDesc: "Can't find the CAS number or product you need? As your trusted partner, we can help source specific chemicals through our network of verified factories.",
+    askWhatsApp: "Ask on WhatsApp",
+    sendInquiry: "Send Inquiry",
+    product: "Product",
+    article: "Article",
+    foundResults: (count: number) => `Found ${count} results`
+  });
+
   return (
     <>
       {/* Backdrop */}
@@ -54,7 +87,7 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
             <input
               autoFocus
               type="text"
-              placeholder={isRu ? "Поиск продуктов, статей..." : "Search products, articles..."}
+              placeholder={content.placeholder}
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={handleKeyDown}
@@ -72,18 +105,15 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
           <div className="max-h-96 overflow-y-auto">
             {query.trim() === '' ? (
               <div className="px-6 py-12 text-center text-gray-500">
-                {isRu ? "Введите поисковый запрос" : "Enter a search query"}
+                {content.enterQuery}
               </div>
             ) : results.length === 0 ? (
               <div className="px-6 py-12 text-center">
-
                 <h3 className="text-lg font-bold text-gray-900 mb-2">
-                  {isRu ? "Результаты не найдены" : "No results found"}
+                  {content.noResults}
                 </h3>
                 <p className="text-gray-500 mb-8 max-w-xs mx-auto">
-                  {isRu 
-                    ? "Не нашли нужный CAS номер или продукт? Как ваш надежный партнер, мы можем помочь найти специфические химикаты через нашу сеть проверенных заводов." 
-                    : "Can't find the CAS number or product you need? As your trusted partner, we can help source specific chemicals through our network of verified factories."}
+                  {content.noResultsDesc}
                 </p>
                 <div className="flex flex-col gap-3 max-w-xs mx-auto">
                   <a
@@ -93,16 +123,16 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
                     className="flex items-center justify-center gap-2 px-6 py-3 bg-[#25D366] text-white rounded-xl font-bold hover:bg-[#128C7E] transition-all shadow-lg shadow-green-200"
                   >
                     <MessageCircle className="w-5 h-5" />
-                    {isRu ? "Спросить в WhatsApp" : "Ask on WhatsApp"}
+                    {content.askWhatsApp}
                   </a>
                   <button
                     onClick={() => {
-                      navigate(isRu ? '/ru/contact' : '/en/contact');
+                      navigate(`${langPrefix}/contact`);
                       onClose();
                     }}
                     className="flex items-center justify-center gap-2 px-6 py-3 bg-gray-100 text-gray-700 rounded-xl font-bold hover:bg-gray-200 transition-all"
                   >
-                    {isRu ? "Отправить запрос" : "Send Inquiry"}
+                    {content.sendInquiry}
                     <ArrowRight className="w-4 h-4" />
                   </button>
                 </div>
@@ -133,7 +163,7 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
                           <BookOpen className="w-4 h-4 text-[#0066B3]" />
                         )}
                         <span className="text-xs font-bold text-[#0066B3] uppercase">
-                          {result.type === 'product' ? (isRu ? "Продукт" : "Product") : (isRu ? "Статья" : "Article")}
+                          {result.type === 'product' ? content.product : content.article}
                         </span>
                         {result.language !== locale && (
                           <span className="text-xs font-semibold text-gray-500 bg-gray-100 px-2 py-0.5 rounded">
@@ -160,7 +190,7 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
           {/* Footer */}
           {results.length > 0 && (
             <div className="px-6 py-3 bg-gray-50 border-t border-gray-200 text-xs text-gray-500">
-              {isRu ? `Найдено ${results.length} результатов` : `Found ${results.length} results`}
+              {content.foundResults(results.length)}
             </div>
           )}
         </div>

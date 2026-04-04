@@ -10,18 +10,19 @@ export interface SearchResult {
   category: string;
   image: string;
   cas?: string;
-  language: 'en' | 'ru';
+  language: 'en' | 'ru' | 'fr';
   score?: number;
 }
 
-export function useSearch(currentLocale: 'en' | 'ru') {
+export function useSearch(currentLocale: 'en' | 'ru' | 'fr') {
   const enContent = useMarkdownContent('en');
   const ruContent = useMarkdownContent('ru');
+  const frContent = useMarkdownContent('fr');
 
   const searchIndex = useMemo(() => {
-    // 合并英文和俄文的所有内容
+    // 合并英文、俄文和法文的所有内容
     const items: SearchResult[] = [
-      // 英文博客
+      // 英文内容
       ...enContent.posts.map((post: any) => ({
         type: 'post' as const,
         slug: post.slug,
@@ -31,17 +32,6 @@ export function useSearch(currentLocale: 'en' | 'ru') {
         image: post.image,
         language: 'en' as const,
       })),
-      // 俄文博客
-      ...ruContent.posts.map((post: any) => ({
-        type: 'post' as const,
-        slug: post.slug,
-        title: post.title,
-        description: post.excerpt,
-        category: post.category,
-        image: post.image,
-        language: 'ru' as const,
-      })),
-      // 英文产品
       ...enContent.products.map((product: any) => ({
         type: 'product' as const,
         slug: product.slug,
@@ -52,7 +42,16 @@ export function useSearch(currentLocale: 'en' | 'ru') {
         cas: product.cas,
         language: 'en' as const,
       })),
-      // 俄文产品
+      // 俄文内容
+      ...ruContent.posts.map((post: any) => ({
+        type: 'post' as const,
+        slug: post.slug,
+        title: post.title,
+        description: post.excerpt,
+        category: post.category,
+        image: post.image,
+        language: 'ru' as const,
+      })),
       ...ruContent.products.map((product: any) => ({
         type: 'product' as const,
         slug: product.slug,
@@ -62,6 +61,26 @@ export function useSearch(currentLocale: 'en' | 'ru') {
         image: product.image,
         cas: product.cas,
         language: 'ru' as const,
+      })),
+      // 法文内容
+      ...frContent.posts.map((post: any) => ({
+        type: 'post' as const,
+        slug: post.slug,
+        title: post.title,
+        description: post.excerpt,
+        category: post.category,
+        image: post.image,
+        language: 'fr' as const,
+      })),
+      ...frContent.products.map((product: any) => ({
+        type: 'product' as const,
+        slug: product.slug,
+        title: product.name,
+        description: product.shortDescription,
+        category: product.category,
+        image: product.image,
+        cas: product.cas,
+        language: 'fr' as const,
       })),
     ];
 
@@ -76,7 +95,7 @@ export function useSearch(currentLocale: 'en' | 'ru') {
       minMatchCharLength: 2,
       includeScore: true,
     });
-  }, [enContent, ruContent]);
+  }, [enContent, ruContent, frContent]);
 
   const search = (query: string): SearchResult[] => {
     if (!query.trim()) return [];
@@ -107,11 +126,11 @@ export function useSearch(currentLocale: 'en' | 'ru') {
     // 返回去重后的总数（同一内容的不同语言版本只计一次）
     const uniqueKeys = new Set<string>();
     
-    [...enContent.posts, ...ruContent.posts].forEach((post: any) => {
+    [...enContent.posts, ...ruContent.posts, ...frContent.posts].forEach((post: any) => {
       uniqueKeys.add(`post-${post.slug}`);
     });
     
-    [...enContent.products, ...ruContent.products].forEach((product: any) => {
+    [...enContent.products, ...ruContent.products, ...frContent.products].forEach((product: any) => {
       uniqueKeys.add(`product-${product.slug}`);
     });
 

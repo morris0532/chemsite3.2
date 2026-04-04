@@ -34,9 +34,16 @@ const jsonLdRu = {
   description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке.",
 };
 
+const jsonLdFr = {
+  ...jsonLdEn,
+  name: "Contacter Sinopeakchem",
+  description: "Contactez Sinopeakchem pour des demandes de produits chimiques, des tarifs et un support technique.",
+};
+
 export default function ContactPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
+  const isFr = location.pathname.startsWith("/fr");
   
   const [formData, setFormData] = useState({ name: "", email: "", company: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
@@ -112,6 +119,28 @@ export default function ContactPage() {
     messagePlaceholder: "Расскажите нам о ваших требованиях, интересующих продуктах, необходимом количестве...",
     sending: "Отправка...",
     sendButton: "Отправить сообщение",
+  } : (isFr ? {
+    title: "Contactez-nous - Obtenez un Devis pour des Produits Chimiques Industriels",
+    description: "Contactez Sinopeakchem pour des demandes de produits chimiques, des tarifs et un support technique. Joignez-nous par e-mail, WhatsApp ou via notre formulaire.",
+    heroTitle: "Contactez-nous",
+    heroDesc: "Prêt à vous approvisionner en produits chimiques de qualité ? Contactez notre équipe pour obtenir des tarifs et des informations techniques.",
+    getInTouch: "Entrer en Contact",
+    getInTouchDesc: "Nous sommes là pour vous aider. Contactez-nous via l'un des canaux suivants.",
+    email: "E-mail",
+    whatsapp: "WhatsApp",
+    address: "Adresse",
+    addressValue: "No. 182, Jinshui Road, Licang District, Qingdao, Province du Shandong, Chine",
+    sendMessage: "Envoyez-nous un Message",
+    sendMessageDesc: "Remplissez le formulaire ci-dessous et notre équipe vous répondra dans les 24 heures.",
+    successTitle: "Message Envoyé avec Succès !",
+    successDesc: "Merci de nous avoir contactés. Nous répondrons à votre demande dans les 24 heures.",
+    fullName: "Nom Complet *",
+    emailAddress: "Adresse E-mail *",
+    companyName: "Nom de l'Entreprise (Optionnel)",
+    message: "Message *",
+    messagePlaceholder: "Parlez-nous de vos besoins, des produits d'intérêt, de la quantité nécessaire...",
+    sending: "Envoi en cours...",
+    sendButton: "Envoyer le Message",
   } : {
     title: "Contact Us - Get a Quote for Industrial Chemicals",
     description: "Contact Sinopeakchem for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
@@ -134,13 +163,13 @@ export default function ContactPage() {
     messagePlaceholder: "Tell us about your requirements, products of interest, quantity needed...",
     sending: "Sending...",
     sendButton: "Send Message",
-  };
+  });
 
   return (
     <Layout
       title={content.title}
       description={content.description}
-      jsonLd={isRu ? jsonLdRu : jsonLdEn}
+      jsonLd={isRu ? jsonLdRu : (isFr ? jsonLdFr : jsonLdEn)}
     >
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
@@ -227,7 +256,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <Label htmlFor="company">{content.companyName}</Label>
-                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isRu ? "Название вашей компании" : "Your company name"} className="mt-1" />
+                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : "Your company name")} className="mt-1" />
                     </div>
                     <div>
                       <Label htmlFor="message">{content.message}</Label>

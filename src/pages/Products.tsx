@@ -8,11 +8,12 @@ import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 export default function ProductsPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
-  const langPrefix = isRu ? "/ru" : "/en";
+  const isFr = location.pathname.startsWith("/fr");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
   
-  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : 'en');
+  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : 'en'));
   const currentProducts = markdownProducts;
-  const defaultCategory = isRu ? "Все" : "All Products";
+  const defaultCategory = isRu ? "Все" : (isFr ? "Tous" : "All Products");
   const currentCategories = useMemo(() => {
     const categories = Array.from(new Set(currentProducts.map((p: any) => p.category)));
     return [defaultCategory, ...categories];
@@ -24,7 +25,7 @@ export default function ProductsPage() {
   // Reset category when language changes to avoid "No products found"
   useEffect(() => {
     setCategory(defaultCategory);
-  }, [isRu, defaultCategory]);
+  }, [isRu, isFr, defaultCategory]);
 
   const filtered = useMemo(() => {
     return currentProducts.filter((p) => {
@@ -36,8 +37,8 @@ export default function ProductsPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: isRu ? "Каталог промышленной химической продукции" : "Industrial Chemical Products",
-    description: isRu ? "Полный каталог промышленных химикатов от Sinopeakchem" : "Complete catalog of industrial chemicals from Sinopeakchem",
+    name: isRu ? "Каталог промышленной химической продукции" : (isFr ? "Catalogue de Produits Chimiques Industriels" : "Industrial Chemical Products"),
+    description: isRu ? "Полный каталог промышленных химикатов от Sinopeakchem" : (isFr ? "Catalogue complet des produits chimiques industriels de Sinopeakchem" : "Complete catalog of industrial chemicals from Sinopeakchem"),
     numberOfItems: currentProducts.length,
     itemListElement: currentProducts.map((p, i) => ({
       "@type": "ListItem",
@@ -61,6 +62,15 @@ export default function ProductsPage() {
     viewDetails: "Подробнее",
     noProducts: "Продукты, соответствующие вашим критериям, не найдены.",
     clearFilters: "Очистить фильтры",
+  } : (isFr ? {
+    title: "Catalogue de Produits Chimiques Industriels",
+    description: "Parcourez notre catalogue complet de plus de 22 produits chimiques industriels, notamment le thiosulfate de sodium, la soude caustique, l'acide oxalique, le chlorure de calcium, etc. Prix compétitifs avec expédition mondiale.",
+    heroTitle: "Nos Produits Chimiques",
+    heroDesc: "Explorez notre gamme complète de produits chimiques industriels de haute qualité. Tous les produits sont disponibles pour l'exportation mondiale avec une documentation complète.",
+    found: "produits trouvés",
+    viewDetails: "Voir les Détails",
+    noProducts: "Aucun produit trouvé correspondant à vos critères.",
+    clearFilters: "Effacer les Filtres",
   } : {
     title: "Industrial Chemical Products Catalog",
     description: "Browse our complete catalog of 22+ industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and more. Competitive pricing with global shipping.",
@@ -70,7 +80,7 @@ export default function ProductsPage() {
     viewDetails: "View Details",
     noProducts: "No products found matching your criteria.",
     clearFilters: "Clear Filters",
-  };
+  });
 
   return (
     <Layout
@@ -84,10 +94,10 @@ export default function ProductsPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : "Home"}
+              {isRu ? "Главная" : (isFr ? "Accueil" : "Home")}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
-            <span className="text-slate-900">{isRu ? "Продукты" : "Products"}</span>
+            <span className="text-slate-900">{isRu ? "Продукты" : (isFr ? "Produits" : "Products")}</span>
           </nav>
         </div>
       </div>
@@ -178,8 +188,8 @@ export default function ProductsPage() {
                       <h2 className="text-base font-semibold text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors">{product.name}</h2>
                       <p className="text-sm text-gray-600 line-clamp-1 mt-1">{product.shortDescription}</p>
                       <div className="flex gap-4 mt-2 text-xs text-gray-500">
-                        <span>{isRu ? "Порты" : "Ports"}: {product.ports}</span>
-                        <span>{isRu ? "Загрузка" : "Loading"}: {product.loading}</span>
+                        <span>{isRu ? "Порты" : (isFr ? "Ports" : "Ports")}: {product.ports}</span>
+                        <span>{isRu ? "Загрузка" : (isFr ? "Chargement" : "Loading")}: {product.loading}</span>
                       </div>
                     </div>
                   </Link>

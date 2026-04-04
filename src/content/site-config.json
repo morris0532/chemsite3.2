@@ -50,5 +50,31 @@
       "relatedProducts": "Похожие продукты",
       "recentArticles": "Последние статьи"
     }
+  },
+  "fr": {
+    "navigation": [
+      { "name": "Accueil", "link": "/fr" },
+      { "name": "Produits", "link": "/fr/products" },
+      { "name": "Blog", "link": "/fr/blog" },
+      { "name": "À propos", "link": "/fr/about" },
+      { "name": "Contact", "link": "/fr/contact" }
+    ],
+    "footer": {
+      "companyDesc": "Premier fournisseur de produits chimiques industriels de Chine, fournissant des produits chimiques de haute qualité aux marchés mondiaux depuis 2010.",
+      "contact": {
+        "email": "sales@sinopeakchem.com",
+        "phone": "+86-532-8581-1234",
+        "address": "Shandong, Chine"
+      },
+      "copyright": "© 2026 Sinopeakchem. Tous droits réservés."
+    },
+    "ui": {
+      "readMore": "Lire la suite",
+      "viewDetails": "Voir les détails",
+      "getQuote": "Obtenir un devis",
+      "backToBlog": "Retour au blog",
+      "relatedProducts": "Produits connexes",
+      "recentArticles": "Articles récents"
+    }
   }
 }

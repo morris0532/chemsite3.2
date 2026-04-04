@@ -24,8 +24,9 @@ export default function ProductDetailPage() {
   const { slug } = useParams<{ slug: string }>();
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
-  const locale = isRu ? "ru" : "en";
-  const langPrefix = isRu ? "/ru" : "/en";
+  const isFr = location.pathname.startsWith("/fr");
+  const locale = isRu ? "ru" : (isFr ? "fr" : "en");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
   
   const { products: markdownProducts } = useMarkdownContent(locale);
   const product = markdownProducts.find((p: any) => p.slug === slug);
@@ -46,11 +47,11 @@ export default function ProductDetailPage() {
 
   if (!product) {
     return (
-      <Layout title={isRu ? "Продукт не найден" : "Product Not Found"}>
+      <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : "Product Not Found")}>
         <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : "Product Not Found"}</h1>
-          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : "The product you are looking for does not exist."}</p>
-          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : "Browse All Products"}</Button></Link>
+          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : "Product Not Found")}</h1>
+          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : (isFr ? "Le produit que vous recherchez n'existe pas." : "The product you are looking for does not exist.")}</p>
+          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : (isFr ? "Tous les produits" : "Browse All Products")}</Button></Link>
         </div>
       </Layout>
     );
@@ -85,11 +86,11 @@ export default function ProductDetailPage() {
         }, 3000);
       } else {
         console.error('Failed to send request');
-        alert(isRu ? 'Ошибка при отправке запроса. Пожалуйста, попробуйте еще раз.' : 'Failed to send request. Please try again.');
+        alert(isRu ? 'Ошибка при отправке запроса. Пожалуйста, попробуйте еще раз.' : (isFr ? 'Échec de l\'envoi de la demande. Veuillez réessayer.' : 'Failed to send request. Please try again.'));
       }
     } catch (error) {
       console.error('Error submitting document request:', error);
-      alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : 'An error occurred. Please try again later.');
+      alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : (isFr ? 'Une erreur est survenue. Veuillez réessayer plus tard.' : 'An error occurred. Please try again later.'));
     }
   };
 
@@ -114,6 +115,25 @@ export default function ProductDetailPage() {
     trustQuality: "Гарантия качества",
     trustGlobal: "Глобальная логистика",
     trustSupport: "Техническая поддержка"
+  } : (isFr ? {
+    specifications: "Spécifications",
+    applications: "Applications",
+    faq: "FAQ",
+    relatedProducts: "Produits Connexes",
+    getQuote: "Obtenir un Devis",
+    techDocs: "Docs Techniques",
+    packaging: "Emballage",
+    loading: "Chargement",
+    overview: "Aperçu",
+    share: "Partager",
+    faqTitle: "FAQ",
+    faqDesc: "Trouvez des réponses aux questions courantes sur le produit",
+    relatedTitle: "Autres produits chimiques de haute qualité",
+    viewAll: "Voir tous les produits",
+    trustTitle: "Pourquoi nous choisir",
+    trustQuality: "Assurance Qualité",
+    trustGlobal: "Logistique Mondiale",
+    trustSupport: "Support Technique"
   } : {
     specifications: "Specifications",
     applications: "Applications",
@@ -133,7 +153,7 @@ export default function ProductDetailPage() {
     trustQuality: "Quality Assurance",
     trustGlobal: "Global Logistics",
     trustSupport: "Technical Support"
-  };
+  });
 
   return (
     <Layout 
@@ -148,11 +168,11 @@ export default function ProductDetailPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : "Home"}
+              {isRu ? "Главная" : (isFr ? "Accueil" : "Home")}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
-              {isRu ? "Продукты" : "Products"}
+              {isRu ? "Продукты" : (isFr ? "Produits" : "Products")}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <span className="text-slate-900 truncate max-w-[200px] md:max-w-none">{product.name}</span>
@@ -262,8 +282,6 @@ export default function ProductDetailPage() {
                       )}
                     </DialogContent>
                   </Dialog>
-                  
-
                 </div>
               </div>
             </div>
@@ -320,7 +338,7 @@ export default function ProductDetailPage() {
                       </div>
                       <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
                       <p className="text-sm text-slate-500 font-medium leading-relaxed">
-                        High-performance application in {app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.
+                        {isFr ? `Application haute performance dans les industries de ${app.toLowerCase()}, garantissant des résultats optimaux.` : `High-performance application in ${app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.`}
                       </p>
                     </div>
                   ))}
@@ -392,7 +410,7 @@ export default function ProductDetailPage() {
                     className="flex items-center justify-center w-full h-14 px-8 bg-[#25D366] hover:bg-[#1fb854] text-white rounded-2xl font-bold text-base shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 gap-2"
                   >
                     <MessageCircle className="w-5 h-5" />
-                    Chat on WhatsApp
+                    {isFr ? "Discuter sur WhatsApp" : "Chat on WhatsApp"}
                   </a>
                 </div>
               </div>
@@ -432,7 +450,7 @@ export default function ProductDetailPage() {
             <div className="flex items-end justify-between mb-16">
               <div>
                 <h2 className="text-[11px] font-black text-blue-400 uppercase tracking-[0.3em] mb-4">Discovery</h2>
-                <h3 className="text-4xl font-black text-white tracking-tight">{isRu ? "Похожие продукты" : "Related Products"}</h3>
+                <h3 className="text-4xl font-black text-white tracking-tight">{isRu ? "Похожие продукты" : (isFr ? "Produits Connexes" : "Related Products")}</h3>
               </div>
               <Link to={`${langPrefix}/products`} className="flex items-center gap-2 text-blue-400 font-black text-sm hover:gap-4 transition-all duration-300">
                 {content.viewAll} <ArrowRight className="w-5 h-5" />
