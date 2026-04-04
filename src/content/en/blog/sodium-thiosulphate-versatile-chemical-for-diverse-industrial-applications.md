@@ -4,7 +4,7 @@ slug: "sodium-thiosulphate-versatile-chemical-for-diverse-industrial-application
 title: "Sodium Thiosulphate: The Versatile Chemical for Diverse Industrial Applications"
 excerpt: "An in-depth look at the diverse applications of Sodium Thiosulphate, from water treatment and photography to mining and medicine. Learn why it is a crucial chemical for various industrial processes."
 date: "2026-03-21"
-author: "Manus AI"
+author: "Sinopeakchem"
 category: "Chemical Insights"
 tags: ["Sodium Thiosulphate","Dechlorination","Water Treatment","Chemical Supplier"]
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
