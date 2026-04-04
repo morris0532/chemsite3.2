@@ -1,6 +1,7 @@
 ---
 id: "14"
 name: "Натрий метабисульфит"
+nameCn: "焦亚硫酸钠"
 cas: "7681-57-4"
 hsCode: "2832100000"
 slug: "sodium-metabisulphite"

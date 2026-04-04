@@ -1,6 +1,7 @@
 ---
 id: "20"
 name: "Натрий гидросульфит"
+nameCn: "亚硫酸氢钠"
 cas: "7631-90-5"
 hsCode: "2832100000"
 slug: "sodium-bisulfite"

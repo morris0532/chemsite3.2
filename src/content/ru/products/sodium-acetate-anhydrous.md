@@ -1,6 +1,7 @@
 ---
 id: "17"
 name: "Ацетат натрия безводный"
+nameCn: "无水醋酸钠"
 cas: "127-09-3 / 6131-90-4"
 hsCode: "2915291000"
 slug: "sodium-acetate-anhydrous"

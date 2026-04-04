@@ -1,6 +1,7 @@
 ---
 id: "9"
 name: "Citric Acid Monohydrate"
+nameCn: "一水柠檬酸"
 cas: "5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-monohydrate"

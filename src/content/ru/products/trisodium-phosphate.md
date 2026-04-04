@@ -1,6 +1,7 @@
 ---
 id: "11"
 name: "Трисодиум фосфат"
+nameCn: "磷酸三钠"
 cas: "7601-54-9"
 hsCode: "2835291000"
 slug: "trisodium-phosphate"

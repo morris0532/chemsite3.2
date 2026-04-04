@@ -1,6 +1,7 @@
 ---
 id: "8"
 name: "Лимонная кислота безводная"
+nameCn: "无水柠檬酸"
 cas: "77-92-9 / 5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-anhydrous"

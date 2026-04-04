@@ -1,6 +1,7 @@
 ---
 id: "3"
 name: "Oxalic Acid"
+nameCn: "草酸"
 cas: "144-62-7 / 6153-56-6"
 hsCode: "2917111000"
 slug: "oxalic-acid"

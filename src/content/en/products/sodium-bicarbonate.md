@@ -1,6 +1,7 @@
 ---
 id: "16"
 name: "Sodium Bicarbonate (Baking Soda)"
+nameCn: "小苏打"
 cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"

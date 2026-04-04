@@ -1,6 +1,7 @@
 ---
 id: "21"
 name: "Бура"
+nameCn: "硼砂"
 cas: "1303-96-4"
 hsCode: "2840190000"
 slug: "borax"
