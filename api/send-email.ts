@@ -40,7 +40,7 @@ export default async function handler(req: any, res: any) {
 
       // 1. Send to Customer
       await resend.emails.send({
-        from: 'Sinopeakchem <contact@sinopeakchem.com>',
+        from: 'Sinopeakchem <info@sinopeakchem.com>',
         to: email,
         subject: `Technical Documents for ${product}`,
         html: `
@@ -67,7 +67,7 @@ export default async function handler(req: any, res: any) {
 
       // 2. Notify Admin
       const data = await resend.emails.send({
-        from: 'Sinopeakchem System <contact@sinopeakchem.com>',
+        from: 'Sinopeakchem System <info@sinopeakchem.com>',
         to: 'info@sinopeakchem.com',
         subject: `${missingDocs.length > 0 ? '[URGENT - DOC MISSING] ' : '[Lead] '}Document Request: ${product} from ${name || email}`,
         html: `
@@ -91,7 +91,7 @@ export default async function handler(req: any, res: any) {
 
     // Default Contact Form Logic
     const data = await resend.emails.send({
-      from: 'Sinopeakchem Contact Form <contact@sinopeakchem.com>',
+      from: 'Sinopeakchem Contact Form <info@sinopeakchem.com>',
       to: 'info@sinopeakchem.com',
       subject: `New Inquiry: ${subject || 'General Inquiry'} from ${name}`,
       reply_to: email,
