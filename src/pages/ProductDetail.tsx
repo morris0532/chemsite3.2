@@ -67,7 +67,7 @@ export default function ProductDetailPage() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          name: docEmail.split('@')[0], // 临时从邮箱获取名称
+          name: docEmail.split('@')[0], // Temporary name from email
           email: docEmail,
           company: docCompany,
           type: 'doc_request',
