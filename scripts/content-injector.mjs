@@ -57,22 +57,32 @@ routes.forEach(route => {
       title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
       description = siteConfig[locale]?.footer?.companyDesc || '';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = 'about, company, chemical supplier, China';
+      keywords = locale === 'ru' ? 'о нас, компания, поставщик химикатов, Китай' : (locale === 'fr' ? 'à propos, entreprise, fournisseur de produits chimiques, Chine' : 'about, company, chemical supplier, China');
     } else if (page === 'contact') {
       title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = 'contact, inquiry, sales, chemical products';
+      keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
     } else if (page === 'products') {
       title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
       description = 'Browse our wide range of high-quality industrial chemicals.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = 'products, chemicals, industrial chemicals, catalog';
+      keywords = locale === 'ru' ? 'продукты, химикаты, промышленная химия, каталог' : (locale === 'fr' ? 'produits, produits chimiques, chimie industrielle, catalogue' : 'products, chemicals, industrial chemicals, catalog');
     } else if (page === 'blog') {
       title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
       description = 'Latest industry insights and product guides from Sinopeakchem.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = 'blog, industry news, chemical guides, technical articles';
+      keywords = locale === 'ru' ? 'блог, новости отрасли, химические руководства, технические статьи' : (locale === 'fr' ? 'blog, actualités de l\'industrie, guides de produits chimiques, articles techniques' : 'blog, industry news, chemical guides, technical articles');
+    } else if (page === 'privacy-policy') {
+      title = locale === 'ru' ? 'Политика конфиденциальности' : (locale === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy');
+      description = 'Privacy policy and data protection at Sinopeakchem.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = locale === 'ru' ? 'конфиденциальность, защита данных, политика' : (locale === 'fr' ? 'confidentialité, protection des données, politique' : 'privacy, data protection, policy');
+    } else if (page === 'terms-of-service') {
+      title = locale === 'ru' ? 'Условия использования' : (locale === 'fr' ? 'Conditions d\'utilisation' : 'Terms of Service');
+      description = 'Terms of service and usage guidelines for Sinopeakchem website.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      keywords = locale === 'ru' ? 'условия использования, правила, соглашение' : (locale === 'fr' ? 'conditions d\'utilisation, règles, accord' : 'terms of service, rules, agreement');
     }
   }
   // 3. 处理首页
@@ -80,7 +90,7 @@ routes.forEach(route => {
     title = locale === 'ru' ? 'Главная' : (locale === 'fr' ? 'Accueil' : 'Home');
     description = siteConfig[locale]?.footer?.companyDesc || '';
     contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-    keywords = 'chemical supplier, China, industrial chemicals, B2B';
+    keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
   }
 
   if (contentHtml || title || description || keywords) {
