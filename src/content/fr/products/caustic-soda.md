@@ -1,76 +1,77 @@
 ---
 id: "2"
-name: "Soude Caustique"
+name: "Caustic Soda"
 nameCn: "片碱"
 cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"
-shortDescription: "Soude caustique (hydroxyde de sodium) en écailles et en perles de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Fabricant leader pour les applications industrielles, notamment le papier, le textile et le traitement de l'eau. Pureté de 99 % disponible."
+shortDescription: "High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk purchase and export from China. Leading manufacturer for industrial applications including paper, textile, and water treatment. 99% purity available."
 image: "/images/products/caustic-soda-1310-73-2.jpg"
 specs: [
-  {"label":"Formule chimique","value":"NaOH"},
-  {"label":"Numéro CAS","value":"1310-73-2"},
-  {"label":"Code SH","value":"2815110000"},
-  {"label":"Pureté","value":"≥96% / ≥99% (Écailles/Perles)"},
-  {"label":"Apparence","value":"Écailles ou perles blanches"},
-  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE / Big bags. Emballage personnalisé disponible pour les commandes en gros."},
-  {"label":"Chargement","value":"25-27MT par conteneur 20GP (FCL)"},
-  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
+  {"label":"Chemical Formula","value":"NaOH"},
+  {"label":"CAS Number","value":"1310-73-2"},
+  {"label":"HS Code","value":"2815110000"},
+  {"label":"Purity","value":"≥96% / ≥99% (Flakes/Pearls)"},
+  {"label":"Appearance","value":"White flakes or pearls"},
+  {"label":"Packaging","value":"25KG PP woven bags with PE liner / Jumbo bags. Custom packaging available for bulk orders."},
+  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
+  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
 ]
 applications: [
-  "Industrie du papier et de la pâte (pâte, blanchiment)",
-  "Industrie textile (mercerisage, teinture)",
-  "Traitement de l'eau (ajustement du pH, élimination des métaux lourds)",
-  "Fabrication de savon et de détergent",
-  "Production d'alumine",
-  "Raffinage du pétrole",
-  "Production d'intermédiaires chimiques"
+  "Paper and pulp industry (pulping, bleaching)",
+  "Textile industry (mercerizing, dyeing)",
+  "Water treatment (pH adjustment, heavy metal removal)",
+  "Soap and detergent manufacturing",
+  "Alumina production",
+  "Petroleum refining",
+  "Chemical intermediates production"
 ]
 faqs: [
-  {"question":"Quelles formes de soude caustique fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine de soude caustique, proposant des écailles et des perles (micro-perles) de haute pureté avec une pureté ≥99 %. Les deux formes sont idéales pour diverses applications industrielles et disponibles pour l'achat en gros et l'exportation."},{
-    "question":"Quelle est la pureté typique de vos produits de soude caustique ?",
-    "answer":"Notre soude caustique (hydroxyde de sodium) est disponible en qualités de pureté de 96 % et 99 %. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications industrielles."
+  {"question":"What forms of Caustic Soda do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Caustic Soda, offering both high-purity flakes and pearls (micro-pearls) with ≥99% purity. Both forms are ideal for various industrial applications and available for bulk purchase and export."},{
+    "question":"What is the typical purity of your Caustic Soda products?",
+    "answer":"Our Caustic Soda (Sodium Hydroxide) is available in both 96% and 99% purity grades. We ensure strict quality control to meet international standards for all industrial applications."
   },{
-    "question":"Comment la soude caustique est-elle emballée pour l'expédition internationale depuis la Chine ?",
-    "answer":"Pour l'exportation, notre soude caustique est généralement emballée dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour résister aux rigueurs du transport international et protéger contre l'humidité. Des solutions d'emballage personnalisées peuvent être organisées pour les commandes de gros volumes."
+    "question":"How is Caustic Soda packaged for international shipping from China?",
+    "answer":"For export, our Caustic Soda is typically packaged in 25KG PP woven bags with inner PE liners, designed to withstand the rigors of international transport and protect against moisture. Custom packaging solutions can be arranged for large volume orders."
   },{
-    "question":"Quelles sont les principales applications de votre soude caustique de qualité industrielle ?",
-    "answer":"Notre soude caustique de qualité industrielle est largement utilisée dans l'industrie du papier et de la pâte, le mercerisage textile, le traitement de l'eau pour l'ajustement du pH, la fabrication de savon et de détergent, la production d'alumine et le raffinage du pétrole. Sa polyvalence en fait un intermédiaire chimique clé."
+    "question":"What are the main applications of your industrial grade Caustic Soda?",
+    "answer":"Our industrial grade Caustic Soda is widely used in the paper and pulp industry, textile mercerizing, water treatment for pH adjustment, soap and detergent manufacturing, alumina production, and petroleum refining. Its versatility makes it a key chemical intermediate."
   },{
-    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour la soude caustique ?",
-    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
+    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Caustic Soda?",
+    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
-    "question":"Quel est le délai de livraison pour les commandes de soude caustique en gros de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes de soude caustique en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
+    "question":"What is the lead time for bulk Caustic Soda orders from your factory?",
+    "answer":"Standard lead time for bulk Caustic Soda orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25-27MT/20GP"
-packaging: "25KG/Big bags"
-category: "Produits alcalins"
+packaging: "25KG/Jumbo bags"
+category: "Alkali Products"
 featured: true
 ---
 
-## Soude Caustique (CAS 1310-73-2) : Votre fabricant et fournisseur de confiance en Chine pour l'hydroxyde de sodium de haute pureté
+## Caustic Soda (CAS 1310-73-2): Your Trusted China Manufacturer & Supplier for High-Purity Sodium Hydroxide
 
-En tant que **fabricant et fournisseur leader en Chine** de **soude caustique (NaOH)**, également connue sous le nom d'**hydroxyde de sodium**, nous fournissons des **écailles et des perles de haute pureté** avec une **pureté ≥99 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre soude caustique est produite à l'aide d'une technologie de cellule à membrane avancée, garantissant une qualité constante qui répond aux applications industrielles les plus exigeantes (Code SH : 2815110000).
+As a leading **China manufacturer and supplier** of **Caustic Soda (NaOH)**, also known as **Sodium Hydroxide**, we provide **high-purity flakes and pearls** with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Caustic Soda is produced using advanced membrane cell technology, ensuring consistent quality that meets the most demanding industrial applications (HS Code: 2815110000).
 
-### Principales applications et avantages :
+### Key Applications & Benefits:
 
-1.  **Industrie du papier et de la pâte** : Indispensable dans l'**industrie du papier et de la pâte** pour la mise en pâte du bois, le blanchiment du papier et le désencrage du papier recyclé. Elle joue un rôle crucial dans la décomposition de la lignine et la purification des fibres de cellulose.
+1.  **Paper and Pulp Industry**: Indispensable in the **paper and pulp industry** for pulping wood, bleaching paper, and de-inking recycled paper. It plays a crucial role in breaking down lignin and purifying cellulose fibers.
 
-2.  **Industrie textile** : Largement utilisée dans l'**industrie textile** pour le mercerisage du coton, ce qui améliore sa résistance, son éclat et son absorption de teinture. Elle est également vitale dans divers processus de teinture et de finition.
+2.  **Textile Industry**: Widely used in the **textile industry** for mercerizing cotton, which enhances its strength, luster, and dye uptake. It's also vital in various dyeing and finishing processes.
 
-3.  **Traitement de l'eau** : Un produit chimique essentiel dans le **traitement de l'eau** pour l'ajustement du pH, la neutralisation des flux de déchets acides et l'élimination des métaux lourds. Ses fortes propriétés alcalines la rendent très efficace dans la purification de l'eau industrielle et municipale.
+3.  **Water Treatment**: An essential chemical in **water treatment** for pH adjustment, neutralization of acidic waste streams, and removal of heavy metals. Its strong alkaline properties make it highly effective in industrial and municipal water purification.
 
-4.  **Fabrication de savon et de détergent** : Une matière première primaire dans la production de **savons et détergents** par la saponification des graisses et des huiles, créant des agents de nettoyage pour un usage industriel et domestique.
+4.  **Soap and Detergent Manufacturing**: A primary raw material in the production of **soaps and detergents** through the saponification of fats and oils, creating cleaning agents for both industrial and household use.
 
-5.  **Production d'alumine** : Utilisée de manière critique dans le procédé Bayer pour l'extraction de l'**alumine** à partir du minerai de bauxite, une étape fondamentale de la production d'aluminium.
+5.  **Alumina Production**: Critically used in the Bayer process for the extraction of **alumina** from bauxite ore, a fundamental step in aluminum production.
 
-6.  **Raffinage du pétrole et intermédiaires chimiques** : Employée dans le **raffinage du pétrole** pour éliminer les impuretés et dans la synthèse de nombreux **intermédiaires chimiques**, notamment les produits pharmaceutiques, les plastiques et d'autres composés organiques.
+6.  **Petroleum Refining & Chemical Intermediates**: Employed in **petroleum refining** to remove impurities and in the synthesis of numerous **chemical intermediates**, including pharmaceuticals, plastics, and other organic compounds.
 
-### Emballage, logistique et assurance qualité :
+### Packaging, Logistics & Quality Assurance:
 
-Nous proposons des **solutions d'emballage** flexibles pour notre soude caustique, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour un transport international sûr. Pour les **commandes en gros**, nous assurons un **chargement** efficace de 25 à 27 tonnes métriques par conteneur 20GP (FCL). Nous fournissons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
+We offer flexible **packaging solutions** for our Caustic Soda, including robust 25KG PP woven bags with PE inner liners, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We provide reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que **fabricant et fournisseur de soude caustique** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Caustic Soda manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+

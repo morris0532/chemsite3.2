@@ -1,31 +1,31 @@
 ---
 id: "12"
-name: "Sulfate d'ammonium"
+name: "Ammonium Sulphate"
 nameCn: "硫酸铵"
 cas: "7783-20-2"
 hsCode: "3102210000"
 slug: "ammonium-sulphate"
-shortDescription: "Engrais au sulfate d'ammonium de qualité agricole et industrielle et intermédiaire chimique."
+shortDescription: "Agricultural and industrial grade ammonium sulphate fertilizer and chemical intermediate."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
-specs: [{"label":"Formule chimique","value":"(NH₄)₂SO₄"},{"label":"Numéro CAS","value":"7783-20-2"},{"label":"Code SH","value":"3102210000"},{"label":"Teneur en azote","value":"≥21%"},{"label":"Apparence","value":"Poudre cristalline blanche/granulaire"},{"label":"Emballage","value":"Sacs de 25/50KG / Big bags"},{"label":"Chargement","value":"27MT par conteneur 20GP"},{"label":"Ports disponibles","value":"Tianjin / Qingdao"}]
-applications: ["Engrais agricole","Additif ignifuge","Traitement de l'eau","Additif alimentaire (nutriment pour levure)","Industrie textile","Fabrication pharmaceutique"]
-faqs: [{"question":"Quelle est la quantité minimale de commande ?","answer":"Nous recommandons un conteneur complet de 20 pieds (27 tonnes) pour obtenir les meilleurs tarifs et économies d'expédition."},{"question":"Quelles qualités sont disponibles ?","answer":"Nous proposons du sulfate d'ammonium de qualité agricole (qualité caprolactame, qualité acier) et de qualité industrielle, chacun adapté à différentes applications."},{"question":"Le sulfate d'ammonium est-il un bon engrais ?","answer":"Oui, il fournit à la fois de l'azote (21 %) et du soufre (24 %), ce qui le rend excellent pour les sols déficients en soufre et les cultures nécessitant une nutrition soufrée."}]
+specs: [{"label":"Chemical Formula","value":"(NH₄)₂SO₄"},{"label":"CAS Number","value":"7783-20-2"},{"label":"HS Code","value":"3102210000"},{"label":"Nitrogen Content","value":"≥21%"},{"label":"Appearance","value":"White crystalline powder/granular"},{"label":"Packaging","value":"25/50KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Tianjin / Qingdao"}]
+applications: ["Agricultural fertilizer","Flame retardant additive","Water treatment","Food additive (yeast nutrient)","Textile industry","Pharmaceutical manufacturing"]
+faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (27MT) for the best pricing and shipping economics."},{"question":"What grades are available?","answer":"We offer agricultural grade (caprolactam grade, steel grade) and industrial grade ammonium sulphate, each suited for different applications."},{"question":"Is ammonium sulphate a good fertilizer?","answer":"Yes, it provides both nitrogen (21%) and sulfur (24%) nutrients, making it excellent for sulfur-deficient soils and crops that require sulfur nutrition."}]
 ports: "Tianjin / Qingdao"
 loading: "27MT/20GP"
-packaging: "25/50KG/Big bags"
-category: "Composés de sulfate"
+packaging: "25/50KG/Jumbo bags"
+category: "Sulfate Compounds"
 ---
 
-Le sulfate d'ammonium ((NH₄)₂SO₄) est un sel inorganique de haute performance largement reconnu pour sa teneur exceptionnelle en azote et en soufre. C'est un ingrédient essentiel dans la production d'engrais, de produits chimiques industriels et de divers autres produits. Notre sulfate d'ammonium est fabriqué selon des normes élevées de pureté et de cohérence, garantissant des performances optimales dans les applications agricoles et industrielles.
+Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
 
-Dans l'**industrie agricole**, le sulfate d'ammonium est un « engrais azote-soufre » primaire. Il fournit une source d'azote (21 %) et de soufre (24 %) facilement disponible pour les cultures, favorisant une croissance saine et augmentant les rendements. Sa teneur élevée en soufre le rend particulièrement efficace pour les sols déficients en soufre et pour les cultures qui nécessitent des niveaux élevés de soufre, comme les oléagineux, les légumineuses et les légumes. Sa nature acide aide également à abaisser le pH des sols alcalins, améliorant ainsi la disponibilité d'autres nutriments.
+In the **agricultural industry**, Ammonium Sulphate is a primary "nitrogen-sulfur fertilizer." It provides a readily available source of nitrogen (21%) and sulfur (24%) to crops, promoting healthy growth and increasing yields. Its high sulfur content makes it particularly effective for sulfur-deficient soils and for crops that require high levels of sulfur, such as oilseeds, legumes, and vegetables. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
 
-Le **secteur industriel** utilise le sulfate d'ammonium comme intermédiaire chimique polyvalent. Il est utilisé dans la production de divers autres sels d'ammonium, tels que le persulfate d'ammonium et le chlorure d'ammonium. Il est également employé dans l'**industrie textile** comme ignifuge et dans l'**industrie des pâtes et papiers** comme auxiliaire de blanchiment. Dans le **traitement de l'eau**, il est utilisé comme source de nutriments pour les processus de traitement biologique et comme composant dans diverses formulations de traitement de l'eau.
+The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the production of various other ammonium salts, such as ammonium persulfate and ammonium chloride. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
 
-Dans la **transformation alimentaire**, le sulfate d'ammonium de qualité alimentaire est utilisé comme **conditionneur de pâte** et **nutriment pour levure** dans l'industrie de la boulangerie. Il aide à améliorer la texture et le volume du pain et d'autres produits de boulangerie. Il agit également comme **régulateur de pH** et **stabilisant** dans divers aliments transformés.
+In **food processing**, food-grade Ammonium Sulphate is used as a **dough conditioner** and **yeast nutrient** in the baking industry. It helps to improve the texture and volume of bread and other baked goods. It also acts as a **pH regulator** and **stabilizer** in various processed foods.
 
-L'**industrie pharmaceutique** emploie le sulfate d'ammonium comme **agent précipitant** pour les protéines et comme composant dans divers médicaments. Il est également utilisé en **biotechnologie** pour la purification d'enzymes et d'autres molécules biologiques.
+The **pharmaceutical industry** employs Ammonium Sulphate as a **precipitating agent** for proteins and as a component in various medications. It is also used in **biotechnology** for the purification of enzymes and other biological molecules.
 
-De plus, le sulfate d'ammonium trouve des applications en **métallurgie** pour l'affinage de divers métaux et dans la **construction** comme retardateur de béton pour ralentir le temps de prise du béton. Sa grande solubilité et sa nature stable en font un choix idéal pour de nombreuses applications.
+Furthermore, Ammonium Sulphate finds applications in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
 
-Notre sulfate d'ammonium est disponible en plusieurs qualités, notamment la qualité agricole (qualité caprolactame, qualité acier) et la qualité industrielle, pour répondre aux exigences spécifiques des applications. Nous proposons des emballages de haute qualité en sacs de 25 kg, 50 kg et 1000 kg (big bags), garantissant l'intégrité du produit pendant le transport international. Grâce à une logistique fiable depuis les principaux ports chinois comme Tianjin, Qingdao et Lianyungang, nous offrons un approvisionnement constant et rentable en sulfate d'ammonium à nos partenaires mondiaux.
+Our Ammonium Sulphate is available in various grades, including agricultural grade (caprolactam grade, steel grade) and industrial grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Ammonium Sulphate to our global partners.
