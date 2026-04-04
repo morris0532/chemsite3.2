@@ -1,52 +1,51 @@
 ---
 id: "7"
-name: "Soda Ash (Sodium Carbonate)"
+name: "Carbonate de sodium (Soude)"
 nameCn: "纯碱"
 cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"
-shortDescription: "High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and export from China. Essential for glass, detergent, and chemical manufacturing. Trusted supplier with competitive pricing."
+shortDescription: "Carbonate de sodium (soude) léger et dense de haute qualité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication du verre, des détergents et des produits chimiques. Fournisseur de confiance avec des prix compétitifs."
 image: "/images/products/soda-ash-497-19-8.jpg"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂CO₃"},
-  {"label":"CAS Number","value":"497-19-8"},
-  {"label":"HS Code","value":"2836200000"},
-  {"label":"Purity","value":"≥99.2% (Light/Dense)"},
-  {"label":"Appearance","value":"White powder (dense/light)"},
-  {"label":"Packaging","value":"40KG bags / Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"Na₂CO₃"},
+  {"label":"Numéro CAS","value":"497-19-8"},
+  {"label":"Code SH","value":"2836200000"},
+  {"label":"Pureté","value":"≥99,2 % (Léger/Dense)"},
+  {"label":"Apparence","value":"Poudre blanche (dense/légère)"},
+  {"label":"Emballage","value":"Sacs de 40 kg / Sacs Jumbo. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"27-28MT/20GP (dense) / 22-23MT/20GP (light)"},
-  {"label":"Available Ports","value":"Lianyungang / Qingdao / Tianjin"}
+  {"label":"Chargement","value":"27-28 MT/20GP (dense) / 22-23 MT/20GP (léger)"},
+  {"label":"Ports disponibles","value":"Lianyungang / Qingdao / Tianjin"}
 ]
-applications: ["Glass and flat glass manufacturing","Detergent and soap production","Water treatment","Metallurgy and smelting","Paper manufacturing","Chemical synthesis"]
+applications: ["Fabrication de verre et de verre plat","Production de détergents et de savons","Traitement de l'eau","Métallurgie et fusion","Fabrication de papier","Synthèse chimique"]
 faqs: [
-  {"question":"What is the difference between dense and light soda ash?","answer":"Dense soda ash has a higher bulk density (approximately 1000 kg/m³) and is preferred for glass manufacturing. Light soda ash has a lower bulk density (approximately 500 kg/m³) and is commonly used in detergent production and chemical synthesis."},{"question":"What is the minimum order quantity for bulk buy?","answer":"We recommend a full 20-foot container for best pricing. As a leading China supplier, we can load 27-28MT of dense soda ash or 22-23MT of light soda ash per 20GP."},{"question":"Which Chinese ports do you export Soda Ash from?","answer":"We primarily ship from Lianyungang and Qingdao ports, both offering excellent connectivity to global destinations for your bulk orders."},{"question":"Can you provide samples before I place a wholesale order?","answer":"Yes, as a trusted manufacturer, we can provide samples for quality testing. Please contact our sales team with your requirements and shipping address."}
+  {"question":"Quelle est la différence entre le carbonate de sodium dense et léger ?","answer":"Le carbonate de sodium dense a une densité apparente plus élevée (environ 1000 kg/m³) et est préféré pour la fabrication du verre. Le carbonate de sodium léger a une densité apparente plus faible (environ 500 kg/m³) et est couramment utilisé dans la production de détergents et la synthèse chimique."},{"question":"Quelle est la quantité minimale de commande pour un achat en gros ?","answer":"Nous recommandons un conteneur complet de 20 pieds pour obtenir les meilleurs prix. En tant que fournisseur leader en Chine, nous pouvons charger 27 à 28 MT de carbonate de sodium dense ou 22 à 23 MT de carbonate de sodium léger par 20GP."},{"question":"Depuis quels ports chinois exportez-vous le carbonate de sodium ?","answer":"Nous expédions principalement depuis les ports de Lianyungang et de Qingdao, qui offrent tous deux une excellente connectivité vers les destinations mondiales pour vos commandes en gros."},{"question":"Pouvez-vous fournir des échantillons avant que je ne passe une commande en gros ?","answer":"Oui, en tant que fabricant de confiance, nous pouvons fournir des échantillons pour des tests de qualité. Veuillez contacter notre équipe commerciale avec vos besoins et votre adresse de livraison."}
 ]
 ports: "Lianyungang / Qingdao"
 loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
 packaging: "40KG/Jumbo bags"
-category: "Alkali Products"
+category: "Produits alcalins"
 ---
 
-## Soda Ash (CAS 497-19-8): Your Premier China Supplier for Light & Dense Sodium Carbonate
+## Carbonate de sodium (CAS 497-19-8) : Votre premier fournisseur en Chine pour le carbonate de sodium léger et dense
 
-As a leading **China supplier and manufacturer** of **Soda Ash (Na₂CO₃)**, also known as **Sodium Carbonate**, we offer both **Light Soda Ash** and **Dense Soda Ash** with **≥99.2% purity** for **bulk purchase** and **export** worldwide. Our Soda Ash is produced using advanced processes, ensuring consistent quality that meets the diverse needs of various industrial applications (HS Code: 2836200000).
+En tant que **fournisseur et fabricant leader en Chine** de **carbonate de sodium (Na₂CO₃)**, également connu sous le nom de **soude**, nous proposons du **carbonate de sodium léger** et du **carbonate de sodium dense** avec une **pureté ≥99,2 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre carbonate de sodium est produit à l'aide de processus avancés, garantissant une qualité constante qui répond aux divers besoins de diverses applications industrielles (Code SH : 2836200000).
 
-### Key Applications & Benefits:
+### Principales applications et avantages :
 
-1.  **Glass Manufacturing**: Soda Ash is a fundamental raw material in the **glass manufacturing industry**, used in the production of flat glass, container glass, and fiberglass. It acts as a flux, lowering the melting point of silica and reducing energy consumption.
+1.  **Fabrication du verre** : Le carbonate de sodium est une matière première fondamentale dans l'**industrie de la fabrication du verre**, utilisée dans la production de verre plat, de verre creux et de fibre de verre. Il agit comme un fondant, abaissant le point de fusion de la silice et réduisant la consommation d'énergie.
 
-2.  **Detergent and Soap Production**: A crucial ingredient in the formulation of **detergents and soaps**, where it acts as a builder, enhancing cleaning efficiency by softening water and emulsifying grease.
+2.  **Production de détergents et de savons** : Un ingrédient crucial dans la formulation des **détergents et des savons**, où il agit comme un adjuvant, améliorant l'efficacité du nettoyage en adoucissant l'eau et en émulsionnant les graisses.
 
-3.  **Chemical Manufacturing**: Widely used in the production of other essential chemicals, including **sodium silicates, sodium bicarbonate (baking soda)**, and various dyes and pigments. It serves as a versatile alkali source in numerous chemical reactions.
+3.  **Fabrication de produits chimiques** : Largement utilisé dans la production d'autres produits chimiques essentiels, notamment les **silicates de sodium, le bicarbonate de sodium (bicarbonate de soude)** et divers colorants et pigments. Il sert de source d'alcali polyvalente dans de nombreuses réactions chimiques.
 
-4.  **Water Treatment**: Employed in **water treatment** processes for pH adjustment, water softening by precipitating calcium and magnesium ions, and as a component in flocculation.
+4.  **Traitement de l'eau** : Employé dans les processus de **traitement de l'eau** pour l'ajustement du pH, l'adoucissement de l'eau par précipitation des ions calcium et magnésium, et comme composant dans la floculation.
 
-5.  **Metallurgy**: In the **metallurgical industry**, Soda Ash is used as a flux in smelting processes and as a desulfurizer in iron and steel production, helping to remove impurities.
+5.  **Métallurgie** : Dans l'**industrie métallurgique**, le carbonate de sodium est utilisé comme fondant dans les processus de fusion et comme désulfurant dans la production de fer et d'acier, aidant à éliminer les impuretés.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Soda Ash, including robust 40KG PP woven bags and 1000KG jumbo bags, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of up to 28 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao and Lianyungang, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre carbonate de sodium, notamment des sacs tissés en PP robustes de 40 kg et des sacs jumbo de 1000 kg, conçus pour un transport international sûr. Pour les **commandes en gros**, nous assurons un **chargement** efficace allant jusqu'à 28 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao et Lianyungang, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Soda Ash manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que **fabricant et fournisseur de carbonate de sodium** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.

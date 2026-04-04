@@ -29,7 +29,7 @@
 ---
 
 ## 📅 阶段 4：内容翻译与替换 (Content Translation) - [待开始]
-- [ ] 逐一翻译 attendus `src/content/fr/products/` 下的文件 (9/22)
+- [ ] 逐一翻译 attendus `src/content/fr/products/` 下的文件 (10/22)
     - [x] Chlorure d'ammonium (ammonium-chloride.md)
     - [x] Borax (borax.md)
     - [x] Chlorure de calcium (calcium-chloride.md)
@@ -39,6 +39,7 @@
     - [x] Acide citrique monohydraté (citric-acid-monohydrate.md)
     - [x] Acide oxalique (oxalic-acid.md)
     - [x] Polychlorure d'aluminium (polyaluminum-chloride.md)
+    - [x] Carbonate de sodium (soda-ash.md)
     - [ ] 其他产品 (进行中...)
 - [ ] 逐一翻译并替换 `src/content/fr/blog/` 下的文件
 - [ ] 验证法语版 MD 内容的静态注入效果
