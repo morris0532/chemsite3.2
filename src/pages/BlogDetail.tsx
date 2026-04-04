@@ -6,7 +6,7 @@ import { useMarkdownContent } from "../hooks/useMarkdownContent";
 import { useSiteConfig } from "../hooks/useSiteConfig";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { generateBlogSchema } from "../components/JsonLd";
+import { JsonLd, generateBlogSchema } from "../components/JsonLd";
 import { useMemo } from "react";
 
 export default function BlogDetailPage() {
@@ -41,7 +41,7 @@ export default function BlogDetailPage() {
     );
   }
 
-  const currentUrl = `https://www.sinopeakchem.com${langPrefix}/blog/${post.slug}`;
+  const currentUrl = `https://sinopeakchem.com${langPrefix}/blog/${post.slug}`;
 
   const content = isRu ? {
     home: "Главная",
@@ -77,8 +77,9 @@ export default function BlogDetailPage() {
       title={`${post.title} | Sinopeakchem Blog`}
       description={post.excerpt}
       image={post.image}
-      jsonLd={generateBlogSchema(post, locale)}
     >
+      <JsonLd data={generateBlogSchema(post, locale)} />
+
       {/* Breadcrumb */}
       <div className="bg-[#F5F7FA] border-b border-gray-200">
         <div className="container mx-auto px-4 py-3">

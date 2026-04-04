@@ -18,7 +18,7 @@ import remarkGfm from "remark-gfm";
 import remarkBreaks from "remark-breaks";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
-import { generateProductSchema } from "../components/JsonLd";
+import { JsonLd, generateProductSchema } from "../components/JsonLd";
 
 export default function ProductDetailPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -67,7 +67,7 @@ export default function ProductDetailPage() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          name: docEmail.split('@')[0],
+          name: docEmail.split('@')[0], // 临时从邮箱获取名称
           email: docEmail,
           company: docCompany,
           type: 'doc_request',
@@ -93,6 +93,8 @@ export default function ProductDetailPage() {
       alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : (isFr ? 'Une erreur est survenue. Veuillez réessayer plus tard.' : 'An error occurred. Please try again later.'));
     }
   };
+
+  const currentUrl = `https://sinopeakchem.com${location.pathname}`;
 
   const content = isRu ? {
     specifications: "Технические характеристики",
@@ -158,7 +160,7 @@ export default function ProductDetailPage() {
       title={`${product.name} (CAS: ${product.cas}) | SinoPeak`}
       description={product.shortDescription}
       image={product.image}
-      jsonLd={generateProductSchema(product, locale)}
+      jsonLd={generateProductSchema(product, currentUrl)}
     >
       {/* Breadcrumbs */}
       <div className="bg-slate-50 border-b border-slate-100 py-3">
@@ -229,69 +231,52 @@ export default function ProductDetailPage() {
                 </div>
 
                 <div className="flex flex-wrap gap-4">
-                  <Link to={`${langPrefix}/contact`} className="flex-1 min-w-[200px]">
-                    <Button size="lg" className="w-full bg-[#0066B3] hover:bg-[#004a82] text-white h-14 rounded-xl font-bold text-base shadow-xl shadow-blue-900/10 transition-all hover:-translate-y-1">
-                      <Mail className="w-5 h-5 mr-2" />
-                      {content.getQuote}
+                  <Link to={`${langPrefix}/contact`}>
+                    <Button className="h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
+                      {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
                     </Button>
                   </Link>
                   
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
                     <DialogTrigger asChild>
-                      <Button size="lg" variant="outline" className="flex-1 min-w-[200px] border-slate-200 text-slate-600 hover:bg-slate-50 h-14 rounded-xl font-bold text-base transition-all hover:-translate-y-1">
-                        <FileText className="w-5 h-5 mr-2" />
-                        {content.techDocs}
+                      <Button variant="outline" className="h-14 px-8 border-slate-200 rounded-2xl font-bold text-base text-slate-600 hover:bg-slate-50 transition-all">
+                        <Download className="mr-2 w-5 h-5" /> {content.techDocs}
                       </Button>
                     </DialogTrigger>
-                    <DialogContent className="sm:max-w-[425px] rounded-3xl">
+                    <DialogContent className="sm:max-w-[450px] rounded-[2rem] p-8">
                       <DialogHeader>
-                        <DialogTitle className="text-2xl font-bold text-slate-900">{isRu ? "Запросить документы" : (isFr ? "Demander des documents" : "Request Documents")}</DialogTitle>
+                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}</DialogTitle>
                       </DialogHeader>
                       {docSubmitted ? (
-                        <div className="py-12 text-center">
-                          <div className="w-16 h-16 bg-emerald-50 text-emerald-500 rounded-full flex items-center justify-center mx-auto mb-4">
-                            <CheckCircle2 className="w-8 h-8" />
+                        <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
+                          <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <CheckCircle2 className="w-10 h-10 text-green-500" />
                           </div>
-                          <h3 className="text-xl font-bold text-slate-900 mb-2">{isRu ? "Запрос отправлен!" : (isFr ? "Demande envoyée !" : "Request Sent!")}</h3>
-                          <p className="text-slate-500">{isRu ? "Мы отправим документы на вашу почту в ближайшее время." : (isFr ? "Nous enverrons les documents à votre adresse e-mail sous peu." : "We'll send the documents to your email shortly.")}</p>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">Request Sent!</h3>
+                          <p className="text-slate-500">Our team will contact you within 24 hours.</p>
                         </div>
                       ) : (
-                        <form onSubmit={handleDocSubmit} className="space-y-6 py-4">
+                        <form onSubmit={handleDocSubmit} className="space-y-6 mt-4">
                           <div className="space-y-2">
-                            <Label htmlFor="email" className="text-sm font-bold text-slate-700">{isRu ? "Электронная почта" : (isFr ? "E-mail" : "Email Address")}</Label>
-                            <Input 
-                              id="email" 
-                              type="email" 
-                              placeholder="buyer@company.com" 
-                              required 
-                              value={docEmail}
-                              onChange={(e) => setDocEmail(e.target.value)}
-                              className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]"
-                            />
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Work Email</Label>
+                            <Input required type="email" placeholder="name@company.com" className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docEmail} onChange={e => setDocEmail(e.target.value)} />
                           </div>
                           <div className="space-y-2">
-                            <Label htmlFor="company" className="text-sm font-bold text-slate-700">{isRu ? "Компания" : (isFr ? "Entreprise" : "Company Name")}</Label>
-                            <Input 
-                              id="company" 
-                              placeholder="Global Chemicals Ltd" 
-                              required 
-                              value={docCompany}
-                              onChange={(e) => setDocCompany(e.target.value)}
-                              className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]"
-                            />
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Company Name</Label>
+                            <Input required placeholder="Your Company Ltd." className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docCompany} onChange={e => setDocCompany(e.target.value)} />
                           </div>
-                          <div className="flex gap-6 pt-2">
+                          <div className="flex gap-6 py-2">
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(checked) => setDocMSDS(!!checked)} />
-                              <label htmlFor="msds" className="text-sm font-medium text-slate-600">MSDS</label>
+                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(v) => setDocMSDS(!!v)} />
+                              <label htmlFor="msds" className="text-sm font-bold text-slate-700">MSDS</label>
                             </div>
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(checked) => setDocCOA(!!checked)} />
-                              <label htmlFor="coa" className="text-sm font-medium text-slate-600">COA</label>
+                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(v) => setDocCOA(!!v)} />
+                              <label htmlFor="coa" className="text-sm font-bold text-slate-700">COA</label>
                             </div>
                           </div>
-                          <Button type="submit" className="w-full bg-[#0066B3] hover:bg-[#004a82] text-white h-12 rounded-xl font-bold">
-                            {isRu ? "Отправить запрос" : (isFr ? "Envoyer la demande" : "Send Request")}
+                          <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base">
+                            Submit Request
                           </Button>
                         </form>
                       )}
@@ -304,214 +289,187 @@ export default function ProductDetailPage() {
         </div>
       </section>
 
-      {/* Content Tabs Section */}
-      <section className="py-20 bg-slate-50">
+      {/* Main Content - Asymmetric Layout */}
+      <section className="py-24 bg-slate-50/50">
         <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto">
-            <Tabs defaultValue="overview" className="w-full">
-              <TabsList className="w-full justify-start bg-transparent border-b border-slate-200 rounded-none h-auto p-0 mb-12 overflow-x-auto flex-nowrap">
-                <TabsTrigger value="overview" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
+          <div className="flex flex-wrap -mx-8">
+            {/* Left: Detailed Content Sections */}
+            <div className="w-full lg:w-2/3 px-8">
+              {/* Overview Section */}
+              <div id="overview" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
                   {content.overview}
-                </TabsTrigger>
-                <TabsTrigger value="specifications" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
+                </h2>
+                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-p:mb-8 prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight prose-h3:mt-8 prose-h3:mb-4 prose-h4:mt-6 prose-h4:mb-3 prose-li:mb-3">
+                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
+                    {product.description}
+                  </ReactMarkdown>
+                </div>
+              </div>
+
+              {/* Specifications Section */}
+              <div id="specs" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
                   {content.specifications}
-                </TabsTrigger>
-                <TabsTrigger value="applications" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {product.specs.map((spec: any, i: number) => (
+                    <div key={i} className="flex justify-between items-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 group">
+                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{spec.label}</span>
+                      <span className="text-sm font-bold text-slate-900 group-hover:text-[#0066B3] transition-colors">{spec.value}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Applications Section - Modern Card Grid */}
+              <div id="apps" className="mb-24 scroll-mt-32">
+                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
+                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
                   {content.applications}
-                </TabsTrigger>
-                <TabsTrigger value="packaging" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
-                  {content.packaging}
-                </TabsTrigger>
-              </TabsList>
-              
-              <div className="bg-white rounded-[2rem] p-8 md:p-12 border border-slate-100 shadow-xl shadow-blue-900/5">
-                <TabsContent value="overview" className="mt-0 focus-visible:ring-0">
-                  <div className="prose prose-slate max-w-none prose-headings:text-slate-900 prose-headings:font-black prose-p:text-slate-600 prose-p:leading-relaxed prose-strong:text-[#0066B3]">
-                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
-                      {product.description}
-                    </ReactMarkdown>
-                  </div>
-                </TabsContent>
-                
-                <TabsContent value="specifications" className="mt-0 focus-visible:ring-0">
-                  <div className="overflow-x-auto">
-                    <table className="w-full text-sm text-left">
-                      <thead>
-                        <tr className="border-b border-slate-100">
-                          <th className="py-4 font-bold text-slate-900">{isRu ? "Параметр" : (isFr ? "Paramètre" : "Parameter")}</th>
-                          <th className="py-4 font-bold text-slate-900">{isRu ? "Значение" : (isFr ? "Valeur" : "Value")}</th>
-                        </tr>
-                      </thead>
-                      <tbody className="divide-y divide-slate-50">
-                        {product.specifications?.map((spec: any, idx: number) => (
-                          <tr key={idx}>
-                            <td className="py-4 text-slate-500 font-medium">{spec.label}</td>
-                            <td className="py-4 text-slate-900 font-bold">{spec.value}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </TabsContent>
-                
-                <TabsContent value="applications" className="mt-0 focus-visible:ring-0">
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    {product.applications?.map((app: string, idx: number) => (
-                      <div key={idx} className="flex items-start gap-4 p-6 rounded-2xl bg-slate-50 border border-slate-100">
-                        <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center flex-shrink-0 shadow-sm">
-                          <CheckCircle2 className="w-5 h-5 text-[#0066B3]" />
-                        </div>
-                        <p className="text-slate-700 font-bold leading-tight pt-2">{app}</p>
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                  {product.applications.map((app: string, i: number) => (
+                    <div key={i} className="group p-8 bg-white rounded-[2rem] border border-slate-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-1">
+                      <div className="w-14 h-14 bg-blue-50 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-500">
+                        <Beaker className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-500" />
                       </div>
+                      <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
+                      <p className="text-sm text-slate-500 font-medium leading-relaxed">
+                        {isFr ? `Application haute performance dans les industries de ${app.toLowerCase()}, garantissant des résultats optimaux.` : `High-performance application in ${app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.`}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            {/* Right: Sticky Navigation & Trust Badges */}
+            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0 order-last">
+              <div className="lg:sticky lg:top-32">
+                <div className="mb-12 hidden lg:block">
+                  <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Navigation</h2>
+                  <nav className="space-y-2">
+                    {[
+                      {id: 'overview', label: content.overview},
+                      {id: 'specs', label: content.specifications},
+                      {id: 'apps', label: content.applications}
+                    ].map((tab) => (
+                      <button 
+                        key={tab.id}
+                        onClick={() => document.getElementById(tab.id)?.scrollIntoView({ behavior: 'smooth' })}
+                        className="flex items-center w-full p-4 rounded-2xl text-left font-bold text-slate-600 hover:bg-white hover:text-[#0066B3] hover:shadow-sm transition-all group"
+                      >
+                        <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mr-4 group-hover:bg-[#0066B3] transition-colors" />
+                        {tab.label}
+                      </button>
                     ))}
-                  </div>
-                </TabsContent>
+                  </nav>
+                </div>
 
-                <TabsContent value="packaging" className="mt-0 focus-visible:ring-0">
-                  <div className="flex flex-col md:flex-row gap-12 items-center">
-                    <div className="flex-1">
-                      <h3 className="text-2xl font-black text-slate-900 mb-6">{isRu ? "Стандартная упаковка" : (isFr ? "Emballage Standard" : "Standard Packaging")}</h3>
-                      <div className="space-y-4">
-                        <div className="flex items-center gap-4 p-4 rounded-xl bg-blue-50/50 border border-blue-100/50">
-                          <Package className="w-6 h-6 text-[#0066B3]" />
-                          <span className="font-bold text-slate-700">{product.packaging}</span>
-                        </div>
-                        <div className="flex items-center gap-4 p-4 rounded-xl bg-blue-50/50 border border-blue-100/50">
-                          <Truck className="w-6 h-6 text-[#0066B3]" />
-                          <span className="font-bold text-slate-700">{product.loading}</span>
-                        </div>
+                <div className="p-8 rounded-[2rem] bg-white border border-slate-100 shadow-sm mb-8">
+                  <h3 className="text-lg font-black text-slate-900 mb-6">{content.trustTitle}</h3>
+                  <div className="space-y-6">
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Award className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustQuality}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">SGS & BV Inspected</p>
                       </div>
                     </div>
-                    <div className="w-full md:w-1/3 aspect-square rounded-3xl bg-slate-50 border border-slate-100 flex items-center justify-center p-12">
-                      <Package className="w-full h-full text-slate-200" />
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Globe className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustGlobal}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">50+ Countries Served</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-4">
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
+                        <Microscope className="w-5 h-5 text-[#0066B3]" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-900">{content.trustSupport}</p>
+                        <p className="text-xs text-slate-500 font-medium mt-1">Expert Lab Analysis</p>
+                      </div>
                     </div>
                   </div>
-                </TabsContent>
-              </div>
-            </Tabs>
-          </div>
-        </div>
-      </section>
+                </div>
 
-      {/* Trust & Quality Section */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-slate-900 mb-4">{content.trustTitle}</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="text-center p-8">
-              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
-                <ShieldCheck className="w-8 h-8" />
+                <div className="mb-8">
+                  <a 
+                    href={`https://wa.me/8613583262050?text=Hi%20SinoPeak%2C%20I%27m%20interested%20in%20${encodeURIComponent(product.name)}%20(CAS%3A%20${product.cas})%20and%20would%20like%20to%20know%20more%20about%20pricing%20and%20availability.`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center justify-center w-full h-14 px-8 bg-[#25D366] hover:bg-[#1fb854] text-white rounded-2xl font-bold text-base shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 gap-2"
+                  >
+                    <MessageCircle className="w-5 h-5" />
+                    {isFr ? "Discuter sur WhatsApp" : "Chat on WhatsApp"}
+                  </a>
+                </div>
               </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustQuality}</h3>
-              <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu ? "Строгий контроль качества каждой партии с полной документацией." : (isFr ? "Contrôle qualité rigoureux pour chaque lot avec documentation complète." : "Rigorous quality control for every batch with full documentation.")}
-              </p>
-            </div>
-            <div className="text-center p-8">
-              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
-                <Globe className="w-8 h-8" />
-              </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustGlobal}</h3>
-              <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu ? "Надежная доставка в более чем 50 стран мира." : (isFr ? "Expédition fiable vers plus de 50 pays à travers le monde." : "Reliable shipping to over 50 countries worldwide.")}
-              </p>
-            </div>
-            <div className="text-center p-8">
-              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
-                <Microscope className="w-8 h-8" />
-              </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustSupport}</h3>
-              <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu ? "Экспертная техническая поддержка для всех ваших потребностей." : (isFr ? "Support technique expert pour tous vos besoins en produits chimiques." : "Expert technical support for all your chemical needs.")}
-              </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* FAQ Section */}
-      <section className="py-20 bg-slate-50">
-        <div className="container mx-auto px-4">
-          <div className="max-w-3xl mx-auto">
-            <div className="text-center mb-12">
-              <h2 className="text-3xl font-black text-slate-900 mb-4">{content.faqTitle}</h2>
-              <p className="text-slate-500">{content.faqDesc}</p>
+      {/* FAQ Section - Clean & Minimal */}
+      {product.faqs && product.faqs.length > 0 && (
+        <section className="py-24 bg-white border-t border-slate-100">
+          <div className="container mx-auto px-4 max-w-4xl">
+            <div className="text-center mb-16">
+              <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Support</h2>
+              <h3 className="text-4xl font-black text-slate-900 tracking-tight">{content.faqTitle}</h3>
             </div>
-            <Accordion type="single" collapsible className="space-y-4">
-              {product.faqs?.map((faq: any, idx: number) => (
-                <AccordionItem key={idx} value={`faq-${idx}`} className="bg-white border border-slate-100 rounded-2xl px-6 overflow-hidden shadow-sm">
-                  <AccordionTrigger className="text-left font-bold text-slate-900 hover:no-underline py-5">
+            <Accordion type="single" collapsible className="w-full space-y-4">
+              {product.faqs.map((faq: any, i: number) => (
+                <AccordionItem key={i} value={`item-${i}`} className="border border-slate-100 rounded-3xl px-8 bg-slate-50/30 overflow-hidden transition-all hover:bg-white hover:shadow-lg hover:shadow-blue-900/5">
+                  <AccordionTrigger className="hover:no-underline py-6 text-left font-bold text-slate-900 text-lg hover:text-[#0066B3] transition-colors">
                     {faq.question}
                   </AccordionTrigger>
-                  <AccordionContent className="text-slate-600 leading-relaxed pb-6">
+                  <AccordionContent className="text-slate-600 pb-8 leading-relaxed text-base font-medium">
                     {faq.answer}
                   </AccordionContent>
                 </AccordionItem>
               ))}
             </Accordion>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
-      {/* Related Products */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
-            <div className="max-w-2xl">
-              <h2 className="text-3xl font-black text-slate-900 mb-4">{content.relatedProducts}</h2>
-              <p className="text-slate-500">{content.relatedTitle}</p>
-            </div>
-            <Link to={`${langPrefix}/products`}>
-              <Button variant="outline" className="border-slate-200 text-slate-600 hover:bg-slate-50 font-bold px-6 rounded-xl">
-                {content.viewAll}
-                <ArrowRight className="w-4 h-4 ml-2" />
-              </Button>
-            </Link>
-          </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-            {relatedProducts.map((p: any) => (
-              <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group bg-white rounded-2xl border border-slate-100 overflow-hidden hover:shadow-2xl transition-all duration-500">
-                <div className="aspect-square bg-slate-50 p-8 overflow-hidden relative">
-                  <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500" />
-                </div>
-                <div className="p-6">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-1">{p.name}</h3>
-                  <p className="text-slate-500 text-xs line-clamp-2 mb-4">{p.shortDescription}</p>
-                  <div className="flex items-center text-xs font-bold text-[#0066B3]">
-                    {isRu ? "Подробнее" : (isFr ? "Détails" : "View Details")}
-                    <ArrowRight className="w-3 h-3 ml-1.5" />
-                  </div>
-                </div>
+      {/* Related Products - Premium Carousel Style */}
+      {relatedProducts.length > 0 && (
+        <section className="py-24 bg-slate-900 overflow-hidden">
+          <div className="container mx-auto px-4">
+            <div className="flex items-end justify-between mb-16">
+              <div>
+                <h2 className="text-[11px] font-black text-blue-400 uppercase tracking-[0.3em] mb-4">Discovery</h2>
+                <h3 className="text-4xl font-black text-white tracking-tight">{isRu ? "Похожие продукты" : (isFr ? "Produits Connexes" : "Related Products")}</h3>
+              </div>
+              <Link to={`${langPrefix}/products`} className="flex items-center gap-2 text-blue-400 font-black text-sm hover:gap-4 transition-all duration-300">
+                {content.viewAll} <ArrowRight className="w-5 h-5" />
               </Link>
-            ))}
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+              {relatedProducts.map((p: any) => (
+                <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group relative bg-white/5 backdrop-blur-sm rounded-[2.5rem] p-8 border border-white/10 hover:bg-white transition-all duration-500 hover:-translate-y-2">
+                  <div className="aspect-square rounded-2xl overflow-hidden bg-white/5 mb-8 p-6 group-hover:bg-slate-50 transition-all duration-500">
+                    <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-700" />
+                  </div>
+                  <h3 className="text-xl font-black text-white group-hover:text-slate-900 transition-colors duration-500 mb-2">{p.name}</h3>
+                  <p className="text-[10px] text-blue-400 uppercase font-black tracking-widest">{p.category}</p>
+                </Link>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
-
-      {/* Bottom CTA */}
-      <section className="py-20 bg-[#003d66] relative overflow-hidden">
-        <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-500/10 to-transparent pointer-events-none" />
-        <div className="container mx-auto px-4 relative z-10 text-center">
-          <h2 className="text-3xl md:text-4xl font-black text-white mb-8 max-w-2xl mx-auto leading-tight">
-            {isRu ? "Готовы обсудить ваши потребности в химикатах?" : (isFr ? "Prêt à discuter de vos besoins en produits chimiques ?" : "Ready to discuss your chemical requirements?")}
-          </h2>
-          <div className="flex flex-wrap justify-center gap-4">
-            <Link to={`${langPrefix}/contact`}>
-              <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 h-14 px-10 rounded-xl font-bold text-base shadow-2xl shadow-black/20">
-                {content.getQuote}
-              </Button>
-            </Link>
-            <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer">
-              <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10 h-14 px-10 rounded-xl font-bold text-base">
-                <MessageCircle className="w-5 h-5 mr-2" />
-                WhatsApp
-              </Button>
-            </a>
-          </div>
-        </div>
-      </section>
+        </section>
+      )}
     </Layout>
   );
 }

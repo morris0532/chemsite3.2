@@ -19,12 +19,11 @@ async function generateSitemap() {
 
   const today = new Date().toISOString().split('T')[0];
 
-  const addUrl = (loc, changefreq, priority, enLoc, ruLoc, frLoc, lastmodDate) => {
-    const date = lastmodDate || today;
+  const addUrl = (loc, changefreq, priority, enLoc, ruLoc, frLoc) => {
     sitemap += `
   <url>
     <loc>${loc}</loc>
-    <lastmod>${date}</lastmod>
+    <lastmod>${today}</lastmod>
     <changefreq>${changefreq}</changefreq>
     <priority>${priority}</priority>
     <xhtml:link rel="alternate" hreflang="en" href="${enLoc}" />
@@ -32,12 +31,6 @@ async function generateSitemap() {
     <xhtml:link rel="alternate" hreflang="fr" href="${frLoc}" />
   </url>`;
   };
-
-  // 0. 添加根域名 URL (https://www.sinopeakchem.com/)
-  const rootEn = `${SITE_URL}/en`;
-  const rootRu = `${SITE_URL}/ru`;
-  const rootFr = `${SITE_URL}/fr`;
-  addUrl(`${SITE_URL}/`, 'weekly', '1.0', rootEn, rootRu, rootFr);
 
   // 1. 添加基础页面
   pages.forEach(page => {
@@ -52,6 +45,7 @@ async function generateSitemap() {
   });
 
   // 2. 添加博客文章
+  // 先获取所有博客的 slug，确保 alternate 链接完整
   const blogSlugs = new Set();
   for (const locale of locales) {
     const blogDir = path.join(contentDir, locale, 'blog');
@@ -70,14 +64,13 @@ async function generateSitemap() {
     for (const locale of locales) {
       const blogFile = path.join(contentDir, locale, 'blog', `${slug}.md`);
       if (fs.existsSync(blogFile)) {
-        const stats = fs.statSync(blogFile);
-        const lastmod = stats.mtime.toISOString().split('T')[0];
-        addUrl(`${SITE_URL}/${locale}/blog/${slug}`, 'monthly', '0.6', enLoc, ruLoc, frLoc, lastmod);
+        addUrl(`${SITE_URL}/${locale}/blog/${slug}`, 'monthly', '0.6', enLoc, ruLoc, frLoc);
       }
     }
   }
 
   // 3. 添加产品页面
+  // 先获取所有产品的 slug
   const productSlugs = new Set();
   for (const locale of locales) {
     const productDir = path.join(contentDir, locale, 'products');
@@ -96,9 +89,7 @@ async function generateSitemap() {
     for (const locale of locales) {
       const productFile = path.join(contentDir, locale, 'products', `${slug}.md`);
       if (fs.existsSync(productFile)) {
-        const stats = fs.statSync(productFile);
-        const lastmod = stats.mtime.toISOString().split('T')[0];
-        addUrl(`${SITE_URL}/${locale}/products/${slug}`, 'monthly', '0.7', enLoc, ruLoc, frLoc, lastmod);
+        addUrl(`${SITE_URL}/${locale}/products/${slug}`, 'monthly', '0.7', enLoc, ruLoc, frLoc);
       }
     }
   }
