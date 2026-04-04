@@ -18,7 +18,7 @@ import remarkGfm from "remark-gfm";
 import remarkBreaks from "remark-breaks";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
-import { JsonLd, generateProductSchema } from "../components/JsonLd";
+import { generateProductSchema } from "../components/JsonLd";
 
 export default function ProductDetailPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -94,7 +94,7 @@ export default function ProductDetailPage() {
     }
   };
 
-  const currentUrl = `https://sinopeakchem.com${location.pathname}`;
+  const currentUrl = `https://www.sinopeakchem.com${location.pathname}`;
 
   const content = isRu ? {
     specifications: "Технические характеристики",
@@ -157,10 +157,10 @@ export default function ProductDetailPage() {
 
   return (
     <Layout 
-      title={`${product.name} (CAS: ${product.cas}) | SinoPeak`}
+      title={`${product.name} (CAS: ${product.cas}) | Sinopeakchem`}
       description={product.shortDescription}
       image={product.image}
-      jsonLd={generateProductSchema(product, currentUrl)}
+      jsonLd={generateProductSchema(product, locale)}
     >
       {/* Breadcrumbs */}
       <div className="bg-slate-50 border-b border-slate-100 py-3">
@@ -231,52 +231,77 @@ export default function ProductDetailPage() {
                 </div>
 
                 <div className="flex flex-wrap gap-4">
-                  <Link to={`${langPrefix}/contact`}>
-                    <Button className="h-14 px-8 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-2xl font-bold text-base shadow-lg shadow-blue-900/20 transition-all hover:-translate-y-1">
-                      {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
+                  <Link to={`${langPrefix}/contact`} className="flex-1 sm:flex-none">
+                    <Button className="w-full sm:w-auto h-14 px-10 bg-[#0066B3] hover:bg-[#004A82] text-white text-sm font-black uppercase tracking-widest rounded-2xl shadow-xl shadow-blue-900/10 transition-all hover:-translate-y-1">
+                      {content.getQuote}
+                      <ArrowRight className="w-4 h-4 ml-2" />
                     </Button>
                   </Link>
                   
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
                     <DialogTrigger asChild>
-                      <Button variant="outline" className="h-14 px-8 border-slate-200 rounded-2xl font-bold text-base text-slate-600 hover:bg-slate-50 transition-all">
-                        <Download className="mr-2 w-5 h-5" /> {content.techDocs}
+                      <Button variant="outline" className="flex-1 sm:flex-none h-14 px-10 border-2 border-slate-200 text-slate-600 text-sm font-black uppercase tracking-widest rounded-2xl hover:bg-slate-50 transition-all">
+                        <Download className="w-4 h-4 mr-2" />
+                        {content.techDocs}
                       </Button>
                     </DialogTrigger>
-                    <DialogContent className="sm:max-w-[450px] rounded-[2rem] p-8">
+                    <DialogContent className="sm:max-w-[425px] rounded-3xl">
                       <DialogHeader>
-                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}</DialogTitle>
+                        <DialogTitle className="text-2xl font-bold text-slate-900">
+                          {isRu ? "Запросить документы" : (isFr ? "Demander des documents" : "Request Documents")}
+                        </DialogTitle>
                       </DialogHeader>
                       {docSubmitted ? (
-                        <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
-                          <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
-                            <CheckCircle2 className="w-10 h-10 text-green-500" />
+                        <div className="py-12 text-center">
+                          <div className="w-16 h-16 bg-green-50 text-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <CheckCircle2 className="w-8 h-8" />
                           </div>
-                          <h3 className="text-xl font-bold text-slate-900 mb-2">Request Sent!</h3>
-                          <p className="text-slate-500">Our team will contact you within 24 hours.</p>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">
+                            {isRu ? "Запрос отправлен!" : (isFr ? "Demande envoyée !" : "Request Sent!")}
+                          </h3>
+                          <p className="text-slate-500">
+                            {isRu ? "Мы отправим документы на вашу почту в ближайшее время." : (isFr ? "Nous vous enverrons les documents par e-mail sous peu." : "We will send the documents to your email shortly.")}
+                          </p>
                         </div>
                       ) : (
-                        <form onSubmit={handleDocSubmit} className="space-y-6 mt-4">
+                        <form onSubmit={handleDocSubmit} className="space-y-6 py-4">
                           <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Work Email</Label>
-                            <Input required type="email" placeholder="name@company.com" className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docEmail} onChange={e => setDocEmail(e.target.value)} />
+                            <Label htmlFor="email" className="text-sm font-bold text-slate-700">Email</Label>
+                            <Input 
+                              id="email" 
+                              type="email" 
+                              placeholder="your@email.com" 
+                              required 
+                              value={docEmail}
+                              onChange={(e) => setDocEmail(e.target.value)}
+                              className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]"
+                            />
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Company Name</Label>
-                            <Input required placeholder="Your Company Ltd." className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docCompany} onChange={e => setDocCompany(e.target.value)} />
+                            <Label htmlFor="company" className="text-sm font-bold text-slate-700">
+                              {isRu ? "Компания" : (isFr ? "Entreprise" : "Company")}
+                            </Label>
+                            <Input 
+                              id="company" 
+                              placeholder="Company Name" 
+                              required 
+                              value={docCompany}
+                              onChange={(e) => setDocCompany(e.target.value)}
+                              className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]"
+                            />
                           </div>
-                          <div className="flex gap-6 py-2">
+                          <div className="flex gap-6">
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(v) => setDocMSDS(!!v)} />
-                              <label htmlFor="msds" className="text-sm font-bold text-slate-700">MSDS</label>
+                              <Checkbox id="msds" checked={docMSDS} onCheckedChange={(checked) => setDocMSDS(!!checked)} />
+                              <label htmlFor="msds" className="text-sm font-medium text-slate-600">MSDS</label>
                             </div>
                             <div className="flex items-center space-x-2">
-                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(v) => setDocCOA(!!v)} />
-                              <label htmlFor="coa" className="text-sm font-bold text-slate-700">COA</label>
+                              <Checkbox id="coa" checked={docCOA} onCheckedChange={(checked) => setDocCOA(!!checked)} />
+                              <label htmlFor="coa" className="text-sm font-medium text-slate-600">COA</label>
                             </div>
                           </div>
-                          <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base">
-                            Submit Request
+                          <Button type="submit" className="w-full h-12 bg-[#0066B3] hover:bg-[#004A82] text-white font-bold rounded-xl">
+                            {isRu ? "Отправить запрос" : (isFr ? "Envoyer la demande" : "Send Request")}
                           </Button>
                         </form>
                       )}
@@ -289,181 +314,199 @@ export default function ProductDetailPage() {
         </div>
       </section>
 
-      {/* Main Content - Asymmetric Layout */}
-      <section className="py-24 bg-slate-50/50">
+      {/* Product Content Tabs */}
+      <section className="py-20 bg-slate-50">
         <div className="container mx-auto px-4">
-          <div className="flex flex-wrap -mx-8">
-            {/* Left: Detailed Content Sections */}
-            <div className="w-full lg:w-2/3 px-8">
-              {/* Overview Section */}
-              <div id="overview" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+          <Tabs defaultValue="overview" className="w-full">
+            <div className="flex justify-center mb-12">
+              <TabsList className="bg-white p-1.5 rounded-2xl border border-slate-200 shadow-sm h-auto">
+                <TabsTrigger value="overview" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
                   {content.overview}
-                </h2>
-                <div className="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-p:text-slate-600 prose-p:font-medium prose-p:mb-8 prose-strong:text-slate-900 prose-strong:font-black prose-headings:font-black prose-headings:tracking-tight prose-h3:mt-8 prose-h3:mb-4 prose-h4:mt-6 prose-h4:mb-3 prose-li:mb-3">
-                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
-                    {product.description}
-                  </ReactMarkdown>
-                </div>
-              </div>
-
-              {/* Specifications Section */}
-              <div id="specs" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                </TabsTrigger>
+                <TabsTrigger value="specifications" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
                   {content.specifications}
-                </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {product.specs.map((spec: any, i: number) => (
-                    <div key={i} className="flex justify-between items-center p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 group">
-                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{spec.label}</span>
-                      <span className="text-sm font-bold text-slate-900 group-hover:text-[#0066B3] transition-colors">{spec.value}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Applications Section - Modern Card Grid */}
-              <div id="apps" className="mb-24 scroll-mt-32">
-                <h2 className="text-3xl font-black text-slate-900 mb-10 tracking-tight flex items-center gap-4">
-                  <span className="w-12 h-1 bg-[#0066B3] rounded-full" />
+                </TabsTrigger>
+                <TabsTrigger value="applications" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
                   {content.applications}
-                </h2>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-                  {product.applications.map((app: string, i: number) => (
-                    <div key={i} className="group p-8 bg-white rounded-[2rem] border border-slate-100 shadow-sm hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-1">
-                      <div className="w-14 h-14 bg-blue-50 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#0066B3] transition-all duration-500">
-                        <Beaker className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-500" />
-                      </div>
-                      <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
-                      <p className="text-sm text-slate-500 font-medium leading-relaxed">
-                        {isFr ? `Application haute performance dans les industries de ${app.toLowerCase()}, garantissant des résultats optimaux.` : `High-performance application in ${app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.`}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-              </div>
+                </TabsTrigger>
+                <TabsTrigger value="faq" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
+                  {content.faq}
+                </TabsTrigger>
+              </TabsList>
             </div>
 
-            {/* Right: Sticky Navigation & Trust Badges */}
-            <div className="w-full lg:w-1/3 px-8 mb-16 lg:mb-0 order-last">
-              <div className="lg:sticky lg:top-32">
-                <div className="mb-12 hidden lg:block">
-                  <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Navigation</h2>
-                  <nav className="space-y-2">
-                    {[
-                      {id: 'overview', label: content.overview},
-                      {id: 'specs', label: content.specifications},
-                      {id: 'apps', label: content.applications}
-                    ].map((tab) => (
-                      <button 
-                        key={tab.id}
-                        onClick={() => document.getElementById(tab.id)?.scrollIntoView({ behavior: 'smooth' })}
-                        className="flex items-center w-full p-4 rounded-2xl text-left font-bold text-slate-600 hover:bg-white hover:text-[#0066B3] hover:shadow-sm transition-all group"
-                      >
-                        <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mr-4 group-hover:bg-[#0066B3] transition-colors" />
-                        {tab.label}
-                      </button>
-                    ))}
-                  </nav>
-                </div>
-
-                <div className="p-8 rounded-[2rem] bg-white border border-slate-100 shadow-sm mb-8">
-                  <h3 className="text-lg font-black text-slate-900 mb-6">{content.trustTitle}</h3>
-                  <div className="space-y-6">
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Award className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustQuality}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">SGS & BV Inspected</p>
-                      </div>
-                    </div>
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Globe className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustGlobal}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">50+ Countries Served</p>
-                      </div>
-                    </div>
-                    <div className="flex gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center flex-shrink-0">
-                        <Microscope className="w-5 h-5 text-[#0066B3]" />
-                      </div>
-                      <div>
-                        <p className="text-sm font-bold text-slate-900">{content.trustSupport}</p>
-                        <p className="text-xs text-slate-500 font-medium mt-1">Expert Lab Analysis</p>
-                      </div>
-                    </div>
+            <div className="max-w-4xl mx-auto">
+              <TabsContent value="overview" className="mt-0 focus-visible:outline-none">
+                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
+                  <div className="prose prose-slate prose-lg max-w-none prose-headings:text-slate-900 prose-headings:font-black prose-p:text-slate-600 prose-p:leading-relaxed prose-strong:text-[#0066B3]">
+                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
+                      {product.content}
+                    </ReactMarkdown>
                   </div>
                 </div>
+              </TabsContent>
 
-                <div className="mb-8">
-                  <a 
-                    href={`https://wa.me/8613583262050?text=Hi%20SinoPeak%2C%20I%27m%20interested%20in%20${encodeURIComponent(product.name)}%20(CAS%3A%20${product.cas})%20and%20would%20like%20to%20know%20more%20about%20pricing%20and%20availability.`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center w-full h-14 px-8 bg-[#25D366] hover:bg-[#1fb854] text-white rounded-2xl font-bold text-base shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 gap-2"
-                  >
-                    <MessageCircle className="w-5 h-5" />
-                    {isFr ? "Discuter sur WhatsApp" : "Chat on WhatsApp"}
-                  </a>
+              <TabsContent value="specifications" className="mt-0 focus-visible:outline-none">
+                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
+                  <div className="overflow-hidden rounded-2xl border border-slate-100">
+                    <table className="w-full text-left border-collapse">
+                      <thead>
+                        <tr className="bg-slate-50">
+                          <th className="px-6 py-4 text-sm font-black text-slate-900 uppercase tracking-wider border-b border-slate-100">
+                            {isRu ? "Параметр" : (isFr ? "Paramètre" : "Parameter")}
+                          </th>
+                          <th className="px-6 py-4 text-sm font-black text-slate-900 uppercase tracking-wider border-b border-slate-100">
+                            {isRu ? "Значение" : (isFr ? "Valeur" : "Value")}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-slate-50">
+                        {product.specifications.map((spec: any, idx: number) => (
+                          <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
+                            <td className="px-6 py-4 text-sm font-bold text-slate-600">{spec.label}</td>
+                            <td className="px-6 py-4 text-sm font-medium text-slate-900">{spec.value}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                  
+                  <div className="mt-10 p-6 rounded-2xl bg-blue-50/50 border border-blue-100 flex items-start gap-4">
+                    <Info className="w-6 h-6 text-[#0066B3] flex-shrink-0 mt-0.5" />
+                    <p className="text-sm text-slate-600 leading-relaxed">
+                      {isRu 
+                        ? "Приведенные выше характеристики являются стандартными. Мы также можем предоставить продукцию в соответствии с вашими специфическими требованиями. Пожалуйста, свяжитесь с нами для получения подробного COA." 
+                        : (isFr ? "Les spécifications ci-dessus sont standard. Nous pouvons également fournir des produits selon vos exigences spécifiques. Veuillez nous contacter pour un COA détaillé." : "The above specifications are standard. We can also provide products according to your specific requirements. Please contact us for a detailed COA.")}
+                    </p>
+                  </div>
                 </div>
+              </TabsContent>
+
+              <TabsContent value="applications" className="mt-0 focus-visible:outline-none">
+                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    {product.applications.map((app: any, idx: number) => (
+                      <div key={idx} className="group p-6 rounded-2xl bg-slate-50 border border-slate-100 hover:bg-white hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-300">
+                        <div className="w-12 h-12 rounded-xl bg-white border border-slate-100 flex items-center justify-center mb-4 group-hover:bg-[#0066B3] group-hover:text-white transition-colors">
+                          <Target className="w-6 h-6" />
+                        </div>
+                        <h3 className="text-lg font-bold text-slate-900 mb-2">{app.title}</h3>
+                        <p className="text-sm text-slate-600 leading-relaxed">{app.description}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </TabsContent>
+
+              <TabsContent value="faq" className="mt-0 focus-visible:outline-none">
+                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
+                  <div className="mb-10">
+                    <h2 className="text-2xl font-black text-slate-900 mb-2">{content.faqTitle}</h2>
+                    <p className="text-slate-500">{content.faqDesc}</p>
+                  </div>
+                  <Accordion type="single" collapsible className="w-full space-y-4">
+                    {product.faqs.map((faq: any, idx: number) => (
+                      <AccordionItem key={idx} value={`faq-${idx}`} className="border border-slate-100 rounded-2xl px-6 overflow-hidden data-[state=open]:bg-slate-50/50 transition-all">
+                        <AccordionTrigger className="text-left font-bold text-slate-900 hover:no-underline py-5">
+                          {faq.question}
+                        </AccordionTrigger>
+                        <AccordionContent className="text-slate-600 leading-relaxed pb-5">
+                          {faq.answer}
+                        </AccordionContent>
+                      </AccordionItem>
+                    ))}
+                  </Accordion>
+                </div>
+              </TabsContent>
+            </div>
+          </Tabs>
+        </div>
+      </section>
+
+      {/* Trust Badges */}
+      <section className="py-20 bg-white border-y border-slate-100">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl font-black text-slate-900 mb-4">{content.trustTitle}</h2>
+            <div className="w-20 h-1.5 bg-[#0066B3] mx-auto rounded-full" />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+            <div className="text-center">
+              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
+                <ShieldCheck className="w-10 h-10" />
               </div>
+              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustQuality}</h3>
+              <p className="text-slate-500 text-sm leading-relaxed">
+                {isRu 
+                  ? "Строгий контроль качества на каждом этапе производства и соответствие международным стандартам." 
+                  : (isFr ? "Contrôle qualité strict à chaque étape de la production et conformité aux normes internationales." : "Strict quality control at every stage of production and compliance with international standards.")}
+              </p>
+            </div>
+            <div className="text-center">
+              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
+                <Truck className="w-10 h-10" />
+              </div>
+              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustGlobal}</h3>
+              <p className="text-slate-500 text-sm leading-relaxed">
+                {isRu 
+                  ? "Надежная логистическая сеть, обеспечивающая своевременную доставку в более чем 50 стран мира." 
+                  : (isFr ? "Réseau logistique fiable assurant une livraison rapide dans plus de 50 pays à travers le monde." : "Reliable logistics network ensuring timely delivery to over 50 countries worldwide.")}
+              </p>
+            </div>
+            <div className="text-center">
+              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
+                <Microscope className="w-10 h-10" />
+              </div>
+              <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustSupport}</h3>
+              <p className="text-slate-500 text-sm leading-relaxed">
+                {isRu 
+                  ? "Профессиональная техническая поддержка и помощь в выборе оптимальных решений для вашего бизнеса." 
+                  : (isFr ? "Support technique professionnel et assistance dans le choix des solutions optimales pour votre entreprise." : "Professional technical support and assistance in choosing the optimal solutions for your business.")}
+              </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* FAQ Section - Clean & Minimal */}
-      {product.faqs && product.faqs.length > 0 && (
-        <section className="py-24 bg-white border-t border-slate-100">
-          <div className="container mx-auto px-4 max-w-4xl">
-            <div className="text-center mb-16">
-              <h2 className="text-[11px] font-black text-[#0066B3] uppercase tracking-[0.3em] mb-4">Support</h2>
-              <h3 className="text-4xl font-black text-slate-900 tracking-tight">{content.faqTitle}</h3>
-            </div>
-            <Accordion type="single" collapsible className="w-full space-y-4">
-              {product.faqs.map((faq: any, i: number) => (
-                <AccordionItem key={i} value={`item-${i}`} className="border border-slate-100 rounded-3xl px-8 bg-slate-50/30 overflow-hidden transition-all hover:bg-white hover:shadow-lg hover:shadow-blue-900/5">
-                  <AccordionTrigger className="hover:no-underline py-6 text-left font-bold text-slate-900 text-lg hover:text-[#0066B3] transition-colors">
-                    {faq.question}
-                  </AccordionTrigger>
-                  <AccordionContent className="text-slate-600 pb-8 leading-relaxed text-base font-medium">
-                    {faq.answer}
-                  </AccordionContent>
-                </AccordionItem>
-              ))}
-            </Accordion>
-          </div>
-        </section>
-      )}
-
-      {/* Related Products - Premium Carousel Style */}
+      {/* Related Products */}
       {relatedProducts.length > 0 && (
-        <section className="py-24 bg-slate-900 overflow-hidden">
+        <section className="py-24 bg-slate-50">
           <div className="container mx-auto px-4">
-            <div className="flex items-end justify-between mb-16">
+            <div className="flex items-end justify-between mb-12">
               <div>
-                <h2 className="text-[11px] font-black text-blue-400 uppercase tracking-[0.3em] mb-4">Discovery</h2>
-                <h3 className="text-4xl font-black text-white tracking-tight">{isRu ? "Похожие продукты" : (isFr ? "Produits Connexes" : "Related Products")}</h3>
+                <h2 className="text-3xl font-black text-slate-900 mb-4">{content.relatedProducts}</h2>
+                <p className="text-slate-500 font-medium">{content.relatedTitle}</p>
               </div>
-              <Link to={`${langPrefix}/products`} className="flex items-center gap-2 text-blue-400 font-black text-sm hover:gap-4 transition-all duration-300">
-                {content.viewAll} <ArrowRight className="w-5 h-5" />
+              <Link to={`${langPrefix}/products`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold hover:gap-3 transition-all">
+                {content.viewAll}
+                <ArrowRight className="w-5 h-5" />
               </Link>
             </div>
+            
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-              {relatedProducts.map((p: any) => (
-                <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group relative bg-white/5 backdrop-blur-sm rounded-[2.5rem] p-8 border border-white/10 hover:bg-white transition-all duration-500 hover:-translate-y-2">
-                  <div className="aspect-square rounded-2xl overflow-hidden bg-white/5 mb-8 p-6 group-hover:bg-slate-50 transition-all duration-500">
-                    <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-700" />
+              {relatedProducts.map((rp: any) => (
+                <Link 
+                  key={rp.slug} 
+                  to={`${langPrefix}/products/${rp.slug}`}
+                  className="group bg-white rounded-3xl border border-slate-100 overflow-hidden hover:shadow-2xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-2"
+                >
+                  <div className="aspect-square bg-slate-50 p-8 overflow-hidden relative">
+                    <img 
+                      src={rp.image} 
+                      alt={rp.name} 
+                      className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-[#0066B3]/0 group-hover:bg-[#0066B3]/5 transition-colors duration-500" />
                   </div>
-                  <h3 className="text-xl font-black text-white group-hover:text-slate-900 transition-colors duration-500 mb-2">{p.name}</h3>
-                  <p className="text-[10px] text-blue-400 uppercase font-black tracking-widest">{p.category}</p>
+                  <div className="p-6">
+                    <span className="text-[10px] font-black text-[#0066B3] uppercase tracking-widest mb-2 block">{rp.category}</span>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-1">{rp.name}</h3>
+                    <p className="text-xs text-slate-500 line-clamp-2 mb-4 leading-relaxed">{rp.shortDescription}</p>
+                    <div className="flex items-center text-xs font-black text-slate-900 uppercase tracking-widest group-hover:gap-2 transition-all">
+                      {isRu ? "Подробнее" : (isFr ? "Détails" : "View Details")}
+                      <ChevronRight className="w-4 h-4 text-[#0066B3]" />
+                    </div>
+                  </div>
                 </Link>
               ))}
             </div>

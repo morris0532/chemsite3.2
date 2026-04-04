@@ -12,8 +12,8 @@ const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Sinopeakchem",
-  url: "https://sinopeakchem.com",
-  logo: "https://sinopeakchem.com/logo.png",
+  url: "https://www.sinopeakchem.com",
+  logo: "https://www.sinopeakchem.com/logo.png",
   description: "Sinopeakchem is a premier B2B chemical supply partner from China, providing high-purity industrial chemicals and comprehensive supply chain solutions.",
   contactPoint: {
     "@type": "ContactPoint",
@@ -103,6 +103,8 @@ export default function HomePage() {
   const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : jsonLdEn);
 
   const content = isRu ? {
+    title: "Ведущий поставщик химикатов | Промышленные решения из Китая | Sinopeakchem",
+    description: "Sinopeakchem — ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката. Глобальная дистрибуция из Китая с гарантией качества.",
     heroBadge: "Выбор ведущих предприятий в 50+ странах",
     heroTitle: "Ваш стратегический партнер по <span class=\"text-blue-100\">химическим</span> решениям",
     heroDesc: "Sinopeakchem поставляет высокочистые промышленные химикаты по всему миру. Мы обеспечиваем превосходное качество продукции и надежную глобальную логистику.",
@@ -120,6 +122,8 @@ export default function HomePage() {
     latestInsightsDesc: "Новости рынка, технические руководства и аналитические статьи",
     viewAllArticles: "Все статьи",
   } : (isFr ? {
+    title: "Premier Fournisseur de Produits Chimiques | Solutions Industrielles de Chine | Sinopeakchem",
+    description: "Sinopeakchem est un fournisseur de produits chimiques B2B de premier plan proposant plus de 22 produits chimiques industriels de haute pureté. Distribution mondiale depuis la Chine.",
     heroBadge: "Partenaire privilégié des entreprises dans plus de 50 pays",
     heroTitle: "Votre Partenaire Stratégique en Solutions <span class=\"text-blue-100\">Chimiques</span>",
     heroDesc: "Sinopeakchem livre des produits chimiques industriels de haute pureté dans le monde entier. Nous garantissons une qualité de produit supérieure et une logistique mondiale fiable.",
@@ -137,6 +141,8 @@ export default function HomePage() {
     latestInsightsDesc: "Actualités du marché, guides techniques des produits et analyses de l'industrie",
     viewAllArticles: "Voir Tous les Articles",
   } : {
+    title: "Premier Chemical Supplier | Industrial Solutions from China | Sinopeakchem",
+    description: "Sinopeakchem is a premier B2B chemical supplier offering 22+ high-purity industrial chemicals. Global distribution from China with guaranteed quality leadership.",
     heroBadge: "Preferred partner for enterprises in 50+ countries",
     heroTitle: "Your Strategic <span class=\"text-blue-100\">Chemical</span> Solution Partner",
     heroDesc: "Sinopeakchem delivers high-purity industrial chemicals worldwide. We ensure superior product quality, competitive supply chain value, and dependable global logistics.",
@@ -157,10 +163,8 @@ export default function HomePage() {
 
   return (
     <Layout
-      title={isRu ? "Ведущий поставщик химикатов | Промышленные решения из Китая" : (isFr ? "Premier Fournisseur de Produits Chimiques | Solutions Industrielles de Chine" : "Premier Chemical Supplier | Industrial Solutions from China")}
-      description={isRu 
-        ? "Sinopeakchem — ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката. Глобальная дистрибуция из Китая с гарантией качества."
-        : (isFr ? "Sinopeakchem est un fournisseur de produits chimiques B2B de premier plan proposant plus de 22 produits chimiques industriels de haute pureté. Distribution mondiale depuis la Chine." : "Sinopeakchem is a premier B2B chemical supplier offering 22+ high-purity industrial chemicals. Global distribution from China with guaranteed quality leadership.")}
+      title={content.title}
+      description={content.description}
       jsonLd={jsonLd}
     >
       {/* Hero Section */}
@@ -181,12 +185,13 @@ export default function HomePage() {
             </p>
             <div className="flex flex-wrap gap-4">
               <Link to={`${langPrefix}/products`}>
-                <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 font-bold text-base px-8 h-14 rounded-lg shadow-xl shadow-blue-900/25 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-900/35 hover:-translate-y-1">
-                  {content.viewProducts} <ArrowRight className="ml-2.5 w-5 h-5" />
+                <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 h-14 px-8 text-base font-bold rounded-xl shadow-xl shadow-black/10 transition-all hover:-translate-y-1">
+                  {content.viewProducts}
+                  <ArrowRight className="w-5 h-5 ml-2" />
                 </Button>
               </Link>
               <Link to={`${langPrefix}/contact`}>
-                <Button size="lg" variant="outline" className="!bg-white/8 border-2 border-white/30 text-white hover:!bg-white/15 backdrop-blur-sm font-bold text-base px-8 h-14 rounded-lg transition-all duration-300 hover:border-white/50 hover:-translate-y-1">
+                <Button size="lg" variant="outline" className="bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/20 h-14 px-8 text-base font-bold rounded-xl transition-all hover:-translate-y-1">
                   {content.getQuote}
                 </Button>
               </Link>
@@ -196,20 +201,20 @@ export default function HomePage() {
       </section>
 
       {/* Features Section */}
-      <section className="py-16 md:py-20 bg-gradient-to-b from-[#F8FAFC] to-white">
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 tracking-tight">{content.whyChoose}</h2>
-            <p className="text-gray-600 text-base max-w-2xl mx-auto font-medium leading-relaxed">{content.whyChooseDesc}</p>
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.whyChoose}</h2>
+            <p className="text-gray-600 text-lg">{content.whyChooseDesc}</p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {features.map((f, i) => (
-              <div key={i} className="bg-white rounded-2xl p-8 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100/50 group hover:-translate-y-1">
-                <div className="w-14 h-14 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl flex items-center justify-center mb-6 group-hover:from-[#0066B3] group-hover:to-[#004a82] transition-all duration-300 shadow-sm">
-                  <f.icon className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors duration-300" />
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {features.map((feature, index) => (
+              <div key={index} className="p-8 rounded-2xl bg-[#F8FAFC] border border-slate-100 hover:border-blue-200 hover:shadow-xl hover:shadow-blue-900/5 transition-all group">
+                <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:bg-[#0066B3] transition-colors">
+                  <feature.icon className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors" />
                 </div>
-                <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-[#0066B3] transition-colors duration-300">{f.title}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed font-medium">{f.desc}</p>
+                <h3 className="text-xl font-bold text-[#1A1A2E] mb-3">{feature.title}</h3>
+                <p className="text-gray-600 leading-relaxed">{feature.desc}</p>
               </div>
             ))}
           </div>
@@ -217,45 +222,33 @@ export default function HomePage() {
       </section>
 
       {/* Featured Products */}
-      <section className="py-16 md:py-20 bg-white">
+      <section className="py-20 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
-          <div className="flex items-end justify-between mb-14">
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
             <div className="max-w-2xl">
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3 tracking-tight">{content.featuredTitle}</h2>
-              <p className="text-gray-600 text-base font-medium">{content.featuredDesc}</p>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.featuredTitle}</h2>
+              <p className="text-gray-600 text-lg">{content.featuredDesc}</p>
             </div>
-            <Link to={`${langPrefix}/products`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold text-base hover:gap-3 transition-all duration-300 hover:text-[#004a82]">
-              {content.viewAll} <ArrowRight className="w-5 h-5" />
+            <Link to={`${langPrefix}/products`}>
+              <Button variant="outline" className="border-[#0066B3] text-[#0066B3] hover:bg-[#0066B3] hover:text-white font-bold px-6">
+                {content.viewAll}
+                <ArrowRight className="w-4 h-4 ml-2" />
+              </Button>
             </Link>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            {featuredProducts.map((product) => (
-              <Link
-                key={product.id}
-                to={`${langPrefix}/products/${product.slug}`}
-                className="group bg-white rounded-3xl border border-gray-100/50 overflow-hidden shadow-sm hover:shadow-xl hover:shadow-blue-900/10 transition-all duration-500 hover:-translate-y-2"
-              >
-                <div className="aspect-[4/3] overflow-hidden relative">
-                  <img
-                    src={product.image}
-                    alt={product.name}
-                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                  <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-md px-3 py-1 rounded-full text-[10px] font-bold text-[#0066B3] uppercase tracking-wider shadow-sm">
-                    {product.category}
-                  </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {featuredProducts.map((product: any) => (
+              <Link key={product.slug} to={`${langPrefix}/products/${product.slug}`} className="group bg-white rounded-2xl border border-slate-100 overflow-hidden hover:shadow-2xl transition-all duration-500">
+                <div className="aspect-square bg-slate-50 p-12 overflow-hidden relative">
+                  <img src={product.image} alt={product.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500" />
                 </div>
                 <div className="p-8">
-                  <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-[#0066B3] transition-colors duration-300">{product.name}</h3>
-                  <p className="text-gray-600 text-sm line-clamp-2 mb-6 font-medium leading-relaxed">
-                    {product.shortDescription}
-                  </p>
-                  <div className="flex items-center justify-between pt-6 border-t border-gray-50">
-                    <span className="text-xs font-bold text-gray-400 uppercase tracking-widest">CAS: {product.cas}</span>
-                    <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center text-[#0066B3] group-hover:bg-[#0066B3] group-hover:text-white transition-all duration-300">
-                      <ArrowRight className="w-5 h-5" />
-                    </div>
+                  <span className="text-xs font-bold text-[#0066B3] uppercase tracking-widest mb-2 block">{product.category}</span>
+                  <h3 className="text-xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors">{product.name}</h3>
+                  <p className="text-gray-600 text-sm line-clamp-2 mb-6 leading-relaxed">{product.shortDescription}</p>
+                  <div className="flex items-center text-sm font-bold text-[#1A1A2E] group-hover:gap-2 transition-all">
+                    {isRu ? "Подробнее" : (isFr ? "Détails" : "View Details")}
+                    <ArrowRight className="w-4 h-4 ml-2 text-[#0066B3]" />
                   </div>
                 </div>
               </Link>
@@ -264,74 +257,63 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Shipping Section */}
-      <section className="py-16 md:py-24 bg-[#003d66] relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10">
-          <img src={SHIP_IMG} alt="Global Logistics" className="w-full h-full object-cover" />
-        </div>
-        <div className="container mx-auto px-4 relative z-10">
-          <div className="max-w-4xl mx-auto text-center text-white">
-            <h2 className="text-3xl md:text-5xl font-bold mb-8 leading-tight">{content.ctaTitle}</h2>
-            <p className="text-lg md:text-xl text-blue-100/80 mb-12 font-medium leading-relaxed">
-              {content.ctaDesc}
-            </p>
-            <div className="flex flex-wrap justify-center gap-6">
-              <Link to={`${langPrefix}/contact`}>
-                <Button size="lg" className="bg-white text-[#003d66] hover:bg-blue-50 font-bold text-lg px-10 h-16 rounded-xl shadow-2xl transition-all duration-300 hover:-translate-y-1">
-                  {content.getQuote}
-                </Button>
-              </Link>
-              <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer">
-                <Button size="lg" variant="outline" className="!bg-emerald-500/10 border-2 border-emerald-400/30 text-emerald-400 hover:!bg-emerald-500/20 font-bold text-lg px-10 h-16 rounded-xl transition-all duration-300 hover:-translate-y-1">
-                  <MessageCircle className="mr-3 w-6 h-6" /> {content.chatWhatsApp}
-                </Button>
-              </a>
+      {/* CTA Section */}
+      <section className="py-20">
+        <div className="container mx-auto px-4">
+          <div className="relative rounded-[2.5rem] overflow-hidden bg-[#003d66] p-8 md:p-16">
+            <img src={SHIP_IMG} alt="Global Chemical Logistics" className="absolute inset-0 w-full h-full object-cover opacity-30" />
+            <div className="absolute inset-0 bg-gradient-to-r from-[#003d66] via-[#003d66]/80 to-transparent" />
+            <div className="relative z-10 max-w-2xl text-white">
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">{content.ctaTitle}</h2>
+              <p className="text-blue-100 text-lg mb-10 leading-relaxed">
+                {content.ctaDesc}
+              </p>
+              <div className="flex flex-wrap gap-4">
+                <Link to={`${langPrefix}/contact`}>
+                  <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 h-14 px-8 font-bold rounded-xl">
+                    {content.getQuote}
+                  </Button>
+                </Link>
+                <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10 h-14 px-8 font-bold rounded-xl">
+                    <MessageCircle className="w-5 h-5 mr-2" />
+                    {content.chatWhatsApp}
+                  </Button>
+                </a>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Latest Blog Posts */}
-      <section className="py-16 md:py-20 bg-[#F8FAFC]">
+      {/* Latest Insights */}
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="flex items-end justify-between mb-14">
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
             <div className="max-w-2xl">
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3 tracking-tight">{content.latestInsights}</h2>
-              <p className="text-gray-600 text-base font-medium">{content.latestInsightsDesc}</p>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.latestInsights}</h2>
+              <p className="text-gray-600 text-lg">{content.latestInsightsDesc}</p>
             </div>
-            <Link to={`${langPrefix}/blog`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold text-base hover:gap-3 transition-all duration-300 hover:text-[#004a82]">
-              {content.viewAllArticles} <ArrowRight className="w-5 h-5" />
+            <Link to={`${langPrefix}/blog`}>
+              <Button variant="outline" className="border-[#0066B3] text-[#0066B3] hover:bg-[#0066B3] hover:text-white font-bold px-6">
+                {content.viewAllArticles}
+                <ArrowRight className="w-4 h-4 ml-2" />
+              </Button>
             </Link>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {recentBlogs.map((post) => (
-              <Link
-                key={post.id}
-                to={`${langPrefix}/blog/${post.slug}`}
-                className="group bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500 border border-gray-100/50"
-              >
-                <div className="aspect-video overflow-hidden">
-                  <img
-                    src={post.image}
-                    alt={post.title}
-                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
-                  />
+            {recentBlogs.map((post: any) => (
+              <Link key={post.slug} to={`${langPrefix}/blog/${post.slug}`} className="group flex flex-col h-full">
+                <div className="aspect-[16/10] rounded-2xl overflow-hidden mb-6">
+                  <img src={post.image} alt={post.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                 </div>
-                <div className="p-8">
-                  <div className="flex items-center gap-3 mb-4">
-                    <span className="px-3 py-1 bg-blue-50 text-[#0066B3] text-[10px] font-bold rounded-full uppercase tracking-wider">
-                      {post.category}
-                    </span>
-                    <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">
-                      {new Date(post.date).toLocaleDateString(isRu ? 'ru-RU' : (isFr ? 'fr-FR' : 'en-US'), { month: 'short', day: 'numeric', year: 'numeric' })}
-                    </span>
+                <div className="flex-1">
+                  <div className="flex items-center gap-3 mb-3">
+                    <span className="text-xs font-bold text-[#0066B3] bg-blue-50 px-2.5 py-1 rounded-full">{post.category}</span>
+                    <span className="text-xs text-gray-400">{new Date(post.date).toLocaleDateString(isRu ? 'ru-RU' : (isFr ? 'fr-FR' : 'en-US'), { month: 'long', day: 'numeric', year: 'numeric' })}</span>
                   </div>
-                  <h3 className="text-xl font-bold text-gray-900 mb-4 group-hover:text-[#0066B3] transition-colors duration-300 line-clamp-2 leading-snug">
-                    {post.title}
-                  </h3>
-                  <p className="text-gray-600 text-sm line-clamp-2 font-medium leading-relaxed">
-                    {post.excerpt}
-                  </p>
+                  <h3 className="text-xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors line-clamp-2">{post.title}</h3>
+                  <p className="text-gray-600 text-sm line-clamp-2 leading-relaxed">{post.excerpt}</p>
                 </div>
               </Link>
             ))}
