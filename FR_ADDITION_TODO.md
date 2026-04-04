@@ -17,7 +17,7 @@
 - [x] 翻译 `Layout.tsx` 中的导航菜单 (NavLinks)
 - [x] 翻译 Footer、搜索框、联系表单中的固定文字
 - [x] 升级语言切换器为下拉菜单模式
-- [ ] 创建法语版 `Home`, `About`, `Contact` 页面组件 (将在内容填充阶段同步优化)
+- [x] 创建法语版 `Home`, `About`, `Contact` 页面组件 (已在内容填充阶段同步优化)
 
 ---
 
@@ -27,6 +27,7 @@
 - [x] 验证法语版目录结构完整性
 
 ---
+
 ## 📅 阶段 4：内容翻译与替换 (Content Translation) - [✅ 已完成]
 - [x] 逐一翻译 `src/content/fr/products/` 下的所有文件 (22/22)
     - [x] Chlorure d'ammonium (ammonium-chloride.md)
@@ -59,16 +60,21 @@
     - [x] Applications de l'acide oxalique (oxalic-acid-industrial-applications.md)
     - [x] Thiosulfate de sodium polyvalent (sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.md)
     - [x] Comparaison des produits de traitement de l'eau (water-treatment-chemicals-comparison.md)
-- [x] 验证法语版 MD 内容的静态注入效果---
-
-## 📅 阶段 4：SEO 与 站点地图同步 (SEO & Sitemap) - [待开始]
-- [ ] 修改 `generate-sitemap.mjs` 加入法语 URL
-- [ ] 确保法语版 JSON-LD 结构化数据正确显示
-- [ ] 提交法语版 URL 到 Google Search Console 进行测试
+- [x] 验证法语版 MD 内容的静态注入效果
 
 ---
 
-## 🏁 最终验证 (Final Check)
-- [ ] 验证法语版全站链接跳转
-- [ ] 验证法语版 SEO 源码注入
-- [ ] 验证法语版移动端适配
+## 📅 阶段 5：SEO 与 站点地图同步 (SEO & Sitemap) - [✅ 已完成]
+- [x] 修改 `scripts/generate-sitemap.mjs` 加入法语 URL
+- [x] 确保法语版 JSON-LD 结构化数据正确显示
+- [x] 验证法语版 SEO 源码注入 (alternate 链接)
+
+---
+
+## 🏁 最终验证 (Final Check) - [✅ 已完成]
+- [x] 验证法语版全站链接跳转与路由配置
+- [x] 验证法语版移动端适配与语言切换器逻辑
+- [x] 实现法语版搜索功能 (SearchDialog.tsx, useSearch.ts)
+- [x] 翻译法律条款页面 (PrivacyPolicy.tsx, TermsOfService.tsx)
+- [x] 完善 404 页面法语支持 (NotFound.tsx)
+- [x] 提交所有更改并推送到 GitHub
