@@ -29,8 +29,9 @@
 ---
 
 ## 📅 阶段 4：内容翻译与替换 (Content Translation) - [待开始]
-- [ ] 逐一翻译并替换 `src/content/fr/products/` 下的文件 (1/22)
+- [ ] 逐一翻译并替换 `src/content/fr/products/` 下的文件 (2/22)
     - [x] Chlorure d'ammonium (ammonium-chloride.md)
+    - [x] Borax (borax.md)
     - [ ] 其他产品 (进行中...)
 - [ ] 逐一翻译并替换 `src/content/fr/blog/` 下的文件
 - [ ] 验证法语版 MD 内容的静态注入效果
