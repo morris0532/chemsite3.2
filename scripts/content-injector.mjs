@@ -7,6 +7,7 @@ import { getPrerenderRoutes } from './get-prerender-routes.mjs';
 const routes = getPrerenderRoutes();
 const distDir = path.resolve('dist');
 const contentDir = path.resolve('src/content');
+const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
 
 console.log(`Starting content injection for ${routes.length} routes...`);
 
@@ -23,31 +24,48 @@ routes.forEach(route => {
   let title = '';
   let description = '';
 
-  // 尝试匹配 MD 文件
-  let mdFilePath = null;
-  const parts = route.split('/').filter(Boolean); // [en, blog, slug] 或 [en, products, slug]
+  const parts = route.split('/').filter(Boolean); // [en, blog, slug] 或 [en, products, slug] 或 [en, about]
+  const locale = parts[0] || 'en';
+  const type = parts[1];
+  const slug = parts[2];
 
-  if (parts.length === 3) {
-    const [locale, type, slug] = parts;
-    if ((type === 'blog' || type === 'products')) {
-      mdFilePath = path.join(contentDir, locale, type, `${slug}.md`);
+  // 1. 处理产品详情页和博客详情页 (MD 文件)
+  if (parts.length === 3 && (type === 'blog' || type === 'products')) {
+    const mdFilePath = path.join(contentDir, locale, type, `${slug}.md`);
+    if (fs.existsSync(mdFilePath)) {
+      const fileContent = fs.readFileSync(mdFilePath, 'utf-8');
+      const { data, content } = matter(fileContent);
+      contentHtml = marked.parse(content);
+      title = data.title || data.name || '';
+      description = data.excerpt || data.description || data.shortDescription || '';
     }
-  } else if (parts.length === 2) {
-    const [locale, page] = parts;
-    const possibleMdPath = path.join(contentDir, locale, `${page}.md`);
-    if (fs.existsSync(possibleMdPath)) {
-      mdFilePath = possibleMdPath;
+  } 
+  // 2. 处理 About, Contact, Privacy, Terms (硬编码或简单逻辑)
+  else if (parts.length === 2) {
+    const page = parts[1];
+    if (page === 'about') {
+      title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
+      description = siteConfig[locale]?.footer?.companyDesc || '';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+    } else if (page === 'contact') {
+      title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
+      description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+    } else if (page === 'products') {
+      title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
+      description = 'Browse our wide range of high-quality industrial chemicals.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+    } else if (page === 'blog') {
+      title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
+      description = 'Latest industry insights and product guides from Sinopeakchem.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
     }
   }
-
-  if (mdFilePath && fs.existsSync(mdFilePath)) {
-    const fileContent = fs.readFileSync(mdFilePath, 'utf-8');
-    const { data, content } = matter(fileContent);
-    contentHtml = marked.parse(content);
-    
-    // 适配不同类型的 MD 字段
-    title = data.title || data.name || '';
-    description = data.excerpt || data.description || data.shortDescription || '';
+  // 3. 处理首页
+  else if (parts.length === 1) {
+    title = locale === 'ru' ? 'Главная' : (locale === 'fr' ? 'Accueil' : 'Home');
+    description = siteConfig[locale]?.footer?.companyDesc || '';
+    contentHtml = `<h1>${title}</h1><p>${description}</p>`;
   }
 
   if (contentHtml || title || description) {
@@ -59,7 +77,7 @@ routes.forEach(route => {
       html = html.replace(rootPlaceholder, `<div id="root">${contentHtml}</div>`);
     }
 
-    // 2. 注入 SEO Title (使用更激进的正则替换)
+    // 2. 注入 SEO Title
     if (title) {
       const fullTitle = `${title} | Sinopeakchem`;
       const titleRegex = /<title>[\s\S]*?<\/title>/i;
@@ -70,7 +88,7 @@ routes.forEach(route => {
       }
     }
 
-    // 3. 注入 SEO Description (使用更激进的正则替换)
+    // 3. 注入 SEO Description
     if (description) {
       const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
       const descMeta = `<meta name="description" content="${cleanDesc}" />`;
