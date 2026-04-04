@@ -166,9 +166,10 @@ routes.forEach(route => {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
     // 1. 注入正文到 <div id="root"></div>
+    // 同时添加 'loaded' 类，确保静态 HTML 在浏览器中直接可见，避免 FOUC
     const rootPlaceholder = '<div id="root"></div>';
     if (contentHtml && html.includes(rootPlaceholder)) {
-      html = html.replace(rootPlaceholder, `<div id="root">${contentHtml}</div>`);
+      html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
     }
 
     // 2. 注入 SEO Title

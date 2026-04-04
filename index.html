@@ -7,8 +7,20 @@
     <title>Premier Chemical Supplier from China | Sinopeakchem</title>
     <meta name="description" content="Sinopeakchem is a leading B2B chemical supplier from China." />
     <meta name="author" content="Sinopeakchem" />
-
-
+    <style>
+      /* 初始隐藏 #root，防止无样式内容闪烁 (FOUC) */
+      #root:empty {
+        display: none;
+      }
+      /* 当 React 注入内容后，通过动画平滑显示 */
+      #root {
+        opacity: 0;
+        transition: opacity 0.3s ease-in;
+      }
+      #root.loaded {
+        opacity: 1;
+      }
+    </style>
   </head>
 
   <body>
