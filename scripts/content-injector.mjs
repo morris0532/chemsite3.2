@@ -11,6 +11,28 @@ const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config
 
 console.log(`Starting content injection for ${routes.length} routes...`);
 
+// 预先读取所有产品和博客的元数据，用于列表页的关键词生成
+const contentMetadata = {
+  en: { products: [], blog: [] },
+  ru: { products: [], blog: [] },
+  fr: { products: [], blog: [] }
+};
+
+['en', 'ru', 'fr'].forEach(locale => {
+  ['products', 'blog'].forEach(type => {
+    const dir = path.join(contentDir, locale, type);
+    if (fs.existsSync(dir)) {
+      fs.readdirSync(dir).forEach(file => {
+        if (file.endsWith('.md')) {
+          const fileContent = fs.readFileSync(path.join(dir, file), 'utf-8');
+          const { data } = matter(fileContent);
+          contentMetadata[locale][type].push(data.title || data.name || '');
+        }
+      });
+    }
+  });
+});
+
 routes.forEach(route => {
   const routePath = route.startsWith('/') ? route.slice(1) : route;
   const targetFile = path.join(distDir, routePath, 'index.html');
@@ -50,10 +72,24 @@ routes.forEach(route => {
       }
     }
   } 
-  // 2. 处理 About, Contact, Privacy, Terms (硬编码或简单逻辑)
+  // 2. 处理列表页及其他基础页面
   else if (parts.length === 2) {
     const page = parts[1];
-    if (page === 'about') {
+    if (page === 'products') {
+      title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
+      description = 'Browse our wide range of high-quality industrial chemicals.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      // 动态生成产品列表页关键词：汇总所有产品名称
+      const productNames = contentMetadata[locale].products.slice(0, 15).join(', ');
+      keywords = `${productNames}, ${locale === 'ru' ? 'химикаты, промышленная химия' : (locale === 'fr' ? 'produits chimiques, chimie industrielle' : 'chemicals, industrial chemicals')}`;
+    } else if (page === 'blog') {
+      title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
+      description = 'Latest industry insights and product guides from Sinopeakchem.';
+      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
+      // 动态生成博客列表页关键词：汇总所有博客标题
+      const blogTitles = contentMetadata[locale].blog.slice(0, 10).join(', ');
+      keywords = `${blogTitles}, ${locale === 'ru' ? 'новости отрасли, химические руководства' : (locale === 'fr' ? 'actualités de l\'industrie, guides chimiques' : 'industry news, chemical guides')}`;
+    } else if (page === 'about') {
       title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
       description = siteConfig[locale]?.footer?.companyDesc || '';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
@@ -63,16 +99,6 @@ routes.forEach(route => {
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
       contentHtml = `<h1>${title}</h1><p>${description}</p>`;
       keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
-    } else if (page === 'products') {
-      title = locale === 'ru' ? 'Продукты' : (locale === 'fr' ? 'Produits' : 'Products');
-      description = 'Browse our wide range of high-quality industrial chemicals.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = locale === 'ru' ? 'продукты, химикаты, промышленная химия, каталог' : (locale === 'fr' ? 'produits, produits chimiques, chimie industrielle, catalogue' : 'products, chemicals, industrial chemicals, catalog');
-    } else if (page === 'blog') {
-      title = locale === 'ru' ? 'Блог' : (locale === 'fr' ? 'Blog' : 'Blog');
-      description = 'Latest industry insights and product guides from Sinopeakchem.';
-      contentHtml = `<h1>${title}</h1><p>${description}</p>`;
-      keywords = locale === 'ru' ? 'блог, новости отрасли, химические руководства, технические статьи' : (locale === 'fr' ? 'blog, actualités de l\'industrie, guides de produits chimiques, articles techniques' : 'blog, industry news, chemical guides, technical articles');
     } else if (page === 'privacy-policy') {
       title = locale === 'ru' ? 'Политика конфиденциальности' : (locale === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy');
       description = 'Privacy policy and data protection at Sinopeakchem.';
