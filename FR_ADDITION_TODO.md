@@ -21,8 +21,11 @@
 
 ---
 
-## 📅 阶段 3：产品与博客内容填充 (Content Migration) - [待开始]
+## 📅 阶段 3：产品与博客内容填充 (Content Migration) - [进行中]
 - [ ] 迁移并翻译核心产品 MD 文件
+    - [x] Sulfate d'ammonium (ammonium-sulphate.md)
+    - [x] Soude Caustique (caustic-soda.md)
+    - [ ] 其他产品 (进行中...)
 - [ ] 迁移并翻译核心博客 MD 文件
 - [ ] 验证法语版 MD 内容的静态注入效果
 
