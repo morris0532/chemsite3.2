@@ -1,77 +1,76 @@
 ---
 id: "17"
-name: "Sodium Acetate Anhydrous"
+name: "Acétate de sodium anhydre"
 nameCn: "无水醋酸钠"
 cas: "127-09-3 / 6131-90-4"
 hsCode: "2915291000"
 slug: "sodium-acetate-anhydrous"
-shortDescription: "High-purity Sodium Acetate Anhydrous (CH3COONa) for bulk purchase and export from China. Essential for textile, pharmaceutical, and food applications. Trusted manufacturer with competitive pricing."
+shortDescription: "Acétate de sodium anhydre (CH3COONa) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications textiles, pharmaceutiques et alimentaires. Fabricant de confiance avec des prix compétitifs."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
-  {"label":"Chemical Formula","value":"CH₃COONa"},
-  {"label":"CAS Number","value":"127-09-3 / 6131-90-4"},
-  {"label":"HS Code","value":"2915291000"},
-  {"label":"Purity","value":"≥99.0%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"Formule chimique","value":"CH₃COONa"},
+  {"label":"Numéro CAS","value":"127-09-3 / 6131-90-4"},
+  {"label":"Code SH","value":"2915291000"},
+  {"label":"Pureté","value":"≥99,0 %"},
+  {"label":"Apparence","value":"Poudre cristalline blanche"},
+  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"Chargement","value":"25 MT par conteneur 20GP (FCL)"},
+  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
 ]
 applications: [
-  "Textile dyeing and printing (buffering agent)",
-  "Pharmaceutical industry (excipient, diuretic)",
-  "Food additive (seasoning, preservative, pH regulator)",
-  "Photography (fixing agent)",
-  "Buffer solutions",
-  "Synthetic rubber production"
+  "Teinture et impression textile (agent tampon)",
+  "Industrie pharmaceutique (excipient, diurétique)",
+  "Additif alimentaire (assaisonnement, conservateur, régulateur de pH)",
+  "Photographie (agent de fixage)",
+  "Solutions tampons",
+  "Production de caoutchouc synthétique"
 ]
 faqs: [
-  {"question":"What grades of Sodium Acetate Anhydrous do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Acetate Anhydrous, offering industrial grade, food grade, and pharmaceutical grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Acetate Anhydrous products?",
-    "answer":"Our Sodium Acetate Anhydrous (CH₃COONa) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"Quelles qualités d'acétate de sodium anhydre fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine d'acétate de sodium anhydre, proposant des qualités industrielle, alimentaire et pharmaceutique avec une pureté ≥99,0 %. Toutes les qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
+    "question":"Quelle est la pureté typique de vos produits d'acétate de sodium anhydre ?",
+    "answer":"Notre acétate de sodium anhydre (CH₃COONa) est disponible avec une pureté minimale de 99,0 %. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
   },{
-    "question":"How is Sodium Acetate Anhydrous packaged for international shipping from China?",
-    "answer":"For export, our Sodium Acetate Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"Comment l'acétate de sodium anhydre est-il emballé pour l'expédition internationale depuis la Chine ?",
+    "answer":"Pour l'exportation, notre acétate de sodium anhydre est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Acetate Anhydrous?",
-    "answer":"Our industrial grade Sodium Acetate Anhydrous is widely used in textile dyeing, pharmaceuticals, food as a seasoning and preservative, and in photography. Its versatility makes it a key chemical."
+    "question":"Quelles sont les principales applications de votre acétate de sodium anhydre de qualité industrielle ?",
+    "answer":"Notre acétate de sodium anhydre de qualité industrielle est largement utilisé dans la teinture textile, les produits pharmaceutiques, l'alimentation comme assaisonnement et conservateur, et dans la photographie. Sa polyvalence en fait un produit chimique clé."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Acetate Anhydrous?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour l'acétate de sodium anhydre ?",
+    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
-    "question":"What is the lead time for bulk Sodium Acetate Anhydrous orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Acetate Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"Quel est le délai de livraison pour les commandes d'acétate de sodium anhydre en gros de votre usine ?",
+    "answer":"Le délai de livraison standard pour les commandes d'acétate de sodium anhydre en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
 loading: "25MT/20GP"
 packaging: "25KG/Jumbo bags"
-category: "Organic Salts"
+category: "Sels organiques"
 featured: false
 ---
 
-## Sodium Acetate Anhydrous (CAS 127-09-3): Your Trusted China Manufacturer & Supplier for High-Purity CH₃COONa
+## Acétate de sodium anhydre (CAS 127-09-3) : Votre fabricant et fournisseur de confiance en Chine pour le CH₃COONa de haute pureté
 
-As a premier **China manufacturer and supplier** of **Sodium Acetate Anhydrous (CH₃COONa)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Acetate Anhydrous is produced to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, pharmaceutical, and food applications (HS Code: 2915291000).
+En tant que **fabricant et fournisseur de premier plan en Chine** d'**acétate de sodium anhydre (CH₃COONa)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,0 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acétate de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles, pharmaceutiques et alimentaires (Code SH : 2915291000).
 
-### Key Applications & Benefits:
+### Principales applications et avantages :
 
-1.  **Textile Industry**: Widely used in the **textile dyeing and printing industry** as a buffering agent to maintain pH during dyeing processes, ensuring consistent color and preventing dye degradation.
+1.  **Industrie textile** : Largement utilisé dans l'**industrie de la teinture et de l'impression textile** comme agent tampon pour maintenir le pH pendant les processus de teinture, garantissant une couleur constante et empêchant la dégradation de la teinture.
 
-2.  **Pharmaceutical Industry**: Essential in the **pharmaceutical industry** as an excipient, a diuretic, and a component in various buffer solutions for drug formulations and intravenous fluids.
+2.  **Industrie pharmaceutique** : Essentiel dans l'**industrie pharmaceutique** comme excipient, diurétique et composant dans diverses solutions tampons pour les formulations de médicaments et les fluides intraveineux.
 
-3.  **Food Additive**: Food-grade Sodium Acetate Anhydrous is used as a **seasoning, preservative, and pH regulator** in various food products, including snacks, sauces, and baked goods. It helps extend shelf life and enhance flavor.
+3.  **Additif alimentaire** : L'acétate de sodium anhydre de qualité alimentaire est utilisé comme **assaisonnement, conservateur et régulateur de pH** dans divers produits alimentaires, notamment les collations, les sauces et les produits de boulangerie. Il aide à prolonger la durée de conservation et à rehausser la saveur.
 
-4.  **Photography**: Employed in **photography** as a fixing agent in photographic solutions, contributing to the development and processing of films and prints.
+4.  **Photographie** : Employé en **photographie** comme agent de fixage dans les solutions photographiques, contribuant au développement et au traitement des films et des tirages.
 
-5.  **Buffer Solutions**: A key component in the preparation of **buffer solutions** in laboratories and industrial processes, helping to maintain a stable pH for various chemical reactions.
+5.  **Solutions tampons** : Un composant clé dans la préparation de **solutions tampons** dans les laboratoires et les processus industriels, aidant à maintenir un pH stable pour diverses réactions chimiques.
 
-6.  **Synthetic Rubber Production**: Used in the production of **synthetic rubber** as a catalyst and a buffering agent.
+6.  **Production de caoutchouc synthétique** : Utilisé dans la production de **caoutchouc synthétique** comme catalyseur et agent tampon.
 
-### Packaging, Logistics & Quality Assurance:
+### Emballage, logistique et assurance qualité :
 
-We provide flexible **packaging solutions** for our Sodium Acetate Anhydrous, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+Nous proposons des **solutions d'emballage** flexibles pour notre acétate de sodium anhydre, notamment des sacs tissés en PP robustes de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité pendant le transport international. Pour les **commandes en gros**, des sacs jumbo de 1000 kg (1 MT) sont également disponibles. Nous assurons un **chargement** efficace de 25 tonnes métriques par conteneur 20GP (FCL). Nous proposons des services d'**exportation** fiables depuis les principaux ports chinois : Qingdao, Tianjin et Dalian, garantissant une logistique compétitive et une livraison rapide.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Acetate Anhydrous manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+Chaque expédition est accompagnée d'un **certificat d'analyse (COA)** complet et d'une **fiche de données de sécurité (MSDS)**, garantissant la transparence, la qualité du produit et la conformité en matière de sécurité. Associez-vous à nous en tant que **fabricant et fournisseur d'acétate de sodium anhydre** de confiance pour une qualité constante, des prix compétitifs et un approvisionnement mondial fiable.
