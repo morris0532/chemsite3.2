@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Grid3X3, List, ArrowRight } from "lucide-react";
+import { Grid3X3, List, ArrowRight, ChevronRight, Home } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
@@ -78,6 +78,20 @@ export default function ProductsPage() {
       description={content.description}
       jsonLd={jsonLd}
     >
+      {/* Breadcrumbs */}
+      <div className="bg-slate-50 border-b border-slate-100 py-3">
+        <div className="container mx-auto px-4">
+          <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
+            <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
+              <Home className="w-3 h-3" />
+              {isRu ? "Главная" : "Home"}
+            </Link>
+            <ChevronRight className="w-3 h-3 opacity-50" />
+            <span className="text-slate-900">{isRu ? "Продукты" : "Products"}</span>
+          </nav>
+        </div>
+      </div>
+
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">

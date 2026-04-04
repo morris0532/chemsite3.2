@@ -3,7 +3,7 @@ import {
   ChevronRight, FileText, Share2, Facebook, Twitter, Linkedin, 
   Download, CheckCircle2, Info, Package, Truck, ShieldCheck, 
   ArrowRight, HelpCircle, Layers, Target, Mail, Beaker, 
-  Globe, Shield, Zap, Award, Microscope, MessageCircle
+  Globe, Shield, Zap, Award, Microscope, MessageCircle, Home
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -142,8 +142,26 @@ export default function ProductDetailPage() {
       image={product.image}
       jsonLd={generateProductSchema(product, currentUrl)}
     >
+      {/* Breadcrumbs */}
+      <div className="bg-slate-50 border-b border-slate-100 py-3">
+        <div className="container mx-auto px-4">
+          <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
+            <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
+              <Home className="w-3 h-3" />
+              {isRu ? "Главная" : "Home"}
+            </Link>
+            <ChevronRight className="w-3 h-3 opacity-50" />
+            <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
+              {isRu ? "Продукты" : "Products"}
+            </Link>
+            <ChevronRight className="w-3 h-3 opacity-50" />
+            <span className="text-slate-900 truncate max-w-[200px] md:max-w-none">{product.name}</span>
+          </nav>
+        </div>
+      </div>
+
       {/* Hero Section - Premium Split Layout */}
-      <section className="relative pt-32 pb-20 overflow-hidden bg-white">
+      <section className="relative pt-16 pb-20 overflow-hidden bg-white">
         <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,rgba(0,102,179,0.03),transparent_50%)] pointer-events-none" />
         <div className="container mx-auto px-4 relative">
           <div className="flex flex-wrap -mx-4 items-center">
