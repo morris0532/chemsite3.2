@@ -10,8 +10,8 @@ const jsonLdEn = {
   "@type": "Organization",
   name: "Sinopeakchem",
   url: "https://sinopeakchem.com",
-  description: "Sinopeakchem is a multi-functional and innovative chemical company integrating production, brand operation, and global platform services since 2010.",
-  foundingDate: "2010",
+  description: "Sinopeakchem is a multi-functional and innovative chemical company integrating brand operation and global platform services since 1998.",
+  foundingDate: "1998",
   numberOfEmployees: { "@type": "QuantitativeValue", value: "50+" },
   address: { 
     "@type": "PostalAddress", 
@@ -25,31 +25,31 @@ const jsonLdEn = {
 
 const jsonLdRu = {
   ...jsonLdEn,
-  description: "Sinopeakchem — это многофункциональная и инновационная химическая компания, объединяющая производство, управление брендами и глобальные платформенные услуги с 2010 года.",
+  description: "Sinopeakchem — это многофункциональная и инновационная химическая компания, объединяющая управление брендами и глобальные платформенные услуги с 1998 года.",
 };
 
 const jsonLdFr = {
   ...jsonLdEn,
-  description: "Sinopeakchem est une entreprise chimique multifonctionnelle et innovante intégrant la production, l'exploitation de marques et les services de plateforme mondiale depuis 2010.",
+  description: "Sinopeakchem est une entreprise chimique multifonctionnelle et innovante intégrant l'exploitation de marques et les services de plateforme mondiale depuis 1998.",
 };
 
 const statsEn = [
   { icon: Award, value: "22+", label: "Premier Products" },
-  { icon: TrendingUp, value: "15+", label: "Years Experience" },
+  { icon: TrendingUp, value: "Nearly 30", label: "Years Experience" },
   { icon: Globe, value: "50+", label: "Countries Served" },
   { icon: Users, value: "500+", label: "Global Partners" },
 ];
 
 const statsRu = [
   { icon: Award, value: "22+", label: "Премиум-продуктов" },
-  { icon: TrendingUp, value: "15+", label: "Лет опыта" },
+  { icon: TrendingUp, value: "Почти 30", label: "Лет опыта" },
   { icon: Globe, value: "50+", label: "Обслуживаемых стран" },
   { icon: Users, value: "500+", label: "Глобальных партнеров" },
 ];
 
 const statsFr = [
   { icon: Award, value: "22+", label: "Produits Phares" },
-  { icon: TrendingUp, value: "15+", label: "Années d'Expérience" },
+  { icon: TrendingUp, value: "Près de 30", label: "Années d'Expérience" },
   { icon: Globe, value: "50+", label: "Pays Desservis" },
   { icon: Users, value: "500+", label: "Partenaires Mondiaux" },
 ];
@@ -57,9 +57,9 @@ const statsFr = [
 const hubsEn = [
   {
     icon: Factory,
-    title: "Research & Production Center",
+    title: "Quality Control Center",
     location: "Shandong, China",
-    desc: "The main production base of our group. We invest heavily in R&D and quality experimentation annually to ensure leading quality and innovative solutions.",
+    desc: "The main quality assurance base of our group. We invest heavily in R&D and quality experimentation annually to ensure leading quality and innovative solutions.",
   },
   {
     icon: Ship,
@@ -84,9 +84,9 @@ const hubsEn = [
 const hubsRu = [
   {
     icon: Factory,
-    title: "Центр исследований и производства",
+    title: "Центр контроля качества",
     location: "Шаньдун, Китай",
-    desc: "Основная производственная база нашей группы. Мы ежегодно инвестируем значительные средства в НИОКР для обеспечения ведущего качества и инноваций.",
+    desc: "Основная база обеспечения качества нашей группы. Мы ежегодно инвестируем значительные средства в НИОКР для обеспечения ведущего качества и инноваций.",
   },
   {
     icon: Ship,
@@ -111,9 +111,9 @@ const hubsRu = [
 const hubsFr = [
   {
     icon: Factory,
-    title: "Centre de Recherche et Production",
+    title: "Centre de Contrôle Qualité",
     location: "Shandong, Chine",
-    desc: "La principale base de production de notre groupe. Nous investissons massivement dans la R&D et l'expérimentation qualité chaque année pour garantir une qualité de pointe.",
+    desc: "La principale base d'assurance qualité de notre groupe. Nous investissons massivement dans la R&D et l'expérimentation qualité chaque année pour garantir une qualité de pointe.",
   },
   {
     icon: Ship,
@@ -168,43 +168,46 @@ export default function AboutPage() {
 
   const content = isRu ? {
     title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
-    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с 15-летним опытом. Мы объединяем производство, НИОКР и глобальную логистику.",
+    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с почти 30-летним опытом. Мы объединяем управление брендами и глобальную логистику.",
     heroTitle: "Поиск лучших решений — наша конечная цель",
     heroDesc: "Эксперты по высокостандартному обслуживанию, соединяющие передовое китайское производство с мировыми промышленными потребностями.",
     ourStory: "Наша история",
-    storySubtitle: "С 2010 года наша команда успешно понимает потребности отрасли и создает надежные продукты для всех.",
-    storyP1: "Основанная в 2010 году в провинции Шаньдун, Китай, компания Sinopeakchem превратилась в многофункциональную и инновационную химическую компанию, объединяющую производство химической продукции, управление брендами и глобальные платформенные услуги.",
+    storySubtitle: "С 1998 года наша команда успешно понимает потребности отрасли и создает надежные продукты для всех.",
+    storyP1: "Основанная в 1998 году в провинции Шаньдун, Китай, компания Sinopeakchem превратилась в многофункциональную и инновационную химическую компанию, объединяющую управление брендами и глобальные платформенные услуги.",
     storyP2: "Наш ассортимент охватывает широкий спектр продукции, включая щавелевую кислоту, тиосульфат натрия, хлорид кальция, сульфит натрия, лимонную кислоту и другие серии фосфатов и сульфатов. Мы стремимся стать яркой звездой в химической промышленности благодаря инновациям и комплексному обслуживанию.",
     strategicHubs: "Стратегические центры",
     serviceCommitment: "Наши обязательства по обслуживанию",
     visionTitle: "Видение бизнеса",
     visionDesc: "Мы стремимся создать профессиональную платформу для экологически чистых химических продуктов, способствуя «зеленому» развитию промышленных предприятий и выводя китайские технологии на мировой рынок.",
+    affiliation: "Этот сайт принадлежит Shandong Lan star Technology Group Co.,Ltd"
   } : (isFr ? {
     title: "À propos de Sinopeakchem - Experts en Service de Haut Niveau",
-    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec plus de 15 ans d'excellence. Intégrant production, R&D et logistique mondiale.",
+    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec près de 30 ans d'excellence. Intégrant l'exploitation de marques et la logistique mondiale.",
     heroTitle: "Trouver la Meilleure Solution est Notre Objectif Ultime",
     heroDesc: "Experts en service de haut niveau faisant le pont entre la fabrication chinoise avancée et les besoins industriels mondiaux.",
     ourStory: "Notre Histoire",
-    storySubtitle: "Depuis 2010, notre équipe a réussi à comprendre les besoins de l'industrie et à créer des produits fiables pour tous.",
-    storyP1: "Fondée en 2010 dans la province du Shandong, en Chine, Sinopeakchem est devenue une entreprise chimique multifonctionnelle et innovante intégrant la production de produits chimiques, l'exploitation de marques et les services de plateforme.",
-    storyP2: "Nos produits couvrent une large gamme comprenant l'acide oxalique, le thiosulfate de sodium, le chlorure de calcium, le sulfite de sodium, l'acide citrique et d'autres séries de phosphates et de sulfates. Nous nous efforçons de devenir une étoile brillante dans l'industrie chimique.",
+    storySubtitle: "Depuis 1998, notre équipe a réussi à comprendre les besoins de l'industrie et à créer des produits fiables pour tous.",
+    storyP1: "Fondée en 1998 dans la province du Shandong, en Chine, Sinopeakchem est devenue une entreprise chimique multifonctionnelle et innovante intégrant l'exploitation de marques et les services de plateforme.",
+    storyP2: "Nos produits couvrent une large gamme comprenant l'acide oxalique, le thiosulfate de sodium, le chlorure de calcium, le sulfite de sodium, l'acide citrique et d'autres séries de phosphates et de l'acide citrique. Nous nous efforçons de devenir une étoile brillante dans l'industrie chimique.",
     strategicHubs: "Hubs Stratégiques",
     serviceCommitment: "Notre Engagement de Service",
     visionTitle: "Positionnement Commercial",
     visionDesc: "Nous nous engageons à construire une plateforme professionnelle pour les produits chimiques de protection de l'environnement, favorisant le développement vert des entreprises industrielles.",
+    affiliation: "Ce site appartient à Shandong Lan star Technology Group Co.,Ltd"
   } : {
     title: "About Sinopeakchem - High-standard Service Experts",
-    description: "Learn about Sinopeakchem, a multi-functional chemical company with 15+ years of excellence. Integrating production, R&D, and global logistics.",
+    description: "Learn about Sinopeakchem, a multi-functional chemical company with nearly 30 years of excellence. Integrating brand operation and global logistics.",
     heroTitle: "Finding the Best Solution is Our Ultimate Goal",
     heroDesc: "High-standard service experts bridging the gap between advanced Chinese manufacturing and global industrial needs.",
     ourStory: "Our Story",
-    storySubtitle: "Since 2010, Our Team Has Succeeded In Understanding The Needs Of The Industry And Creating Reliable Products To Serve All.",
-    storyP1: "Founded in 2010 in Shandong Province, China, Sinopeakchem is a multi-functional and innovative chemical company integrating the production of chemical products, brand operation, and platform services.",
+    storySubtitle: "Since 1998, Our Team Has Succeeded In Understanding The Needs Of The Industry And Creating Reliable Products To Serve All.",
+    storyP1: "Founded in 1998 in Shandong Province, China, Sinopeakchem is a multi-functional and innovative chemical company integrating brand operation and platform services.",
     storyP2: "Our products cover a wide range including oxalic acid, sodium thiosulphate, calcium chloride, sodium sulfite, citric acid, and other phosphate and sulfate series. We strive to become a brilliant star in the chemical industry through continuous innovation and comprehensive services.",
     strategicHubs: "Strategic Hubs",
     serviceCommitment: "Our Service Commitment",
     visionTitle: "Business Positioning",
     visionDesc: "We are committed to building a professional platform for environmental protection chemical products, promoting green development of industrial enterprises and bringing Chinese chemical technology to the global market.",
+    affiliation: "This website belongs to Shandong Lan star Technology Group Co.,Ltd"
   });
 
   return (
@@ -309,8 +312,11 @@ export default function AboutPage() {
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 text-center max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-8">{content.visionTitle}</h2>
-          <p className="text-xl text-gray-600 leading-relaxed italic">
+          <p className="text-xl text-gray-600 leading-relaxed italic mb-12">
             "{content.visionDesc}"
+          </p>
+          <p className="text-sm text-gray-400 mt-16">
+            {content.affiliation}
           </p>
         </div>
       </section>
