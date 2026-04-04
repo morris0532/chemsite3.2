@@ -36,7 +36,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
     : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.");
 
-  const pageImage = image || "https://sinopeakchem.com/logo.png";
+  const pageImage = image || "https://www.sinopeakchem.com/logo.png";
 
   useEffect(() => {
     const country = "86";
@@ -62,7 +62,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     setMeta('og:title', pageTitle, true);
     setMeta('og:description', pageDescription, true);
     setMeta('og:type', 'website', true);
-    setMeta('og:url', `https://sinopeakchem.com${location.pathname}`, true);
+    setMeta('og:url', `https://www.sinopeakchem.com${location.pathname}`, true);
     setMeta('og:image', pageImage, true);
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', pageTitle);
@@ -80,10 +80,10 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       element.setAttribute('href', href);
     };
 
-    setLink('canonical', `https://sinopeakchem.com${location.pathname}`);
-    setLink('alternate', `https://sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`, 'en');
-    setLink('alternate', `https://sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`, 'ru');
-    setLink('alternate', `https://sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
+    setLink('canonical', `https://www.sinopeakchem.com${location.pathname}`);
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`, 'en');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`, 'ru');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
 
   }, [pageTitle, pageDescription, pageImage, location.pathname]);
 

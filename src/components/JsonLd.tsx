@@ -28,7 +28,8 @@ export const generateProductSchema = (product: any, locale: string) => {
     },
     "offers": {
       "@type": "Offer",
-      "url": `https://sinopeakchem.com/${locale}/products/${product.slug}`,
+      "url": `https://www.sinopeakchem.com/${locale}/products/${product.slug}`,
+      "price": "0",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock",
       "seller": {
@@ -50,7 +51,7 @@ export const generateBlogSchema = (post: any, locale: string) => {
     "author": [{
         "@type": "Person",
         "name": post.author,
-        "url": `https://sinopeakchem.com/${locale}/about`
+        "url": `https://www.sinopeakchem.com/${locale}/about`
       }]
   };
 };
