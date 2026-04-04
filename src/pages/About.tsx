@@ -136,21 +136,21 @@ const hubsFr = [
 ];
 
 const valuesEn = [
-  { icon: ShieldCheck, title: "Quality First", desc: "Full-process ISO 9001 quality management system from raw material procurement to product delivery." },
+  { icon: ShieldCheck, title: "Quality First", desc: "Full-process quality management system from raw material procurement to product delivery." },
   { icon: Microscope, title: "Advanced Detection", desc: "Equipped with HPLC and GC-MS, providing third-party testing reports for each batch of products." },
   { icon: Zap, title: "Efficiency & Stability", desc: "Warehouses at major Chinese ports ensure immediate delivery and supply chain stability." },
   { icon: Users, title: "Bilingual Support", desc: "24-hour bilingual technical support to address communication and application issues for global customers." },
 ];
 
 const valuesRu = [
-  { icon: ShieldCheck, title: "Качество прежде всего", desc: "Система управления качеством ISO 9001 на всех этапах — от закупки сырья до поставки продукции." },
+  { icon: ShieldCheck, title: "Качество прежде всего", desc: "Система управления качеством на всех этапах — от закупки сырья до поставки продукции." },
   { icon: Microscope, title: "Современный контроль", desc: "Оснащение ВЭЖХ и ГХ-МС, предоставление отчетов о сторонних испытаниях для каждой партии." },
   { icon: Zap, title: "Эффективность и стабильность", desc: "Склады в крупнейших портах Китая обеспечивают немедленную доставку и стабильность поставок." },
   { icon: Users, title: "Двуязычная поддержка", desc: "Круглосуточная техническая поддержка на двух языках для решения вопросов коммуникации и применения." },
 ];
 
 const valuesFr = [
-  { icon: ShieldCheck, title: "La Qualité d'Abord", desc: "Système de gestion de la qualité ISO 9001 sur l'ensemble du processus, de l'approvisionnement en matières premières à la livraison." },
+  { icon: ShieldCheck, title: "La Qualité d'Abord", desc: "Système de gestion de la qualité sur l'ensemble du processus, de l'approvisionnement en matières premières à la livraison." },
   { icon: Microscope, title: "Détection Avancée", desc: "Équipé de HPLC et GC-MS, fournissant des rapports de tests tiers pour chaque lot de produits." },
   { icon: Zap, title: "Efficacité et Stabilité", desc: "Des entrepôts dans les principaux ports chinois garantissent une livraison immédiate et la stabilité de la chaîne d'approvisionnement." },
   { icon: Users, title: "Support Bilingue", desc: "Support technique bilingue 24h/24 pour répondre aux problèmes de communication et d'application des clients mondiaux." },

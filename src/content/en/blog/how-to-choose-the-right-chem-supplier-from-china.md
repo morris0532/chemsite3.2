@@ -18,7 +18,7 @@ In today's globalized world, China plays a pivotal role as a world factory in th
 
 The first step in selecting a **Chinese chemical supplier** is to thoroughly assess their qualifications and market reputation. This includes:
 
-*   **Business Licenses and Certifications**: Ensure the supplier has a valid business license and relevant industry certifications, such as ISO 9001 (Quality Management System) and ISO 14001 (Environmental Management System). These certifications are basic proof of their compliance with international standards.
+*   **Business Licenses and Certifications**: Ensure the supplier has a valid business license and relevant industry certifications. These documents are basic proof of their compliance with international standards and professional operations.
 *   **Industry Experience and Expertise**: Examine the supplier's experience in your required chemical field. An experienced supplier usually has a deeper understanding of product characteristics, market trends, and potential risks.
 *   **Customer Reviews and Case Studies**: Read reviews and success stories from other customers. Real customer feedback provides valuable insights into the supplier's service quality and reliability.
 *   **Transparency**: A trustworthy supplier should maintain a high degree of transparency regarding their supply processes, quality control measures, and supply chain links.
