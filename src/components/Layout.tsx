@@ -304,23 +304,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </ul>
             </div>
 
-            <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Юридическая информация" : "Legal"}</h3>
-              <ul className="space-y-4">
-                <li>
-                  <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
-                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
-                    {isRu ? "Политика конфиденциальности" : "Privacy Policy"}
-                  </Link>
-                </li>
-                <li>
-                  <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
-                    <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
-                    {isRu ? "Условия использования" : "Terms of Service"}
-                  </Link>
-                </li>
-              </ul>
-            </div>
+
 
             <div>
               <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : "Contact Info"}</h3>
