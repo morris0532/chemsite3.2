@@ -36,22 +36,22 @@ const jsonLdFr = {
 const statsEn = [
   { icon: Award, value: "22+", label: "Premier Products" },
   { icon: TrendingUp, value: "28+", label: "Years Experience" },
-  { icon: Globe, value: "50+", label: "Countries Served" },
-  { icon: Users, value: "500+", label: "Global Partners" },
+  { icon: Globe, value: "30+", label: "Countries Served" },
+  { icon: Users, value: "150+", label: "Satisfied Clients" },
 ];
 
 const statsRu = [
   { icon: Award, value: "22+", label: "Премиум-продуктов" },
   { icon: TrendingUp, value: "28+", label: "Лет опыта" },
-  { icon: Globe, value: "50+", label: "Обслуживаемых стран" },
-  { icon: Users, value: "500+", label: "Глобальных партнеров" },
+  { icon: Globe, value: "30+", label: "Обслуживаемых стран" },
+  { icon: Users, value: "150+", label: "Довольных клиентов" },
 ];
 
 const statsFr = [
   { icon: Award, value: "22+", label: "Produits Phares" },
   { icon: TrendingUp, value: "28+", label: "Années d'Expérience" },
-  { icon: Globe, value: "50+", label: "Pays Desservis" },
-  { icon: Users, value: "500+", label: "Partenaires Mondiaux" },
+  { icon: Globe, value: "30+", label: "Pays Desservis" },
+  { icon: Users, value: "150+", label: "Clients Satisfaits" },
 ];
 
 const hubsEn = [
@@ -169,7 +169,6 @@ export default function AboutPage() {
   const content = isRu ? {
     title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
     description: "Узнайте о Sinopeakchem, многофункциональной химической компании с более чем 28-летним опытом. Мы объединяем управление брендами и глобальную логистику.",
-    heroTitle: "Поиск лучших решений — наша конечная цель",
     heroTitle: "Поиск лучших решений — наша конечная цель",
     heroDesc: "Эксперты по высокостандартному обслуживанию, соединяющие передовое китайское производство с мировыми промышленными потребностями.",
     ourStory: "Наша история",
