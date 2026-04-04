@@ -67,7 +67,7 @@ export default function ProductDetailPage() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          name: docEmail.split('@')[0], // 临时从邮箱获取名称
+          name: docEmail.split('@')[0],
           email: docEmail,
           company: docCompany,
           type: 'doc_request',
@@ -93,8 +93,6 @@ export default function ProductDetailPage() {
       alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : (isFr ? 'Une erreur est survenue. Veuillez réessayer plus tard.' : 'An error occurred. Please try again later.'));
     }
   };
-
-  const currentUrl = `https://www.sinopeakchem.com${location.pathname}`;
 
   const content = isRu ? {
     specifications: "Технические характеристики",
@@ -157,7 +155,7 @@ export default function ProductDetailPage() {
 
   return (
     <Layout 
-      title={`${product.name} (CAS: ${product.cas}) | Sinopeakchem`}
+      title={`${product.name} (CAS: ${product.cas}) | SinoPeak`}
       description={product.shortDescription}
       image={product.image}
       jsonLd={generateProductSchema(product, locale)}
@@ -231,46 +229,40 @@ export default function ProductDetailPage() {
                 </div>
 
                 <div className="flex flex-wrap gap-4">
-                  <Link to={`${langPrefix}/contact`} className="flex-1 sm:flex-none">
-                    <Button className="w-full sm:w-auto h-14 px-10 bg-[#0066B3] hover:bg-[#004A82] text-white text-sm font-black uppercase tracking-widest rounded-2xl shadow-xl shadow-blue-900/10 transition-all hover:-translate-y-1">
+                  <Link to={`${langPrefix}/contact`} className="flex-1 min-w-[200px]">
+                    <Button size="lg" className="w-full bg-[#0066B3] hover:bg-[#004a82] text-white h-14 rounded-xl font-bold text-base shadow-xl shadow-blue-900/10 transition-all hover:-translate-y-1">
+                      <Mail className="w-5 h-5 mr-2" />
                       {content.getQuote}
-                      <ArrowRight className="w-4 h-4 ml-2" />
                     </Button>
                   </Link>
                   
                   <Dialog open={docModalOpen} onOpenChange={setDocModalOpen}>
                     <DialogTrigger asChild>
-                      <Button variant="outline" className="flex-1 sm:flex-none h-14 px-10 border-2 border-slate-200 text-slate-600 text-sm font-black uppercase tracking-widest rounded-2xl hover:bg-slate-50 transition-all">
-                        <Download className="w-4 h-4 mr-2" />
+                      <Button size="lg" variant="outline" className="flex-1 min-w-[200px] border-slate-200 text-slate-600 hover:bg-slate-50 h-14 rounded-xl font-bold text-base transition-all hover:-translate-y-1">
+                        <FileText className="w-5 h-5 mr-2" />
                         {content.techDocs}
                       </Button>
                     </DialogTrigger>
                     <DialogContent className="sm:max-w-[425px] rounded-3xl">
                       <DialogHeader>
-                        <DialogTitle className="text-2xl font-bold text-slate-900">
-                          {isRu ? "Запросить документы" : (isFr ? "Demander des documents" : "Request Documents")}
-                        </DialogTitle>
+                        <DialogTitle className="text-2xl font-bold text-slate-900">{isRu ? "Запросить документы" : (isFr ? "Demander des documents" : "Request Documents")}</DialogTitle>
                       </DialogHeader>
                       {docSubmitted ? (
                         <div className="py-12 text-center">
-                          <div className="w-16 h-16 bg-green-50 text-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                          <div className="w-16 h-16 bg-emerald-50 text-emerald-500 rounded-full flex items-center justify-center mx-auto mb-4">
                             <CheckCircle2 className="w-8 h-8" />
                           </div>
-                          <h3 className="text-xl font-bold text-slate-900 mb-2">
-                            {isRu ? "Запрос отправлен!" : (isFr ? "Demande envoyée !" : "Request Sent!")}
-                          </h3>
-                          <p className="text-slate-500">
-                            {isRu ? "Мы отправим документы на вашу почту в ближайшее время." : (isFr ? "Nous vous enverrons les documents par e-mail sous peu." : "We will send the documents to your email shortly.")}
-                          </p>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">{isRu ? "Запрос отправлен!" : (isFr ? "Demande envoyée !" : "Request Sent!")}</h3>
+                          <p className="text-slate-500">{isRu ? "Мы отправим документы на вашу почту в ближайшее время." : (isFr ? "Nous enverrons les documents à votre adresse e-mail sous peu." : "We'll send the documents to your email shortly.")}</p>
                         </div>
                       ) : (
                         <form onSubmit={handleDocSubmit} className="space-y-6 py-4">
                           <div className="space-y-2">
-                            <Label htmlFor="email" className="text-sm font-bold text-slate-700">Email</Label>
+                            <Label htmlFor="email" className="text-sm font-bold text-slate-700">{isRu ? "Электронная почта" : (isFr ? "E-mail" : "Email Address")}</Label>
                             <Input 
                               id="email" 
                               type="email" 
-                              placeholder="your@email.com" 
+                              placeholder="buyer@company.com" 
                               required 
                               value={docEmail}
                               onChange={(e) => setDocEmail(e.target.value)}
@@ -278,19 +270,17 @@ export default function ProductDetailPage() {
                             />
                           </div>
                           <div className="space-y-2">
-                            <Label htmlFor="company" className="text-sm font-bold text-slate-700">
-                              {isRu ? "Компания" : (isFr ? "Entreprise" : "Company")}
-                            </Label>
+                            <Label htmlFor="company" className="text-sm font-bold text-slate-700">{isRu ? "Компания" : (isFr ? "Entreprise" : "Company Name")}</Label>
                             <Input 
                               id="company" 
-                              placeholder="Company Name" 
+                              placeholder="Global Chemicals Ltd" 
                               required 
                               value={docCompany}
                               onChange={(e) => setDocCompany(e.target.value)}
                               className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]"
                             />
                           </div>
-                          <div className="flex gap-6">
+                          <div className="flex gap-6 pt-2">
                             <div className="flex items-center space-x-2">
                               <Checkbox id="msds" checked={docMSDS} onCheckedChange={(checked) => setDocMSDS(!!checked)} />
                               <label htmlFor="msds" className="text-sm font-medium text-slate-600">MSDS</label>
@@ -300,7 +290,7 @@ export default function ProductDetailPage() {
                               <label htmlFor="coa" className="text-sm font-medium text-slate-600">COA</label>
                             </div>
                           </div>
-                          <Button type="submit" className="w-full h-12 bg-[#0066B3] hover:bg-[#004A82] text-white font-bold rounded-xl">
+                          <Button type="submit" className="w-full bg-[#0066B3] hover:bg-[#004a82] text-white h-12 rounded-xl font-bold">
                             {isRu ? "Отправить запрос" : (isFr ? "Envoyer la demande" : "Send Request")}
                           </Button>
                         </form>
@@ -314,205 +304,214 @@ export default function ProductDetailPage() {
         </div>
       </section>
 
-      {/* Product Content Tabs */}
+      {/* Content Tabs Section */}
       <section className="py-20 bg-slate-50">
         <div className="container mx-auto px-4">
-          <Tabs defaultValue="overview" className="w-full">
-            <div className="flex justify-center mb-12">
-              <TabsList className="bg-white p-1.5 rounded-2xl border border-slate-200 shadow-sm h-auto">
-                <TabsTrigger value="overview" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
+          <div className="max-w-4xl mx-auto">
+            <Tabs defaultValue="overview" className="w-full">
+              <TabsList className="w-full justify-start bg-transparent border-b border-slate-200 rounded-none h-auto p-0 mb-12 overflow-x-auto flex-nowrap">
+                <TabsTrigger value="overview" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
                   {content.overview}
                 </TabsTrigger>
-                <TabsTrigger value="specifications" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
+                <TabsTrigger value="specifications" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
                   {content.specifications}
                 </TabsTrigger>
-                <TabsTrigger value="applications" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
+                <TabsTrigger value="applications" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
                   {content.applications}
                 </TabsTrigger>
-                <TabsTrigger value="faq" className="px-8 py-3 rounded-xl data-[state=active]:bg-[#0066B3] data-[state=active]:text-white text-sm font-bold transition-all">
-                  {content.faq}
+                <TabsTrigger value="packaging" className="px-8 py-4 text-sm font-bold border-b-2 border-transparent data-[state=active]:border-[#0066B3] data-[state=active]:text-[#0066B3] rounded-none bg-transparent shadow-none">
+                  {content.packaging}
                 </TabsTrigger>
               </TabsList>
-            </div>
-
-            <div className="max-w-4xl mx-auto">
-              <TabsContent value="overview" className="mt-0 focus-visible:outline-none">
-                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
-                  <div className="prose prose-slate prose-lg max-w-none prose-headings:text-slate-900 prose-headings:font-black prose-p:text-slate-600 prose-p:leading-relaxed prose-strong:text-[#0066B3]">
+              
+              <div className="bg-white rounded-[2rem] p-8 md:p-12 border border-slate-100 shadow-xl shadow-blue-900/5">
+                <TabsContent value="overview" className="mt-0 focus-visible:ring-0">
+                  <div className="prose prose-slate max-w-none prose-headings:text-slate-900 prose-headings:font-black prose-p:text-slate-600 prose-p:leading-relaxed prose-strong:text-[#0066B3]">
                     <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
-                      {product.content}
+                      {product.description}
                     </ReactMarkdown>
                   </div>
-                </div>
-              </TabsContent>
-
-              <TabsContent value="specifications" className="mt-0 focus-visible:outline-none">
-                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
-                  <div className="overflow-hidden rounded-2xl border border-slate-100">
-                    <table className="w-full text-left border-collapse">
+                </TabsContent>
+                
+                <TabsContent value="specifications" className="mt-0 focus-visible:ring-0">
+                  <div className="overflow-x-auto">
+                    <table className="w-full text-sm text-left">
                       <thead>
-                        <tr className="bg-slate-50">
-                          <th className="px-6 py-4 text-sm font-black text-slate-900 uppercase tracking-wider border-b border-slate-100">
-                            {isRu ? "Параметр" : (isFr ? "Paramètre" : "Parameter")}
-                          </th>
-                          <th className="px-6 py-4 text-sm font-black text-slate-900 uppercase tracking-wider border-b border-slate-100">
-                            {isRu ? "Значение" : (isFr ? "Valeur" : "Value")}
-                          </th>
+                        <tr className="border-b border-slate-100">
+                          <th className="py-4 font-bold text-slate-900">{isRu ? "Параметр" : (isFr ? "Paramètre" : "Parameter")}</th>
+                          <th className="py-4 font-bold text-slate-900">{isRu ? "Значение" : (isFr ? "Valeur" : "Value")}</th>
                         </tr>
                       </thead>
                       <tbody className="divide-y divide-slate-50">
-                        {product.specifications.map((spec: any, idx: number) => (
-                          <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
-                            <td className="px-6 py-4 text-sm font-bold text-slate-600">{spec.label}</td>
-                            <td className="px-6 py-4 text-sm font-medium text-slate-900">{spec.value}</td>
+                        {product.specifications?.map((spec: any, idx: number) => (
+                          <tr key={idx}>
+                            <td className="py-4 text-slate-500 font-medium">{spec.label}</td>
+                            <td className="py-4 text-slate-900 font-bold">{spec.value}</td>
                           </tr>
                         ))}
                       </tbody>
                     </table>
                   </div>
-                  
-                  <div className="mt-10 p-6 rounded-2xl bg-blue-50/50 border border-blue-100 flex items-start gap-4">
-                    <Info className="w-6 h-6 text-[#0066B3] flex-shrink-0 mt-0.5" />
-                    <p className="text-sm text-slate-600 leading-relaxed">
-                      {isRu 
-                        ? "Приведенные выше характеристики являются стандартными. Мы также можем предоставить продукцию в соответствии с вашими специфическими требованиями. Пожалуйста, свяжитесь с нами для получения подробного COA." 
-                        : (isFr ? "Les spécifications ci-dessus sont standard. Nous pouvons également fournir des produits selon vos exigences spécifiques. Veuillez nous contacter pour un COA détaillé." : "The above specifications are standard. We can also provide products according to your specific requirements. Please contact us for a detailed COA.")}
-                    </p>
-                  </div>
-                </div>
-              </TabsContent>
-
-              <TabsContent value="applications" className="mt-0 focus-visible:outline-none">
-                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
+                </TabsContent>
+                
+                <TabsContent value="applications" className="mt-0 focus-visible:ring-0">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    {product.applications.map((app: any, idx: number) => (
-                      <div key={idx} className="group p-6 rounded-2xl bg-slate-50 border border-slate-100 hover:bg-white hover:shadow-xl hover:shadow-blue-900/5 transition-all duration-300">
-                        <div className="w-12 h-12 rounded-xl bg-white border border-slate-100 flex items-center justify-center mb-4 group-hover:bg-[#0066B3] group-hover:text-white transition-colors">
-                          <Target className="w-6 h-6" />
+                    {product.applications?.map((app: string, idx: number) => (
+                      <div key={idx} className="flex items-start gap-4 p-6 rounded-2xl bg-slate-50 border border-slate-100">
+                        <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center flex-shrink-0 shadow-sm">
+                          <CheckCircle2 className="w-5 h-5 text-[#0066B3]" />
                         </div>
-                        <h3 className="text-lg font-bold text-slate-900 mb-2">{app.title}</h3>
-                        <p className="text-sm text-slate-600 leading-relaxed">{app.description}</p>
+                        <p className="text-slate-700 font-bold leading-tight pt-2">{app}</p>
                       </div>
                     ))}
                   </div>
-                </div>
-              </TabsContent>
+                </TabsContent>
 
-              <TabsContent value="faq" className="mt-0 focus-visible:outline-none">
-                <div className="bg-white rounded-[2.5rem] p-8 md:p-12 border border-slate-100 shadow-sm">
-                  <div className="mb-10">
-                    <h2 className="text-2xl font-black text-slate-900 mb-2">{content.faqTitle}</h2>
-                    <p className="text-slate-500">{content.faqDesc}</p>
+                <TabsContent value="packaging" className="mt-0 focus-visible:ring-0">
+                  <div className="flex flex-col md:flex-row gap-12 items-center">
+                    <div className="flex-1">
+                      <h3 className="text-2xl font-black text-slate-900 mb-6">{isRu ? "Стандартная упаковка" : (isFr ? "Emballage Standard" : "Standard Packaging")}</h3>
+                      <div className="space-y-4">
+                        <div className="flex items-center gap-4 p-4 rounded-xl bg-blue-50/50 border border-blue-100/50">
+                          <Package className="w-6 h-6 text-[#0066B3]" />
+                          <span className="font-bold text-slate-700">{product.packaging}</span>
+                        </div>
+                        <div className="flex items-center gap-4 p-4 rounded-xl bg-blue-50/50 border border-blue-100/50">
+                          <Truck className="w-6 h-6 text-[#0066B3]" />
+                          <span className="font-bold text-slate-700">{product.loading}</span>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="w-full md:w-1/3 aspect-square rounded-3xl bg-slate-50 border border-slate-100 flex items-center justify-center p-12">
+                      <Package className="w-full h-full text-slate-200" />
+                    </div>
                   </div>
-                  <Accordion type="single" collapsible className="w-full space-y-4">
-                    {product.faqs.map((faq: any, idx: number) => (
-                      <AccordionItem key={idx} value={`faq-${idx}`} className="border border-slate-100 rounded-2xl px-6 overflow-hidden data-[state=open]:bg-slate-50/50 transition-all">
-                        <AccordionTrigger className="text-left font-bold text-slate-900 hover:no-underline py-5">
-                          {faq.question}
-                        </AccordionTrigger>
-                        <AccordionContent className="text-slate-600 leading-relaxed pb-5">
-                          {faq.answer}
-                        </AccordionContent>
-                      </AccordionItem>
-                    ))}
-                  </Accordion>
-                </div>
-              </TabsContent>
-            </div>
-          </Tabs>
+                </TabsContent>
+              </div>
+            </Tabs>
+          </div>
         </div>
       </section>
 
-      {/* Trust Badges */}
-      <section className="py-20 bg-white border-y border-slate-100">
+      {/* Trust & Quality Section */}
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-black text-slate-900 mb-4">{content.trustTitle}</h2>
-            <div className="w-20 h-1.5 bg-[#0066B3] mx-auto rounded-full" />
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl md:text-4xl font-black text-slate-900 mb-4">{content.trustTitle}</h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
-            <div className="text-center">
-              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
-                <ShieldCheck className="w-10 h-10" />
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="text-center p-8">
+              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
+                <ShieldCheck className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustQuality}</h3>
               <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu 
-                  ? "Строгий контроль качества на каждом этапе производства и соответствие международным стандартам." 
-                  : (isFr ? "Contrôle qualité strict à chaque étape de la production et conformité aux normes internationales." : "Strict quality control at every stage of production and compliance with international standards.")}
+                {isRu ? "Строгий контроль качества каждой партии с полной документацией." : (isFr ? "Contrôle qualité rigoureux pour chaque lot avec documentation complète." : "Rigorous quality control for every batch with full documentation.")}
               </p>
             </div>
-            <div className="text-center">
-              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
-                <Truck className="w-10 h-10" />
+            <div className="text-center p-8">
+              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
+                <Globe className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustGlobal}</h3>
               <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu 
-                  ? "Надежная логистическая сеть, обеспечивающая своевременную доставку в более чем 50 стран мира." 
-                  : (isFr ? "Réseau logistique fiable assurant une livraison rapide dans plus de 50 pays à travers le monde." : "Reliable logistics network ensuring timely delivery to over 50 countries worldwide.")}
+                {isRu ? "Надежная доставка в более чем 50 стран мира." : (isFr ? "Expédition fiable vers plus de 50 pays à travers le monde." : "Reliable shipping to over 50 countries worldwide.")}
               </p>
             </div>
-            <div className="text-center">
-              <div className="w-20 h-20 rounded-3xl bg-blue-50 text-[#0066B3] flex items-center justify-center mx-auto mb-6">
-                <Microscope className="w-10 h-10" />
+            <div className="text-center p-8">
+              <div className="w-16 h-16 bg-blue-50 text-[#0066B3] rounded-2xl flex items-center justify-center mx-auto mb-6">
+                <Microscope className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-3">{content.trustSupport}</h3>
               <p className="text-slate-500 text-sm leading-relaxed">
-                {isRu 
-                  ? "Профессиональная техническая поддержка и помощь в выборе оптимальных решений для вашего бизнеса." 
-                  : (isFr ? "Support technique professionnel et assistance dans le choix des solutions optimales pour votre entreprise." : "Professional technical support and assistance in choosing the optimal solutions for your business.")}
+                {isRu ? "Экспертная техническая поддержка для всех ваших потребностей." : (isFr ? "Support technique expert pour tous vos besoins en produits chimiques." : "Expert technical support for all your chemical needs.")}
               </p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="py-20 bg-slate-50">
+        <div className="container mx-auto px-4">
+          <div className="max-w-3xl mx-auto">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl font-black text-slate-900 mb-4">{content.faqTitle}</h2>
+              <p className="text-slate-500">{content.faqDesc}</p>
+            </div>
+            <Accordion type="single" collapsible className="space-y-4">
+              {product.faqs?.map((faq: any, idx: number) => (
+                <AccordionItem key={idx} value={`faq-${idx}`} className="bg-white border border-slate-100 rounded-2xl px-6 overflow-hidden shadow-sm">
+                  <AccordionTrigger className="text-left font-bold text-slate-900 hover:no-underline py-5">
+                    {faq.question}
+                  </AccordionTrigger>
+                  <AccordionContent className="text-slate-600 leading-relaxed pb-6">
+                    {faq.answer}
+                  </AccordionContent>
+                </AccordionItem>
+              ))}
+            </Accordion>
           </div>
         </div>
       </section>
 
       {/* Related Products */}
-      {relatedProducts.length > 0 && (
-        <section className="py-24 bg-slate-50">
-          <div className="container mx-auto px-4">
-            <div className="flex items-end justify-between mb-12">
-              <div>
-                <h2 className="text-3xl font-black text-slate-900 mb-4">{content.relatedProducts}</h2>
-                <p className="text-slate-500 font-medium">{content.relatedTitle}</p>
-              </div>
-              <Link to={`${langPrefix}/products`} className="hidden md:flex items-center gap-2 text-[#0066B3] font-bold hover:gap-3 transition-all">
+      <section className="py-20 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
+            <div className="max-w-2xl">
+              <h2 className="text-3xl font-black text-slate-900 mb-4">{content.relatedProducts}</h2>
+              <p className="text-slate-500">{content.relatedTitle}</p>
+            </div>
+            <Link to={`${langPrefix}/products`}>
+              <Button variant="outline" className="border-slate-200 text-slate-600 hover:bg-slate-50 font-bold px-6 rounded-xl">
                 {content.viewAll}
-                <ArrowRight className="w-5 h-5" />
-              </Link>
-            </div>
-            
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-              {relatedProducts.map((rp: any) => (
-                <Link 
-                  key={rp.slug} 
-                  to={`${langPrefix}/products/${rp.slug}`}
-                  className="group bg-white rounded-3xl border border-slate-100 overflow-hidden hover:shadow-2xl hover:shadow-blue-900/5 transition-all duration-500 hover:-translate-y-2"
-                >
-                  <div className="aspect-square bg-slate-50 p-8 overflow-hidden relative">
-                    <img 
-                      src={rp.image} 
-                      alt={rp.name} 
-                      className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500"
-                    />
-                    <div className="absolute inset-0 bg-[#0066B3]/0 group-hover:bg-[#0066B3]/5 transition-colors duration-500" />
-                  </div>
-                  <div className="p-6">
-                    <span className="text-[10px] font-black text-[#0066B3] uppercase tracking-widest mb-2 block">{rp.category}</span>
-                    <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-1">{rp.name}</h3>
-                    <p className="text-xs text-slate-500 line-clamp-2 mb-4 leading-relaxed">{rp.shortDescription}</p>
-                    <div className="flex items-center text-xs font-black text-slate-900 uppercase tracking-widest group-hover:gap-2 transition-all">
-                      {isRu ? "Подробнее" : (isFr ? "Détails" : "View Details")}
-                      <ChevronRight className="w-4 h-4 text-[#0066B3]" />
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
+                <ArrowRight className="w-4 h-4 ml-2" />
+              </Button>
+            </Link>
           </div>
-        </section>
-      )}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {relatedProducts.map((p: any) => (
+              <Link key={p.slug} to={`${langPrefix}/products/${p.slug}`} className="group bg-white rounded-2xl border border-slate-100 overflow-hidden hover:shadow-2xl transition-all duration-500">
+                <div className="aspect-square bg-slate-50 p-8 overflow-hidden relative">
+                  <img src={p.image} alt={p.name} className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500" />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-1">{p.name}</h3>
+                  <p className="text-slate-500 text-xs line-clamp-2 mb-4">{p.shortDescription}</p>
+                  <div className="flex items-center text-xs font-bold text-[#0066B3]">
+                    {isRu ? "Подробнее" : (isFr ? "Détails" : "View Details")}
+                    <ArrowRight className="w-3 h-3 ml-1.5" />
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Bottom CTA */}
+      <section className="py-20 bg-[#003d66] relative overflow-hidden">
+        <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-500/10 to-transparent pointer-events-none" />
+        <div className="container mx-auto px-4 relative z-10 text-center">
+          <h2 className="text-3xl md:text-4xl font-black text-white mb-8 max-w-2xl mx-auto leading-tight">
+            {isRu ? "Готовы обсудить ваши потребности в химикатах?" : (isFr ? "Prêt à discuter de vos besoins en produits chimiques ?" : "Ready to discuss your chemical requirements?")}
+          </h2>
+          <div className="flex flex-wrap justify-center gap-4">
+            <Link to={`${langPrefix}/contact`}>
+              <Button size="lg" className="bg-white text-[#0066B3] hover:bg-blue-50 h-14 px-10 rounded-xl font-bold text-base shadow-2xl shadow-black/20">
+                {content.getQuote}
+              </Button>
+            </Link>
+            <a href="https://wa.me/8613583262050" target="_blank" rel="noopener noreferrer">
+              <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10 h-14 px-10 rounded-xl font-bold text-base">
+                <MessageCircle className="w-5 h-5 mr-2" />
+                WhatsApp
+              </Button>
+            </a>
+          </div>
+        </div>
+      </section>
     </Layout>
   );
 }

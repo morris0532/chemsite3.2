@@ -9,7 +9,7 @@ const jsonLdEn = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Sinopeakchem",
-  url: "https://www.sinopeakchem.com",
+  url: "https://sinopeakchem.com",
   description: "Sinopeakchem is a multi-functional and innovative chemical company integrating production, brand operation, and global platform services since 2010.",
   foundingDate: "2010",
   numberOfEmployees: { "@type": "QuantitativeValue", value: "50+" },
@@ -167,8 +167,8 @@ export default function AboutPage() {
   const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : jsonLdEn);
 
   const content = isRu ? {
-    title: "О Sinopeakchem | Эксперты по высокостандартному обслуживанию | Химический поставщик",
-    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с 15-летним опытом. Мы объединяем производство, НИОКР и глобальную логистику из Китая.",
+    title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
+    description: "Узнайте о Sinopeakchem, многофункциональной химической компании с 15-летним опытом. Мы объединяем производство, НИОКР и глобальную логистику.",
     heroTitle: "Поиск лучших решений — наша конечная цель",
     heroDesc: "Эксперты по высокостандартному обслуживанию, соединяющие передовое китайское производство с мировыми промышленными потребностями.",
     ourStory: "Наша история",
@@ -180,8 +180,8 @@ export default function AboutPage() {
     visionTitle: "Видение бизнеса",
     visionDesc: "Мы стремимся создать профессиональную платформу для экологически чистых химических продуктов, способствуя «зеленому» развитию промышленных предприятий и выводя китайские технологии на мировой рынок.",
   } : (isFr ? {
-    title: "À propos de Sinopeakchem | Experts en Service de Haut Niveau | Fournisseur Chimique",
-    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec plus de 15 ans d'excellence. Intégrant production, R&D et logistique mondiale depuis la Chine.",
+    title: "À propos de Sinopeakchem - Experts en Service de Haut Niveau",
+    description: "Découvrez Sinopeakchem, une entreprise chimique multifonctionnelle avec plus de 15 ans d'excellence. Intégrant production, R&D et logistique mondiale.",
     heroTitle: "Trouver la Meilleure Solution est Notre Objectif Ultime",
     heroDesc: "Experts en service de haut niveau faisant le pont entre la fabrication chinoise avancée et les besoins industriels mondiaux.",
     ourStory: "Notre Histoire",
@@ -193,18 +193,18 @@ export default function AboutPage() {
     visionTitle: "Positionnement Commercial",
     visionDesc: "Nous nous engageons à construire une plateforme professionnelle pour les produits chimiques de protection de l'environnement, favorisant le développement vert des entreprises industrielles.",
   } : {
-    title: "About Sinopeakchem | High-standard Service Experts | Chemical Supplier",
-    description: "Learn about Sinopeakchem, a multi-functional chemical company with 15+ years of excellence. Integrating production, R&D, and global logistics from China.",
+    title: "About Sinopeakchem - High-standard Service Experts",
+    description: "Learn about Sinopeakchem, a multi-functional chemical company with 15+ years of excellence. Integrating production, R&D, and global logistics.",
     heroTitle: "Finding the Best Solution is Our Ultimate Goal",
     heroDesc: "High-standard service experts bridging the gap between advanced Chinese manufacturing and global industrial needs.",
     ourStory: "Our Story",
     storySubtitle: "Since 2010, Our Team Has Succeeded In Understanding The Needs Of The Industry And Creating Reliable Products To Serve All.",
     storyP1: "Founded in 2010 in Shandong Province, China, Sinopeakchem is a multi-functional and innovative chemical company integrating the production of chemical products, brand operation, and platform services.",
-    storyP2: "Our products cover a wide range including oxalic acid, sodium thiosulphate, calcium chloride, sodium sulfite, citric acid, and other phosphate and sulfate series. We strive to become a bright star in the chemical industry through innovation and comprehensive service.",
+    storyP2: "Our products cover a wide range including oxalic acid, sodium thiosulphate, calcium chloride, sodium sulfite, citric acid, and other phosphate and sulfate series. We strive to become a brilliant star in the chemical industry through continuous innovation and comprehensive services.",
     strategicHubs: "Strategic Hubs",
     serviceCommitment: "Our Service Commitment",
-    visionTitle: "Business Vision",
-    visionDesc: "We are committed to building a professional platform for environmental protection chemical products, promoting the green development of industrial enterprises, and bringing Chinese technology to the global market.",
+    visionTitle: "Business Positioning",
+    visionDesc: "We are committed to building a professional platform for environmental protection chemical products, promoting green development of industrial enterprises and bringing Chinese chemical technology to the global market.",
   });
 
   return (
@@ -213,62 +213,51 @@ export default function AboutPage() {
       description={content.description}
       jsonLd={jsonLd}
     >
-      {/* Hero Section */}
-      <section className="relative py-20 md:py-32 overflow-hidden">
+      {/* Hero */}
+      <section className="relative py-24 md:py-32 overflow-hidden">
         <div className="absolute inset-0">
           <img src={HERO_IMG} alt="Sinopeakchem Global Operations" className="w-full h-full object-cover" />
-          <div className="absolute inset-0 bg-[#003d66]/80 backdrop-blur-sm" />
+          <div className="absolute inset-0 bg-slate-900/70" />
         </div>
-        <div className="container mx-auto px-4 relative z-10 text-center text-white">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight max-w-4xl mx-auto">
-            {content.heroTitle}
-          </h1>
-          <p className="text-xl text-blue-100 max-w-2xl mx-auto leading-relaxed">
+        <div className="container mx-auto px-4 relative z-10 text-white text-center">
+          <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">{content.heroTitle}</h1>
+          <p className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto font-medium">
             {content.heroDesc}
           </p>
         </div>
       </section>
 
-      {/* Stats Section */}
+      {/* Stats */}
       <section className="py-12 bg-white border-b border-gray-100">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
-            {stats.map((stat, index) => (
-              <div key={index} className="text-center">
-                <div className="inline-flex items-center justify-center w-12 h-12 bg-blue-50 rounded-xl mb-4">
-                  <stat.icon className="w-6 h-6 text-[#0066B3]" />
-                </div>
-                <div className="text-3xl font-bold text-[#1A1A2E] mb-1">{stat.value}</div>
-                <div className="text-sm text-gray-500 font-medium">{stat.label}</div>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+            {stats.map((stat, i) => (
+              <div key={i} className="text-center">
+                <p className="text-4xl font-bold text-[#0066B3] mb-2">{stat.value}</p>
+                <p className="text-sm text-gray-500 font-bold uppercase tracking-wider">{stat.label}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Story Section */}
-      <section className="py-20 bg-white">
+      {/* Company Story */}
+      <section className="py-20 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <div className="inline-block px-4 py-1.5 bg-blue-50 text-[#0066B3] text-sm font-bold rounded-full mb-6">
-                {content.ourStory}
-              </div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">{content.ourStory}</h2>
+              <h3 className="text-xl font-bold text-[#0066B3] mb-8 leading-tight">
                 {content.storySubtitle}
-              </h2>
-              <div className="space-y-6 text-gray-600 text-lg leading-relaxed">
+              </h3>
+              <div className="space-y-6 text-gray-600 leading-relaxed text-lg">
                 <p>{content.storyP1}</p>
                 <p>{content.storyP2}</p>
               </div>
             </div>
             <div className="relative">
-              <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
-                <img src={LAB_IMG} alt="Sinopeakchem Quality Control Laboratory" className="w-full h-full object-cover" />
-              </div>
-              <div className="absolute -bottom-8 -left-8 bg-[#0066B3] text-white p-8 rounded-3xl shadow-xl hidden md:block">
-                <div className="text-4xl font-bold mb-1">15+</div>
-                <div className="text-sm font-medium opacity-80 uppercase tracking-wider">Years of Excellence</div>
+              <div className="rounded-3xl overflow-hidden shadow-2xl">
+                <img src={LAB_IMG} alt="Sinopeakchem Production Base" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
@@ -276,22 +265,19 @@ export default function AboutPage() {
       </section>
 
       {/* Strategic Hubs */}
-      <section className="py-20 bg-[#F8FAFC]">
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.strategicHubs}</h2>
-            <div className="w-20 h-1.5 bg-[#0066B3] mx-auto rounded-full" />
-          </div>
+          <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-16 text-center">{content.strategicHubs}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {hubs.map((hub, index) => (
-              <div key={index} className="bg-white p-8 rounded-2xl border border-slate-100 hover:shadow-xl transition-all group">
+            {hubs.map((hub, i) => (
+              <div key={i} className="p-8 rounded-3xl bg-slate-50 border border-slate-100 hover:shadow-xl transition-all duration-300">
                 <div className="flex items-start gap-6">
-                  <div className="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-[#0066B3] transition-colors">
-                    <hub.icon className="w-7 h-7 text-[#0066B3] group-hover:text-white transition-colors" />
+                  <div className="w-14 h-14 bg-white rounded-2xl flex items-center justify-center shadow-sm shrink-0">
+                    <hub.icon className="w-7 h-7 text-[#0066B3]" />
                   </div>
                   <div>
-                    <div className="text-xs font-bold text-[#0066B3] uppercase tracking-widest mb-1">{hub.location}</div>
-                    <h3 className="text-xl font-bold text-[#1A1A2E] mb-3">{hub.title}</h3>
+                    <h3 className="text-xl font-bold text-slate-900 mb-1">{hub.title}</h3>
+                    <p className="text-sm font-bold text-[#0066B3] mb-4 uppercase tracking-wider">{hub.location}</p>
                     <p className="text-gray-600 leading-relaxed">{hub.desc}</p>
                   </div>
                 </div>
@@ -301,32 +287,29 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Values Section */}
-      <section className="py-20 bg-white">
+      {/* Service Commitment */}
+      <section className="py-20 bg-slate-900 text-white">
         <div className="container mx-auto px-4">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-4">{content.serviceCommitment}</h2>
-            <div className="w-20 h-1.5 bg-[#0066B3] mx-auto rounded-full" />
-          </div>
+          <h2 className="text-3xl md:text-4xl font-bold mb-16 text-center">{content.serviceCommitment}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {values.map((value, index) => (
-              <div key={index} className="text-center p-6">
-                <div className="w-16 h-16 bg-slate-50 rounded-2xl flex items-center justify-center mx-auto mb-6 group-hover:bg-blue-50 transition-colors">
-                  <value.icon className="w-8 h-8 text-[#0066B3]" />
+            {values.map((v, i) => (
+              <div key={i} className="text-center p-6">
+                <div className="w-16 h-16 bg-blue-500/10 rounded-2xl flex items-center justify-center mx-auto mb-6">
+                  <v.icon className="w-8 h-8 text-blue-400" />
                 </div>
-                <h3 className="text-lg font-bold text-[#1A1A2E] mb-3">{value.title}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{value.desc}</p>
+                <h3 className="text-xl font-bold mb-4">{v.title}</h3>
+                <p className="text-blue-100/70 leading-relaxed">{v.desc}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Vision Section */}
-      <section className="py-20 bg-[#003d66] text-white">
+      {/* Vision */}
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4 text-center max-w-4xl">
-          <h2 className="text-3xl md:text-4xl font-bold mb-8">{content.visionTitle}</h2>
-          <p className="text-xl text-blue-100 leading-relaxed italic">
+          <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-8">{content.visionTitle}</h2>
+          <p className="text-xl text-gray-600 leading-relaxed italic">
             "{content.visionDesc}"
           </p>
         </div>

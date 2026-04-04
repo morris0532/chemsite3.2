@@ -98,7 +98,7 @@ export default function ContactPage() {
   };
 
   const content = isRu ? {
-    title: "Свяжитесь с нами | Получите предложение на промышленные химикаты | Sinopeakchem",
+    title: "Свяжитесь с нами - Получите предложение на промышленные химикаты",
     description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке. Свяжитесь с нами по электронной почте, WhatsApp или через нашу контактную форму.",
     heroTitle: "Свяжитесь с нами",
     heroDesc: "Готовы закупать качественные химикаты? Свяжитесь с нашей командой для получения информации о ценах, продукции и технической поддержке.",
@@ -120,7 +120,7 @@ export default function ContactPage() {
     sending: "Отправка...",
     sendButton: "Отправить сообщение",
   } : (isFr ? {
-    title: "Contactez-nous | Obtenez un Devis pour des Produits Chimiques Industriels | Sinopeakchem",
+    title: "Contactez-nous - Obtenez un Devis pour des Produits Chimiques Industriels",
     description: "Contactez Sinopeakchem pour des demandes de produits chimiques, des tarifs et un support technique. Joignez-nous par e-mail, WhatsApp ou via notre formulaire.",
     heroTitle: "Contactez-nous",
     heroDesc: "Prêt à vous approvisionner en produits chimiques de qualité ? Contactez notre équipe pour obtenir des tarifs et des informations techniques.",
@@ -142,7 +142,7 @@ export default function ContactPage() {
     sending: "Envoi en cours...",
     sendButton: "Envoyer le Message",
   } : {
-    title: "Contact Us | Get a Quote for Industrial Chemicals | Sinopeakchem",
+    title: "Contact Us - Get a Quote for Industrial Chemicals",
     description: "Contact Sinopeakchem for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
     heroTitle: "Contact Us",
     heroDesc: "Ready to source quality chemicals? Get in touch with our team for pricing, product information, and technical support.",
