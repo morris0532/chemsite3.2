@@ -56,15 +56,41 @@ export default function ProductDetailPage() {
     );
   }
 
-  const handleDocSubmit = (e: React.FormEvent) => {
+  const handleDocSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setDocSubmitted(true);
-    setTimeout(() => {
-      setDocSubmitted(false);
-      setDocModalOpen(false);
-      setDocEmail("");
-      setDocCompany("");
-    }, 3000);
+    
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: docEmail.split('@')[0], // 临时从邮箱获取名称
+          email: docEmail,
+          company: docCompany,
+          type: 'doc_request',
+          product: product.name,
+          documents: [docMSDS ? 'MSDS' : '', docCOA ? 'COA' : ''].filter(Boolean).join(', ')
+        }),
+      });
+
+      if (response.ok) {
+        setDocSubmitted(true);
+        setTimeout(() => {
+          setDocSubmitted(false);
+          setDocModalOpen(false);
+          setDocEmail("");
+          setDocCompany("");
+        }, 3000);
+      } else {
+        console.error('Failed to send request');
+        alert(isRu ? 'Ошибка при отправке запроса. Пожалуйста, попробуйте еще раз.' : 'Failed to send request. Please try again.');
+      }
+    } catch (error) {
+      console.error('Error submitting document request:', error);
+      alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : 'An error occurred. Please try again later.');
+    }
   };
 
   const currentUrl = `https://sinopeakchem.com${location.pathname}`;
