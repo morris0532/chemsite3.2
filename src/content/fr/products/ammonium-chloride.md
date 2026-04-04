@@ -1,7 +1,6 @@
 ---
 id: "18"
 name: "Chlorure d'ammonium"
-nameCn: "氯化铵"
 cas: "12125-02-9"
 hsCode: "2827101000"
 slug: "ammonium-chloride"

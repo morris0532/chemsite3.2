@@ -1,7 +1,6 @@
 ---
 id: "22"
 name: "Sulfamic Acid"
-nameCn: "氨基磺酸"
 cas: "5329-14-6"
 hsCode: "2811199090"
 slug: "sulfamic-acid"

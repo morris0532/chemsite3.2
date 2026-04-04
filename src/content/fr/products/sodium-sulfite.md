@@ -1,7 +1,6 @@
 ---
 id: "15"
 name: "Sulfite de sodium anhydre"
-nameCn: "Sulfite de sodium anhydre"
 cas: "7757-83-7"
 hsCode: "2832100000"
 slug: "sodium-sulfite"

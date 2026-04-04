@@ -1,7 +1,6 @@
 ---
 id: "6"
 name: "Безводный сульфат натрия (SSA)"
-nameCn: "元明粉"
 cas: "7757-82-6"
 hsCode: "2833110000"
 slug: "sodium-sulfate-anhydrous"

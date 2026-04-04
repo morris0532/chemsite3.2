@@ -1,7 +1,6 @@
 ---
 id: "13"
 name: "Гексаметафосфат натрия"
-nameCn: "六偏磷酸钠"
 cas: "10124-56-8"
 hsCode: "2835399000"
 slug: "sodium-hexametaphosphate"

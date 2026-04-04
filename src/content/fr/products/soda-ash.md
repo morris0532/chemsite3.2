@@ -1,7 +1,6 @@
 ---
 id: "7"
 name: "Carbonate de sodium (Soude)"
-nameCn: "纯碱"
 cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"

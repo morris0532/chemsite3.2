@@ -1,7 +1,6 @@
 ---
 id: "6"
 name: "Sulfate de sodium anhydre (SSA)"
-nameCn: "Sulfate de sodium anhydre"
 cas: "7757-82-6"
 hsCode: "2833110000"
 slug: "sodium-sulfate-anhydrous"

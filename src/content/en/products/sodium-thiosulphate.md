@@ -1,7 +1,6 @@
 ---
 id: "1"
 name: "Sodium Thiosulphate (Hypo)"
-nameCn: "硫代硫酸钠"
 cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 sług: "sodium-thiosulphate"

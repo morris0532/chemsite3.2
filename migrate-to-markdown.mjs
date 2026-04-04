@@ -22,7 +22,7 @@ function writeMarkdown(dir, filename, data, content) {
   fs.writeFileSync(filePath, fileContent);
 }
 
-// 迁移 Blog
+
 console.log('Migrating blogs...');
 const blogEnDir = path.join(CONTENT_DIR, 'en/blog');
 const blogRuDir = path.join(CONTENT_DIR, 'ru/blog');
@@ -39,7 +39,7 @@ blogPostsRu.forEach(post => {
   writeMarkdown(blogRuDir, post.slug, meta, content);
 });
 
-// 迁移 Products
+
 console.log('Migrating products...');
 const prodEnDir = path.join(CONTENT_DIR, 'en/products');
 const prodRuDir = path.join(CONTENT_DIR, 'ru/products');

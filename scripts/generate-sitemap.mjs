@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const SITE_URL = 'https://www.sinopeakchem.com';
+const SITE_URL = 'https:
 
 async function generateSitemap() {
   const contentDir = path.resolve('src/content');
@@ -15,7 +15,7 @@ async function generateSitemap() {
   ];
 
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">`;
+<urlset xmlns="http:
 
   const today = new Date().toISOString().split('T')[0];
 
@@ -32,20 +32,20 @@ async function generateSitemap() {
   </url>`;
   };
 
-  // 1. 添加基础页面
+  
   pages.forEach(page => {
     const enLoc = `${SITE_URL}/en${page}`;
     const ruLoc = `${SITE_URL}/ru${page}`;
     const frLoc = `${SITE_URL}/fr${page}`;
     
-    // 为每个语言添加 URL 条目
+    
     addUrl(enLoc, 'weekly', page === '' ? '1.0' : '0.8', enLoc, ruLoc, frLoc);
     addUrl(ruLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
     addUrl(frLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
   });
 
-  // 2. 添加博客文章
-  // 先获取所有博客的 slug，确保 alternate 链接完整
+  
+  
   const blogSlugs = new Set();
   for (const locale of locales) {
     const blogDir = path.join(contentDir, locale, 'blog');
@@ -69,8 +69,8 @@ async function generateSitemap() {
     }
   }
 
-  // 3. 添加产品页面
-  // 先获取所有产品的 slug
+  
+  
   const productSlugs = new Set();
   for (const locale of locales) {
     const productDir = path.join(contentDir, locale, 'products');

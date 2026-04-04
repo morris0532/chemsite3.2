@@ -1,7 +1,6 @@
 ---
 id: "5"
 name: "Tripolyphosphate de sodium (STPP)"
-nameCn: "Tripolyphosphate de sodium"
 cas: "7758-29-4"
 hsCode: "2835319000"
 slug: "sodium-tripolyphosphate"

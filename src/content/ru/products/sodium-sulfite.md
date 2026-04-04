@@ -1,7 +1,6 @@
 ---
 id: "15"
 name: "Сульфит натрия"
-nameCn: "亚硫酸钠"
 cas: "7757-83-7"
 hsCode: "2832100000"
 slug: "sodium-sulfite"

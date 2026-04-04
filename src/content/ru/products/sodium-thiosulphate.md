@@ -1,7 +1,6 @@
 ---
 id: "1"
 name: "Тиосульфат натрия"
-nameCn: "大苏打"
 cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 slug: "sodium-thiosulphate"

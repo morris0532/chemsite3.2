@@ -1,7 +1,6 @@
 ---
 id: "9"
 name: "Лимонная кислота моногидрат"
-nameCn: "一水柠檬酸"
 cas: "5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-monohydrate"

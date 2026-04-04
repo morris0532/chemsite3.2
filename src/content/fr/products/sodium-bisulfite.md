@@ -1,7 +1,6 @@
 ---
 id: "20"
 name: "Bisulfite de sodium"
-nameCn: "Bisulfite de sodium"
 cas: "7631-90-5"
 hsCode: "2832100000"
 slug: "sodium-bisulfite"

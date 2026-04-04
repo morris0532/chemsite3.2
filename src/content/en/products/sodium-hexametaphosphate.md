@@ -1,7 +1,6 @@
 ---
 id: "13"
 name: "Sodium Hexametaphosphate (SHMP)"
-nameCn: "六偏磷酸钠"
 cas: "10124-56-8"
 hsCode: "2835391900"
 slug: "sodium-hexametaphosphate"

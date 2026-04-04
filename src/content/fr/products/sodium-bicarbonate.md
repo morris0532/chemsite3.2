@@ -1,7 +1,6 @@
 ---
 id: "16"
 name: "Bicarbonate de sodium (Bicarbonate de soude)"
-nameCn: "Bicarbonate de sodium"
 cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"

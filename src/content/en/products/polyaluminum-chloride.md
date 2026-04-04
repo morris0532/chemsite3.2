@@ -1,7 +1,6 @@
 ---
 id: "19"
 name: "Polyaluminum Chloride (PAC)"
-nameCn: "聚合氯化铝"
 cas: "1327-41-9"
 hsCode: "2827320000"
 slug: "polyaluminum-chloride"

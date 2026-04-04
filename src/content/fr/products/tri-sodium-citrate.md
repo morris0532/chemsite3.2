@@ -1,7 +1,6 @@
 ---
 id: "10"
 name: "Citrate de trisodium (TSC)"
-nameCn: "Citrate de trisodium"
 cas: "68-04-2"
 hsCode: "2918150000"
 slug: "tri-sodium-citrate"

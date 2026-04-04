@@ -1,7 +1,6 @@
 ---
 id: "1"
 name: "Thiosulfate de sodium (Hypo)"
-nameCn: "Thiosulfate de sodium"
 cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 slug: "sodium-thiosulphate"

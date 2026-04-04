@@ -1,7 +1,6 @@
 ---
 id: "4"
 name: "Хлорид кальция"
-nameCn: "氯化钙"
 cas: "10043-52-4 / 10035-04-8"
 hsCode: "2827200000"
 slug: "calcium-chloride"

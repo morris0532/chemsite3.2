@@ -1,7 +1,6 @@
 ---
 id: "12"
 name: "Sulfate d'ammonium"
-nameCn: "硫酸铵"
 cas: "7783-20-2"
 hsCode: "3102210000"
 slug: "ammonium-sulphate"

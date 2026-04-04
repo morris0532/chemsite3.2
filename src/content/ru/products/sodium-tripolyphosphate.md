@@ -1,7 +1,6 @@
 ---
 id: "5"
 name: "Триполифосфат натрия (STPP)"
-nameCn: "三聚磷酸钠"
 cas: "7758-29-4"
 hsCode: "2835319000"
 slug: "sodium-tripolyphosphate"

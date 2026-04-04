@@ -26,7 +26,7 @@ export default function markdownPlugin() {
           const posts = [];
           const products = [];
 
-          // 加载博客文章
+          // Load blog posts
           if (fs.existsSync(postsDir)) {
             fs.readdirSync(postsDir).forEach(file => {
               if (file.endsWith('.md')) {
@@ -49,7 +49,7 @@ export default function markdownPlugin() {
             });
           }
 
-          // 加载产品
+          // Load products
           if (fs.existsSync(productsDir)) {
             fs.readdirSync(productsDir).forEach(file => {
               if (file.endsWith('.md')) {
@@ -68,7 +68,6 @@ export default function markdownPlugin() {
                   packaging: frontmatter.packaging || '',
                   loading: frontmatter.loading || '',
                   image: frontmatter.image || '/logo.png',
-                  nameCn: frontmatter.nameCn || '',
                   specs: frontmatter.specs || [],
                   applications: frontmatter.applications || [],
                   faqs: frontmatter.faqs || [],

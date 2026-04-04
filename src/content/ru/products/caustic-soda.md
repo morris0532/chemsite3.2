@@ -1,7 +1,6 @@
 ---
 id: "2"
 name: "Каустическая сода"
-nameCn: "片碱"
 cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"

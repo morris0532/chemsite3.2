@@ -1,7 +1,6 @@
 ---
 id: "11"
 name: "Phosphate de trisodium (TSP)"
-nameCn: "Phosphate de trisodium"
 cas: "7601-54-9"
 hsCode: "2835291000"
 slug: "trisodium-phosphate"

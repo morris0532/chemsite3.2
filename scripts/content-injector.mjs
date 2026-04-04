@@ -8,11 +8,11 @@ const routes = getPrerenderRoutes();
 const distDir = path.resolve('dist');
 const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
-const BASE_URL = 'https://www.sinopeakchem.com';
+const BASE_URL = 'https:
 
 console.log(`Starting advanced content injection for ${routes.length} routes...`);
 
-// 预先读取所有产品和博客的元数据，用于列表页的关键词生成
+
 const contentMetadata = {
   en: { products: [], blog: [] },
   ru: { products: [], blog: [] },
@@ -53,15 +53,15 @@ routes.forEach(route => {
   let title = '';
   let description = '';
   let keywords = '';
-  let ogImage = 'https://www.sinopeakchem.com/images/og-image.jpg';
+  let ogImage = 'https:
   let jsonLd = null;
 
-  const parts = route.split('/').filter(Boolean); // [en, blog, slug] 或 [en, products, slug] 或 [en, about]
+  const parts = route.split('/').filter(Boolean); 
   const locale = parts[0] || 'en';
   const type = parts[1];
   const slug = parts[2];
 
-  // 1. 处理产品详情页和博客详情页 (MD 文件)
+  
   if (parts.length === 3 && (type === 'blog' || type === 'products')) {
     const mdFilePath = path.join(contentDir, locale, type, `${slug}.md`);
     if (fs.existsSync(mdFilePath)) {
@@ -74,7 +74,7 @@ routes.forEach(route => {
         description = `Buy high-purity ${data.name} (${data.cas}) in bulk from China. ${data.shortDescription || ''} Competitive pricing with COA/MSDS.`;
         ogImage = data.image || ogImage;
         jsonLd = {
-          "@context": "https://schema.org",
+          "@context": "https:
           "@type": "Product",
           "name": data.name,
           "description": data.shortDescription || description,
@@ -83,7 +83,7 @@ routes.forEach(route => {
           "offers": {
             "@type": "Offer",
             "seller": { "@type": "Organization", "name": "Sinopeakchem" },
-            "availability": "https://schema.org/InStock"
+            "availability": "https:
           },
           "image": data.image
         };
@@ -92,7 +92,7 @@ routes.forEach(route => {
         description = data.excerpt || '';
         ogImage = data.image || ogImage;
         jsonLd = {
-          "@context": "https://schema.org",
+          "@context": "https:
           "@type": "Article",
           "headline": data.title,
           "datePublished": data.date,
@@ -101,7 +101,7 @@ routes.forEach(route => {
         };
       }
       
-      // 提取关键词
+      
       if (Array.isArray(data.tags)) {
         keywords = data.tags.join(', ');
       } else if (data.keywords) {
@@ -111,7 +111,7 @@ routes.forEach(route => {
       }
     }
   } 
-  // 2. 处理列表页及其他基础页面
+  
   else if (parts.length === 2) {
     const page = parts[1];
     if (page === 'products') {
@@ -132,15 +132,23 @@ routes.forEach(route => {
       title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
       keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
+    } else if (page === 'privacy-policy') {
+      title = locale === 'ru' ? 'Политика конфиденциальности' : (locale === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy');
+      description = 'Privacy policy and data protection at Sinopeakchem.';
+      keywords = locale === 'ru' ? 'конфиденциальность, защита данных, политика' : (locale === 'fr' ? 'confidentialité, protection des données, politique' : 'privacy, data protection, policy');
+    } else if (page === 'terms-of-service') {
+      title = locale === 'ru' ? 'Условия использования' : (locale === 'fr' ? 'Conditions d\'utilisation' : 'Terms of Service');
+      description = 'Terms of service and usage guidelines for Sinopeakchem website.';
+      keywords = locale === 'ru' ? 'условия использования, правила, соглашение' : (locale === 'fr' ? 'conditions d\'utilisation, règles, accord' : 'terms of service, rules, agreement');
     }
   }
-  // 3. 处理首页
+  
   else if (parts.length === 1) {
     title = `Sinopeakchem - Premier Industrial Chemical Supplier from China | 22+ Products`;
     description = `Sinopeakchem is a leading industrial chemical supplier and trader from China, providing high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
     keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
     jsonLd = {
-      "@context": "https://schema.org",
+      "@context": "https:
       "@type": "Organization",
       "name": "Sinopeakchem",
       "url": BASE_URL,
@@ -165,14 +173,14 @@ routes.forEach(route => {
   if (title || description || keywords) {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
-    // 1. 注入正文到 <div id="root"></div>
-    // 同时添加 'loaded' 类，确保静态 HTML 在浏览器中直接可见，避免 FOUC
+    
+    
     const rootPlaceholder = '<div id="root"></div>';
     if (contentHtml && html.includes(rootPlaceholder)) {
       html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
     }
 
-    // 2. 注入 SEO Title
+    
     const fullTitle = `${title} | Sinopeakchem`;
     const titleRegex = /<title>[\s\S]*?<\/title>/i;
     if (titleRegex.test(html)) {
@@ -181,7 +189,7 @@ routes.forEach(route => {
       html = html.replace(/<\/head>/i, `  <title>${fullTitle}</title>\n  </head>`);
     }
 
-    // 3. 注入 SEO Description
+    
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     const descMeta = `<meta name="description" content="${cleanDesc}" />`;
     const descRegex = /<meta\s+name="description"\s+content=".*?"\s*\/?>/i;
@@ -191,7 +199,7 @@ routes.forEach(route => {
       html = html.replace(/<\/head>/i, `  ${descMeta}\n  </head>`);
     }
 
-    // 4. 注入 SEO Keywords
+    
     if (keywords) {
       const cleanKeywords = keywords.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
       const keywordsMeta = `<meta name="keywords" content="${cleanKeywords}" />`;
@@ -203,12 +211,12 @@ routes.forEach(route => {
       }
     }
 
-    // 5. 注入 Canonical 标签
+    
     const canonicalUrl = `${BASE_URL}${route}`;
     const canonicalTag = `<link rel="canonical" href="${canonicalUrl}" />`;
     html = html.replace(/<\/head>/i, `  ${canonicalTag}\n  </head>`);
 
-    // 6. 注入 Hreflang 标签
+    
     const currentPath = route.replace(/^\/(en|ru|fr)/, '');
     const hreflangTags = [
       `<link rel="alternate" hreflang="en" href="${BASE_URL}/en${currentPath}" />`,
@@ -218,7 +226,7 @@ routes.forEach(route => {
     ].join('\n  ');
     html = html.replace(/<\/head>/i, `  ${hreflangTags}\n  </head>`);
 
-    // 7. 注入 Open Graph & Twitter Card
+    
     const ogTags = [
       `<meta property="og:title" content="${title}" />`,
       `<meta property="og:description" content="${cleanDesc}" />`,
@@ -234,13 +242,13 @@ routes.forEach(route => {
     ].join('\n  ');
     html = html.replace(/<\/head>/i, `  ${ogTags}\n  </head>`);
 
-    // 8. 注入 JSON-LD 结构化数据
+    
     if (jsonLd) {
       const jsonLdTag = `<script type="application/ld+json">\n${JSON.stringify(jsonLd, null, 2)}\n</script>`;
       html = html.replace(/<\/head>/i, `  ${jsonLdTag}\n  </head>`);
     }
 
-    // 9. 修正 <html> 标签的 lang 属性
+    
     html = html.replace(/<html lang="en">/i, `<html lang="${locale}">`);
 
     fs.writeFileSync(targetFile, html);
