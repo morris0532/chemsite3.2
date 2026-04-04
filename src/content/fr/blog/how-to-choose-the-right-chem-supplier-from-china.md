@@ -21,21 +21,21 @@ La première étape de la sélection d'un **fournisseur de produits chimiques ch
 *   **Licences commerciales et certifications** : Assurez-vous que le fournisseur dispose d'une licence commerciale valide et des certifications industrielles pertinentes, telles que ISO 9001 (système de gestion de la qualité) et ISO 14001 (système de gestion environnementale). Ces certifications sont la preuve de base de leur conformité aux normes internationales.
 *   **Expérience et expertise de l'industrie** : Examinez l'expérience du fournisseur dans le domaine chimique requis. Un fournisseur expérimenté a généralement une compréhension plus approfondie des caractéristiques des produits, des tendances du marché et des risques potentiels.
 *   **Avis clients et études de cas** : Lisez les avis et les témoignages d'autres clients. Les commentaires réels des clients fournissent des informations précieuses sur la qualité du service et la fiabilité du fournisseur.
-*   **Transparence** : Un fournisseur digne de confiance doit maintenir un haut degré de transparence concernant ses processus de production, ses mesures de contrôle de la qualité et ses maillons de la chaîne d'approvisionnement.
+*   **Transparence** : Un fournisseur digne de confiance doit maintenir un haut degré de transparence concernant ses processus de supply, ses mesures de contrôle de la qualité et ses maillons de la chaîne d'approvisionnement.
 
 ## 2. Système de contrôle de la qualité strict
 
 Dans l'**approvisionnement en produits chimiques**, la qualité du produit n'est pas négociable. Par conséquent, le système de **contrôle de la qualité** du fournisseur est un facteur d'évaluation clé :
 
-*   **Processus de gestion de la qualité** : Comprenez comment le fournisseur effectue l'inspection des matières premières, le contrôle du processus de production et les tests du produit final. Ont-ils leur propre laboratoire ? Fournissent-ils des certificats d'analyse (COA) détaillés et des fiches de données de sécurité (MSDS) ?
+*   **Processus de gestion de la qualité** : Comprenez comment le fournisseur effectue l'inspection des matières premières, le contrôle du processus de supply et les tests du produit final. Ont-ils leur propre laboratoire ? Fournissent-ils des certificats d'analyse (COA) détaillés et des fiches de données de sécurité (MSDS) ?
 *   **Test d'échantillons** : Avant de faire un achat en gros, demandez toujours des échantillons de produits pour des tests indépendants. Cela garantit que le produit répond à vos spécifications techniques et à vos normes de qualité.
-*   **Traçabilité** : Demandez si le fournisseur peut fournir des informations sur les lots et des dossiers de production pour la traçabilité en cas de problème.
+*   **Traçabilité** : Demandez si le fournisseur peut fournir des informations sur les lots et des dossiers de supply pour la traçabilité en cas de problème.
 
 ## 3. Chaîne d'approvisionnement solide et capacités logistiques
 
 Une **gestion efficace de la chaîne d'approvisionnement** est essentielle pour assurer une livraison rapide et sûre des produits chimiques :
 
-*   **Capacité de production et inventaire** : Évaluez l'échelle de production et les niveaux de stock du fournisseur pour vous assurer qu'il peut répondre à votre volume de commande et à vos exigences de délai de livraison.
+*   **Capacité de supply et inventaire** : Évaluez l'échelle de supply et les niveaux de stock du fournisseur pour vous assurer qu'il peut répondre à votre volume de commande et à vos exigences de délai de livraison.
 *   **Emballage et stockage** : Les produits chimiques nécessitent souvent des conditions d'emballage et de stockage spéciales. Confirmez que le fournisseur respecte les normes d'expédition internationales et peut fournir des solutions d'emballage appropriées.
 *   **Réseau logistique** : Comprenez les partenaires logistiques et les itinéraires d'expédition du fournisseur. Peuvent-ils proposer des options d'expédition flexibles (par exemple, mer, air, terre) et gérer le transport de matières dangereuses ?
 *   **Expérience à l'exportation** : Choisissez un fournisseur ayant une vaste expérience du commerce international et des exportations. Ils peuvent mieux gérer les complexités des douanes, du dédouanement et de l'expédition internationale.
@@ -60,7 +60,7 @@ Une communication efficace est la pierre angulaire d'un partenariat réussi :
 
 Dans le cadre de réglementations environnementales mondiales de plus en plus strictes, la **conformité** et la durabilité deviennent de plus en plus importantes :
 
-*   **Normes environnementales** : Découvrez si le fournisseur respecte les réglementations environnementales de la Chine et adopte des pratiques de production durables.
+*   **Normes environnementales** : Découvrez si le fournisseur respecte les réglementations environnementales de la Chine et adopte des pratiques de supply durables.
 *   **Responsabilité sociale** : Vérifiez si le fournisseur se préoccupe du bien-être des employés et de la responsabilité sociale.
 
 ## Conclusion

@@ -41,7 +41,7 @@ faqs: [
     "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
     "question":"Quel est le délai de livraison pour les commandes en gros de sulfate de sodium anhydre de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes en gros de sulfate de sodium anhydre est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
+    "answer":"Le délai de livraison standard pour les commandes en gros de sulfate de sodium anhydre est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -65,7 +65,7 @@ En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfate d
 
 4.  **Industrie des pâtes et papiers** : Utilisé dans le **procédé Kraft** pour la **fabrication de pâtes et papiers** comme produit chimique d'appoint pour récupérer le soufre et le sodium de la liqueur noire, contribuant à l'efficacité du processus de réduction en pâte.
 
-5.  **Synthèse chimique** : Sert de matière première dans divers processus de **synthèse chimique** pour la production d'autres composés de sodium, tels que le sulfure de sodium et le silicate de sodium.
+5.  **Synthèse chimique** : Sert de matière première dans divers processus de **synthèse chimique** pour la supply d'autres composés de sodium, tels que le sulfure de sodium et le silicate de sodium.
 
 6.  **Additif pour l'alimentation animale** : Utilisé comme **additif pour l'alimentation animale** pour fournir du soufre et du sodium essentiels, contribuant à la santé et à la croissance des animaux.
 

@@ -5,7 +5,7 @@ nameCn: "柠檬酸三钠"
 cas: "68-04-2"
 hsCode: "2918150000"
 slug: "tri-sodium-citrate"
-shortDescription: "High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China. Essential for food additive, pharmaceutical, and detergent applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China. Essential for food additive, pharmaceutical, and detergent applications. Trusted supplier with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"Na₃C₆H₅O₇·2H₂O"},
@@ -27,7 +27,7 @@ applications: [
   "Photography"
 ]
 faqs: [
-  {"question":"What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of TSC, offering food grade, pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of TSC, offering food grade, pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical purity of your Tri-Sodium Citrate products?",
     "answer":"Our Tri-Sodium Citrate (Na₃C₆H₅O₇·2H₂O) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
   },{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk Tri-Sodium Citrate orders from your factory?",
-    "answer":"Standard lead time for bulk TSC orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk TSC orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Citrates"
 featured: false
 ---
 
-## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China Manufacturer & Supplier for High-Purity TSC
+## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China supplier & Supplier for High-Purity TSC
 
-As a premier **China manufacturer and supplier** of **Tri-Sodium Citrate (TSC)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Tri-Sodium Citrate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food additive, pharmaceutical, and industrial applications (HS Code: 2918150000).
+As a premier **China supplier and supplier** of **Tri-Sodium Citrate (TSC)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Tri-Sodium Citrate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of food additive, pharmaceutical, and industrial applications (HS Code: 2918150000).
 
 ### Key Applications & Benefits:
 
@@ -65,7 +65,7 @@ As a premier **China manufacturer and supplier** of **Tri-Sodium Citrate (TSC)**
 
 4.  **Cosmetics and Personal Care Products**: Used in **cosmetics and personal care products** as a pH adjuster, buffering agent, and chelating agent, contributing to product stability and performance.
 
-5.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the production of other citrate derivatives and organic compounds.
+5.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the supply of other citrate derivatives and organic compounds.
 
 6.  **Photography**: Applied in **photography** as a buffering agent in developing solutions.
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Tri-Sodium Citrate (TSC)**
 
 We provide flexible **packaging solutions** for our TSC, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Tri-Sodium Citrate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Tri-Sodium Citrate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

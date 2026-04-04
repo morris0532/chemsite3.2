@@ -47,11 +47,11 @@ Beyond industrial applications, Sodium Thiosulphate has important medical uses. 
 
 ## Why Choose a Reliable Sodium Thiosulphate Supplier from China?
 
-When sourcing Sodium Thiosulphate for your industrial needs, partnering with a reputable Chinese supplier like Sinopeakchem offers significant advantages. China is a leading global producer of chemicals, benefiting from economies of scale, advanced manufacturing capabilities, and efficient logistics networks. A reliable supplier ensures:
+When sourcing Sodium Thiosulphate for your industrial needs, partnering with a reputable Chinese supplier like Sinopeakchem offers significant advantages. China is a leading global producer of chemicals, benefiting from economies of scale, advanced supply capabilities, and efficient logistics networks. A reliable supplier ensures:
 
 *   **Consistent Quality**: Adherence to international standards (e.g., industrial grade, photographic grade) and rigorous quality control processes.
 *   **Competitive Pricing**: Cost-effective sourcing without compromising on product integrity.
-*   **Stable Supply Chain**: Robust production capacity and efficient export procedures from major ports like Qingdao, Tianjin, and Dalian.
+*   **Stable Supply Chain**: Robust supply capacity and efficient export procedures from major ports like Qingdao, Tianjin, and Dalian.
 *   **Comprehensive Documentation**: Provision of essential documents such as Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for compliance and safety.
 
 ## Conclusion

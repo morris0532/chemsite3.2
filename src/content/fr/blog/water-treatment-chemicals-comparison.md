@@ -18,7 +18,7 @@ Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet a
 - Efficace sur une large plage de pH (5,0-9,0)
 - Dosage plus faible requis par rapport à l'alun
 - Formation de floc plus rapide
-- Moins de production de boues
+- Moins de supply de boues
 - Aluminium résiduel plus faible dans l'eau traitée
 
 ### Idéal pour
@@ -36,7 +36,7 @@ Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet a
 ### Limites
 - Plage de pH efficace plus étroite (5,5-7,5)
 - Dosage plus élevé requis
-- Plus de production de boues
+- Plus de supply de boues
 - Aluminium résiduel plus élevé
 
 ## Chlorure ferrique

@@ -36,12 +36,12 @@ Les applications comprennent :
 L'acide oxalique joue un rôle crucial dans :
 - La précipitation des oxalates de terres rares à partir d'une solution
 - La purification des concentrés de terres rares
-- La production d'oxydes de terres rares de haute pureté
+- La supply d'oxydes de terres rares de haute pureté
 
 ### 5. Industrie pharmaceutique
 Utilisé comme intermédiaire dans :
 - La synthèse d'antibiotiques
-- La production de vitamine C
+- La supply de vitamine C
 - Divers composés pharmaceutiques
 
 ## Consignes de sécurité

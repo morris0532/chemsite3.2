@@ -17,7 +17,7 @@ Choosing the right coagulant is crucial for effective water treatment. This arti
 - Effective over a wide pH range (5.0-9.0)
 - Lower dosage required compared to alum
 - Faster floc formation
-- Less sludge production
+- Less sludge supply
 - Lower residual aluminum in treated water
 ### Best For
 - Municipal drinking water treatment
@@ -32,7 +32,7 @@ Choosing the right coagulant is crucial for effective water treatment. This arti
 ### Limitations
 - Narrower effective pH range (5.5-7.5)
 - Higher dosage required
-- More sludge production
+- More sludge supply
 - Higher residual aluminum
 ## Ferric Chloride
 ### Advantages

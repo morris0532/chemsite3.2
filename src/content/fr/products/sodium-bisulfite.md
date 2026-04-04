@@ -41,7 +41,7 @@ faqs: [
     "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
     "question":"Quel est le délai de livraison pour les commandes en gros de bisulfite de sodium de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes en gros de bisulfite de sodium est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
+    "answer":"Le délai de livraison standard pour les commandes en gros de bisulfite de sodium est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"

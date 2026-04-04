@@ -5,7 +5,7 @@ nameCn: "硫代硫酸钠"
 cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 sług: "sodium-thiosulphate"
-shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted supplier with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},
@@ -27,7 +27,7 @@ applications: [
   "Leather tanning"
 ]
 faqs: [
-  {"question":"What grades of Sodium Thiosulphate do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Thiosulphate, offering both anhydrous and pentahydrate forms with ≥99% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Sodium Thiosulphate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Thiosulphate, offering both anhydrous and pentahydrate forms with ≥99% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical purity of your Sodium Thiosulphate products?",
     "answer":"Our Sodium Thiosulphate (Na₂S₂O₃) is available with a minimum purity of 99% for both anhydrous and pentahydrate forms. We ensure strict quality control to meet international standards for all applications."
   },{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk Sodium Thiosulphate orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Thiosulphate orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk Sodium Thiosulphate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Sulfur Compounds"
 featured: false
 ---
 
-## Sodium Thiosulphate (CAS 7772-98-7 / 10102-17-7): Your Trusted China Manufacturer & Supplier for High-Purity Na₂S₂O₃
+## Sodium Thiosulphate (CAS 7772-98-7 / 10102-17-7): Your Trusted China supplier & Supplier for High-Purity Na₂S₂O₃
 
-As a premier **China manufacturer and supplier** of **Sodium Thiosulphate (Na₂S₂O₃)**, commonly known as **Hypo**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Thiosulphate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and medical applications (HS Code: 2832300000).
+As a premier **China supplier and supplier** of **Sodium Thiosulphate (Na₂S₂O₃)**, commonly known as **Hypo**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Thiosulphate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and medical applications (HS Code: 2832300000).
 
 ### Key Applications & Benefits:
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Sodium Thiosulphate (Na₂
 
 We provide flexible **packaging solutions** for our Sodium Thiosulphate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Thiosulphate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Thiosulphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

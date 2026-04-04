@@ -5,7 +5,7 @@ nameCn: "三聚磷酸钠"
 cas: "7758-29-4"
 hsCode: "2835319000"
 slug: "sodium-tripolyphosphate"
-shortDescription: "High-purity Sodium Tripolyphosphate (STPP) for bulk purchase and export from China. Essential for detergent, food additive, and industrial applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Sodium Tripolyphosphate (STPP) for bulk purchase and export from China. Essential for detergent, food additive, and industrial applications. Trusted supplier with competitive pricing."
 image: "/images/products/sodium-tripolyphosphate-7758-29-4.jpg"
 specs: [
   {"label":"Chemical Formula","value":"Na₅P₃O₁₀"},
@@ -27,7 +27,7 @@ applications: [
   "Textile dyeing"
 ]
 faqs: [
-  {"question":"What grades of Sodium Tripolyphosphate (STPP) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of STPP, offering food grade and industrial grade with ≥57% P₂O₅ content. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Sodium Tripolyphosphate (STPP) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of STPP, offering food grade and industrial grade with ≥57% P₂O₅ content. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical P₂O₅ content of your STPP products?",
     "answer":"Our STPP (Na₅P₃O₁₀) is available with a minimum P₂O₅ content of 57%. We ensure strict quality control to meet international standards for all applications."
   },{
@@ -35,13 +35,13 @@ faqs: [
     "answer":"For export, our STPP is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
   },{
     "question":"What are the main applications of your industrial grade STPP?",
-    "answer":"Our industrial grade STPP is widely used in detergent manufacturing as a builder, in food as an emulsifier, and in water treatment as a sequestrant. Its versatility makes it a key chemical."
+    "answer":"Our industrial grade STPP is widely used in detergent supply as a builder, in food as an emulsifier, and in water treatment as a sequestrant. Its versatility makes it a key chemical."
   },{
     "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for STPP?",
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk STPP orders from your factory?",
-    "answer":"Standard lead time for bulk STPP orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk STPP orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Phosphates"
 featured: false
 ---
 
-## Sodium Tripolyphosphate (CAS 7758-29-4): Your Trusted China Manufacturer & Supplier for High-Purity STPP
+## Sodium Tripolyphosphate (CAS 7758-29-4): Your Trusted China supplier & Supplier for High-Purity STPP
 
-As a premier **China manufacturer and supplier** of **Sodium Tripolyphosphate (STPP)**, we offer **high-purity** product with **≥57% P₂O₅ content** for **bulk purchase** and **export** worldwide. Our STPP is produced to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, food, and industrial applications (HS Code: 2835319000).
+As a premier **China supplier and supplier** of **Sodium Tripolyphosphate (STPP)**, we offer **high-purity** product with **≥57% P₂O₅ content** for **bulk purchase** and **export** worldwide. Our STPP is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, food, and industrial applications (HS Code: 2835319000).
 
 ### Key Applications & Benefits:
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Sodium Tripolyphosphate (S
 
 We provide flexible **packaging solutions** for our STPP, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Tripolyphosphate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Tripolyphosphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

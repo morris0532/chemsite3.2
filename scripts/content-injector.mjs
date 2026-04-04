@@ -80,7 +80,11 @@ routes.forEach(route => {
           "description": data.shortDescription || description,
           "sku": `CAS-${data.cas}`,
           "brand": { "@type": "Brand", "name": "Sinopeakchem" },
-          "manufacturer": { "@type": "Organization", "name": "Sinopeakchem" },
+          "offers": {
+            "@type": "Offer",
+            "seller": { "@type": "Organization", "name": "Sinopeakchem" },
+            "availability": "https://schema.org/InStock"
+          },
           "image": data.image
         };
       } else {
@@ -132,8 +136,8 @@ routes.forEach(route => {
   }
   // 3. 处理首页
   else if (parts.length === 1) {
-    title = `Sinopeakchem - Leading Industrial Chemical Supplier from China | 22+ Products`;
-    description = `Sinopeakchem is a premier industrial chemical supplier from China, exporting high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
+    title = `Sinopeakchem - Premier Industrial Chemical Supplier from China | 22+ Products`;
+    description = `Sinopeakchem is a leading industrial chemical supplier and trader from China, providing high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
     keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
     jsonLd = {
       "@context": "https://schema.org",

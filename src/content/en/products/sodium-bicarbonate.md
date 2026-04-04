@@ -5,7 +5,7 @@ nameCn: "小苏打"
 cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"
-shortDescription: "High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from China. Essential for food, feed, pharmaceutical, and industrial applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from China. Essential for food, feed, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"NaHCO₃"},
@@ -27,7 +27,7 @@ applications: [
   "Water treatment"
 ]
 faqs: [
-  {"question":"What grades of Sodium Bicarbonate do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Sodium Bicarbonate, offering food grade, feed grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Sodium Bicarbonate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Bicarbonate, offering food grade, feed grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical purity of your Sodium Bicarbonate products?",
     "answer":"Our Sodium Bicarbonate (NaHCO₃) is available with a minimum purity of 99.0% for food grade applications. We ensure strict quality control to meet international standards."
   },{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk Sodium Bicarbonate orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Bicarbonate orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk Sodium Bicarbonate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Alkali Products"
 featured: false
 ---
 
-## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China Manufacturer & Supplier for High-Purity Baking Soda
+## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China supplier & Supplier for High-Purity Baking Soda
 
-As a premier **China manufacturer and supplier** of **Sodium Bicarbonate (NaHCO₃)**, commonly known as **Baking Soda**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bicarbonate is produced to meet stringent international quality standards, making it an essential raw material for a wide range of food, feed, pharmaceutical, and industrial applications (HS Code: 2836300000).
+As a premier **China supplier and supplier** of **Sodium Bicarbonate (NaHCO₃)**, commonly known as **Baking Soda**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bicarbonate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of food, feed, pharmaceutical, and industrial applications (HS Code: 2836300000).
 
 ### Key Applications & Benefits:
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Sodium Bicarbonate (NaHCO�
 
 We provide flexible **packaging solutions** for our Sodium Bicarbonate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Bicarbonate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Bicarbonate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

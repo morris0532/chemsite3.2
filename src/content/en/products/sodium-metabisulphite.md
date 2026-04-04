@@ -5,7 +5,7 @@ nameCn: "焦亚硫酸钠"
 cas: "7681-57-4"
 hsCode: "2832100000"
 slug: "sodium-metabisulphite"
-shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted supplier with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"Na₂S₂O₅"},
@@ -27,7 +27,7 @@ applications: [
   "Photography (fixing agent)"
 ]
 faqs: [
-  {"question":"What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of SMBS, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of SMBS, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical purity of your SMBS products?",
     "answer":"Our Sodium Metabisulphite (Na₂S₂O₅) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
   },{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk SMBS orders from your factory?",
-    "answer":"Standard lead time for bulk SMBS orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk SMBS orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Sulfur Compounds"
 featured: false
 ---
 
-## Sodium Metabisulphite (CAS 7681-57-4): Your Trusted China Manufacturer & Supplier for High-Purity SMBS
+## Sodium Metabisulphite (CAS 7681-57-4): Your Trusted China supplier & Supplier for High-Purity SMBS
 
-As a premier **China manufacturer and supplier** of **Sodium Metabisulphite (SMBS)**, we offer **high-purity** product with **≥97% purity** for **bulk purchase** and **export** worldwide. Our SMBS is produced to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food preservation, and industrial applications (HS Code: 2832100000).
+As a premier **China supplier and supplier** of **Sodium Metabisulphite (SMBS)**, we offer **high-purity** product with **≥97% purity** for **bulk purchase** and **export** worldwide. Our SMBS is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food preservation, and industrial applications (HS Code: 2832100000).
 
 ### Key Applications & Benefits:
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Sodium Metabisulphite (SMB
 
 We provide flexible **packaging solutions** for our SMBS, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Metabisulphite manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Metabisulphite supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

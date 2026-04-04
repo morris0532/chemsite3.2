@@ -5,7 +5,7 @@ nameCn: "一水柠檬酸"
 cas: "5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-monohydrate"
-shortDescription: "High-purity Citric Acid Monohydrate for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted manufacturer with competitive pricing."
+shortDescription: "High-purity Citric Acid Monohydrate for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [
   {"label":"Chemical Formula","value":"C₆H₈O₇·H₂O"},
@@ -27,7 +27,7 @@ applications: [
   "Textile dyeing"
 ]
 faqs: [
-  {"question":"What grades of Citric Acid Monohydrate do you supply for bulk orders?","answer":"We are a leading China manufacturer and supplier of Citric Acid Monohydrate, offering food grade, pharmaceutical grade, and industrial grade with ≥99.5% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
+  {"question":"What grades of Citric Acid Monohydrate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Citric Acid Monohydrate, offering food grade, pharmaceutical grade, and industrial grade with ≥99.5% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
     "question":"What is the typical purity of your Citric Acid Monohydrate products?",
     "answer":"Our Citric Acid Monohydrate (C₆H₈O₇·H₂O) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
   },{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
   },{
     "question":"What is the lead time for bulk Citric Acid Monohydrate orders from your factory?",
-    "answer":"Standard lead time for bulk Citric Acid Monohydrate orders is typically 7-15 days after order confirmation, depending on the order size and current production schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "answer":"Standard lead time for bulk Citric Acid Monohydrate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -51,9 +51,9 @@ category: "Organic Acids"
 featured: false
 ---
 
-## Citric Acid Monohydrate (CAS 5949-29-1): Your Trusted China Manufacturer & Supplier for High-Purity C₆H₈O₇·H₂O
+## Citric Acid Monohydrate (CAS 5949-29-1): Your Trusted China supplier & Supplier for High-Purity C₆H₈O₇·H₂O
 
-As a premier **China manufacturer and supplier** of **Citric Acid Monohydrate (C₆H₈O₇·H₂O)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Citric Acid Monohydrate is produced through advanced fermentation processes, ensuring consistent quality that meets the most stringent international standards for food, pharmaceutical, and industrial applications (HS Code: 2918140000).
+As a premier **China supplier and supplier** of **Citric Acid Monohydrate (C₆H₈O₇·H₂O)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Citric Acid Monohydrate is supplied through advanced fermentation processes, ensuring consistent quality that meets the most stringent international standards for food, pharmaceutical, and industrial applications (HS Code: 2918140000).
 
 ### Key Applications & Benefits:
 
@@ -73,5 +73,5 @@ As a premier **China manufacturer and supplier** of **Citric Acid Monohydrate (C
 
 We provide flexible **packaging solutions** for our Citric Acid Monohydrate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Citric Acid Monohydrate manufacturer and supplier** for consistent quality, competitive pricing, and reliable global supply.
+Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Citric Acid Monohydrate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
 

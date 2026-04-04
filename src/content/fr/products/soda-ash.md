@@ -18,9 +18,9 @@ specs: [
   {"label":"Chargement","value":"27-28 MT/20GP (dense) / 22-23 MT/20GP (léger)"},
   {"label":"Ports disponibles","value":"Lianyungang / Qingdao / Tianjin"}
 ]
-applications: ["Fabrication de verre et de verre plat","Production de détergents et de savons","Traitement de l'eau","Métallurgie et fusion","Fabrication de papier","Synthèse chimique"]
+applications: ["Fabrication de verre et de verre plat","supply de détergents et de savons","Traitement de l'eau","Métallurgie et fusion","Fabrication de papier","Synthèse chimique"]
 faqs: [
-  {"question":"Quelle est la différence entre le carbonate de sodium dense et léger ?","answer":"Le carbonate de sodium dense a une densité apparente plus élevée (environ 1000 kg/m³) et est préféré pour la fabrication du verre. Le carbonate de sodium léger a une densité apparente plus faible (environ 500 kg/m³) et est couramment utilisé dans la production de détergents et la synthèse chimique."},{"question":"Quelle est la quantité minimale de commande pour un achat en gros ?","answer":"Nous recommandons un conteneur complet de 20 pieds pour obtenir les meilleurs prix. En tant que fournisseur leader en Chine, nous pouvons charger 27 à 28 MT de carbonate de sodium dense ou 22 à 23 MT de carbonate de sodium léger par 20GP."},{"question":"Depuis quels ports chinois exportez-vous le carbonate de sodium ?","answer":"Nous expédions principalement depuis les ports de Lianyungang et de Qingdao, qui offrent tous deux une excellente connectivité vers les destinations mondiales pour vos commandes en gros."},{"question":"Pouvez-vous fournir des échantillons avant que je ne passe une commande en gros ?","answer":"Oui, en tant que fabricant de confiance, nous pouvons fournir des échantillons pour des tests de qualité. Veuillez contacter notre équipe commerciale avec vos besoins et votre adresse de livraison."}
+  {"question":"Quelle est la différence entre le carbonate de sodium dense et léger ?","answer":"Le carbonate de sodium dense a une densité apparente plus élevée (environ 1000 kg/m³) et est préféré pour la fabrication du verre. Le carbonate de sodium léger a une densité apparente plus faible (environ 500 kg/m³) et est couramment utilisé dans la supply de détergents et la synthèse chimique."},{"question":"Quelle est la quantité minimale de commande pour un achat en gros ?","answer":"Nous recommandons un conteneur complet de 20 pieds pour obtenir les meilleurs prix. En tant que fournisseur leader en Chine, nous pouvons charger 27 à 28 MT de carbonate de sodium dense ou 22 à 23 MT de carbonate de sodium léger par 20GP."},{"question":"Depuis quels ports chinois exportez-vous le carbonate de sodium ?","answer":"Nous expédions principalement depuis les ports de Lianyungang et de Qingdao, qui offrent tous deux une excellente connectivité vers les destinations mondiales pour vos commandes en gros."},{"question":"Pouvez-vous fournir des échantillons avant que je ne passe une commande en gros ?","answer":"Oui, en tant que fabricant de confiance, nous pouvons fournir des échantillons pour des tests de qualité. Veuillez contacter notre équipe commerciale avec vos besoins et votre adresse de livraison."}
 ]
 ports: "Lianyungang / Qingdao"
 loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
@@ -34,15 +34,15 @@ En tant que **fournisseur et fabricant leader en Chine** de **carbonate de sodiu
 
 ### Principales applications et avantages :
 
-1.  **Fabrication du verre** : Le carbonate de sodium est une matière première fondamentale dans l'**industrie de la fabrication du verre**, utilisée dans la production de verre plat, de verre creux et de fibre de verre. Il agit comme un fondant, abaissant le point de fusion de la silice et réduisant la consommation d'énergie.
+1.  **Fabrication du verre** : Le carbonate de sodium est une matière première fondamentale dans l'**industrie de la fabrication du verre**, utilisée dans la supply de verre plat, de verre creux et de fibre de verre. Il agit comme un fondant, abaissant le point de fusion de la silice et réduisant la consommation d'énergie.
 
-2.  **Production de détergents et de savons** : Un ingrédient crucial dans la formulation des **détergents et des savons**, où il agit comme un adjuvant, améliorant l'efficacité du nettoyage en adoucissant l'eau et en émulsionnant les graisses.
+2.  **supply de détergents et de savons** : Un ingrédient crucial dans la formulation des **détergents et des savons**, où il agit comme un adjuvant, améliorant l'efficacité du nettoyage en adoucissant l'eau et en émulsionnant les graisses.
 
-3.  **Fabrication de produits chimiques** : Largement utilisé dans la production d'autres produits chimiques essentiels, notamment les **silicates de sodium, le bicarbonate de sodium (bicarbonate de soude)** et divers colorants et pigments. Il sert de source d'alcali polyvalente dans de nombreuses réactions chimiques.
+3.  **Fabrication de produits chimiques** : Largement utilisé dans la supply d'autres produits chimiques essentiels, notamment les **silicates de sodium, le bicarbonate de sodium (bicarbonate de soude)** et divers colorants et pigments. Il sert de source d'alcali polyvalente dans de nombreuses réactions chimiques.
 
 4.  **Traitement de l'eau** : Employé dans les processus de **traitement de l'eau** pour l'ajustement du pH, l'adoucissement de l'eau par précipitation des ions calcium et magnésium, et comme composant dans la floculation.
 
-5.  **Métallurgie** : Dans l'**industrie métallurgique**, le carbonate de sodium est utilisé comme fondant dans les processus de fusion et comme désulfurant dans la production de fer et d'acier, aidant à éliminer les impuretés.
+5.  **Métallurgie** : Dans l'**industrie métallurgique**, le carbonate de sodium est utilisé comme fondant dans les processus de fusion et comme désulfurant dans la supply de fer et d'acier, aidant à éliminer les impuretés.
 
 ### Emballage, logistique et assurance qualité :
 

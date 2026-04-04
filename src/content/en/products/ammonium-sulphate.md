@@ -8,7 +8,7 @@ slug: "ammonium-sulphate"
 shortDescription: "Agricultural and industrial grade ammonium sulphate fertilizer and chemical intermediate."
 image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
 specs: [{"label":"Chemical Formula","value":"(NH₄)₂SO₄"},{"label":"CAS Number","value":"7783-20-2"},{"label":"HS Code","value":"3102210000"},{"label":"Nitrogen Content","value":"≥21%"},{"label":"Appearance","value":"White crystalline powder/granular"},{"label":"Packaging","value":"25/50KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Tianjin / Qingdao"}]
-applications: ["Agricultural fertilizer","Flame retardant additive","Water treatment","Food additive (yeast nutrient)","Textile industry","Pharmaceutical manufacturing"]
+applications: ["Agricultural fertilizer","Flame retardant additive","Water treatment","Food additive (yeast nutrient)","Textile industry","Pharmaceutical supply"]
 faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (27MT) for the best pricing and shipping economics."},{"question":"What grades are available?","answer":"We offer agricultural grade (caprolactam grade, steel grade) and industrial grade ammonium sulphate, each suited for different applications."},{"question":"Is ammonium sulphate a good fertilizer?","answer":"Yes, it provides both nitrogen (21%) and sulfur (24%) nutrients, making it excellent for sulfur-deficient soils and crops that require sulfur nutrition."}]
 ports: "Tianjin / Qingdao"
 loading: "27MT/20GP"
@@ -16,11 +16,11 @@ packaging: "25/50KG/Jumbo bags"
 category: "Sulfate Compounds"
 ---
 
-Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the production of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is manufactured to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
+Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the supply of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is supplied to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
 
 In the **agricultural industry**, Ammonium Sulphate is a primary "nitrogen-sulfur fertilizer." It provides a readily available source of nitrogen (21%) and sulfur (24%) to crops, promoting healthy growth and increasing yields. Its high sulfur content makes it particularly effective for sulfur-deficient soils and for crops that require high levels of sulfur, such as oilseeds, legumes, and vegetables. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
 
-The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the production of various other ammonium salts, such as ammonium persulfate and ammonium chloride. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
+The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the supply of various other ammonium salts, such as ammonium persulfate and ammonium chloride. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
 
 In **food processing**, food-grade Ammonium Sulphate is used as a **dough conditioner** and **yeast nutrient** in the baking industry. It helps to improve the texture and volume of bread and other baked goods. It also acts as a **pH regulator** and **stabilizer** in various processed foods.
 

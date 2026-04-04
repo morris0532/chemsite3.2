@@ -24,7 +24,7 @@ applications: [
   "Additif alimentaire (assaisonnement, conservateur, régulateur de pH)",
   "Photographie (agent de fixage)",
   "Solutions tampons",
-  "Production de caoutchouc synthétique"
+  "supply de caoutchouc synthétique"
 ]
 faqs: [
   {"question":"Quelles qualités d'acétate de sodium anhydre fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine d'acétate de sodium anhydre, proposant des qualités industrielle, alimentaire et pharmaceutique avec une pureté ≥99,0 %. Toutes les qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
@@ -41,7 +41,7 @@ faqs: [
     "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
     "question":"Quel est le délai de livraison pour les commandes d'acétate de sodium anhydre en gros de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes d'acétate de sodium anhydre en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
+    "answer":"Le délai de livraison standard pour les commandes d'acétate de sodium anhydre en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -67,7 +67,7 @@ En tant que **fabricant et fournisseur de premier plan en Chine** d'**acétate d
 
 5.  **Solutions tampons** : Un composant clé dans la préparation de **solutions tampons** dans les laboratoires et les processus industriels, aidant à maintenir un pH stable pour diverses réactions chimiques.
 
-6.  **Production de caoutchouc synthétique** : Utilisé dans la production de **caoutchouc synthétique** comme catalyseur et agent tampon.
+6.  **supply de caoutchouc synthétique** : Utilisé dans la supply de **caoutchouc synthétique** comme catalyseur et agent tampon.
 
 ### Emballage, logistique et assurance qualité :
 

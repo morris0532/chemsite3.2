@@ -51,7 +51,7 @@ Lors de l'approvisionnement en thiosulfate de sodium pour vos besoins industriel
 
 *   **Qualité constante** : Adhésion aux normes internationales (par exemple, qualité industrielle, qualité photographique) et processus de contrôle de la qualité rigoureux.
 *   **Prix compétitifs** : Approvisionnement rentable sans compromettre l'intégrité du produit.
-*   **Chaîne d'approvisionnement stable** : Capacité de production robuste et procédures d'exportation efficaces depuis les principaux ports comme Qingdao, Tianjin et Dalian.
+*   **Chaîne d'approvisionnement stable** : Capacité de supply robuste et procédures d'exportation efficaces depuis les principaux ports comme Qingdao, Tianjin et Dalian.
 *   **Documentation complète** : Fourniture de documents essentiels tels que le certificat d'analyse (COA) et la fiche de données de sécurité (MSDS) pour la conformité et la sécurité.
 
 ## Conclusion

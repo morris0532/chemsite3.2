@@ -22,9 +22,9 @@ applications: [
   "Industrie textile (mercerisage, teinture)",
   "Traitement de l'eau (ajustement du pH, élimination des métaux lourds)",
   "Fabrication de savons et de détergents",
-  "Production d'alumine",
+  "supply d'alumine",
   "Raffinage du pétrole",
-  "Production d'intermédiaires chimiques"
+  "supply d'intermédiaires chimiques"
 ]
 faqs: [
   {"question":"Quelles formes de soude caustique fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine de soude caustique, proposant à la fois des écailles et des perles (micro-perles) de haute pureté avec une pureté ≥99 %. Les deux formes sont idéales pour diverses applications industrielles et disponibles pour l'achat en gros et l'exportation."},{
@@ -35,13 +35,13 @@ faqs: [
     "answer":"Pour l'exportation, notre soude caustique est généralement emballée dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour résister aux rigueurs du transport international et protéger contre l'humidité. Des solutions d'emballage personnalisées peuvent être organisées pour les commandes de gros volumes."
   },{
     "question":"Quelles sont les principales applications de votre soude caustique de qualité industrielle ?",
-    "answer":"Notre soude caustique de qualité industrielle est largement utilisée dans l'industrie du papier et de la pâte, le mercerisage textile, le traitement de l'eau pour l'ajustement du pH, la fabrication de savons et de détergents, la production d'alumine et le raffinage du pétrole. Sa polyvalence en fait un intermédiaire chimique clé."
+    "answer":"Notre soude caustique de qualité industrielle est largement utilisée dans l'industrie du papier et de la pâte, le mercerisage textile, le traitement de l'eau pour l'ajustement du pH, la fabrication de savons et de détergents, la supply d'alumine et le raffinage du pétrole. Sa polyvalence en fait un intermédiaire chimique clé."
   },{
     "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour la soude caustique ?",
     "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
   },{
     "question":"Quel est le délai de livraison pour les commandes de soude caustique en gros de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes de soude caustique en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de production actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
+    "answer":"Le délai de livraison standard pour les commandes de soude caustique en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
   }
 ]
 ports: "Qingdao / Tianjin / Dalian"
@@ -63,9 +63,9 @@ En tant que **fabricant et fournisseur leader en Chine** de **soude caustique (N
 
 3.  **Traitement de l'eau** : Un produit chimique essentiel dans le **traitement de l'eau** pour l'ajustement du pH, la neutralisation des flux de déchets acides et l'élimination des métaux lourds. Ses fortes propriétés alcalines la rendent très efficace dans la purification de l'eau industrielle et municipale.
 
-4.  **Fabrication de savons et de détergents** : Une matière première primaire dans la production de **savons et de détergents** par la saponification des graises et des huiles, créant des agents de nettoyage pour un usage industriel et domestique.
+4.  **Fabrication de savons et de détergents** : Une matière première primaire dans la supply de **savons et de détergents** par la saponification des graises et des huiles, créant des agents de nettoyage pour un usage industriel et domestique.
 
-5.  **Production d'alumine** : Utilisée de manière critique dans le procédé Bayer pour l'extraction de l'**alumine** à partir du minerai de bauxite, une étape fondamentale de la production d'aluminium.
+5.  **supply d'alumine** : Utilisée de manière critique dans le procédé Bayer pour l'extraction de l'**alumine** à partir du minerai de bauxite, une étape fondamentale de la supply d'aluminium.
 
 6.  **Raffinage du pétrole et intermédiaires chimiques** : Employée dans le **raffinage du pétrole** pour éliminer les impuretés et dans la synthèse de nombreux **intermédiaires chimiques**, notamment les produits pharmaceutiques, les plastiques et d'autres composés organiques.
 
