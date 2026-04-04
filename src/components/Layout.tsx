@@ -115,13 +115,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     return location.pathname.startsWith(href);
   };
 
-  const toggleLanguage = () => {
-    // Cycle through EN -> RU -> FR -> EN
-    let targetLocale: 'en' | 'ru' | 'fr' = 'en';
-    if (location.pathname.startsWith('/en') || location.pathname === '/') targetLocale = 'ru';
-    else if (location.pathname.startsWith('/ru')) targetLocale = 'fr';
-    else if (location.pathname.startsWith('/fr')) targetLocale = 'en';
-
+  const handleLanguageChange = (targetLocale: 'en' | 'ru' | 'fr') => {
     const targetPrefix = `/${targetLocale}`;
     const targetContent = targetLocale === 'en' ? enContent : (targetLocale === 'ru' ? ruContent : frContent);
     const currentContent = isRu ? ruContent : (isFr ? frContent : enContent);
@@ -157,7 +151,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     }
 
     const newPath = location.pathname === "/" 
-      ? "/ru" 
+      ? targetPrefix 
       : (location.pathname.startsWith('/en') 
           ? location.pathname.replace("/en", targetPrefix) 
           : (location.pathname.startsWith('/ru') 
@@ -215,15 +209,38 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </nav>
 
             <div className="flex items-center gap-1.5">
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={toggleLanguage}
-                className="text-gray-500 hover:text-[#0066B3] hover:bg-gray-50/60 flex items-center gap-1.5 px-3 py-2 rounded-lg transition-all duration-300 font-semibold text-xs"
-              >
-                <Globe className="w-4 h-4" />
-                <span className="uppercase">{isRu ? "RU" : (isFr ? "FR" : "EN")}</span>
-              </Button>
+              <div className="relative group/lang">
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="text-gray-500 hover:text-[#0066B3] hover:bg-gray-50/60 flex items-center gap-1.5 px-3 py-2 rounded-lg transition-all duration-300 font-semibold text-xs"
+                >
+                  <Globe className="w-4 h-4" />
+                  <span className="uppercase">{isRu ? "RU" : (isFr ? "FR" : "EN")}</span>
+                  <ChevronDown className="w-3 h-3 opacity-50 group-hover/lang:rotate-180 transition-transform duration-300" />
+                </Button>
+                <div className="absolute right-0 top-full pt-2 opacity-0 invisible group-hover/lang:opacity-100 group-hover/lang:visible transition-all duration-300 z-[60]">
+                  <div className="bg-white rounded-xl shadow-xl border border-gray-100 py-2 min-w-[120px] overflow-hidden">
+                    {[
+                      { code: 'en', label: 'English' },
+                      { code: 'ru', label: 'Русский' },
+                      { code: 'fr', label: 'Français' }
+                    ].map((lang) => (
+                      <button
+                        key={lang.code}
+                        onClick={() => handleLanguageChange(lang.code as any)}
+                        className={`w-full text-left px-4 py-2 text-xs font-semibold transition-colors ${
+                          (lang.code === 'en' && !isRu && !isFr) || (lang.code === 'ru' && isRu) || (lang.code === 'fr' && isFr)
+                            ? "text-[#0066B3] bg-blue-50"
+                            : "text-gray-600 hover:bg-gray-50 hover:text-[#0066B3]"
+                        }`}
+                      >
+                        {lang.label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
               <Button
                 variant="ghost"
                 size="icon"
@@ -235,7 +252,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </Button>
               <Link to={`${langPrefix}/contact`}>
                 <Button className="hidden sm:inline-flex bg-[#0066B3] hover:bg-[#004a82] text-white font-semibold px-6 h-10 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5">
-                  {isRu ? "Запросить цену" : "Get a Quote"}
+                  {isRu ? "Запросить цену" : (isFr ? "Demander un devis" : "Get a Quote")}
                 </Button>
               </Link>
               <Button
@@ -284,19 +301,19 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 <img src="/logo.png" alt="Sinopeakchem" className="w-10 h-10 rounded-lg" />
                 <div>
                   <h2 className="text-lg font-bold">Sinopeakchem</h2>
-                  <p className="text-xs text-gray-400">Global Chemical Supplier</p>
+                  <p className="text-xs text-gray-400">{isFr ? "Fournisseur mondial de produits chimiques" : "Global Chemical Supplier"}</p>
                 </div>
               </div>
               <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 {isRu 
                   ? "Ведущий поставщик промышленных химикатов с 50+ странами экспорта."
-                  : "Leading industrial chemical supplier with 50+ countries export experience."}
+                  : (isFr ? "Premier fournisseur de produits chimiques industriels avec une expérience d'exportation dans plus de 50 pays." : "Leading industrial chemical supplier with 50+ countries export experience.")}
               </p>
 
             </div>
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : "Quick Links"}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : (isFr ? "Liens rapides" : "Quick Links")}</h3>
               <ul className="space-y-4">
                 {navLinks.map((link) => (
                   <li key={link.href}>
@@ -310,7 +327,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Продукты" : "Products"}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Продукты" : (isFr ? "Produits" : "Products")}</h3>
               <ul className="space-y-4">
                 {currentContent.products.slice(0, 5).map((product: any) => (
                   <li key={product.slug}>
@@ -326,14 +343,14 @@ export default function Layout({ children, title, description, image, jsonLd }: 
 
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : "Contact Info"}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : (isFr ? "Contact" : "Contact Info")}</h3>
               <ul className="space-y-5">
                 <li className="flex items-start gap-4">
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><MapPin className="w-5 h-5 text-[#0066B3]" /></div>
                   <span className="text-gray-400 text-sm leading-relaxed">
                     {isRu 
                       ? "№ 182, улица Цзиньшуй, район Лицан, Циндао, провинция Шаньдун, Китай"
-                      : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China"}
+                      : (isFr ? "No. 182, Jinshui Road, district de Licang, Qingdao, province du Shandong, Chine" : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China")}
                   </span>
                 </li>
                 <li className="flex items-center gap-4">
@@ -353,11 +370,11 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             <p className="text-gray-400 text-sm">
               {isRu 
                 ? "© 2024 Sinopeakchem. Все права защищены."
-                : "© 2024 Sinopeakchem. All rights reserved."}
+                : (isFr ? "© 2024 Sinopeakchem. Tous droits réservés." : "© 2024 Sinopeakchem. All rights reserved.")}
             </p>
             <div className="flex items-center gap-6">
-              <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : "Privacy"}</Link>
-              <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : "Terms"}</Link>
+              <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : (isFr ? "Confidentialité" : "Privacy")}</Link>
+              <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : (isFr ? "Conditions" : "Terms")}</Link>
             </div>
           </div>
         </div>
@@ -373,7 +390,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       >
         <MessageCircle className="w-7 h-7" />
         <span className="absolute right-full mr-4 bg-white text-gray-800 px-4 py-2 rounded-lg text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap shadow-lg pointer-events-none">
-          {isRu ? "Свяжитесь с нами" : "Chat with us"}
+          {isRu ? "Свяжитесь с нами" : (isFr ? "Discutez avec nous" : "Chat with us")}
         </span>
       </a>
     </div>

@@ -13,10 +13,11 @@
 
 ---
 
-## 📅 阶段 2：核心 UI 与 静态内容翻译 (UI Translation) - [待开始]
-- [ ] 翻译 `Layout.tsx` 中的导航菜单 (NavLinks)
-- [ ] 翻译 Footer、搜索框、联系表单中的固定文字
-- [ ] 创建法语版 `Home`, `About`, `Contact` 页面组件
+## 📅 阶段 2：核心 UI 与 静态内容翻译 (UI Translation) - [✅ 已完成]
+- [x] 翻译 `Layout.tsx` 中的导航菜单 (NavLinks)
+- [x] 翻译 Footer、搜索框、联系表单中的固定文字
+- [x] 升级语言切换器为下拉菜单模式
+- [ ] 创建法语版 `Home`, `About`, `Contact` 页面组件 (将在内容填充阶段同步优化)
 
 ---
 
