@@ -29,12 +29,13 @@
 ---
 
 ## 📅 阶段 4：内容翻译与替换 (Content Translation) - [待开始]
-- [ ] 逐一翻译 attendus `src/content/fr/products/` 下的文件 (5/22)
+- [ ] 逐一翻译 attendus `src/content/fr/products/` 下的文件 (6/22)
     - [x] Chlorure d'ammonium (ammonium-chloride.md)
     - [x] Borax (borax.md)
     - [x] Chlorure de calcium (calcium-chloride.md)
     - [x] Sulfate d'ammonium (ammonium-sulphate.md)
     - [x] Soude caustique (caustic-soda.md)
+    - [x] Acide citrique anhydre (citric-acid-anhydrous.md)
     - [ ] 其他产品 (进行中...)
 - [ ] 逐一翻译并替换 `src/content/fr/blog/` 下的文件
 - [ ] 验证法语版 MD 内容的静态注入效果
