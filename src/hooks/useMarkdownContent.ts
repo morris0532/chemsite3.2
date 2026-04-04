@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import markdownContent from 'virtual:markdown-content';
 
-export function useMarkdownContent(locale: 'en' | 'ru') {
+export function useMarkdownContent(locale: 'en' | 'ru' | 'fr') {
   const content = useMemo(() => {
     return markdownContent[locale] || { posts: [], products: [] };
   }, [locale]);

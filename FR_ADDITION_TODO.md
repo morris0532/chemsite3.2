@@ -1,0 +1,40 @@
+# 🇫🇷 法语 (FR) 添加进度清单 (TODO List)
+
+本文件记录了为 Sinopeakchem 网站添加法语支持的详细步骤。
+
+---
+
+## 📅 阶段 1：基础架构搭建 (Infrastructure) - [✅ 已完成]
+- [x] 创建法语内容目录 (`src/content/fr/products`, `src/content/fr/blog`)
+- [x] 修改 `useMarkdownContent` 钩子以支持 `fr` 语言
+- [x] 在 `app.tsx` 中注册 `/fr` 路由
+- [x] 在 `Layout.tsx` 中添加法语切换逻辑
+- [x] 在 `Layout.tsx` 中添加法语 SEO `alternate` 链接
+
+---
+
+## 📅 阶段 2：核心 UI 与 静态内容翻译 (UI Translation) - [待开始]
+- [ ] 翻译 `Layout.tsx` 中的导航菜单 (NavLinks)
+- [ ] 翻译 Footer、搜索框、联系表单中的固定文字
+- [ ] 创建法语版 `Home`, `About`, `Contact` 页面组件
+
+---
+
+## 📅 阶段 3：产品与博客内容填充 (Content Migration) - [待开始]
+- [ ] 迁移并翻译核心产品 MD 文件
+- [ ] 迁移并翻译核心博客 MD 文件
+- [ ] 验证法语版 MD 内容的静态注入效果
+
+---
+
+## 📅 阶段 4：SEO 与 站点地图同步 (SEO & Sitemap) - [待开始]
+- [ ] 修改 `generate-sitemap.mjs` 加入法语 URL
+- [ ] 确保法语版 JSON-LD 结构化数据正确显示
+- [ ] 提交法语版 URL 到 Google Search Console 进行测试
+
+---
+
+## 🏁 最终验证 (Final Check)
+- [ ] 验证法语版全站链接跳转
+- [ ] 验证法语版 SEO 源码注入
+- [ ] 验证法语版移动端适配

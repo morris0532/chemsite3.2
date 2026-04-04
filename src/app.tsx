@@ -47,7 +47,16 @@ const App = () => (
           <Route path="/ru/contact" element={<Contact />} />
           <Route path="/ru/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/ru/terms-of-service" element={<TermsOfService />} />
-          <Route path="/fr/*" element={<Navigate to="/en" replace />} />
+          {/* French routes */}
+          <Route path="/fr" element={<Index />} />
+          <Route path="/fr/products" element={<Products />} />
+          <Route path="/fr/products/:slug" element={<ProductDetail />} />
+          <Route path="/fr/about" element={<About />} />
+          <Route path="/fr/blog" element={<Blog />} />
+          <Route path="/fr/blog/:slug" element={<BlogDetail />} />
+          <Route path="/fr/contact" element={<Contact />} />
+          <Route path="/fr/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/fr/terms-of-service" element={<TermsOfService />} />
 
           {/* 404 */}
           <Route path="*" element={<NotFound />} />

@@ -22,19 +22,21 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   const navigate = useNavigate();
 
   const isRu = location.pathname.startsWith("/ru");
-  const langPrefix = isRu ? "/ru" : "/en";
+  const isFr = location.pathname.startsWith("/fr");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
   
   const enContent = useMarkdownContent('en');
   const ruContent = useMarkdownContent('ru');
-  const currentContent = isRu ? ruContent : enContent;
+  const frContent = useMarkdownContent('fr');
+  const currentContent = isRu ? ruContent : (isFr ? frContent : enContent);
 
   const pageTitle = title 
     ? `${title} | Sinopeakchem` 
-    : (isRu ? "Sinopeakchem - Глобальный поставщик химикатов" : "Sinopeakchem - Global Chemical Supplier");
+    : (isRu ? "Sinopeakchem - Глобальный поставщик химикатов" : (isFr ? "Sinopeakchem - Fournisseur mondial de produits chimiques" : "Sinopeakchem - Global Chemical Supplier"));
   
   const pageDescription = description || (isRu 
     ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
-    : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.");
+    : (isFr ? "Sinopeakchem est un fournisseur leader de produits chimiques B2B proposant des produits chimiques industriels de haute qualité, notamment le thiosulfate de sodium, la soude caustique, l'acide oxalique, etc. Expédition mondiale depuis la Chine." : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China."));
 
   const pageImage = image || "https://www.sinopeakchem.com/logo.png";
 
@@ -81,9 +83,10 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     };
 
     setLink('canonical', `https://www.sinopeakchem.com${location.pathname}`);
-    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/ru/, '/en')}`, 'en');
-    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : '/ru' + location.pathname}`, 'ru');
-    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(en|ru)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(ru|fr)/, '/en')}`, 'en');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : (location.pathname.startsWith('/fr') ? location.pathname.replace(/^\/fr/, '/ru') : '/ru' + location.pathname)}`, 'ru');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/fr') : (location.pathname.startsWith('/ru') ? location.pathname.replace(/^\/ru/, '/fr') : '/fr' + location.pathname)}`, 'fr');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(en|ru|fr)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
 
   }, [pageTitle, pageDescription, pageImage, location.pathname]);
 
@@ -93,23 +96,35 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     { href: "/ru/about", label: "О нас" },
     { href: "/ru/blog", label: "Блог" },
     { href: "/ru/contact", label: "Контакты" },
+  ] : (isFr ? [
+    { href: "/fr", label: "Accueil" },
+    { href: "/fr/products", label: "Produits" },
+    { href: "/fr/about", label: "À propos" },
+    { href: "/fr/blog", label: "Blog" },
+    { href: "/fr/contact", label: "Contact" },
   ] : [
     { href: "/en", label: "Home" },
     { href: "/en/products", label: "Products" },
     { href: "/en/about", label: "About Us" },
     { href: "/en/blog", label: "Blog" },
     { href: "/en/contact", label: "Contact" },
-  ];
+  ]);
 
   const isActive = (href: string) => {
-    if (href === "/en" || href === "/ru") return location.pathname === href || (href === "/en" && location.pathname === "/");
+    if (href === "/en" || href === "/ru" || href === "/fr") return location.pathname === href || (href === "/en" && location.pathname === "/");
     return location.pathname.startsWith(href);
   };
 
   const toggleLanguage = () => {
-    const targetLocale = isRu ? 'en' : 'ru';
-    const targetPrefix = isRu ? '/en' : '/ru';
-    const targetContent = isRu ? enContent : ruContent;
+    // Cycle through EN -> RU -> FR -> EN
+    let targetLocale: 'en' | 'ru' | 'fr' = 'en';
+    if (location.pathname.startsWith('/en') || location.pathname === '/') targetLocale = 'ru';
+    else if (location.pathname.startsWith('/ru')) targetLocale = 'fr';
+    else if (location.pathname.startsWith('/fr')) targetLocale = 'en';
+
+    const targetPrefix = `/${targetLocale}`;
+    const targetContent = targetLocale === 'en' ? enContent : (targetLocale === 'ru' ? ruContent : frContent);
+    const currentContent = isRu ? ruContent : (isFr ? frContent : enContent);
     
     if (location.pathname.includes('/privacy-policy') || location.pathname.includes('/terms-of-service')) {
       const policyPath = location.pathname.includes('/privacy-policy') ? '/en/privacy-policy' : '/en/terms-of-service';
@@ -141,9 +156,13 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       }
     }
 
-    const newPath = isRu 
-      ? location.pathname.replace("/ru", "/en") 
-      : (location.pathname === "/" ? "/ru" : location.pathname.replace("/en", "/ru"));
+    const newPath = location.pathname === "/" 
+      ? "/ru" 
+      : (location.pathname.startsWith('/en') 
+          ? location.pathname.replace("/en", targetPrefix) 
+          : (location.pathname.startsWith('/ru') 
+              ? location.pathname.replace("/ru", targetPrefix) 
+              : location.pathname.replace("/fr", targetPrefix)));
     navigate(newPath);
   };
 
@@ -203,7 +222,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 className="text-gray-500 hover:text-[#0066B3] hover:bg-gray-50/60 flex items-center gap-1.5 px-3 py-2 rounded-lg transition-all duration-300 font-semibold text-xs"
               >
                 <Globe className="w-4 h-4" />
-                <span className="uppercase">{isRu ? "EN" : "RU"}</span>
+                <span className="uppercase">{isRu ? "RU" : (isFr ? "FR" : "EN")}</span>
               </Button>
               <Button
                 variant="ghost"
