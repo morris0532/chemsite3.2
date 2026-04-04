@@ -306,8 +306,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               </div>
               <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 {isRu 
-                  ? "Ведущий поставщик промышленных химикатов с 50+ странами экспорта."
-                  : (isFr ? "Premier fournisseur de produits chimiques industriels avec une expérience d'exportation dans plus de 50 pays." : "Leading industrial chemical supplier with 50+ countries export experience.")}
+                  ? "Ведущий мировой поставщик промышленной химии, специализирующийся на высококачественных решениях для водоподготовки, горнодобывающей и текстильной промышленности. Обладая более чем 15-летним опытом и экспортом в 50+ стран, мы обеспечиваем надежные поставки и профессиональную техническую поддержку."
+                  : (isFr ? "Premier fournisseur mondial de produits chimiques industriels, spécialisé dans les solutions de haute qualité pour le traitement de l'eau, l'exploitation minière et le textile. Avec plus de 15 ans d'expertise et des exportations vers plus de 50 pays, nous garantissons une chaîne d'approvisionnement fiable et un support technique professionnel." : "A leading global industrial chemical supplier specializing in high-performance solutions for water treatment, mining, and textile industries. With over 15 years of expertise and exports to 50+ countries, we ensure reliable supply chains and professional technical support.")}
               </p>
 
             </div>
