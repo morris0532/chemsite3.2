@@ -8,10 +8,9 @@ const routes = getPrerenderRoutes();
 const distDir = path.resolve('dist');
 const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
-const BASE_URL = 'https:
+const BASE_URL = 'https://www.sinopeakchem.com';
 
 console.log(`Starting advanced content injection for ${routes.length} routes...`);
-
 
 const contentMetadata = {
   en: { products: [], blog: [] },
@@ -53,7 +52,7 @@ routes.forEach(route => {
   let title = '';
   let description = '';
   let keywords = '';
-  let ogImage = 'https:
+  let ogImage = 'https://www.sinopeakchem.com/images/og-image.jpg';
   let jsonLd = null;
 
   const parts = route.split('/').filter(Boolean); 
@@ -61,7 +60,6 @@ routes.forEach(route => {
   const type = parts[1];
   const slug = parts[2];
 
-  
   if (parts.length === 3 && (type === 'blog' || type === 'products')) {
     const mdFilePath = path.join(contentDir, locale, type, `${slug}.md`);
     if (fs.existsSync(mdFilePath)) {
@@ -74,7 +72,7 @@ routes.forEach(route => {
         description = `Buy high-purity ${data.name} (${data.cas}) in bulk from China. ${data.shortDescription || ''} Competitive pricing with COA/MSDS.`;
         ogImage = data.image || ogImage;
         jsonLd = {
-          "@context": "https:
+          "@context": "https://schema.org",
           "@type": "Product",
           "name": data.name,
           "description": data.shortDescription || description,
@@ -83,7 +81,7 @@ routes.forEach(route => {
           "offers": {
             "@type": "Offer",
             "seller": { "@type": "Organization", "name": "Sinopeakchem" },
-            "availability": "https:
+            "availability": "https://schema.org/InStock"
           },
           "image": data.image
         };
@@ -92,7 +90,7 @@ routes.forEach(route => {
         description = data.excerpt || '';
         ogImage = data.image || ogImage;
         jsonLd = {
-          "@context": "https:
+          "@context": "https://schema.org",
           "@type": "Article",
           "headline": data.title,
           "datePublished": data.date,
@@ -100,7 +98,6 @@ routes.forEach(route => {
           "image": data.image
         };
       }
-      
       
       if (Array.isArray(data.tags)) {
         keywords = data.tags.join(', ');
@@ -111,7 +108,6 @@ routes.forEach(route => {
       }
     }
   } 
-  
   else if (parts.length === 2) {
     const page = parts[1];
     if (page === 'products') {
@@ -142,13 +138,12 @@ routes.forEach(route => {
       keywords = locale === 'ru' ? 'условия использования, правила, соглашение' : (locale === 'fr' ? 'conditions d\'utilisation, règles, accord' : 'terms of service, rules, agreement');
     }
   }
-  
   else if (parts.length === 1) {
     title = `Sinopeakchem - Premier Industrial Chemical Supplier from China | 22+ Products`;
     description = `Sinopeakchem is a leading industrial chemical supplier and trader from China, providing high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
     keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
     jsonLd = {
-      "@context": "https:
+      "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Sinopeakchem",
       "url": BASE_URL,
@@ -173,14 +168,11 @@ routes.forEach(route => {
   if (title || description || keywords) {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
-    
-    
     const rootPlaceholder = '<div id="root"></div>';
     if (contentHtml && html.includes(rootPlaceholder)) {
       html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
     }
 
-    
     const fullTitle = `${title} | Sinopeakchem`;
     const titleRegex = /<title>[\s\S]*?<\/title>/i;
     if (titleRegex.test(html)) {
@@ -189,7 +181,6 @@ routes.forEach(route => {
       html = html.replace(/<\/head>/i, `  <title>${fullTitle}</title>\n  </head>`);
     }
 
-    
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     const descMeta = `<meta name="description" content="${cleanDesc}" />`;
     const descRegex = /<meta\s+name="description"\s+content=".*?"\s*\/?>/i;
@@ -199,7 +190,6 @@ routes.forEach(route => {
       html = html.replace(/<\/head>/i, `  ${descMeta}\n  </head>`);
     }
 
-    
     if (keywords) {
       const cleanKeywords = keywords.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
       const keywordsMeta = `<meta name="keywords" content="${cleanKeywords}" />`;
@@ -211,12 +201,10 @@ routes.forEach(route => {
       }
     }
 
-    
     const canonicalUrl = `${BASE_URL}${route}`;
     const canonicalTag = `<link rel="canonical" href="${canonicalUrl}" />`;
     html = html.replace(/<\/head>/i, `  ${canonicalTag}\n  </head>`);
 
-    
     const currentPath = route.replace(/^\/(en|ru|fr)/, '');
     const hreflangTags = [
       `<link rel="alternate" hreflang="en" href="${BASE_URL}/en${currentPath}" />`,
@@ -226,7 +214,6 @@ routes.forEach(route => {
     ].join('\n  ');
     html = html.replace(/<\/head>/i, `  ${hreflangTags}\n  </head>`);
 
-    
     const ogTags = [
       `<meta property="og:title" content="${title}" />`,
       `<meta property="og:description" content="${cleanDesc}" />`,
@@ -242,13 +229,11 @@ routes.forEach(route => {
     ].join('\n  ');
     html = html.replace(/<\/head>/i, `  ${ogTags}\n  </head>`);
 
-    
     if (jsonLd) {
       const jsonLdTag = `<script type="application/ld+json">\n${JSON.stringify(jsonLd, null, 2)}\n</script>`;
       html = html.replace(/<\/head>/i, `  ${jsonLdTag}\n  </head>`);
     }
 
-    
     html = html.replace(/<html lang="en">/i, `<html lang="${locale}">`);
 
     fs.writeFileSync(targetFile, html);
