@@ -8,39 +8,25 @@
 
 在 `chemsite3.0` 这样的多语言静态网站生成器中，不同语言版本的文章能够正确关联并实现语言切换功能，主要依赖于 Frontmatter 中的 `id` 和 `slug` 字段。如果这些字段在不同语言版本之间不一致，将导致语言切换功能失效，用户在切换语言时会跳转到错误的页面或默认页面。
 
-### 2.1 案例分析：草酸文章多语言同步问题
+### 2.1 案例分析：多语言同步与 ID 冲突问题
 
-**问题描述**：在最近的草酸文章（Oxalic Acid Comprehensive Guide）多语言同步任务中，最初俄语和法语版本的文章 `slug` 字段被翻译成了各自语言的名称，且法语版本的 `id` 与英文版不一致。这导致在博客页面点击切换语言时，系统无法正确识别并跳转到对应的文章。
+**问题描述 1：Slug 不一致**
+在草酸文章（Oxalic Acid Comprehensive Guide）同步中，最初俄语和法语版本的 `slug` 被翻译成了各自语言，导致跳转失效。
+*   **解决**：所有语言版本必须使用相同的英文 `slug`。
 
-**错误示例（Frontmatter 片段）**：
-
-```yaml
-# 英文版 (en)
-id: "6"
-slug: "oxalic-acid-comprehensive-guide"
-
-# 俄语版 (ru) - 错误 slug
-id: "6"
-slug: "shchavelevaya-kislota-polnoe-rukovodstvo"
-
-# 法语版 (fr) - 错误 id 和 slug
-id: "7"
-slug: "acide-oxalique-guide-complet"
-```
+**问题描述 2：ID 冲突**
+在发布新文章时，曾错误地将新文章分配为 `id: "6"`，而该 ID 已被 "How to Choose the Right Chemical Supplier from China" 占用。这导致点击语言切换时跳转到了错误的文章。
+*   **解决**：每篇文章必须拥有全局唯一的 ID。
 
 **正确示例（Frontmatter 片段）**：
 
 ```yaml
-# 英文版 (en)
+# 文章 A: How to Choose the Right Chemical Supplier (en/ru/fr)
 id: "6"
-slug: "oxalic-acid-comprehensive-guide"
+slug: "how-to-choose-the-right-chem-supplier-from-china"
 
-# 俄语版 (ru) - 正确 slug
-id: "6"
-slug: "oxalic-acid-comprehensive-guide"
-
-# 法语版 (fr) - 正确 id 和 slug
-id: "6"
+# 文章 B: Oxalic Acid Comprehensive Guide (en/ru/fr)
+id: "8"
 slug: "oxalic-acid-comprehensive-guide"
 ```
 
@@ -56,7 +42,18 @@ slug: "oxalic-acid-comprehensive-guide"
 
 *   **全局唯一性**：每个独立的概念或文章（无论语言）都应拥有一个唯一的 `id`。一旦分配，不得更改。**在分配新 ID 前，必须检索所有语言目录下的现有文章，确保新 ID 不与任何现有文章冲突。**
 *   **跨语言一致性**：同一篇文章的所有语言版本（例如，英文、俄文、法文）必须使用**完全相同**的 `id`。这是系统关联不同语言版本的核心。
-*   **分配规则建议**：建议查看当前所有文章中最大的 ID 数值，并在此基础上递增分配新 ID。例如，当前最大 ID 为 7，则新文章应分配 ID "8"。
+*   **分配规则建议**：建议查看当前所有文章中最大的 ID 数值，并在此基础上递增分配新 ID。
+*   **当前已分配 ID 列表（截至 2026-04-06）**：
+    *   **ID: "1"** - How to Choose the Right Chem Supplier from China (已更正为 6)
+    *   **ID: "2"** - How to Choose Right Caustic Soda Grade
+    *   **ID: "3"** - Chemical Shipping Logistics from China
+    *   **ID: "4"** - Water Treatment Chemicals Comparison
+    *   **ID: "5"** - Oxalic Acid Industrial Applications
+    *   **ID: "6"** - How to Choose the Right Chemical Supplier from China
+    *   **ID: "8"** - Oxalic Acid Comprehensive Guide
+    *   **ID: "9"** - How Aluminum Sulfate Functions in Water Treatment
+    *   **ID: "10"** - Complete Guide to Sodium Thiosulphate
+    *   **下一个可用 ID**：建议从 **"11"** 开始。
 
 ### 3.2 `slug` 字段规范
 

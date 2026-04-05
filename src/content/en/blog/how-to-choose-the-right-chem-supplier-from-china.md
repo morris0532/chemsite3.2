@@ -6,7 +6,8 @@ excerpt: "An in-depth guide on selecting a reliable chemical supplier in China, 
 date: "2026-03-20"
 author: "Sinopeakchem"
 category: "Sourcing Guide"
-tags: ["chemical supplier","sourcing","China","procurement","supply chain"]image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.png"
+tags: ["chemical supplier","sourcing","China","procurement","supply chain"]
+image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.png"
 imageAlt: "Modern chemical logistics and supply chain setting with organized drums and a manufacturing plant background"
 ---
 
