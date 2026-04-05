@@ -77,7 +77,7 @@ sinopeakchem.com/blog/[primary-keyword-slug]
 
 ---
 
-### 📝 文章1：What Is Oxalic Acid? A Complete Guide for Industrial Buyers
+### 📝 文章1：What Is Oxalic Acid? A Complete Guide for Industrial Buyers-已完成
 
 | 项目 | 详情 |
 |------|------|
@@ -1350,6 +1350,8 @@ SinoPeakChem — Your trusted oxalic acid supplier in China.
 | **内链** | 每篇4-6条，锚文本自然 |
 | **外链** | 每篇1-2条权威外链（Wikipedia、行业协会等） |
 | **URL** | 简短、包含关键词、使用连字符 |
+| **修改日志** | 每写完一篇文章都要在这个文档里标注完成 |
+| **ID** | 确保多语言版本ID号和URL一致性 |
 | **Schema Markup** | Article schema、FAQ schema（如有FAQ段落） |
 
 ### 9.2 内容质量标准
@@ -1371,7 +1373,7 @@ SinoPeakChem — Your trusted oxalic acid supplier in China.
 | **Alt标签** | 包含关键词：`"Oxalic acid rust removal - before and after comparison"` |
 | **文件大小** | 压缩至100KB以下（WebP格式优先） |
 | **尺寸** | 正文图片宽度800-1200px |
-| **来源** | 自拍产品图 > 购买版权图 > 免费图库（注明来源） |
+| **来源** | 自己生成 > 购买版权图 > 免费图库（注明来源） |
 
 ### 9.4 技术SEO建议
 
