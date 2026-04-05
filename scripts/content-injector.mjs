@@ -178,11 +178,28 @@ routes.forEach(route => {
 	          <p>Phone: ${siteConfig[locale]?.footer?.contact?.phone}</p>
 	        </section>
 	      `;
-	    } else if (page === 'contact') {
-      title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
-      description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
-      keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
-    } else if (page === 'privacy-policy') {
+    } else if (page === 'contact') {
+	      title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
+	      description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
+	      keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
+	      
+	      contentHtml = `
+	        <section class="contact-header">
+	          <h1>${title}</h1>
+	          <p>${description}</p>
+	        </section>
+	        <section class="contact-info">
+	          <h2>${locale === 'ru' ? 'Наши контакты' : (locale === 'fr' ? 'Nos Coordonnées' : 'Our Contact Info')}</h2>
+	          <p>Email: ${siteConfig[locale]?.footer?.contact?.email}</p>
+	          <p>Phone: ${siteConfig[locale]?.footer?.contact?.phone}</p>
+	          <p>Address: ${siteConfig[locale]?.footer?.contact?.address}</p>
+	        </section>
+	        <section class="contact-form-placeholder">
+	          <h2>${locale === 'ru' ? 'Отправить запрос' : (locale === 'fr' ? 'Envoyer une demande' : 'Send an Inquiry')}</h2>
+	          <p>${locale === 'ru' ? 'Пожалуйста, заполните форму на сайте, чтобы получить предложение.' : (locale === 'fr' ? 'Veuillez remplir le formulaire sur le site pour obtenir un devis.' : 'Please fill out the form on the website to get a quote.')}</p>
+	        </section>
+	      `;
+	    } else if (page === 'privacy-policy') {
       title = locale === 'ru' ? 'Политика конфиденциальности' : (locale === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy');
       description = 'Privacy policy and data protection at Sinopeakchem.';
       keywords = locale === 'ru' ? 'конфиденциальность, защита данных, политика' : (locale === 'fr' ? 'confidentialité, protection des données, politique' : 'privacy, data protection, policy');
