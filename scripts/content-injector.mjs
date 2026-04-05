@@ -134,12 +134,30 @@ routes.forEach(route => {
 	          <div class="product-grid">${productsHtml}</div>
 	        </section>
 	      `;
-	    } else if (page === 'blog') {
-      title = `Blog - Chemical Industry Insights and Product Guides`;
-      description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.`;
-      const blogTitles = contentMetadata[locale].blog.slice(0, 10).map(b => b.title).join(', ');
-      keywords = `${blogTitles}, ${locale === 'ru' ? 'новости отрасли, химические руководства' : (locale === 'fr' ? 'actualités de l\'industrie, guides chimiques' : 'industry news, chemical guides')}`;
-    } else if (page === 'about') {
+    } else if (page === 'blog') {
+	      title = `Blog - Chemical Industry Insights and Product Guides`;
+	      description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.`;
+	      const blogTitles = contentMetadata[locale].blog.slice(0, 10).map(b => b.title).join(', ');
+	      keywords = `${blogTitles}, ${locale === 'ru' ? 'новости отрасли, химические руководства' : (locale === 'fr' ? 'actualités de l\'industrie, guides chimiques' : 'industry news, chemical guides')}`;
+	      
+	      const blogHtml = contentMetadata[locale].blog.map(b => `
+	        <div class="blog-post-card">
+	          <h3>${b.title}</h3>
+	          <p>${b.date}</p>
+	          <a href="/${locale}/blog/${b.slug}">${siteConfig[locale]?.ui?.readMore || 'Read More'}</a>
+	        </div>
+	      `).join('');
+
+	      contentHtml = `
+	        <section class="blog-header">
+	          <h1>${title}</h1>
+	          <p>${description}</p>
+	        </section>
+	        <section class="blog-list">
+	          <div class="blog-grid">${blogHtml}</div>
+	        </section>
+	      `;
+	    } else if (page === 'about') {
 	      title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
 	      description = siteConfig[locale]?.footer?.companyDesc || '';
 	      keywords = locale === 'ru' ? 'о нас, компания, поставщик химикатов, Китай' : (locale === 'fr' ? 'à propos, entreprise, fournisseur de produits chimiques, Chine' : 'about, company, chemical supplier, China');
