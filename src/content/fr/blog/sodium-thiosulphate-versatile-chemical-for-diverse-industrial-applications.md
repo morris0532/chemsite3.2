@@ -7,7 +7,8 @@ date: "2026-03-21"
 author: "Sinopeakchem"
 category: "Aperçus Chimiques"
 tags: ["Thiosulfate de sodium","Déchloration","Traitement de l'eau","Fournisseur de produits chimiques"]
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.webp"
+imageAlt: "Sodium Thiosulphate used in textile and leather industries"
 ---
 
 ## Introduction au thiosulfate de sodium

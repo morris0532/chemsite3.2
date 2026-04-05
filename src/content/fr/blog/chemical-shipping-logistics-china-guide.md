@@ -7,7 +7,8 @@ date: "2026-03-05"
 author: "Équipe Logistique Sinopeakchem"
 category: "Expédition et Logistique"
 tags: ["expédition de produits chimiques","commerce international","logistique"]
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e6ad8468-80af-478a-a520-d0ca3ba12cdb.png"
+image: "/images/blog/chemical-shipping-logistics-china-guide.webp"
+imageAlt: "International chemical shipping and logistics from China port"
 ---
 
 ## Naviguer dans la logistique des produits chimiques

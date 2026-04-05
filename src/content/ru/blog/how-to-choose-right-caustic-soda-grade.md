@@ -7,7 +7,8 @@ date: "2026-03-10"
 author: "Sinopeakchem Technical Team"
 category: "Руководство по продукту"
 tags: ["каустическая сода","гидроксид натрия","промышленные сорта"]
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/08108beb-b4ff-4efc-b6fa-1c545073bedd.png"
+image: "/images/blog/how-to-choose-right-caustic-soda-grade.webp"
+imageAlt: "Different grades of Caustic Soda pearls and flakes"
 ---
 
 ## Понимание сортов каустической соды

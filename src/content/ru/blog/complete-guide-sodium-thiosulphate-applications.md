@@ -7,7 +7,8 @@ date: "2026-03-15"
 author: "Sinopeakchem Technical Team"
 category: "Руководство по продукту"
 tags: ["тиосульфат натрия","водоподготовка","химическое руководство"]
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/blog/complete-guide-sodium-thiosulphate-applications.webp"
+imageAlt: "Industrial applications of Sodium Thiosulphate in water treatment and mining"
 ---
 
 ## Введение

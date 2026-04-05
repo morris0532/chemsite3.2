@@ -7,7 +7,8 @@ date: "2026-03-20"
 author: "Sinopeakchem"
 category: "Sourcing Guide"
 tags: ["chemical supplier","sourcing","China","procurement","supply chain"]
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e6ad8468-80af-478a-a520-d0ca3ba12cdb.png"
+image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.webp"
+imageAlt: "Choosing a reliable chemical supplier in China"
 ---
 
 ## Introduction
