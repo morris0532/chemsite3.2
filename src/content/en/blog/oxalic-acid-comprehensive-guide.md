@@ -1,5 +1,5 @@
 ---
-id: "6"
+id: "8"
 slug: "oxalic-acid-comprehensive-guide"
 title: "Oxalic Acid: A Comprehensive Guide to Industrial Applications, Production, and Market Trends"
 excerpt: "Explore the diverse industrial applications of oxalic acid, its production processes, safety management, environmental strategies, and future market outlook. Discover how Sinopeakchem provides high-purity oxalic acid for various industries."
