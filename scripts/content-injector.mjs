@@ -143,29 +143,62 @@ routes.forEach(route => {
     description = `Sinopeakchem is a leading industrial chemical supplier and trader from China, providing high-purity chemicals including Oxalic Acid, Caustic Soda, Sodium Sulfate to 50+ countries.`;
     keywords = locale === 'ru' ? 'поставщик химикатов, Китай, промышленная химия, B2B' : (locale === 'fr' ? 'fournisseur de produits chimiques, Chine, chimie industrielle, B2B' : 'chemical supplier, China, industrial chemicals, B2B');
     jsonLd = {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Sinopeakchem",
-      "url": BASE_URL,
-      "logo": `${BASE_URL}/logo.png`,
-      "description": description,
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 182, Jinshui Road, Licang District",
-        "addressLocality": "Qingdao",
-        "addressRegion": "Shandong Province",
-        "addressCountry": "CN"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+86-135-8326-2050",
-        "email": "info@sinopeakchem.com",
-        "contactType": "sales"
-      }
-    };
-  }
+	      "@context": "https://schema.org",
+	      "@type": "Organization",
+	      "name": "Sinopeakchem",
+	      "url": BASE_URL,
+	      "logo": `${BASE_URL}/logo.png`,
+	      "description": description,
+	      "address": {
+	        "@type": "PostalAddress",
+	        "streetAddress": "No. 182, Jinshui Road, Licang District",
+	        "addressLocality": "Qingdao",
+	        "addressRegion": "Shandong Province",
+	        "addressCountry": "CN"
+	      },
+	      "contactPoint": {
+	        "@type": "ContactPoint",
+	        "telephone": "+86-135-8326-2050",
+	        "email": "info@sinopeakchem.com",
+	        "contactType": "sales"
+	      }
+	    };
 
-  if (title || description || keywords) {
+	    // Homepage content injection
+	    const productsHtml = contentMetadata[locale].products.slice(0, 6).map(p => `
+	      <div class="product-item">
+	        <img src="${p.image}" alt="${p.title}" />
+	        <h3>${p.title}</h3>
+	        <p>CAS: ${p.cas}</p>
+	        <a href="/${locale}/products/${p.slug}">View Details</a>
+	      </div>
+	    `).join('');
+
+	    const blogHtml = contentMetadata[locale].blog.slice(0, 3).map(b => `
+	      <div class="blog-item">
+	        <h3>${b.title}</h3>
+	        <p>${b.date}</p>
+	        <a href="/${locale}/blog/${b.slug}">Read More</a>
+	      </div>
+	    `).join('');
+
+	    contentHtml = `
+	      <section class="hero">
+	        <h1>${title}</h1>
+	        <p>${description}</p>
+	      </section>
+	      <section class="products">
+	        <h2>${locale === 'ru' ? 'Ключевые продукты' : (locale === 'fr' ? 'Produits Phares' : 'Core Products')}</h2>
+	        <div class="product-grid">${productsHtml}</div>
+	      </section>
+	      <section class="blog">
+	        <h2>${locale === 'ru' ? 'Отраслевая экспертиза' : (locale === 'fr' ? 'Expertise de l\'Industrie' : 'Industry Expertise')}</h2>
+	        <div class="blog-grid">${blogHtml}</div>
+	      </section>
+	    `;
+	  }
+
+	  if (title || description || keywords) {
     let html = fs.readFileSync(targetFile, 'utf-8');
 
     const rootPlaceholder = '<div id="root"></div>';
