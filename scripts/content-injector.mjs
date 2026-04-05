@@ -111,11 +111,30 @@ routes.forEach(route => {
   else if (parts.length === 2) {
     const page = parts[1];
     if (page === 'products') {
-      title = `Industrial Chemical Products | Oxalic Acid, Caustic Soda & More`;
-      description = `Browse 22+ high-purity industrial chemicals from Sinopeakchem. Including organic acids, alkali products, sulfates, and specialty chemicals. COA/MSDS available.`;
-      const productNames = contentMetadata[locale].products.slice(0, 15).map(p => p.title).join(', ');
-      keywords = `${productNames}, ${locale === 'ru' ? 'химикаты, промышленная химия' : (locale === 'fr' ? 'produits chimiques, chimie industrielle' : 'chemicals, industrial chemicals')}`;
-    } else if (page === 'blog') {
+	      title = `Industrial Chemical Products | Oxalic Acid, Caustic Soda & More`;
+	      description = `Browse 22+ high-purity industrial chemicals from Sinopeakchem. Including organic acids, alkali products, sulfates, and specialty chemicals. COA/MSDS available.`;
+	      const productNames = contentMetadata[locale].products.slice(0, 15).map(p => p.title).join(', ');
+	      keywords = `${productNames}, ${locale === 'ru' ? 'химикаты, промышленная химия' : (locale === 'fr' ? 'produits chimiques, chimie industrielle' : 'chemicals, industrial chemicals')}`;
+	      
+	      const productsHtml = contentMetadata[locale].products.map(p => `
+	        <div class="product-card">
+	          <img src="${p.image}" alt="${p.title}" />
+	          <h3>${p.title}</h3>
+	          <p>CAS: ${p.cas}</p>
+	          <a href="/${locale}/products/${p.slug}">${siteConfig[locale]?.ui?.viewDetails || 'View Details'}</a>
+	        </div>
+	      `).join('');
+
+	      contentHtml = `
+	        <section class="products-header">
+	          <h1>${title}</h1>
+	          <p>${description}</p>
+	        </section>
+	        <section class="products-list">
+	          <div class="product-grid">${productsHtml}</div>
+	        </section>
+	      `;
+	    } else if (page === 'blog') {
       title = `Blog - Chemical Industry Insights and Product Guides`;
       description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.`;
       const blogTitles = contentMetadata[locale].blog.slice(0, 10).map(b => b.title).join(', ');
