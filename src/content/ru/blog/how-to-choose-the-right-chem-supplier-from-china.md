@@ -7,8 +7,8 @@ date: "2026-03-20"
 author: "Sinopeakchem"
 category: "Руководство по снабжению"
 tags: ["поставщик химикатов","снабжение","Китай","закупки","цепочка поставок"]
-image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.webp"
-imageAlt: "Choosing a reliable chemical supplier in China"
+image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.png"
+imageAlt: "Современная химическая логистика и цепочка поставок с организованными бочками и промышленным фоном"
 ---
 
 ## Введение
