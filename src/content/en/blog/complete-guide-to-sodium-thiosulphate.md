@@ -8,7 +8,7 @@ category: Industrial Chemicals
 image: /images/blog/complete-guide-to-sodium-thiosulphate.webp
 ---
 
-# Complete Guide to Sodium Thiosulphate: Applications, Properties, and Industrial Uses
+
 
 **Sodium Thiosulphate** (Na₂S₂O₃), commonly known as sodium hyposulfite or "hypo," is a versatile inorganic compound with a wide array of applications across various industries. It typically appears as a white, translucent crystalline solid, readily soluble in water. Its unique chemical properties, particularly its reducing capabilities and ability to complex with metal ions, make it indispensable in fields ranging from photography and medicine to water treatment and chemical analysis. Sinopeakchem is a leading supplier of high-quality Sodium Thiosulphate, ensuring reliable supply for your industrial needs.
 
