@@ -1,6 +1,6 @@
 ---
-id: "10"
-slug: "complete-guide-to-sodium-thiosulphate"
+id: "7"
+slug: "sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications"
 title: "Тиосульфат натрия: Универсальный химикат для различных промышленных применений"
 excerpt: "Подробный обзор разнообразных применений тиосульфата натрия, от водоподготовки и фотографии до горнодобывающей промышленности и медицины."
 date: "2026-04-05"
