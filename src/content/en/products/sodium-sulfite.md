@@ -6,7 +6,7 @@ cas: "7757-83-7"
 hsCode: "2832100000"
 slug: "sodium-sulfite"
 shortDescription: "High-purity Sodium Sulfite Anhydrous (Na2SO3) for bulk purchase and export from China. Essential for water treatment, photography, and textile applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-sulfite-anhydrous-cas-7757-83-7-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂SO₃"},
   {"label":"CAS Number","value":"7757-83-7"},

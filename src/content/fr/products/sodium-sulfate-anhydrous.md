@@ -6,7 +6,7 @@ cas: "7757-82-6"
 hsCode: "2833110000"
 slug: "sodium-sulfate-anhydrous"
 shortDescription: "Sulfate de sodium anhydre (Na2SO4) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication de détergents, de textiles et de verre. Fabricant de confiance avec des prix compétitifs."
-image: "/images/products/sodium-sulfate-anhydrous-7757-82-6.jpg"
+image: "/images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"Na₂SO₄"},
   {"label":"Numéro CAS","value":"7757-82-6"},

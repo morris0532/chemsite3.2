@@ -6,7 +6,7 @@ cas: "1303-96-4"
 hsCode: "2840190000"
 slug: "borax"
 shortDescription: "Borax industriel pour la fabrication du verre, la céramique, les détergents et les applications métallurgiques."
-image: "/images/products/borax-1303-96-4.jpg"
+image: "/images/products/borax-cas-1303-96-4-sinopeakchem.webp"
 specs: [{"label":"Formule chimique","value":"Na₂B₄O₇·10H₂O"},{"label":"Numéro CAS","value":"1303-96-4"},{"label":"Code SH","value":"2840190000"},{"label":"Teneur en B₂O₃","value":"≥36 %"},{"label":"Apparence","value":"Poudre cristalline blanche"},{"label":"Emballage","value":"Sacs de 25 kg / 50 kg"},{"label":"Chargement","value":"27 MT par conteneur 20GP"},{"label":"Ports disponibles","value":"Dalian"}]
 applications: ["Fabrication de verre et de fibre de verre","supply de céramique et d'émail","Détergents et produits de nettoyage","Flux métallurgique","Insecticide et herbicide","Ignifuge"]
 faqs: [{"question":"Quelle est la quantité minimale de commande ?","answer":"Un conteneur complet de 20 pieds (27 MT) est recommandé pour une commande rentable."},{"question":"Quelles formes de borax proposez-vous ?","answer":"Nous proposons du borax sous forme décahydratée (10-mol) et pentahydratée (5-mol), ainsi que du borax anhydre pour des applications spécifiques."},{"question":"Quel port est utilisé pour les expéditions de borax ?","answer":"Le borax est principalement expédié depuis le port de Dalian."}]

@@ -6,7 +6,7 @@ cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
 sług: "sodium-thiosulphate"
 shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},
   {"label":"CAS Number","value":"7772-98-7 / 10102-17-7"},

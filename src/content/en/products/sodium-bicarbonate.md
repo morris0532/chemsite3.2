@@ -6,7 +6,7 @@ cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"
 shortDescription: "High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from China. Essential for food, feed, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"NaHCO₃"},
   {"label":"CAS Number","value":"144-55-8"},

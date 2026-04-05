@@ -6,7 +6,7 @@ cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"
 shortDescription: "Bicarbonate de sodium (bicarbonate de soude) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications alimentaires, animales, pharmaceutiques et industrielles. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"NaHCO₃"},
   {"label":"Numéro CAS","value":"144-55-8"},

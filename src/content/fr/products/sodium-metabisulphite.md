@@ -6,7 +6,7 @@ cas: "7681-57-4"
 hsCode: "2832100000"
 slug: "sodium-metabisulphite"
 shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂S₂O₅"},
   {"label":"CAS Number","value":"7681-57-4"},

@@ -6,7 +6,7 @@ cas: "144-62-7 / 6153-56-6"
 hsCode: "2917111000"
 slug: "oxalic-acid"
 shortDescription: "High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from China. Essential for rare earth extraction, textile dyeing, and metal cleaning. Trusted supplier with competitive pricing."
-image: "/images/products/oxalic-acid-144-62-7.jpg"
+image: "/images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"H₂C₂O₄·2H₂O"},
   {"label":"CAS Number","value":"144-62-7 / 6153-56-6"},

@@ -6,7 +6,7 @@ cas: "7758-29-4"
 hsCode: "2835319000"
 slug: "sodium-tripolyphosphate"
 shortDescription: "Tripolyphosphate de sodium (STPP) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les détergents, les additifs alimentaires et les applications industrielles. Fabricant de confiance avec des prix compétitifs."
-image: "/images/products/sodium-tripolyphosphate-7758-29-4.jpg"
+image: "/images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"Na₅P₃O₁₀"},
   {"label":"Numéro CAS","value":"7758-29-4"},

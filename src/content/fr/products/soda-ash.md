@@ -6,7 +6,7 @@ cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"
 shortDescription: "Carbonate de sodium (soude) léger et dense de haute qualité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication du verre, des détergents et des produits chimiques. Fournisseur de confiance avec des prix compétitifs."
-image: "/images/products/soda-ash-497-19-8.jpg"
+image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"Na₂CO₃"},
   {"label":"Numéro CAS","value":"497-19-8"},

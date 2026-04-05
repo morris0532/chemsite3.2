@@ -6,7 +6,7 @@ cas: "12125-02-9"
 hsCode: "2827101000"
 slug: "ammonium-chloride"
 shortDescription: "High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China. Essential for fertilizer, feed additive, and industrial applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"NH₄Cl"},
   {"label":"CAS Number","value":"12125-02-9"},

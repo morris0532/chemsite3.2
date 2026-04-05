@@ -6,7 +6,7 @@ cas: "7783-20-2"
 hsCode: "3102210000"
 slug: "ammonium-sulphate"
 shortDescription: "Engrais au sulfate d'ammonium de qualité agricole et industrielle et intermédiaire chimique."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp"
 specs: [{"label":"Formule chimique","value":"(NH₄)₂SO₄"},{"label":"Numéro CAS","value":"7783-20-2"},{"label":"Code SH","value":"3102210000"},{"label":"Teneur en azote","value":"≥21 %"},{"label":"Apparence","value":"Poudre cristalline blanche/granulaire"},{"label":"Emballage","value":"Sacs de 25/50 kg / Sacs Jumbo"},{"label":"Chargement","value":"27 MT par conteneur 20GP"},{"label":"Ports disponibles","value":"Tianjin / Qingdao"}]
 applications: ["Engrais agricole","Additif ignifuge","Traitement de l'eau","Additif alimentaire (nutriment pour levure)","Industrie textile","Fabrication pharmaceutique"]
 faqs: [{"question":"Quelle est la quantité minimale de commande ?","answer":"Nous recommandons un conteneur complet de 20 pieds (27 MT) pour obtenir les meilleurs prix et une logistique d'expédition économique."},{"question":"Quelles qualités sont disponibles ?","answer":"Nous proposons du sulfate d'ammonium de qualité agricole (qualité caprolactame, qualité acier) et de qualité industrielle, chacun adapté à différentes applications."},{"question":"Le sulfate d'ammonium est-il un bon engrais ?","answer":"Oui, il fournit à la fois de l'azote (21 %) et du soufre (24 %), ce qui le rend excellent pour les sols déficients en soufre et les cultures qui nécessitent une nutrition soufrée."}]

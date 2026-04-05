@@ -6,7 +6,7 @@ cas: "144-62-7 / 6153-56-6"
 hsCode: "2917111000"
 slug: "oxalic-acid"
 shortDescription: "Acide oxalique (acide éthanedioïque) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour l'extraction des terres rares, la teinture textile et le nettoyage des métaux. Fabricant de confiance avec des prix compétitifs."
-image: "/images/products/oxalic-acid-144-62-7.jpg"
+image: "/images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"H₂C₂O₄·2H₂O"},
   {"label":"Numéro CAS","value":"144-62-7 / 6153-56-6"},

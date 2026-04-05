@@ -6,7 +6,7 @@ cas: "5329-14-6"
 hsCode: "2811199090"
 slug: "sulfamic-acid"
 shortDescription: "Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie et les applications textiles. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"H₃NSO₃"},
   {"label":"Numéro CAS","value":"5329-14-6"},

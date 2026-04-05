@@ -6,7 +6,7 @@ cas: "68-04-2"
 hsCode: "2918150000"
 slug: "tri-sodium-citrate"
 shortDescription: "Citrate de trisodium (TSC) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les additifs alimentaires, les produits pharmaceutiques et les applications de détergents. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"Na₃C₆H₅O₇·2H₂O"},
   {"label":"Numéro CAS","value":"68-04-2"},

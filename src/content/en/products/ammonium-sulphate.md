@@ -6,7 +6,7 @@ cas: "7783-20-2"
 hsCode: "3102210000"
 slug: "ammonium-sulphate"
 shortDescription: "Agricultural and industrial grade ammonium sulphate fertilizer and chemical intermediate."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp"
 specs: [{"label":"Chemical Formula","value":"(NH₄)₂SO₄"},{"label":"CAS Number","value":"7783-20-2"},{"label":"HS Code","value":"3102210000"},{"label":"Nitrogen Content","value":"≥21%"},{"label":"Appearance","value":"White crystalline powder/granular"},{"label":"Packaging","value":"25/50KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Tianjin / Qingdao"}]
 applications: ["Agricultural fertilizer","Flame retardant additive","Water treatment","Food additive (yeast nutrient)","Textile industry","Pharmaceutical supply"]
 faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (27MT) for the best pricing and shipping economics."},{"question":"What grades are available?","answer":"We offer agricultural grade (caprolactam grade, steel grade) and industrial grade ammonium sulphate, each suited for different applications."},{"question":"Is ammonium sulphate a good fertilizer?","answer":"Yes, it provides both nitrogen (21%) and sulfur (24%) nutrients, making it excellent for sulfur-deficient soils and crops that require sulfur nutrition."}]

@@ -6,7 +6,7 @@ cas: "7601-54-9"
 hsCode: "2835291000"
 slug: "trisodium-phosphate"
 shortDescription: "Phosphate de trisodium (TSP) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le nettoyage, les additifs alimentaires et les applications de traitement de l'eau. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"Na₃PO₄"},
   {"label":"Numéro CAS","value":"7601-54-9"},

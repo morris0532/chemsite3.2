@@ -6,7 +6,7 @@ cas: "12125-02-9"
 hsCode: "2827101000"
 slug: "ammonium-chloride"
 shortDescription: "Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les engrais, les additifs alimentaires et les applications industrielles. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"NH₄Cl"},
   {"label":"Numéro CAS","value":"12125-02-9"},

@@ -6,7 +6,7 @@ cas: "5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-monohydrate"
 shortDescription: "High-purity Citric Acid Monohydrate for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"C₆H₈O₇·H₂O"},
   {"label":"CAS Number","value":"5949-29-1"},

@@ -6,7 +6,7 @@ cas: "1327-41-9"
 hsCode: "2827320000"
 slug: "polyaluminum-chloride"
 shortDescription: "Polychlorure d'aluminium (PAC) à haute efficacité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la purification des eaux usées et la floculation industrielle. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"[Al₂(OH)nCl₆-n]m"},
   {"label":"Numéro CAS","value":"1327-41-9"},

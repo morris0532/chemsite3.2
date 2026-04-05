@@ -6,7 +6,7 @@ cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"
 shortDescription: "High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and export from China. Essential for glass, detergent, and chemical supply. Trusted supplier with competitive pricing."
-image: "/images/products/soda-ash-497-19-8.jpg"
+image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂CO₃"},
   {"label":"CAS Number","value":"497-19-8"},

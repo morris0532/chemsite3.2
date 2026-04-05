@@ -6,7 +6,7 @@ cas: "10124-56-8"
 hsCode: "2835391900"
 slug: "sodium-hexametaphosphate"
 shortDescription: "High-purity Sodium Hexametaphosphate (SHMP) for bulk purchase and export from China. Essential for water treatment, food additive, and industrial applications. Trusted supplier with competitive pricing."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"(NaPO₃)₆"},
   {"label":"CAS Number","value":"10124-56-8"},

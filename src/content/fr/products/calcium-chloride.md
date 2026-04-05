@@ -6,7 +6,7 @@ cas: "10043-52-4 / 10035-04-8"
 hsCode: "2827200000"
 slug: "calcium-chloride"
 shortDescription: "Chlorure de calcium (CaCl2) de haute pureté en écailles, granulés et poudre pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant de confiance avec des prix compétitifs."
-image: "/images/products/calcium-chloride-10043-52-4.jpg"
+image: "/images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"CaCl₂"},
   {"label":"Numéro CAS","value":"10043-52-4 / 10035-04-8"},

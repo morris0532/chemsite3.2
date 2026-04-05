@@ -6,7 +6,7 @@ cas: "7757-82-6"
 hsCode: "2833110000"
 slug: "sodium-sulfate-anhydrous"
 shortDescription: "High-purity Sodium Sulfate Anhydrous (Na2SO4) for bulk purchase and export from China. Essential for detergent, textile, and glass supply. Trusted supplier with competitive pricing."
-image: "/images/products/sodium-sulfate-anhydrous-7757-82-6.jpg"
+image: "/images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂SO₄"},
   {"label":"CAS Number","value":"7757-82-6"},

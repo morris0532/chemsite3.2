@@ -6,7 +6,7 @@ cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"
 shortDescription: "Soude caustique (hydroxyde de sodium) de haute pureté en écailles et en perles pour l'achat en gros et l'exportation depuis la Chine. Fabricant leader pour les applications industrielles, notamment le papier, le textile et le traitement de l'eau. Pureté de 99 % disponible."
-image: "/images/products/caustic-soda-1310-73-2.jpg"
+image: "/images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"NaOH"},
   {"label":"Numéro CAS","value":"1310-73-2"},

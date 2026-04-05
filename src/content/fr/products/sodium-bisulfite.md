@@ -6,7 +6,7 @@ cas: "7631-90-5"
 hsCode: "2832100000"
 slug: "sodium-bisulfite"
 shortDescription: "Bisulfite de sodium (NaHSO3) de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la conservation des aliments et le traitement des textiles. Fabricant de confiance avec des prix compétitifs."
-image: "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/eb1c2135-5209-41f4-9875-561825e0cc52.png"
+image: "/images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp"
 specs: [
   {"label":"Formule chimique","value":"NaHSO₃"},
   {"label":"Numéro CAS","value":"7631-90-5"},
