@@ -1373,7 +1373,7 @@ SinoPeakChem — Your trusted oxalic acid supplier in China.
 | **Alt标签** | 包含关键词：`"Oxalic acid rust removal - before and after comparison"` |
 | **文件大小** | 压缩至100KB以下（WebP格式优先） |
 | **尺寸** | 正文图片宽度800-1200px |
-| **来源** | 自己生成 > 购买版权图 > 免费图库（注明来源） |
+| **来源** | ai写文章时自己生成，注意和之前发布的图片略有差异 |
 
 ### 9.4 技术SEO建议
 
