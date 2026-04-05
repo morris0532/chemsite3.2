@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Buying Guide"
 tags: ["oxalic acid supplier", "oxalic acid manufacturer China", "chemical sourcing", "reliable supplier", "bulk oxalic acid", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-china.png"
+image: "/images/blog/oxalic-acid-supplier-china.webp"
 imageAlt: "Industrial oxalic acid warehouse and shipping logistics, representing a reliable supply chain from China."
 ---
 
