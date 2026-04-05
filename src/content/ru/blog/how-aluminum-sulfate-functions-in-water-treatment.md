@@ -1,11 +1,14 @@
 ---
-title: Как сульфат алюминия функционирует в водоочистке | Sinopeakchem
-description: Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой воды до очистки промышленных сточных вод. Sinopeakchem поставляет высококачественный сульфат алюминия и другие химикаты для водоочистки.
-keywords: сульфат алюминия, водоочистка, коагуляция, флокуляция, промышленные химикаты, Sinopeakchem, поставщик химикатов, очистка воды, очистка сточных вод
-date: 2026-04-04
-author: Sinopeakchem
-category: Water Treatment
-image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
+id: "9"
+slug: "how-aluminum-sulfate-functions-in-water-treatment"
+title: "Как сульфат алюминия функционирует в водоочистке"
+excerpt: "Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой воды до очистки промышленных сточных вод."
+date: "2026-04-04"
+author: "Sinopeakchem"
+category: "Water Treatment"
+tags: ["сульфат алюминия", "водоочистка", "коагуляция", "флокуляция"]
+image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp"
+imageAlt: "Aluminum Sulfate used in water treatment process"
 ---
 
 # Основная роль сульфата алюминия в современной водоочистке

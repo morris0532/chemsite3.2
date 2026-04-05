@@ -1,14 +1,14 @@
 ---
-id: "7"
-slug: "sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications"
+id: "10"
+slug: "complete-guide-to-sodium-thiosulphate"
 title: "Thiosulfate de sodium : le produit chimique polyvalent pour diverses applications industrielles"
-excerpt: "Un regard approfondi sur les diverses applications du thiosulfate de sodium, du traitement de l'eau et de la photographie à l'exploitation minière et à la médecine. Découvrez pourquoi il s'agit d'un produit chimique crucial pour divers processus industriels."
-date: "2026-03-21"
+excerpt: "Un regard approfondi sur les diverses applications du thiosulfate de sodium, du traitement de l'eau et de la photographie à l'exploitation minière et à la médecine."
+date: "2026-04-05"
 author: "Sinopeakchem"
-category: "Aperçus Chimiques"
-tags: ["Thiosulfate de sodium","Déchloration","Traitement de l'eau","Fournisseur de produits chimiques"]
-image: "/images/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.webp"
-imageAlt: "Sodium Thiosulphate used in textile and leather industries"
+category: "Industrial Chemicals"
+tags: ["thiosulfate de sodium", "Na2S2O3", "utilisations industrielles"]
+image: "/images/blog/complete-guide-to-sodium-thiosulphate.webp"
+imageAlt: "Sodium Thiosulphate crystals for industrial use"
 ---
 
 ## Introduction au thiosulfate de sodium

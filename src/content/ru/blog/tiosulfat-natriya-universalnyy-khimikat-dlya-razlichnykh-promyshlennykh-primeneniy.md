@@ -1,14 +1,14 @@
 ---
-id: "7"
-slug: "tiosulfat-natriya-universalnyy-khimikat-dlya-razlichnykh-promyshlennykh-primeneniy"
+id: "10"
+slug: "complete-guide-to-sodium-thiosulphate"
 title: "Тиосульфат натрия: Универсальный химикат для различных промышленных применений"
-excerpt: "Подробный обзор разнообразных применений тиосульфата натрия, от водоподготовки и фотографии до горнодобывающей промышленности и медицины. Узнайте, почему это важный химикат для различных промышленных процессов."
-date: "2026-03-21"
+excerpt: "Подробный обзор разнообразных применений тиосульфата натрия, от водоподготовки и фотографии до горнодобывающей промышленности и медицины."
+date: "2026-04-05"
 author: "Sinopeakchem"
-category: "Химические исследования"
-tags: ["Тиосульфат натрия","Дехлорирование","Водоподготовка","Поставщик химикатов"]
-image: "/images/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.webp"
-imageAlt: "Sodium Thiosulphate used in textile and leather industries"
+category: "Industrial Chemicals"
+tags: ["тиосульфат натрия", "Na2S2O3", "промышленное применение"]
+image: "/images/blog/complete-guide-to-sodium-thiosulphate.webp"
+imageAlt: "Sodium Thiosulphate crystals for industrial use"
 ---
 
 ## Введение в тиосульфат натрия

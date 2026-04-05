@@ -1,11 +1,14 @@
 ---
-title: Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau | Sinopeakchem
-description: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de l'eau, de l'eau potable au traitement des eaux usées industrielles. Sinopeakchem fournit du sulfate d'aluminium de haute qualité et d'autres produits chimiques de traitement de l'eau.
-keywords: sulfate d'aluminium, traitement de l'eau, coagulation, floculation, produits chimiques industriels, Sinopeakchem, fournisseur de produits chimiques, purification de l'eau, traitement des eaux usées
-date: 2026-04-04
-author: Sinopeakchem
-category: Water Treatment
-image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
+id: "9"
+slug: "how-aluminum-sulfate-functions-in-water-treatment"
+title: "Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau"
+excerpt: "Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de l'eau, de l'eau potable au traitement des eaux usées industrielles."
+date: "2026-04-04"
+author: "Sinopeakchem"
+category: "Water Treatment"
+tags: ["sulfate d'aluminium", "traitement de l'eau", "coagulation", "floculation"]
+image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp"
+imageAlt: "Aluminum Sulfate used in water treatment process"
 ---
 
 # Le rôle essentiel du sulfate d'aluminium dans le traitement moderne de l'eau
