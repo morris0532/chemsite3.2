@@ -121,10 +121,27 @@ routes.forEach(route => {
       const blogTitles = contentMetadata[locale].blog.slice(0, 10).map(b => b.title).join(', ');
       keywords = `${blogTitles}, ${locale === 'ru' ? 'новости отрасли, химические руководства' : (locale === 'fr' ? 'actualités de l\'industrie, guides chimiques' : 'industry news, chemical guides')}`;
     } else if (page === 'about') {
-      title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
-      description = siteConfig[locale]?.footer?.companyDesc || '';
-      keywords = locale === 'ru' ? 'о нас, компания, поставщик химикатов, Китай' : (locale === 'fr' ? 'à propos, entreprise, fournisseur de produits chimiques, Chine' : 'about, company, chemical supplier, China');
-    } else if (page === 'contact') {
+	      title = locale === 'ru' ? 'О нас' : (locale === 'fr' ? 'À propos' : 'About Us');
+	      description = siteConfig[locale]?.footer?.companyDesc || '';
+	      keywords = locale === 'ru' ? 'о нас, компания, поставщик химикатов, Китай' : (locale === 'fr' ? 'à propos, entreprise, fournisseur de produits chimiques, Chine' : 'about, company, chemical supplier, China');
+	      
+	      contentHtml = `
+	        <section class="about-hero">
+	          <h1>${title}</h1>
+	          <p>${description}</p>
+	        </section>
+	        <section class="about-mission">
+	          <h2>${locale === 'ru' ? 'Наша миссия' : (locale === 'fr' ? 'Notre Mission' : 'Our Mission')}</h2>
+	          <p>${siteConfig[locale]?.footer?.companyDesc}</p>
+	        </section>
+	        <section class="about-contact">
+	          <h2>${locale === 'ru' ? 'Свяжитесь с нами' : (locale === 'fr' ? 'Contactez-nous' : 'Get in Touch')}</h2>
+	          <p>${siteConfig[locale]?.footer?.contact?.address}</p>
+	          <p>Email: ${siteConfig[locale]?.footer?.contact?.email}</p>
+	          <p>Phone: ${siteConfig[locale]?.footer?.contact?.phone}</p>
+	        </section>
+	      `;
+	    } else if (page === 'contact') {
       title = locale === 'ru' ? 'Контакты' : (locale === 'fr' ? 'Contact' : 'Contact Us');
       description = 'Get in touch with Sinopeakchem for high-quality chemical products.';
       keywords = locale === 'ru' ? 'контакты, запрос, продажи, химическая продукция' : (locale === 'fr' ? 'contact, demande, ventes, produits chimiques' : 'contact, inquiry, sales, chemical products');
