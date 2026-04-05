@@ -5,6 +5,7 @@ keywords: Thiosulfate de sodium, Na2S2O3, hyposulfite de sodium, applications, p
 date: 2026-04-05
 author: Sinopeakchem
 category: Industrial Chemicals
+image: /images/blog/complete-guide-to-sodium-thiosulphate.webp
 ---
 
 # Guide complet du thiosulfate de sodium : applications, propriétés et utilisations industrielles

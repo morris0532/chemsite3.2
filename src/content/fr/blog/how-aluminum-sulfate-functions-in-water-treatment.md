@@ -5,6 +5,7 @@ keywords: sulfate d'aluminium, traitement de l'eau, coagulation, floculation, pr
 date: 2026-04-04
 author: Sinopeakchem
 category: Water Treatment
+image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
 ---
 
 # Le rôle essentiel du sulfate d'aluminium dans le traitement moderne de l'eau
