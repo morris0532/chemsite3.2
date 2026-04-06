@@ -1,5 +1,5 @@
 ---
-id: "a8"
+id: "qwasd8"
 slug: "oxalic-acid-wood-bleaching"
 title: "Oxalic Acid for Wood Bleaching & Cleaning: A Professional Guide"
 excerpt: "Restore and rejuvenate wood surfaces with oxalic acid. This guide details its use for bleaching, removing water stains, black spots, and tannin stains, with step-by-step instructions and safety tips."
