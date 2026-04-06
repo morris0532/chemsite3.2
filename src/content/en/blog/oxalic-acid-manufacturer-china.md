@@ -1,5 +1,5 @@
 ---
-id: "6"
+id: "9a4sd5646"
 slug: "oxalic-acid-manufacturer-china"
 title: "China Oxalic Acid Manufacturer & Exporter: Quality, Certification & Logistics"
 excerpt: "Discover why China dominates the global oxalic acid market. Learn about quality control, international certifications, efficient export processes, and how SinoPeakChem ensures reliable supply worldwide."
