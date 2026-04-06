@@ -1,5 +1,5 @@
 ---
-id: "10"
+id: "56a1sda6s10"
 slug: "oxalic-acid-supplier-china"
 title: "Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine : Un Guide Complet de l'Acheteur"
 excerpt: "La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer les fournisseurs chinois, à vérifier les certifications de qualité et à assurer une chaîne d'approvisionnement stable pour vos besoins industriels."
