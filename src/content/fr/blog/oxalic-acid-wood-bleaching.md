@@ -1,5 +1,5 @@
 ---
-id: "8"
+id: "a8"
 slug: "oxalic-acid-wood-bleaching"
 title: "Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel"
 excerpt: "Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce guide détaille son utilisation pour le blanchiment, l'élimination des taches d'eau, des taches noires et des taches de tanin, avec des instructions étape par étape et des conseils de sécurité."
