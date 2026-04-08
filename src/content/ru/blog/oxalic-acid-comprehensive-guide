@@ -7,7 +7,7 @@ date: "2026-04-05"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["щавелевая кислота", "этандиовая кислота", "промышленные химикаты", "добыча редкоземельных элементов", "удаление ржавчины", "химическое производство", "рыночные тенденции", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-industrial-guide.png"
+image: "/images/blog/oxalic-acid-industrial-guide.webp"
 imageAlt: "Кристаллы высокочистой щавелевой кислоты в промышленных условиях, символизирующие ее разнообразные применения и производство."
 ---
 

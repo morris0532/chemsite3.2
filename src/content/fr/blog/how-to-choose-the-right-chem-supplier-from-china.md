@@ -7,7 +7,7 @@ date: "2026-03-20"
 author: "Sinopeakchem"
 category: "Guide d'Approvisionnement"
 tags: ["fournisseur de produits chimiques","approvisionnement","Chine","achats","chaîne d'approvisionnement"]
-image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.png"
+image: "/images/blog/how-to-choose-the-right-chem-supplier-from-china.webp"
 imageAlt: "Logistique chimique moderne et chaîne d'approvisionnement avec fûts organisés et usine de fabrication en arrière-plan"
 ---
 

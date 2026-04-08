@@ -7,7 +7,7 @@ date: "2026-04-05"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["acide oxalique", "acide éthanedioïque", "produits chimiques industriels", "extraction de terres rares", "élimination de la rouille", "fabrication chimique", "tendances du marché", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-industrial-guide.png"
+image: "/images/blog/oxalic-acid-industrial-guide.webp"
 imageAlt: "Cristaux d'acide oxalique de haute pureté dans un cadre industriel"
 ---
 
