@@ -18,11 +18,6 @@ async function initializeApp() {
   // Render the app
   const rootElement = document.getElementById('root')!;
   createRoot(rootElement).render(<App />);
-  
-  // Add 'loaded' class to trigger the smooth fade-in after hydration
-  setTimeout(() => {
-    rootElement.classList.add('loaded');
-  }, 50);
 }
 
 // Initialize the app
