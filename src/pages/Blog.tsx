@@ -4,7 +4,8 @@ import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 import { useState, useMemo, useEffect } from "react";
 
-const POSTS_PER_PAGE = 10; // 1 featured + 9 grid items
+const PAGE_1_COUNT = 10; // 1 featured + 9 grid items
+const PAGE_REST_COUNT = 12; // 12 grid items for page 2+
 
 export default function BlogPage() {
   const location = useLocation();
@@ -24,10 +25,19 @@ export default function BlogPage() {
     setCurrentPage(1);
   }, [langPrefix]);
 
-  const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
+  const totalPages = useMemo(() => {
+    if (sorted.length <= PAGE_1_COUNT) return 1;
+    const remainingPosts = sorted.length - PAGE_1_COUNT;
+    return 1 + Math.ceil(remainingPosts / PAGE_REST_COUNT);
+  }, [sorted]);
+
   const paginatedPosts = useMemo(() => {
-    const start = (currentPage - 1) * POSTS_PER_PAGE;
-    return sorted.slice(start, start + POSTS_PER_PAGE);
+    if (currentPage === 1) {
+      return sorted.slice(0, PAGE_1_COUNT);
+    } else {
+      const start = PAGE_1_COUNT + (currentPage - 2) * PAGE_REST_COUNT;
+      return sorted.slice(start, start + PAGE_REST_COUNT);
+    }
   }, [sorted, currentPage]);
 
   const featuredPost = currentPage === 1 ? paginatedPosts[0] : null;
