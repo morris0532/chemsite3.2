@@ -7,7 +7,7 @@ date: "2026-04-29"
 author: "Sinopeakchem Technical Team"
 category: "Laboratory Applications"
 tags: ["oxalic acid", "analytical chemistry", "titration", "primary standard", "reducing agent", "complexometry", "laboratory reagent", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-analytical-chemistry.webp"
+image: "/images/blog/oxalic-acid-analytical-chemistry-opt.webp"
 imageAlt: "A professional and clean image depicting a modern analytical chemistry laboratory. Show glassware, titration setups, analytical instruments (e.g., spectrophotometer, chromatograph), and chemical reagents. Emphasize precision, scientific research, and laboratory work. High quality, 4k resolution."
 ---
 

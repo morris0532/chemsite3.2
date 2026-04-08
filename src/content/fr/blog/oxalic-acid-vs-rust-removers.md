@@ -7,7 +7,7 @@ date: "2026-04-13"
 author: "Sinopeakchem Technical Team"
 category: "Comparaison de Produits"
 tags: ["acide oxalique dégraissant", "acide phosphorique dégraissant", "acide citrique dégraissant", "comparaison dégraissants", "méthodes de dégraissage", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-rust-removers.webp"
+image: "/images/blog/oxalic-acid-vs-rust-removers-opt.webp"
 imageAlt: "Une image comparative illustrant différentes méthodes d'élimination de la rouille, y compris des solutions chimiques et des outils mécaniques."
 ---
 

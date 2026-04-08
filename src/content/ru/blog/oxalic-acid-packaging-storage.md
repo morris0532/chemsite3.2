@@ -7,7 +7,7 @@ date: "2026-04-14"
 author: "Sinopeakchem Technical Team"
 category: "Логистика и Безопасность"
 tags: ["упаковка щавелевой кислоты", "хранение щавелевой кислоты", "упаковка химикатов", "хранение химикатов", "безопасное обращение", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-packaging-storage.webp"
+image: "/images/blog/oxalic-acid-packaging-storage-opt.webp"
 imageAlt: "Чистый, организованный промышленный склад с аккуратно уложенными поддонами с мешками химикатов, четко обозначенными для безопасного хранения."
 ---
 

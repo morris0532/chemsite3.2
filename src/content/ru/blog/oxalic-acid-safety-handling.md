@@ -7,7 +7,7 @@ date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Безопасность и Соответствие"
 tags: ["безопасность щавелевой кислоты", "обращение с химикатами", "СИЗ", "хранение химикатов", "первая помощь химикатами", "утилизация отходов", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-safety-handling.webp"
+image: "/images/blog/oxalic-acid-safety-handling-opt.webp"
 imageAlt: "Человек в соответствующем СИЗ (очки, перчатки, лабораторный халат) работает с химикатами в лаборатории, подчеркивая безопасность."
 ---
 

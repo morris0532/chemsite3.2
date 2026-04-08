@@ -7,7 +7,7 @@ date: "2026-04-20"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique cuir", "tannage cuir", "teinture cuir", "produits chimiques tannage", "auxiliaires teinture", "traitement cuir", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-leather-tanning.webp"
+image: "/images/blog/oxalic-acid-leather-tanning-opt.webp"
 imageAlt: "Une image professionnelle et artistique représentant le processus de tannage et de teinture du cuir. Montrez des cuves avec du cuir, des mains travaillant avec du cuir teint, ou une exposition de divers produits en cuir colorés."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-25"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid", "rare earth magnets", "rare earth extraction", "neodymium magnets", "magnetic materials", "chemical precipitation", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rare-earth-magnets.webp"
+image: "/images/blog/oxalic-acid-rare-earth-magnets-opt.webp"
 imageAlt: "A professional and high-tech image depicting the production of rare earth magnets. Show elements like rare earth minerals, a chemical precipitation process (e.g., using oxalic acid), and finished powerful magnets. Emphasize precision, advanced technology, and the critical role of chemistry."
 ---
 

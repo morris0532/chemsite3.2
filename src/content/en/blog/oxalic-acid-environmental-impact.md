@@ -7,7 +7,7 @@ date: "2026-04-26"
 author: "Sinopeakchem Technical Team"
 category: "Sustainability & Safety"
 tags: ["oxalic acid", "environmental impact", "biodegradability", "sustainability", "chemical safety", "waste management", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-environmental-impact.webp"
+image: "/images/blog/oxalic-acid-environmental-impact-opt.webp"
 imageAlt: "A professional and clean image depicting environmental science. Show a laboratory setting with scientists analyzing water or soil samples, or a serene natural ecosystem with lush greenery and clear water, subtly integrating elements that suggest biodegradability or environmental research. Emphasize sustainability and scientific rigor. High quality, 4k resolution."
 ---
 

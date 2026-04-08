@@ -7,7 +7,7 @@ date: "2026-04-14"
 author: "Sinopeakchem Technical Team"
 category: "Logistique et Sécurité"
 tags: ["emballage acide oxalique", "stockage acide oxalique", "emballage chimique", "stockage chimique", "manipulation sécurisée", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-packaging-storage.webp"
+image: "/images/blog/oxalic-acid-packaging-storage-opt.webp"
 imageAlt: "Une scène d'entrepôt industriel propre et organisée avec des palettes de sacs de produits chimiques soigneusement empilées, clairement étiquetées pour un stockage sûr."
 ---
 

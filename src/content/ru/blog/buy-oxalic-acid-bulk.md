@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Руководство по Закупкам"
 tags: ["купить щавелевую кислоту оптом", "оптовая щавелевая кислота", "MOQ", "упаковка", "доставка", "оптовая закупка", "Sinopeakchem"]
-image: "/images/blog/buy-oxalic-acid-bulk.webp"
+image: "/images/blog/buy-oxalic-acid-bulk-opt.webp"
 imageAlt: "Изображение промышленной логистики, показывающее различные размеры упаковки химических продуктов с грузовым кораблем и контейнерами доставки на фоне."
 ---
 

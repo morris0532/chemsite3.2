@@ -7,7 +7,7 @@ date: "2026-04-07"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique élimination rouille", "détachant rouille", "nettoyage métal", "élimination rouille chimique", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rust-removal.webp"
+image: "/images/blog/oxalic-acid-rust-removal-opt.webp"
 imageAlt: "Une image illustrative montrant un objet métallique rouillé partiellement immergé dans une solution d'acide oxalique, avec une distinction claire entre les parties rouillées et nettoyées."
 ---
 

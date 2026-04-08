@@ -7,7 +7,7 @@ date: "2026-04-12"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid rare earth", "rare earth extraction", "rare earth separation", "rare earth purification", "industrial chemistry", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rare-earth-extraction.webp"
+image: "/images/blog/oxalic-acid-rare-earth-extraction-opt.webp"
 imageAlt: "A sophisticated laboratory setting focused on rare earth element extraction, featuring specialized equipment and colorful solutions."
 ---
 

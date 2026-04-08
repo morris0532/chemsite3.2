@@ -7,7 +7,7 @@ date: "2026-04-16"
 author: "Sinopeakchem Technical Team"
 category: "Beekeeping Applications"
 tags: ["oxalic acid beekeeping", "varroa mite treatment", "beehive pest control", "oxalic acid for bees", "beekeeping safety", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-beekeeping.webp"
+image: "/images/blog/oxalic-acid-beekeeping-opt.webp"
 imageAlt: "A professional and clear image of a beekeeper in protective gear carefully applying an oxalic acid treatment to a beehive."
 ---
 

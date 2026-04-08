@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Aperçus de l'Industrie"
 tags: ["fabricant d'acide oxalique Chine", "exportateur d'acide oxalique", "contrôle qualité chimique", "enregistrement REACH", "logistique mondiale", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-manufacturer-china.webp"
+image: "/images/blog/oxalic-acid-manufacturer-china-opt.webp"
 imageAlt: "Une installation de fabrication chimique moderne en Chine avec des éléments de contrôle qualité, de certifications et de logistique mondiale, y compris un cargo et une carte du monde."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-09"
 author: "Sinopeakchem Technical Team"
 category: "Применение Продукта"
 tags: ["щавелевая кислота полировка мрамора", "уход за камнем", "реставрация мрамора", "чистка камня", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-marble-polishing.webp"
+image: "/images/blog/oxalic-acid-marble-polishing-opt.webp"
 imageAlt: "Крупный план сильно отполированной мраморной поверхности, отражающей свет, с легким намеком на процесс полировки."
 ---
 

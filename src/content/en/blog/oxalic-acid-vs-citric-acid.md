@@ -7,7 +7,7 @@ date: "2026-04-22"
 author: "Sinopeakchem Technical Team"
 category: "Chemical Comparisons"
 tags: ["oxalic acid", "citric acid", "chemical comparison", "rust remover", "food additive", "cleaning agents", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-citric-acid.webp"
+image: "/images/blog/oxalic-acid-vs-citric-acid-opt.webp"
 imageAlt: "A professional and clear comparative image. On one side, represent oxalic acid with its chemical structure (C2H2O4) and industrial/cleaning applications (e.g., rust removal, wood bleaching). On the other side, represent citric acid with its chemical structure (C6H8O7) and food/beverage/cosmetic applications (e.g., lemon, fruit). Use a clear visual divider or 'versus' element."
 ---
 

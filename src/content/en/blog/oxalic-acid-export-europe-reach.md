@@ -7,7 +7,7 @@ date: "2026-05-05"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Europe", "REACH compliance", "chemical export", "European market", "oxalic acid supplier", "chemical regulations", "Germany", "France", "Italy", "Spain"]
-image: "/images/blog/oxalic-acid-export-europe-reach.webp"
+image: "/images/blog/oxalic-acid-export-europe-reach-opt.webp"
 imageAlt: "A professional and clear image depicting the concept of chemical export to Europe, with elements like a map of Europe, a container ship, and subtle overlays representing REACH compliance documents or regulations. Emphasize safety, quality, and regulatory adherence. High quality, 4k resolution."
 ---
 

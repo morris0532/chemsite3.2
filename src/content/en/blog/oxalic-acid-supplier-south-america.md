@@ -7,7 +7,7 @@ date: "2026-05-04"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid South America", "Brazil oxalic acid", "Chile oxalic acid", "Colombia oxalic acid", "chemical supplier", "agriculture chemicals", "leather tanning", "mining industry"]
-image: "/images/blog/oxalic-acid-supplier-south-america.webp"
+image: "/images/blog/oxalic-acid-supplier-south-america-opt.webp"
 imageAlt: "A professional and clear image depicting a map of South America, highlighting countries like Brazil, Chile, and Colombia, with subtle overlays of chemical trade routes, agricultural landscapes, or industrial facilities. Emphasize the region's economic significance and chemical import/export. High quality, 4k resolution."
 ---
 

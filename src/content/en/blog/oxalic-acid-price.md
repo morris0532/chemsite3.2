@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Market Analysis"
 tags: ["oxalic acid price", "oxalic acid cost", "market trend 2025", "bulk chemical purchase", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-price.webp"
+image: "/images/blog/oxalic-acid-price-opt.webp"
 imageAlt: "A professional business-style image showing a rising line graph over industrial chemical bags, representing oxalic acid market price trends."
 ---
 

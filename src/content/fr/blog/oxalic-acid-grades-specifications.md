@@ -7,7 +7,7 @@ date: "2026-04-15"
 author: "Sinopeakchem Technical Team"
 category: "Informations sur les Produits"
 tags: ["qualités acide oxalique", "spécifications acide oxalique", "acide oxalique de qualité industrielle", "acide oxalique de qualité alimentaire", "acide oxalique de qualité pharmaceutique", "pureté acide oxalique", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-grades-specifications.webp"
+image: "/images/blog/oxalic-acid-grades-specifications-opt.webp"
 imageAlt: "Un laboratoire professionnel avec des béchers contenant différents échantillons d'acide oxalique et un certificat d'analyse."
 ---
 

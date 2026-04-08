@@ -7,7 +7,7 @@ date: "2026-04-29"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Laboratoire"
 tags: ["acide oxalique", "chimie analytique", "titrage", "étalon primaire", "agent réducteur", "complexométrie", "réactif de laboratoire", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-analytical-chemistry.webp"
+image: "/images/blog/oxalic-acid-analytical-chemistry-opt.webp"
 imageAlt: "Une image professionnelle et propre représentant un laboratoire de chimie analytique moderne. Montrez de la verrerie, des montages de titrage, des instruments analytiques (par exemple, spectrophotomètre, chromatographe) et des réactifs chimiques. Mettez l'accent sur la précision, la recherche scientifique et le travail de laboratoire. Haute qualité, résolution 4k."
 ---
 

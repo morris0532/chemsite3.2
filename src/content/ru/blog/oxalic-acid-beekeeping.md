@@ -7,7 +7,7 @@ date: "2026-04-16"
 author: "Sinopeakchem Technical Team"
 category: "Применение в Пчеловодстве"
 tags: ["щавелевая кислота пчеловодство", "лечение клеща варроа", "борьба с вредителями ульев", "щавелевая кислота для пчел", "безопасность пчеловодства", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-beekeeping.webp"
+image: "/images/blog/oxalic-acid-beekeeping-opt.webp"
 imageAlt: "Профессиональное и четкое изображение пчеловода в защитном снаряжении, осторожно применяющего обработку щавелевой кислотой к улью."
 ---
 

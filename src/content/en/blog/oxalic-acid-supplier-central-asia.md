@@ -7,7 +7,7 @@ date: "2026-05-08"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Central Asia", "oxalic acid Kazakhstan", "oxalic acid Uzbekistan", "chemical supplier", "mining chemicals", "industrial processing", "chemical manufacturing"]
-image: "/images/blog/oxalic-acid-supplier-central-asia.webp"
+image: "/images/blog/oxalic-acid-supplier-central-asia-opt.webp"
 imageAlt: "A professional and clear image depicting a map of Central Asia, highlighting countries like Kazakhstan and Uzbekistan, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution."
 ---
 

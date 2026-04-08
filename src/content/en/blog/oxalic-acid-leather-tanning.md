@@ -7,7 +7,7 @@ date: "2026-04-20"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid leather", "leather tanning", "leather dyeing", "tanning chemicals", "dyeing auxiliaries", "leather processing", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-leather-tanning.webp"
+image: "/images/blog/oxalic-acid-leather-tanning-opt.webp"
 imageAlt: "A professional and artistic image depicting the leather tanning and dyeing process. Show vats with leather, hands working with dyed leather, or a display of various colored leather products."
 ---
 

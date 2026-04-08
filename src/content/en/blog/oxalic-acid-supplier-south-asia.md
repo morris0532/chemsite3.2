@@ -7,7 +7,7 @@ date: "2026-05-07"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid South Asia", "oxalic acid India", "oxalic acid Pakistan", "oxalic acid Bangladesh", "chemical supplier", "textile dyeing", "leather industry", "chemical manufacturing"]
-image: "/images/blog/oxalic-acid-supplier-south-asia.webp"
+image: "/images/blog/oxalic-acid-supplier-south-asia-opt.webp"
 imageAlt: "A professional and clear image depicting a map of South Asia, highlighting countries like India, Pakistan, and Bangladesh, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution."
 ---
 

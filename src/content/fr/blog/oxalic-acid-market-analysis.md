@@ -7,7 +7,7 @@ date: "2026-04-28"
 author: "Sinopeakchem Market Research"
 category: "Aperçus du Marché"
 tags: ["acide oxalique marché", "commerce mondial", "industrie chimique", "analyse de marché", "fabricant chinois", "chaîne d'approvisionnement", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-market-analysis.webp"
+image: "/images/blog/oxalic-acid-market-analysis-opt.webp"
 imageAlt: "Une image professionnelle et informative représentant une analyse du marché mondial de l'acide oxalique. Montrez une carte du monde avec les routes commerciales, des graphiques à barres ou des courbes représentant les tendances du marché, et des éléments industriels subtils comme des usines chimiques ou des conteneurs maritimes. Mettez l'accent sur la portée mondiale, les données économiques et la dynamique du marché. Haute qualité, résolution 4k."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Middle East", "UAE oxalic acid", "Saudi Arabia oxalic acid", "Turkey oxalic acid", "chemical supplier", "stone care", "oil & gas", "industrial cleaning"]
-image: "/images/blog/oxalic-acid-supplier-middle-east.webp"
+image: "/images/blog/oxalic-acid-supplier-middle-east-opt.webp"
 imageAlt: "A professional and clear image depicting a map of the Middle East, highlighting countries like UAE, Saudi Arabia, and Turkey, with subtle overlays of chemical trade routes, oil refineries, or modern industrial facilities. Emphasize the region's economic significance and chemical import/export. High quality, 4k resolution."
 ---
 

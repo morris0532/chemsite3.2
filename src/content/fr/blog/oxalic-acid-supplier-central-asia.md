@@ -7,7 +7,7 @@ date: "2026-05-08"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Asie Centrale", "acide oxalique Kazakhstan", "acide oxalique Ouzbékistan", "fournisseur de produits chimiques", "produits chimiques miniers", "traitement industriel", "fabrication de produits chimiques"]
-image: "/images/blog/oxalic-acid-supplier-central-asia.webp"
+image: "/images/blog/oxalic-acid-supplier-central-asia-opt.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Asie Centrale, mettant en évidence des pays comme le Kazakhstan et l'Ouzbékistan, avec des superpositions subtiles de routes commerciales chimiques, de paysages industriels ou d'activités portuaires. Soulignez l'importance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-17"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Traitement de l'Eau"
 tags: ["acide oxalique traitement eau", "élimination fer eau", "élimination manganèse eau", "produits chimiques purification eau", "traitement eau industriel", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-water-treatment.webp"
+image: "/images/blog/oxalic-acid-water-treatment-opt.webp"
 imageAlt: "Une image professionnelle et propre d'une installation moderne de traitement de l'eau, avec de l'eau claire circulant à travers des systèmes de filtration."
 ---
 

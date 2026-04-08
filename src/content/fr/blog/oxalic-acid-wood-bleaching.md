@@ -7,7 +7,7 @@ date: "2026-04-08"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique blanchiment bois", "nettoyant bois", "détachant tanin", "détachant eau", "restauration bois", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-wood-bleaching.webp"
+image: "/images/blog/oxalic-acid-wood-bleaching-opt.webp"
 imageAlt: "Une image divisée montrant une surface en bois avant et après traitement à l'acide oxalique, démontrant un blanchiment et un nettoyage efficaces."
 ---
 

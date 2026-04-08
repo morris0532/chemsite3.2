@@ -7,7 +7,7 @@ date: "2026-04-25"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique", "aimants terres rares", "extraction terres rares", "aimants néodyme", "matériaux magnétiques", "précipitation chimique", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rare-earth-magnets.webp"
+image: "/images/blog/oxalic-acid-rare-earth-magnets-opt.webp"
 imageAlt: "Une image professionnelle et de haute technologie représentant la production d'aimants de terres rares. Montrez des éléments tels que des minéraux de terres rares, un processus de précipitation chimique (par exemple, utilisant de l'acide oxalique) et des aimants puissants finis. Mettez l'accent sur la précision, la technologie avancée et le rôle critique de la chimie."
 ---
 

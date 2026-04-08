@@ -7,7 +7,7 @@ date: "2026-04-13"
 author: "Sinopeakchem Technical Team"
 category: "Product Comparison"
 tags: ["oxalic acid rust remover", "phosphoric acid rust remover", "citric acid rust remover", "rust removal comparison", "rust removal methods", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-rust-removers.webp"
+image: "/images/blog/oxalic-acid-vs-rust-removers-opt.webp"
 imageAlt: "A comparative image illustrating different rust removal methods, including chemical solutions and mechanical tools."
 ---
 

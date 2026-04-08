@@ -7,7 +7,7 @@ date: "2026-04-11"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid textile", "textile dyeing", "textile printing", "fiber treatment", "industrial chemicals", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-textile-dyeing.webp"
+image: "/images/blog/oxalic-acid-textile-dyeing-opt.webp"
 imageAlt: "A vibrant textile dyeing and printing facility, showcasing colorful fabrics being processed and industrial machinery."
 ---
 

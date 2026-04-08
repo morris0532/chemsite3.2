@@ -7,7 +7,7 @@ date: "2026-02-20"
 author: "Équipe Technique Sinopeakchem"
 category: "Guide Produit"
 tags: ["acide oxalique","élimination de la rouille","produits chimiques industriels","sécurité"]
-image: "/images/blog/oxalic-acid-industrial-applications.webp"
+image: "/images/blog/oxalic-acid-industrial-applications-opt.webp"
 imageAlt: "Oxalic Acid used for industrial rust removal and cleaning"
 ---
 

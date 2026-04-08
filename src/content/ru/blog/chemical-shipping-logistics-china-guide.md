@@ -7,7 +7,7 @@ date: "2026-03-05"
 author: "Sinopeakchem Logistics Team"
 category: "Доставка и логистика"
 tags: ["доставка химикатов","международная торговля","логистика"]
-image: "/images/blog/chemical-shipping-logistics-china-guide.webp"
+image: "/images/blog/chemical-shipping-logistics-china-guide-opt.webp"
 imageAlt: "International chemical shipping and logistics from China port"
 ---
 

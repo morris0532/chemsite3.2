@@ -7,7 +7,7 @@ date: "2026-04-11"
 author: "Sinopeakchem Technical Team"
 category: "Применение Продукта"
 tags: ["щавелевая кислота текстиль", "крашение текстиля", "печать текстиля", "обработка волокон", "промышленные химикаты", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-textile-dyeing.webp"
+image: "/images/blog/oxalic-acid-textile-dyeing-opt.webp"
 imageAlt: "Яркое текстильное красильное и печатное производство, демонстрирующее обработку красочных тканей и промышленное оборудование."
 ---
 

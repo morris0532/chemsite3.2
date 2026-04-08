@@ -7,7 +7,7 @@ date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Sécurité et Conformité"
 tags: ["sécurité acide oxalique", "manipulation produits chimiques", "EPI", "stockage produits chimiques", "premiers secours produits chimiques", "élimination déchets", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-safety-handling.webp"
+image: "/images/blog/oxalic-acid-safety-handling-opt.webp"
 imageAlt: "Une personne portant un EPI approprié (lunettes, gants, blouse de laboratoire) manipulant des produits chimiques dans un laboratoire, soulignant la sécurité."
 ---
 

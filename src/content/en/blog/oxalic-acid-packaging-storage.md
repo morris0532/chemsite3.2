@@ -7,7 +7,7 @@ date: "2026-04-14"
 author: "Sinopeakchem Technical Team"
 category: "Logistics & Safety"
 tags: ["oxalic acid packaging", "oxalic acid storage", "chemical packaging", "chemical storage", "safety handling", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-packaging-storage.webp"
+image: "/images/blog/oxalic-acid-packaging-storage-opt.webp"
 imageAlt: "A clean, organized industrial warehouse scene with neatly stacked pallets of chemical bags, clearly labeled for safe storage."
 ---
 

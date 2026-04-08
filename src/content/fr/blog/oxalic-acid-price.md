@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Analyse de Marché"
 tags: ["prix de l'acide oxalique", "coût de l'acide oxalique", "tendance du marché 2025", "achat de produits chimiques en gros", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-price.webp"
+image: "/images/blog/oxalic-acid-price-opt.webp"
 imageAlt: "Une image professionnelle de style professionnel montrant un graphique linéaire ascendant sur des sacs de produits chimiques industriels, représentant les tendances des prix du marché de l'acide oxalique."
 ---
 

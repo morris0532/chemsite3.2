@@ -7,7 +7,7 @@ date: "2026-04-27"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid", "metal pre-treatment", "corrosion resistance", "surface preparation", "metal cleaning", "passivation", "adhesion", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-metal-pre-treatment.webp"
+image: "/images/blog/oxalic-acid-metal-pre-treatment-opt.webp"
 imageAlt: "A professional and clean industrial image depicting metal surface pre-treatment. Show metal parts undergoing cleaning, degreasing, or a chemical bath process. Emphasize the preparation of surfaces for coating or painting, with a focus on precision and industrial application. High quality, 4k resolution."
 ---
 

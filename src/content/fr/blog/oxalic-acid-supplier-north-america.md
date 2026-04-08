@@ -7,7 +7,7 @@ date: "2026-05-06"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Amérique du Nord", "acide oxalique États-Unis", "acide oxalique Canada", "acide oxalique Mexique", "fournisseur de produits chimiques", "nettoyage industriel", "traitement du bois", "fabrication de produits chimiques"]
-image: "/images/blog/oxalic-acid-supplier-north-america.webp"
+image: "/images/blog/oxalic-acid-supplier-north-america-opt.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Amérique du Nord, mettant en évidence des pays comme les États-Unis, le Canada et le Mexique, avec des superpositions subtiles de routes commerciales chimiques, de paysages industriels ou d'activités portuaires. Soulignez l'importance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

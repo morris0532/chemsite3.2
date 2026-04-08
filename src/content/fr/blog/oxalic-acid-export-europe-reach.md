@@ -7,7 +7,7 @@ date: "2026-05-05"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Europe", "conformité REACH", "exportation chimique", "marché européen", "fournisseur acide oxalique", "réglementations chimiques", "Allemagne", "France", "Italie", "Espagne"]
-image: "/images/blog/oxalic-acid-export-europe-reach.webp"
+image: "/images/blog/oxalic-acid-export-europe-reach-opt.webp"
 imageAlt: "Une image professionnelle et claire représentant le concept d'exportation de produits chimiques vers l'Europe, avec des éléments comme une carte de l'Europe, un porte-conteneurs, et des superpositions subtiles représentant des documents ou réglementations de conformité REACH. Soulignez la sécurité, la qualité et le respect de la réglementation. Haute qualité, résolution 4k."
 ---
 

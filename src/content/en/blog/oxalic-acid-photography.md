@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Sinopeakchem Technical Team"
 category: "Specialty Applications"
 tags: ["oxalic acid photography", "platinum palladium prints", "photographic chemistry", "toning solutions", "printmaking", "historical photography", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-photography.webp"
+image: "/images/blog/oxalic-acid-photography-opt.webp"
 imageAlt: "A vintage photography darkroom scene, with old photographic equipment, developing trays, and prints, conveying both historical use and modern relevance in photographic chemistry."
 ---
 

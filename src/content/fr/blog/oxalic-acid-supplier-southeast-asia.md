@@ -7,7 +7,7 @@ date: "2026-05-01"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Asie du Sud-Est", "acide oxalique Thaïlande", "acide oxalique Vietnam", "acide oxalique Indonésie", "acide oxalique Philippines", "acide oxalique Malaisie", "acheter acide oxalique Asie du Sud-Est", "importation acide oxalique ASEAN", "fournisseur chimique Chine", "commerce RCEP", "industrie textile", "extraction terres rares"]
-image: "/images/blog/oxalic-acid-supplier-southeast-asia.webp"
+image: "/images/blog/oxalic-acid-supplier-southeast-asia-opt.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Asie du Sud-Est, mettant en évidence des pays comme la Thaïlande, le Vietnam et l'Indonésie, avec des superpositions subtiles de routes commerciales chimiques, d'installations industrielles ou d'activités portuaires. Souligne la croissance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

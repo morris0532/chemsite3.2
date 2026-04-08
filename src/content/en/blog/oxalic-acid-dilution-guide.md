@@ -7,7 +7,7 @@ date: "2026-04-24"
 author: "Sinopeakchem Technical Team"
 category: "Safety & Handling"
 tags: ["oxalic acid dilution", "chemical safety", "concentration calculation", "handling guide", "PPE", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-dilution-guide.webp"
+image: "/images/blog/oxalic-acid-dilution-guide-opt.webp"
 imageAlt: "A professional and clear image depicting the safe dilution of oxalic acid. Show a person wearing appropriate PPE (gloves, safety glasses) carefully pouring a concentrated solution into water, with laboratory glassware (beakers, volumetric flasks) and a calculator or concentration formula visible in the background. Emphasize safety and precision."
 ---
 

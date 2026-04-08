@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["utilisations de l'acide oxalique", "applications de l'acide oxalique", "produits chimiques industriels", "élimination de la rouille", "blanchiment du bois", "extraction des terres rares", "produits pharmaceutiques", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-uses.webp"
+image: "/images/blog/oxalic-acid-uses-opt.webp"
 imageAlt: "Diverses applications industrielles de l'acide oxalique, montrant divers processus comme l'élimination de la rouille, le traitement du bois et la synthèse chimique."
 ---
 

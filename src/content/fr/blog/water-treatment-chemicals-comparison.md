@@ -7,7 +7,7 @@ date: "2026-02-28"
 author: "Équipe Technique Sinopeakchem"
 category: "Article Technique"
 tags: ["traitement de l'eau","PAC","coagulant","comparaison chimique"]
-image: "/images/blog/water-treatment-chemicals-comparison.webp"
+image: "/images/blog/water-treatment-chemicals-comparison-opt.webp"
 imageAlt: "Comparison of water treatment chemicals PAC and Aluminum Sulfate"
 ---
 

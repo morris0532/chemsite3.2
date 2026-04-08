@@ -7,7 +7,7 @@ date: "2026-04-19"
 author: "Sinopeakchem Technical Team"
 category: "Cleaning Applications"
 tags: ["oxalic acid cleaning", "oxalic acid descaling", "household cleaning", "industrial cleaning", "rust stain remover", "calcium deposit remover", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-cleaning-descaling.webp"
+image: "/images/blog/oxalic-acid-cleaning-descaling-opt.webp"
 imageAlt: "A clean and professional image depicting both household cleaning (e.g., a sparkling clean bathroom fixture) and industrial descaling (e.g., a clean pipe or industrial equipment)."
 ---
 

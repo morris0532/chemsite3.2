@@ -7,7 +7,7 @@ date: "2026-04-05"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["oxalic acid", "ethanedioic acid", "industrial chemicals", "rare earth extraction", "rust removal", "chemical production", "market trends", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-industrial-guide.webp"
+image: "/images/blog/oxalic-acid-industrial-guide-opt.webp"
 imageAlt: "High-purity oxalic acid crystals in an industrial setting, symbolizing its diverse applications and production."
 ---
 
