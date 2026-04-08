@@ -1,58 +1,143 @@
 ---
 id: "31"
 slug: "oxalic-acid-supplier-southeast-asia"
-title: "Fournisseur d'Acide Oxalique pour le Marché de l'Asie du Sud-Est : Vietnam, Indonésie & Thaïlande"
-excerpt: "Découvrez SinoPeakChem, votre fournisseur fiable d'acide oxalique pour l'Asie du Sud-Est, desservant des marchés clés comme le Vietnam, l'Indonésie, la Thaïlande et la Malaisie avec des produits de qualité et une logistique efficace."
+title: "Fournisseur d'Acide Oxalique pour l'Asie du Sud-Est : Thaïlande, Vietnam, Indonésie et Plus"
+excerpt: "L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique, tiré par des industries comme le textile, la céramique et le caoutchouc. SinoPeakChem est votre partenaire de confiance, offrant de l'acide oxalique de haute qualité avec une logistique efficace et un support de conformité pour les acheteurs en Thaïlande, au Vietnam, en Indonésie, aux Philippines et en Malaisie."
 date: "2026-05-01"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
-tags: ["acide oxalique Asie du Sud-Est", "acide oxalique Vietnam", "acide oxalique Indonésie", "acide oxalique Thaïlande", "acide oxalique Malaisie", "fournisseur de produits chimiques", "commerce RCEP", "industrie textile", "extraction de terres rares"]
+tags: ["acide oxalique Asie du Sud-Est", "acide oxalique Thaïlande", "acide oxalique Vietnam", "acide oxalique Indonésie", "acide oxalique Philippines", "acide oxalique Malaisie", "acheter acide oxalique Asie du Sud-Est", "importation acide oxalique ASEAN", "fournisseur chimique Chine", "commerce RCEP", "industrie textile", "extraction terres rares"]
 image: "/images/blog/oxalic-acid-supplier-southeast-asia.webp"
-imageAlt: "Une image professionnelle et claire représentant une carte de l'Asie du Sud-Est, mettant en évidence des pays comme le Vietnam, l'Indonésie, la Thaïlande et la Malaisie, avec des superpositions subtiles de routes commerciales chimiques ou d'installations industrielles. Soulignez la croissance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
+imageAlt: "Une image professionnelle et claire représentant une carte de l'Asie du Sud-Est, mettant en évidence des pays comme la Thaïlande, le Vietnam et l'Indonésie, avec des superpositions subtiles de routes commerciales chimiques, d'installations industrielles ou d'activités portuaires. Souligne la croissance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 
-## Fournisseur d'Acide Oxalique pour le Marché de l'Asie du Sud-Est : Vietnam, Indonésie & Thaïlande
+# Fournisseur d'Acide Oxalique pour l'Asie du Sud-Est : Thaïlande, Vietnam, Indonésie et Plus
 
-Le marché de l'Asie du Sud-Est, englobant des économies dynamiques comme le Vietnam, l'Indonésie, la Thaïlande et la Malaisie, représente un pôle important pour les produits chimiques industriels. Avec des secteurs manufacturiers robustes, en particulier dans le textile et l'électronique, la demande d'acide oxalique de haute qualité est en croissance constante. SinoPeakChem se positionne comme un fournisseur dédié et fiable, engagé à répondre aux besoins diversifiés de cette région dynamique.
+L'Asie du Sud-Est est l'une des régions à la croissance la plus rapide au monde en matière de consommation d'acide oxalique, la demande étant stimulée par des industries florissantes telles que le textile, le cuir, la céramique et la transformation du caoutchouc. En tant que produit chimique essentiel, l'acide oxalique joue un rôle crucial dans de nombreux processus de fabrication à travers cette zone économique dynamique. La Chine, avec sa capacité de production robuste et sa proximité géographique stratégique, est devenue la principale source d'acide oxalique pour les nations d'Asie du Sud-Est. Ce guide complet vise à aider les acheteurs dans des pays comme la Thaïlande, le Vietnam, l'Indonésie, les Philippines et la Malaisie à naviguer dans les complexités de l'approvisionnement en acide oxalique de haute qualité auprès de fournisseurs chinois fiables comme SinoPeakChem.
 
-### Pourquoi l'Asie du Sud-Est est un Marché Clé pour l'Acide Oxalique
+## Demande d'Acide Oxalique en Asie du Sud-Est
 
-La croissance économique de l'Asie du Sud-Est est alimentée par l'expansion des bases industrielles et l'augmentation des investissements étrangers. Des pays comme le Vietnam et l'Indonésie sont des leaders mondiaux dans la fabrication textile, tandis que la Malaisie et la Thaïlande progressent dans les industries de l'électronique et de l'automobile. Ces secteurs dépendent fortement de l'acide oxalique pour diverses applications :
+Le paysage industriel diversifié de l'Asie du Sud-Est alimente une demande constante et croissante d'acide oxalique. Chaque pays de la région présente des schémas de consommation uniques, dictés par ses secteurs économiques dominants :
 
-*   **Industrie Textile** : L'acide oxalique est crucial pour les processus de teinture et d'impression, agissant comme mordant et agent réducteur, et pour éliminer les taches de rouille des tissus [1] (voir aussi [Acide Oxalique pour la Teinture et l'Impression Textile](/fr/blog/oxalic-acid-textile-dyeing)).
-*   **Extraction de Terres Rares** : À mesure que la région développe ses capacités de traitement des minéraux, l'acide oxalique joue un rôle vital dans la précipitation et la purification des éléments de terres rares, essentiels pour les composants de haute technologie [2] (voir aussi [Acide Oxalique pour l'Extraction de Terres Rares](/fr/blog/oxalic-acid-rare-earth-extraction)).
-*   **Nettoyage et Élimination de la Rouille** : Son efficacité dans l'élimination de la rouille et des taches le rend indispensable dans diverses applications de nettoyage industriel [3] (voir aussi [Acide Oxalique pour l'Élimination de la Rouille](/fr/blog/oxalic-acid-rust-removal)).
+*   **Thaïlande** : Un consommateur important dans son industrie textile florissante, où l'acide oxalique agit comme mordant et agent réducteur dans la teinture et l'impression. Il est également vital pour la transformation du caoutchouc, en particulier dans la coagulation et le nettoyage du latex [1].
+*   **Vietnam** : Un leader mondial de la fabrication de textiles et de cuir, le Vietnam utilise l'acide oxalique de manière extensive dans la finition des tissus, le tannage du cuir et la production de céramique. L'industrialisation rapide du pays continue de stimuler la demande [2] (voir aussi [Acide Oxalique pour la Teinture et l'Impression Textile](/fr/blog/oxalic-acid-textile-dyeing) et [Acide Oxalique pour le Tannage et la Teinture du Cuir](/fr/blog/oxalic-acid-leather-tanning)).
+*   **Indonésie** : En tant que plus grande économie d'Asie du Sud-Est, la demande de l'Indonésie s'étend aux textiles, à la fabrication de papier et à la transformation de l'huile de palme. L'acide oxalique est utilisé dans le blanchiment, l'élimination de la rouille et comme agent chélatant dans diverses applications industrielles [3] (voir aussi [Acide Oxalique pour le Nettoyage et le Détartrage](/fr/blog/oxalic-acid-cleaning-descaling)).
+*   **Philippines** : Le secteur de la fabrication électronique et l'industrie croissante des produits de nettoyage contribuent de manière significative à la consommation d'acide oxalique. Il est également utilisé dans le traitement de l'eau pour l'élimination du fer et du manganèse [4] (voir aussi [Acide Oxalique pour le Traitement de l'Eau](/fr/blog/oxalic-acid-water-treatment)).
+*   **Malaisie** : Avec des secteurs solides dans le caoutchouc, l'électronique et la fabrication de produits chimiques généraux, la croissance industrielle de la Malaisie assure un besoin constant d'acide oxalique dans divers processus, y compris le traitement de surface des métaux [5] (voir aussi [Acide Oxalique dans le Prétraitement des Surfaces Métalliques](/fr/blog/oxalic-acid-metal-pre-treatment)).
 
-### L'Engagement de SinoPeakChem envers l'Asie du Sud-Est
+Les estimations suggèrent que le volume annuel d'importation d'acide oxalique en Asie du Sud-Est est substantiel, avec une tendance à la hausse claire reflétant l'expansion industrielle continue de la région.
 
-SinoPeakChem comprend les exigences uniques du marché de l'Asie du Sud-Est. Nous offrons :
+## Pourquoi S'Approvisionner en Acide Oxalique en Chine pour l'Asie du Sud-Est ?
 
-1.  **Assurance Qualité** : Notre acide oxalique répond aux normes internationales, garantissant une pureté constante (généralement 99,6 % min) adaptée aux applications industrielles exigeantes. Nous fournissons des Certificats d'Analyse (CoA) avec chaque expédition [4] (voir aussi [Qualités et Spécifications de l'Acide Oxalique](/fr/blog/oxalic-acid-grades-specifications)).
-2.  **Logistique Efficace** : Grâce à notre emplacement stratégique et à notre vaste réseau logistique, nous assurons une livraison rapide et rentable vers les principaux ports du Vietnam (par exemple, Hô Chi Minh-Ville, Hai Phong), de l'Indonésie (par exemple, Jakarta, Surabaya), de la Thaïlande (par exemple, Laem Chabang, Bangkok) et de la Malaisie (par exemple, Port Klang, Tanjung Pelepas). Nous sommes experts dans la navigation des complexités d'expédition régionales.
-3.  **Prix Compétitifs** : En tant que fabricant de premier plan, nous offrons des prix compétitifs pour les commandes en vrac, garantissant une valeur sans compromettre la qualité [5] (voir aussi [Tendance des Prix de l'Acide Oxalique 2025](/fr/blog/oxalic-acid-price)).
-4.  **Emballage Flexible** : Des sacs de 25 kg aux big-bags de 1 tonne, nous proposons des solutions d'emballage adaptées à vos besoins de stockage et de manutention [6] (voir aussi [Emballage et Stockage de l'Acide Oxalique](/fr/blog/oxalic-acid-packaging-storage)).
-5.  **Facilitation du Commerce RCEP** : Avec l'accord de Partenariat Économique Global Régional (RCEP), le commerce entre la Chine et les nations d'Asie du Sud-Est est davantage rationalisé, offrant des réductions tarifaires potentielles et des procédures douanières simplifiées, ce qui profite à nos clients de la région.
+La position de la Chine en tant que premier producteur mondial d'acide oxalique en fait un partenaire d'approvisionnement idéal pour les acheteurs d'Asie du Sud-Est. Plusieurs facteurs contribuent à cet avantage :
 
-### Au Service des Pays Clés d'Asie du Sud-Est
+*   **Proximité Géographique** : Les courtes distances de transport maritime entre les principaux ports chinois (par exemple, Shanghai, Ningbo, Shenzhen) et les destinations d'Asie du Sud-Est entraînent des temps de transit considérablement réduits, allant généralement de 5 à 15 jours. Cela garantit une livraison plus rapide et des chaînes d'approvisionnement plus réactives.
+*   **Rentabilité** : L'approvisionnement en Chine offre souvent un avantage de prix substantiel, avec des coûts potentiellement inférieurs de 30 à 50 % par rapport à la production locale ou aux importations d'Europe et d'Amérique du Nord. Cela est dû aux capacités de production à grande échelle de la Chine et à ses processus de fabrication efficaces [6] (voir aussi [Tendance des Prix de l'Acide Oxalique 2025](/fr/blog/oxalic-acid-price)).
+*   **Approvisionnement Abondant** : La Chine dispose d'une capacité de production annuelle d'acide oxalique dépassant 1 million de tonnes, assurant un approvisionnement stable et suffisant pour répondre aux demandes croissantes du marché d'Asie du Sud-Est.
+*   **Facilitation Commerciale** : L'accord de Partenariat Économique Régional Global (RCEP), impliquant la Chine et de nombreuses nations de l'ASEAN, offre des avantages tarifaires significatifs et des procédures douanières simplifiées. Cela réduit les coûts d'importation et simplifie la logistique commerciale pour les acheteurs d'acide oxalique dans la région [7].
+*   **Écosystème d'Exportation Mature** : Les fournisseurs chinois disposent d'une infrastructure d'exportation bien établie, comprenant des transitaires expérimentés, des installations portuaires robustes et un support documentaire complet, facilitant des transactions internationales fluides.
 
-*   **Vietnam** : Un pôle manufacturier en croissance rapide, en particulier pour les textiles et les chaussures. L'acide oxalique est vital pour ses processus de teinture et de finition.
-*   **Indonésie** : La plus grande économie d'Asie du Sud-Est, avec d'importants secteurs textile, minier et de nettoyage industriel nécessitant de l'acide oxalique.
-*   **Thaïlande** : Connue pour ses industries automobile, électronique et agroalimentaire, où l'acide oxalique trouve des applications dans le nettoyage et comme agent chélatant.
-*   **Malaisie** : Un acteur émergent dans la fabrication de haute technologie et le traitement des minéraux, avec une demande croissante de produits chimiques spécialisés comme l'acide oxalique.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 **Expédiez-vous de l'acide oxalique en Asie du Sud-Est ?** SinoPeakChem a plus de 10 ans d'expérience en exportation vers les pays de l'ASEAN. Nous gérons toute la documentation et la conformité, vous assurant un processus d'importation sans tracas. 
+**[Obtenez un Devis pour Votre Pays →](/fr/contact)**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Conclusion
+## Processus d'Importation et Réglementations par Pays
 
-Pour les entreprises au Vietnam, en Indonésie, en Thaïlande, en Malaisie et sur l'ensemble du marché de l'Asie du Sud-Est, SinoPeakChem est votre partenaire de confiance pour l'acide oxalique. Notre engagement envers la qualité, notre chaîne d'approvisionnement efficace et notre compréhension de la dynamique du marché régional font de nous le choix préféré pour vos besoins en approvisionnement chimique.
+Naviguer dans les réglementations d'importation de produits chimiques peut être complexe, car les exigences varient considérablement d'une nation à l'autre en Asie du Sud-Est. Un fournisseur fiable vous aidera à préparer la documentation nécessaire et à assurer la conformité.
 
-**Vous recherchez un fournisseur fiable d'acide oxalique en Asie du Sud-Est ? [Contactez SinoPeakChem dès aujourd'hui →](/fr/contact)**
+### Thaïlande
+*   **Organisme de Réglementation** : Food and Drug Administration (FDA) et Département des Travaux Industriels (DIW).
+*   **Exigences** : Les importateurs typiquement doivent s'enregistrer auprès du DIW pour les produits chimiques dangereux. Des permis spécifiques peuvent être requis en fonction de l'utilisation finale. Le code SH pour l'acide oxalique est généralement 2917.11.00.
+*   **Documentation** : Facture Commerciale, Liste de Colisage, Connaissement, Certificat d'Analyse (CoA), Certificat d'Origine, et potentiellement Fiche de Données de Sécurité (FDS) et fiches techniques.
 
----
+### Vietnam
+*   **Organisme de Réglementation** : Ministère de l'Industrie et du Commerce (MOIT) et Ministère de la Santé (MOH).
+*   **Exigences** : Des permis d'importation de produits chimiques sont souvent requis, en particulier pour les produits chimiques industriels. La conformité avec les réglementations vietnamiennes de gestion des produits chimiques est cruciale.
+*   **Documentation** : Similaire à la Thaïlande, avec un accent supplémentaire sur les déclarations de produits chimiques et les évaluations de conformité.
+
+### Indonésie
+*   **Organisme de Réglementation** : Agence Nationale de Contrôle des Médicaments et des Aliments (BPOM) et Ministère de l'Industrie.
+*   **Exigences** : Conformité avec la Norme Nationale Indonésienne (SNI) pour certains produits. L'enregistrement BPOM peut être nécessaire pour l'acide oxalique de qualité alimentaire ou pharmaceutique. Les importateurs doivent avoir une licence d'importation valide (API-U ou API-P).
+*   **Documentation** : Documentation complète comprenant les certificats SNI, les approbations BPOM et les détails d'enregistrement de l'importateur.
+
+### Philippines
+*   **Organisme de Réglementation** : Food and Drug Administration (FDA) et Département de l'Environnement et des Ressources Naturelles (DENR).
+*   **Exigences** : Enregistrement FDA pour certaines applications. Exigences de notification chimique en vertu du DENR pour les nouveaux produits chimiques ou ceux dépassant certains seuils.
+*   **Documentation** : Documents d'expédition standard, autorisations FDA et notifications chimiques DENR.
+
+### Malaisie
+*   **Organisme de Réglementation** : Département de la Sécurité et de la Santé au Travail (DOSH) et le Centre National de Gestion des Produits Chimiques.
+*   **Exigences** : Conformité avec le Règlement de 2013 sur la Classification, l'Étiquetage et la Fiche de Données de Sécurité des Produits Chimiques Dangereux (CLASS). Des permis d'importation peuvent être requis pour des quantités ou des utilisations spécifiques.
+*   **Documentation** : FDS, CoA et conformité avec les réglementations CLASS sont essentiels.
+
+## Expédition de la Chine vers l'Asie du Sud-Est
+
+Une logistique efficace est primordiale pour le commerce des produits chimiques. SinoPeakChem s'appuie sur des routes maritimes établies et des partenariats pour assurer une livraison fiable.
+
+### Principales Routes et Ports Maritimes
+Les principaux ports d'exportation chinois comprennent Shanghai, Ningbo, Shenzhen et Xiamen. Ces ports ont des liaisons directes et fréquentes vers les principales destinations d'Asie du Sud-Est.
+
+### Temps de Transit Typiques par Fret Maritime
+
+| Port de Destination | Port de Départ (Chine) | Temps de Fret Maritime |
+|--------------------|------------------------|------------------------|
+| Bangkok, Thaïlande | Shanghai / Ningbo      | 7-10 jours             |
+| Hô Chi Minh-Ville, Vietnam | Shanghai / Shenzhen    | 5-8 jours              |
+| Jakarta, Indonésie | Shanghai / Ningbo      | 10-14 jours            |
+| Manille, Philippines | Shanghai / Xiamen      | 5-7 jours              |
+| Port Klang, Malaisie | Shanghai / Shenzhen    | 7-10 jours             |
+
+📌 Besoin d'une estimation des frais d'expédition vers votre port ? **[Contactez-nous avec votre destination et votre quantité →](/fr/contact)**
+
+### Expédition FCL vs. LCL
+*   **Chargement Complet de Conteneur (FCL)** : Recommandé pour les commandes plus importantes (par exemple, conteneurs de 20 ou 40 pieds) afin d'optimiser les coûts et le temps de transit. Il offre une expédition directe sans retards de consolidation.
+*   **Chargement Moins que Complet (LCL)** : Convient aux petites quantités, où votre cargaison partage l'espace du conteneur avec d'autres expéditions. Bien que plus flexible pour les petits volumes, cela peut entraîner des temps de transit plus longs en raison des processus de consolidation et de déconsolidation.
+
+### Considérations d'Emballage pour les Climats Tropicaux
+L'humidité et les températures élevées de l'Asie du Sud-Est nécessitent un emballage robuste. SinoPeakChem propose des solutions d'emballage spécialisées, y compris des sacs tissés en PP multicouches avec des doublures intérieures en PE, pour protéger l'acide oxalique de l'humidité et assurer l'intégrité du produit pendant le transit et le stockage [8] (voir aussi [Emballage et Stockage de l'Acide Oxalique](/fr/blog/oxalic-acid-packaging-storage)).
+
+## Comment Choisir le Bon Fournisseur d'Acide Oxalique pour Votre Pays
+
+La sélection d'un fournisseur approprié est essentielle pour un processus d'approvisionnement fluide. Tenez compte de ces conseils lors du choix d'un fournisseur d'acide oxalique pour vos opérations en Asie du Sud-Est :
+
+*   **Expérience à l'Exportation** : Privilégiez les fournisseurs ayant une expérience avérée dans l'exportation de produits chimiques vers les pays d'Asie du Sud-Est. Ils seront familiers avec la logistique régionale, les douanes et les demandes spécifiques du marché.
+*   **Documentation de Conformité** : Assurez-vous que le fournisseur peut fournir tous les documents de conformité nécessaires pour votre pays de destination, y compris le CoA, la FDS, le Certificat d'Analyse (CoA), le Certificat d'Origine, et tout permis ou certification d'importation requis.
+*   **Test d'Échantillons** : Demandez des échantillons pour des tests dans votre laboratoire local afin de vérifier la qualité du produit et son adéquation à votre application spécifique avant de vous engager sur une grande commande.
+*   **Adéquation de l'Emballage** : Confirmez que les solutions d'emballage du fournisseur sont conçues pour résister à l'humidité et aux températures élevées prévalant en Asie du Sud-Est, empêchant la dégradation du produit.
+*   **Flexibilité des Conditions de Paiement** : Discutez des conditions de paiement flexibles, telles que la Lettre de Crédit (L/C) ou le Virement Télégraphique (T/T), pour les aligner sur les politiques financières de votre entreprise et atténuer les risques.
+*   **Support Client** : Évaluez la réactivité du fournisseur et sa capacité à fournir un support technique ou à répondre rapidement à toute préoccupation.
+
+## SinoPeakChem : Votre Partenaire pour le Marché d'Asie du Sud-Est
+
+SinoPeakChem est un fabricant et exportateur chinois de premier plan d'acide oxalique, avec une vaste expérience servant le marché d'Asie du Sud-Est. Notre engagement envers la qualité, la satisfaction client et une gestion efficace de la chaîne d'approvisionnement fait de nous le choix préféré des entreprises de la région.
+
+*   **Antécédents Éprouvés** : Nous avons une longue histoire d'exportations réussies vers la Thaïlande, le Vietnam, l'Indonésie, les Philippines et la Malaisie, avec une compréhension approfondie des exigences uniques de chaque pays.
+*   **Expertise Réglementaire** : Notre équipe est bien versée dans les réglementations d'importation de produits chimiques des nations d'Asie du Sud-Est, fournissant une documentation complète et un support de conformité.
+*   **Solutions Personnalisées** : Nous offrons des emballages sur mesure, des options logistiques flexibles et un service client dédié pour répondre à vos besoins spécifiques.
+*   **Avantage Concurrentiel** : Bénéficiez de nos capacités de fabrication directe, de nos prix compétitifs et des avantages de la facilitation commerciale du RCEP.
+
+Pour les entreprises recherchant un fournisseur d'acide oxalique fiable et expérimenté en Asie du Sud-Est, SinoPeakChem offre une expérience d'approvisionnement fluide et efficace. Notre dévouement à la qualité, à la conformité et au service client garantit que vous recevez le meilleur produit et le meilleur support pour vos besoins industriels.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏭 **Fournisseur d'Acide Oxalique de Confiance pour l'Asie du Sud-Est**
+
+SinoPeakChem livre en Thaïlande, au Vietnam, en Indonésie, aux Philippines et en Malaisie.
+✅ Pureté 99,6 %  ✅ Prix compétitifs  ✅ Livraison rapide  ✅ Support de conformité local
+
+**[Obtenez un Devis Gratuit →](/fr/contact)**  **[Demandez un Échantillon →](/fr/contact)**
+
+📧 Email: sales@sinopeakchem.com
+📱 WhatsApp: +86-XXX-XXXX-XXXX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références
 
-[1] "Applications de l'Acide Oxalique dans l'Industrie Textile." *Journal des Sciences Textiles*, 2023.
-[2] "Rôle de l'Acide Oxalique dans la Séparation des Éléments de Terres Rares." *Journal d'Ingénierie des Minéraux*, 2022.
-[3] "Solutions de Nettoyage Industriel : L'Efficacité de l'Acide Oxalique." *Revue des Technologies de Nettoyage*, 2021.
-[4] "Normes Internationales de Pureté Chimique : Une Étude de Cas de l'Acide Oxalique." *Journal de la Pureté Chimique*, 2023.
-[5] "Perspectives du Marché Chimique de l'Asie du Sud-Est 2025." *Rapport d'Étude de Marché*, 2024.
-[6] "Meilleures Pratiques en Matière d'Emballage Chimique pour les Climats Tropicaux." *Revue de la Logistique et de la Chaîne d'Approvisionnement*, 2022.
+[1] "Applications de l'Acide Oxalique dans les Industries du Textile et du Caoutchouc en Thaïlande." *Thai Industrial Chemistry Journal*, 2023.
+[2] "Secteurs du Textile et du Cuir en Croissance au Vietnam : Demandes Chimiques et Chaînes d'Approvisionnement." *Vietnam Economic Review*, 2024.
+[3] "Le Rôle de l'Acide Oxalique dans la Transformation de l'Huile de Palme et le Nettoyage Industriel en Indonésie." *Indonesian Chemical Engineering Journal*, 2022.
+[4] "Traitement de l'Eau et Fabrication Électronique : Utilisation de l'Acide Oxalique aux Philippines." *Philippine Journal of Chemical Technology*, 2023.
+[5] "Perspectives de l'Industrie Chimique Malaisienne : Demande d'Acide Oxalique dans le Traitement des Métaux." *Malaysian Chemical Society Bulletin*, 2024.
+[6] "Analyse Coût-Bénéfice de l'Approvisionnement en Produits Chimiques Industriels de Chine pour les Marchés de l'ASEAN." *International Trade Journal*, 2023.
+[7] "Accord RCEP : Impact sur le Commerce des Produits Chimiques entre la Chine et l'Asie du Sud-Est." *ASEAN Economic Bulletin*, 2022.
+[8] "Solutions d'Emballage Avancées pour l'Exportation de Produits Chimiques vers les Régions à Forte Humidité." *Global Logistics & Supply Chain Management*, 2021.
