@@ -10,6 +10,38 @@ const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
 const BASE_URL = 'https://www.sinopeakchem.com';
 
+// Read CSS file for inlining
+const assetsDir = path.join(distDir, 'assets');
+let cssContent = '';
+if (fs.existsSync(assetsDir)) {
+  const cssFiles = fs.readdirSync(assetsDir).filter(f => f.endsWith('.css'));
+  if (cssFiles.length > 0) {
+    cssContent = fs.readFileSync(path.join(assetsDir, cssFiles[0]), 'utf-8');
+    console.log(`Read CSS content from ${cssFiles[0]} for inlining.`);
+  }
+}
+
+// Helper function to inject CSS at the very top of head
+function injectCSSAtHeadTop(html, cssContent) {
+  // Find the position right after <head> tag
+  const headOpenRegex = /<head[^>]*>/i;
+  const headMatch = html.match(headOpenRegex);
+  
+  if (headMatch) {
+    const headEndPos = headMatch.index + headMatch[0].length;
+    const styleTag = `\n    <style>\n${cssContent}\n    </style>`;
+    
+    // Insert CSS right after <head> tag
+    const newHtml = html.slice(0, headEndPos) + styleTag + html.slice(headEndPos);
+    
+    // Remove the old CSS link tag if it exists
+    const cssRegex = /<link rel="stylesheet" [^>]*href="\/assets\/[^>]*\.css"[^>]*>/i;
+    return newHtml.replace(cssRegex, '');
+  }
+  
+  return html;
+}
+
 console.log(`Starting advanced content injection for ${routes.length} routes...`);
 
 const contentMetadata = {
@@ -339,6 +371,22 @@ routes.forEach(route => {
     }
 
     html = html.replace(/<html lang="en">/i, `<html lang="${locale}">`);
+
+    // Inline CSS at the very top of head and optimize performance
+    if (cssContent) {
+      html = injectCSSAtHeadTop(html, cssContent);
+      
+      // Move JS to the bottom to prevent render blocking
+      const jsRegex = /<script type="module" crossorigin src="\/assets\/[^>]*\.js"><\/script>/i;
+      const jsMatch = html.match(jsRegex);
+      if (jsMatch) {
+        const jsTag = jsMatch[0];
+        html = html.replace(jsTag, ''); // Remove from head
+        html = html.replace('</body>', `  ${jsTag}\n  </body>`); // Add to bottom
+      }
+      
+      console.log(`Inlined CSS at top of head and optimized: ${route}`);
+    }
 
     fs.writeFileSync(targetFile, html);
     console.log(`Injected advanced SEO into: ${route} (Title: ${title})`);
