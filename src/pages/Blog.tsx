@@ -11,12 +11,11 @@ export default function BlogPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
+  const isEs = location.pathname.startsWith("/es");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
   
-  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : 'en'));
-  const [currentPage, setCurrentPage] = useState(1);
-
-  const sorted = useMemo(() => {
+  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en')));
+  const [currentPage = 1, setCurrentPage] = useState(1);const sorted = useMemo(() => {
     return [...markdownPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   }, [markdownPosts]);
 
@@ -46,8 +45,8 @@ export default function BlogPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
-    name: isRu ? "Блог Sinopeakchem - Новости химической промышленности" : (isFr ? "Blog Sinopeakchem - Actualités de l'Industrie Chimique" : "Sinopeakchem Blog - Chemical Industry Insights"),
-    description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : (isFr ? "Actualités de l'industrie, guides de produits et articles techniques sur les produits chimiques industriels." : "Industry news, product guides, and technical articles about industrial chemicals."),
+    name: isRu ? "Блог Sinopeakchem - Новости химической промышленности" : (isFr ? "Blog Sinopeakchem - Actualités de l'Industrie Chimique" : (isEs ? "Blog Sinopeakchem - Perspectivas de la Industria Química" : "Sinopeakchem Blog - Chemical Industry Insights")),
+    description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : (isFr ? "Actualités de l'industrie, guides de produits et articles techniques sur les produits chimiques industriels." : (isEs ? "Noticias de la industria, guías de productos y artículos técnicos sobre productos químicos industriales." : "Industry news, product guides, and technical articles about industrial chemicals.")),
     url: `https://sinopeakchem.com${langPrefix}/blog`,
     publisher: { "@type": "Organization", name: "Sinopeakchem" },
     blogPost: sorted.map((post) => ({
@@ -77,6 +76,15 @@ export default function BlogPage() {
     prev: "Précédent",
     next: "Suivant",
     page: "Page",
+  } : isEs ? {
+    title: "Blog - Perspectivas de la Industria Química y Guías de Productos",
+    description: "Lea las últimas noticias de la industria, guías de productos y artículos técnicos sobre productos químicos industriales del equipo de expertos de Sinopeakchem.",
+    heroTitle: "Blog",
+    heroDesc: "Perspectivas de la industria, guías de productos y artículos técnicos de nuestro equipo de expertos.",
+    readMore: "Leer más",
+    prev: "Anterior",
+    next: "Siguiente",
+    page: "Página",
   } : {
     title: "Blog - Chemical Industry Insights and Product Guides",
     description: "Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.",
@@ -124,7 +132,7 @@ export default function BlogPage() {
                 <div className="p-6 md:p-8 flex flex-col justify-center">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{featuredPost.category}</span>
-                    <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(featuredPost.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : "en-US"), { month: "long", day: "numeric", year: "numeric" })}</span>
+                    <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(featuredPost.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "long", day: "numeric", year: "numeric" })}</span>
                   </div>
                   <h2 className="text-xl md:text-2xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors">{featuredPost.title}</h2>
                   <p className="text-gray-600 mb-4 line-clamp-3">{featuredPost.excerpt}</p>
@@ -148,7 +156,7 @@ export default function BlogPage() {
                 <div className="p-5">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : "en-US"), { month: "short", day: "numeric", year: "numeric" })}</span>
+                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "short", day: "numeric", year: "numeric" })}</span>
                   </div>
                   <h2 className="text-base font-semibold text-[#1A1A2E] mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-2">{post.title}</h2>
                   <p className="text-sm text-gray-600 line-clamp-2">{post.excerpt}</p>

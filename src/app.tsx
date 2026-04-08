@@ -58,6 +58,17 @@ const App = () => (
           <Route path="/fr/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/fr/terms-of-service" element={<TermsOfService />} />
 
+          {/* Spanish routes */}
+          <Route path="/es" element={<Index />} />
+          <Route path="/es/products" element={<Products />} />
+          <Route path="/es/products/:slug" element={<ProductDetail />} />
+          <Route path="/es/about" element={<About />} />
+          <Route path="/es/blog" element={<Blog />} />
+          <Route path="/es/blog/:slug" element={<BlogDetail />} />
+          <Route path="/es/contact" element={<Contact />} />
+          <Route path="/es/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/es/terms-of-service" element={<TermsOfService />} />
+
           {/* 404 */}
           <Route path="*" element={<NotFound />} />
         </Routes>
