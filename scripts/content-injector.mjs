@@ -10,33 +10,41 @@ const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
 const BASE_URL = 'https://www.sinopeakchem.com';
 
-// Read CSS file for inlining
+// Find the main CSS file
 const assetsDir = path.join(distDir, 'assets');
-let cssContent = '';
+let cssFileName = '';
 if (fs.existsSync(assetsDir)) {
   const cssFiles = fs.readdirSync(assetsDir).filter(f => f.endsWith('.css'));
   if (cssFiles.length > 0) {
-    cssContent = fs.readFileSync(path.join(assetsDir, cssFiles[0]), 'utf-8');
-    console.log(`Read CSS content from ${cssFiles[0]} for inlining.`);
+    // Usually the largest one or the one starting with 'index' is the main one
+    cssFileName = cssFiles.sort((a, b) => 
+      fs.statSync(path.join(assetsDir, b)).size - fs.statSync(path.join(assetsDir, a)).size
+    )[0];
+    console.log(`Identified main CSS file: ${cssFileName}`);
   }
 }
 
-// Helper function to inject CSS at the very top of head
-function injectCSSAtHeadTop(html, cssContent) {
+// Helper function to ensure CSS link is at the very top of head
+function injectCSSLinkAtHeadTop(html, cssFileName) {
   // Find the position right after <head> tag
   const headOpenRegex = /<head[^>]*>/i;
   const headMatch = html.match(headOpenRegex);
   
   if (headMatch) {
     const headEndPos = headMatch.index + headMatch[0].length;
-    const styleTag = `\n    <style>\n${cssContent}\n    </style>`;
+    const cssLinkTag = `\n    <link rel="stylesheet" crossorigin href="/assets/${cssFileName}">`;
     
-    // Insert CSS right after <head> tag
-    const newHtml = html.slice(0, headEndPos) + styleTag + html.slice(headEndPos);
+    // Check if the link already exists to avoid duplicates
+    const existingLinkRegex = new RegExp(`<link[^>]*href="\\/assets\\/${cssFileName.replace('.', '\\.')}"[^>]*>`, 'i');
+    let newHtml = html;
+    if (!existingLinkRegex.test(html)) {
+      // Insert CSS link right after <head> tag
+      newHtml = html.slice(0, headEndPos) + cssLinkTag + html.slice(headEndPos);
+    }
     
-    // Remove the old CSS link tag if it exists
-    const cssRegex = /<link rel="stylesheet" [^>]*href="\/assets\/[^>]*\.css"[^>]*>/i;
-    return newHtml.replace(cssRegex, '');
+    // Ensure no other (possibly broken) CSS links exist
+    const otherCssRegex = new RegExp(`<link rel="stylesheet" [^>]*href="\\/assets\\/(?!${cssFileName.replace('.', '\\.')})[^>]*\\.css"[^>]*>`, 'gi');
+    return newHtml.replace(otherCssRegex, '');
   }
   
   return html;
@@ -372,20 +380,23 @@ routes.forEach(route => {
 
     html = html.replace(/<html lang="en">/i, `<html lang="${locale}">`);
 
-    // Inline CSS at the very top of head and optimize performance
-    if (cssContent) {
-      html = injectCSSAtHeadTop(html, cssContent);
+    // Inject CSS link at the very top of head and optimize performance
+    if (cssFileName) {
+      html = injectCSSLinkAtHeadTop(html, cssFileName);
       
       // Move JS to the bottom to prevent render blocking
       const jsRegex = /<script type="module" crossorigin src="\/assets\/[^>]*\.js"><\/script>/i;
       const jsMatch = html.match(jsRegex);
       if (jsMatch) {
         const jsTag = jsMatch[0];
-        html = html.replace(jsTag, ''); // Remove from head
-        html = html.replace('</body>', `  ${jsTag}\n  </body>`); // Add to bottom
+        // Ensure it's not already at the bottom to avoid duplicates
+        if (!html.includes(`  ${jsTag}\n  </body>`)) {
+          html = html.replace(jsTag, ''); // Remove from head
+          html = html.replace('</body>', `  ${jsTag}\n  </body>`); // Add to bottom
+        }
       }
       
-      console.log(`Inlined CSS at top of head and optimized: ${route}`);
+      console.log(`Injected CSS link at top of head and optimized: ${route}`);
     }
 
     fs.writeFileSync(targetFile, html);
