@@ -7,7 +7,7 @@ date: "2026-04-24"
 author: "Sinopeakchem Technical Team"
 category: "Sécurité et Manipulation"
 tags: ["dilution acide oxalique", "sécurité chimique", "calcul concentration", "guide manipulation", "EPI", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-dilution-guide-opt.webp"
+image: "/images/blog/oxalic-acid-dilution-guide.webp"
 imageAlt: "Une image professionnelle et claire représentant la dilution sécurisée de l'acide oxalique. Montrez une personne portant un EPI approprié (gants, lunettes de sécurité) versant soigneusement une solution concentrée dans de l'eau, avec de la verrerie de laboratoire (béchers, fioles jaugées) et une calculatrice ou une formule de concentration visible en arrière-plan. Mettez l'accent sur la sécurité et la précision."
 ---
 

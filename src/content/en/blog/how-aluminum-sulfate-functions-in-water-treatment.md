@@ -7,7 +7,7 @@ date: "2026-04-04"
 author: "Sinopeakchem"
 category: "Water Treatment"
 tags: ["aluminum sulfate", "water treatment", "coagulation", "flocculation"]
-image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment-opt.webp"
+image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp"
 imageAlt: "Aluminum Sulfate used in water treatment process"
 ---
 

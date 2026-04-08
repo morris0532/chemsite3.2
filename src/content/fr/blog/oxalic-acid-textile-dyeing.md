@@ -7,7 +7,7 @@ date: "2026-04-11"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique textile", "teinture textile", "impression textile", "traitement des fibres", "produits chimiques industriels", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-textile-dyeing-opt.webp"
+image: "/images/blog/oxalic-acid-textile-dyeing.webp"
 imageAlt: "Une usine de teinture et d'impression textile vibrante, présentant des tissus colorés en cours de traitement et des machines industrielles."
 ---
 

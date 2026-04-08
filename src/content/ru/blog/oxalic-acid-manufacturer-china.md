@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Аналитика Отрасли"
 tags: ["производитель щавелевой кислоты Китай", "экспортер щавелевой кислоты", "контроль качества химикатов", "регистрация REACH", "глобальная логистика", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-manufacturer-china-opt.webp"
+image: "/images/blog/oxalic-acid-manufacturer-china.webp"
 imageAlt: "Современное химическое производственное предприятие в Китае с элементами контроля качества, сертификации и глобальной логистики, включая грузовое судно и карту мира."
 ---
 

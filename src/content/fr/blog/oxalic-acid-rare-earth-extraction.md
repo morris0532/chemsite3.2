@@ -7,7 +7,7 @@ date: "2026-04-12"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique terres rares", "extraction terres rares", "séparation terres rares", "purification terres rares", "chimie industrielle", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rare-earth-extraction-opt.webp"
+image: "/images/blog/oxalic-acid-rare-earth-extraction.webp"
 imageAlt: "Un laboratoire sophistiqué axé sur l'extraction des éléments de terres rares, avec des équipements spécialisés et des solutions colorées."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Safety & Compliance"
 tags: ["oxalic acid safety", "chemical handling", "PPE", "chemical storage", "first aid chemicals", "waste disposal", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-safety-handling-opt.webp"
+image: "/images/blog/oxalic-acid-safety-handling.webp"
 imageAlt: "A person wearing appropriate PPE (goggles, gloves, lab coat) handling chemicals in a laboratory, emphasizing safety."
 ---
 

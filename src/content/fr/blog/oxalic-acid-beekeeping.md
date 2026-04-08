@@ -7,7 +7,7 @@ date: "2026-04-16"
 author: "Sinopeakchem Technical Team"
 category: "Applications Apicoles"
 tags: ["acide oxalique apiculture", "traitement varroa", "lutte antiparasitaire ruche", "acide oxalique pour abeilles", "sécurité apiculture", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-beekeeping-opt.webp"
+image: "/images/blog/oxalic-acid-beekeeping.webp"
 imageAlt: "Une image professionnelle et claire d'un apiculteur en tenue de protection appliquant soigneusement un traitement à l'acide oxalique à une ruche."
 ---
 

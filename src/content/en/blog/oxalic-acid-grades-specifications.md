@@ -7,7 +7,7 @@ date: "2026-04-15"
 author: "Sinopeakchem Technical Team"
 category: "Product Information"
 tags: ["oxalic acid grades", "oxalic acid specifications", "industrial grade oxalic acid", "food grade oxalic acid", "pharmaceutical grade oxalic acid", "oxalic acid purity", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-grades-specifications-opt.webp"
+image: "/images/blog/oxalic-acid-grades-specifications.webp"
 imageAlt: "A professional laboratory setting with beakers containing different grades of oxalic acid samples and a Certificate of Analysis."
 ---
 

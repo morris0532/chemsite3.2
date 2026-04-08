@@ -7,7 +7,7 @@ date: "2026-05-06"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid North America", "oxalic acid USA", "oxalic acid Canada", "oxalic acid Mexico", "chemical supplier", "industrial cleaning", "wood treatment", "chemical manufacturing"]
-image: "/images/blog/oxalic-acid-supplier-north-america-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-north-america.webp"
 imageAlt: "A professional and clear image depicting a map of North America, highlighting countries like USA, Canada, and Mexico, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution."
 ---
 

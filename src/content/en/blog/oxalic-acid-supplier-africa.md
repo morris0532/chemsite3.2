@@ -7,7 +7,7 @@ date: "2026-05-03"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Africa", "South Africa oxalic acid", "Egypt oxalic acid", "Nigeria oxalic acid", "chemical supplier", "mining extraction", "water treatment", "industrial cleaning"]
-image: "/images/blog/oxalic-acid-supplier-africa-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-africa.webp"
 imageAlt: "A professional and clear image depicting a map of Africa, highlighting countries like South Africa, Egypt, and Nigeria, with subtle overlays of chemical trade routes, mining operations, or industrial facilities. Emphasize the region's economic significance and chemical import/export. High quality, 4k resolution."
 ---
 

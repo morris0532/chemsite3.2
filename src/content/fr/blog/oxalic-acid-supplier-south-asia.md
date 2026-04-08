@@ -7,7 +7,7 @@ date: "2026-05-07"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Asie du Sud", "acide oxalique Inde", "acide oxalique Pakistan", "acide oxalique Bangladesh", "fournisseur de produits chimiques", "teinture textile", "industrie du cuir", "fabrication de produits chimiques"]
-image: "/images/blog/oxalic-acid-supplier-south-asia-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-south-asia.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Asie du Sud, mettant en évidence des pays comme l'Inde, le Pakistan et le Bangladesh, avec des superpositions subtiles de routes commerciales chimiques, de paysages industriels ou d'activités portuaires. Soulignez l'importance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

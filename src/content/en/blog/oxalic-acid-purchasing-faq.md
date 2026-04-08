@@ -7,7 +7,7 @@ date: "2026-04-30"
 author: "Sinopeakchem Sales Team"
 category: "Purchasing Guide"
 tags: ["oxalic acid bulk", "oxalic acid purchase", "FAQ", "chemical procurement", "supplier selection", "packaging", "shipping", "payment terms", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-purchasing-faq-opt.webp"
+image: "/images/blog/oxalic-acid-purchasing-faq.webp"
 imageAlt: "A professional and clear image depicting a FAQ concept, purchasing process, or bulk chemical bags. Show elements like question marks, a checklist, a calculator, or neatly stacked industrial bags. Emphasize clarity, efficiency, and bulk purchasing. High quality, 4k resolution."
 ---
 

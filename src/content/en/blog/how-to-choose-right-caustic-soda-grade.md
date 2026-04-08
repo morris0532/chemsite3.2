@@ -7,7 +7,7 @@ date: "2026-03-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["caustic soda","sodium hydroxide","industrial grades"]
-image: "/images/blog/how-to-choose-right-caustic-soda-grade-opt.webp"
+image: "/images/blog/how-to-choose-right-caustic-soda-grade.webp"
 imageAlt: "Different grades of Caustic Soda pearls and flakes"
 ---
 

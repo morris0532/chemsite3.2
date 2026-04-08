@@ -7,7 +7,7 @@ date: "2026-03-10"
 author: "Équipe Technique Sinopeakchem"
 category: "Guide Produit"
 tags: ["soude caustique","hydroxyde de sodium","qualités industrielles"]
-image: "/images/blog/how-to-choose-right-caustic-soda-grade-opt.webp"
+image: "/images/blog/how-to-choose-right-caustic-soda-grade.webp"
 imageAlt: "Different grades of Caustic Soda pearls and flakes"
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-19"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Nettoyage"
 tags: ["acide oxalique nettoyage", "acide oxalique détartrage", "nettoyage domestique", "nettoyage industriel", "détachant rouille", "détartrant calcaire", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-cleaning-descaling-opt.webp"
+image: "/images/blog/oxalic-acid-cleaning-descaling.webp"
 imageAlt: "Une image propre et professionnelle représentant à la fois le nettoyage domestique (par exemple, un robinet de salle de bain étincelant) et le détartrage industriel (par exemple, un tuyau propre ou un équipement industriel)."
 ---
 

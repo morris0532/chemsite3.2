@@ -7,7 +7,7 @@ date: "2026-04-09"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid marble polishing", "stone care", "marble restoration", "stone cleaning", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-marble-polishing-opt.webp"
+image: "/images/blog/oxalic-acid-marble-polishing.webp"
 imageAlt: "A close-up of a highly polished marble surface, reflecting light, with a subtle hint of the polishing process."
 ---
 

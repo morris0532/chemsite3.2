@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid uses", "oxalic acid applications", "industrial chemicals", "rust removal", "wood bleaching", "rare earth extraction", "pharmaceuticals", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-uses-opt.webp"
+image: "/images/blog/oxalic-acid-uses.webp"
 imageAlt: "Diverse industrial applications of oxalic acid, showing various processes like rust removal, wood treatment, and chemical synthesis."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Guide d'Approvisionnement"
 tags: ["acheter acide oxalique en gros", "acide oxalique en gros", "MOQ", "emballage", "expédition", "achat en gros", "Sinopeakchem"]
-image: "/images/blog/buy-oxalic-acid-bulk-opt.webp"
+image: "/images/blog/buy-oxalic-acid-bulk.webp"
 imageAlt: "Image de logistique industrielle montrant diverses tailles d'emballage de produits chimiques avec un navire cargo et des conteneurs d'expédition en arrière-plan."
 ---
 

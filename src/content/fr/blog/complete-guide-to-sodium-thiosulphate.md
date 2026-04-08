@@ -7,7 +7,7 @@ date: "2026-04-05"
 author: "Sinopeakchem"
 category: "Industrial Chemicals"
 tags: ["thiosulfate de sodium", "Na2S2O3", "utilisations industrielles"]
-image: "/images/blog/complete-guide-to-sodium-thiosulphate-opt.webp"
+image: "/images/blog/complete-guide-to-sodium-thiosulphate.webp"
 imageAlt: "Sodium Thiosulphate crystals for industrial use"
 ---
 

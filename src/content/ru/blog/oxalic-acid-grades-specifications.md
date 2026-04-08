@@ -7,7 +7,7 @@ date: "2026-04-15"
 author: "Sinopeakchem Technical Team"
 category: "Информация о Продукте"
 tags: ["марки щавелевой кислоты", "спецификации щавелевой кислоты", "промышленная щавелевая кислота", "пищевая щавелевая кислота", "фармацевтическая щавелевая кислота", "чистота щавелевой кислоты", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-grades-specifications-opt.webp"
+image: "/images/blog/oxalic-acid-grades-specifications.webp"
 imageAlt: "Профессиональная лабораторная обстановка с мензурками, содержащими образцы щавелевой кислоты различных марок, и сертификатом анализа."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-23"
 author: "Sinopeakchem Technical Team"
 category: "Applications Pharmaceutiques"
 tags: ["acide oxalique", "intermédiaires pharmaceutiques", "synthèse de médicaments", "réactif chimique", "synthèse organique", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-pharmaceutical-intermediates-opt.webp"
+image: "/images/blog/oxalic-acid-pharmaceutical-intermediates.webp"
 imageAlt: "Une image professionnelle et propre représentant un laboratoire pharmaceutique, avec de la verrerie, des composés chimiques et un accent sur la synthèse ou l'analyse des intermédiaires pharmaceutiques. Mettez en évidence la précision et l'environnement stérile."
 ---
 

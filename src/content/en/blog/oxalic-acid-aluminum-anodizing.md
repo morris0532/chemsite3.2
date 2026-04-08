@@ -7,7 +7,7 @@ date: "2026-04-21"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid anodizing", "aluminum anodizing", "anodizing process", "corrosion resistance", "surface treatment", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-aluminum-anodizing-opt.webp"
+image: "/images/blog/oxalic-acid-aluminum-anodizing.webp"
 imageAlt: "A professional and clean image depicting the aluminum anodizing process. Show aluminum parts submerged in an electrolytic bath, or a close-up of beautifully anodized aluminum products with vibrant colors."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-04-09"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique polissage marbre", "entretien pierre", "restauration marbre", "nettoyage pierre", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-marble-polishing-opt.webp"
+image: "/images/blog/oxalic-acid-marble-polishing.webp"
 imageAlt: "Un gros plan d'une surface de marbre très polie, reflétant la lumière, avec un léger indice du processus de polissage."
 ---
 

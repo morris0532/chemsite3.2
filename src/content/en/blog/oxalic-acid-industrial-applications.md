@@ -7,7 +7,7 @@ date: "2026-02-20"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["oxalic acid","rust removal","industrial chemicals","safety"]
-image: "/images/blog/oxalic-acid-industrial-applications-opt.webp"
+image: "/images/blog/oxalic-acid-industrial-applications.webp"
 imageAlt: "Oxalic Acid used for industrial rust removal and cleaning"
 ---
 

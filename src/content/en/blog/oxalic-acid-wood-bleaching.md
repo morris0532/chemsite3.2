@@ -7,7 +7,7 @@ date: "2026-04-08"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid wood bleaching", "wood cleaner", "tannin stain remover", "water stain remover", "wood restoration", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-wood-bleaching-opt.webp"
+image: "/images/blog/oxalic-acid-wood-bleaching.webp"
 imageAlt: "A split image showing a wooden surface before and after treatment with oxalic acid, demonstrating effective bleaching and cleaning."
 ---
 

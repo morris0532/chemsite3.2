@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Guide d'Achat"
 tags: ["fournisseur d'acide oxalique", "fabricant d'acide oxalique Chine", "approvisionnement chimique", "fournisseur fiable", "acide oxalique en vrac", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-china-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-china.webp"
 imageAlt: "Entrepôt industriel d'acide oxalique et logistique d'expédition, représentant une chaîne d'approvisionnement fiable en provenance de Chine."
 ---
 

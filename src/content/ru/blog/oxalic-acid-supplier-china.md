@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Руководство по закупкам"
 tags: ["поставщик щавелевой кислоты", "производитель щавелевой кислоты Китай", "закупка химикатов", "надежный поставщик", "щавелевая кислота оптом", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-china-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-china.webp"
 imageAlt: "Промышленный склад щавелевой кислоты и логистика отгрузки, представляющая надежную цепочку поставок из Китая."
 ---
 

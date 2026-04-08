@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Sinopeakchem Technical Team"
 category: "Applications Spécialisées"
 tags: ["acide oxalique photographie", "impressions platine palladium", "chimie photographique", "solutions de virage", "gravure", "photographie historique", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-photography-opt.webp"
+image: "/images/blog/oxalic-acid-photography.webp"
 imageAlt: "Une scène de chambre noire photographique vintage, avec du vieux matériel photographique, des bacs de développement et des tirages, transmettant à la fois l'usage historique et la pertinence moderne en chimie photographique."
 ---
 

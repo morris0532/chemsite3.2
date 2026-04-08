@@ -7,7 +7,7 @@ date: "2026-04-17"
 author: "Sinopeakchem Technical Team"
 category: "Применение в Водоподготовке"
 tags: ["щавелевая кислота водоподготовка", "удаление железа из воды", "удаление марганца из воды", "химикаты для очистки воды", "промышленная водоподготовка", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-water-treatment-opt.webp"
+image: "/images/blog/oxalic-acid-water-treatment.webp"
 imageAlt: "Профессиональное и чистое изображение современного водоочистного сооружения с чистой водой, проходящей через системы фильтрации."
 ---
 

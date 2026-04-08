@@ -7,7 +7,7 @@ date: "2026-05-03"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Afrique", "acide oxalique Afrique du Sud", "acide oxalique Égypte", "acide oxalique Nigeria", "fournisseur de produits chimiques", "extraction minière", "traitement de l'eau", "nettoyage industriel"]
-image: "/images/blog/oxalic-acid-supplier-africa-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-africa.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Afrique, mettant en évidence des pays comme l'Afrique du Sud, l'Égypte et le Nigeria, avec des superpositions subtiles de routes commerciales chimiques, d'opérations minières ou d'installations industrielles. Soulignez l'importance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

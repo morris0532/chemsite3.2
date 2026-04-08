@@ -7,7 +7,7 @@ date: "2026-04-23"
 author: "Sinopeakchem Technical Team"
 category: "Pharmaceutical Applications"
 tags: ["oxalic acid", "pharmaceutical intermediates", "drug synthesis", "chemical reagent", "organic synthesis", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-pharmaceutical-intermediates-opt.webp"
+image: "/images/blog/oxalic-acid-pharmaceutical-intermediates.webp"
 imageAlt: "A professional and clean image depicting a pharmaceutical laboratory setting, with glassware, chemical compounds, and a focus on the synthesis or analysis of pharmaceutical intermediates. Highlight the precision and sterile environment."
 ---
 

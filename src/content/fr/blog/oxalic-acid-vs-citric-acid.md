@@ -7,7 +7,7 @@ date: "2026-04-22"
 author: "Sinopeakchem Technical Team"
 category: "Comparaisons Chimiques"
 tags: ["acide oxalique", "acide citrique", "comparaison chimique", "détachant rouille", "additif alimentaire", "agents nettoyants", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-citric-acid-opt.webp"
+image: "/images/blog/oxalic-acid-vs-citric-acid.webp"
 imageAlt: "Une image comparative professionnelle et claire. D'un côté, représentez l'acide oxalique avec sa structure chimique (C2H2O4) et ses applications industrielles/de nettoyage (par exemple, élimination de la rouille, blanchiment du bois). De l'autre côté, représentez l'acide citrique avec sa structure chimique (C6H8O7) et ses applications alimentaires/boissons/cosmétiques (par exemple, citron, fruits). Utilisez un séparateur visuel clair ou un élément 'versus'."
 ---
 

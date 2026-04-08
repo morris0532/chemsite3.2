@@ -7,7 +7,7 @@ date: "2026-04-17"
 author: "Sinopeakchem Technical Team"
 category: "Water Treatment Applications"
 tags: ["oxalic acid water treatment", "iron removal water", "manganese removal water", "water purification chemicals", "industrial water treatment", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-water-treatment-opt.webp"
+image: "/images/blog/oxalic-acid-water-treatment.webp"
 imageAlt: "A professional and clean image of a modern water treatment facility, with clear water flowing through filtration systems."
 ---
 

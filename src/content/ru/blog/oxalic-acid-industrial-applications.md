@@ -7,7 +7,7 @@ date: "2026-02-20"
 author: "Sinopeakchem Technical Team"
 category: "Руководство по продукту"
 tags: ["щавелевая кислота","удаление ржавчины","промышленные химикаты","безопасность"]
-image: "/images/blog/oxalic-acid-industrial-applications-opt.webp"
+image: "/images/blog/oxalic-acid-industrial-applications.webp"
 imageAlt: "Oxalic Acid used for industrial rust removal and cleaning"
 ---
 

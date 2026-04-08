@@ -7,7 +7,7 @@ date: "2026-05-01"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Southeast Asia", "oxalic acid Thailand", "oxalic acid Vietnam", "oxalic acid Indonesia", "oxalic acid Philippines", "oxalic acid Malaysia", "buy oxalic acid Southeast Asia", "oxalic acid import ASEAN", "chemical supplier China", "RCEP trade", "textile industry", "rare earth extraction"]
-image: "/images/blog/oxalic-acid-supplier-southeast-asia-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-southeast-asia.webp"
 imageAlt: "A professional and clear image depicting a map of Southeast Asia, highlighting countries like Thailand, Vietnam, and Indonesia, with subtle overlays of chemical trade routes, industrial facilities, or port activities. Emphasize the region's economic growth and chemical import/export. High quality, 4k resolution."
 ---
 

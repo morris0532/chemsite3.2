@@ -7,7 +7,7 @@ date: "2026-04-27"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique", "prétraitement métallique", "résistance à la corrosion", "préparation de surface", "nettoyage des métaux", "passivation", "adhérence", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-metal-pre-treatment-opt.webp"
+image: "/images/blog/oxalic-acid-metal-pre-treatment.webp"
 imageAlt: "Une image industrielle professionnelle et propre représentant le prétraitement des surfaces métalliques. Montrez des pièces métalliques subissant un nettoyage, un dégraissage ou un processus de bain chimique. Mettez l'accent sur la préparation des surfaces pour le revêtement ou la peinture, avec un accent sur la précision et l'application industrielle. Haute qualité, résolution 4k."
 ---
 

@@ -7,7 +7,7 @@ date: "2026-05-04"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Amérique du Sud", "acide oxalique Brésil", "acide oxalique Chili", "acide oxalique Colombie", "fournisseur de produits chimiques", "produits chimiques agricoles", "tannage du cuir", "industrie minière"]
-image: "/images/blog/oxalic-acid-supplier-south-america-opt.webp"
+image: "/images/blog/oxalic-acid-supplier-south-america.webp"
 imageAlt: "Une image professionnelle et claire représentant une carte de l'Amérique du Sud, mettant en évidence des pays comme le Brésil, le Chili et la Colombie, avec des superpositions subtiles de routes commerciales chimiques, de paysages agricoles ou d'installations industrielles. Soulignez l'importance économique de la région et l'import/export de produits chimiques. Haute qualité, résolution 4k."
 ---
 

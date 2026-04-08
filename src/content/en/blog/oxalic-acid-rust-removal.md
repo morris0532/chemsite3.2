@@ -7,7 +7,7 @@ date: "2026-04-07"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid rust removal", "rust remover", "metal cleaning", "chemical rust removal", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rust-removal-opt.webp"
+image: "/images/blog/oxalic-acid-rust-removal.webp"
 imageAlt: "An illustrative image showing a rusted metal object partially submerged in an oxalic acid solution, with a clear distinction between the rusted and cleaned parts."
 ---
 

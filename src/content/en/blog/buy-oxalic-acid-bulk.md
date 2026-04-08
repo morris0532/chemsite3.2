@@ -7,7 +7,7 @@ date: "2026-04-06"
 author: "Sinopeakchem Technical Team"
 category: "Procurement Guide"
 tags: ["buy oxalic acid bulk", "wholesale oxalic acid", "MOQ", "packaging", "shipping", "bulk purchase", "Sinopeakchem"]
-image: "/images/blog/buy-oxalic-acid-bulk-opt.webp"
+image: "/images/blog/buy-oxalic-acid-bulk.webp"
 imageAlt: "Industrial logistics image showing various packaging sizes of chemical products with a cargo ship and shipping containers in the background."
 ---
 
