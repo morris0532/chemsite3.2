@@ -1,3 +1,4 @@
+---
 id: "12"
 name: "Sulfato de Amonio"
 nameCn: "硫酸铵"
