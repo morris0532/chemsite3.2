@@ -1,3 +1,4 @@
+---
 id: "4"
 slug: "oxalic-acid-price"
 title: "Tendencia del Precio del Ácido Oxálico 2025: Factores que Afectan el Costo"
