@@ -1,3 +1,4 @@
+---
 id: "6"
 name: "Sulfato de Sodio Anhidro (SSA)"
 nameCn: "元明粉"
