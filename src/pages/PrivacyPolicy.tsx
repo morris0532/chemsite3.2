@@ -156,7 +156,7 @@ const PrivacyPolicy = () => {
       }
     ]
   })
-
+)
   return (
     <Layout title={content.title}>
       <div className="container mx-auto px-4 py-24 max-w-4xl">
