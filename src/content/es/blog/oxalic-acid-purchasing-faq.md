@@ -1,3 +1,4 @@
+---
 id: "30"
 slug: "oxalic-acid-purchasing-faq"
 title: "Preguntas Frecuentes sobre la Compra de Ácido Oxálico para Compradores al Por Mayor"
