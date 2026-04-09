@@ -1,3 +1,4 @@
+---
 id: "28"
 slug: "oxalic-acid-market-analysis"
 title: "Análisis del Mercado Global del Ácido Oxálico: Principales Productores y Flujos Comerciales"
