@@ -1,3 +1,4 @@
+---
 id: "29"
 slug: "oxalic-acid-analytical-chemistry"
 title: "Ácido Oxálico en la Química Analítica de Laboratorio: Reactivo Esencial"
