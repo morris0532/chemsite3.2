@@ -1,3 +1,4 @@
+---
 id: "38"
 slug: "oxalic-acid-supplier-central-asia"
 title: "Proveedor de Ácido Oxálico para el Mercado de Asia Central: Kazajistán y Uzbekistán"
