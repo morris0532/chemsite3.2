@@ -1,5 +1,5 @@
 ---
-id: "22"
+id: "asd5as5d22"
 slug: "oxalic-acid-vs-citric-acid"
 title: "Acide Oxalique vs Acide Citrique : Une Analyse Comparative"
 excerpt: "Une analyse comparative de l'acide oxalique et de l'acide citrique, mettant en évidence leurs propriétés chimiques, leurs applications industrielles et domestiques, leurs profils de sécurité et leurs considérations environnementales. Comprenez quel acide est le mieux adapté à diverses tâches."
