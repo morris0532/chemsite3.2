@@ -1,5 +1,5 @@
 ---
-id: "36"
+id: "asd5as5d36"
 slug: "oxalic-acid-vs-sulfuric-acid"
 title: "Oxalic Acid vs. Sulfuric Acid: Key Differences & Applications"
 excerpt: "Explore the fundamental differences between oxalic acid and sulfuric acid, two industrially significant chemicals. This article compares their chemical properties, diverse applications, safety profiles, and environmental considerations to help you choose the right acid for your needs."
