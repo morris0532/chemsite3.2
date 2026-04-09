@@ -1,5 +1,5 @@
 ---
-id: "22"
+id: "asd5as5d22"
 slug: "oxalic-acid-vs-citric-acid"
 title: "Oxalic Acid vs. Citric Acid: A Comparative Analysis"
 excerpt: "A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks."
