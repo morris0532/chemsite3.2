@@ -1,3 +1,4 @@
+---
 id: "35"
 slug: "oxalic-acid-export-europe-reach"
 title: "Exportación de Ácido Oxálico a Europa: Guía de Cumplimiento REACH"
