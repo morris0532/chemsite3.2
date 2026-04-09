@@ -1,3 +1,4 @@
+---
 id: "4"
 name: "Cloruro de Calcio"
 nameCn: "氯化钙"
