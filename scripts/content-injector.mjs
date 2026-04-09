@@ -10,36 +10,36 @@ const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
 const BASE_URL = 'https://www.sinopeakchem.com';
 
-// Find the main CSS file
+// Find the main CSS file and its content
 const assetsDir = path.join(distDir, 'assets');
 let cssFileName = '';
+let cssContent = '';
 if (fs.existsSync(assetsDir)) {
   const cssFiles = fs.readdirSync(assetsDir).filter(f => f.endsWith('.css'));
   if (cssFiles.length > 0) {
     cssFileName = cssFiles.sort((a, b) => 
       fs.statSync(path.join(assetsDir, b)).size - fs.statSync(path.join(assetsDir, a)).size
     )[0];
-    console.log(`Identified main CSS file: ${cssFileName}`);
+    cssContent = fs.readFileSync(path.join(assetsDir, cssFileName), 'utf-8');
+    console.log(`Identified main CSS file: ${cssFileName} (${(cssContent.length / 1024).toFixed(2)} KB)`);
   }
 }
 
-// Helper function to ensure CSS link is at the very top of head
-function injectCSSLinkAtHeadTop(html, cssFileName) {
+// Helper function to inline CSS content into head
+function inlineCSS(html, content) {
   const headOpenRegex = /<head[^>]*>/i;
   const headMatch = html.match(headOpenRegex);
   
   if (headMatch) {
     const headEndPos = headMatch.index + headMatch[0].length;
-    const cssLinkTag = `\n    <link rel="stylesheet" crossorigin href="/assets/${cssFileName}">`;
+    const styleTag = `\n    <style id="critical-css">${content}</style>`;
     
-    const existingLinkRegex = new RegExp(`<link[^>]*href="\\/assets\\/${cssFileName.replace('.', '\\.')}"[^>]*>`, 'i');
-    let newHtml = html;
-    if (!existingLinkRegex.test(html)) {
-      newHtml = html.slice(0, headEndPos) + cssLinkTag + html.slice(headEndPos);
-    }
+    // Remove any existing linked assets/index-*.css to avoid double loading
+    const linkedCssRegex = /<link rel="stylesheet" [^>]*href="\/assets\/index-[^>]*\.css"[^>]*>/gi;
+    let newHtml = html.replace(linkedCssRegex, '');
     
-    const otherCssRegex = new RegExp(`<link rel="stylesheet" [^>]*href="\\/assets\\/(?!${cssFileName.replace('.', '\\.')})[^>]*\\.css"[^>]*>`, 'gi');
-    return newHtml.replace(otherCssRegex, '');
+    // Inject the style tag at the top of head
+    return newHtml.slice(0, headEndPos) + styleTag + newHtml.slice(headEndPos);
   }
   
   return html;
@@ -242,8 +242,8 @@ routes.forEach(route => {
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     html = html.replace(/<meta\s+name="description"\s+content=".*?"\s*\/?>/i, `<meta name="description" content="${cleanDesc}" />`);
 
-    if (cssFileName) {
-      html = injectCSSLinkAtHeadTop(html, cssFileName);
+    if (cssContent) {
+      html = inlineCSS(html, cssContent);
       const jsRegex = /<script type="module" crossorigin src="\/assets\/[^>]*\.js"><\/script>/i;
       const jsMatch = html.match(jsRegex);
       if (jsMatch) {
