@@ -1,3 +1,4 @@
+---
 id: "23"
 slug: "oxalic-acid-pharmaceutical-intermediates"
 title: "Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave"
