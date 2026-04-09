@@ -1,3 +1,4 @@
+---
 id: "14"
 name: "Metabisulfito de Sodio (SMBS)"
 nameCn: "焦亚硫酸钠"
