@@ -1,3 +1,4 @@
+---
 id: "a56s4d6a5ds45"
 slug: "oxalic-acid-industrial-applications"
 title: "Ácido Oxálico: Aplicaciones Industriales y Guías de Seguridad"
