@@ -135,7 +135,7 @@ const TermsOfService = () => {
         content: "These terms and conditions are governed by and construed in accordance with the laws of China and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
       }
     ]
-  };
+  });
 
   return (
     <Layout title={content.title}>
