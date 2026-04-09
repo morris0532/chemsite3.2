@@ -1,3 +1,4 @@
+---
 id: "9"
 slug: "how-aluminum-sulfate-functions-in-water-treatment"
 title: "Cómo Funciona el Sulfato de Aluminio en el Tratamiento de Agua"
