@@ -1,3 +1,4 @@
+---
 id: "13"
 name: "Hexametafosfato de Sodio (SHMP)"
 nameCn: "六偏磷酸钠"
