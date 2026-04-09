@@ -1,3 +1,4 @@
+---
 id: "9"
 slug: "oxalic-acid-marble-polishing"
 title: "Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas"
