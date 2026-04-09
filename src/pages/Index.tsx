@@ -55,6 +55,15 @@ const jsonLdFr = {
   },
 };
 
+const jsonLdEs = {
+  ...jsonLdEn,
+  description: "Sinopeakchem es un socio líder en el suministro de productos químicos B2B de China, que proporciona productos químicos industriales de alta pureza y soluciones integrales para la cadena de suministro.",
+  contactPoint: {
+    ...jsonLdEn.contactPoint,
+    availableLanguage: ["English", "Chinese", "Spanish"],
+  },
+};
+
 const featuresEn = [
   { icon: FlaskConical, title: "Premier Portfolio", desc: "Access to 22+ high-purity industrial chemicals optimized for global industrial standards" },
   { icon: Shield, title: "Quality Leadership", desc: "Rigorous multi-stage quality control with full batch traceability and COA/MSDS documentation" },
@@ -82,13 +91,23 @@ const featuresFr = [
   { icon: Users, title: "Support Stratégique", desc: "Experts de l'industrie dédiés fournissant des conseils techniques et un service mondial réactif" },
 ];
 
+const featuresEs = [
+  { icon: FlaskConical, title: "Portafolio Premier", desc: "Acceso a más de 22 productos químicos industriales de alta pureza optimizados para estándares industriales globales" },
+  { icon: Shield, title: "Liderazgo en Calidad", desc: "Control de calidad riguroso en múltiples etapas con trazabilidad completa de lotes y documentación COA/MSDS" },
+  { icon: Globe, title: "Exportación Estratégica", desc: "Distribución global fluida desde los principales centros marítimos de China a más de 50 países" },
+  { icon: Truck, title: "Excelencia en la Cadena de Suministro", desc: "Soluciones logísticas optimizadas con gestión eficiente de contenedores y carga prioritaria" },
+  { icon: Award, title: "Cumplimiento Global", desc: "Productos que cumplen con los requisitos regulatorios internacionales con rigurosas pruebas internas" },
+  { icon: Users, title: "Soporte Estratégico", desc: "Expertos dedicados de la industria que brindan orientación técnica y un servicio global receptivo" },
+];
+
 export default function HomePage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
+  const isEs = location.pathname.startsWith("/es");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
   
-  const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : 'en'));
+  const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en')));
   const featuredProducts = useMemo(() => {
     const order = ['oxalic-acid', 'caustic-soda', 'sodium-sulfate-anhydrous'];
     return markdownProducts
@@ -99,8 +118,8 @@ export default function HomePage() {
   const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
-  const features = isRu ? featuresRu : (isFr ? featuresFr : featuresEn);
-  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : jsonLdEn);
+  const features = isRu ? featuresRu : (isFr ? featuresFr : (isEs ? featuresEs : featuresEn));
+  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : jsonLdEn));
 
   const content = isRu ? {
     heroBadge: "Выбор ведущих предприятий в 50+ странах",
@@ -136,6 +155,23 @@ export default function HomePage() {
     latestInsights: "Expertise de l'Industrie",
     latestInsightsDesc: "Actualités du marché, guides techniques des produits et analyses de l'industrie",
     viewAllArticles: "Voir Tous les Articles",
+  } : isEs ? {
+    heroBadge: "Socio preferido para empresas en más de 50 países",
+    heroTitle: "Su Socio Estratégico en Soluciones <span class=\"text-blue-100\">Químicas</span>",
+    heroDesc: "Sinopeakchem entrega productos químicos industriales de alta pureza en todo el mundo. Garantizamos una calidad superior del producto y una logística global confiable.",
+    viewProducts: "Explorar Portafolio",
+    getQuote: "Solicitar Cotización",
+    whyChoose: "¿Por qué elegir Sinopeakchem?",
+    whyChooseDesc: "Integramos fabricación de primer nivel, logística estratégica y profunda experiencia en la industria para servir a los mercados químicos globales.",
+    featuredTitle: "Productos Principales",
+    featuredDesc: "Nuestras soluciones químicas más solicitadas, confiadas por líderes de la industria en todo el mundo",
+    viewAll: "Ver Todos los Productos",
+    ctaTitle: "¿Busca un Socio Químico de Primer Nivel?",
+    ctaDesc: "Acceda a más de 22 productos químicos industriales de alta pureza con envío global garantizado. Nuestro equipo de expertos está listo para ayudarle.",
+    chatWhatsApp: "Contactar por WhatsApp",
+    latestInsights: "Experiencia en la Industria",
+    latestInsightsDesc: "Noticias del mercado, guías técnicas de productos y análisis de la industria",
+    viewAllArticles: "Ver Todos los Artículos",
   } : {
     heroBadge: "Preferred partner for enterprises in 50+ countries",
     heroTitle: "Your Strategic <span class=\"text-blue-100\">Chemical</span> Solution Partner",
@@ -157,10 +193,10 @@ export default function HomePage() {
 
   return (
     <Layout
-      title={isRu ? "Ведущий поставщик химикатов | Промышленные решения из Китая" : (isFr ? "Premier Fournisseur de Produits Chimiques | Solutions Industrielles de Chine" : "Premier Chemical Supplier | Industrial Solutions from China")}
+      title={isRu ? "Ведущий поставщик химикатов | Промышленные решения из Китая" : (isFr ? "Premier Fournisseur de Produits Chimiques | Solutions Industrielles de Chine" : (isEs ? "Proveedor Líder de Productos Químicos | Soluciones Industriales de China" : "Premier Chemical Supplier | Industrial Solutions from China"))}
       description={isRu 
         ? "Sinopeakchem — ведущий поставщик химикатов B2B, предлагающий 22+ высококачественных промышленных химиката. Глобальная дистрибуция из Китая с гарантией качества."
-        : (isFr ? "Sinopeakchem est un fournisseur de produits chimiques B2B de premier plan proposant plus de 22 produits chimiques industriels de haute pureté. Distribution mondiale depuis la Chine." : "Sinopeakchem is a premier B2B chemical supplier offering 22+ high-purity industrial chemicals. Global distribution from China with guaranteed quality leadership.")}
+        : (isFr ? "Sinopeakchem est un fournisseur de produits chimiques B2B de premier plan proposant plus de 22 produits chimiques industriels de haute pureté. Distribution mondiale depuis la Chine." : (isEs ? "Sinopeakchem es un proveedor líder de productos químicos B2B que ofrece más de 22 productos químicos industriales de alta pureza. Distribución global desde China." : "Sinopeakchem is a premier B2B chemical supplier offering 22+ high-purity industrial chemicals. Global distribution from China with guaranteed quality leadership.")) }
       jsonLd={jsonLd}
     >
       {/* Hero Section */}
