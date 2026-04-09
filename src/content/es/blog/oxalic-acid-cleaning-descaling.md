@@ -1,3 +1,4 @@
+---
 id: "19"
 slug: "oxalic-acid-cleaning-descaling"
 title: "Ácido Oxálico para Limpieza y Desincrustación: Usos Domésticos e Industriales"
