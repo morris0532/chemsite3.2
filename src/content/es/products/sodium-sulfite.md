@@ -1,3 +1,4 @@
+---
 id: "15"
 name: "Sulfito de Sodio Anhidro"
 nameCn: "无水亚硫酸钠"
