@@ -1,3 +1,4 @@
+---
 id: "13"
 slug: "oxalic-acid-vs-rust-removers"
 title: "Ácido Oxálico vs. Otros Removedores de Óxido: ¿Cuál Deberías Elegir?"
