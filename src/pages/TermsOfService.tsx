@@ -5,6 +5,7 @@ const TermsOfService = () => {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
+  const isEs = location.pathname.startsWith("/es");
 
   const content = isRu ? {
     title: "Условия использования",
@@ -68,6 +69,38 @@ const TermsOfService = () => {
       {
         title: "5. Droit applicable",
         content: "Ces termes et conditions sont régis et interprétés conformément aux lois de la Chine et vous vous soumettez irrévocablement à la juridiction exclusive des tribunaux de cet État ou de cet emplacement."
+      }
+    ]
+  } : (isEs ? {
+    title: "Condiciones de Servicio",
+    lastUpdated: "Última actualización: 4 de abril de 2026",
+    sections: [
+      {
+        title: "1. Términos",
+        content: "Al acceder al sitio web sinopeakchem.com, usted acepta estar sujeto a estas condiciones de servicio, a todas las leyes y regulaciones aplicables, y acepta que es responsable del cumplimiento de cualquier ley local aplicable. Si no está de acuerdo con alguno de estos términos, se le prohíbe utilizar o acceder a este sitio."
+      },
+      {
+        title: "2. Licencia de uso",
+        content: "Se concede permiso para descargar temporalmente una copia de los materiales (información o software) en el sitio web de Sinopeakchem únicamente para visualización transitoria personal y no comercial. Esta es la concesión de una licencia, no una transferencia de título, y bajo esta licencia usted no puede:",
+        list: [
+          "modificar o copiar los materiales;",
+          "utilizar los materiales para cualquier propósito comercial, o para cualquier exhibición pública (comercial o no comercial);",
+          "intentar descompilar o realizar ingeniería inversa de cualquier software contenido en el sitio web de Sinopeakchem;",
+          "eliminar cualquier derecho de autor u otras notaciones de propiedad de los materiales; o",
+          "transferir los materiales a otra persona o \"reflejar\" los materiales en cualquier otro servidor."
+        ]
+      },
+      {
+        title: "3. Descargo de responsabilidad",
+        content: "Los materiales en el sitio web de Sinopeakchem se proporcionan 'tal cual'. Sinopeakchem no ofrece garantías, expresas o implícitas, y por la presente renuncia y niega todas las demás garantías, incluidas, sin limitación, las garantías o condiciones implícitas de comerciabilidad, idoneidad para un propósito particular o no infracción de la propiedad intelectual u otra violación de derechos."
+      },
+      {
+        title: "4. Limitaciones",
+        content: "En ningún caso Sinopeakchem o sus proveedores serán responsables de ningún daño (incluidos, sin limitación, daños por pérdida de datos o beneficios, o debido a la interrupción del negocio) que surja del uso o la imposibilidad de usar los materiales en el sitio web de Sinopeakchem, incluso si Sinopeakchem o un representante autorizado de Sinopeakchem ha sido notificado verbalmente o por escrito de la posibilidad de tales daños."
+      },
+      {
+        title: "5. Ley aplicable",
+        content: "Estos términos y condiciones se rigen e interpretan de acuerdo con las leyes de China y usted se somete irrevocablemente a la jurisdicción exclusiva de los tribunales en ese Estado o ubicación."
       }
     ]
   } : {

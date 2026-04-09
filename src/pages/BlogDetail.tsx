@@ -14,8 +14,9 @@ export default function BlogDetailPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
-  const locale = isRu ? "ru" : (isFr ? "fr" : "en");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
+  const isEs = location.pathname.startsWith("/es");
+  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : "en"));
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
   
   const { posts, getPostBySlug } = useMarkdownContent(locale);
   const { ui } = useSiteConfig(locale);
@@ -31,11 +32,11 @@ export default function BlogDetailPage() {
 
   if (!post) {
     return (
-      <Layout title={isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : "Article Not Found")}>
+      <Layout title={isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : "Article Not Found"))}>
         <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-800 mb-4">{isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : "Article Not Found")}</h1>
-          <p className="text-gray-600 mb-6">{isRu ? "Статья, которую вы ищете, не существует." : (isFr ? "L'article que vous recherchez n'existe pas." : "The article you are looking for does not exist.")}</p>
-          <Link to={`${langPrefix}/blog`}><Button className="bg-[#0066B3] text-white">{isRu ? "Просмотреть все статьи" : (isFr ? "Voir tous les articles" : "Browse All Articles")}</Button></Link>
+          <h1 className="text-2xl font-bold text-gray-800 mb-4">{isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : "Article Not Found"))}</h1>
+          <p className="text-gray-600 mb-6">{isRu ? "Статья, которую вы ищете, не существует." : (isFr ? "L'article que vous recherchez n'existe pas." : (isEs ? "El artículo que busca no existe." : "The article you are looking for does not exist."))}</p>
+          <Link to={`${langPrefix}/blog`}><Button className="bg-[#0066B3] text-white">{isRu ? "Просмотреть все статьи" : (isFr ? "Voir tous les articles" : (isEs ? "Ver todos los artículos" : "Browse All Articles"))}</Button></Link>
         </div>
       </Layout>
     );
@@ -61,6 +62,15 @@ export default function BlogDetailPage() {
     needChemicals: "Besoin de Produits Chimiques ?",
     getQuoteDesc: "Obtenez des tarifs compétitifs sur plus de 22 produits chimiques industriels.",
     getQuote: "Obtenir un Devis",
+  } : (isEs ? {
+    home: "Inicio",
+    blog: "Blog",
+    backToBlog: "Volver al Blog",
+    share: "Compartir:",
+    recentArticles: "Artículos Recientes",
+    needChemicals: "¿Necesita productos químicos?",
+    getQuoteDesc: "Obtenga precios competitivos en más de 22 productos químicos industriales.",
+    getQuote: "Obtener una Cotización",
   } : {
     home: "Home",
     blog: "Blog",
@@ -70,7 +80,7 @@ export default function BlogDetailPage() {
     needChemicals: "Need Chemical Products?",
     getQuoteDesc: "Get competitive pricing on 22+ industrial chemicals.",
     getQuote: "Get a Quote",
-  });
+  }));
 
   return (
     <Layout
@@ -108,7 +118,7 @@ export default function BlogDetailPage() {
 
               <div className="flex flex-wrap items-center gap-3 mb-4">
                 <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : "en-US"), { month: "long", day: "numeric", year: "numeric" })}</span>
+                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "long", day: "numeric", year: "numeric" })}</span>
                 <span className="text-xs text-gray-500 flex items-center gap-1"><User className="w-3 h-3" /> {post.author}</span>
               </div>
 
@@ -149,7 +159,7 @@ export default function BlogDetailPage() {
                       </div>
                       <div>
                         <h4 className="text-sm font-medium text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors line-clamp-2">{rp.title}</h4>
-                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : "en-US"), { month: "short", day: "numeric" })}</p>
+                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "short", day: "numeric" })}</p>
                       </div>
                     </Link>
                   ))}

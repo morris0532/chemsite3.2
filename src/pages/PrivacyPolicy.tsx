@@ -5,6 +5,7 @@ const PrivacyPolicy = () => {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
+  const isEs = location.pathname.startsWith("/es");
 
   const content = isRu ? {
     title: "Политика конфиденциальности",
@@ -78,6 +79,43 @@ const PrivacyPolicy = () => {
       {
         title: "5. Contactez-nous",
         content: "Si vous avez des questions sur cette politique de confidentialité ou sur nos pratiques en matière de confidentialité, veuillez nous contacter à : info@sinopeakchem.com"
+      }
+    ]
+  } : (isEs ? {
+    title: "Política de Privacidad",
+    lastUpdated: "Última actualización: 4 de abril de 2026",
+    sections: [
+      {
+        title: "1. Introducción",
+        content: "Sinopeakchem (\"nosotros\", \"nuestro\" o \"nos\") respeta su privacidad y se compromete a proteger sus datos personales. Esta política de privacidad le informará sobre cómo cuidamos sus datos personales cuando visita nuestro sitio web y le informará sobre sus derechos de privacidad y cómo la ley le protege."
+      },
+      {
+        title: "2. Los datos que recopilamos",
+        content: "Podemos recopilar, utilizar, almacenar y transferir diferentes tipos de datos personales sobre usted, que hemos agrupado de la siguiente manera:",
+        list: [
+          "Datos de identidad: incluye nombre, apellido, nombre de usuario o identificador similar.",
+          "Datos de contacto: incluye dirección de correo electrónico y números de teléfono.",
+          "Datos técnicos: incluye la dirección del protocolo de Internet (IP), el tipo y la versión del navegador, la configuración de la zona horaria y la ubicación.",
+          "Datos de uso: incluye información sobre cómo utiliza nuestro sitio web, productos y servicios."
+        ]
+      },
+      {
+        title: "3. Cómo utilizamos sus datos",
+        content: "Solo utilizaremos sus datos personales cuando la ley nos lo permita. Con mayor frecuencia, utilizaremos sus datos personales en las siguientes circunstancias:",
+        list: [
+          "Para registrarlo como nuevo cliente.",
+          "Para procesar y entregar su pedido.",
+          "Para gestionar nuestra relación con usted.",
+          "Para mejorar nuestro sitio web, productos/servicios, marketing o relaciones con los clientes."
+        ]
+      },
+      {
+        title: "4. Seguridad de los datos",
+        content: "Hemos implementado medidas de seguridad adecuadas para evitar que sus datos personales se pierdan accidentalmente, se utilicen o se acceda a ellos de forma no autorizada, se alteren o se divulguen."
+      },
+      {
+        title: "5. Contáctenos",
+        content: "Si tiene alguna pregunta sobre esta política de privacidad o nuestras prácticas de privacidad, contáctenos en: info@sinopeakchem.com"
       }
     ]
   } : {

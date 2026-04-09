@@ -25,8 +25,9 @@ export default function ProductDetailPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
-  const locale = isRu ? "ru" : (isFr ? "fr" : "en");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : "/en");
+  const isEs = location.pathname.startsWith("/es");
+  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : "en"));
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
   
   const { products: markdownProducts } = useMarkdownContent(locale);
   const product = markdownProducts.find((p: any) => p.slug === slug);
@@ -47,11 +48,11 @@ export default function ProductDetailPage() {
 
   if (!product) {
     return (
-      <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : "Product Not Found")}>
+      <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : "Product Not Found"))}>
         <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : "Product Not Found")}</h1>
-          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : (isFr ? "Le produit que vous recherchez n'existe pas." : "The product you are looking for does not exist.")}</p>
-          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : (isFr ? "Tous les produits" : "Browse All Products")}</Button></Link>
+          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : "Product Not Found"))}</h1>
+          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : (isFr ? "Le produit que vous recherchez n'existe pas." : (isEs ? "El producto que busca no existe." : "The product you are looking for does not exist."))}</p>
+          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : (isFr ? "Tous les produits" : (isEs ? "Ver todos los productos" : "Browse All Products"))}</Button></Link>
         </div>
       </Layout>
     );
@@ -86,11 +87,11 @@ export default function ProductDetailPage() {
         }, 3000);
       } else {
         console.error('Failed to send request');
-        alert(isRu ? 'Ошибка при отправке запроса. Пожалуйста, попробуйте еще раз.' : (isFr ? 'Échec de l\'envoi de la demande. Veuillez réessayer.' : 'Failed to send request. Please try again.'));
+        alert(isRu ? 'Ошибка при отправке запроса. Пожалуйста, попробуйте еще раз.' : (isFr ? 'Échec de l\'envoi de la demande. Veuillez réessayer.' : (isEs ? 'Error al enviar la solicitud. Por favor, inténtelo de nuevo.' : 'Failed to send request. Please try again.')));
       }
     } catch (error) {
       console.error('Error submitting document request:', error);
-      alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : (isFr ? 'Une erreur est survenue. Veuillez réessayer plus tard.' : 'An error occurred. Please try again later.'));
+      alert(isRu ? 'Произошла ошибка. Пожалуйста, попробуйте позже.' : (isFr ? 'Une erreur est survenue. Veuillez réessayer plus tard.' : (isEs ? 'Ocurrió un error. Por favor, inténtelo de nuevo más tarde.' : 'An error occurred. Please try again later.')));
     }
   };
 
@@ -134,6 +135,25 @@ export default function ProductDetailPage() {
     trustQuality: "Assurance Qualité",
     trustGlobal: "Logistique Mondiale",
     trustSupport: "Support Technique"
+  } : (isEs ? {
+    specifications: "Especificaciones",
+    applications: "Aplicaciones",
+    faq: "FAQ",
+    relatedProducts: "Productos Relacionados",
+    getQuote: "Obtener una Cotización",
+    techDocs: "Docs Técnicos",
+    packaging: "Embalaje",
+    loading: "Carga",
+    overview: "Descripción General",
+    share: "Compartir",
+    faqTitle: "FAQ",
+    faqDesc: "Encuentre respuestas a preguntas comunes sobre el producto",
+    relatedTitle: "Otros productos químicos de alta calidad",
+    viewAll: "Ver todos los productos",
+    trustTitle: "¿Por qué elegirnos?",
+    trustQuality: "Garantía de Calidad",
+    trustGlobal: "Logística Global",
+    trustSupport: "Soporte Técnico"
   } : {
     specifications: "Specifications",
     applications: "Applications",
@@ -153,7 +173,7 @@ export default function ProductDetailPage() {
     trustQuality: "Quality Assurance",
     trustGlobal: "Global Logistics",
     trustSupport: "Technical Support"
-  });
+  }));
 
   return (
     <Layout 
@@ -168,11 +188,11 @@ export default function ProductDetailPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : (isFr ? "Accueil" : "Home")}
+              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : "Home"))}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
-              {isRu ? "Продукты" : (isFr ? "Produits" : "Products")}
+              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : "Products"))}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <span className="text-slate-900 truncate max-w-[200px] md:max-w-none">{product.name}</span>
@@ -253,17 +273,17 @@ export default function ProductDetailPage() {
                           <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
                             <CheckCircle2 className="w-10 h-10 text-green-500" />
                           </div>
-                          <h3 className="text-xl font-bold text-slate-900 mb-2">Request Sent!</h3>
-                          <p className="text-slate-500">Our team will contact you within 24 hours.</p>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">{isRu ? "Запрос отправлен!" : (isFr ? "Demande envoyée !" : (isEs ? "¡Solicitud enviada!" : "Request Sent!"))}</h3>
+                          <p className="text-slate-500">{isRu ? "Наша команда свяжется с вами в течение 24 часов." : (isFr ? "Notre équipe vous contactera dans les 24 heures." : (isEs ? "Nuestro equipo se pondrá en contacto con usted en un plazo de 24 horas." : "Our team will contact you within 24 hours."))}</p>
                         </div>
                       ) : (
                         <form onSubmit={handleDocSubmit} className="space-y-6 mt-4">
                           <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Work Email</Label>
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">{isRu ? "Рабочая почта" : (isFr ? "Email professionnel" : (isEs ? "Correo electrónico de trabajo" : "Work Email"))}</Label>
                             <Input required type="email" placeholder="name@company.com" className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docEmail} onChange={e => setDocEmail(e.target.value)} />
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">Company Name</Label>
+                            <Label className="text-xs font-bold text-slate-400 uppercase tracking-widest">{isRu ? "Название компании" : (isFr ? "Nom de l'entreprise" : (isEs ? "Nombre de la empresa" : "Company Name"))}</Label>
                             <Input required placeholder="Your Company Ltd." className="h-12 rounded-xl border-slate-200 focus:ring-[#0066B3]" value={docCompany} onChange={e => setDocCompany(e.target.value)} />
                           </div>
                           <div className="flex gap-6 py-2">
@@ -277,7 +297,7 @@ export default function ProductDetailPage() {
                             </div>
                           </div>
                           <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base">
-                            Submit Request
+                            {isRu ? "Отправить запрос" : (isFr ? "Envoyer la demande" : (isEs ? "Enviar solicitud" : "Submit Request"))}
                           </Button>
                         </form>
                       )}
@@ -339,7 +359,7 @@ export default function ProductDetailPage() {
                       </div>
                       <h3 className="text-lg font-black text-slate-900 mb-3 group-hover:text-[#0066B3] transition-colors">{app}</h3>
                       <p className="text-sm text-slate-500 font-medium leading-relaxed">
-                        {isFr ? `Application haute performance dans les industries de ${app.toLowerCase()}, garantissant des résultats optimaux.` : `High-performance application in ${app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.`}
+                        {isFr ? `Application haute performance dans les industries de ${app.toLowerCase()}, garantissant des résultats optimaux.` : (isEs ? `Aplicación de alto rendimiento en las industrias de ${app.toLowerCase()}, garantizando resultados óptimos.` : `High-performance application in ${app.toLowerCase()} industries, ensuring optimal results and cost-efficiency.`)}
                       </p>
                     </div>
                   ))}
@@ -411,7 +431,7 @@ export default function ProductDetailPage() {
                     className="flex items-center justify-center w-full h-14 px-8 bg-[#25D366] hover:bg-[#1fb854] text-white rounded-2xl font-bold text-base shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 gap-2"
                   >
                     <MessageCircle className="w-5 h-5" />
-                    {isFr ? "Discuter sur WhatsApp" : "Chat on WhatsApp"}
+                    {isFr ? "Discuter sur WhatsApp" : (isEs ? "Chatear en WhatsApp" : "Chat on WhatsApp")}
                   </a>
                 </div>
               </div>
