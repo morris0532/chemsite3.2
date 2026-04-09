@@ -48,7 +48,7 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/(en|ru)/(blog|products)/:slug",
+      "source": "/(en|ru|fr|es)/(blog|products)/:slug",
       "destination": "/$1/$2/:slug/index.html"
     },
     {
