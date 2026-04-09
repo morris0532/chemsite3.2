@@ -33,6 +33,11 @@ const jsonLdFr = {
   description: "Sinopeakchem est une entreprise chimique multifonctionnelle et innovante intégrant l'exploitation de marques et les services de plateforme mondiale depuis 1998.",
 };
 
+const jsonLdEs = {
+  ...jsonLdEn,
+  description: "Sinopeakchem es una empresa química multifuncional e innovadora que integra la operación de marcas y servicios de plataforma global desde 1998.",
+};
+
 const statsEn = [
   { icon: Award, value: "22+", label: "Premier Products" },
   { icon: TrendingUp, value: "28+", label: "Years Experience" },
@@ -52,6 +57,13 @@ const statsFr = [
   { icon: TrendingUp, value: "28+", label: "Années d'Expérience" },
   { icon: Globe, value: "30+", label: "Pays Desservis" },
   { icon: Users, value: "150+", label: "Clients Satisfaits" },
+];
+
+const statsEs = [
+  { icon: Award, value: "22+", label: "Productos Premier" },
+  { icon: TrendingUp, value: "28+", label: "Años de Experiencia" },
+  { icon: Globe, value: "30+", label: "Países Atendidos" },
+  { icon: Users, value: "150+", label: "Clientes Satisfechos" },
 ];
 
 const hubsEn = [
@@ -135,6 +147,33 @@ const hubsFr = [
   },
 ];
 
+const hubsEs = [
+  {
+    icon: Factory,
+    title: "Centro de Control de Calidad",
+    location: "Shandong, China",
+    desc: "La principal base de garantía de calidad de nuestro grupo. Invertimos fuertemente en I+D y experimentación de calidad anualmente para asegurar una calidad líder y soluciones innovadoras.",
+  },
+  {
+    icon: Ship,
+    title: "Comercio Internacional y Logística",
+    location: "Puerto de Qingdao, China",
+    desc: "Ubicada en uno de los puertos de contenedores más importantes del mundo, nuestra sucursal en Qingdao ofrece la mayor velocidad de entrega y soluciones de almacenamiento flexibles.",
+  },
+  {
+    icon: Search,
+    title: "Centro de Datos Estratégicos",
+    location: "Jinan, China",
+    desc: "Nuestro centro de operaciones en el centro de distribución de materias primas químicas del este de China, siguiendo de cerca las tendencias del mercado.",
+  },
+  {
+    icon: GraduationCap,
+    title: "Centro de Formación de Personal",
+    location: "Academia Interna",
+    desc: "Capacitación profesional regular para facilitar el suministro de talento y asegurar que nuestro equipo comprenda las necesidades cambiantes de la industria global.",
+  },
+];
+
 const valuesEn = [
   { icon: ShieldCheck, title: "Quality First", desc: "Full-process quality management system from raw material procurement to product delivery." },
   { icon: Microscope, title: "Advanced Detection", desc: "Equipped with HPLC and GC-MS, providing third-party testing reports for each batch of products." },
@@ -156,15 +195,23 @@ const valuesFr = [
   { icon: Users, title: "Support Bilingue", desc: "Support technique bilingue 24h/24 pour répondre aux problèmes de communication et d'application des clients mondiaux." },
 ];
 
+const valuesEs = [
+  { icon: ShieldCheck, title: "Calidad Primero", desc: "Sistema de gestión de calidad en todo el proceso, desde la adquisición de materia prima hasta la entrega del producto." },
+  { icon: Microscope, title: "Detección Avanzada", desc: "Equipado con HPLC y GC-MS, proporcionando informes de pruebas de terceros para cada lote de productos." },
+  { icon: Zap, title: "Eficiencia y Estabilidad", desc: "Almacenes en los principales puertos chinos aseguran una entrega inmediata y estabilidad en la cadena de suministro." },
+  { icon: Users, title: "Soporte Bilingüe", desc: "Soporte técnico bilingüe las 24 horas para abordar problemas de comunicación y aplicación para clientes globales." },
+];
+
 export default function AboutPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
+  const isEs = location.pathname.startsWith("/es");
   
-  const stats = isRu ? statsRu : (isFr ? statsFr : statsEn);
-  const hubs = isRu ? hubsRu : (isFr ? hubsFr : hubsEn);
-  const values = isRu ? valuesRu : (isFr ? valuesFr : valuesEn);
-  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : jsonLdEn);
+  const stats = isRu ? statsRu : (isFr ? statsFr : (isEs ? statsEs : statsEn));
+  const hubs = isRu ? hubsRu : (isFr ? hubsFr : (isEs ? hubsEs : hubsEn));
+  const values = isRu ? valuesRu : (isFr ? valuesFr : (isEs ? valuesEs : valuesEn));
+  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : jsonLdEn));
 
   const content = isRu ? {
     title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
@@ -194,6 +241,20 @@ export default function AboutPage() {
     visionTitle: "Positionnement Commercial",
     visionDesc: "Nous nous engageons à construire une plateforme professionnelle pour les produits chimiques de protection de l'environnement, favorisant le développement vert des entreprises industrielles.",
     affiliation: "Ce site appartient à Shandong Lan star Technology Group Co.,Ltd"
+  } : isEs ? {
+    title: "Sobre Sinopeakchem - Expertos en Servicio de Alto Estándar",
+    description: "Conozca Sinopeakchem, una empresa química multifuncional con más de 28 años de excelencia. Integrando operación de marcas y logística global.",
+    heroTitle: "Encontrar la Mejor Solución es Nuestro Objetivo Final",
+    heroDesc: "Expertos en servicio de alto estándar que cierran la brecha entre la fabricación china avanzada y las necesidades industriales globales.",
+    ourStory: "Nuestra Historia",
+    storySubtitle: "Desde 1998, nuestro equipo ha logrado comprender las necesidades de la industria y crear productos confiables para servir a todos.",
+    storyP1: "Fundada en 1998 en la provincia de Shandong, China, Sinopeakchem es una empresa química multifuncional e innovadora que integra la operación de marcas y servicios de plataforma.",
+    storyP2: "Nuestros productos cubren una amplia gama que incluye ácido oxálico, tiosulfato de sodio, cloruro de calcio, sulfito de sodio, ácido cítrico y otras series de fosfatos y sulfatos. Nos esforzamos por convertirnos en una estrella brillante en la industria química a través de la innovación y el servicio integral.",
+    strategicHubs: "Centros Estratégicos",
+    serviceCommitment: "Nuestro Compromiso de Servicio",
+    visionTitle: "Visión de Negocio",
+    visionDesc: "Estamos comprometidos con la construcción de una plataforma profesional para productos químicos de protección ambiental, promoviendo el desarrollo verde de las empresas industriales y llevando la tecnología china al mercado global.",
+    affiliation: "Este sitio pertenece a Shandong Lan star Technology Group Co.,Ltd"
   } : {
     title: "About Sinopeakchem - High-standard Service Experts",
     description: "Learn about Sinopeakchem, a multi-functional chemical company with 28+ years of excellence. Integrating brand operation and global logistics.",
