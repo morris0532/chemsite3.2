@@ -1,3 +1,4 @@
+---
 id: "26"
 slug: "oxalic-acid-environmental-impact"
 title: "Impacto Ambiental y Biodegradabilidad del Ácido Oxálico"
