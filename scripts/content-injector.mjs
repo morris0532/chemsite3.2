@@ -50,10 +50,11 @@ console.log(`Starting advanced content injection for ${routes.length} routes...`
 const contentMetadata = {
   en: { products: [], blog: [] },
   ru: { products: [], blog: [] },
-  fr: { products: [], blog: [] }
+  fr: { products: [], blog: [] },
+  es: { products: [], blog: [] }
 };
 
-['en', 'ru', 'fr'].forEach(locale => {
+['en', 'ru', 'fr', 'es'].forEach(locale => {
   ['products', 'blog'].forEach(type => {
     const dir = path.join(contentDir, locale, type);
     if (fs.existsSync(dir)) {
