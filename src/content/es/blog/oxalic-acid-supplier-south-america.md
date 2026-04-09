@@ -1,3 +1,4 @@
+---
 id: "34"
 slug: "oxalic-acid-supplier-south-america"
 title: "Proveedor de Ácido Oxálico para el Mercado de Sudamérica: Brasil, Chile y Colombia"
