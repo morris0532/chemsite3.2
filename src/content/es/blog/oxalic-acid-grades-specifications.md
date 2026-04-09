@@ -1,3 +1,4 @@
+---
 id: "15"
 slug: "oxalic-acid-grades-specifications"
 title: "Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda"
