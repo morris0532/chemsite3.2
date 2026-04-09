@@ -1,3 +1,4 @@
+---
 id: "12"
 slug: "oxalic-acid-rare-earth-extraction"
 title: "Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la Industria Moderna"
