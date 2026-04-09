@@ -1,3 +1,4 @@
+---
 id: "20"
 slug: "oxalic-acid-leather-tanning"
 title: "Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos"
