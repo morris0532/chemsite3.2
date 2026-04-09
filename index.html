@@ -7,9 +7,66 @@
     <title>Premier Chemical Supplier from China | Sinopeakchem</title>
     <meta name="description" content="Sinopeakchem is a leading B2B chemical supplier from China." />
     <meta name="author" content="Sinopeakchem" />
-  </head>
 
+    <!-- Anti-FOUC (Flash of Unstyled Content) Styles -->
+    <style>
+      /* 1. Loading Mask Style */
+      #loading-mask {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #ffffff;
+        z-index: 99999;
+        transition: opacity 0.4s ease, visibility 0.4s;
+      }
+      
+      /* Dark mode support for mask if needed */
+      .dark #loading-mask {
+        background-color: #030712;
+      }
+
+      #loading-mask.fade-out {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      /* 2. Disable initial animations to prevent layout jumping */
+      .no-animate *,
+      .no-animate *::before,
+      .no-animate *::after {
+        animation-duration: 0s !important;
+        animation-delay: 0s !important;
+        transition-duration: 0s !important;
+        transition-delay: 0s !important;
+      }
+
+      /* 3. Hide root content until CSS is ready to avoid "text/image first" flash */
+      #root:not(.loaded) {
+        opacity: 0;
+      }
+    </style>
+
+    <script>
+      /* Immediately add no-animate class to prevent initial jumping */
+      document.documentElement.classList.add('no-animate');
+      
+      /* Dark mode detection (optional but recommended for consistent mask color) */
+      (function() {
+        var theme = localStorage.getItem('theme') || 
+                    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        if (theme === 'dark') {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+  </head>
   <body>
+    <!-- Loading Mask to hide unstyled content -->
+    <div id="loading-mask"></div>
+    
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
