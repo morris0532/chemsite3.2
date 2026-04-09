@@ -1,3 +1,4 @@
+---
 id: "2"
 slug: "how-to-choose-right-caustic-soda-grade"
 title: "Cómo Elegir el Grado Correcto de Sosa Cáustica para su Industria"
