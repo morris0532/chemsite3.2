@@ -203,7 +203,7 @@ routes.forEach(route => {
     
     const productsHtml = contentMetadata[locale].products.slice(0, 6).map((p, index) => `
       <div class="product-item">
-        <img src="${p.image}" alt="${p.title}" width="300" height="200" ${index < 1 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
+        <img src="${p.image}" alt="${p.title}" width="300" height="200" loading="lazy" />
         <h3>${p.title}</h3>
         <p>CAS: ${p.cas}</p>
         <a href="/${locale}/products/${p.slug}">View Details</a>

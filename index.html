@@ -11,6 +11,7 @@
     <!-- Performance Optimizations -->
     <link rel="dns-prefetch" href="https://sinopeakchem.com">
     <link rel="preload" as="image" href="/images/remote/hero.webp" fetchpriority="high">
+    <link rel="preload" as="image" href="/logo.png" fetchpriority="high">
     
     <!-- Anti-FOUC & Critical CSS -->
     <style>
@@ -105,9 +106,6 @@
     </style>
 
     <script>
-      /* Immediately add no-animate class to prevent initial jumping */
-      document.documentElement.classList.add('no-animate');
-      
       /* Dark mode detection */
       (function() {
         var theme = localStorage.getItem('theme') || 
