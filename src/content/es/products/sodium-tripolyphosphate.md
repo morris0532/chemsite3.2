@@ -1,3 +1,4 @@
+---
 id: "5"
 name: "Trifosfato de Sodio (STPP)"
 nameCn: "三聚磷酸钠"
