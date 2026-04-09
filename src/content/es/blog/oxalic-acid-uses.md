@@ -1,3 +1,4 @@
+---
 id: "65asd4611"
 slug: "oxalic-acid-uses"
 title: "Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer"
