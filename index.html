@@ -8,6 +8,10 @@
     <meta name="description" content="Sinopeakchem is a leading B2B chemical supplier from China." />
     <meta name="author" content="Sinopeakchem" />
 
+    <!-- Performance Optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
     <!-- Anti-FOUC & Critical CSS -->
     <style>
       /* 1. Loading Mask Style */
@@ -118,6 +122,8 @@
     <div id="loading-mask"></div>
     
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Use defer to ensure main script doesn't block HTML parsing -->
+    <script type="module" src="/src/main.tsx" defer></script>
   </body>
 </html>
