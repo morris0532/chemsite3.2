@@ -1,3 +1,4 @@
+---
 id: "7"
 name: "Carbonato de Sodio (Soda Ash)"
 nameCn: "纯碱"
