@@ -1,3 +1,4 @@
+---
 id: "10"
 slug: "oxalic-acid-safety-handling"
 title: "Seguridad y Manejo del Ácido Oxálico: Una Guía Completa"
