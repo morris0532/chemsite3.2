@@ -118,7 +118,7 @@ const PrivacyPolicy = () => {
         content: "Si tiene alguna pregunta sobre esta política de privacidad o nuestras prácticas de privacidad, contáctenos en: info@sinopeakchem.com"
       }
     ]
-  } : {
+  }) : {
     title: "Privacy Policy",
     lastUpdated: "Last updated: April 04, 2026",
     sections: [
@@ -155,7 +155,7 @@ const PrivacyPolicy = () => {
         content: "If you have any questions about this privacy policy or our privacy practices, please contact us at: info@sinopeakchem.com"
       }
     ]
-  });
+  )
 
   return (
     <Layout title={content.title}>
