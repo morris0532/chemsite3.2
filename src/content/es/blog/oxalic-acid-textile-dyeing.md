@@ -1,3 +1,4 @@
+---
 id: "11"
 slug: "oxalic-acid-textile-dyeing"
 title: "Ácido Oxálico para Teñido e Impresión Textil: Aplicaciones Industriales"
