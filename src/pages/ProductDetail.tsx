@@ -194,6 +194,7 @@ export default function ProductDetailPage() {
                     src={product.image} 
                     alt={product.name} 
                     className="w-full h-full object-contain p-12 group-hover:scale-105 transition-transform duration-700"
+                    fetchPriority="high"
                   />
                 </div>
               </div>

@@ -5,8 +5,8 @@ import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
-const HERO_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/0821521e-e54b-4dff-b118-4f4b9ba70803.png";
-const SHIP_IMG = "https://mgx-backend-cdn.metadl.com/generate/images/1044526/2026-03-20/e6ad8468-80af-478a-a520-d0ca3ba12cdb.png";
+const HERO_IMG = "/images/remote/hero.webp";
+const SHIP_IMG = "/images/remote/ship.webp";
 
 const jsonLdEn = {
   "@context": "https://schema.org",
@@ -202,7 +202,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-[500px] md:min-h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Supply" className="w-full h-full object-cover" />
+          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Supply" className="w-full h-full object-cover" fetchPriority="high" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#003d66]/95 via-[#004a82]/80 to-transparent" />
         </div>
         <div className="container mx-auto px-4 relative z-10 py-12 md:py-16">

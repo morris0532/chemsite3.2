@@ -14,4 +14,21 @@ export default defineConfig({
   optimizeDeps: {
     include: ['gray-matter'],
   },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          'react-vendor': ['react', 'react-dom', 'react-router-dom'],
+          'ui-vendor': [
+            '@radix-ui/react-accordion',
+            '@radix-ui/react-dialog',
+            '@radix-ui/react-dropdown-menu',
+            '@radix-ui/react-tabs',
+            'lucide-react'
+          ],
+        },
+      },
+    },
+    chunkSizeWarningLimit: 1000,
+  },
 });
