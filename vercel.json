@@ -49,7 +49,15 @@
   "rewrites": [
     {
       "source": "/(en|ru|fr|es)/(blog|products)/:slug",
-      "destination": "/$1/$2/:slug/index.html"
+      "destination": "/index.html"
+    },
+    {
+      "source": "/(en|ru|fr|es)/(blog|products)",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/(en|ru|fr|es)/:path*",
+      "destination": "/index.html"
     },
     {
       "source": "/(.*)",
