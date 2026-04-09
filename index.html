@@ -8,7 +8,7 @@
     <meta name="description" content="Sinopeakchem is a leading B2B chemical supplier from China." />
     <meta name="author" content="Sinopeakchem" />
 
-    <!-- Anti-FOUC (Flash of Unstyled Content) Styles -->
+    <!-- Anti-FOUC & Critical CSS -->
     <style>
       /* 1. Loading Mask Style */
       #loading-mask {
@@ -22,7 +22,6 @@
         transition: opacity 0.4s ease, visibility 0.4s;
       }
       
-      /* Dark mode support for mask if needed */
       .dark #loading-mask {
         background-color: #030712;
       }
@@ -43,9 +42,60 @@
         transition-delay: 0s !important;
       }
 
-      /* 3. Hide root content until CSS is ready to avoid "text/image first" flash */
+      /* 3. Critical Layout Styles to minimize CLS */
+      #root {
+        min-height: 100vh;
+      }
+
       #root:not(.loaded) {
         opacity: 0;
+      }
+
+      /* Pre-define Hero section structure to avoid shift */
+      .hero {
+        padding: 4rem 1rem;
+        text-align: center;
+        min-height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #f9fafb;
+      }
+
+      .dark .hero {
+        background-color: #111827;
+      }
+
+      .hero h1 {
+        font-size: 2.25rem;
+        line-height: 2.5rem;
+        margin-bottom: 1.5rem;
+        font-weight: 700;
+      }
+
+      .product-grid {
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: 1.5rem;
+        padding: 1rem;
+      }
+
+      @media (min-width: 768px) {
+        .product-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .product-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+      }
+
+      .product-item, .product-card {
+        min-height: 350px;
+        background-color: #ffffff;
+        border-radius: 0.5rem;
       }
     </style>
 
@@ -53,7 +103,7 @@
       /* Immediately add no-animate class to prevent initial jumping */
       document.documentElement.classList.add('no-animate');
       
-      /* Dark mode detection (optional but recommended for consistent mask color) */
+      /* Dark mode detection */
       (function() {
         var theme = localStorage.getItem('theme') || 
                     (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
