@@ -1,3 +1,4 @@
+---
 id: "a6sd4asd4"
 slug: "comparacion-quimicos-para-tratamiento-de-agua"
 title: "Comparación de Químicos para el Tratamiento de Agua: PAC vs Sulfato de Aluminio vs Cloruro Férrico"
