@@ -1,3 +1,4 @@
+---
 id: "19"
 name: "Cloruro de Polialuminio (PAC)"
 nameCn: "聚合氯化铝"
