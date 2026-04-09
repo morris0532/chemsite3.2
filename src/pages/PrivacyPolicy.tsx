@@ -155,7 +155,7 @@ const PrivacyPolicy = () => {
         content: "If you have any questions about this privacy policy or our privacy practices, please contact us at: info@sinopeakchem.com"
       }
     ]
-  )
+  })
 
   return (
     <Layout title={content.title}>
