@@ -10,17 +10,18 @@ export interface SearchResult {
   category: string;
   image: string;
   cas?: string;
-  language: 'en' | 'ru' | 'fr';
+  language: 'en' | 'ru' | 'fr' | 'es';
   score?: number;
 }
 
-export function useSearch(currentLocale: 'en' | 'ru' | 'fr') {
+export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es') {
   const enContent = useMarkdownContent('en');
   const ruContent = useMarkdownContent('ru');
   const frContent = useMarkdownContent('fr');
+  const esContent = useMarkdownContent('es');
 
   const searchIndex = useMemo(() => {
-    // 合并英文、俄文和法文的所有内容
+    // 合并英文、俄文、法文和西班牙文的所有内容
     const items: SearchResult[] = [
       // 英文内容
       ...enContent.posts.map((post: any) => ({
@@ -82,6 +83,26 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr') {
         cas: product.cas,
         language: 'fr' as const,
       })),
+      // 西班牙文内容
+      ...esContent.posts.map((post: any) => ({
+        type: 'post' as const,
+        slug: post.slug,
+        title: post.title,
+        description: post.excerpt,
+        category: post.category,
+        image: post.image,
+        language: 'es' as const,
+      })),
+      ...esContent.products.map((product: any) => ({
+        type: 'product' as const,
+        slug: product.slug,
+        title: product.name,
+        description: product.shortDescription,
+        category: product.category,
+        image: product.image,
+        cas: product.cas,
+        language: 'es' as const,
+      })),
     ];
 
     return new Fuse(items, {
@@ -126,11 +147,11 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr') {
     // 返回去重后的总数（同一内容的不同语言版本只计一次）
     const uniqueKeys = new Set<string>();
     
-    [...enContent.posts, ...ruContent.posts, ...frContent.posts].forEach((post: any) => {
+    [...enContent.posts, ...ruContent.posts, ...frContent.posts, ...esContent.posts].forEach((post: any) => {
       uniqueKeys.add(`post-${post.slug}`);
     });
     
-    [...enContent.products, ...ruContent.products, ...frContent.products].forEach((product: any) => {
+    [...enContent.products, ...ruContent.products, ...frContent.products, ...esContent.products].forEach((product: any) => {
       uniqueKeys.add(`product-${product.slug}`);
     });
 

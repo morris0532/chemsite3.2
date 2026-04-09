@@ -14,10 +14,11 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
   const location = useLocation();
   const isRu = location.pathname.startsWith('/ru');
   const isFr = location.pathname.startsWith('/fr');
-  const locale = isRu ? 'ru' : (isFr ? 'fr' : 'en');
-  const langPrefix = isRu ? '/ru' : (isFr ? '/fr' : '/en');
+  const isEs = location.pathname.startsWith('/es');
+  const locale = isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en'));
+  const langPrefix = isRu ? '/ru' : (isFr ? '/fr' : (isEs ? '/es' : '/en'));
 
-  const { search } = useSearch(locale as 'en' | 'ru' | 'fr');
+  const { search } = useSearch(locale as 'en' | 'ru' | 'fr' | 'es');
   const results = search(query);
 
   const handleResultClick = useCallback((result: any) => {
@@ -58,6 +59,16 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
     product: "Produit",
     article: "Article",
     foundResults: (count: number) => `${count} résultats trouvés`
+  } : isEs ? {
+    placeholder: "Buscar productos, artículos...",
+    enterQuery: "Ingrese una consulta de búsqueda",
+    noResults: "No se encontraron resultados",
+    noResultsDesc: "¿No encuentra el número CAS o el producto que necesita? Como su socio de confianza, podemos ayudarle a encontrar productos químicos específicos a través de nuestra red de fábricas verificadas.",
+    askWhatsApp: "Preguntar por WhatsApp",
+    sendInquiry: "Enviar Consulta",
+    product: "Producto",
+    article: "Artículo",
+    foundResults: (count: number) => `Se encontraron ${count} resultados`
   } : {
     placeholder: "Search products, articles...",
     enterQuery: "Enter a search query",
