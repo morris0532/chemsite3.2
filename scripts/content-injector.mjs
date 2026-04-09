@@ -153,7 +153,7 @@ routes.forEach(route => {
       
       const productsHtml = contentMetadata[locale].products.map((p, index) => `
         <div class="product-card">
-          <img src="${p.image}" alt="${p.title}" width="300" height="200" ${index < 4 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
+          <img src="${p.image}" alt="${p.title}" width="300" height="200" ${index < 2 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
           <h3>${p.title}</h3>
           <p>CAS: ${p.cas}</p>
           <a href="/${locale}/products/${p.slug}">${siteConfig[locale]?.ui?.viewDetails || 'View Details'}</a>
@@ -203,7 +203,7 @@ routes.forEach(route => {
     
     const productsHtml = contentMetadata[locale].products.slice(0, 6).map((p, index) => `
       <div class="product-item">
-        <img src="${p.image}" alt="${p.title}" width="300" height="200" ${index < 3 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
+        <img src="${p.image}" alt="${p.title}" width="300" height="200" ${index < 1 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
         <h3>${p.title}</h3>
         <p>CAS: ${p.cas}</p>
         <a href="/${locale}/products/${p.slug}">View Details</a>
@@ -230,8 +230,8 @@ routes.forEach(route => {
       html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
     }
 
-    // Inject LCP Preload
-    if (lcpImage) {
+    // Inject LCP Preload (only if not already in template)
+    if (lcpImage && !html.includes(lcpImage)) {
       const preloadTag = `\n    <link rel="preload" as="image" href="${lcpImage}" fetchpriority="high">`;
       html = html.replace(/<\/head>/i, `${preloadTag}\n  </head>`);
     }
