@@ -1,3 +1,4 @@
+---
 id: "14"
 slug: "oxalic-acid-packaging-storage"
 title: "Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad"
