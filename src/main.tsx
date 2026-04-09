@@ -3,44 +3,49 @@ import App from './app.tsx';
 import './index.css';
 import { loadRuntimeConfig } from './lib/config.ts';
 
-// Load runtime configuration before rendering the app
-async function initializeApp() {
-  try {
-    await loadRuntimeConfig();
-    console.log('Runtime configuration loaded successfully');
-  } catch (error) {
-    console.warn(
-      'Failed to load runtime configuration, using defaults:',
-      error
-    );
-  }
-
-  // Render the app
+// Optimized initialization to reduce TBT (Total Blocking Time)
+function initializeApp() {
   const rootElement = document.getElementById('root')!;
   
-  // Add loaded class to root to reveal content
+  // 1. Immediately add loaded class to root to reveal static content if present
   rootElement.classList.add('loaded');
   
-  createRoot(rootElement).render(<App />);
+  // 2. Start rendering React IMMEDIATELY without waiting for config
+  const root = createRoot(rootElement);
+  root.render(<App />);
 
-  // Remove loading mask and animations after a short delay to ensure rendering is complete
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      const mask = document.getElementById('loading-mask');
-      if (mask) {
-        mask.classList.add('fade-out');
-        // Clean up mask after transition
-        setTimeout(() => {
-          if (mask && mask.parentNode) {
-            mask.remove();
+  // 3. Load runtime configuration in the background
+  // This prevents blocking the main thread during initial hydration
+  loadRuntimeConfig()
+    .then(() => {
+      console.log('Runtime configuration loaded successfully');
+    })
+    .catch((error) => {
+      console.warn(
+        'Failed to load runtime configuration, using defaults:',
+        error
+      );
+    })
+    .finally(() => {
+      // 4. Remove loading mask and animations after a short delay
+      // Using requestAnimationFrame to ensure the browser has painted the first frame
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          const mask = document.getElementById('loading-mask');
+          if (mask) {
+            mask.classList.add('fade-out');
+            setTimeout(() => {
+              if (mask && mask.parentNode) {
+                mask.remove();
+              }
+            }, 500);
           }
-        }, 500);
-      }
-      
-      // Re-enable animations
-      document.documentElement.classList.remove('no-animate');
+          
+          // Re-enable animations
+          document.documentElement.classList.remove('no-animate');
+        });
+      });
     });
-  });
 }
 
 // Initialize the app
