@@ -196,7 +196,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-2 font-medium"><Mail className="w-3.5 h-3.5 opacity-80" /> info@sinopeakchem.com</span>
             <span className="flex items-center gap-2 font-medium">
-              <Phone className="w-3.5 h-3.5 opacity-80" /> {phoneDisplay || "Loading..."}
+              <Phone className="w-3.5 h-3.5 opacity-80" /> 
+              <span dir="ltr" style={{ unicodeBidi: 'isolate' }}>{phoneDisplay || "Loading..."}</span>
             </span>
           </div>
 
@@ -379,7 +380,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 </li>
                 <li className={`flex items-center gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Phone className="w-5 h-5 text-[#0066B3]" /></div>
-                  <a href={phoneLink} className="text-gray-400 hover:text-white transition-colors">{phoneDisplay}</a>
+                  <a href={phoneLink} className="text-gray-400 hover:text-white transition-colors" dir="ltr" style={{ unicodeBidi: 'isolate' }}>{phoneDisplay}</a>
                 </li>
                 <li className={`flex items-center gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Mail className="w-5 h-5 text-[#0066B3]" /></div>

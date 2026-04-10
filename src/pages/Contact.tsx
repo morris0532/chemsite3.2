@@ -268,7 +268,7 @@ export default function ContactPage() {
                     </div>
                     <div className={isAr ? 'text-right' : ''}>
                       <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
-                      <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">
+                      <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm" dir="ltr" style={{ unicodeBidi: 'isolate' }}>
                         {waDisplay || "Loading..."}
                       </a>
                     </div>
