@@ -1,5 +1,5 @@
 ---
-id: "7"
+id: "sadkh76as7"
 slug: "sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications"
 title: "Thiosulfate de sodium : le produit chimique polyvalent pour diverses applications industrielles"
 excerpt: "Un regard approfondi sur les diverses applications du thiosulfate de sodium, du traitement de l'eau et de la photographie à l'exploitation minière et à la médecine."
