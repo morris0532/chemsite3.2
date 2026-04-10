@@ -15,8 +15,9 @@ export default function BlogDetailPage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : "en"));
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : (isAr ? "ar" : "en")));
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
   const { posts, getPostBySlug } = useMarkdownContent(locale);
   const { ui } = useSiteConfig(locale);
@@ -32,11 +33,11 @@ export default function BlogDetailPage() {
 
   if (!post) {
     return (
-      <Layout title={isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : "Article Not Found"))}>
-        <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-800 mb-4">{isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : "Article Not Found"))}</h1>
-          <p className="text-gray-600 mb-6">{isRu ? "Статья, которую вы ищете, не существует." : (isFr ? "L'article que vous recherchez n'existe pas." : (isEs ? "El artículo que busca no existe." : "The article you are looking for does not exist."))}</p>
-          <Link to={`${langPrefix}/blog`}><Button className="bg-[#0066B3] text-white">{isRu ? "Просмотреть все статьи" : (isFr ? "Voir tous les articles" : (isEs ? "Ver todos los artículos" : "Browse All Articles"))}</Button></Link>
+      <Layout title={isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : (isAr ? "المقال غير موجود" : "Article Not Found")))}>
+        <div className={`container mx-auto px-4 py-20 text-center ${isAr ? 'text-right' : ''}`}>
+          <h1 className={`text-2xl font-bold text-gray-800 mb-4 ${isAr ? 'font-arabic' : ''}`}>{isRu ? "Статья не найдена" : (isFr ? "Article non trouvé" : (isEs ? "Artículo no encontrado" : (isAr ? "المقال غير موجود" : "Article Not Found")))}</h1>
+          <p className={`text-gray-600 mb-6 ${isAr ? 'font-arabic' : ''}`}>{isRu ? "Статья, которую вы ищете, не существует." : (isFr ? "L'article que vous recherchez n'existe pas." : (isEs ? "El artículo que busca no existe." : (isAr ? "المقال الذي تبحث عنه غير موجود." : "The article you are looking for does not exist.")))}</p>
+          <Link to={`${langPrefix}/blog`}><Button className={`bg-[#0066B3] text-white ${isAr ? 'font-arabic' : ''}`}>{isRu ? "Просмотреть все статьи" : (isFr ? "Voir tous les articles" : (isEs ? "Ver todos los artículos" : (isAr ? "تصفح جميع المقالات" : "Browse All Articles")))}</Button></Link>
         </div>
       </Layout>
     );
@@ -71,6 +72,15 @@ export default function BlogDetailPage() {
     needChemicals: "¿Necesita productos químicos?",
     getQuoteDesc: "Obtenga precios competitivos en más de 22 productos químicos industriales.",
     getQuote: "Obtener una Cotización",
+  } : isAr ? {
+    home: "الرئيسية",
+    blog: "المدونة",
+    backToBlog: "العودة إلى المدونة",
+    share: "مشاركة:",
+    recentArticles: "مقالات حديثة",
+    needChemicals: "هل تحتاج إلى منتجات كيميائية؟",
+    getQuoteDesc: "احصل على أسعار تنافسية لأكثر من 22 مادة كيميائية صناعية.",
+    getQuote: "احصل على عرض سعر",
   } : {
     home: "Home",
     blog: "Blog",
@@ -95,10 +105,10 @@ export default function BlogDetailPage() {
         <div className="container mx-auto px-4 py-3">
           <nav className="flex items-center gap-1 text-sm text-gray-500" aria-label="Breadcrumb">
             <Link to={langPrefix} className="hover:text-[#0066B3]">{content.home}</Link>
-            <ChevronRight className="w-3.5 h-3.5" />
+            <ChevronRight className={`w-3.5 h-3.5 ${isAr ? 'rotate-180' : ''}`} />
             <Link to={`${langPrefix}/blog`} className="hover:text-[#0066B3]">{content.blog}</Link>
-            <ChevronRight className="w-3.5 h-3.5" />
-            <span className="text-[#0066B3] font-medium line-clamp-1">{post.title}</span>
+            <ChevronRight className={`w-3.5 h-3.5 ${isAr ? 'rotate-180' : ''}`} />
+            <span className={`text-[#0066B3] font-medium line-clamp-1 ${isAr ? 'font-arabic' : ''}`}>{post.title}</span>
           </nav>
         </div>
       </div>
@@ -107,9 +117,9 @@ export default function BlogDetailPage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
             {/* Article */}
-            <article className="lg:col-span-2">
+            <article className={`lg:col-span-2 ${isAr ? 'text-right' : ''}`}>
               <Link to={`${langPrefix}/blog`} className="inline-flex items-center text-sm text-[#0066B3] hover:underline mb-4">
-                <ArrowLeft className="w-4 h-4 mr-1" /> {content.backToBlog}
+                <ArrowLeft className={`w-4 h-4 mr-1 ${isAr ? 'rotate-180' : ''}`} /> {content.backToBlog}
               </Link>
 
               <div className="aspect-video rounded-2xl overflow-hidden mb-6">
@@ -118,11 +128,11 @@ export default function BlogDetailPage() {
 
               <div className="flex flex-wrap items-center gap-3 mb-4">
                 <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "long", day: "numeric", year: "numeric" })}</span>
+                <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "long", day: "numeric", year: "numeric" })}</span>
                 <span className="text-xs text-gray-500 flex items-center gap-1"><User className="w-3 h-3" /> {post.author}</span>
               </div>
-
-              <h1 className="text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-6">{post.title}</h1>
+    
+              <h1 className={`text-3xl md:text-4xl font-bold text-[#1A1A2E] mb-6 ${isAr ? 'font-arabic' : ''}`}>{post.title}</h1>
 
               <div className="prose prose-gray max-w-none">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
@@ -150,27 +160,27 @@ export default function BlogDetailPage() {
             {/* Sidebar */}
             <aside>
               <div className="sticky top-24">
-                <h3 className="text-lg font-bold text-[#1A1A2E] mb-4">{content.recentArticles}</h3>
+                <h3 className={`text-lg font-bold text-[#1A1A2E] mb-4 ${isAr ? 'font-arabic text-right' : ''}`}>{content.recentArticles}</h3>
                 <div className="space-y-4">
                   {recentPosts.map((rp: any) => (
-                    <Link key={rp.slug} to={`${langPrefix}/blog/${rp.slug}`} className="group flex gap-3">
+                    <Link key={rp.slug} to={`${langPrefix}/blog/${rp.slug}`} className={`group flex gap-3 ${isAr ? 'flex-row-reverse text-right' : ''}`}>
                       <div className="w-20 h-16 bg-gray-50 rounded-lg overflow-hidden flex-shrink-0">
                         <img src={rp.image} alt={rp.title} className="w-full h-full object-cover" loading="lazy" />
                       </div>
                       <div>
-                        <h4 className="text-sm font-medium text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors line-clamp-2">{rp.title}</h4>
-                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "short", day: "numeric" })}</p>
+                        <h4 className={`text-sm font-medium text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors line-clamp-2 ${isAr ? 'font-arabic' : ''}`}>{rp.title}</h4>
+                        <p className="text-xs text-gray-500 mt-1">{new Date(rp.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "short", day: "numeric" })}</p>
                       </div>
                     </Link>
                   ))}
                 </div>
 
                 {/* CTA */}
-                <div className="mt-8 bg-[#0066B3] rounded-xl p-6 text-white">
-                  <h3 className="font-bold mb-2">{content.needChemicals}</h3>
-                  <p className="text-sm text-blue-100 mb-4">{content.getQuoteDesc}</p>
+                <div className={`mt-8 bg-[#0066B3] rounded-xl p-6 text-white ${isAr ? 'text-right' : ''}`}>
+                  <h3 className={`font-bold mb-2 ${isAr ? 'font-arabic' : ''}`}>{content.needChemicals}</h3>
+                  <p className={`text-sm text-blue-100 mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.getQuoteDesc}</p>
                   <Link to={`${langPrefix}/contact`}>
-                    <Button className="w-full bg-white text-[#0066B3] hover:bg-blue-50">{content.getQuote}</Button>
+                    <Button className={`w-full bg-white text-[#0066B3] hover:bg-blue-50 ${isAr ? 'font-arabic' : ''}`}>{content.getQuote}</Button>
                   </Link>
                 </div>
               </div>
