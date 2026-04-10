@@ -26,6 +26,8 @@ export default defineConfig({
             '@radix-ui/react-tabs',
             'lucide-react'
           ],
+          // Separate gallery chunk to ensure it's only loaded on demand
+          'gallery-page': ['./src/pages/PackagingGallery.tsx'],
         },
       },
     },

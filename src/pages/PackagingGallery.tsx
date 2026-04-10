@@ -3,7 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import { ChevronRight, Home, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
-import galleryData from "@/data/packaging-gallery.json";
 
 interface GalleryItem {
   id: string;
@@ -27,18 +26,25 @@ export default function PackagingGalleryPage() {
   const [selectedProduct, setSelectedProduct] = useState<GalleryItem | null>(null);
   const [galleryItems, setGalleryItems] = useState<GalleryItem[]>([]);
 
-  // Load gallery data from JSON file
+  // Load gallery data dynamically only when component mounts
   useEffect(() => {
-    if (galleryData && galleryData.items && Array.isArray(galleryData.items)) {
-      // Sort by order if available, otherwise by name
-      const sorted = [...galleryData.items].sort((a, b) => {
-        if (a.order !== undefined && b.order !== undefined) {
-          return a.order - b.order;
+    const loadData = async () => {
+      try {
+        const data = await import("@/data/packaging-gallery.json");
+        if (data && data.default && data.default.items) {
+          const sorted = [...data.default.items].sort((a: any, b: any) => {
+            if (a.order !== undefined && b.order !== undefined) {
+              return a.order - b.order;
+            }
+            return a.name.localeCompare(b.name);
+          });
+          setGalleryItems(sorted);
         }
-        return a.name.localeCompare(b.name);
-      });
-      setGalleryItems(sorted);
-    }
+      } catch (error) {
+        console.error("Failed to load gallery data:", error);
+      }
+    };
+    loadData();
   }, []);
 
   const filtered = useMemo(() => {
