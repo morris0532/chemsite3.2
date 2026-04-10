@@ -6,6 +6,7 @@ const TermsOfService = () => {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
+  const isAr = location.pathname.startsWith("/ar");
 
   const content = isRu ? {
     title: "Условия использования",
@@ -103,6 +104,38 @@ const TermsOfService = () => {
         content: "Estos términos y condiciones se rigen e interpretan de acuerdo con las leyes de China y usted se somete irrevocablemente a la jurisdicción exclusiva de los tribunales en ese Estado o ubicación."
       }
     ]
+  } : isAr ? {
+    title: "شروط الخدمة",
+    lastUpdated: "آخر تحديث: 4 أبريل 2026",
+    sections: [
+      {
+        title: "1. الشروط",
+        content: "من خلال الدخول إلى الموقع الإلكتروني sinopeakchem.com، فإنك توافق على الالتزام بشروط الخدمة هذه، وجميع القوانين واللوائح المعمول بها، وتوافق على أنك مسؤول عن الامتثال لأي قوانين محلية معمول بها. إذا كنت لا توافق على أي من هذه الشروط، فيحظر عليك استخدام هذا الموقع أو الدخول إليه."
+      },
+      {
+        title: "2. ترخيص الاستخدام",
+        content: "يُمنح الإذن بتنزيل نسخة واحدة مؤقتاً من المواد (المعلومات أو البرامج) على الموقع الإلكتروني لشركة Sinopeakchem للمشاهدة الشخصية غير التجارية والعابرة فقط. هذا هو منح ترخيص، وليس نقل ملكية، وبموجب هذا الترخيص لا يجوز لك:",
+        list: [
+          "تعديل أو نسخ المواد؛",
+          "استخدام المواد لأي غرض تجاري، أو لأي عرض عام (تجاري أو غير تجاري)؛",
+          "محاولة فك تجميع أو هندسة عكسية لأي برنامج موجود على موقع Sinopeakchem الإلكتروني؛",
+          "إزالة أي حقوق نشر أو ملاحظات ملكية أخرى من المواد؛ أو",
+          "نقل المواد إلى شخص آخر أو \"محاكاة\" المواد على أي خادم آخر."
+        ]
+      },
+      {
+        title: "3. إخلاء المسؤولية",
+        content: "يتم تقديم المواد الموجودة على موقع Sinopeakchem الإلكتروني على أساس \"كما هي\". لا تقدم Sinopeakchem أي ضمانات، صريحة أو ضمنية، وتخلي مسؤوليتها بموجب هذا وتنفي جميع الضمانات الأخرى بما في ذلك، على سبيل المثال لا الحصر، الضمانات أو الشروط الضمنية للتسويق، أو الملاءمة لغرض معين، أو عدم انتهاك الملكية الفكرية أو أي انتهاك آخر للحقوق."
+      },
+      {
+        title: "4. القيود",
+        content: "لا تتحمل Sinopeakchem أو موردوها المسؤولية بأي حال من الأحوال عن أي أضرار (بما في ذلك، على سبيل المثال لا الحصر، الأضرار الناجمة عن فقدان البيانات أو الربح، أو بسبب انقطاع العمل) الناشئة عن استخدام أو عدم القدرة على استخدام المواد على موقع Sinopeakchem الإلكتروني، حتى لو تم إخطار Sinopeakchem أو ممثل Sinopeakchem المعتمد شفهياً أو خطياً باحتمالية حدوث مثل هذا الضرر."
+      },
+      {
+        title: "5. القانون الحاكم",
+        content: "تخضع هذه الشروط والأحكام وتُفسر وفقاً لقوانين الصين، وتخضع أنت بشكل غير قابل للإلغاء للاختصاص القضائي الحصري للمحاكم في تلك الدولة أو الموقع."
+      }
+    ]
   } : {
     title: "Terms of Service",
     lastUpdated: "Last updated: April 04, 2026",
@@ -139,19 +172,19 @@ const TermsOfService = () => {
 
   return (
     <Layout title={content.title}>
-      <div className="container mx-auto px-4 py-24 max-w-4xl">
-        <h1 className="text-4xl font-bold mb-8">{content.title}</h1>
+      <div className={`container mx-auto px-4 py-24 max-w-4xl ${isAr ? 'text-right' : ''}`}>
+        <h1 className={`text-4xl font-bold mb-8 ${isAr ? 'font-arabic' : ''}`}>{content.title}</h1>
         <div className="prose prose-blue max-w-none">
-          <p className="text-gray-600 mb-6">{content.lastUpdated}</p>
+          <p className={`text-gray-600 mb-6 ${isAr ? 'font-arabic' : ''}`}>{content.lastUpdated}</p>
           
           {content.sections.map((section, index) => (
             <section key={index} className="mb-8">
-              <h2 className="text-2xl font-semibold mb-4">{section.title}</h2>
-              <p className="mb-4">{section.content}</p>
+              <h2 className={`text-2xl font-semibold mb-4 ${isAr ? 'font-arabic' : ''}`}>{section.title}</h2>
+              <p className={`mb-4 ${isAr ? 'font-arabic leading-relaxed' : ''}`}>{section.content}</p>
               {section.list && (
-                <ul className="list-disc pl-6 mb-4">
+                <ul className={`list-disc mb-4 ${isAr ? 'pr-6 pl-0' : 'pl-6'}`}>
                   {section.list.map((item, i) => (
-                    <li key={i}>{item}</li>
+                    <li key={i} className={isAr ? 'font-arabic mb-1' : ''}>{item}</li>
                   ))}
                 </ul>
               )}
