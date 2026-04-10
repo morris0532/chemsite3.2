@@ -11,7 +11,8 @@ export function getPrerenderRoutes() {
     '/about',
     '/contact',
     '/privacy-policy',
-    '/terms-of-service'
+    '/terms-of-service',
+    '/packaging-gallery'
   ];
 
   const routes = [];
