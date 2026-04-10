@@ -265,6 +265,23 @@ routes.forEach(route => {
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     html = html.replace(/<meta\s+name="description"\s+content=".*?"\s*\/?>/i, `<meta name="description" content="${cleanDesc}" />`);
 
+    // Inject Hreflang Tags
+    const availableLocales = ['en', 'ru', 'fr', 'es', 'ar'];
+    let hreflangTags = '\n';
+    
+    // Determine the path without locale
+    const pathWithoutLocale = parts.slice(1).join('/');
+    const suffix = pathWithoutLocale ? `/${pathWithoutLocale}` : '';
+
+    availableLocales.forEach(l => {
+      const href = `${BASE_URL}/${l}${suffix}`;
+      hreflangTags += `    <link rel="alternate" hreflang="${l}" href="${href}" />\n`;
+    });
+    // Add x-default (usually English for B2B)
+    hreflangTags += `    <link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${suffix}" />`;
+    
+    html = html.replace(/<\/head>/i, `${hreflangTags}\n  </head>`);
+
     // Inject JSON-LD
     if (jsonLd) {
       const jsonLdString = `\n    <script type="application/ld+json">\n      ${JSON.stringify(jsonLd, null, 2)}\n    </script>`;
