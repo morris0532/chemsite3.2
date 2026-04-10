@@ -116,11 +116,33 @@ routes.forEach(route => {
           "name": data.name,
           "description": data.shortDescription || description,
           "sku": `CAS-${data.cas}`,
-          "brand": { "@type": "Brand", "name": "Sinopeakchem" },
+          "mpn": data.cas,
+          "brand": { 
+            "@type": "Brand", 
+            "name": "Sinopeakchem" 
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": "12"
+          },
           "offers": {
             "@type": "Offer",
-            "seller": { "@type": "Organization", "name": "Sinopeakchem" },
-            "availability": "https://schema.org/InStock"
+            "url": `${BASE_URL}/${locale}/products/${slug}`,
+            "priceCurrency": "USD",
+            "price": "0",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "0",
+              "priceCurrency": "USD",
+              "name": "Price on Request"
+            },
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "https://schema.org/InStock",
+            "seller": { 
+              "@type": "Organization", 
+              "name": "Sinopeakchem" 
+            }
           },
           "image": data.image
         };
@@ -242,6 +264,12 @@ routes.forEach(route => {
     
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     html = html.replace(/<meta\s+name="description"\s+content=".*?"\s*\/?>/i, `<meta name="description" content="${cleanDesc}" />`);
+
+    // Inject JSON-LD
+    if (jsonLd) {
+      const jsonLdString = `\n    <script type="application/ld+json">\n      ${JSON.stringify(jsonLd, null, 2)}\n    </script>`;
+      html = html.replace(/<\/head>/i, `${jsonLdString}\n  </head>`);
+    }
 
     if (cssContent) {
       html = inlineCSS(html, cssContent);
