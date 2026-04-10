@@ -1,77 +1,76 @@
 ---
 id: "3"
-name: "Oxalic Acid"
+name: "حمض الأكساليك"
 nameCn: "草酸"
 cas: "144-62-7 / 6153-56-6"
 hsCode: "2917111000"
 slug: "oxalic-acid"
-shortDescription: "High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from China. Essential for rare earth extraction, textile dyeing, and metal cleaning. Trusted supplier with competitive pricing."
+shortDescription: "حمض الأكساليك (حمض الإيثانيدويك) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري لاستخراج العناصر الأرضية النادرة، وصباغة المنسوجات، وتنظيف المعادن. مورد موثوق بأسعار تنافسية."
 image: "/images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"H₂C₂O₄·2H₂O"},
-  {"label":"CAS Number","value":"144-62-7 / 6153-56-6"},
-  {"label":"HS Code","value":"2917111000"},
-  {"label":"Purity","value":"≥99.6%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"H₂C₂O₄·2H₂O"},
+  {"label":"رقم CAS","value":"144-62-7 / 6153-56-6"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2917111000"},
+  {"label":"النقاء","value":"≥99.6%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Rare earth element extraction and purification",
-  "Textile dyeing and printing (mordant, reducing agent)",
-  "Metal cleaning and rust removal",
-  "Leather tanning",
-  "Pharmaceutical intermediates",
-  "Bleaching agent (wood, cork)"
+  "استخراج وتنقية العناصر الأرضية النادرة",
+  "صباغة وطباعة المنسوجات (مثبت ألوان، عامل مختزل)",
+  "تنظيف المعادن وإزالة الصدأ",
+  "دباغة الجلود",
+  "الوسائط الصيدلانية",
+  "عامل تبييض (الخشب، الفلين)"
 ]
 faqs: [
-  {"question":"What grades of Oxalic Acid do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Oxalic Acid, offering industrial grade with ≥99.6% purity. It is available for bulk purchase and export, ideal for various industrial applications including rare earth processing and metal cleaning."},{
-    "question":"What is the typical purity of your Oxalic Acid products?",
-    "answer":"Our Oxalic Acid (H₂C₂O₄·2H₂O) is available with a minimum purity of 99.6%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات حمض الأكساليك التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لحمض الأكساليك، ونقدم الدرجة الصناعية بنقاء ≥99.6%. وهو متاح للشراء بالجملة والتصدير، ومثالي لمختلف التطبيقات الصناعية بما في ذلك معالجة العناصر الأرضية النادرة وتنظيف المعادن."},{
+    "question":"ما هو النقاء النموذجي لمنتجات حمض الأكساليك الخاصة بكم؟",
+    "answer":"يتوفر حمض الأكساليك (H₂C₂O₄·2H₂O) لدينا بنقاء لا يقل عن 99.6%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Oxalic Acid packaged for international shipping from China?",
-    "answer":"For export, our Oxalic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة حمض الأكساليك للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة حمض الأكساليك لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Oxalic Acid?",
-    "answer":"Our industrial grade Oxalic Acid is widely used in rare earth element extraction, textile dyeing and printing, metal cleaning and rust removal, and leather tanning. Its strong reducing and chelating properties make it highly versatile."
+    "question":"ما هي التطبيقات الرئيسية لحمض الأكساليك من الدرجة الصناعية؟",
+    "answer":"يستخدم حمض الأكساليك من الدرجة الصناعية لدينا على نطاق واسع في استخراج العناصر الأرضية النادرة، وصباغة وطباعة المنسوجات، وتنظيف المعادن وإزالة الصدأ، ودباغة الجلود. خصائصه المختزلة والمخلبية القوية تجعله متعدد الاستخدامات للغاية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Oxalic Acid?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لحمض الأكساليك؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Oxalic Acid orders from your factory?",
-    "answer":"Standard lead time for bulk Oxalic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات حمض الأكساليك بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات حمض الأكساليك بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Organic Acids"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "الأحماض العضوية"
 featured: true
 ---
 
-## Oxalic Acid (CAS 144-62-7 / 6153-56-6): Your Trusted China supplier & Supplier for High-Purity Ethanedioic Acid
+## حمض الأكساليك (CAS 144-62-7 / 6153-56-6): موردك الصيني الموثوق لحمض الإيثانيدويك عالي النقاء
 
-As a premier **China supplier and supplier** of **Oxalic Acid (H₂C₂O₄·2H₂O)**, also known as **Ethanedioic Acid**, we offer **high-purity** product with **≥99.6% purity** for **bulk purchase** and **export** worldwide. Our Oxalic Acid is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of industrial applications (HS Code: 2917111000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **حمض الأكساليك (H₂C₂O₄·2H₂O)**، والمعروف أيضاً باسم **حمض الإيثانيدويك**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.6%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد حمض الأكساليك لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من التطبيقات الصناعية (رمز النظام المنسق: 2917111000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Rare Earth Element Extraction**: Oxalic Acid is critically used in the **rare earth industry** for the extraction, separation, and purification of rare earth elements. It forms insoluble oxalates with rare earth ions, facilitating their recovery.
+1.  **استخراج العناصر الأرضية النادرة**: يستخدم حمض الأكساليك بشكل حيوي في **صناعة العناصر الأرضية النادرة** لاستخراج وفصل وتنقية هذه العناصر. فهو يشكل أوكسالات غير قابلة للذوبان مع أيونات العناصر الأرضية النادرة، مما يسهل استعادتها.
 
-2.  **Textile Dyeing and Printing**: Employed in the **textile industry** as a mordant, a reducing agent, and a bleaching agent. It helps to fix dyes, remove rust stains from fabrics, and improve the brightness of textiles.
+2.  **صباغة وطباعة المنسوجات**: يستخدم في **صناعة المنسوجات** كمثبت ألوان، وعامل مختزل، وعامل تبييض. يساعد في تثبيت الأصباغ، وإزالة بقع الصدأ من الأقمشة، وتحسين سطوع المنسوجات.
 
-3.  **Metal Cleaning and Rust Removal**: A powerful agent for **metal cleaning and rust removal**, particularly for stainless steel and other metals. Its chelating properties effectively dissolve rust and scale, restoring metal surfaces.
+3.  **تنظيف المعادن وإزالة الصدأ**: عامل قوي لـ **تنظيف المعادن وإزالة الصدأ**، خاصة للفولاذ المقاوم للصدأ والمعادن الأخرى. تذيب خصائصه المخلبية الصدأ والقشور بفعالية، مما يعيد الأسطح المعدنية لحالتها الأصلية.
 
-4.  **Leather Tanning**: Used in the **leather tanning industry** as a deliming agent and a mordant, contributing to the quality and durability of leather products.
+4.  **دباغة الجلود**: يستخدم في **صناعة دباغة الجلود** كعامل لإزالة الكلس ومثبت ألوان، مما يساهم في جودة ومتانة المنتجات الجلدية.
 
-5.  **Pharmaceutical Intermediates**: Serves as a key **pharmaceutical intermediate** in the synthesis of various drugs and chemical compounds.
+5.  **الوسائط الصيدلانية**: يعمل كـ **وسيط صيدلاني** رئيسي في تصنيع مختلف الأدوية والمركبات الكيميائية.
 
-6.  **Bleaching Agent**: Used as a **bleaching agent** for wood, cork, and other natural fibers, effectively removing stains and lightening their color.
+6.  **عامل تبييض**: يستخدم كـ **عامل تبييض** للخشب والفلين والألياف الطبيعية الأخرى، حيث يزيل البقع بفعالية ويفتح لونها.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Oxalic Acid, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لحمض الأكساليك لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Oxalic Acid supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **حمض الأكساليك** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

@@ -1,77 +1,76 @@
 ---
 id: "9"
-name: "Citric Acid Monohydrate"
+name: "حمض الستريك أحادي الهيدرات"
 nameCn: "一水柠檬酸"
 cas: "5949-29-1"
 hsCode: "2918140000"
 slug: "citric-acid-monohydrate"
-shortDescription: "High-purity Citric Acid Monohydrate for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
+shortDescription: "حمض الستريك أحادي الهيدرات عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري للأغذية والمشروبات، والأدوية، والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"C₆H₈O₇·H₂O"},
-  {"label":"CAS Number","value":"5949-29-1"},
-  {"label":"HS Code","value":"2918140000"},
-  {"label":"Purity","value":"≥99.5%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"C₆H₈O₇·H₂O"},
+  {"label":"رقم CAS","value":"5949-29-1"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2918140000"},
+  {"label":"النقاء","value":"≥99.5%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Food and beverage industry (acidulant, preservative, flavor enhancer)",
-  "Pharmaceutical industry (excipient, pH regulator)",
-  "Detergent and cleaning products (chelating agent)",
-  "Cosmetics and personal care products",
-  "Industrial cleaning and descaling",
-  "Textile dyeing"
+  "صناعة الأغذية والمشروبات (عامل حموضة، مادة حافظة، معزز نكهة)",
+  "الصناعة الصيدلانية (سواغ، منظم حموضة)",
+  "المنظفات ومنتجات التنظيف (عامل مخلبي)",
+  "مستحضرات التجميل ومنتجات العناية الشخصية",
+  "التنظيف الصناعي وإزالة الترسبات",
+  "صباغة المنسوجات"
 ]
 faqs: [
-  {"question":"What grades of Citric Acid Monohydrate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Citric Acid Monohydrate, offering food grade, pharmaceutical grade, and industrial grade with ≥99.5% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Citric Acid Monohydrate products?",
-    "answer":"Our Citric Acid Monohydrate (C₆H₈O₇·H₂O) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات حمض الستريك أحادي الهيدرات التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لحمض الستريك أحادي الهيدرات، ونقدم الدرجة الغذائية، والدرجة الصيدلانية، والدرجة الصناعية بنقاء ≥99.5%. جميع الدرجات متاحة للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات حمض الستريك أحادي الهيدرات الخاصة بكم؟",
+    "answer":"يتوفر حمض الستريك أحادي الهيدرات (C₆H₈O₇·H₂O) لدينا بنقاء لا يقل عن 99.5%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Citric Acid Monohydrate packaged for international shipping from China?",
-    "answer":"For export, our Citric Acid Monohydrate is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة حمض الستريك أحادي الهيدرات للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة حمض الستريك أحادي الهيدرات لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Citric Acid Monohydrate?",
-    "answer":"Our industrial grade Citric Acid Monohydrate is widely used in the food and beverage industry as an acidulant, in pharmaceuticals as an excipient, in detergents as a chelating agent, and in cosmetics. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لحمض الستريك أحادي الهيدرات من الدرجة الصناعية؟",
+    "answer":"يستخدم حمض الستريك أحادي الهيدرات من الدرجة الصناعية لدينا على نطاق واسع في صناعة الأغذية والمشروبات كعامل حموضة، وفي الأدوية كسواغ، وفي المنظفات كعامل مخلبي، وفي مستحضرات التجميل. تعدد استخداماته يجعله مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Citric Acid Monohydrate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لحمض الستريك أحادي الهيدرات؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Citric Acid Monohydrate orders from your factory?",
-    "answer":"Standard lead time for bulk Citric Acid Monohydrate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات حمض الستريك أحادي الهيدرات بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات حمض الستريك أحادي الهيدرات بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Organic Acids"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "الأحماض العضوية"
 featured: false
 ---
 
-## Citric Acid Monohydrate (CAS 5949-29-1): Your Trusted China supplier & Supplier for High-Purity C₆H₈O₇·H₂O
+## حمض الستريك أحادي الهيدرات (CAS 5949-29-1): موردك الصيني الموثوق لـ C₆H₈O₇·H₂O عالي النقاء
 
-As a premier **China supplier and supplier** of **Citric Acid Monohydrate (C₆H₈O₇·H₂O)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Citric Acid Monohydrate is supplied through advanced fermentation processes, ensuring consistent quality that meets the most stringent international standards for food, pharmaceutical, and industrial applications (HS Code: 2918140000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **حمض الستريك أحادي الهيدرات (C₆H₈O₇·H₂O)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.5%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد حمض الستريك أحادي الهيدرات لدينا من خلال عمليات تخمير متقدمة، مما يضمن جودة متسقة تلبي المعايير الدولية الأكثر صرامة للتطبيقات الغذائية والصيدلانية والصناعية (رمز النظام المنسق: 2918140000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Food and Beverage Industry**: Widely used as an **acidulant, preservative, and flavor enhancer** in a vast array of food and beverage products, including soft drinks, candies, jams, and canned foods. It provides a tart taste and helps extend shelf life.
+1.  **صناعة الأغذية والمشروبات**: يستخدم على نطاق واسع كـ **عامل حموضة، ومادة حافظة، ومعزز نكهة** في مجموعة واسعة من منتجات الأغذية والمشروبات، بما في ذلك المشروبات الغازية والحلويات والمربيات والأطعمة المعلبة. يوفر طعماً لاذعاً ويساعد في إطالة مدة الصلاحية.
 
-2.  **Pharmaceutical Industry**: Essential in the **pharmaceutical industry** as an excipient, pH regulator, and chelating agent in various medications, effervescent tablets, and vitamin formulations.
+2.  **الصناعة الصيدلانية**: ضروري في **الصناعة الصيدلانية** كسواغ، ومنظم حموضة، وعامل مخلبي في مختلف الأدوية، والأقراص الفوارة، وتركيبات الفيتامينات.
 
-3.  **Detergent and Cleaning Products**: Functions as an effective **chelating agent** in detergents and cleaning products, binding with metal ions to improve cleaning efficiency and prevent scale formation.
+3.  **المنظفات ومنتجات التنظيف**: يعمل كـ **عامل مخلبي** فعال في المنظفات ومنتجات التنظيف، حيث يرتبط بأيونات المعادن لتحسين كفاءة التنظيف ومنع تكون القشور.
 
-4.  **Cosmetics and Personal Care Products**: Used in **cosmetics and personal care products** as a pH adjuster, antioxidant, and exfoliant in creams, lotions, shampoos, and bath bombs.
+4.  **مستحضرات التجميل ومنتجات العناية الشخصية**: يستخدم في **مستحضرات التجميل ومنتجات العناية الشخصية** كمعدل للحموضة، ومضاد للأكسدة، ومقشر في الكريمات والمستحضرات والشامبو وكرات الاستحمام الفوارة.
 
-5.  **Industrial Cleaning and Descaling**: Employed in **industrial cleaning and descaling** applications due to its ability to dissolve mineral deposits and rust, making it a safer alternative to stronger acids.
+5.  **التنظيف الصناعي وإزالة الترسبات**: يستخدم في تطبيقات **التنظيف الصناعي وإزالة الترسبات** نظراً لقدرته على إذابة الرواسب المعدنية والصدأ، مما يجعله بديلاً أكثر أماناً للأحماض القوية.
 
-6.  **Textile Dyeing**: Used in the **textile industry** as a mordant and pH regulator in dyeing processes, ensuring consistent color and improved dye uptake.
+6.  **صباغة المنسوجات**: يستخدم في **صناعة المنسوجات** كمثبت للألوان ومنظم للحموضة في عمليات الصباغة، مما يضمن لوناً متسقاً وتحسيناً في امتصاص الصبغة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Citric Acid Monohydrate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لحمض الستريك أحادي الهيدرات لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Citric Acid Monohydrate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **حمض الستريك أحادي الهيدرات** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

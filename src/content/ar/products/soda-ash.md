@@ -1,52 +1,51 @@
 ---
 id: "7"
-name: "Soda Ash (Sodium Carbonate)"
+name: "رماد الصودا (كربونات الصوديوم)"
 nameCn: "纯碱"
 cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"
-shortDescription: "High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and export from China. Essential for glass, detergent, and chemical supply. Trusted supplier with competitive pricing."
+shortDescription: "رماد الصودا (كربونات الصوديوم) الخفيف والكثيف عالي الجودة للشراء بالجملة والتصدير من الصين. ضروري لتوريد الزجاج والمنظفات والمواد الكيميائية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂CO₃"},
-  {"label":"CAS Number","value":"497-19-8"},
-  {"label":"HS Code","value":"2836200000"},
-  {"label":"Purity","value":"≥99.2% (Light/Dense)"},
-  {"label":"Appearance","value":"White powder (dense/light)"},
-  {"label":"Packaging","value":"40KG bags / Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₂CO₃"},
+  {"label":"رقم CAS","value":"497-19-8"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2836200000"},
+  {"label":"النقاء","value":"≥99.2% (خفيف/كثيف)"},
+  {"label":"المظهر","value":"مسحوق أبيض (كثيف/خفيف)"},
+  {"label":"التعبئة والتغليف","value":"أكياس 40 كجم / أكياس جامبو. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"27-28MT/20GP (dense) / 22-23MT/20GP (light)"},
-  {"label":"Available Ports","value":"Lianyungang / Qingdao / Tianjin"}
+  {"label":"التحميل","value":"27-28 طن متري/20GP (كثيف) / 22-23 طن متري/20GP (خفيف)"},
+  {"label":"الموانئ المتاحة","value":"ليانيونغانغ / تشينغداو / تيانجين"}
 ]
-applications: ["Glass and flat glass supply","Detergent and soap supply","Water treatment","Metallurgy and smelting","Paper supply","Chemical synthesis"]
+applications: ["توريد الزجاج والزجاج المسطح","توريد المنظفات والصابون","معالجة المياه","علم الفلزات والصهر","توريد الورق","التخليق الكيميائي"]
 faqs: [
-  {"question":"What is the difference between dense and light soda ash?","answer":"Dense soda ash has a higher bulk density (approximately 1000 kg/m³) and is preferred for glass supply. Light soda ash has a lower bulk density (approximately 500 kg/m³) and is commonly used in detergent supply and chemical synthesis."},{"question":"What is the minimum order quantity for bulk buy?","answer":"We recommend a full 20-foot container for best pricing. As a leading China supplier, we can load 27-28MT of dense soda ash or 22-23MT of light soda ash per 20GP."},{"question":"Which Chinese ports do you export Soda Ash from?","answer":"We primarily ship from Lianyungang and Qingdao ports, both offering excellent connectivity to global destinations for your bulk orders."},{"question":"Can you provide samples before I place a wholesale order?","answer":"Yes, as a trusted supplier, we can provide samples for quality testing. Please contact our sales team with your requirements and shipping address."}
+  {"question":"ما هو الفرق بين رماد الصودا الكثيف والخفيف؟","answer":"يحتوي رماد الصودا الكثيف على كثافة ظاهرة أعلى (حوالي 1000 كجم/م³) ويفضل لتوريد الزجاج. يحتوي رماد الصودا الخفيف على كثافة ظاهرة أقل (حوالي 500 كجم/م³) ويستخدم بشكل شائع في توريد المنظفات والتخليق الكيميائي."},{"question":"ما هو الحد الأدنى لكمية الطلب للشراء بالجملة؟","answer":"نوصي بحاوية كاملة سعة 20 قدماً للحصول على أفضل الأسعار. كمورد صيني رائد، يمكننا تحميل 27-28 طناً مترياً من رماد الصودا الكثيف أو 22-23 طناً مترياً من رماد الصودا الخفيف لكل حاوية 20 قدم."},{"question":"من أي الموانئ الصينية تصدرون رماد الصودا؟","answer":"نشحن بشكل أساسي من موانئ ليانيونغانغ وتشينغداو، وكلاهما يوفر اتصالاً ممتازاً بالوجهات العالمية لطلباتكم بالجملة."},{"question":"هل يمكنك تقديم عينات قبل تقديم طلب بالجملة؟","answer":"نعم، كمورد موثوق، يمكننا تقديم عينات لاختبار الجودة. يرجى الاتصال بفريق المبيعات لدينا مع متطلباتكم وعنوان الشحن."}
 ]
-ports: "Lianyungang / Qingdao"
-loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
-packaging: "40KG/Jumbo bags"
-category: "Alkali Products"
+ports: "ليانيونغانغ / تشينغداو"
+loading: "27-28 طن متري/20GP (كثيف) / 22-23 طن متري/20GP (خفيف)"
+packaging: "40 كجم/أكياس جامبو"
+category: "المنتجات القلوية"
 ---
 
-## Soda Ash (CAS 497-19-8): Your Premier China Supplier for Light & Dense Sodium Carbonate
+## رماد الصودا (CAS 497-19-8): موردك الصيني الأول لكربونات الصوديوم الخفيفة والكثيفة
 
-As a leading **China supplier and supplier** of **Soda Ash (Na₂CO₃)**, also known as **Sodium Carbonate**, we offer both **Light Soda Ash** and **Dense Soda Ash** with **≥99.2% purity** for **bulk purchase** and **export** worldwide. Our Soda Ash is supplied using advanced processes, ensuring consistent quality that meets the diverse needs of various industrial applications (HS Code: 2836200000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **رماد الصودا (Na₂CO₃)**، والمعروف أيضاً باسم **كربونات الصوديوم**، فإننا نقدم كلاً من **رماد الصودا الخفيف** و **رماد الصودا الكثيف** بنقاء **≥99.2%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد رماد الصودا لدينا باستخدام عمليات متقدمة، مما يضمن جودة متسقة تلبي الاحتياجات المتنوعة لمختلف التطبيقات الصناعية (رمز النظام المنسق: 2836200000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Glass supply**: Soda Ash is a fundamental raw material in the **glass supply industry**, used in the supply of flat glass, container glass, and fiberglass. It acts as a flux, lowering the melting point of silica and reducing energy consumption.
+1.  **توريد الزجاج**: رماد الصودا هو مادة خام أساسية في **صناعة توريد الزجاج**، ويستخدم في توريد الزجاج المسطح، وزجاج الحاويات، والألياف الزجاجية. يعمل كمساعد صهر، حيث يخفض درجة انصهار السيليكا ويقلل من استهلاك الطاقة.
 
-2.  **Detergent and Soap supply**: A crucial ingredient in the formulation of **detergents and soaps**, where it acts as a builder, enhancing cleaning efficiency by softening water and emulsifying grease.
+2.  **توريد المنظفات والصابون**: مكون حاسم في تركيب **المنظفات والصابون**، حيث يعمل كباني، مما يعزز كفاءة التنظيف عن طريق عسر الماء واستحلاب الدهون.
 
-3.  **Chemical supply**: Widely used in the supply of other essential chemicals, including **sodium silicates, sodium bicarbonate (baking soda)**, and various dyes and pigments. It serves as a versatile alkali source in numerous chemical reactions.
+3.  **التوريد الكيميائي**: يستخدم على نطاق واسع في توريد المواد الكيميائية الأساسية الأخرى، بما في ذلك **سيليكات الصوديوم، بيكربونات الصوديوم (صودا الخبز)**، ومختلف الأصباغ والصبغات. يعمل كمصدر قلوي متعدد الاستخدامات في العديد من التفاعلات الكيميائية.
 
-4.  **Water Treatment**: Employed in **water treatment** processes for pH adjustment, water softening by precipitating calcium and magnesium ions, and as a component in flocculation.
+4.  **معالجة المياه**: يستخدم في عمليات **معالجة المياه** لضبط الحموضة، وعسر الماء عن طريق ترسيب أيونات الكالسيوم والمغنيسيوم، وكمكون في التلبد.
 
-5.  **Metallurgy**: In the **metallurgical industry**, Soda Ash is used as a flux in smelting processes and as a desulfurizer in iron and steel supply, helping to remove impurities.
+5.  **علم الفلزات**: في **صناعة الفلزات**، يستخدم رماد الصودا كمساعد صهر في عمليات الصهر وكعامل لإزالة الكبريت في توريد الحديد والصلب، مما يساعد على إزالة الشوائب.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Soda Ash, including robust 40KG PP woven bags and 1000KG jumbo bags, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of up to 28 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao and Lianyungang, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لرماد الصودا لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 40 كجم وأكياس جامبو سعة 1000 كجم، مصممة للنقل الدولي الآمن. بالنسبة لـ **الطلبات بالجملة**، نضمن **تحميلاً** فعالاً يصل إلى 28 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وليانيونغانغ، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Soda Ash supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **رماد الصودا** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

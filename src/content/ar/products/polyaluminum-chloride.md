@@ -1,77 +1,76 @@
 ---
 id: "19"
-name: "Polyaluminum Chloride (PAC)"
+name: "كلوريد متعدد الألومنيوم (PAC)"
 nameCn: "聚合氯化铝"
 cas: "1327-41-9"
 hsCode: "2827320000"
 slug: "polyaluminum-chloride"
-shortDescription: "High-efficiency Polyaluminum Chloride (PAC) for bulk purchase and export from China. Essential for water treatment, wastewater purification, and industrial flocculation. Trusted supplier with competitive pricing."
+shortDescription: "كلوريد متعدد الألومنيوم (PAC) عالي الكفاءة للشراء بالجملة والتصدير من الصين. ضروري لمعالجة المياه، وتنقية مياه الصرف الصحي، والتلبد الصناعي. مورد موثوق بأسعار تنافسية."
 image: "/images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"[Al₂(OH)nCl₆-n]m"},
-  {"label":"CAS Number","value":"1327-41-9"},
-  {"label":"HS Code","value":"2827320000"},
-  {"label":"Al₂O₃ Content","value":"≥28% / ≥30% (Industrial Grade)"},
-  {"label":"Appearance","value":"Yellowish powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"[Al₂(OH)nCl₆-n]m"},
+  {"label":"رقم CAS","value":"1327-41-9"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2827320000"},
+  {"label":"محتوى Al₂O₃","value":"≥28% / ≥30% (درجة صناعية)"},
+  {"label":"المظهر","value":"مسحوق مائل للصفرة"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"20-22MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"20-22 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Drinking water treatment (coagulant, flocculant)",
-  "Industrial wastewater treatment (textile, paper, mining)",
-  "Municipal sewage treatment",
-  "Sludge dewatering",
-  "Oil-water separation",
-  "Sugar refining"
+  "معالجة مياه الشرب (مخثر، ندف)",
+  "معالجة مياه الصرف الصناعي (المنسوجات، الورق، التعدين)",
+  "معالجة مياه الصرف الصحي البلدية",
+  "نزح مياه الحمأة",
+  "فصل الزيت عن الماء",
+  "تكرير السكر"
 ]
 faqs: [
-  {"question":"What grades of Polyaluminum Chloride (PAC) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Polyaluminum Chloride, offering industrial grade with Al₂O₃ content of ≥28% and ≥30%. It is available for bulk purchase and export, ideal for various water treatment applications."},{
-    "question":"What is the typical Al₂O₃ content of your PAC products?",
-    "answer":"Our Polyaluminum Chloride (PAC) is available with Al₂O₃ content of ≥28% and ≥30%, ensuring high efficiency in coagulation and flocculation processes. We ensure strict quality control to meet international standards."
+  {"question":"ما هي درجات كلوريد متعدد الألومنيوم (PAC) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لكلوريد متعدد الألومنيوم، ونقدم الدرجة الصناعية بمحتوى Al₂O₃ يبلغ ≥28% و ≥30%. وهو متاح للشراء بالجملة والتصدير، ومثالي لمختلف تطبيقات معالجة المياه."},{
+    "question":"ما هو محتوى Al₂O₃ النموذجي لمنتجات PAC الخاصة بكم؟",
+    "answer":"يتوفر كلوريد متعدد الألومنيوم (PAC) لدينا بمحتوى Al₂O₃ يبلغ ≥28% و ≥30%، مما يضمن كفاءة عالية في عمليات التخثير والتلبد. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية."
   },{
-    "question":"How is PAC packaged for international shipping from China?",
-    "answer":"For export, our PAC is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة PAC للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة PAC لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade PAC?",
-    "answer":"Our industrial grade PAC is widely used in drinking water treatment, industrial wastewater treatment (textile, paper, mining), municipal sewage treatment, and sludge dewatering. Its high efficiency in removing suspended solids and colloids makes it a preferred choice."
+    "question":"ما هي التطبيقات الرئيسية لـ PAC من الدرجة الصناعية؟",
+    "answer":"يستخدم PAC من الدرجة الصناعية لدينا على نطاق واسع في معالجة مياه الشرب، ومعالجة مياه الصرف الصناعي (المنسوجات، الورق، التعدين)، ومعالجة مياه الصرف الصحي البلدية، ونزح مياه الحمأة. كفاءته العالية في إزالة المواد العالقة والغرويات تجعله خياراً مفضلاً."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for PAC?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لـ PAC؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk PAC orders from your factory?",
-    "answer":"Standard lead time for bulk PAC orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات PAC بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات PAC بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "20-22MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Water Treatment"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "20-22 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "معالجة المياه"
 featured: false
 ---
 
-## Polyaluminum Chloride (CAS 1327-41-9): Your Trusted China supplier & Supplier for High-Efficiency PAC
+## كلوريد متعدد الألومنيوم (CAS 1327-41-9): موردك الصيني الموثوق لـ PAC عالي الكفاءة
 
-As a premier **China supplier and supplier** of **Polyaluminum Chloride (PAC)**, we offer **high-efficiency** product with **≥28% and ≥30% Al₂O₃ content** for **bulk purchase** and **export** worldwide. Our PAC is supplied to meet stringent international quality standards, making it an essential coagulant and flocculant for a wide range of water treatment applications (HS Code: 2827320000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **كلوريد متعدد الألومنيوم (PAC)**، فإننا نقدم منتجاً **عالي الكفاءة** بمحتوى **Al₂O₃ يبلغ ≥28% و ≥30%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد PAC لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مخثراً وندفاً أساسياً لمجموعة واسعة من تطبيقات معالجة المياه (رمز النظام المنسق: 2827320000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Drinking Water Treatment**: Widely used as a primary **coagulant and flocculant** in **drinking water treatment plants**. It effectively removes suspended solids, turbidity, colloids, and heavy metals, ensuring safe and clean potable water.
+1.  **معالجة مياه الشرب**: يستخدم على نطاق واسع كـ **مخثر وندف** أساسي في **محطات معالجة مياه الشرب**. فهو يزيل بفعالية المواد العالقة، والعكارة، والغرويات، والمعادن الثقيلة، مما يضمن مياه شرب آمنة ونظيفة.
 
-2.  **Industrial Wastewater Treatment**: Essential in **industrial wastewater treatment** across various sectors, including textile, paper, mining, and petrochemical industries. It efficiently removes pollutants, color, and organic matter, aiding in compliance with discharge regulations.
+2.  **معالجة مياه الصرف الصناعي**: ضروري في **معالجة مياه الصرف الصناعي** عبر مختلف القطاعات، بما في ذلك صناعات المنسوجات والورق والتعدين والبتروكيماويات. فهو يزيل الملوثات واللون والمواد العضوية بفعالية، مما يساعد في الامتثال للوائح الصرف.
 
-3.  **Municipal Sewage Treatment**: Employed in **municipal sewage treatment plants** for the clarification of wastewater, significantly reducing suspended solids and improving overall water quality before discharge or further treatment.
+3.  **معالجة مياه الصرف الصحي البلدية**: يستخدم في **محطات معالجة مياه الصرف الصحي البلدية** لتوضيح مياه الصرف الصحي، مما يقلل بشكل كبير من المواد العالقة ويحسن جودة المياه الإجمالية قبل الصرف أو المعالجة الإضافية.
 
-4.  **Sludge Dewatering**: Used in **sludge dewatering** processes to enhance the separation of solids from liquids, reducing sludge volume and disposal costs.
+4.  **نزح مياه الحمأة**: يستخدم في عمليات **نزح مياه الحمأة** لتعزيز فصل المواد الصلبة عن السوائل، مما يقلل من حجم الحمأة وتكاليف التخلص منها.
 
-5.  **Oil-Water Separation**: Effective in **oil-water separation** processes, particularly in the petroleum industry, to break emulsions and facilitate the removal of oil from wastewater.
+5.  **فصل الزيت عن الماء**: فعال في عمليات **فصل الزيت عن الماء**، خاصة في صناعة البترول، لكسر المستحلبات وتسهيل إزالة الزيت من مياه الصرف الصحي.
 
-6.  **Sugar Refining**: Applied in **sugar refining** for decolorization and purification, helping to produce high-quality sugar products.
+6.  **تكرير السكر**: يستخدم في **تكرير السكر** لإزالة اللون والتنقية، مما يساعد في إنتاج منتجات سكر عالية الجودة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our PAC, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 20-22 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ PAC لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً يتراوح بين 20-22 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Polyaluminum Chloride supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **كلوريد متعدد الألومنيوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.
