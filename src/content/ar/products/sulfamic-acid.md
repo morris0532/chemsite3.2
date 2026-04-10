@@ -1,77 +1,76 @@
 ---
 id: "22"
-name: "Sulfamic Acid"
+name: "حمض السلفاميك"
 nameCn: "氨基磺酸"
 cas: "5329-14-6"
 hsCode: "2811199090"
 slug: "sulfamic-acid"
-shortDescription: "High-purity Sulfamic Acid (H3NSO3) for bulk purchase and export from China. Essential for cleaning, electroplating, and textile applications. Trusted supplier with competitive pricing."
+shortDescription: "حمض السلفاميك (H3NSO3) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري للتنظيف والطلاء الكهربائي وتطبيقات المنسوجات. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"H₃NSO₃"},
-  {"label":"CAS Number","value":"5329-14-6"},
-  {"label":"HS Code","value":"2811199090"},
-  {"label":"Purity","value":"≥99.5%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"H₃NSO₃"},
+  {"label":"رقم CAS","value":"5329-14-6"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2811199090"},
+  {"label":"النقاء","value":"≥99.5%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Cleaning agent (descaling, rust removal)",
-  "Electroplating (pH regulator, additive)",
-  "Textile industry (dye fixing, bleaching)",
-  "Paper and pulp industry (chlorine stabilizer)",
-  "Sweetener supply",
-  "Chemical synthesis"
+  "عامل تنظيف (إزالة القشور، إزالة الصدأ)",
+  "الطلاء الكهربائي (منظم درجة الحموضة، مضاف)",
+  "صناعة المنسوجات (تثبيت الصبغة، تبييض)",
+  "صناعة الورق واللب (مثبت الكلور)",
+  "توريد المحليات",
+  "التخليق الكيميائي"
 ]
 faqs: [
-  {"question":"What grades of Sulfamic Acid do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sulfamic Acid, offering industrial grade with ≥99.5% purity. It is available for bulk purchase and export, ideal for various industrial applications."},{
-    "question":"What is the typical purity of your Sulfamic Acid products?",
-    "answer":"Our Sulfamic Acid (H₃NSO₃) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات حمض السلفاميك التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لحمض السلفاميك، ونقدم الدرجة الصناعية بنقاء ≥99.5%. وهي متاحة للشراء بالجملة والتصدير، وهي مثالية لمختلف التطبيقات الصناعية."},{
+    "question":"ما هو النقاء النموذجي لمنتجات حمض السلفاميك الخاصة بكم؟",
+    "answer":"يتوفر حمض السلفاميك (H₃NSO₃) لدينا بنقاء لا يقل عن 99.5%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Sulfamic Acid packaged for international shipping from China?",
-    "answer":"For export, our Sulfamic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة حمض السلفاميك للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة حمض السلفاميك لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sulfamic Acid?",
-    "answer":"Our industrial grade Sulfamic Acid is widely used as a cleaning agent for descaling, in electroplating as a pH regulator, and in the textile industry for dye fixing. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لحمض السلفاميك من الدرجة الصناعية؟",
+    "answer":"يستخدم حمض السلفاميك من الدرجة الصناعية لدينا على نطاق واسع كعامل تنظيف لإزالة القشور، وفي الطلاء الكهربائي كمنظم لدرجة الحموضة، وفي صناعة المنسوجات لتثبيت الصبغة. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sulfamic Acid?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لحمض السلفاميك؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sulfamic Acid orders from your factory?",
-    "answer":"Standard lead time for bulk Sulfamic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات حمض السلفاميك بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات حمض السلفاميك بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Acids"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "الأحماض"
 featured: false
 ---
 
-## Sulfamic Acid (CAS 5329-14-6): Your Trusted China supplier & Supplier for High-Purity H₃NSO₃
+## حمض السلفاميك (CAS 5329-14-6): موردك الصيني الموثوق لـ H₃NSO₃ عالي النقاء
 
-As a premier **China supplier and supplier** of **Sulfamic Acid (H₃NSO₃)**, we offer **high-purity** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Sulfamic Acid is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, electroplating, and industrial applications (HS Code: 2811199090).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **حمض السلفاميك (H₃NSO₃)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.5%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد حمض السلفاميك لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات التنظيف والطلاء الكهربائي والتطبيقات الصناعية (رمز النظام المنسق: 2811199090).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Cleaning Agent**: Widely used as an effective **cleaning agent** for descaling, rust removal, and cleaning of industrial equipment, boilers, and heat exchangers. Its non-hygroscopic nature and strong acidic properties make it superior to other acids in many applications.
+1.  **عامل تنظيف**: يستخدم على نطاق واسع كـ **عامل تنظيف** فعال لإزالة القشور والصدأ وتنظيف المعدات الصناعية والغلايات والمبادلات الحرارية. طبيعته غير الماصة للرطوبة وخصائصه الحمضية القوية تجعله متفوقاً على الأحماض الأخرى في العديد من التطبيقات.
 
-2.  **Electroplating**: Essential in **electroplating** as a **pH regulator** and **additive** in various plating baths, including nickel plating. It helps to improve the quality and brightness of plated surfaces.
+2.  **الطلاء الكهربائي**: ضروري في **الطلاء الكهربائي** كـ **منظم لدرجة الحموضة** و **مضاف** في مختلف أحواض الطلاء، بما في ذلك طلاء النيكل. يساعد في تحسين جودة وسطوع الأسطح المطلية.
 
-3.  **Textile Industry**: Employed in the **textile industry** for **dye fixing**, ensuring color fastness and preventing fading. It is also used as a **bleaching agent** and a descaling agent for textile machinery.
+3.  **صناعة المنسوجات**: يستخدم في **صناعة المنسوجات** لـ **تثبيت الصبغة**، مما يضمن ثبات اللون ومنع التلاشي. كما يستخدم كـ **عامل تبييض** وعامل لإزالة القشور لآلات المنسوجات.
 
-4.  **Paper and Pulp Industry**: Used in the **paper and pulp industry** as a **chlorine stabilizer** and a bleaching agent, contributing to the brightness and quality of paper products.
+4.  **صناعة الورق واللب**: يستخدم في **صناعة الورق واللب** كـ **مثبت للكلور** وعامل تبييض، مما يساهم في سطوع وجودة المنتجات الورقية.
 
-5.  **Sweetener supply**: Applied in the supply of **artificial sweeteners**, such as cyclamates, as a key intermediate.
+5.  **توريد المحليات**: يستخدم في توريد **المحليات الاصطناعية**، مثل السيكلامات، كوسيط رئيسي.
 
-6.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the supply of herbicides, pesticides, and other organic compounds.
+6.  **التخليق الكيميائي**: يعمل كمادة خام متعددة الاستخدامات في مختلف عمليات **التخليق الكيميائي** لتوريد مبيدات الأعشاب ومبيدات الآفات والمركبات العضوية الأخرى.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sulfamic Acid, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لحمض السلفاميك لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sulfamic Acid supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **حمض السلفاميك** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

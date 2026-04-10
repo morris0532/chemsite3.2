@@ -1,77 +1,76 @@
 ---
 id: "6"
-name: "Sodium Sulfate Anhydrous (SSA)"
+name: "كبريتات الصوديوم اللامائية (SSA)"
 nameCn: "元明粉"
 cas: "7757-82-6"
 hsCode: "2833110000"
 slug: "sodium-sulfate-anhydrous"
-shortDescription: "High-purity Sodium Sulfate Anhydrous (Na2SO4) for bulk purchase and export from China. Essential for detergent, textile, and glass supply. Trusted supplier with competitive pricing."
+shortDescription: "كبريتات الصوديوم اللامائية (Na2SO4) عالية النقاء للشراء بالجملة والتصدير من الصين. ضرورية للمنظفات والمنسوجات وتوريد الزجاج. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂SO₄"},
-  {"label":"CAS Number","value":"7757-82-6"},
-  {"label":"HS Code","value":"2833110000"},
-  {"label":"Purity","value":"≥99%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₂SO₄"},
+  {"label":"رقم CAS","value":"7757-82-6"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2833110000"},
+  {"label":"النقاء","value":"≥99%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25-27 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Detergent and soap supply (filler, builder)",
-  "Textile dyeing and printing (leveling agent)",
-  "Glass supply (fining agent)",
-  "Pulp and paper industry (Kraft process)",
-  "Chemical synthesis",
-  "Animal feed additive"
+  "توريد المنظفات والصابون (حشو، معزز)",
+  "صباغة وطباعة المنسوجات (عامل تسوية)",
+  "توريد الزجاج (عامل تنقية)",
+  "صناعة اللب والورق (عملية كرافت)",
+  "التخليق الكيميائي",
+  "مضافات أعلاف الحيوانات"
 ]
 faqs: [
-  {"question":"What grades of Sodium Sulfate Anhydrous do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Sulfate Anhydrous, offering industrial grade with ≥99% purity. It is available for bulk purchase and export, ideal for various industrial applications."},{
-    "question":"What is the typical purity of your Sodium Sulfate Anhydrous products?",
-    "answer":"Our Sodium Sulfate Anhydrous (Na₂SO₄) is available with a minimum purity of 99%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات كبريتات الصوديوم اللامائية التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لكبريتات الصوديوم اللامائية، ونقدم الدرجة الصناعية بنقاء ≥99%. وهي متاحة للشراء بالجملة والتصدير، وهي مثالية لمختلف التطبيقات الصناعية."},{
+    "question":"ما هو النقاء النموذجي لمنتجات كبريتات الصوديوم اللامائية الخاصة بكم؟",
+    "answer":"تتوفر كبريتات الصوديوم اللامائية (Na₂SO₄) لدينا بنقاء لا يقل عن 99%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Sodium Sulfate Anhydrous packaged for international shipping from China?",
-    "answer":"For export, our Sodium Sulfate Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة كبريتات الصوديوم اللامائية للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة كبريتات الصوديوم اللامائية لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Sulfate Anhydrous?",
-    "answer":"Our industrial grade Sodium Sulfate Anhydrous is widely used in detergent supply as a filler, in textile dyeing as a leveling agent, and in glass supply as a fining agent. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لكبريتات الصوديوم اللامائية من الدرجة الصناعية؟",
+    "answer":"تستخدم كبريتات الصوديوم اللامائية من الدرجة الصناعية لدينا على نطاق واسع في توريد المنظفات كحشو، وفي صباغة المنسوجات كعامل تسوية، وفي توريد الزجاج كعامل تنقية. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Sulfate Anhydrous?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لكبريتات الصوديوم اللامائية؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sodium Sulfate Anhydrous orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Sulfate Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات كبريتات الصوديوم اللامائية بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات كبريتات الصوديوم اللامائية بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfates"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25-27 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "الكبريتات"
 featured: true
 ---
 
-## Sodium Sulfate Anhydrous (CAS 7757-82-6): Your Trusted China supplier & Supplier for High-Purity Na₂SO₄
+## كبريتات الصوديوم اللامائية (CAS 7757-82-6): موردك الصيني الموثوق لـ Na₂SO₄ عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Sulfate Anhydrous (Na₂SO₄)**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Sulfate Anhydrous is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, textile, and glass supply applications (HS Code: 2833110000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **كبريتات الصوديوم اللامائية (Na₂SO₄)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد كبريتات الصوديوم اللامائية لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات المنظفات والمنسوجات وتوريد الزجاج (رمز النظام المنسق: 2833110000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Detergent and Soap supply**: Widely used as a **filler and builder** in **detergent and soap supply**. It helps to standardize detergent powder density, improve flowability, and enhance cleaning performance by reducing the concentration of active ingredients.
+1.  **توريد المنظفات والصابون**: يستخدم على نطاق واسع كـ **حشو ومعزز** في **توريد المنظفات والصابون**. يساعد في توحيد كثافة مسحوق المنظفات، وتحسين قابلية التدفق، وتعزيز أداء التنظيف عن طريق تقليل تركيز المكونات النشطة.
 
-2.  **Textile Industry**: Essential in the **textile dyeing and printing industry** as a **leveling agent** and **dyeing auxiliary**. It helps to ensure uniform dye penetration, prevent uneven dyeing, and improve color fastness of fabrics.
+2.  **صناعة المنسوجات**: ضروري في **صناعة صباغة وطباعة المنسوجات** كـ **عامل تسوية** ومساعد صباغة. يساعد في ضمان تغلغل الصبغة بشكل موحد، ومنع الصباغة غير المستوية، وتحسين ثبات لون الأقمشة.
 
-3.  **Glass supply**: Employed in **glass supply** as a **fining agent** to remove air bubbles from molten glass, resulting in clearer and higher-quality glass products. It also acts as a flux, lowering the melting point of silica.
+3.  **توريد الزجاج**: يستخدم في **توريد الزجاج** كـ **عامل تنقية** لإزالة فقاعات الهواء من الزجاج المصهور، مما يؤدي إلى منتجات زجاجية أكثر وضوحاً وجودة أعلى. كما يعمل كصهر، مما يقلل من درجة انصهار السيليكا.
 
-4.  **Pulp and Paper Industry**: Used in the **Kraft process** for **pulp and paper supply** as a makeup chemical to recover sulfur and sodium from black liquor, contributing to the efficiency of the pulping process.
+4.  **صناعة اللب والورق**: يستخدم في **عملية كرافت** لـ **توريد اللب والورق** كمادة كيميائية تعويضية لاستعادة الكبريت والصوديوم من السائل الأسود، مما يساهم في كفاءة عملية اللب.
 
-5.  **Chemical Synthesis**: Serves as a raw material in various **chemical synthesis** processes for the supply of other sodium compounds, such as sodium sulfide and sodium silicate.
+5.  **التخليق الكيميائي**: يعمل كمادة خام في مختلف عمليات **التخليق الكيميائي** لتوريد مركبات الصوديوم الأخرى، مثل كبريتيد الصوديوم وسيليكات الصوديوم.
 
-6.  **Animal Feed Additive**: Used as an **animal feed additive** to provide essential sulfur and sodium, contributing to animal health and growth.
+6.  **مضافات أعلاف الحيوانات**: يستخدم كـ **مضاف لأعلاف الحيوانات** لتوفير الكبريت والصوديوم الأساسيين، مما يساهم في صحة الحيوان ونموه.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sodium Sulfate Anhydrous, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لكبريتات الصوديوم اللامائية لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً يتراوح بين 25-27 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Sulfate Anhydrous supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **كبريتات الصوديوم اللامائية** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

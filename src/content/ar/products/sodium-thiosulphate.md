@@ -1,77 +1,76 @@
 ---
 id: "1"
-name: "Sodium Thiosulphate (Hypo)"
+name: "ثيوسلفات الصوديوم (هيبو)"
 nameCn: "硫代硫酸钠"
 cas: "7772-98-7 / 10102-17-7"
 hsCode: "2832300000"
-sług: "sodium-thiosulphate"
-shortDescription: "High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from China. Essential for water treatment, photography, and medical applications. Trusted supplier with competitive pricing."
+slug: "sodium-thiosulphate"
+shortDescription: "ثيوسلفات الصوديوم (Na2S2O3) عالية النقاء للشراء بالجملة والتصدير من الصين. ضرورية لمعالجة المياه، والتصوير الفوتوغرافي، والتطبيقات الطبية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂S₂O₃·5H₂O"},
-  {"label":"CAS Number","value":"7772-98-7 / 10102-17-7"},
-  {"label":"HS Code","value":"2832300000"},
-  {"label":"Purity","value":"≥99% (Anhydrous/Pentahydrate)"},
-  {"label":"Appearance","value":"White crystalline powder/crystals"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₂S₂O₃·5H₂O"},
+  {"label":"رقم CAS","value":"7772-98-7 / 10102-17-7"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2832300000"},
+  {"label":"النقاء","value":"≥99% (لامائي/خماسي الهيدرات)"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض/بلورات"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Water treatment (dechlorination, heavy metal removal)",
-  "Photography (fixing agent)",
-  "Medical (antidote for cyanide poisoning)",
-  "Textile industry (reducing agent, bleaching)",
-  "Chemical analysis (titrant)",
-  "Leather tanning"
+  "معالجة المياه (إزالة الكلور، إزالة المعادن الثقيلة)",
+  "التصوير الفوتوغرافي (عامل تثبيت)",
+  "طبي (ترياق للتسمم بالسيانيد)",
+  "صناعة المنسوجات (عامل مختزل، تبييض)",
+  "التحليل الكيميائي (محلول معايرة)",
+  "دباغة الجلود"
 ]
 faqs: [
-  {"question":"What grades of Sodium Thiosulphate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Thiosulphate, offering both anhydrous and pentahydrate forms with ≥99% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Thiosulphate products?",
-    "answer":"Our Sodium Thiosulphate (Na₂S₂O₃) is available with a minimum purity of 99% for both anhydrous and pentahydrate forms. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات ثيوسلفات الصوديوم التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لثيوسلفات الصوديوم، ونقدم كلاً من الأشكال اللامائية وخماسية الهيدرات بنقاء ≥99%. كلا الدرجتين متاحان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات ثيوسلفات الصوديوم الخاصة بكم؟",
+    "answer":"تتوفر ثيوسلفات الصوديوم (Na₂S₂O₃) لدينا بنقاء لا يقل عن 99% لكل من الأشكال اللامائية وخماسية الهيدرات. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Sodium Thiosulphate packaged for international shipping from China?",
-    "answer":"For export, our Sodium Thiosulphate is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة ثيوسلفات الصوديوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة ثيوسلفات الصوديوم لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Thiosulphate?",
-    "answer":"Our industrial grade Sodium Thiosulphate is widely used in water treatment as a dechlorination agent, in photography as a fixing agent, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لثيوسلفات الصوديوم من الدرجة الصناعية؟",
+    "answer":"تستخدم ثيوسلفات الصوديوم من الدرجة الصناعية لدينا على نطاق واسع في معالجة المياه كعامل لإزالة الكلور، وفي التصوير الفوتوغرافي كعامل تثبيت، وفي صناعة المنسوجات كعامل مختزل. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Thiosulphate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لثيوسلفات الصوديوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sodium Thiosulphate orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Thiosulphate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات ثيوسلفات الصوديوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات ثيوسلفات الصوديوم بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "مركبات الكبريت"
 featured: false
 ---
 
-## Sodium Thiosulphate (CAS 7772-98-7 / 10102-17-7): Your Trusted China supplier & Supplier for High-Purity Na₂S₂O₃
+## ثيوسلفات الصوديوم (CAS 7772-98-7 / 10102-17-7): موردك الصيني الموثوق لـ Na₂S₂O₃ عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Thiosulphate (Na₂S₂O₃)**, commonly known as **Hypo**, we offer **high-purity** product with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Sodium Thiosulphate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, photography, and medical applications (HS Code: 2832300000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **ثيوسلفات الصوديوم (Na₂S₂O₃)**، والمعروفة باسم **هيبو**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد ثيوسلفات الصوديوم لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات معالجة المياه والتصوير الفوتوغرافي والتطبيقات الطبية (رمز النظام المنسق: 2832300000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Water Treatment**: Widely used in **water treatment** as an effective **dechlorination agent** to remove residual chlorine from municipal and industrial water systems. It also helps in the **removal of heavy metals** from wastewater through precipitation.
+1.  **معالجة المياه**: يستخدم على نطاق واسع في **معالجة المياه** كـ **عامل فعال لإزالة الكلور** لإزالة الكلور المتبقي من أنظمة المياه البلدية والصناعية. كما يساعد في **إزالة المعادن الثقيلة** من مياه الصرف الصحي من خلال الترسيب.
 
-2.  **Photography**: Essential in **photography** as a **fixing agent** (hypo) in the development process. It dissolves undeveloped silver halides, making the image permanent and light-stable.
+2.  **التصوير الفوتوغرافي**: ضروري في **التصوير الفوتوغرافي** كـ **عامل تثبيت** (هيبو) في عملية التظهير. يذيب هاليدات الفضة غير المظهرة، مما يجعل الصورة دائمة ومستقرة للضوء.
 
-3.  **Medical Applications**: Employed in **medical applications** as an **antidote for cyanide poisoning** and as a treatment for certain fungal infections. It is also used in veterinary medicine.
+3.  **التطبيقات الطبية**: يستخدم في **التطبيقات الطبية** كـ **ترياق للتسمم بالسيانيد** وكعلاج لبعض الالتهابات الفطرية. كما يستخدم في الطب البيطري.
 
-4.  **Textile Industry**: Used in the **textile industry** as a **reducing agent** and **bleaching agent**. It helps to remove excess chlorine after bleaching processes and can be used in certain dyeing applications.
+4.  **صناعة المنسوجات**: يستخدم في **صناعة المنسوجات** كـ **عامل مختزل** و **عامل تبييض**. يساعد في إزالة الكلور الزائد بعد عمليات التبييض ويمكن استخدامه في بعض تطبيقات الصباغة.
 
-5.  **Chemical Analysis**: Serves as a standard **titrant** in **chemical analysis** for iodometric titrations, used to determine the concentration of oxidizing agents.
+5.  **التحليل الكيميائي**: يعمل كـ **محلول معايرة** قياسي في **التحليل الكيميائي** للمعايرات اليودومترية، المستخدمة لتحديد تركيز العوامل المؤكسدة.
 
-6.  **Leather Tanning**: Applied in **leather tanning** processes as a reducing agent and to remove excess sulfur from hides.
+6.  **دباغة الجلود**: يستخدم في عمليات **دباغة الجلود** كعامل مختزل ولإزالة الكبريت الزائد من الجلود.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sodium Thiosulphate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لثيوسلفات الصوديوم لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Thiosulphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **ثيوسلفات الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

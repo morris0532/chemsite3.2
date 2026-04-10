@@ -1,77 +1,76 @@
 ---
 id: "5"
-name: "Sodium Tripolyphosphate (STPP)"
+name: "ثلاثي بولي فوسفات الصوديوم (STPP)"
 nameCn: "三聚磷酸钠"
 cas: "7758-29-4"
 hsCode: "2835319000"
 slug: "sodium-tripolyphosphate"
-shortDescription: "High-purity Sodium Tripolyphosphate (STPP) for bulk purchase and export from China. Essential for detergent, food additive, and industrial applications. Trusted supplier with competitive pricing."
+shortDescription: "ثلاثي بولي فوسفات الصوديوم (STPP) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري للمنظفات والمضافات الغذائية والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₅P₃O₁₀"},
-  {"label":"CAS Number","value":"7758-29-4"},
-  {"label":"HS Code","value":"2835319000"},
-  {"label":"P₂O₅ Content","value":"≥57%"},
-  {"label":"Appearance","value":"White powder/granular"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₅P₃O₁₀"},
+  {"label":"رقم CAS","value":"7758-29-4"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2835319000"},
+  {"label":"محتوى P₂O₅","value":"≥57%"},
+  {"label":"المظهر","value":"مسحوق أبيض/حبيبي"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Detergent and cleaning products (builder, water softener)",
-  "Food additive (emulsifier, thickener, preservative)",
-  "Water treatment (sequestrant, dispersant)",
-  "Ceramics and tiles (dispersant)",
-  "Oil drilling (mud dispersant)",
-  "Textile dyeing"
+  "المنظفات ومنتجات التنظيف (معزز، منقي للمياه)",
+  "مضافات غذائية (مستحلب، مثخن، مادة حافظة)",
+  "معالجة المياه (عامل عزل، مشتت)",
+  "السيراميك والبلاط (مشتت)",
+  "حفر الآبار النفطية (مشتت للطين)",
+  "صباغة المنسوجات"
 ]
 faqs: [
-  {"question":"What grades of Sodium Tripolyphosphate (STPP) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of STPP, offering food grade and industrial grade with ≥57% P₂O₅ content. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical P₂O₅ content of your STPP products?",
-    "answer":"Our STPP (Na₅P₃O₁₀) is available with a minimum P₂O₅ content of 57%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات ثلاثي بولي فوسفات الصوديوم (STPP) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لـ STPP، ونقدم الدرجة الغذائية والدرجة الصناعية بمحتوى P₂O₅ ≥57%. كلا الدرجتين متاحان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو محتوى P₂O₅ النموذجي لمنتجات STPP الخاصة بكم؟",
+    "answer":"يتوفر STPP (Na₅P₃O₁₀) لدينا بمحتوى P₂O₅ لا يقل عن 57%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is STPP packaged for international shipping from China?",
-    "answer":"For export, our STPP is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة STPP للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة STPP لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade STPP?",
-    "answer":"Our industrial grade STPP is widely used in detergent supply as a builder, in food as an emulsifier, and in water treatment as a sequestrant. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لـ STPP من الدرجة الصناعية؟",
+    "answer":"يستخدم STPP من الدرجة الصناعية لدينا على نطاق واسع في توريد المنظفات كمعزز، وفي الغذاء كمستحلب، وفي معالجة المياه كعامل عزل. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for STPP?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لـ STPP؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk STPP orders from your factory?",
-    "answer":"Standard lead time for bulk STPP orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات STPP بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات STPP بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Phosphates"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "الفوسفات"
 featured: false
 ---
 
-## Sodium Tripolyphosphate (CAS 7758-29-4): Your Trusted China supplier & Supplier for High-Purity STPP
+## ثلاثي بولي فوسفات الصوديوم (CAS 7758-29-4): موردك الصيني الموثوق لـ STPP عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Tripolyphosphate (STPP)**, we offer **high-purity** product with **≥57% P₂O₅ content** for **bulk purchase** and **export** worldwide. Our STPP is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of detergent, food, and industrial applications (HS Code: 2835319000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **ثلاثي بولي فوسفات الصوديوم (STPP)**، فإننا نقدم منتجاً **عالي النقاء** بمحتوى **P₂O₅ ≥57%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد STPP لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات المنظفات والأغذية والتطبيقات الصناعية (رمز النظام المنسق: 2835319000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Detergent and Cleaning Products**: Widely used as a **builder and water softener** in **detergent and cleaning products**. It chelates metal ions in hard water, preventing them from interfering with the action of surfactants and enhancing cleaning efficiency. It also helps to emulsify grease and oil.
+1.  **المنظفات ومنتجات التنظيف**: يستخدم على نطاق واسع كـ **معزز ومنقي للمياه** في **المنظفات ومنتجات التنظيف**. يقوم بعزل أيونات المعادن في الماء العسر، مما يمنعها من التداخل مع عمل المواد الخافضة للتوتر السطحي ويعزز كفاءة التنظيف. كما يساعد في استحلاب الشحوم والزيوت.
 
-2.  **Food Additive**: Food-grade STPP is used as an **emulsifier, thickener, and preservative** in various food products, including processed meats, seafood, and dairy products. It helps to improve texture, retain moisture, and extend shelf life.
+2.  **مضافات غذائية**: يستخدم STPP من الدرجة الغذائية كـ **مستحلب ومثخن ومادة حافظة** في مختلف المنتجات الغذائية، بما في ذلك اللحوم المصنعة والمأكولات البحرية ومنتجات الألبان. يساعد في تحسين الملمس والاحتفاظ بالرطوبة وإطالة مدة الصلاحية.
 
-3.  **Water Treatment**: Essential in **water treatment** as a **sequestrant and dispersant**. It prevents the formation of scale in boilers and cooling systems, and helps to disperse suspended solids, improving water clarity and preventing fouling.
+3.  **معالجة المياه**: ضروري في **معالجة المياه** كـ **عامل عزل ومشتت**. يمنع تكون القشور في الغلايات وأنظمة التبريد، ويساعد في تشتيت المواد الصلبة العالقة، مما يحسن وضوح المياه ويمنع الانسداد.
 
-4.  **Ceramics and Tiles**: Employed in the **ceramics and tiles industry** as a **dispersant** to reduce the viscosity of ceramic slips, allowing for easier processing and higher solid content.
+4.  **السيراميك والبلاط**: يستخدم في **صناعة السيراميك والبلاط** كـ **مشتت** لتقليل لزوجة طين السيراميك، مما يسمح بمعالجة أسهل ومحتوى صلب أعلى.
 
-5.  **Oil Drilling**: Used in **oil drilling** as a **mud dispersant** to control the viscosity of drilling fluids, preventing clay swelling and improving drilling efficiency.
+5.  **حفر الآبار النفطية**: يستخدم في **حفر الآبار النفطية** كـ **مشتت للطين** للتحكم في لزوجة سوائل الحفر، مما يمنع انتفاخ الطين ويحسن كفاءة الحفر.
 
-6.  **Textile Dyeing**: Applied in the **textile industry** as a dispersant and chelating agent in dyeing processes, ensuring uniform color and preventing dye precipitation.
+6.  **صباغة المنسوجات**: يستخدم في **صناعة المنسوجات** كمشتت وعامل عزل في عمليات الصباغة، مما يضمن لوناً موحداً ويمنع ترسب الصبغة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our STPP, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ STPP لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Tripolyphosphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **ثلاثي بولي فوسفات الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.
