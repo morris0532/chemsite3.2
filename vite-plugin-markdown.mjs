@@ -16,7 +16,7 @@ export default function markdownPlugin() {
     load(id) {
       if (id === RESOLVED_VIRTUAL_MODULE_ID) {
         const contentDir = path.resolve('src/content');
-        const locales = ['en', 'ru', 'fr', 'es'];
+        const locales = ['en', 'ru', 'fr', 'es', 'ar'];
         const data = {};
 
         locales.forEach(locale => {

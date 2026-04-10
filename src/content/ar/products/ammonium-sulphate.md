@@ -1,31 +1,31 @@
 ---
 id: "12"
-name: "Ammonium Sulphate"
+name: "كبريتات الأمونيوم"
 nameCn: "硫酸铵"
 cas: "7783-20-2"
 hsCode: "3102210000"
 slug: "ammonium-sulphate"
-shortDescription: "Agricultural and industrial grade ammonium sulphate fertilizer and chemical intermediate."
+shortDescription: "سماد كبريتات الأمونيوم من الدرجة الزراعية والصناعية ووسيط كيميائي."
 image: "/images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp"
-specs: [{"label":"Chemical Formula","value":"(NH₄)₂SO₄"},{"label":"CAS Number","value":"7783-20-2"},{"label":"HS Code","value":"3102210000"},{"label":"Nitrogen Content","value":"≥21%"},{"label":"Appearance","value":"White crystalline powder/granular"},{"label":"Packaging","value":"25/50KG bags / Jumbo bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Tianjin / Qingdao"}]
-applications: ["Agricultural fertilizer","Flame retardant additive","Water treatment","Food additive (yeast nutrient)","Textile industry","Pharmaceutical supply"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"We recommend a full 20-foot container (27MT) for the best pricing and shipping economics."},{"question":"What grades are available?","answer":"We offer agricultural grade (caprolactam grade, steel grade) and industrial grade ammonium sulphate, each suited for different applications."},{"question":"Is ammonium sulphate a good fertilizer?","answer":"Yes, it provides both nitrogen (21%) and sulfur (24%) nutrients, making it excellent for sulfur-deficient soils and crops that require sulfur nutrition."}]
-ports: "Tianjin / Qingdao"
-loading: "27MT/20GP"
-packaging: "25/50KG/Jumbo bags"
-category: "Sulfate Compounds"
+specs: [{"label":"الصيغة الكيميائية","value":"(NH₄)₂SO₄"},{"label":"رقم CAS","value":"7783-20-2"},{"label":"رمز النظام المنسق (HS Code)","value":"3102210000"},{"label":"محتوى النيتروجين","value":"≥21%"},{"label":"المظهر","value":"مسحوق بلوري أبيض/حبيبي"},{"label":"التعبئة والتغليف","value":"أكياس 25/50 كجم / أكياس جامبو"},{"label":"التحميل","value":"27 طن متري لكل حاوية 20 قدم"},{"label":"الموانئ المتاحة","value":"تيانجين / تشينغداو"}]
+applications: ["الأسمدة الزراعية","مضافات مثبطة للهب","معالجة المياه","مضافات غذائية (مغذيات الخميرة)","صناعة المنسوجات","التوريد الصيدلاني"]
+faqs: [{"question":"ما هو الحد الأدنى لكمية الطلب؟","answer":"نوصي بحاوية كاملة سعة 20 قدماً (27 طناً مترياً) للحصول على أفضل الأسعار واقتصاديات الشحن."},{"question":"ما هي الدرجات المتوفرة؟","answer":"نحن نقدم كبريتات الأمونيوم بالدرجة الزراعية (درجة الكابرولاكتام، درجة الصلب) والدرجة الصناعية، كل منها مناسب لتطبيقات مختلفة."},{"question":"هل كبريتات الأمونيوم سماد جيد؟","answer":"نعم، فهو يوفر كلاً من النيتروجين (21%) والكبريت (24%)، مما يجعله ممتازاً للتربة التي تعاني من نقص الكبريت والمحاصيل التي تتطلب تغذية كبريتية."}]
+ports: "تيانجين / تشينغداو"
+loading: "27 طن متري/حاوية 20 قدم"
+packaging: "25/50 كجم/أكياس جامبو"
+category: "مركبات الكبريتات"
 ---
 
-Ammonium Sulphate ((NH₄)₂SO₄) is a high-performance inorganic salt widely recognized for its exceptional nitrogen and sulfur content. It is a vital ingredient in the supply of fertilizers, industrial chemicals, and various other products. Our Ammonium Sulphate is supplied to high standards of purity and consistency, ensuring optimal performance in both agricultural and industrial applications.
+كبريتات الأمونيوم ((NH₄)₂SO₄) هو ملح غير عضوي عالي الأداء معترف به على نطاق واسع لمحتواه الاستثنائي من النيتروجين والكبريت. إنه مكون حيوي في توريد الأسمدة والمواد الكيميائية الصناعية ومختلف المنتجات الأخرى. يتم توريد كبريتات الأمونيوم لدينا وفقاً لمعايير عالية من النقاء والاتساق، مما يضمن الأداء الأمثل في كل من التطبيقات الزراعية والصناعية.
 
-In the **agricultural industry**, Ammonium Sulphate is a primary "nitrogen-sulfur fertilizer." It provides a readily available source of nitrogen (21%) and sulfur (24%) to crops, promoting healthy growth and increasing yields. Its high sulfur content makes it particularly effective for sulfur-deficient soils and for crops that require high levels of sulfur, such as oilseeds, legumes, and vegetables. Its acidic nature also helps to lower the pH of alkaline soils, improving the availability of other nutrients.
+في **الصناعة الزراعية**، تعتبر كبريتات الأمونيوم "سماد نيتروجين وكبريت" أساسياً. فهي توفر مصدراً متاحاً للنيتروجين (21%) والكبريت (24%) للمحاصيل، مما يعزز النمو الصحي ويزيد الغلة. محتواها العالي من الكبريت يجعلها فعالة بشكل خاص للتربة التي تعاني من نقص الكبريت وللمحاصيل التي تتطلب مستويات عالية من الكبريت، مثل البذور الزيتية والبقوليات والخضروات. كما تساعد طبيعتها الحمضية في خفض درجة حموضة التربة القلوية، مما يحسن من توفر العناصر الغذائية الأخرى.
 
-The **industrial sector** utilizes Ammonium Sulphate as a versatile chemical intermediate. It is used in the supply of various other ammonium salts, such as ammonium persulfate and ammonium chloride. It is also employed in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant. In **water treatment**, it is used as a nutrient source for biological treatment processes and as a component in various water treatment formulations.
+يستخدم **القطاع الصناعي** كبريتات الأمونيوم كوسيط كيميائي متعدد الاستخدامات. يتم استخدامه في توريد أملاح الأمونيوم الأخرى المختلفة، مثل بيرسلفات الأمونيوم وكلوريد الأمونيوم. كما يتم استخدامه في **صناعة المنسوجات** كمثبط للهب وفي **صناعة اللب والورق** كمساعد تبييض. في **معالجة المياه**، يتم استخدامه كمصدر للمغذيات لعمليات المعالجة البيولوجية وكمكون في تركيبات معالجة المياه المختلفة.
 
-In **food processing**, food-grade Ammonium Sulphate is used as a **dough conditioner** and **yeast nutrient** in the baking industry. It helps to improve the texture and volume of bread and other baked goods. It also acts as a **pH regulator** and **stabilizer** in various processed foods.
+في **تجهيز الأغذية**، يتم استخدام كبريتات الأمونيوم من الدرجة الغذائية كـ **محسن للعجين** و **مغذي للخميرة** في صناعة الخبز. يساعد على تحسين ملمس وحجم الخبز والمخبوزات الأخرى. كما يعمل كـ **منظم للحموضة** و **مثبت** في مختلف الأطعمة المصنعة.
 
-The **pharmaceutical industry** employs Ammonium Sulphate as a **precipitating agent** for proteins and as a component in various medications. It is also used in **biotechnology** for the purification of enzymes and other biological molecules.
+توظف **الصناعة الصيدلانية** كبريتات الأمونيوم كـ **عامل ترسيب** للبروتينات وكمكون في مختلف الأدوية. كما يتم استخدامه في **التكنولوجيا الحيوية** لتنقية الإنزيمات والجزيئات البيولوجية الأخرى.
 
-Furthermore, Ammonium Sulphate finds applications in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
+علاوة على ذلك، تجد كبريتات الأمونيوم تطبيقات في **علم الفلزات** لتكرير المعادن المختلفة وفي **البناء** كمؤخر للخرسانة لإبطاء وقت تجمد الخرسانة. قابليتها العالية للذوبان وطبيعتها المستقرة تجعلها خياراً مثالياً للعديد من التطبيقات.
 
-Our Ammonium Sulphate is available in various grades, including agricultural grade (caprolactam grade, steel grade) and industrial grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Ammonium Sulphate to our global partners.
+تتوفر كبريتات الأمونيوم لدينا في درجات مختلفة، بما في ذلك الدرجة الزراعية (درجة الكابرولاكتام، درجة الصلب) والدرجة الصناعية، لتلبية متطلبات التطبيقات المحددة. نحن نقدم تعبئة عالية الجودة في أكياس 25 كجم و50 كجم وأكياس جامبو 1000 كجم، مما يضمن سلامة المنتج أثناء الشحن الدولي. مع لوجستيات موثوقة من الموانئ الصينية الرئيسية مثل تيانجين وتشينغداو وليانيونغانغ، نقدم توريداً ثابتاً وفعالاً من حيث التكلفة لكبريتات الأمونيوم لشركائنا العالميين.

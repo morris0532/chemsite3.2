@@ -1,80 +1,79 @@
 ---
 id: "4"
-name: "Calcium Chloride"
+name: "كلوريد الكالسيوم"
 nameCn: "氯化钙"
 cas: "10043-52-4 / 10035-04-8"
 hsCode: "2827200000"
 slug: "calcium-chloride"
-shortDescription: "High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk purchase and export from China. Essential for de-icing, oil & gas, and food applications. Trusted supplier with competitive pricing."
+shortDescription: "كلوريد الكالسيوم عالي النقاء (CaCl2) في شكل رقائق وحبيبات ومسحوق للشراء بالجملة والتصدير من الصين. ضروري لإزالة الجليد، والنفط والغاز، والتطبيقات الغذائية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"CaCl₂"},
-  {"label":"CAS Number","value":"10043-52-4 / 10035-04-8"},
-  {"label":"HS Code","value":"2827200000"},
-  {"label":"Purity","value":"≥74% / ≥94% (Anhydrous)"},
-  {"label":"Appearance","value":"White flakes, pellets, or powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"CaCl₂"},
+  {"label":"رقم CAS","value":"10043-52-4 / 10035-04-8"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2827200000"},
+  {"label":"النقاء","value":"≥74% / ≥94% (لامائي)"},
+  {"label":"المظهر","value":"رقائق بيضاء، حبيبات، أو مسحوق"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25-27 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "De-icing agent (roads, sidewalks)",
-  "Oil and gas drilling fluids",
-  "Dust control (unpaved roads)",
-  "Food additive (firming agent, electrolyte)",
-  "Refrigeration brines",
-  "Concrete accelerator",
-  "Desiccant (drying agent)"
+  "عامل إزالة الجليد (الطرق، الأرصفة)",
+  "سوائل حفر النفط والغاز",
+  "التحكم في الغبار (الطرق غير المعبدة)",
+  "مضاف غذائي (عامل تثبيت، إلكتروليت)",
+  "محاليل التبريد الملحية",
+  "مسرع للخرسانة",
+  "مجفف (عامل تجفيف)"
 ]
 faqs: [
-  {"question":"What forms of Calcium Chloride do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Calcium Chloride, offering flakes, pellets, and powder forms with purities ranging from ≥74% to ≥94% (anhydrous). All forms are available for bulk purchase and export, catering to diverse industrial needs."},{
-    "question":"What is the typical purity of your Calcium Chloride products?",
-    "answer":"Our Calcium Chloride (CaCl₂) is available in various purities, including ≥74% (dihydrate) and ≥94% (anhydrous). We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي أشكال كلوريد الكالسيوم التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر رائد لكلوريد الكالسيوم في الصين، ونقدم أشكال الرقائق والحبيبات والمسحوق بنقاء يتراوح من ≥74% إلى ≥94% (لامائي). جميع الأشكال متاحة للشراء بالجملة والتصدير، لتلبية الاحتياجات الصناعية المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات كلوريد الكالسيوم الخاصة بكم؟",
+    "answer":"يتوفر كلوريد الكالسيوم (CaCl₂) لدينا بنقاءات مختلفة، بما في ذلك ≥74% (ثنائي الهيدرات) و ≥94% (لامائي). نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Calcium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Calcium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة كلوريد الكالسيوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة كلوريد الكالسيوم لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Calcium Chloride?",
-    "answer":"Our industrial grade Calcium Chloride is widely used as a de-icing agent for roads, in oil and gas drilling fluids, for dust control on unpaved roads, as a food additive, and as a desiccant. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لكلوريد الكالسيوم من الدرجة الصناعية؟",
+    "answer":"يستخدم كلوريد الكالسيوم من الدرجة الصناعية لدينا على نطاق واسع كعامل لإزالة الجليد من الطرق، وفي سوائل حفر النفط والغاز، وللتحكم في الغبار على الطرق غير المعبدة، وكمضاف غذائي، وكمجفف. تعدد استخداماته يجعله مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Calcium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لكلوريد الكالسيوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Calcium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Calcium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات كلوريد الكالسيوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات كلوريد الكالسيوم بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25-27 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "مركبات الكلوريد"
 featured: false
 ---
 
-## Calcium Chloride (CAS 10043-52-4): Your Trusted China supplier & Supplier for High-Purity CaCl₂
+## كلوريد الكالسيوم (CAS 10043-52-4): موردك الصيني الموثوق لـ CaCl₂ عالي النقاء
 
-As a premier **China supplier and supplier** of **Calcium Chloride (CaCl₂)**, we offer **high-purity flakes, pellets, and powder** with **≥74% to ≥94% (anhydrous) purity** for **bulk purchase** and **export** worldwide. Our Calcium Chloride is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, food, and environmental applications (HS Code: 2827200000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **كلوريد الكالسيوم (CaCl₂)**، فإننا نقدم **رقائق وحبيبات ومسحوق عالي النقاء** بنقاء يتراوح من **≥74% إلى ≥94% (لامائي)** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد كلوريد الكالسيوم لدينا لتلبية المعايير الدولية الصارمة للجودة، مما يجعله مادة خام أساسية لمجموعة واسعة من التطبيقات الصناعية والغذائية والبيئية (رمز النظام المنسق: 2827200000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **De-icing Agent**: Widely used as an effective **de-icing agent** for roads, sidewalks, and parking lots, especially in cold climates. It lowers the freezing point of water, preventing ice formation and melting existing ice.
+1.  **عامل إزالة الجليد**: يستخدم على نطاق واسع كـ **عامل فعال لإزالة الجليد** من الطرق والأرصفة ومواقف السيارات، خاصة في المناخات الباردة. فهو يخفض درجة تجمد الماء، مما يمنع تكون الجليد ويذيب الجليد الموجود.
 
-2.  **Oil and Gas Industry**: Essential in the **oil and gas industry** as a component in drilling fluids, completion fluids, and workover fluids. It helps to control formation pressures, stabilize boreholes, and prevent hydrate formation.
+2.  **صناعة النفط والغاز**: ضروري في **صناعة النفط والغاز** كمكون في سوائل الحفر، وسوائل الإكمال، وسوائل الإصلاح. يساعد في التحكم في ضغوط التكوين، واستقرار آبار الحفر، ومنع تكون الهيدرات.
 
-3.  **Dust Control**: Effectively used for **dust control** on unpaved roads, construction sites, and mining operations. Its hygroscopic properties absorb moisture from the air, binding dust particles and preventing their release.
+3.  **التحكم في الغبار**: يستخدم بفعالية لـ **التحكم في الغبار** على الطرق غير المعبدة، ومواقع البناء، وعمليات التعدين. تمتص خصائصه الاسترطابية الرطوبة من الهواء، مما يربط جزيئات الغبار ويمنع انطلاقها.
 
-4.  **Food Additive**: Food-grade Calcium Chloride is used as a **firming agent** in canned vegetables, a **coagulant** in cheesemaking, and an **electrolyte** in sports drinks. It is also used to prevent spoilage and maintain texture.
+4.  **مضاف غذائي**: يستخدم كلوريد الكالسيوم من الدرجة الغذائية كـ **عامل تثبيت** في الخضروات المعلبة، و **مخثر** في صناعة الجبن، و **إلكتروليت** في المشروبات الرياضية. كما يستخدم لمنع التلف والحفاظ على الملمس.
 
-5.  **Refrigeration Brines**: Utilized in **refrigeration systems** as a brine solution due to its low freezing point and high thermal capacity, making it an efficient heat transfer medium.
+5.  **محاليل التبريد الملحية**: يستخدم في **أنظمة التبريد** كمحلول ملحي نظراً لانخفاض درجة تجمده وسعته الحرارية العالية، مما يجعله وسيطاً فعالاً لنقل الحرارة.
 
-6.  **Concrete Accelerator**: Acts as a **concrete accelerator**, speeding up the setting time of concrete and mortar, which is particularly useful in cold weather construction.
+6.  **مسرع للخرسانة**: يعمل كـ **مسرع للخرسانة**، مما يسرع من وقت تجمد الخرسانة والملاط، وهو أمر مفيد بشكل خاص في أعمال البناء في الطقس البارد.
 
-7.  **Desiccant**: Functions as a powerful **desiccant (drying agent)** in various industrial processes and packaging to absorb moisture and prevent humidity-related damage.
+7.  **مجفف**: يعمل كـ **مجفف (عامل تجفيف)** قوي في مختلف العمليات الصناعية والتعبئة لامتصاص الرطوبة ومنع الأضرار المرتبطة بالرطوبة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Calcium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لكلوريد الكالسيوم لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً يتراوح بين 25-27 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Calcium Chloride supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **كلوريد الكالسيوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

@@ -1,77 +1,76 @@
 ---
 id: "2"
-name: "Caustic Soda"
+name: "الصودا الكاوية"
 nameCn: "片碱"
 cas: "1310-73-2"
 hsCode: "2815110000"
 slug: "caustic-soda"
-shortDescription: "High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk purchase and export from China. Leading supplier for industrial applications including paper, textile, and water treatment. 99% purity available."
+shortDescription: "الصودا الكاوية عالية النقاء (هيدروكسيد الصوديوم) في شكل رقائق وحبيبات للشراء بالجملة والتصدير من الصين. مورد رائد للتطبيقات الصناعية بما في ذلك الورق والمنسوجات ومعالجة المياه. يتوفر نقاء 99%."
 image: "/images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"NaOH"},
-  {"label":"CAS Number","value":"1310-73-2"},
-  {"label":"HS Code","value":"2815110000"},
-  {"label":"Purity","value":"≥96% / ≥99% (Flakes/Pearls)"},
-  {"label":"Appearance","value":"White flakes or pearls"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner / Jumbo bags. Custom packaging available for bulk orders."},
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"الصيغة الكيميائية","value":"NaOH"},
+  {"label":"رقم CAS","value":"1310-73-2"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2815110000"},
+  {"label":"النقاء","value":"≥96% / ≥99% (رقائق/حبيبات)"},
+  {"label":"المظهر","value":"رقائق أو حبيبات بيضاء"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE / أكياس جامبو. التعبئة المخصصة متاحة للطلبات بالجملة."},
+  {"label":"التحميل","value":"25-27 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Paper and pulp industry (pulping, bleaching)",
-  "Textile industry (mercerizing, dyeing)",
-  "Water treatment (pH adjustment, heavy metal removal)",
-  "Soap and detergent supply",
-  "Alumina supply",
-  "Petroleum refining",
-  "Chemical intermediates supply"
+  "صناعة الورق واللب (اللب، التبييض)",
+  "صناعة المنسوجات (المرسرة، الصباغة)",
+  "معالجة المياه (ضبط الحموضة، إزالة المعادن الثقيلة)",
+  "توريد الصابون والمنظفات",
+  "توريد الألومينا",
+  "تكرير البترول",
+  "توريد الوسائط الكيميائية"
 ]
 faqs: [
-  {"question":"What forms of Caustic Soda do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Caustic Soda, offering both high-purity flakes and pearls (micro-pearls) with ≥99% purity. Both forms are ideal for various industrial applications and available for bulk purchase and export."},{
-    "question":"What is the typical purity of your Caustic Soda products?",
-    "answer":"Our Caustic Soda (Sodium Hydroxide) is available in both 96% and 99% purity grades. We ensure strict quality control to meet international standards for all industrial applications."
+  {"question":"ما هي أشكال الصودا الكاوية التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر رائد للصودا الكاوية في الصين، ونقدم كلاً من الرقائق والحبيبات (الحبيبات الدقيقة) عالية النقاء بنقاء ≥99%. كلا الشكلين مثاليان لمختلف التطبيقات الصناعية ومتاحان للشراء بالجملة والتصدير."},{
+    "question":"ما هو النقاء النموذجي لمنتجات الصودا الكاوية الخاصة بكم؟",
+    "answer":"تتوفر الصودا الكاوية (هيدروكسيد الصوديوم) لدينا بدرجات نقاء 96% و 99%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات الصناعية."
   },{
-    "question":"How is Caustic Soda packaged for international shipping from China?",
-    "answer":"For export, our Caustic Soda is typically packaged in 25KG PP woven bags with inner PE liners, designed to withstand the rigors of international transport and protect against moisture. Custom packaging solutions can be arranged for large volume orders."
+    "question":"كيف يتم تعبئة الصودا الكاوية للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة الصودا الكاوية لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة لتحمل ظروف النقل الدولي والحماية من الرطوبة. يمكن ترتيب حلول تعبئة مخصصة لطلبات الكميات الكبيرة."
   },{
-    "question":"What are the main applications of your industrial grade Caustic Soda?",
-    "answer":"Our industrial grade Caustic Soda is widely used in the paper and pulp industry, textile mercerizing, water treatment for pH adjustment, soap and detergent supply, alumina supply, and petroleum refining. Its versatility makes it a key chemical intermediate."
+    "question":"ما هي التطبيقات الرئيسية للصودا الكاوية من الدرجة الصناعية؟",
+    "answer":"تستخدم الصودا الكاوية من الدرجة الصناعية لدينا على نطاق واسع في صناعة الورق واللب، ومرسرة المنسوجات، ومعالجة المياه لضبط الحموضة، وتوريد الصابون والمنظفات، وتوريد الألومينا، وتكرير البترول. تعدد استخداماتها يجعلها وسيطاً كيميائياً رئيسياً."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Caustic Soda?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) للصودا الكاوية؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Caustic Soda orders from your factory?",
-    "answer":"Standard lead time for bulk Caustic Soda orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات الصودا الكاوية بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات الصودا الكاوية بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Alkali Products"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25-27 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "المنتجات القلوية"
 featured: true
 ---
 
-## Caustic Soda (CAS 1310-73-2): Your Trusted China supplier & Supplier for High-Purity Sodium Hydroxide
+## الصودا الكاوية (CAS 1310-73-2): موردك الصيني الموثوق لهيدروكسيد الصوديوم عالي النقاء
 
-As a leading **China supplier and supplier** of **Caustic Soda (NaOH)**, also known as **Sodium Hydroxide**, we provide **high-purity flakes and pearls** with **≥99% purity** for **bulk purchase** and **export** worldwide. Our Caustic Soda is supplied using advanced membrane cell technology, ensuring consistent quality that meets the most demanding industrial applications (HS Code: 2815110000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **الصودا الكاوية (NaOH)**، والمعروفة أيضاً باسم **هيدروكسيد الصوديوم**، فإننا نقدم **رقائق وحبيبات عالية النقاء** بنقاء **≥99%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد الصودا الكاوية لدينا باستخدام تكنولوجيا الخلايا الغشائية المتقدمة، مما يضمن جودة متسقة تلبي أكثر التطبيقات الصناعية تطلباً (رمز النظام المنسق: 2815110000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Paper and Pulp Industry**: Indispensable in the **paper and pulp industry** for pulping wood, bleaching paper, and de-inking recycled paper. It plays a crucial role in breaking down lignin and purifying cellulose fibers.
+1.  **صناعة الورق واللب**: لا غنى عنها في **صناعة الورق واللب** لطبخ الخشب وتبييض الورق وإزالة الحبر من الورق المعاد تدويره. تلعب دوراً حاسماً في تكسير اللجنين وتنقية ألياف السليلوز.
 
-2.  **Textile Industry**: Widely used in the **textile industry** for mercerizing cotton, which enhances its strength, luster, and dye uptake. It's also vital in various dyeing and finishing processes.
+2.  **صناعة المنسوجات**: تستخدم على نطاق واسع في **صناعة المنسوجات** لمرسرة القطن، مما يعزز قوته ولمعانه وامتصاصه للصبغة. كما أنها حيوية في مختلف عمليات الصباغة والتشطيب.
 
-3.  **Water Treatment**: An essential chemical in **water treatment** for pH adjustment, neutralization of acidic waste streams, and removal of heavy metals. Its strong alkaline properties make it highly effective in industrial and municipal water purification.
+3.  **معالجة المياه**: مادة كيميائية أساسية في **معالجة المياه** لضبط الحموضة، ومعادلة تدفقات النفايات الحمضية، وإزالة المعادن الثقيلة. خصائصها القلوية القوية تجعلها فعالة للغاية في تنقية المياه الصناعية والبلدية.
 
-4.  **Soap and Detergent supply**: A primary raw material in the supply of **soaps and detergents** through the saponification of fats and oils, creating cleaning agents for both industrial and household use.
+4.  **توريد الصابون والمنظفات**: مادة خام أساسية في توريد **الصابون والمنظفات** من خلال تصبن الدهون والزيوت، مما يخلق عوامل تنظيف للاستخدام الصناعي والمنزلي.
 
-5.  **Alumina supply**: Critically used in the Bayer process for the extraction of **alumina** from bauxite ore, a fundamental step in aluminum supply.
+5.  **توريد الألومينا**: تستخدم بشكل حاسم في عملية باير لاستخراج **الألومينا** من خام البوكسيت، وهي خطوة أساسية في توريد الألومنيوم.
 
-6.  **Petroleum Refining & Chemical Intermediates**: Employed in **petroleum refining** to remove impurities and in the synthesis of numerous **chemical intermediates**, including pharmaceuticals, plastics, and other organic compounds.
+6.  **تكرير البترول والوسائط الكيميائية**: تستخدم في **تكرير البترول** لإزالة الشوائب وفي تصنيع العديد من **الوسائط الكيميائية**، بما في ذلك الأدوية والبلاستيك والمركبات العضوية الأخرى.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We offer flexible **packaging solutions** for our Caustic Soda, including robust 25KG PP woven bags with PE inner liners, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We provide reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة للصودا الكاوية لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للنقل الدولي الآمن. بالنسبة لـ **الطلبات بالجملة**، نضمن **تحميلاً** فعالاً يتراوح بين 25-27 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Caustic Soda supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **الصودا الكاوية** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

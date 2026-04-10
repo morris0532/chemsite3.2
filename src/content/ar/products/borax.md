@@ -1,31 +1,31 @@
 ---
 id: "21"
-name: "Borax"
+name: "البورق (البوراكس)"
 nameCn: "硼砂"
 cas: "1303-96-4"
 hsCode: "2840190000"
 slug: "borax"
-shortDescription: "Industrial borax for glass supply, ceramics, detergents, and metallurgical applications."
+shortDescription: "البورق الصناعي لتوريد الزجاج والسيراميك والمنظفات والتطبيقات المعدنية."
 image: "/images/products/borax-cas-1303-96-4-sinopeakchem.webp"
-specs: [{"label":"Chemical Formula","value":"Na₂B₄O₇·10H₂O"},{"label":"CAS Number","value":"1303-96-4"},{"label":"HS Code","value":"2840190000"},{"label":"B₂O₃ Content","value":"≥36%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG / 50KG bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Dalian"}]
-applications: ["Glass and fiberglass supply","Ceramic and enamel supply","Detergent and cleaning products","Metallurgical flux","Insecticide and herbicide","Flame retardant"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"A full 20-foot container (27MT) is recommended for cost-effective ordering."},{"question":"What forms of borax do you offer?","answer":"We offer borax in both decahydrate (10-mol) and pentahydrate (5-mol) forms, as well as anhydrous borax for specific applications."},{"question":"Which port is used for borax shipments?","answer":"Borax is primarily shipped from Dalian port."}]
-ports: "Dalian"
-loading: "27MT/20GP"
-packaging: "25KG/50KG bags"
-category: "Boron Compounds"
+specs: [{"label":"الصيغة الكيميائية","value":"Na₂B₄O₇·10H₂O"},{"label":"رقم CAS","value":"1303-96-4"},{"label":"رمز النظام المنسق (HS Code)","value":"2840190000"},{"label":"محتوى B₂O₃","value":"≥36%"},{"label":"المظهر","value":"مسحوق بلوري أبيض"},{"label":"التعبئة والتغليف","value":"أكياس 25 كجم / 50 كجم"},{"label":"التحميل","value":"27 طن متري لكل حاوية 20 قدم"},{"label":"الموانئ المتاحة","value":"داليان"}]
+applications: ["توريد الزجاج والألياف الزجاجية","توريد السيراميك والمينا","المنظفات ومنتجات التنظيف","مساعد صهر المعادن","مبيد حشري ومبيد أعشاب","مثبط للهب"]
+faqs: [{"question":"ما هو الحد الأدنى لكمية الطلب؟","answer":"يوصى بحاوية كاملة سعة 20 قدماً (27 طناً مترياً) للطلب الفعال من حيث التكلفة."},{"question":"ما هي أشكال البورق التي تقدمونها؟","answer":"نحن نقدم البورق في كل من أشكال عشاري الهيدرات (10 مول) وخماسي الهيدرات (5 مول)، بالإضافة إلى البورق اللامائي لتطبيقات محددة."},{"question":"أي ميناء يستخدم لشحنات البورق؟","answer":"يتم شحن البورق بشكل أساسي من ميناء داليان."}]
+ports: "داليان"
+loading: "27 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/50 كجم أكياس"
+category: "مركبات البورون"
 ---
 
-Borax (Na₂B₄O₇·10H₂O), also known as Sodium Borate, is a high-performance inorganic salt widely recognized for its exceptional cleaning, buffering, and fluxing capabilities. It is a vital ingredient in the supply of cleaning agents, industrial chemicals, and various other products. Our Borax is supplied to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.
+البورق (Na₂B₄O₇·10H₂O)، المعروف أيضاً باسم بورات الصوديوم، هو ملح غير عضوي عالي الأداء معترف به على نطاق واسع لقدراته الاستثنائية في التنظيف والتحكم في الحموضة (التنظيم) والصهر. إنه مكون حيوي في توريد عوامل التنظيف والمواد الكيميائية الصناعية ومختلف المنتجات الأخرى. يتم توريد البورق لدينا وفقاً لمعايير عالية من النقاء والاتساق، مما يضمن الأداء الأمثل في كل من التطبيقات الصناعية والمنزلية.
 
-In the **cleaning and detergent industry**, Borax is a primary "cleaning booster" and "water softener." It works by sequestering calcium and magnesium ions in hard water, preventing them from interfering with the action of surfactants. This ensures that detergents can work effectively even in challenging water conditions, improving the overall cleaning power. It is also used as a **buffering agent** to control the pH of various cleaning formulations and as a **deodorizing agent** to remove odors from various surfaces.
+في **صناعة التنظيف والمنظفات**، يعتبر البورق "معزز تنظيف" و "منعم مياه" أساسياً. فهو يعمل عن طريق عزل أيونات الكالسيوم والمغنيسيوم في المياه العسرة، مما يمنعها من التداخل مع عمل المواد الخافضة للتوتر السطحي. وهذا يضمن أن المنظفات يمكن أن تعمل بفعالية حتى في ظروف المياه الصعبة، مما يحسن قوة التنظيف الإجمالية. كما يتم استخدامه كـ **عامل تنظيم (Buffering agent)** للتحكم في درجة حموضة تركيبات التنظيف المختلفة و كـ **عامل مزيل للروائح** لإزالة الروائح من الأسطح المختلفة.
 
-The **industrial sector** utilizes Borax as a versatile **flux** and **chemical intermediate**. It is used in the **metallurgy industry** as a flux for soldering, brazing, and welding. It helps to remove oxides from the surface of the metal, ensuring a clean and strong bond. In the **glass and ceramic industry**, it is used as a flux to lower the melting temperature of the glass and to improve the durability and clarity of the final products.
+يستخدم **القطاع الصناعي** البورق كـ **مساعد صهر** و **وسيط كيميائي** متعدد الاستخدامات. يتم استخدامه في **صناعة المعادن** كمساعد صهر للحام واللحام بالقصدير واللحام بالنحاس. يساعد على إزالة الأكاسيد من سطح المعدن، مما يضمن رابطة نظيفة وقوية. في **صناعة الزجاج والسيراميك**، يتم استخدامه كمساعد صهر لخفض درجة حرارة انصهار الزجاج ولتحسين متانة ووضوح المنتجات النهائية.
 
-In **agriculture**, Borax is used as a **boron fertilizer** to provide a readily available source of boron to crops. Boron is an essential micronutrient for plant growth and development, particularly for the formation of cell walls and for the transport of sugars. Its application helps to improve crop yields and quality, particularly in boron-deficient soils.
+في **الزراعة**، يستخدم البورق كـ **سماد بورون** لتوفير مصدر متاح للبورون للمحاصيل. البورون هو عنصر غذائي دقيق أساسي لنمو النبات وتطوره، لا سيما لتكوين جدران الخلايا ونقل السكريات. يساعد تطبيقه على تحسين غلة المحاصيل وجودتها، خاصة في التربة التي تعاني من نقص البورون.
 
-The **chemical industry** employs Borax as a raw material for the supply of various other borates and as a building block for other inorganic chemicals. It is also used in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant.
+توظف **الصناعة الكيميائية** البورق كمادة خام لتوريد البورات الأخرى المختلفة وكوحدة بناء للمواد الكيميائية غير العضوية الأخرى. كما يتم استخدامه في **صناعة المنسوجات** كمثبط للهب وفي **صناعة اللب والورق** كمساعد تبييض.
 
-Furthermore, Borax finds applications in **personal care products**, such as soaps and lotions, where it acts as an emulsifier and buffering agent. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
+علاوة على ذلك، يجد البورق تطبيقات في **منتجات العناية الشخصية**، مثل الصابون والمستحضرات، حيث يعمل كمستحلب وعامل تنظيم. قدرته على الحفاظ على درجة حموضة مستقرة تجعله قيماً في العديد من العمليات الكيميائية.
 
-Our Borax is available in various forms, including decahydrate and pentahydrate, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Borax to our global partners.
+يتوفر البورق لدينا في أشكال مختلفة، بما في ذلك عشاري الهيدرات وخماسي الهيدرات، لتلبية متطلبات التطبيقات المحددة. نحن نقدم تعبئة عالية الجودة في أكياس 25 كجم و50 كجم وأكياس جامبو 1000 كجم، مما يضمن سلامة المنتج أثناء الشحن الدولي. مع لوجستيات موثوقة من الموانئ الصينية الرئيسية مثل تيانجين وتشينغداو وليانيونغانغ، نقدم توريداً ثابتاً وفعالاً من حيث التكلفة للبورق لشركائنا العالميين.

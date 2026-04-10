@@ -1,78 +1,77 @@
 ---
 id: "18"
-name: "Ammonium Chloride"
+name: "كلوريد الأمونيوم"
 nameCn: "氯化铵"
 cas: "12125-02-9"
 hsCode: "2827101000"
 slug: "ammonium-chloride"
-shortDescription: "High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China. Essential for fertilizer, feed additive, and industrial applications. Trusted supplier with competitive pricing."
+shortDescription: "كلوريد الأمونيوم عالي الجودة (NH4Cl) للشراء بالجملة والتصدير من الصين. ضروري للأسمدة، وإضافات الأعلاف، والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"NH₄Cl"},
-  {"label":"CAS Number","value":"12125-02-9"},
-  {"label":"HS Code","value":"2827101000"},
-  {"label":"Purity","value":"≥99.5% (Industrial Grade)"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"NH₄Cl"},
+  {"label":"رقم CAS","value":"12125-02-9"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2827101000"},
+  {"label":"النقاء","value":"≥99.5% (درجة صناعية)"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25-27 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Fertilizer (nitrogen source for crops)",
-  "Feed additive (ruminants, poultry)",
-  "Dry cell batteries",
-  "Metal working (flux for soldering)",
-  "Textile and leather industry",
-  "Pharmaceutical intermediates",
-  "Food additive (E510)"
+  "الأسمدة (مصدر النيتروجين للمحاصيل)",
+  "إضافات الأعلاف (المجترات، الدواجن)",
+  "بطاريات الخلايا الجافة",
+  "تشغيل المعادن (مساعد صهر للحام)",
+  "صناعة المنسوجات والجلود",
+  "الوسائط الصيدلانية",
+  "مضافات غذائية (E510)"
 ]
 faqs: [
-  {"question":"What grades of Ammonium Chloride do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Ammonium Chloride, offering industrial grade (≥99.5% purity) and feed grade. Both are available for bulk purchase and export, catering to various industrial and agricultural requirements."},{
-    "question":"What is the typical purity of your Ammonium Chloride products?",
-    "answer":"Our Ammonium Chloride (NH₄Cl) is available with a minimum purity of 99.5% for industrial applications. We ensure strict quality control to meet international standards."
+  {"question":"ما هي درجات كلوريد الأمونيوم التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر رائد لكلوريد الأمونيوم في الصين، ونقدم الدرجة الصناعية (نقاء ≥99.5%) ودرجة الأعلاف. كلاهما متاح للشراء بالجملة والتصدير، لتلبية مختلف المتطلبات الصناعية والزراعية."},{
+    "question":"ما هو النقاء النموذجي لمنتجات كلوريد الأمونيوم الخاصة بكم؟",
+    "answer":"يتوفر كلوريد الأمونيوم (NH₄Cl) لدينا بنقاء لا يقل عن 99.5% للتطبيقات الصناعية. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية."
   },{
-    "question":"How is Ammonium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Ammonium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة كلوريد الأمونيوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة كلوريد الأمونيوم لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Ammonium Chloride?",
-    "answer":"Our industrial grade Ammonium Chloride is widely used as a nitrogen fertilizer, a feed additive for livestock, in dry cell batteries, as a flux in metalworking, and in the textile and leather industries. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لكلوريد الأمونيوم من الدرجة الصناعية؟",
+    "answer":"يستخدم كلوريد الأمونيوم من الدرجة الصناعية لدينا على نطاق واسع كسماد نيتروجيني، وإضافة أعلاف للماشية، وفي بطاريات الخلايا الجافة، وكمساعد صهر في تشغيل المعادن، وفي صناعات المنسوجات والجلود. تعدد استخداماته يجعله مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Ammonium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لكلوريد الأمونيوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Ammonium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Ammonium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات كلوريد الأمونيوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات كلوريد الأمونيوم بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25-27 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "مركبات الكلوريد"
 featured: false
 ---
 
-## Ammonium Chloride (CAS 12125-02-9): Your Trusted China supplier & Supplier for High-Grade NH₄Cl
+## كلوريد الأمونيوم (CAS 12125-02-9): موردك الصيني الموثوق لـ NH₄Cl عالي الجودة
 
-As a premier **China supplier and supplier** of **Ammonium Chloride (NH₄Cl)**, we offer **high-grade** product with **≥99.5% purity** for **bulk purchase** and **export** worldwide. Our Ammonium Chloride is supplied to meet stringent international quality standards, making it ideal for a wide range of industrial, agricultural, and feed applications (HS Code: 2827101000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **كلوريد الأمونيوم (NH₄Cl)**، فإننا نقدم منتجاً **عالي الجودة** بنقاء **≥99.5%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد كلوريد الأمونيوم لدينا لتلبية المعايير الدولية الصارمة للجودة، مما يجعله مثالياً لمجموعة واسعة من التطبيقات الصناعية والزراعية والأعلاف (رمز النظام المنسق: 2827101000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Fertilizer Industry**: Widely used as a **nitrogen fertilizer** for various crops, particularly rice and wheat. It provides a readily available source of nitrogen, promoting healthy plant growth and increasing yields.
+1.  **صناعة الأسمدة**: يستخدم على نطاق واسع كـ **سماد نيتروجيني** لمختلف المحاصيل، وخاصة الأرز والقمح. يوفر مصدراً متاحاً للنيتروجين، مما يعزز نمو النبات الصحي ويزيد الغلة.
 
-2.  **Feed Additive**: Essential as a **feed additive** for ruminants (e.g., cattle, sheep) to prevent urinary calculi and as a source of non-protein nitrogen. It also finds use in poultry feed.
+2.  **إضافات الأعلاف**: ضروري كـ **إضافة أعلاف** للمجترات (مثل الماشية والأغنام) لمنع حصوات المسالك البولية وكمصدر للنيتروجين غير البروتيني. كما يجد استخداماً في أعلاف الدواجن.
 
-3.  **Dry Cell Batteries**: A critical electrolyte in the supply of **dry cell batteries** (Leclanché cells), contributing to their electrical conductivity.
+3.  **بطاريات الخلايا الجافة**: إلكتروليت حاسم في توريد **بطاريات الخلايا الجافة** (خلايا ليكلانشيه)، مما يساهم في توصيلها الكهربائي.
 
-4.  **Metal Working**: Functions as a **flux for soldering and welding**, cleaning the surface of metals by reacting with metal oxides to form volatile chlorides, ensuring stronger bonds.
+4.  **تشغيل المعادن**: يعمل كـ **مساعد صهر للحام واللحام بالقصدير**، حيث ينظف سطح المعادن من خلال التفاعل مع أكاسيد المعادن لتكوين كلوريدات متطايرة، مما يضمن روابط أقوى.
 
-5.  **Textile and Leather Industry**: Used in the **textile industry** for dyeing and printing, and in the **leather industry** for tanning processes.
+5.  **صناعة المنسوجات والجلود**: يستخدم في **صناعة المنسوجات** للصباغة والطباعة، وفي **صناعة الجلود** لعمليات الدباغة.
 
-6.  **Pharmaceutical & Food Additive**: Employed in the **pharmaceutical industry** as an expectorant and diuretic, and as a **food additive (E510)** in some food products.
+6.  **الوسائط الصيدلانية والمضافات الغذائية**: يستخدم في **الصناعة الصيدلانية** كمقشع ومدر للبول، وكـ **مضاف غذائي (E510)** في بعض المنتجات الغذائية.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Ammonium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لكلوريد الأمونيوم لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً يتراوح بين 25-27 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Ammonium Chloride supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **كلوريد الأمونيوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.
