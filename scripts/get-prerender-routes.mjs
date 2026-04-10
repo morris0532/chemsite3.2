@@ -3,7 +3,7 @@ import path from 'path';
 
 export function getPrerenderRoutes() {
   const contentDir = path.resolve('src/content');
-  const locales = ['en', 'ru', 'fr', 'es'];
+  const locales = ['en', 'ru', 'fr', 'es', 'ar'];
   const basePages = [
     '',
     '/products',
