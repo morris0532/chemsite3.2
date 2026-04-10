@@ -86,7 +86,6 @@ SinoPeakChem — Su proveedor confiable de sosa cáustica en China con más de 1
 [Obtener Cotización Gratis →](/es/contact)  [Solicitar Muestra →](/es/contact)  [Ver Detalles del Producto →](/es/products/caustic-soda)
 
 📧 Correo electrónico: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

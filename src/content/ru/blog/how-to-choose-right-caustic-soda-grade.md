@@ -86,7 +86,6 @@ SinoPeakChem — ваш надежный поставщик каустическ
 [Получить бесплатное предложение →](/ru/contact)  [Запросить образец →](/ru/contact)  [Посмотреть детали продукта →](/ru/products/caustic-soda)
 
 📧 Электронная почта: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -86,7 +86,6 @@ SinoPeakChem — Your trusted caustic soda supplier in China with over 10 years 
 [Get Free Quote →](/en/contact)  [Request Sample →](/en/contact)  [View Product Details →](/en/products/caustic-soda)
 
 📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
