@@ -48,7 +48,11 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/(en|ru|fr|es)/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/((?!api|_next/static|_next/image|favicon.ico|favicon.png|logo.png|images/|docs/|assets/).*)",
       "destination": "/index.html"
     }
   ]
