@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 
 export function getPrerenderRoutes() {
   const contentDir = path.resolve('src/content');
@@ -30,8 +31,12 @@ export function getPrerenderRoutes() {
     if (fs.existsSync(blogDir)) {
       fs.readdirSync(blogDir).forEach(file => {
         if (file.endsWith('.md')) {
-          const slug = file.replace('.md', '');
-          routes.push(`/${locale}/blog/${slug}`);
+          const fileContent = fs.readFileSync(path.join(blogDir, file), 'utf-8');
+          const { data } = matter(fileContent);
+          if (data.draft !== true) {
+            const slug = file.replace('.md', '');
+            routes.push(`/${locale}/blog/${slug}`);
+          }
         }
       });
     }
@@ -42,8 +47,12 @@ export function getPrerenderRoutes() {
     if (fs.existsSync(productDir)) {
       fs.readdirSync(productDir).forEach(file => {
         if (file.endsWith('.md')) {
-          const slug = file.replace('.md', '');
-          routes.push(`/${locale}/products/${slug}`);
+          const fileContent = fs.readFileSync(path.join(productDir, file), 'utf-8');
+          const { data } = matter(fileContent);
+          if (data.draft !== true) {
+            const slug = file.replace('.md', '');
+            routes.push(`/${locale}/products/${slug}`);
+          }
         }
       });
     }

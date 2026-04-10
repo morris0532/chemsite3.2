@@ -63,6 +63,8 @@ const contentMetadata = {
         if (file.endsWith('.md')) {
           const fileContent = fs.readFileSync(path.join(dir, file), 'utf-8');
           const { data } = matter(fileContent);
+          if (data.draft === true) return; // Skip draft content
+          
           contentMetadata[locale][type].push({
             title: data.title || data.name || '',
             slug: data.slug || file.replace('.md', ''),
@@ -103,6 +105,12 @@ routes.forEach(route => {
     if (fs.existsSync(mdFilePath)) {
       const fileContent = fs.readFileSync(mdFilePath, 'utf-8');
       const { data, content } = matter(fileContent);
+      
+      if (data.draft === true) {
+        console.log(`Skipping draft content injection for: ${route}`);
+        return;
+      }
+      
       contentHtml = marked.parse(content);
       
       if (type === 'products') {

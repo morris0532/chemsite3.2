@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 
 const SITE_URL = 'https://www.sinopeakchem.com';
 const TODAY = new Date().toISOString().split('T')[0];
@@ -64,7 +65,13 @@ async function generateSitemap() {
   LOCALES.forEach(l => {
     const dir = path.join(CONTENT_DIR, l, 'products');
     if (fs.existsSync(dir)) {
-      fs.readdirSync(dir).filter(f => f.endsWith('.md')).forEach(f => productSlugs.add(f.replace('.md', '')));
+      fs.readdirSync(dir).filter(f => f.endsWith('.md')).forEach(f => {
+        const fileContent = fs.readFileSync(path.join(dir, f), 'utf-8');
+        const { data } = matter(fileContent);
+        if (data.draft !== true) {
+          productSlugs.add(f.replace('.md', ''));
+        }
+      });
     }
   });
 
@@ -84,7 +91,13 @@ async function generateSitemap() {
   LOCALES.forEach(l => {
     const dir = path.join(CONTENT_DIR, l, 'blog');
     if (fs.existsSync(dir)) {
-      fs.readdirSync(dir).filter(f => f.endsWith('.md')).forEach(f => blogSlugs.add(f.replace('.md', '')));
+      fs.readdirSync(dir).filter(f => f.endsWith('.md')).forEach(f => {
+        const fileContent = fs.readFileSync(path.join(dir, f), 'utf-8');
+        const { data } = matter(fileContent);
+        if (data.draft !== true) {
+          blogSlugs.add(f.replace('.md', ''));
+        }
+      });
     }
   });
 
