@@ -52,8 +52,22 @@ function generateGalleryData() {
 
     // Read all files in the gallery directory
     const files = fs.readdirSync(GALLERY_DIR).filter((file) => {
+      if (file.startsWith('.')) return false;
       const ext = path.extname(file).toLowerCase();
-      return SUPPORTED_EXTENSIONS.includes(ext) && !file.startsWith('.');
+      if (SUPPORTED_EXTENSIONS.includes(ext)) return true;
+      
+      // If no extension, check if it's actually an image (fallback for extensionless files)
+      if (ext === '') {
+        try {
+          // This is a simple check, for a more robust check we could use 'file-type' library
+          // but in this environment we'll just try to see if it's a valid file
+          const stats = fs.statSync(path.join(GALLERY_DIR, file));
+          return stats.isFile() && stats.size > 0;
+        } catch (e) {
+          return false;
+        }
+      }
+      return false;
     });
 
     if (files.length === 0) {

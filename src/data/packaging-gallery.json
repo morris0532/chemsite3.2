@@ -1,5 +1,16 @@
 {
-  "items": [],
-  "lastUpdated": "2026-04-10T00:00:00.000Z",
-  "totalItems": 0
+  "items": [
+    {
+      "id": "packaging-1",
+      "slug": "sodium-thiosulfate-50kg",
+      "name": "Sodium Thiosulfate 50kg",
+      "image": "/images/packaging-gallery/sodium thiosulfate 50kg",
+      "category": "Product Packaging",
+      "cas": "",
+      "shortDescription": "Professional packaging image for Sodium Thiosulfate 50kg",
+      "order": 1
+    }
+  ],
+  "lastUpdated": "2026-04-10T15:52:50.654Z",
+  "totalItems": 1
 }
