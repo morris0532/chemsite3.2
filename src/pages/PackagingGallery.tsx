@@ -20,7 +20,8 @@ export default function PackagingGalleryPage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedProduct, setSelectedProduct] = useState<GalleryItem | null>(null);
@@ -87,6 +88,17 @@ export default function PackagingGalleryPage() {
     viewProduct: "Ver producto",
     closeModal: "Cerrar",
     clearSearch: "Limpiar búsqueda",
+  } : isAr ? {
+    title: "معرض تغليف المنتجات",
+    description: "استكشف تغليف منتجاتنا الكيميائية الصناعية. جودة فائقة وعرض احترافي.",
+    heroTitle: "معرض تغليف المنتجات",
+    heroDesc: "اكتشف التغليف الاحترافي لمنتجاتنا الكيميائية الصناعية. يتم تعبئة كل منتج وفقاً لمعايير الجودة والسلامة الصارمة.",
+    searchPlaceholder: "البحث حسب اسم المنتج...",
+    noResults: "لم يتم العثور على منتجات",
+    emptyGallery: "معرض التغليف فارغ حالياً. يرجى التحقق لاحقاً.",
+    viewProduct: "عرض المنتج",
+    closeModal: "إغلاق",
+    clearSearch: "مسح البحث",
   } : {
     title: "Product Packaging Gallery",
     description: "Explore the packaging of our industrial chemical products. Superior quality and professional presentation.",
@@ -121,29 +133,23 @@ export default function PackagingGalleryPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : "Home"))}
+              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : (isAr ? "الرئيسية" : "Home")))}
             </Link>
-            <ChevronRight className="w-3 h-3 opacity-50" />
+            <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
             <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
-              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : "Products"))}
+              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}
             </Link>
-            <ChevronRight className="w-3 h-3 opacity-50" />
-            <span className="text-slate-900">{isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : "Packaging Gallery"))}</span>
-          </nav>
-        </div>
-      </div>
-
+            <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
+            <span className="text-slate-900">{isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : (isAr ? "معرض التغليف" : "Packaging Gallery")))}</span>      <div className={isAr ? 'text-right' : ''}>
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">{content.heroTitle}</h1>
-          <p className="text-blue-100 max-w-2xl text-lg">
+          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
             {content.heroDesc}
           </p>
         </div>
-      </section>
-
-      <section className="py-8 md:py-12">
+      </section>      <section className="py-8 md:py-12">
         <div className="container mx-auto px-4">
           {/* Search Bar */}
           <div className="mb-8">
@@ -181,11 +187,11 @@ export default function PackagingGalleryPage() {
                     />
                     <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 flex items-center justify-center">
                       <button className="opacity-0 group-hover:opacity-100 transition-opacity bg-white text-[#0066B3] px-4 py-2 rounded-lg font-semibold hover:bg-blue-50 text-sm">
-                        {isRu ? "Просмотр" : (isFr ? "Voir" : (isEs ? "Ver" : "View"))}
+                        {isRu ? "Просмотр" : (isFr ? "Voir" : (isEs ? "Ver" : (isAr ? "عرض" : "View")))}
                       </button>
                     </div>
                   </div>
-                  <div className="p-4">
+                  <div className={`p-4 ${isAr ? 'text-right' : ''}`}>
                     <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-0.5 rounded-full">
                       {item.category}
                     </span>
@@ -241,18 +247,18 @@ export default function PackagingGalleryPage() {
               </div>
 
               <div className="space-y-4 mb-6">
-                <div>
-                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Категория" : (isFr ? "Catégorie" : (isEs ? "Categoría" : "Category"))}</p>
+                <div className={isAr ? 'text-right' : ''}>
+                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Категория" : (isFr ? "Catégorie" : (isEs ? "Categoría" : (isAr ? "الفئة" : "Category")))}</p>
                   <p className="font-semibold text-[#1A1A2E]">{selectedProduct.category}</p>
                 </div>
                 {selectedProduct.cas && (
-                  <div>
+                  <div className={isAr ? 'text-right' : ''}>
                     <p className="text-sm text-gray-500 mb-1">CAS Number</p>
                     <p className="font-semibold text-[#1A1A2E]">{selectedProduct.cas}</p>
                   </div>
                 )}
-                <div>
-                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Описание" : (isFr ? "Description" : (isEs ? "Descripción" : "Description"))}</p>
+                <div className={isAr ? 'text-right' : ''}>
+                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Описание" : (isFr ? "Description" : (isEs ? "Descripción" : (isAr ? "الوصف" : "Description")))}</p>
                   <p className="text-gray-700">{selectedProduct.shortDescription}</p>
                 </div>
               </div>
