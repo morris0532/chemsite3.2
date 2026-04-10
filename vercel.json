@@ -48,7 +48,7 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/(en|ru|fr|es)/:path*",
+      "source": "/(en|ru|fr|es|ar)/:path*",
       "destination": "/index.html"
     },
     {
