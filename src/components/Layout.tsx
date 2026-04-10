@@ -24,21 +24,23 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
   const enContent = useMarkdownContent('en');
   const ruContent = useMarkdownContent('ru');
   const frContent = useMarkdownContent('fr');
   const esContent = useMarkdownContent('es');
-  const currentContent = isRu ? ruContent : (isFr ? frContent : (isEs ? esContent : enContent));
+  const arContent = useMarkdownContent('ar');
+  const currentContent = isRu ? ruContent : (isFr ? frContent : (isEs ? esContent : (isAr ? arContent : enContent)));
 
   const pageTitle = title 
     ? `${title} | Sinopeakchem` 
-    : (isRu ? "Sinopeakchem - Глобальный поставщик химикатов" : (isFr ? "Sinopeakchem - Fournisseur mondial de produits chimiques" : (isEs ? "Sinopeakchem - Proveedor Global de Productos Químicos" : "Sinopeakchem - Global Chemical Supplier")));
+    : (isRu ? "Sinopeakchem - Глобальный поставщик химикатов" : (isFr ? "Sinopeakchem - Fournisseur mondial de produits chimiques" : (isEs ? "Sinopeakchem - Proveedor Global de Productos Químicos" : (isAr ? "Sinopeakchem - مورد عالمي للمواد الكيميائية" : "Sinopeakchem - Global Chemical Supplier"))));
   
   const pageDescription = description || (isRu 
     ? "Sinopeakchem - ведущий поставщик химикатов B2B, предлагающий высококачественные промышленные химикаты, включая тиосульфат натрия, каустическую соду, щавелевую кислоту и другие. Глобальная доставка из Китая."
-    : (isFr ? "Sinopeakchem est un fournisseur leader de produits chimiques B2B proposant des produits chimiques industriels de haute qualité, notamment le thiosulfate de sodium, la soude caustique, l'acide oxalique, etc. Expédition mondiale depuis la Chine." : (isEs ? "Sinopeakchem es un proveedor líder de productos químicos B2B que ofrece productos químicos industriales de alta calidad, incluyendo tiosulfato de sodio, sosa cáustica, ácido oxálico, etc. Envío global desde China." : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China.")));
+    : (isFr ? "Sinopeakchem est un fournisseur leader de produits chimiques B2B proposant des produits chimiques industriels de haute qualité, notamment le thiosulfate de sodium, la soude caustique, l'acide oxalique, etc. Expédition mondiale depuis la Chine." : (isEs ? "Sinopeakchem es un proveedor líder de productos químicos B2B que ofrece productos químicos industriales de alta calidad, incluyendo tiosulfato de sodio, sosa cáustica, ácido oxálico, etc. Envío global desde China." : (isAr ? "Sinopeakchem هي مورد رائد للمواد الكيميائية B2B تقدم مواد كيميائية صناعية عالية الجودة بما في ذلك ثيوسلفات الصوديوم والصودا الكاوية وحمض الأكساليك والمزيد. شحن عالمي من الصين." : "Sinopeakchem is a leading B2B chemical supplier offering high-quality industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, and more. Global shipping from China."))));
 
   const pageImage = image || "https://www.sinopeakchem.com/logo.png";
 
@@ -88,8 +90,9 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(ru|fr|es)/, '/en')}`, 'en');
     setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ru') : (location.pathname.startsWith('/fr') ? location.pathname.replace(/^\/fr/, '/ru') : (location.pathname.startsWith('/es') ? location.pathname.replace(/^\/es/, '/ru') : '/ru' + location.pathname))}`, 'ru');
     setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/fr') : (location.pathname.startsWith('/ru') ? location.pathname.replace(/^\/ru/, '/fr') : (location.pathname.startsWith('/es') ? location.pathname.replace(/^\/es/, '/fr') : '/fr' + location.pathname))}`, 'fr');
-    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/es') : (location.pathname.startsWith('/ru') ? location.pathname.replace(/^\/ru/, '/es') : (location.pathname.startsWith('/fr') ? location.pathname.replace(/^\/fr/, '/es') : '/es' + location.pathname))}`, 'es');
-    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(en|ru|fr|es)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/es') : (location.pathname.startsWith('/ru') ? location.pathname.replace(/^\/ru/, '/es') : (location.pathname.startsWith('/fr') ? location.pathname.replace(/^\/fr/, '/es') : (location.pathname.startsWith('/ar') ? location.pathname.replace(/^\/ar/, '/es') : '/es' + location.pathname)))}`, 'es');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.startsWith('/en') ? location.pathname.replace(/^\/en/, '/ar') : (location.pathname.startsWith('/ru') ? location.pathname.replace(/^\/ru/, '/ar') : (location.pathname.startsWith('/fr') ? location.pathname.replace(/^\/fr/, '/ar') : (location.pathname.startsWith('/es') ? location.pathname.replace(/^\/es/, '/ar') : '/ar' + location.pathname)))}`, 'ar');
+    setLink('alternate', `https://www.sinopeakchem.com${location.pathname.replace(/^\/(en|ru|fr|es|ar)\/(privacy-policy|terms-of-service)/, '/en/$2')}`, 'x-default');
 
   }, [pageTitle, pageDescription, pageImage, location.pathname]);
 
@@ -111,6 +114,12 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     { href: "/es/about", label: "Sobre Nosotros" },
     { href: "/es/blog", label: "Blog" },
     { href: "/es/contact", label: "Contacto" },
+  ] : isAr ? [
+    { href: "/ar", label: "الرئيسية" },
+    { href: "/ar/products", label: "المنتجات" },
+    { href: "/ar/about", label: "من نحن" },
+    { href: "/ar/blog", label: "المدونة" },
+    { href: "/ar/contact", label: "اتصل بنا" },
   ] : [
     { href: "/en", label: "Home" },
     { href: "/en/products", label: "Products" },
@@ -120,14 +129,14 @@ export default function Layout({ children, title, description, image, jsonLd }: 
   ]);
 
   const isActive = (href: string) => {
-    if (href === "/en" || href === "/ru" || href === "/fr" || href === "/es") return location.pathname === href || (href === "/en" && location.pathname === "/");
+    if (href === "/en" || href === "/ru" || href === "/fr" || href === "/es" || href === "/ar") return location.pathname === href || (href === "/en" && location.pathname === "/");
     return location.pathname.startsWith(href);
   };
 
-  const handleLanguageChange = (targetLocale: 'en' | 'ru' | 'fr' | 'es') => {
+  const handleLanguageChange = (targetLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') => {
     const targetPrefix = `/${targetLocale}`;
-    const targetContent = targetLocale === 'en' ? enContent : (targetLocale === 'ru' ? ruContent : (targetLocale === 'fr' ? frContent : esContent));
-    const currentContent = isRu ? ruContent : (isFr ? frContent : (isEs ? esContent : enContent));
+    const targetContent = targetLocale === 'en' ? enContent : (targetLocale === 'ru' ? ruContent : (targetLocale === 'fr' ? frContent : (targetLocale === 'es' ? esContent : arContent)));
+    const currentContent = isRu ? ruContent : (isFr ? frContent : (isEs ? esContent : (isAr ? arContent : enContent)));
     
     if (location.pathname.includes('/privacy-policy') || location.pathname.includes('/terms-of-service')) {
       const policyPath = location.pathname.includes('/privacy-policy') ? '/en/privacy-policy' : '/en/terms-of-service';
@@ -167,12 +176,14 @@ export default function Layout({ children, title, description, image, jsonLd }: 
               ? location.pathname.replace("/ru", targetPrefix) 
               : (location.pathname.startsWith('/fr') 
                   ? location.pathname.replace("/fr", targetPrefix) 
-                  : location.pathname.replace("/es", targetPrefix))));
+                  : (location.pathname.startsWith('/es')
+                      ? location.pathname.replace("/es", targetPrefix)
+                      : location.pathname.replace("/ar", targetPrefix)))));
     navigate(newPath);
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-white">
+    <div className={`min-h-screen flex flex-col bg-white ${isAr ? 'font-arabic' : ''}`} dir={isAr ? 'rtl' : 'ltr'}>
       {jsonLd && (
         <script
           type="application/ld+json"
@@ -227,22 +238,23 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   className="text-gray-500 hover:text-[#0066B3] hover:bg-gray-50/60 flex items-center gap-1.5 px-3 py-2 rounded-lg transition-all duration-300 font-semibold text-xs"
                 >
                   <Globe className="w-4 h-4" />
-                  <span className="uppercase">{isRu ? "RU" : (isFr ? "FR" : (isEs ? "ES" : "EN"))}</span>
+                  <span className="uppercase">{isRu ? "RU" : (isFr ? "FR" : (isEs ? "ES" : (isAr ? "AR" : "EN")))}</span>
                   <ChevronDown className="w-3 h-3 opacity-50 group-hover/lang:rotate-180 transition-transform duration-300" />
                 </Button>
-                <div className="absolute right-0 top-full pt-2 opacity-0 invisible group-hover/lang:opacity-100 group-hover/lang:visible transition-all duration-300 z-[60]">
+                <div className={`${isAr ? 'left-0' : 'right-0'} absolute top-full pt-2 opacity-0 invisible group-hover/lang:opacity-100 group-hover/lang:visible transition-all duration-300 z-[60]`}>
                   <div className="bg-white rounded-xl shadow-xl border border-gray-100 py-2 min-w-[120px] overflow-hidden">
                     {[
                       { code: 'en', label: 'English' },
                       { code: 'ru', label: 'Русский' },
                       { code: 'fr', label: 'Français' },
-                      { code: 'es', label: 'Español' }
+                      { code: 'es', label: 'Español' },
+                      { code: 'ar', label: 'العربية' }
                     ].map((lang) => (
                       <button
                         key={lang.code}
                         onClick={() => handleLanguageChange(lang.code as any)}
                         className={`w-full text-left px-4 py-2 text-xs font-semibold transition-colors ${
-                          (lang.code === 'en' && !isRu && !isFr && !isEs) || (lang.code === 'ru' && isRu) || (lang.code === 'fr' && isFr) || (lang.code === 'es' && isEs)
+                          (lang.code === 'en' && !isRu && !isFr && !isEs && !isAr) || (lang.code === 'ru' && isRu) || (lang.code === 'fr' && isFr) || (lang.code === 'es' && isEs) || (lang.code === 'ar' && isAr)
                             ? "text-[#0066B3] bg-blue-50"
                             : "text-gray-600 hover:bg-gray-50 hover:text-[#0066B3]"
                         }`}
@@ -263,8 +275,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 <Search className="w-4 h-4" />
               </Button>
               <Link to={`${langPrefix}/contact`}>
-                <Button className="hidden sm:inline-flex bg-[#0066B3] hover:bg-[#004a82] text-white font-semibold px-6 h-10 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5">
-                  {isRu ? "Запросить цену" : (isFr ? "Demander un devis" : (isEs ? "Obtener Cotización" : "Get a Quote"))}
+                <Button className={`hidden sm:inline-flex bg-[#0066B3] hover:bg-[#004a82] text-white font-semibold px-6 h-10 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5 ${isAr ? 'font-arabic' : ''}`}>
+                  {isRu ? "Запросить цену" : (isFr ? "Demander un devis" : (isEs ? "Obtener Cotización" : (isAr ? "طلب عرض سعر" : "Get a Quote")))}
                 </Button>
               </Link>
               <Button
@@ -311,26 +323,26 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             <div>
               <div className="flex items-center gap-2.5 mb-6">
                 <img src="/logo.png" alt="Sinopeakchem" className="w-10 h-10 rounded-lg" />
-                <div>
+                <div className={isAr ? 'text-right' : ''}>
                   <h2 className="text-lg font-bold">Sinopeakchem</h2>
-                  <p className="text-xs text-gray-400">{isFr ? "Fournisseur mondial de produits chimiques" : (isEs ? "Proveedor Global de Productos Químicos" : "Global Chemical Supplier")}</p>
+                  <p className="text-xs text-gray-400">{isFr ? "Fournisseur mondial de produits chimiques" : (isEs ? "Proveedor Global de Productos Químicos" : (isAr ? "مورد عالمي للمواد الكيميائية" : "Global Chemical Supplier"))}</p>
                 </div>
               </div>
-              <p className="text-gray-400 text-sm leading-relaxed mb-6">
+              <p className={`text-gray-400 text-sm leading-relaxed mb-6 ${isAr ? 'text-right' : ''}`}>
                 {isRu 
                   ? "Ведущий мировой поставщик промышленной химии, специализирующийся на высококачественных решениях для водоподготовки, горнодобывающей и текстильной промышленности. Обладая более чем 15-летним опытом и экспортом в 50+ стран, мы обеспечиваем надежные поставки и профессиональную техническую поддержку."
-                  : (isFr ? "Premier fournisseur mondial de produits chimiques industriels, spécialisé dans les solutions de haute qualité pour le traitement de l'eau, l'exploitation minière et le textile. Avec plus de 15 ans d'expertise et des exportations vers plus de 50 pays, nous garantissons une chaîne d'approvisionnement fiable et un support technique professionnel." : (isEs ? "Un proveedor líder mundial de productos químicos industriales especializado en soluciones de alto rendimiento para las industrias de tratamiento de agua, minería y textil. Con más de 15 años de experiencia y exportaciones a más de 50 países, garantizamos cadenas de suministro confiables y soporte técnico profesional." : "A leading global industrial chemical supplier specializing in high-performance solutions for water treatment, mining, and textile industries. With over 15 years of expertise and exports to 50+ countries, we ensure reliable supply chains and professional technical support."))}
+                  : (isFr ? "Premier fournisseur mondial de produits chimiques industriels, spécialisé dans les solutions de haute qualité pour le traitement de l'eau, l'exploitation minière et le textile. Avec plus de 15 ans d'expertise et des exportations vers plus de 50 pays, nous garantissons une chaîne d'approvisionnement fiable et un support technique professionnel." : (isEs ? "Un proveedor líder mundial de productos químicos industriales especializado en soluciones de alto rendimiento para las industrias de tratamiento de agua, minería y textil. Con más de 15 años de experiencia y exportaciones a más de 50 países, garantizamos cadenas de suministro confiables y soporte técnico profesional." : (isAr ? "مورد عالمي رائد للمواد الكيميائية الصناعية متخصص في الحلول عالية الأداء لصناعات معالجة المياه والتعدين والمنسوجات. مع أكثر من 15 عاماً من الخبرة والتصدير إلى أكثر من 50 دولة، نضمن سلاسل توريد موثوقة ودعماً فنياً محترفاً." : "A leading global industrial chemical supplier specializing in high-performance solutions for water treatment, mining, and textile industries. With over 15 years of expertise and exports to 50+ countries, we ensure reliable supply chains and professional technical support."))))}
               </p>
 
             </div>
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : (isFr ? "Liens rapides" : (isEs ? "Enlaces Rápidos" : "Quick Links"))}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Быстрые ссылки" : (isFr ? "Liens rapides" : (isEs ? "Enlaces Rápidos" : (isAr ? "روابط سريعة" : "Quick Links")))}</h3>
               <ul className="space-y-4">
                 {navLinks.map((link) => (
                   <li key={link.href}>
-                    <Link to={link.href} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
-                      <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
+                    <Link to={link.href} className={`text-gray-400 hover:text-white transition-colors flex items-center gap-2 group ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <ChevronDown className={`w-4 h-4 opacity-0 group-hover:opacity-100 transition-all ${isAr ? 'rotate-90' : '-rotate-90'}`} />
                       {link.label}
                     </Link>
                   </li>
@@ -339,12 +351,12 @@ export default function Layout({ children, title, description, image, jsonLd }: 
             </div>
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : "Products"))}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}</h3>
               <ul className="space-y-4">
                 {currentContent.products.slice(0, 5).map((product: any) => (
                   <li key={product.slug}>
-                    <Link to={`${langPrefix}/products/${product.slug}`} className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 group">
-                      <ChevronDown className="w-4 h-4 -rotate-90 opacity-0 group-hover:opacity-100 transition-all" />
+                    <Link to={`${langPrefix}/products/${product.slug}`} className={`text-gray-400 hover:text-white transition-colors flex items-center gap-2 group ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <ChevronDown className={`w-4 h-4 opacity-0 group-hover:opacity-100 transition-all ${isAr ? 'rotate-90' : '-rotate-90'}`} />
                       {product.name}
                     </Link>
                   </li>
@@ -355,21 +367,21 @@ export default function Layout({ children, title, description, image, jsonLd }: 
 
 
             <div>
-              <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : (isFr ? "Contact" : (isEs ? "Información de Contacto" : "Contact Info"))}</h3>
+              <h3 className="text-lg font-bold mb-6">{isRu ? "Контакты" : (isFr ? "Contact" : (isEs ? "Información de Contacto" : (isAr ? "اتصل بنا" : "Contact Info")))}</h3>
               <ul className="space-y-5">
-                <li className="flex items-start gap-4">
+                <li className={`flex items-start gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><MapPin className="w-5 h-5 text-[#0066B3]" /></div>
-                  <span className="text-gray-400 text-sm leading-relaxed">
+                  <span className={`text-gray-400 text-sm leading-relaxed ${isAr ? 'text-right' : ''}`}>
                     {isRu 
                       ? "№ 182, улица Цзиньшуй, район Лицан, Циндао, провинция Шаньдун, Китай"
-                      : (isFr ? "No. 182, Jinshui Road, district de Licang, Qingdao, province du Shandong, Chine" : (isEs ? "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Shandong, China" : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China"))}
+                      : (isFr ? "No. 182, Jinshui Road, district de Licang, Qingdao, province du Shandong, Chine" : (isEs ? "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Shandong, China" : (isAr ? "رقم 182، طريق جينشوي، منطقة ليتسانغ، تشينغداو، مقاطعة شاندونغ، الصين" : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China"))))}
                   </span>
                 </li>
-                <li className="flex items-center gap-4">
+                <li className={`flex items-center gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Phone className="w-5 h-5 text-[#0066B3]" /></div>
                   <a href={phoneLink} className="text-gray-400 hover:text-white transition-colors">{phoneDisplay}</a>
                 </li>
-                <li className="flex items-center gap-4">
+                <li className={`flex items-center gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
                   <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center shrink-0"><Mail className="w-5 h-5 text-[#0066B3]" /></div>
                   <a href="mailto:info@sinopeakchem.com" className="text-gray-400 hover:text-white transition-colors">info@sinopeakchem.com</a>
                 </li>
@@ -385,8 +397,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                 : (isFr ? "© 2024 Sinopeakchem. Tous droits réservés." : (isEs ? "© 2024 Sinopeakchem. Todos los derechos reservados." : "© 2024 Sinopeakchem. All rights reserved."))}
             </p>
             <div className="flex items-center gap-6">
-              <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : (isFr ? "Confidentialité" : (isEs ? "Privacidad" : "Privacy"))}</Link>
-              <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : (isFr ? "Conditions" : (isEs ? "Términos" : "Terms"))}</Link>
+              <Link to={`${langPrefix}/privacy-policy`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Политика конфиденциальности" : (isFr ? "Confidentialité" : (isEs ? "Privacidad" : (isAr ? "الخصوصية" : "Privacy")))}</Link>
+              <Link to={`${langPrefix}/terms-of-service`} className="text-gray-400 hover:text-white text-sm transition-colors">{isRu ? "Условия использования" : (isFr ? "Conditions" : (isEs ? "Términos" : (isAr ? "الشروط" : "Terms")))}</Link>
             </div>
           </div>
         </div>
@@ -401,8 +413,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
         aria-label="Chat on WhatsApp"
       >
         <MessageCircle className="w-7 h-7" />
-        <span className="absolute right-full mr-4 bg-white text-gray-800 px-4 py-2 rounded-lg text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap shadow-lg pointer-events-none">
-          {isRu ? "Свяжитесь с нами" : (isFr ? "Discutez avec nous" : (isEs ? "Chatea con nosotros" : "Chat with us"))}
+        <span className={`absolute ${isAr ? 'left-full ml-4' : 'right-full mr-4'} bg-white text-gray-800 px-4 py-2 rounded-lg text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap shadow-lg pointer-events-none`}>
+          {isRu ? "Свяжитесь с нами" : (isFr ? "Discutez avec nous" : (isEs ? "Chatea con nosotros" : (isAr ? "تحدث معنا" : "Chat with us")))}
         </span>
       </a>
     </div>
