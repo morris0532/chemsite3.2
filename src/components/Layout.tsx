@@ -374,7 +374,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
                   <span className={`text-gray-400 text-sm leading-relaxed ${isAr ? 'text-right' : ''}`}>
                     {isRu 
                       ? "№ 182, улица Цзиньшуй, район Лицан, Циндао, провинция Шаньдун, Китай"
-                      : (isFr ? "No. 182, Jinshui Road, district de Licang, Qingdao, province du Shandong, Chine" : (isEs ? "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Shandong, China" : (isAr ? "رقم 182، طريق جينشوي، منطقة ليتسانغ، تشينغداو، مقاطعة شاندونغ، الصين" : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China"))))}
+                      : (isFr ? "No. 182, Jinshui Road, district de Licang, Qingdao, province du Shandong, Chine" : (isEs ? "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Shandong, China" : (isAr ? "رقم 182، طريق جينشوي، منطقة ليتسانغ، تشينغداو، مقاطعة شاندونغ، الصين" : "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China")))}
                   </span>
                 </li>
                 <li className={`flex items-center gap-4 ${isAr ? 'flex-row-reverse' : ''}`}>
