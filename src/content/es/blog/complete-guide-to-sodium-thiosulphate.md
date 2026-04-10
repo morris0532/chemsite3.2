@@ -7,7 +7,7 @@ date: "2026-03-21"
 author: "Sinopeakchem"
 category: "Perspectivas Químicas"
 tags: ["Sodium Thiosulphate","Dechlorination","Water Treatment","Chemical Supplier"]
-image: "/images/blog/sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications.webp"
+image: "/images/blog/complete-guide-to-sodium-thiosulphate.webp"
 imageAlt: "Tiosulfato de sodio utilizado en las industrias textil y del cuero"
 ---
 
