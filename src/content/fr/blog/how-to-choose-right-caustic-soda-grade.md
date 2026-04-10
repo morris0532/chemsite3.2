@@ -45,11 +45,7 @@ Les perles (également appelées billes) sont produites par un processus de pril
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Besoin d'un support technique pour votre industrie ?**
-Vous ne savez pas si les écailles ou les perles conviennent à votre processus de fabrication spécifique ? Nos ingénieurs chimistes peuvent vous fournir une recommandation personnalisée basée sur votre équipement et vos exigences de pureté.
-[Demander à un expert →](/fr/contact)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 2. Guide de sélection par industrie
 
@@ -81,6 +77,7 @@ Lors de l'importation de soude caustique de Chine, le prix n'est qu'une partie d
 Sélectionner la bonne qualité de soude caustique est un équilibre entre les exigences techniques de votre processus et les contraintes logistiques. Alors que les écailles offrent une solution traditionnelle et rentable, les perles offrent une manipulation et une pureté supérieures pour les systèmes automatisés modernes.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏭 **Prêt à vous approvisionner en soude caustique de haute qualité ?**
 
 SinoPeakChem — Votre fournisseur de confiance de soude caustique en Chine avec plus de 10 ans d'expérience à l'exportation.
@@ -90,6 +87,7 @@ SinoPeakChem — Votre fournisseur de confiance de soude caustique en Chine avec
 
 📧 E-mail : sales@sinopeakchem.com
 📱 WhatsApp : +86-XXX-XXXX-XXXX
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

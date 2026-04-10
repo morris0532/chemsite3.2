@@ -45,11 +45,7 @@ Las perlas (también conocidas como cuentas) se producen mediante un proceso de 
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **¿Necesita Soporte Técnico para su Industria?**
-¿No está seguro de si las escamas o las perlas son adecuadas para su proceso de fabricación específico? Nuestros ingenieros químicos pueden proporcionar una recomendación personalizada basada en su equipo y requisitos de pureza.
-[Consultar a un Experto →](/es/contact)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 2. Guía de Selección Específica por Industria
 
@@ -81,6 +77,7 @@ Al importar Sosa Cáustica de China, el precio es solo una parte de la ecuación
 Seleccionar el grado correcto de Sosa Cáustica es un equilibrio entre los requisitos técnicos de su proceso y las limitaciones logísticas. Mientras que las escamas ofrecen una solución tradicional y rentable, las perlas proporcionan un manejo y pureza superiores para los sistemas automatizados modernos.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏭 **¿Listo para Adquirir Sosa Cáustica de Alta Calidad?**
 
 SinoPeakChem — Su proveedor confiable de sosa cáustica en China con más de 10 años de experiencia en exportación.
@@ -90,6 +87,7 @@ SinoPeakChem — Su proveedor confiable de sosa cáustica en China con más de 1
 
 📧 Correo electrónico: sales@sinopeakchem.com
 📱 WhatsApp: +86-XXX-XXXX-XXXX
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

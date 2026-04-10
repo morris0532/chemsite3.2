@@ -45,11 +45,7 @@ Pearls (also known as beads) are produced through a prilling process, resulting 
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Need Technical Support for Your Industry?**
-Not sure if flakes or pearls are right for your specific manufacturing process? Our chemical engineers can provide a customized recommendation based on your equipment and purity requirements.
-[Ask an Expert →](/en/contact)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 2. Industry-Specific Selection Guide
 
@@ -81,6 +77,7 @@ When importing Caustic Soda from China, price is only one part of the equation. 
 Selecting the right grade of Caustic Soda is a balance between your technical process requirements and logistical constraints. While flakes offer a traditional, cost-effective solution, pearls provide superior handling and purity for modern automated systems.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏭 **Ready to Source High-Quality Caustic Soda?**
 
 SinoPeakChem — Your trusted caustic soda supplier in China with over 10 years of export experience.
@@ -90,6 +87,7 @@ SinoPeakChem — Your trusted caustic soda supplier in China with over 10 years 
 
 📧 Email: sales@sinopeakchem.com
 📱 WhatsApp: +86-XXX-XXXX-XXXX
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References
