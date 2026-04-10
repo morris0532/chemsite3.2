@@ -15,10 +15,11 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
   const isRu = location.pathname.startsWith('/ru');
   const isFr = location.pathname.startsWith('/fr');
   const isEs = location.pathname.startsWith('/es');
-  const locale = isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en'));
-  const langPrefix = isRu ? '/ru' : (isFr ? '/fr' : (isEs ? '/es' : '/en'));
+  const isAr = location.pathname.startsWith('/ar');
+  const locale = isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en')));
+  const langPrefix = isRu ? '/ru' : (isFr ? '/fr' : (isEs ? '/es' : (isAr ? '/ar' : '/en')));
 
-  const { search } = useSearch(locale as 'en' | 'ru' | 'fr' | 'es');
+  const { search } = useSearch(locale as 'en' | 'ru' | 'fr' | 'es' | 'ar');
   const results = search(query);
 
   const handleResultClick = useCallback((result: any) => {
@@ -69,6 +70,16 @@ export const SearchDialog: React.FC<SearchDialogProps> = ({ isOpen, onClose }) =
     product: "Producto",
     article: "Artículo",
     foundResults: (count: number) => `Se encontraron ${count} resultados`
+  } : isAr ? {
+    placeholder: "البحث عن المنتجات، المقالات...",
+    enterQuery: "أدخل استعلام البحث",
+    noResults: "لم يتم العثور على نتائج",
+    noResultsDesc: "لا تجد رقم CAS أو المنتج الذي تحتاجه؟ كشريك موثوق، يمكننا مساعدتك في الحصول على مواد كيميائية محددة من خلال شبكتنا من المصانع المعتمدة.",
+    askWhatsApp: "اسأل عبر WhatsApp",
+    sendInquiry: "إرسال استفسار",
+    product: "منتج",
+    article: "مقالة",
+    foundResults: (count: number) => `تم العثور على ${count} من النتائج`
   } : {
     placeholder: "Search products, articles...",
     enterQuery: "Enter a search query",
