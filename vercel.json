@@ -52,7 +52,7 @@
       "destination": "/index.html"
     },
     {
-      "source": "/((?!api|_next/static|_next/image|favicon.ico|favicon.png|logo.png|images/|docs/|assets/).*)",
+      "source": "/((?!api|_next/static|_next/image|favicon.ico|favicon.png|logo.png|images/|docs/|assets/|.*\\..*).*)",
       "destination": "/index.html"
     }
   ]
