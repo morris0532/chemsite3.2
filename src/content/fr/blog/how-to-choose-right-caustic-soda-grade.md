@@ -50,3 +50,10 @@ SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute q
 📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Sodium Hydroxide (Caustic Soda): Properties, Production, and Applications." *Chemical Engineering Progress*, 2024.
+[2] "Technical Specifications for Caustic Soda Flakes and Pearls." *SinoPeakChem Technical Data Sheet*, 2026.
+[3] "Global Caustic Soda Market Analysis and Industry Trends." *Chemical Market Analytics*, 2025.
+[4] "Safety and Handling Guidelines for Sodium Hydroxide." *Occupational Safety and Health Administration (OSHA)*, 2024.

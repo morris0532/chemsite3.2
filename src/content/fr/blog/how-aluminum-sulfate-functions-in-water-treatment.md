@@ -44,3 +44,10 @@ SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute q
 📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Water Treatment Manuals: Coagulation, Flocculation and Clarification." *Environmental Protection Agency (EPA)*, 2024.
+[2] "Evaluating the Effectiveness of Coagulation–Flocculation Treatment Using Aluminum Sulfate." *MDPI Water Journal*, 2024.
+[3] "Aluminum Sulfate: Technical Specifications and Industrial Applications." *SinoPeakChem Technical Whitepaper*, 2026.
+[4] "Standard Methods for the Examination of Water and Wastewater." *American Water Works Association (AWWA)*, 2023.

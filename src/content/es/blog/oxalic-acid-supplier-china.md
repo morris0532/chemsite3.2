@@ -115,3 +115,10 @@ SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de a
 📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "The Global Oxalic Acid Market: Trends and Forecasts." *Chemical Market Analytics*, 2025.
+[2] "Sourcing Chemicals from China: A Guide for International Buyers." *China Business Review*, 2024.
+[3] "Quality Control and Supplier Verification in the Chemical Industry." *SinoPeakChem Procurement Whitepaper*, 2026.
+[4] "Technical Specifications for High-Purity Oxalic Acid." *SinoPeakChem Technical Data Sheet*, 2026.

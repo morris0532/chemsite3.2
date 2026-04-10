@@ -72,3 +72,10 @@ SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de a
 📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Oxalic Acid: Properties, Production, and Industrial Uses." *Chemical Reviews*, 2024.
+[2] "Rare Earth Element Extraction and Purification Using Oxalic Acid." *Journal of Rare Earths*, 2025.
+[3] "Technical Guidelines for Metal Cleaning and Rust Removal with Oxalic Acid." *SinoPeakChem Technical Series*, 2026.
+[4] "Safety Data Sheet (SDS) for Oxalic Acid." *China Ministry of Emergency Management*, 2024.

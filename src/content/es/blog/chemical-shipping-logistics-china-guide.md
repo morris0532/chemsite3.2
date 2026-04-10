@@ -44,3 +44,10 @@ SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de a
 📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "International Maritime Dangerous Goods (IMDG) Code." *International Maritime Organization (IMO)*, 2024.
+[2] "GB 6944-2025: Classification and Code of Dangerous Goods." *Standardization Administration of the People's Republic of China*.
+[3] "Safety Data Sheet (SDS) Requirements for Hazardous Chemicals." *China Ministry of Emergency Management*.
+[4] "Guidelines for the Safe Transport of Chemical Products." *SinoPeakChem Logistics Whitepaper*, 2026.
