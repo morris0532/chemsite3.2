@@ -67,3 +67,10 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Comparison of Effectiveness of Coagulation with Aluminum Sulfate and Polyaluminum Chloride." *ScienceDirect*, 2024.
+[2] "Water Treatment Manuals: Coagulation, Flocculation and Clarification." *Environmental Protection Agency (EPA)*, 2024.
+[3] "Technical Guide to Coagulants and Flocculants in Wastewater Treatment." *SinoPeakChem Technical Series*, 2026.
+[4] "Ferric Chloride vs. Aluminum-Based Coagulants: A Performance Review." *Journal of Water Process Engineering*, 2025.

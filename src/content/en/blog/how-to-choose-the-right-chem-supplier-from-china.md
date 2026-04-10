@@ -79,3 +79,10 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Sourcing Chemicals from China: A Guide for International Buyers." *China Business Review*, 2024.
+[2] "Quality Control and Supplier Verification in the Chemical Industry." *SinoPeakChem Procurement Whitepaper*, 2026.
+[3] "Understanding REACH and International Chemical Compliance." *European Chemicals Agency (ECHA)*, 2025.
+[4] "Logistics and Supply Chain Management for Chemical Exports." *International Trade Administration*, 2024.

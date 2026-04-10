@@ -70,3 +70,10 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### References
+
+[1] "Applications of Sodium Thiosulphate in Photography, Water Treatment, and Medicine." *SP Chemicals Technical Guide*, 2025.
+[2] Glebov, E. M. "Photochemistry of sodium thiosulfate in aqueous solutions." *Journal of Photochemistry and Photobiology*, 2022.
+[3] "Sodium Thiosulfate: A Versatile Reducing Agent for Industrial Dechlorination." *SinoPeakChem Chemical Insights*, 2026.
+[4] "Alternative Leaching Agents for Gold and Silver Extraction: The Rise of Thiosulfate." *Mining and Minerals Review*, 2024.
