@@ -3,6 +3,7 @@ import { ArrowLeft, ArrowRight, Calendar, User, ChevronLeft, ChevronRight } from
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 import { useState, useMemo, useEffect } from "react";
+import { Button } from "@/components/ui/button";
 
 const PAGE_1_COUNT = 10; // 1 featured + 9 grid items
 const PAGE_REST_COUNT = 12; // 12 grid items for page 2+
@@ -48,8 +49,8 @@ export default function BlogPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
-    name: isRu ? "Блог Sinopeakchem - Новости химической промышленности" : (isFr ? "Blog Sinopeakchem - Actualités de l'Industrie Chimique" : (isEs ? "Blog Sinopeakchem - Perspectivas de la Industria Química" : "Sinopeakchem Blog - Chemical Industry Insights")),
-    description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : (isFr ? "Actualités de l'industrie, guides de produits et articles techniques sur les produits chimiques industriels." : (isEs ? "Noticias de la industria, guías de productos y artículos técnicos sobre productos químicos industriales." : "Industry news, product guides, and technical articles about industrial chemicals.")),
+    name: isRu ? "Блог Sinopeakchem - Новости химической промышленности" : (isFr ? "Blog Sinopeakchem - Actualités de l'Industrie Chimique" : (isEs ? "Blog Sinopeakchem - Perspectivas de la Industria Química" : (isAr ? "مدونة Sinopeakchem - رؤى الصناعة الكيميائية" : "Sinopeakchem Blog - Chemical Industry Insights"))),
+    description: isRu ? "Новости отрасли, руководства по продуктам и технические статьи о промышленных химикатах." : (isFr ? "Actualités de l'industrie, guides de produits et articles techniques sur les produits chimiques industriels." : (isEs ? "Noticias de la industria, guías de productos y artículos técnicos sobre productos químicos industriales." : (isAr ? "أخبار الصناعة وأدلة المنتجات والمقالات الفنية حول المواد الكيميائية الصناعية." : "Industry news, product guides, and technical articles about industrial chemicals."))),
     url: `https://sinopeakchem.com${langPrefix}/blog`,
     publisher: { "@type": "Organization", name: "Sinopeakchem" },
     blogPost: sorted.map((post) => ({
