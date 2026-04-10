@@ -121,15 +121,17 @@ export default function BlogPage() {
       jsonLd={jsonLd}
     >
       <div className={isAr ? 'text-right' : ''}>
-        {/* Hero Section */}
-        <section className="bg-slate-50 py-16 md:py-24 border-b border-slate-100">
-          <div className="container mx-auto px-4 text-center">
-            <h1 className={`text-4xl md:text-5xl font-bold text-slate-900 mb-6 ${isAr ? 'font-arabic' : ''}`}>
-              {content.heroTitle}
-            </h1>
-            <p className={`text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed ${isAr ? 'font-arabic' : ''}`}>
-              {content.heroDesc}
-            </p>
+        {/* Hero Section - Restored to original blue gradient style */}
+        <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
+          <div className="container mx-auto px-4">
+            <div className={`max-w-3xl ${isAr ? 'mr-0 ml-auto' : ''}`}>
+              <h1 className={`text-3xl md:text-4xl font-bold mb-4 tracking-tight ${isAr ? 'font-arabic' : ''}`}>
+                {content.heroTitle}
+              </h1>
+              <p className={`text-blue-100 text-lg leading-relaxed ${isAr ? 'font-arabic' : ''}`}>
+                {content.heroDesc}
+              </p>
+            </div>
           </div>
         </section>
 
