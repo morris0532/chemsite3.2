@@ -165,7 +165,7 @@ export default function ContactPage() {
     email: "Correo Electrónico",
     whatsapp: "WhatsApp",
     address: "Dirección",
-    addressValue: "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Shandong, China",
+    addressValue: "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Madrid, China",
     sendMessage: "Envíenos un Mensaje",
     sendMessageDesc: "Complete el formulario a continuación y nuestro equipo se comunicará con usted en un plazo de 24 horas.",
     successTitle: "¡Mensaje Enviado con Éxito!",
@@ -230,107 +230,108 @@ export default function ContactPage() {
       jsonLd={isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdAr : jsonLdEn)))}
     >
       <div className={isAr ? 'text-right' : ''}>
-      {/* Hero */}
-      <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
-        <div className="container mx-auto px-4">
-          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
-          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
-            {content.heroDesc}
-          </p>
-        </div>
-      </section>
+        {/* Hero */}
+        <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
+          <div className="container mx-auto px-4">
+            <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+            <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
+              {content.heroDesc}
+            </p>
+          </div>
+        </section>
 
-      <section className="py-12 md:py-16">
-        <div className="container mx-auto px-4">
-          <div className={`grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12 ${isAr ? 'font-arabic' : ''}`}>
-            {/* Contact Info */}
-            <div className="space-y-6">
-              <h2 className="text-2xl font-bold text-[#1A1A2E]">{content.getInTouch}</h2>
-              <p className="text-gray-600">{content.getInTouchDesc}</p>
+        <section className="py-12 md:py-16">
+          <div className="container mx-auto px-4">
+            <div className={`grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12 ${isAr ? 'font-arabic' : ''}`}>
+              {/* Contact Info */}
+              <div className="space-y-6">
+                <h2 className="text-2xl font-bold text-[#1A1A2E]">{content.getInTouch}</h2>
+                <p className="text-gray-600">{content.getInTouchDesc}</p>
+                <div className="space-y-4">
+                  {/* Email */}
+                  <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                    <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Mail className="w-5 h-5 text-white" />
+                    </div>
+                    <div className={isAr ? 'text-right' : ''}>
+                      <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
+                      <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">
+                        info@sinopeakchem.com
+                      </a>
+                    </div>
+                  </div>
 
-              <div className="space-y-4">
-                {/* Email */}
-                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
-                  <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Mail className="w-5 h-5 text-white" />
+                  {/* WhatsApp */}
+                  <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                    <div className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center flex-shrink-0">
+                      <MessageCircle className="w-5 h-5 text-white" />
+                    </div>
+                    <div className={isAr ? 'text-right' : ''}>
+                      <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
+                      <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">
+                        {waDisplay || "Loading..."}
+                      </a>
+                    </div>
                   </div>
-                  <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
-                    <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">
-                      info@sinopeakchem.com
-                    </a>
-                  </div>
-                </div>
 
-                {/* WhatsApp */}
-                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
-                  <div className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center flex-shrink-0">
-                    <MessageCircle className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
-                    <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm">
-                      {waDisplay || "Loading..."}
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl">
-                  <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
-                    <MapPin className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.address}</h3>
-                    <p className="text-gray-600 text-sm">{content.addressValue}</p>
+                  <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                    <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
+                      <MapPin className="w-5 h-5 text-white" />
+                    </div>
+                    <div className={isAr ? 'text-right' : ''}>
+                      <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.address}</h3>
+                      <p className="text-gray-600 text-sm">{content.addressValue}</p>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
 
-            {/* Contact Form */}
-            <div className="lg:col-span-2">
-              <div className="bg-white rounded-2xl border border-gray-200 p-6 md:p-8 shadow-sm">
-                <h2 className="text-2xl font-bold text-[#1A1A2E] mb-2">{content.sendMessage}</h2>
-                <p className="text-gray-600 text-sm mb-6">{content.sendMessageDesc}</p>
+              {/* Contact Form */}
+              <div className="lg:col-span-2">
+                <div className="bg-white rounded-2xl border border-gray-200 p-6 md:p-8 shadow-sm">
+                  <h2 className={`text-2xl font-bold text-[#1A1A2E] mb-2 ${isAr ? 'font-arabic' : ''}`}>{content.sendMessage}</h2>
+                  <p className={`text-gray-600 text-sm mb-6 ${isAr ? 'font-arabic' : ''}`}>{content.sendMessageDesc}</p>
 
-                {submitted ? (
-                  <div className="text-center py-12">
-                    <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <CheckCircle className="w-8 h-8 text-green-600" />
+                  {submitted ? (
+                    <div className="text-center py-12">
+                      <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <CheckCircle className="w-8 h-8 text-green-600" />
+                      </div>
+                      <h3 className={`text-xl font-semibold text-gray-900 mb-2 ${isAr ? 'font-arabic' : ''}`}>{content.successTitle}</h3>
+                      <p className={`text-gray-600 ${isAr ? 'font-arabic' : ''}`}>{content.successDesc}</p>
                     </div>
-                    <h3 className="text-xl font-semibold text-gray-900 mb-2">{content.successTitle}</h3>
-                    <p className="text-gray-600">{content.successDesc}</p>
-                  </div>
-                ) : (
-                  <form onSubmit={handleSubmit} className="space-y-5">
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-                      <div>
-                        <Label htmlFor="name" className={isAr ? 'block' : ''}>{content.fullName}</Label>
-                        <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder={isAr ? "فلان الفلاني" : "John Doe"} className="mt-1" />
+                  ) : (
+                    <form onSubmit={handleSubmit} className="space-y-5">
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+                        <div>
+                          <Label htmlFor="name" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.fullName}</Label>
+                          <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder={isAr ? "فلان الفلاني" : "John Doe"} className={isAr ? 'text-right' : ''} />
+                        </div>
+                        <div>
+                          <Label htmlFor="email" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.emailAddress}</Label>
+                          <Input id="email" name="email" type="email" required value={formData.email} onChange={handleChange} placeholder="john@company.com" className={isAr ? 'text-right' : ''} />
+                        </div>
                       </div>
                       <div>
-                        <Label htmlFor="email" className={isAr ? 'block' : ''}>{content.emailAddress}</Label>
-                        <Input id="email" name="email" type="email" required value={formData.email} onChange={handleChange} placeholder="john@company.com" className="mt-1" />
+                        <Label htmlFor="company" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.companyName}</Label>
+                        <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isAr ? "اسم الشركة المحدودة" : (isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : (isEs ? "Nombre de su empresa" : "Your company name")))} className={isAr ? 'text-right' : ''} />
                       </div>
-                    </div>
-                    <div>
-                      <Label htmlFor="company" className={isAr ? 'block' : ''}>{content.companyName}</Label>
-                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isAr ? "اسم الشركة المحدودة" : (isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : (isEs ? "Nombre de su empresa" : "Your company name")))} className="mt-1" />
-                    </div>
-                    <div>
-                      <Label htmlFor="message" className={isAr ? 'block' : ''}>{content.message}</Label>
-                      <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder={content.messagePlaceholder} rows={5} className="mt-1" />
-                    </div>
-                    <Button type="submit" disabled={submitting} className={`bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8 ${isAr ? 'flex-row-reverse' : ''}`}>
-                      {submitting ? content.sending : <><Send className={`w-4 h-4 ${isAr ? 'ml-2 rotate-180' : 'mr-2'}`} /> {content.sendButton}</>}
-                    </Button>
-                  </form>
-                )}
+                      <div>
+                        <Label htmlFor="message" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.message}</Label>
+                        <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder={content.messagePlaceholder} rows={5} className={isAr ? 'text-right' : ''} />
+                      </div>
+                      <div className={isAr ? 'text-right' : ''}>
+                        <Button type="submit" disabled={submitting} className={`bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8 ${isAr ? 'flex-row-reverse font-arabic' : ''}`}>
+                          {submitting ? content.sending : <><Send className={`w-4 h-4 ${isAr ? 'ml-2 rotate-180' : 'mr-2'}`} /> {content.sendButton}</>}
+                        </Button>
+                      </div>
+                    </form>
+                  )}
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
+        </section>
       </div>
     </Layout>
   );

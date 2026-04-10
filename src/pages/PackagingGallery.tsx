@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { ChevronRight, Home, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -127,145 +127,154 @@ export default function PackagingGalleryPage() {
       description={content.description}
       jsonLd={jsonLd}
     >
-      {/* Breadcrumbs */}
-      <div className="bg-slate-50 border-b border-slate-100 py-3">
-        <div className="container mx-auto px-4">
-          <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
-            <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
-              <Home className="w-3 h-3" />
-              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : (isAr ? "الرئيسية" : "Home")))}
-            </Link>
-            <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
-            <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
-              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}
-            </Link>
-            <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
-            <span className="text-slate-900">{isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : (isAr ? "معرض التغليف" : "Packaging Gallery")))}</span>      <div className={isAr ? 'text-right' : ''}>
-      {/* Hero */}
-      <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
-        <div className="container mx-auto px-4">
-          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
-          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
-            {content.heroDesc}
-          </p>
-        </div>
-      </section>      <section className="py-8 md:py-12">
-        <div className="container mx-auto px-4">
-          {/* Search Bar */}
-          <div className="mb-8">
-            <div className="relative max-w-md">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-              <input
-                type="text"
-                placeholder={content.searchPlaceholder}
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0066B3] focus:border-transparent"
-              />
-            </div>
+      <div className={isAr ? 'text-right' : ''}>
+        {/* Breadcrumbs */}
+        <div className="bg-slate-50 border-b border-slate-100 py-3">
+          <div className="container mx-auto px-4">
+            <nav className={`flex items-center gap-2 text-xs font-medium text-slate-500 ${isAr ? 'flex-row-reverse' : ''}`}>
+              <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
+                <Home className="w-3 h-3" />
+                {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : (isAr ? "الرئيسية" : "Home")))}
+              </Link>
+              <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
+              <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
+                {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}
+              </Link>
+              <ChevronRight className={`w-3 h-3 opacity-50 ${isAr ? 'rotate-180' : ''}`} />
+              <span className="text-slate-900">{isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : (isAr ? "معرض التغليف" : "Packaging Gallery")))}</span>
+            </nav>
           </div>
-
-          {/* Gallery Grid or Empty State */}
-          {galleryItems.length === 0 ? (
-            <div className="text-center py-16">
-              <p className="text-gray-500 text-lg mb-4">{content.emptyGallery}</p>
-            </div>
-          ) : filtered.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {filtered.map((item) => (
-                <div
-                  key={item.id}
-                  className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl transition-all hover:-translate-y-2 cursor-pointer"
-                  onClick={() => setSelectedProduct(item)}
-                >
-                  <div className="aspect-square bg-gray-50 overflow-hidden relative">
-                    <img
-                      src={item.image}
-                      alt={item.name}
-                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                      loading="lazy"
-                    />
-                    <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 flex items-center justify-center">
-                      <button className="opacity-0 group-hover:opacity-100 transition-opacity bg-white text-[#0066B3] px-4 py-2 rounded-lg font-semibold hover:bg-blue-50 text-sm">
-                        {isRu ? "Просмотр" : (isFr ? "Voir" : (isEs ? "Ver" : (isAr ? "عرض" : "View")))}
-                      </button>
-                    </div>
-                  </div>
-                  <div className={`p-4 ${isAr ? 'text-right' : ''}`}>
-                    <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-0.5 rounded-full">
-                      {item.category}
-                    </span>
-                    <h3 className="text-base font-semibold text-[#1A1A2E] mt-2 group-hover:text-[#0066B3] transition-colors">
-                      {item.name}
-                    </h3>
-                    {item.cas && <p className="text-xs text-gray-500 mt-1">CAS: {item.cas}</p>}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="text-center py-16">
-              <p className="text-gray-500 text-lg mb-4">{content.noResults}</p>
-              <Button
-                variant="outline"
-                onClick={() => setSearchTerm("")}
-              >
-                {content.clearSearch}
-              </Button>
-            </div>
-          )}
         </div>
-      </section>
 
-      {/* Modal */}
-      {selectedProduct && (
-        <div
-          className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4"
-          onClick={() => setSelectedProduct(null)}
-        >
-          <div
-            className="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-auto"
-            onClick={(e) => e.stopPropagation()}
-          >
-            <div className="sticky top-0 bg-white border-b border-gray-200 flex items-center justify-between p-4">
-              <h2 className="text-xl font-bold text-[#1A1A2E]">{selectedProduct.name}</h2>
-              <button
-                onClick={() => setSelectedProduct(null)}
-                className="p-1 hover:bg-gray-100 rounded-lg transition-colors"
-              >
-                <X className="w-6 h-6 text-gray-500" />
-              </button>
-            </div>
+        {/* Hero */}
+        <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
+          <div className="container mx-auto px-4">
+            <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+            <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
+              {content.heroDesc}
+            </p>
+          </div>
+        </section>
 
-            <div className="p-6">
-              <div className="mb-6">
-                <img
-                  src={selectedProduct.image}
-                  alt={selectedProduct.name}
-                  className="w-full h-auto rounded-lg border border-gray-200"
+        <section className="py-8 md:py-12">
+          <div className="container mx-auto px-4">
+            {/* Search Bar */}
+            <div className={`mb-8 flex ${isAr ? 'justify-end' : 'justify-start'}`}>
+              <div className="relative max-w-md w-full">
+                <Search className={`absolute ${isAr ? 'right-3' : 'left-3'} top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400`} />
+                <input
+                  type="text"
+                  placeholder={content.searchPlaceholder}
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
+                  className={`w-full ${isAr ? 'pr-10 pl-4 text-right' : 'pl-10 pr-4'} py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#0066B3] focus:border-transparent ${isAr ? 'font-arabic' : ''}`}
                 />
               </div>
+            </div>
 
-              <div className="space-y-4 mb-6">
-                <div className={isAr ? 'text-right' : ''}>
-                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Категория" : (isFr ? "Catégorie" : (isEs ? "Categoría" : (isAr ? "الفئة" : "Category")))}</p>
-                  <p className="font-semibold text-[#1A1A2E]">{selectedProduct.category}</p>
-                </div>
-                {selectedProduct.cas && (
-                  <div className={isAr ? 'text-right' : ''}>
-                    <p className="text-sm text-gray-500 mb-1">CAS Number</p>
-                    <p className="font-semibold text-[#1A1A2E]">{selectedProduct.cas}</p>
+            {/* Gallery Grid or Empty State */}
+            {galleryItems.length === 0 ? (
+              <div className="text-center py-16">
+                <p className={`text-gray-500 text-lg mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.emptyGallery}</p>
+              </div>
+            ) : filtered.length > 0 ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {filtered.map((item) => (
+                  <div
+                    key={item.id}
+                    className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl transition-all hover:-translate-y-2 cursor-pointer"
+                    onClick={() => setSelectedProduct(item)}
+                  >
+                    <div className="aspect-square bg-gray-50 overflow-hidden relative">
+                      <img
+                        src={item.image}
+                        alt={item.name}
+                        className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                        loading="lazy"
+                      />
+                      <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 flex items-center justify-center">
+                        <button className={`opacity-0 group-hover:opacity-100 transition-opacity bg-white text-[#0066B3] px-4 py-2 rounded-lg font-semibold hover:bg-blue-50 text-sm ${isAr ? 'font-arabic' : ''}`}>
+                          {isRu ? "Просмотр" : (isFr ? "Voir" : (isEs ? "Ver" : (isAr ? "عرض" : "View")))}
+                        </button>
+                      </div>
+                    </div>
+                    <div className={`p-4 ${isAr ? 'text-right' : ''}`}>
+                      <span className={`text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-0.5 rounded-full ${isAr ? 'font-arabic' : ''}`}>
+                        {item.category}
+                      </span>
+                      <h3 className={`text-base font-semibold text-[#1A1A2E] mt-2 group-hover:text-[#0066B3] transition-colors ${isAr ? 'font-arabic' : ''}`}>
+                        {item.name}
+                      </h3>
+                      {item.cas && <p className="text-xs text-gray-500 mt-1">CAS: {item.cas}</p>}
+                    </div>
                   </div>
-                )}
-                <div className={isAr ? 'text-right' : ''}>
-                  <p className="text-sm text-gray-500 mb-1">{isRu ? "Описание" : (isFr ? "Description" : (isEs ? "Descripción" : (isAr ? "الوصف" : "Description")))}</p>
-                  <p className="text-gray-700">{selectedProduct.shortDescription}</p>
+                ))}
+              </div>
+            ) : (
+              <div className="text-center py-16">
+                <p className={`text-gray-500 text-lg mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.noResults}</p>
+                <Button
+                  variant="outline"
+                  onClick={() => setSearchTerm("")}
+                  className={isAr ? 'font-arabic' : ''}
+                >
+                  {content.clearSearch}
+                </Button>
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* Modal */}
+        {selectedProduct && (
+          <div
+            className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4"
+            onClick={() => setSelectedProduct(null)}
+          >
+            <div
+              className="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-auto"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className={`sticky top-0 bg-white border-b border-gray-200 flex items-center justify-between p-4 ${isAr ? 'flex-row-reverse' : ''}`}>
+                <h2 className={`text-xl font-bold text-[#1A1A2E] ${isAr ? 'font-arabic' : ''}`}>{selectedProduct.name}</h2>
+                <button
+                  onClick={() => setSelectedProduct(null)}
+                  className="p-1 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  <X className="w-6 h-6 text-gray-500" />
+                </button>
+              </div>
+
+              <div className="p-6">
+                <div className="mb-6">
+                  <img
+                    src={selectedProduct.image}
+                    alt={selectedProduct.name}
+                    className="w-full h-auto rounded-lg border border-gray-200"
+                  />
+                </div>
+
+                <div className="space-y-4 mb-6">
+                  <div className={isAr ? 'text-right' : ''}>
+                    <p className={`text-sm text-gray-500 mb-1 ${isAr ? 'font-arabic' : ''}`}>{isRu ? "Категория" : (isFr ? "Catégorie" : (isEs ? "Categoría" : (isAr ? "الفئة" : "Category")))}</p>
+                    <p className={`font-semibold text-[#1A1A2E] ${isAr ? 'font-arabic' : ''}`}>{selectedProduct.category}</p>
+                  </div>
+                  {selectedProduct.cas && (
+                    <div className={isAr ? 'text-right' : ''}>
+                      <p className={`text-sm text-gray-500 mb-1 ${isAr ? 'font-arabic' : ''}`}>CAS Number</p>
+                      <p className="font-semibold text-[#1A1A2E]">{selectedProduct.cas}</p>
+                    </div>
+                  )}
+                  <div className={isAr ? 'text-right' : ''}>
+                    <p className={`text-sm text-gray-500 mb-1 ${isAr ? 'font-arabic' : ''}`}>{isRu ? "Описание" : (isFr ? "Description" : (isEs ? "Descripción" : (isAr ? "الوصف" : "Description")))}</p>
+                    <p className={`text-gray-700 ${isAr ? 'font-arabic leading-relaxed' : ''}`}>{selectedProduct.shortDescription}</p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      )}
+        )}
+      </div>
     </Layout>
   );
 }

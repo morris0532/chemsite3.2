@@ -1,4 +1,4 @@
-import { Link, useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 import { ArrowLeft, ArrowRight, Calendar, User, ChevronLeft, ChevronRight } from "lucide-react";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
@@ -16,7 +16,9 @@ export default function BlogPage() {
   const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
   const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
-  const [currentPage = 1, setCurrentPage] = useState(1);const sorted = useMemo(() => {
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const sorted = useMemo(() => {
     return [...markdownPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   }, [markdownPosts]);
 
@@ -86,15 +88,6 @@ export default function BlogPage() {
     prev: "Anterior",
     next: "Siguiente",
     page: "Página",
-  } : {
-    title: "Blog - Chemical Industry Insights and Product Guides",
-    description: "Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.",
-    heroTitle: "Blog",
-    heroDesc: "Industry insights, product guides, and technical articles from our expert team.",
-    readMore: "Read More",
-    prev: "Previous",
-    next: "Next",
-    page: "Page",
   } : isAr ? {
     title: "المدونة - رؤى الصناعة الكيميائية وأدلة المنتجات",
     description: "اقرأ أحدث أخبار الصناعة وأدلة المنتجات والمقالات الفنية حول المواد الكيميائية الصناعية من فريق خبراء Sinopeakchem.",
@@ -127,107 +120,149 @@ export default function BlogPage() {
       jsonLd={jsonLd}
     >
       <div className={isAr ? 'text-right' : ''}>
-      {/* Hero */}
-      <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
-        <div className="container mx-auto px-4">
-          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
-          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
-            {content.heroDesc}
-          </p>
-        </div>
-      </section>
-
-      <section className="py-12 md:py-16">
-        <div className="container mx-auto px-4">
-          {/* Featured Post - Only on Page 1 */}
-          {featuredPost && (
-            <Link
-              to={`${langPrefix}/blog/${featuredPost.slug}`}
-              className="group block mb-12 bg-white rounded-2xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all"
-            >
-              <div className="grid grid-cols-1 md:grid-cols-2">
-                <div className="aspect-video md:aspect-auto overflow-hidden">
-                  <img src={featuredPost.image} alt={featuredPost.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
-                </div>
-                <div className="p-6 md:p-8 flex flex-col justify-center">
-                  <div className="flex items-center gap-3 mb-3">
-                    <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{featuredPost.category}</span>
-                    <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(featuredPost.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "long", day: "numeric", year: "numeric" })}</span>
-                  </div>
-                  <h2 className={`text-xl md:text-2xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors ${isAr ? 'font-arabic' : ''}`}>{featuredPost.title}</h2>
-                  <p className="text-gray-600 mb-4 line-clamp-3">{featuredPost.excerpt}</p>
-                  <span className="text-[#0066B3] font-medium flex items-center gap-1">{content.readMore} <ArrowRight className={`w-4 h-4 ${isAr ? 'rotate-180' : ''}`} /></span>
-                </div>
-              </div>
-            </Link>
-          )}
-
-          {/* Blog Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {gridPosts.map((post) => (
-              <Link
-                key={post.id}
-                to={`${langPrefix}/blog/${post.slug}`}
-                className="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1"
-              >
-                <div className="aspect-video bg-gray-50 overflow-hidden">
-                  <img src={post.image} alt={post.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-                </div>
-                <div className="p-5">
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "short", day: "numeric", year: "numeric" })}</span>
-                  </div>
-                  <h2 className={`text-base font-semibold text-[#1A1A2E] mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-2 ${isAr ? 'font-arabic' : ''}`}>{post.title}</h2>
-                  <p className="text-sm text-gray-600 line-clamp-2">{post.excerpt}</p>
-                  <div className="flex items-center gap-1 mt-3 text-xs text-gray-500">
-                    <User className="w-3 h-3" /> {post.author}
-                  </div>
-                </div>
-              </Link>
-            ))}
+        {/* Hero Section */}
+        <section className="bg-slate-50 py-16 md:py-24 border-b border-slate-100">
+          <div className="container mx-auto px-4 text-center">
+            <h1 className={`text-4xl md:text-5xl font-bold text-slate-900 mb-6 ${isAr ? 'font-arabic' : ''}`}>
+              {content.heroTitle}
+            </h1>
+            <p className={`text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed ${isAr ? 'font-arabic' : ''}`}>
+              {content.heroDesc}
+            </p>
           </div>
+        </section>
 
-          {/* Pagination */}
-          {totalPages > 1 && (
-            <div className="mt-12 flex justify-center items-center gap-2">
-              <button
-                onClick={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
-                className="p-2 rounded-lg border border-gray-200 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
-                aria-label={content.prev}
-              >
-                <ChevronLeft className={`w-5 h-5 ${isAr ? 'rotate-180' : ''}`} />
-              </button>
-              
-              <div className="flex items-center gap-1">
+        <section className="py-12 md:py-20">
+          <div className="container mx-auto px-4">
+            {/* Featured Post */}
+            {featuredPost && (
+              <div className="mb-16">
+                <Link
+                  to={`${langPrefix}/blog/${featuredPost.slug}`}
+                  className={`group grid grid-cols-1 lg:grid-cols-2 gap-8 bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-xl transition-all duration-500 ${isAr ? 'lg:flex-row-reverse' : ''}`}
+                >
+                  <div className="aspect-[16/10] lg:aspect-auto relative overflow-hidden">
+                    <img
+                      src={featuredPost.image}
+                      alt={featuredPost.title}
+                      className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                    />
+                  </div>
+                  <div className="p-8 md:p-12 flex flex-col justify-center">
+                    <div className={`flex items-center gap-4 text-sm text-slate-500 mb-6 ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <span className="flex items-center gap-1.5">
+                        <Calendar className="w-4 h-4" />
+                        {new Date(featuredPost.date).toLocaleDateString(isRu ? 'ru-RU' : (isFr ? 'fr-FR' : (isEs ? 'es-ES' : (isAr ? 'ar-SA' : 'en-US'))), {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric'
+                        })}
+                      </span>
+                      <span className="w-1 h-1 bg-slate-300 rounded-full" />
+                      <span className="flex items-center gap-1.5">
+                        <User className="w-4 h-4" />
+                        {featuredPost.author}
+                      </span>
+                    </div>
+                    <h2 className={`text-3xl md:text-4xl font-bold text-slate-900 mb-6 group-hover:text-[#0066B3] transition-colors leading-tight ${isAr ? 'font-arabic' : ''}`}>
+                      {featuredPost.title}
+                    </h2>
+                    <p className={`text-lg text-slate-600 mb-8 line-clamp-3 leading-relaxed ${isAr ? 'font-arabic' : ''}`}>
+                      {featuredPost.description}
+                    </p>
+                    <div className={`flex items-center gap-2 text-[#0066B3] font-bold group/btn ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <span className={isAr ? 'font-arabic' : ''}>{content.readMore}</span>
+                      {isAr ? <ArrowLeft className="w-5 h-5 transition-transform group-hover/btn:-translate-x-2" /> : <ArrowRight className="w-5 h-5 transition-transform group-hover/btn:translate-x-2" />}
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            )}
+
+            {/* Grid Posts */}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {gridPosts.map((post) => (
+                <Link
+                  key={post.slug}
+                  to={`${langPrefix}/blog/${post.slug}`}
+                  className="group flex flex-col bg-white rounded-2xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-lg transition-all duration-300"
+                >
+                  <div className="aspect-[16/10] relative overflow-hidden">
+                    <img
+                      src={post.image}
+                      alt={post.title}
+                      className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                    />
+                  </div>
+                  <div className="p-6 flex flex-col flex-grow">
+                    <div className={`flex items-center gap-3 text-xs text-slate-500 mb-4 ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <span className="flex items-center gap-1">
+                        <Calendar className="w-3.5 h-3.5" />
+                        {new Date(post.date).toLocaleDateString(isRu ? 'ru-RU' : (isFr ? 'fr-FR' : (isEs ? 'es-ES' : (isAr ? 'ar-SA' : 'en-US'))), {
+                          year: 'numeric',
+                          month: 'short',
+                          day: 'numeric'
+                        })}
+                      </span>
+                      <span className="w-1 h-1 bg-slate-300 rounded-full" />
+                      <span className="flex items-center gap-1">
+                        <User className="w-3.5 h-3.5" />
+                        {post.author}
+                      </span>
+                    </div>
+                    <h3 className={`text-xl font-bold text-slate-900 mb-4 group-hover:text-[#0066B3] transition-colors line-clamp-2 leading-snug ${isAr ? 'font-arabic' : ''}`}>
+                      {post.title}
+                    </h3>
+                    <p className={`text-slate-600 mb-6 line-clamp-3 text-sm leading-relaxed flex-grow ${isAr ? 'font-arabic' : ''}`}>
+                      {post.description}
+                    </p>
+                    <div className={`flex items-center gap-2 text-[#0066B3] font-bold text-sm mt-auto group/btn ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <span className={isAr ? 'font-arabic' : ''}>{content.readMore}</span>
+                      {isAr ? <ArrowLeft className="w-4 h-4 transition-transform group-hover/btn:-translate-x-1" /> : <ArrowRight className="w-4 h-4 transition-transform group-hover/btn:translate-x-1" />}
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <div className={`mt-16 flex items-center justify-center gap-2 ${isAr ? 'flex-row-reverse' : ''}`}>
+                <Button
+                  variant="outline"
+                  size="icon"
+                  disabled={currentPage === 1}
+                  onClick={() => handlePageChange(currentPage - 1)}
+                  className="rounded-full w-10 h-10"
+                >
+                  {isAr ? <ChevronRight className="w-5 h-5" /> : <ChevronLeft className="w-5 h-5" />}
+                </Button>
+                
                 {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
-                  <button
+                  <Button
                     key={page}
+                    variant={currentPage === page ? "default" : "outline"}
                     onClick={() => handlePageChange(page)}
-                    className={`w-10 h-10 rounded-lg font-medium transition-all ${
-                      currentPage === page
-                        ? "bg-[#0066B3] text-white shadow-md"
-                        : "hover:bg-gray-50 text-gray-600"
-                    }`}
+                    className={`rounded-full w-10 h-10 font-bold ${currentPage === page ? 'bg-[#0066B3] hover:bg-[#004A82]' : ''}`}
                   >
                     {page}
-                  </button>
+                  </Button>
                 ))}
-              </div>
 
-              <button
-                onClick={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === totalPages}
-                className="p-2 rounded-lg border border-gray-200 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
-                aria-label={content.next}
-              >
-                <ChevronRight className={`w-5 h-5 ${isAr ? 'rotate-180' : ''}`} />
-              </button>
-            </div>
-          )}
-        </div>
-      </section>
+                <Button
+                  variant="outline"
+                  size="icon"
+                  disabled={currentPage === totalPages}
+                  onClick={() => handlePageChange(currentPage + 1)}
+                  className="rounded-full w-10 h-10"
+                >
+                  {isAr ? <ChevronLeft className="w-5 h-5" /> : <ChevronRight className="w-5 h-5" />}
+                </Button>
+              </div>
+            )}
+          </div>
+        </section>
+      </div>
     </Layout>
   );
 }
