@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X, Search, ChevronDown, MessageCircle, Facebook, Twitter, Linkedin, Instagram, Mail, Phone, MapPin, Globe } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SearchDialog } from "./SearchDialog";
+import LanguageGuide from "./LanguageGuide";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 interface LayoutProps {
@@ -190,6 +191,8 @@ export default function Layout({ children, title, description, image, jsonLd }: 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       )}
+
+      <LanguageGuide />
 
       <div className="bg-gradient-to-r from-[#003d66] to-[#004a82] text-white text-xs py-2.5 hidden md:block border-b border-[#002d4d]">
         <div className="container mx-auto px-4 flex justify-between items-center">
