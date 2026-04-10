@@ -10,11 +10,12 @@ export default function ProductsPage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en')));
+  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
   const currentProducts = markdownProducts;
-  const defaultCategory = isRu ? "Все" : (isFr ? "Tous" : (isEs ? "Todos" : "All Products"));
+  const defaultCategory = isRu ? "Все" : (isFr ? "Tous" : (isEs ? "Todos" : (isAr ? "جميع المنتجات" : "All Products")));
   const currentCategories = useMemo(() => {
     const categories = Array.from(new Set(currentProducts.map((p: any) => p.category)));
     return [defaultCategory, ...categories];
@@ -26,7 +27,7 @@ export default function ProductsPage() {
   // Reset category when language changes to avoid "No products found"
   useEffect(() => {
     setCategory(defaultCategory);
-  }, [isRu, isFr, isEs, defaultCategory]);
+  }, [isRu, isFr, isEs, isAr, defaultCategory]);
 
   const filtered = useMemo(() => {
     return currentProducts.filter((p) => {
@@ -81,6 +82,15 @@ export default function ProductsPage() {
     viewDetails: "Ver Detalles",
     noProducts: "No se encontraron productos que coincidan con sus criterios.",
     clearFilters: "Limpiar Filtros",
+  } : isAr ? {
+    title: "كتالوج المنتجات الكيميائية الصناعية",
+    description: "تصفح كتالوجنا الكامل الذي يضم أكثر من 22 مادة كيميائية صناعية بما في ذلك ثيوسلفات الصوديوم والصودا الكاوية وحمض الأكساليك وكلوريد الكالسيوم وغيرها. أسعار تنافسية مع شحن عالمي.",
+    heroTitle: "منتجاتنا الكيميائية",
+    heroDesc: "استكشف مجموعتنا الشاملة من المواد الكيميائية الصناعية عالية الجودة. جميع المنتجات متاحة للتصدير العالمي مع وثائق كاملة.",
+    found: "تم العثور على منتجات",
+    viewDetails: "عرض التفاصيل",
+    noProducts: "لم يتم العثور على منتجات تطابق معاييرك.",
+    clearFilters: "مسح التصفية",
   } : {
     title: "Industrial Chemical Products Catalog",
     description: "Browse our complete catalog of 22+ industrial chemicals including sodium thiosulphate, caustic soda, oxalic acid, calcium chloride, and more. Competitive pricing with global shipping.",
@@ -104,10 +114,10 @@ export default function ProductsPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : "Home"))}
+              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : (isAr ? "الرئيسية" : "Home")))}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
-            <span className="text-slate-900">{isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : "Products"))}</span>
+            <span className="text-slate-900">{isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}</span>
           </nav>
         </div>
       </div>
@@ -131,7 +141,7 @@ export default function ProductsPage() {
                   <Package className="w-5 h-5" />
                 </div>
                 <span className="text-lg">
-                  {isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : "Packaging Gallery"))}
+                  {isRu ? "Галерея упаковки" : (isFr ? "Galerie d'emballage" : (isEs ? "Galería de Embalaje" : (isAr ? "معرض التعبئة والتغليف" : "Packaging Gallery")))}
                 </span>
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
@@ -216,8 +226,8 @@ export default function ProductsPage() {
                       <h2 className="text-base font-semibold text-[#1A1A2E] group-hover:text-[#0066B3] transition-colors">{product.name}</h2>
                       <p className="text-sm text-gray-600 line-clamp-1 mt-1">{product.shortDescription}</p>
                       <div className="flex gap-4 mt-2 text-xs text-gray-500">
-                        <span>{isRu ? "Порты" : (isFr ? "Ports" : (isEs ? "Puertos" : "Ports"))}: {product.ports}</span>
-                        <span>{isRu ? "Загрузка" : (isFr ? "Chargement" : (isEs ? "Carga" : "Loading"))}: {product.loading}</span>
+                        <span>{isRu ? "Порты" : (isFr ? "Ports" : (isEs ? "Puertos" : (isAr ? "الموانئ" : "Ports")))}: {product.ports}</span>
+                        <span>{isRu ? "Загрузка" : (isFr ? "Chargement" : (isEs ? "Carga" : (isAr ? "التحميل" : "Loading")))}: {product.loading}</span>
                       </div>
                     </div>
                   </Link>

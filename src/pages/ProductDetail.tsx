@@ -26,8 +26,9 @@ export default function ProductDetailPage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : "en"));
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : (isAr ? "ar" : "en")));
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
   const { products: markdownProducts } = useMarkdownContent(locale);
   const product = markdownProducts.find((p: any) => p.slug === slug);
@@ -48,11 +49,11 @@ export default function ProductDetailPage() {
 
   if (!product) {
     return (
-      <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : "Product Not Found"))}>
+      <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : (isAr ? "المنتج غير موجود" : "Product Not Found")))}>
         <div className="container mx-auto px-4 py-20 text-center">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : "Product Not Found"))}</h1>
-          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : (isFr ? "Le produit que vous recherchez n'existe pas." : (isEs ? "El producto que busca no existe." : "The product you are looking for does not exist."))}</p>
-          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : (isFr ? "Tous les produits" : (isEs ? "Ver todos los productos" : "Browse All Products"))}</Button></Link>
+          <h1 className="text-2xl font-bold text-gray-900 mb-4">{isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : (isAr ? "المنتج غير موجود" : "Product Not Found")))}</h1>
+          <p className="text-gray-600 mb-6">{isRu ? "Продукт, который вы ищете, не существует." : (isFr ? "Le produit que vous recherchez n'existe pas." : (isEs ? "El producto que busca no existe." : (isAr ? "المنتج الذي تبحث عنه غير موجود." : "The product you are looking for does not exist.")))}</p>
+          <Link to={`${langPrefix}/products`}><Button className="bg-[#0066B3] text-white">{isRu ? "Все продукты" : (isFr ? "Tous les produits" : (isEs ? "Ver todos los productos" : (isAr ? "عرض جميع المنتجات" : "Browse All Products")))}</Button></Link>
         </div>
       </Layout>
     );
@@ -154,6 +155,25 @@ export default function ProductDetailPage() {
     trustQuality: "Garantía de Calidad",
     trustGlobal: "Logística Global",
     trustSupport: "Soporte Técnico"
+  } : isAr ? {
+    specifications: "المواصفات",
+    applications: "التطبيقات",
+    faq: "الأسئلة الشائعة",
+    relatedProducts: "منتجات ذات صلة",
+    getQuote: "طلب عرض سعر",
+    techDocs: "الوثائق التقنية",
+    packaging: "التعبئة والتغليف",
+    loading: "التحميل",
+    overview: "نظرة عامة",
+    share: "مشاركة",
+    faqTitle: "الأسئلة الشائعة",
+    faqDesc: "اعثر على إجابات للأسئلة الشائعة حول المنتج",
+    relatedTitle: "مواد كيميائية أخرى عالية الجودة",
+    viewAll: "عرض جميع المنتجات",
+    trustTitle: "لماذا تختارنا",
+    trustQuality: "ضمان الجودة",
+    trustGlobal: "الخدمات اللوجستية العالمية",
+    trustSupport: "الدعم التقني"
   } : {
     specifications: "Specifications",
     applications: "Applications",
@@ -188,11 +208,11 @@ export default function ProductDetailPage() {
           <nav className="flex items-center gap-2 text-xs font-medium text-slate-500">
             <Link to={langPrefix} className="hover:text-[#0066B3] transition-colors flex items-center gap-1">
               <Home className="w-3 h-3" />
-              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : "Home"))}
+              {isRu ? "Главная" : (isFr ? "Accueil" : (isEs ? "Inicio" : (isAr ? "الرئيسية" : "Home")))}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <Link to={`${langPrefix}/products`} className="hover:text-[#0066B3] transition-colors">
-              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : "Products"))}
+              {isRu ? "Продукты" : (isFr ? "Produits" : (isEs ? "Productos" : (isAr ? "المنتجات" : "Products")))}
             </Link>
             <ChevronRight className="w-3 h-3 opacity-50" />
             <span className="text-slate-900 truncate max-w-[200px] md:max-w-none">{product.name}</span>

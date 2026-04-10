@@ -105,9 +105,10 @@ export default function HomePage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en')));
+  const { products: markdownProducts, posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
   const featuredProducts = useMemo(() => {
     const order = ['oxalic-acid', 'caustic-soda', 'sodium-sulfate-anhydrous'];
     return markdownProducts
@@ -118,8 +119,8 @@ export default function HomePage() {
   const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
-  const features = isRu ? featuresRu : (isFr ? featuresFr : (isEs ? featuresEs : featuresEn));
-  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : jsonLdEn));
+  const features = isRu ? featuresRu : (isFr ? featuresFr : (isEs ? featuresEs : (isAr ? featuresEn : featuresEn)));
+  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdEn : jsonLdEn)));
 
   const content = isRu ? {
     heroBadge: "Выбор ведущих предприятий в 50+ странах",
@@ -172,6 +173,23 @@ export default function HomePage() {
     latestInsights: "Experiencia en la Industria",
     latestInsightsDesc: "Noticias del mercado, guías técnicas de productos y análisis de la industria",
     viewAllArticles: "Ver Todos los Artículos",
+  } : isAr ? {
+    heroBadge: "الشريك المفضل للمؤسسات في أكثر من 50 دولة",
+    heroTitle: "شريكك الاستراتيجي في <span class=\"text-blue-100\">الحلول الكيميائية</span>",
+    heroDesc: "تقوم Sinopeakchem بتوريد مواد كيميائية صناعية عالية النقاء في جميع أنحاء العالم. نحن نضمن جودة المنتج الفائقة والخدمات اللوجستية العالمية الموثوقة.",
+    viewProducts: "استكشاف المنتجات",
+    getQuote: "طلب عرض سعر",
+    whyChoose: "لماذا تختار Sinopeakchem؟",
+    whyChooseDesc: "نحن نجمع بين التصنيع المتميز والخدمات اللوجستية الاستراتيجية والخبرة العميقة لضمان توريد سلس في جميع أنحاء العالم.",
+    featuredTitle: "المنتجات المميزة",
+    featuredDesc: "حلولنا الكيميائية الأكثر طلباً، والموثوقة من قبل قادة الصناعة",
+    viewAll: "عرض جميع المنتجات",
+    ctaTitle: "هل تبحث عن مورد كيميائي موثوق؟",
+    ctaDesc: "احصل على أكثر من 22 مادة كيميائية صناعية عالية الجودة مع توصيل عالمي مضمون. فريق الخبراء لدينا جاهز لمساعدتك.",
+    chatWhatsApp: "تواصل عبر واتساب",
+    latestInsights: "خبرة الصناعة",
+    latestInsightsDesc: "أخبار السوق، والأدلة التقنية للمنتجات، والتحليلات الصناعية",
+    viewAllArticles: "عرض جميع المقالات",
   } : {
     heroBadge: "Preferred partner for enterprises in 50+ countries",
     heroTitle: "Your Strategic <span class=\"text-blue-100\">Chemical</span> Solution Partner",
