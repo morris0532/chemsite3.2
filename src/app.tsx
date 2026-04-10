@@ -9,6 +9,7 @@ import ScrollToTop from './components/ScrollToTop';
 const Index = lazy(() => import('./pages/Index'));
 const Products = lazy(() => import('./pages/Products'));
 const ProductDetail = lazy(() => import('./pages/ProductDetail'));
+const PackagingGallery = lazy(() => import('./pages/PackagingGallery'));
 const About = lazy(() => import('./pages/About'));
 const Blog = lazy(() => import('./pages/Blog'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
@@ -41,6 +42,7 @@ const App = () => (
             <Route path="/en" element={<Index />} />
             <Route path="/en/products" element={<Products />} />
             <Route path="/en/products/:slug" element={<ProductDetail />} />
+            <Route path="/en/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/en/about" element={<About />} />
             <Route path="/en/blog" element={<Blog />} />
             <Route path="/en/blog/:slug" element={<BlogDetail />} />
@@ -52,6 +54,7 @@ const App = () => (
             <Route path="/ru" element={<Index />} />
             <Route path="/ru/products" element={<Products />} />
             <Route path="/ru/products/:slug" element={<ProductDetail />} />
+            <Route path="/ru/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/ru/about" element={<About />} />
             <Route path="/ru/blog" element={<Blog />} />
             <Route path="/ru/blog/:slug" element={<BlogDetail />} />
@@ -63,6 +66,7 @@ const App = () => (
             <Route path="/fr" element={<Index />} />
             <Route path="/fr/products" element={<Products />} />
             <Route path="/fr/products/:slug" element={<ProductDetail />} />
+            <Route path="/fr/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/fr/about" element={<About />} />
             <Route path="/fr/blog" element={<Blog />} />
             <Route path="/fr/blog/:slug" element={<BlogDetail />} />
@@ -74,6 +78,7 @@ const App = () => (
             <Route path="/es" element={<Index />} />
             <Route path="/es/products" element={<Products />} />
             <Route path="/es/products/:slug" element={<ProductDetail />} />
+            <Route path="/es/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/es/about" element={<About />} />
             <Route path="/es/blog" element={<Blog />} />
             <Route path="/es/blog/:slug" element={<BlogDetail />} />
