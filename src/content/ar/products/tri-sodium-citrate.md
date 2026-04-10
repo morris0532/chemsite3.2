@@ -1,77 +1,76 @@
 ---
 id: "10"
-name: "Tri-Sodium Citrate (TSC)"
+name: "سترات ثلاثي الصوديوم (TSC)"
 nameCn: "柠檬酸三钠"
 cas: "68-04-2"
 hsCode: "2918150000"
 slug: "tri-sodium-citrate"
-shortDescription: "High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China. Essential for food additive, pharmaceutical, and detergent applications. Trusted supplier with competitive pricing."
+shortDescription: "سترات ثلاثي الصوديوم (TSC) عالية النقاء للشراء بالجملة والتصدير من الصين. ضرورية للمضافات الغذائية والأدوية وتطبيقات المنظفات. مورد موثوق بأسعار تنافسية."
 image: "/images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₃C₆H₅O₇·2H₂O"},
-  {"label":"CAS Number","value":"68-04-2"},
-  {"label":"HS Code","value":"2918150000"},
-  {"label":"Purity","value":"≥99.0%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₃C₆H₅O₇·2H₂O"},
+  {"label":"رقم CAS","value":"68-04-2"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2918150000"},
+  {"label":"النقاء","value":"≥99.0%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Food additive (acidity regulator, emulsifier, stabilizer)",
-  "Pharmaceutical industry (anticoagulant, alkalizing agent)",
-  "Detergent and cleaning products (builder, water softener)",
-  "Cosmetics and personal care products",
-  "Chemical synthesis",
-  "Photography"
+  "مضافات غذائية (منظم حموضة، مستحلب، مثبت)",
+  "صناعة الأدوية (مضاد للتخثر، عامل قلونة)",
+  "المنظفات ومنتجات التنظيف (معزز، منقي للمياه)",
+  "مستحضرات التجميل ومنتجات العناية الشخصية",
+  "التخليق الكيميائي",
+  "التصوير الفوتوغرافي"
 ]
 faqs: [
-  {"question":"What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of TSC, offering food grade, pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Tri-Sodium Citrate products?",
-    "answer":"Our Tri-Sodium Citrate (Na₃C₆H₅O₇·2H₂O) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات سترات ثلاثي الصوديوم (TSC) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لـ TSC، ونقدم الدرجة الغذائية، والدرجة الدوائية، والدرجة الصناعية بنقاء ≥99.0%. جميع الدرجات متاحة للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات سترات ثلاثي الصوديوم الخاصة بكم؟",
+    "answer":"تتوفر سترات ثلاثي الصوديوم (Na₃C₆H₅O₇·2H₂O) لدينا بنقاء لا يقل عن 99.0%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Tri-Sodium Citrate packaged for international shipping from China?",
-    "answer":"For export, our TSC is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة سترات ثلاثي الصوديوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة TSC لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Tri-Sodium Citrate?",
-    "answer":"Our industrial grade TSC is widely used in food as an acidity regulator, in pharmaceuticals as an anticoagulant, and in detergents as a builder. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لسترات ثلاثي الصوديوم من الدرجة الصناعية؟",
+    "answer":"تستخدم TSC من الدرجة الصناعية لدينا على نطاق واسع في الغذاء كمنظم للحموضة، وفي الأدوية كمضاد للتخثر، وفي المنظفات كمعزز. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Tri-Sodium Citrate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لسترات ثلاثي الصوديوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Tri-Sodium Citrate orders from your factory?",
-    "answer":"Standard lead time for bulk TSC orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات سترات ثلاثي الصوديوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات TSC بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Citrates"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "السترات"
 featured: false
 ---
 
-## Tri-Sodium Citrate (CAS 68-04-2): Your Trusted China supplier & Supplier for High-Purity TSC
+## سترات ثلاثي الصوديوم (CAS 68-04-2): موردك الصيني الموثوق لـ TSC عالي النقاء
 
-As a premier **China supplier and supplier** of **Tri-Sodium Citrate (TSC)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Tri-Sodium Citrate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of food additive, pharmaceutical, and industrial applications (HS Code: 2918150000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **سترات ثلاثي الصوديوم (TSC)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.0%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد سترات ثلاثي الصوديوم لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات المضافات الغذائية والأدوية والتطبيقات الصناعية (رمز النظام المنسق: 2918150000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Food Additive**: Widely used in the **food industry** as an **acidity regulator, emulsifier, and stabilizer**. It helps to control pH, prevent coagulation, and improve the texture and shelf life of various food products, including beverages, dairy products, and processed meats.
+1.  **مضافات غذائية**: يستخدم على نطاق واسع في **صناعة الأغذية** كـ **منظم للحموضة ومستحلب ومثبت**. يساعد في التحكم في درجة الحموضة، ومنع التخثر، وتحسين الملمس ومدة الصلاحية لمختلف المنتجات الغذائية، بما في ذلك المشروبات ومنتجات الألبان واللحوم المصنعة.
 
-2.  **Pharmaceutical Industry**: Essential in the **pharmaceutical industry** as an **anticoagulant** for blood collection and storage, and as an **alkalizing agent** in medications to treat urinary tract infections. It is also used in effervescent formulations.
+2.  **صناعة الأدوية**: ضروري في **صناعة الأدوية** كـ **مضاد للتخثر** لجمع الدم وتخزينه، وكـ **عامل قلونة** في الأدوية لعلاج التهابات المسالك البولية. كما يستخدم في التركيبات الفوارة.
 
-3.  **Detergent and Cleaning Products**: Employed in **detergent and cleaning products** as a **builder and water softener**. It chelates metal ions in hard water, preventing them from interfering with the action of surfactants and enhancing cleaning efficiency.
+3.  **المنظفات ومنتجات التنظيف**: يستخدم في **المنظفات ومنتجات التنظيف** كـ **معزز ومنقي للمياه**. يقوم بعزل أيونات المعادن في الماء العسر، مما يمنعها من التداخل مع عمل المواد الخافضة للتوتر السطحي ويعزز كفاءة التنظيف.
 
-4.  **Cosmetics and Personal Care Products**: Used in **cosmetics and personal care products** as a pH adjuster, buffering agent, and chelating agent, contributing to product stability and performance.
+4.  **مستحضرات التجميل ومنتجات العناية الشخصية**: يستخدم في **مستحضرات التجميل ومنتجات العناية الشخصية** كمنظم لدرجة الحموضة، وعامل عازل، وعامل عزل، مما يساهم في استقرار المنتج وأدائه.
 
-5.  **Chemical Synthesis**: Serves as a versatile raw material in various **chemical synthesis** processes for the supply of other citrate derivatives and organic compounds.
+5.  **التخليق الكيميائي**: يعمل كمادة خام متعددة الاستخدامات في مختلف عمليات **التخليق الكيميائي** لتوريد مشتقات السترات الأخرى والمركبات العضوية.
 
-6.  **Photography**: Applied in **photography** as a buffering agent in developing solutions.
+6.  **التصوير الفوتوغرافي**: يستخدم في **التصوير الفوتوغرافي** كعامل عازل في محاليل التظهير.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our TSC, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ TSC لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Tri-Sodium Citrate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **سترات ثلاثي الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

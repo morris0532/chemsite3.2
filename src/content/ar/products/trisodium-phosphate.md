@@ -1,77 +1,76 @@
 ---
 id: "11"
-name: "Trisodium Phosphate (TSP)"
+name: "فوسفات ثلاثي الصوديوم (TSP)"
 nameCn: "磷酸三钠"
 cas: "7601-54-9"
 hsCode: "2835291000"
 slug: "trisodium-phosphate"
-shortDescription: "High-purity Trisodium Phosphate (TSP) for bulk purchase and export from China. Essential for cleaning, food additive, and water treatment applications. Trusted supplier with competitive pricing."
+shortDescription: "فوسفات ثلاثي الصوديوم (TSP) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري للتنظيف والمضافات الغذائية وتطبيقات معالجة المياه. مورد موثوق بأسعار تنافسية."
 image: "/images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₃PO₄"},
-  {"label":"CAS Number","value":"7601-54-9"},
-  {"label":"HS Code","value":"2835299000"},
-  {"label":"Purity","value":"≥98%"},
-  {"label":"Appearance","value":"White crystalline powder/granular"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₃PO₄"},
+  {"label":"رقم CAS","value":"7601-54-9"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2835299000"},
+  {"label":"النقاء","value":"≥98%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض/حبيبي"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Cleaning agent (heavy-duty cleaner, degreaser)",
-  "Food additive (emulsifier, thickener, pH regulator)",
-  "Water treatment (scale inhibitor, dispersant)",
-  "Metal treatment (rust removal, degreasing)",
-  "Ceramics and tiles (dispersant)",
-  "Textile dyeing"
+  "عامل تنظيف (منظف شديد التحمل، مزيل للدهون)",
+  "مضافات غذائية (مستحلب، مثخن، منظم حموضة)",
+  "معالجة المياه (مانع للقشور، مشتت)",
+  "معالجة المعادن (إزالة الصدأ، إزالة الدهون)",
+  "السيراميك والبلاط (مشتت)",
+  "صباغة المنسوجات"
 ]
 faqs: [
-  {"question":"What grades of Trisodium Phosphate (TSP) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of TSP, offering food grade and industrial grade with ≥98% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Trisodium Phosphate products?",
-    "answer":"Our TSP (Na₃PO₄) is available with a minimum purity of 98%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات فوسفات ثلاثي الصوديوم (TSP) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لـ TSP، ونقدم الدرجة الغذائية والدرجة الصناعية بنقاء ≥98%. كلا الدرجتين متاحان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات فوسفات ثلاثي الصوديوم الخاصة بكم؟",
+    "answer":"يتوفر TSP (Na₃PO₄) لدينا بنقاء لا يقل عن 98%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Trisodium Phosphate packaged for international shipping from China?",
-    "answer":"For export, our TSP is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة فوسفات ثلاثي الصوديوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة TSP لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Trisodium Phosphate?",
-    "answer":"Our industrial grade TSP is widely used as a heavy-duty cleaning agent, in food as an emulsifier, and in water treatment as a scale inhibitor. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لـ TSP من الدرجة الصناعية؟",
+    "answer":"يستخدم TSP من الدرجة الصناعية لدينا على نطاق واسع كعامل تنظيف شديد التحمل، وفي الغذاء كمستحلب، وفي معالجة المياه كمانع للقشور. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Trisodium Phosphate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لفوسفات ثلاثي الصوديوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Trisodium Phosphate orders from your factory?",
-    "answer":"Standard lead time for bulk TSP orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات فوسفات ثلاثي الصوديوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات TSP بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Phosphates"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "الفوسفات"
 featured: false
 ---
 
-## Trisodium Phosphate (CAS 7601-54-9): Your Trusted China supplier & Supplier for High-Purity TSP
+## فوسفات ثلاثي الصوديوم (CAS 7601-54-9): موردك الصيني الموثوق لـ TSP عالي النقاء
 
-As a premier **China supplier and supplier** of **Trisodium Phosphate (TSP)**, we offer **high-purity** product with **≥98% purity** for **bulk purchase** and **export** worldwide. Our TSP is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of cleaning, food additive, and industrial applications (HS Code: 2835299000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **فوسفات ثلاثي الصوديوم (TSP)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥98%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد TSP لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات التنظيف والمضافات الغذائية ومعالجة المياه (رمز النظام المنسق: 2835299000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Cleaning Agent**: Widely used as a powerful **heavy-duty cleaning agent** and **degreaser** in industrial, commercial, and household settings. It effectively removes stubborn stains, grease, and grime from various surfaces, including concrete, metal, and painted surfaces.
+1.  **عامل تنظيف**: يستخدم على نطاق واسع كـ **عامل تنظيف قوي شديد التحمل** و **مزيل للدهون** في الإعدادات الصناعية والتجارية والمنزلية. يزيل بفعالية البقع الصعبة والشحوم والأوساخ من مختلف الأسطح، بما في ذلك الخرسانة والمعادن والأسطح المصبوغة.
 
-2.  **Food Additive**: Food-grade TSP is used as an **emulsifier, thickener, and pH regulator** in various food products, including processed meats, dairy products, and baked goods. It helps to improve texture, retain moisture, and extend shelf life.
+2.  **مضافات غذائية**: يستخدم TSP من الدرجة الغذائية كـ **مستحلب ومثخن ومنظم للحموضة** في مختلف المنتجات الغذائية، بما في ذلك اللحوم المصنعة ومنتجات الألبان والمخبوزات. يساعد في تحسين الملمس والاحتفاظ بالرطوبة وإطالة مدة الصلاحية.
 
-3.  **Water Treatment**: Essential in **water treatment** as a **scale inhibitor** and **dispersant**. It prevents the formation of scale in boilers and cooling systems, and helps to disperse suspended solids, improving water clarity and preventing fouling.
+3.  **معالجة المياه**: ضروري في **معالجة المياه** كـ **مانع للقشور ومشتت**. يمنع تكون القشور في الغلايات وأنظمة التبريد، ويساعد في تشتيت المواد الصلبة العالقة، مما يحسن وضوح المياه ويمنع الانسداد.
 
-4.  **Metal Treatment**: Employed in **metal treatment** for **rust removal** and **degreasing** of metal surfaces before painting or plating. Its alkaline properties help to neutralize acids and remove contaminants.
+4.  **معالجة المعادن**: يستخدم في **معالجة المعادن** لـ **إزالة الصدأ وإزالة الدهون** من الأسطح المعدنية قبل الطلاء أو الطلاء الكهربائي. تساعد خصائصه القلوية في تحييد الأحماض وإزالة الملوثات.
 
-5.  **Ceramics and Tiles**: Used in the **ceramics and tiles industry** as a **dispersant** to reduce the viscosity of ceramic slips, allowing for easier processing and higher solid content.
+5.  **السيراميك والبلاط**: يستخدم في **صناعة السيراميك والبلاط** كـ **مشتت** لتقليل لزوجة طين السيراميك، مما يسمح بمعالجة أسهل ومحتوى صلب أعلى.
 
-6.  **Textile Dyeing**: Applied in the **textile industry** as a buffering agent and sequestrant in dyeing processes, ensuring uniform color and preventing dye precipitation.
+6.  **صباغة المنسوجات**: يستخدم في **صناعة المنسوجات** كعامل عازل وعامل عزل في عمليات الصباغة، مما يضمن لوناً موحداً ويمنع ترسب الصبغة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our TSP, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ TSP لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موذوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Trisodium Phosphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **فوسفات ثلاثي الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.
