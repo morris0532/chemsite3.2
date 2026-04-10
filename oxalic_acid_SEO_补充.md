@@ -57,10 +57,8 @@
 📌 [根据上文内容定制的CTA文案] [Contact Us →] 或 [Download PDF →]
 ```
 
-#### CTA位置3：文章底部（必放，最重要的CTA）
-格式：大型CTA区块（带背景色）
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### CTA位置3：文章底部（必放，最重要的CT━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏭 Ready to Source High-Quality Oxalic Acid?
 
 SinoPeakChem — Your trusted oxalic acid supplier in China.
@@ -69,11 +67,8 @@ SinoPeakChem — Your trusted oxalic acid supplier in China.
 [Get Free Quote →]  [Request Sample →]  [Download Catalog →]
 
 📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
-### 通用内链目标参考表
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━### 通用内链目标参考表
 
 > Manus在写内链时，请参考以下文章编号和URL对应关系：
 
@@ -232,7 +227,7 @@ SinoPeakChem — Your trusted oxalic acid supplier in China.
 |------|---------|---------|
 | **H2: Import Regulations段落之后** | 内嵌Banner | "🌏 Shipping oxalic acid to Southeast Asia? SinoPeakChem has 10+ years of export experience to ASEAN countries. We handle all documentation and compliance. **[Get a Quote for Your Country →]**" |
 | **Shipping时间表之后** | 文字CTA | "Need a shipping cost estimate to your port? **[Contact us with your destination and quantity →]**" |
-| **文章底部** | 大型CTA区块 | "🏭 **Trusted Oxalic Acid Supplier for Southeast Asia** — SinoPeakChem delivers to Thailand, Vietnam, Indonesia, Philippines & Malaysia. ✅ RCEP tariff benefits ✅ 7-14 days delivery ✅ Local compliance support. **[Get Free Quote →]** **[Request Sample →]** 📧 sales@sinopeakchem.com 📱 WhatsApp: +86-XXX-XXXX-XXXX" |
+| **文章底部** | 大型CTA区块 | "🏭 **Trusted Oxalic Acid Supplier for Southeast Asia** — SinoPeakChem delivers to Thailand, Vietnam, Indonesia, Philippines & Malaysia. ✅ RCEP tariff benefits ✅ 7-14 days delivery ✅ Local compliance support. **[Get Free Quote →]** **[Request Sample →]** 📧 sales@sinopeakchem.com" |
 
 ---
 
