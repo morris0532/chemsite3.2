@@ -64,6 +64,24 @@ const jsonLdEs = {
   },
 };
 
+const jsonLdAr = {
+  ...jsonLdEn,
+  description: "Sinopeakchem هو شريك توريد كيميائي رائد من الصين، يوفر مواد كيميائية صناعية عالية النقاء وحلول سلسلة توريد شاملة.",
+  contactPoint: {
+    ...jsonLdEn.contactPoint,
+    availableLanguage: ["English", "Chinese", "Arabic"],
+  },
+};
+
+const featuresAr = [
+  { icon: FlaskConical, title: "محفظة منتجات متميزة", desc: "الوصول إلى أكثر من 22 مادة كيميائية صناعية عالية النقاء محسنة للمعايير الصناعية العالمية" },
+  { icon: Shield, title: "الريادة في الجودة", desc: "رقابة صارمة على الجودة في مراحل متعددة مع تتبع كامل للطلبيات ووثائق COA/MSDS" },
+  { icon: Globe, title: "تصدير استراتيجي", desc: "توزيع عالمي سلس من المراكز البحرية الرئيسية في الصين إلى أكثر من 50 دولة" },
+  { icon: Truck, title: "التميز في سلسلة التوريد", desc: "حلول لوجستية محسنة مع إدارة فعالة للحاويات وشحن ذو أولوية" },
+  { icon: Award, title: "الامتثال العالمي", desc: "منتجات تلبي المتطلبات التنظيمية الدولية مع اختبارات داخلية صارمة" },
+  { icon: Users, title: "دعم استراتيجي", desc: "خبراء متخصصون في الصناعة يقدمون إرشادات فنية وخدمة عالمية سريعة الاستجابة" },
+];
+
 const featuresEn = [
   { icon: FlaskConical, title: "Premier Portfolio", desc: "Access to 22+ high-purity industrial chemicals optimized for global industrial standards" },
   { icon: Shield, title: "Quality Leadership", desc: "Rigorous multi-stage quality control with full batch traceability and COA/MSDS documentation" },
@@ -119,8 +137,8 @@ export default function HomePage() {
   const recentBlogs = [...markdownPosts]
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, 3);
-  const features = isRu ? featuresRu : (isFr ? featuresFr : (isEs ? featuresEs : (isAr ? featuresEn : featuresEn)));
-  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdEn : jsonLdEn)));
+  const features = isRu ? featuresRu : (isFr ? featuresFr : (isEs ? featuresEs : (isAr ? featuresAr : featuresEn)));
+  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdAr : jsonLdEn)));
 
   const content = isRu ? {
     heroBadge: "Выбор ведущих предприятий в 50+ странах",
@@ -176,19 +194,19 @@ export default function HomePage() {
   } : isAr ? {
     heroBadge: "الشريك المفضل للمؤسسات في أكثر من 50 دولة",
     heroTitle: "شريكك الاستراتيجي في <span class=\"text-blue-100\">الحلول الكيميائية</span>",
-    heroDesc: "تقوم Sinopeakchem بتوريد مواد كيميائية صناعية عالية النقاء في جميع أنحاء العالم. نحن نضمن جودة المنتج الفائقة والخدمات اللوجستية العالمية الموثوقة.",
-    viewProducts: "استكشاف المنتجات",
-    getQuote: "طلب عرض سعر",
+    heroDesc: "تقوم Sinopeakchem بتوريد مواد كيميائية صناعية عالية النقاء في جميع أنحاء العالم. نحن نضمن جودة منتجات فائقة ولوجستيات عالمية موثوقة.",
+    viewProducts: "استعراض محفظة المنتجات",
+    getQuote: "احصل على عرض سعر",
     whyChoose: "لماذا تختار Sinopeakchem؟",
-    whyChooseDesc: "نحن نجمع بين التصنيع المتميز والخدمات اللوجستية الاستراتيجية والخبرة العميقة لضمان توريد سلس في جميع أنحاء العالم.",
-    featuredTitle: "المنتجات المميزة",
-    featuredDesc: "حلولنا الكيميائية الأكثر طلباً، والموثوقة من قبل قادة الصناعة",
+    whyChooseDesc: "نحن نجمع بين التصنيع المتقدم والخدمات اللوجستية الاستراتيجية والخبرة العميقة في الصناعة لخدمة الأسواق العالمية.",
+    featuredTitle: "المنتجات الرئيسية",
+    featuredDesc: "حلولنا الكيميائية الأكثر طلباً، والموثوقة من قبل قادة الصناعة في جميع أنحاء العالم",
     viewAll: "عرض جميع المنتجات",
-    ctaTitle: "هل تبحث عن مورد كيميائي موثوق؟",
-    ctaDesc: "احصل على أكثر من 22 مادة كيميائية صناعية عالية الجودة مع توصيل عالمي مضمون. فريق الخبراء لدينا جاهز لمساعدتك.",
-    chatWhatsApp: "تواصل عبر واتساب",
+    ctaTitle: "هل تبحث عن شريك كيميائي متميز؟",
+    ctaDesc: "احصل على أكثر من 22 مادة كيميائية صناعية عالية الجودة مع ضمان الشحن العالمي. فريق الخبراء لدينا جاهز للمساعدة.",
+    chatWhatsApp: "تواصل معنا عبر واتساب",
     latestInsights: "خبرة الصناعة",
-    latestInsightsDesc: "أخبار السوق، والأدلة التقنية للمنتجات، والتحليلات الصناعية",
+    latestInsightsDesc: "أخبار السوق، والأدلة الفنية للمنتجات، وتحليلات الصناعة",
     viewAllArticles: "عرض جميع المقالات",
   } : {
     heroBadge: "Preferred partner for enterprises in 50+ countries",
