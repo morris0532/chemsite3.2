@@ -102,5 +102,31 @@
       "relatedProducts": "Productos relacionados",
       "recentArticles": "Artículos recientes"
     }
+  },
+  "ar": {
+    "navigation": [
+      { "name": "الرئيسية", "link": "/ar" },
+      { "name": "المنتجات", "link": "/ar/products" },
+      { "name": "المدونة", "link": "/ar/blog" },
+      { "name": "من نحن", "link": "/ar/about" },
+      { "name": "اتصل بنا", "link": "/ar/contact" }
+    ],
+    "footer": {
+      "companyDesc": "مورد رائد للمواد الكيميائية الصناعية من الصين، يقدم منتجات كيميائية عالية الجودة للأسواق العالمية مع أكثر من 28 عاماً من الخبرة منذ عام 1998.",
+      "contact": {
+        "email": "sales@sinopeakchem.com",
+        "phone": "+86-532-8581-1234",
+        "address": "شاندونغ، الصين"
+      },
+      "copyright": "© 2026 Sinopeakchem. جميع الحقوق محفوظة."
+    },
+    "ui": {
+      "readMore": "اقرأ المزيد",
+      "viewDetails": "عرض التفاصيل",
+      "getQuote": "احصل على عرض سعر",
+      "backToBlog": "العودة إلى المدونة",
+      "relatedProducts": "منتجات ذات صلة",
+      "recentArticles": "مقالات حديثة"
+    }
   }
 }
