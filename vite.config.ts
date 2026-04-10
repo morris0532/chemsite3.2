@@ -5,6 +5,7 @@ import markdownPlugin from "./vite-plugin-markdown.mjs";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/",
   plugins: [markdownPlugin(), react()],
   resolve: {
     alias: {
