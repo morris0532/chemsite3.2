@@ -1,5 +1,5 @@
 ---
-id: "7"
+id: "sadkh76as7"
 slug: "sodium-thiosulphate-versatile-chemical-for-diverse-industrial-applications"
 title: "Tiosulfato de Sodio: El Químico Versátil para Diversas Aplicaciones Industriales"
 excerpt: "Un análisis detallado de las diversas aplicaciones del Tiosulfato de Sodio, desde el tratamiento de agua y la fotografía hasta la minería y la medicina. Descubra por qué es un químico crucial para varios procesos industriales."
