@@ -255,6 +255,20 @@ export default function AboutPage() {
     visionTitle: "Visión de Negocio",
     visionDesc: "Estamos comprometidos con la construcción de una plataforma profesional para productos químicos de protección ambiental, promoviendo el desarrollo verde de las empresas industriales y llevando la tecnología china al mercado global.",
     affiliation: "Este sitio pertenece a Shandong Lan star Technology Group Co.,Ltd"
+  } : isAr ? {
+    title: "عن Sinopeakchem - خبراء الخدمة عالية المعايير",
+    description: "تعرف على Sinopeakchem، وهي شركة كيميائية متعددة الوظائف تتمتع بخبرة تزيد عن 28 عاماً. نحن نجمع بين تشغيل العلامات التجارية والخدمات اللوجستية العالمية.",
+    heroTitle: "البحث عن أفضل الحلول هو هدفنا النهائي",
+    heroDesc: "خبراء خدمة بمعايير عالية، نربط التصنيع الصيني المتقدم بالاحتياجات الصناعية العالمية.",
+    ourStory: "قصتنا",
+    storySubtitle: "منذ عام 1998، نجح فريقنا في فهم احتياجات الصناعة وبناء منتجات موثوقة للجميع.",
+    storyP1: "تأسست Sinopeakchem في عام 1998 في مقاطعة شاندونغ بالصين، وتطورت لتصبح شركة كيميائية مبتكرة ومتعددة الوظائف تدمج تشغيل العلامات التجارية وخدمات المنصات العالمية.",
+    storyP2: "تغطي مجموعتنا طيفاً واسعاً من المنتجات بما في ذلك حمض الأكساليك، وثيوسلفات الصوديوم، وكلوريد الكالسيوم، وكبريتيت الصوديوم، وحمض الستريك وسلسلة أخرى من الفوسفات والكبريتات. نحن نسعى جاهدين لنصبح نجماً ساطعاً في الصناعة الكيميائية من خلال الابتكار والخدمة الشاملة.",
+    strategicHubs: "المراكز الاستراتيجية",
+    serviceCommitment: "التزامنا بالخدمة",
+    visionTitle: "رؤية العمل",
+    visionDesc: "نحن ملتزمون ببناء منصة احترافية للمنتجات الكيميائية لحماية البيئة، وتعزيز التنمية الخضراء للمؤسسات الصناعية وجلب التكنولوجيا الكيميائية الصينية إلى السوق العالمية.",
+    affiliation: "هذا الموقع مملوك لشركة Shandong Lan star Technology Group Co.,Ltd"
   } : {
     title: "About Sinopeakchem - High-standard Service Experts",
     description: "Learn about Sinopeakchem, a multi-functional chemical company with 28+ years of excellence. Integrating brand operation and global logistics.",
@@ -277,6 +291,7 @@ export default function AboutPage() {
       description={content.description}
       jsonLd={jsonLd}
     >
+      <div className={isAr ? 'text-right' : ''}>
       {/* Hero */}
       <section className="relative py-24 md:py-32 overflow-hidden">
         <div className="absolute inset-0">
@@ -381,6 +396,7 @@ export default function AboutPage() {
           </p>
         </div>
       </section>
+      </div>
     </Layout>
   );
 }

@@ -46,11 +46,18 @@ const jsonLdEs = {
   description: "Póngase en contacto con Sinopeakchem para consultas sobre productos químicos, precios y soporte técnico.",
 };
 
+const jsonLdAr = {
+  ...jsonLdEn,
+  name: "اتصل بـ Sinopeakchem",
+  description: "تواصل مع Sinopeakchem للاستفسارات عن المنتجات الكيميائية والأسعار والدعم الفني.",
+};
+
 export default function ContactPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
+  const isAr = location.pathname.startsWith("/ar");
   
   const [formData, setFormData] = useState({ name: "", email: "", company: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
@@ -170,6 +177,28 @@ export default function ContactPage() {
     messagePlaceholder: "Cuéntenos sobre sus requisitos, productos de interés, cantidad necesaria...",
     sending: "Enviando...",
     sendButton: "Enviar Mensaje",
+  } : isAr ? {
+    title: "اتصل بنا - احصل على عرض سعر للمواد الكيميائية الصناعية",
+    description: "تواصل مع Sinopeakchem للاستفسارات عن المنتجات الكيميائية والأسعار والدعم الفني. تواصل معنا عبر البريد الإلكتروني أو WhatsApp أو نموذج الاتصال الخاص بنا.",
+    heroTitle: "اتصل بنا",
+    heroDesc: "هل أنت جاهز لتوريد مواد كيميائية عالية الجودة؟ تواصل مع فريقنا للحصول على الأسعار ومعلومات المنتجات والدعم الفني.",
+    getInTouch: "تواصل معنا",
+    getInTouchDesc: "نحن هنا للمساعدة. تواصل معنا عبر أي من القنوات التالية.",
+    email: "البريد الإلكتروني",
+    whatsapp: "واتساب",
+    address: "العنوان",
+    addressValue: "رقم 182، طريق جينشوي، منطقة ليتسانغ، تشينغداو، مقاطعة شاندونغ، الصين",
+    sendMessage: "أرسل لنا رسالة",
+    sendMessageDesc: "املأ النموذج أدناه وسيعاود فريقنا الاتصال بك في غضون 24 ساعة.",
+    successTitle: "تم إرسال الرسالة بنجاح!",
+    successDesc: "شكراً لتواصلك معنا. سنرد على استفسارك في غضون 24 ساعة.",
+    fullName: "الاسم الكامل *",
+    emailAddress: "البريد الإلكتروني *",
+    companyName: "اسم الشركة (اختياري)",
+    message: "الرسالة *",
+    messagePlaceholder: "أخبرنا عن متطلباتك، المنتجات التي تهمك، الكمية المطلوبة...",
+    sending: "جاري الإرسال...",
+    sendButton: "إرسال الرسالة",
   } : {
     title: "Contact Us - Get a Quote for Industrial Chemicals",
     description: "Contact Sinopeakchem for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
@@ -198,13 +227,14 @@ export default function ContactPage() {
     <Layout
       title={content.title}
       description={content.description}
-      jsonLd={isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : jsonLdEn))}
+      jsonLd={isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdAr : jsonLdEn)))}
     >
+      <div className={isAr ? 'text-right' : ''}>
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">{content.heroTitle}</h1>
-          <p className="text-blue-100 max-w-2xl text-lg">
+          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
             {content.heroDesc}
           </p>
         </div>
@@ -212,7 +242,7 @@ export default function ContactPage() {
 
       <section className="py-12 md:py-16">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
+          <div className={`grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12 ${isAr ? 'font-arabic' : ''}`}>
             {/* Contact Info */}
             <div className="space-y-6">
               <h2 className="text-2xl font-bold text-[#1A1A2E]">{content.getInTouch}</h2>
@@ -275,24 +305,24 @@ export default function ContactPage() {
                   <form onSubmit={handleSubmit} className="space-y-5">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                       <div>
-                        <Label htmlFor="name">{content.fullName}</Label>
-                        <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder="John Doe" className="mt-1" />
+                        <Label htmlFor="name" className={isAr ? 'block' : ''}>{content.fullName}</Label>
+                        <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder={isAr ? "فلان الفلاني" : "John Doe"} className="mt-1" />
                       </div>
                       <div>
-                        <Label htmlFor="email">{content.emailAddress}</Label>
+                        <Label htmlFor="email" className={isAr ? 'block' : ''}>{content.emailAddress}</Label>
                         <Input id="email" name="email" type="email" required value={formData.email} onChange={handleChange} placeholder="john@company.com" className="mt-1" />
                       </div>
                     </div>
                     <div>
-                      <Label htmlFor="company">{content.companyName}</Label>
-                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : (isEs ? "Nombre de su empresa" : "Your company name"))} className="mt-1" />
+                      <Label htmlFor="company" className={isAr ? 'block' : ''}>{content.companyName}</Label>
+                      <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isAr ? "اسم الشركة المحدودة" : (isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : (isEs ? "Nombre de su empresa" : "Your company name")))} className="mt-1" />
                     </div>
                     <div>
-                      <Label htmlFor="message">{content.message}</Label>
+                      <Label htmlFor="message" className={isAr ? 'block' : ''}>{content.message}</Label>
                       <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder={content.messagePlaceholder} rows={5} className="mt-1" />
                     </div>
-                    <Button type="submit" disabled={submitting} className="bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8">
-                      {submitting ? content.sending : <><Send className="w-4 h-4 mr-2" /> {content.sendButton}</>}
+                    <Button type="submit" disabled={submitting} className={`bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8 ${isAr ? 'flex-row-reverse' : ''}`}>
+                      {submitting ? content.sending : <><Send className={`w-4 h-4 ${isAr ? 'ml-2 rotate-180' : 'mr-2'}`} /> {content.sendButton}</>}
                     </Button>
                   </form>
                 )}
@@ -301,6 +331,7 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+      </div>
     </Layout>
   );
 }

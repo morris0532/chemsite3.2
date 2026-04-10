@@ -98,4 +98,8 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  .font-arabic {
+    font-family: 'Noto Sans Arabic', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 }
