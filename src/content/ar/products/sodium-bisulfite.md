@@ -1,77 +1,76 @@
 ---
 id: "20"
-name: "Sodium Bisulfite"
+name: "بايسلفيت الصوديوم"
 nameCn: "亚硫酸氢钠"
 cas: "7631-90-5"
 hsCode: "2832100000"
 slug: "sodium-bisulfite"
-shortDescription: "High-purity Sodium Bisulfite (NaHSO3) for bulk purchase and export from China. Essential for water treatment, food preservation, and textile processing. Trusted supplier with competitive pricing."
+shortDescription: "بايسلفيت الصوديوم (NaHSO3) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري لمعالجة المياه، وحفظ الأغذية، ومعالجة المنسوجات. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"NaHSO₃"},
-  {"label":"CAS Number","value":"7631-90-5"},
-  {"label":"HS Code","value":"2832100000"},
-  {"label":"Purity","value":"≥97%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"NaHSO₃"},
+  {"label":"رقم CAS","value":"7631-90-5"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2832100000"},
+  {"label":"النقاء","value":"≥97%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم with PE liner، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Water treatment (oxygen scavenger, dechlorination)",
-  "Food preservation (antioxidant, antimicrobial)",
-  "Textile industry (bleaching, dyeing, reducing agent)",
-  "Pulp and paper industry (bleaching agent)",
-  "Photography (reducing agent)",
-  "Chemical synthesis"
+  "معالجة المياه (مزيل للأكسجين، إزالة الكلور)",
+  "حفظ الأغذية (مضاد للأكسدة، مضاد للميكروبات)",
+  "صناعة المنسوجات (تبييض، صباغة، عامل مختزل)",
+  "صناعة اللب والورق (عامل تبييض)",
+  "التصوير الفوتوغرافي (عامل مختزل)",
+  "التخليق الكيميائي"
 ]
 faqs: [
-  {"question":"What grades of Sodium Bisulfite do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Bisulfite, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Bisulfite products?",
-    "answer":"Our Sodium Bisulfite (NaHSO₃) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات بايسلفيت الصوديوم التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لبايسلفيت الصوديوم، ونقدم الدرجة الغذائية والدرجة الصناعية بنقاء ≥97%. كلا الدرجتين متاحتان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات بايسلفيت الصوديوم الخاصة بكم؟",
+    "answer":"يتوفر بايسلفيت الصوديوم (NaHSO₃) لدينا بنقاء لا يقل عن 97%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Sodium Bisulfite packaged for international shipping from China?",
-    "answer":"For export, our Sodium Bisulfite is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة بايسلفيت الصوديوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة بايسلفيت الصوديوم لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Bisulfite?",
-    "answer":"Our industrial grade Sodium Bisulfite is widely used in water treatment as an oxygen scavenger, in food preservation as an antioxidant, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لبايسلفيت الصوديوم من الدرجة الصناعية؟",
+    "answer":"يستخدم بايسلفيت الصوديوم من الدرجة الصناعية لدينا على نطاق واسع في معالجة المياه كمزيل للأكسجين، وفي حفظ الأغذية كمضاد للأكسدة، وفي صناعة المنسوجات كعامل مختزل. تعدد استخداماته يجعله مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Bisulfite?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لبايسلفيت الصوديوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sodium Bisulfite orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Bisulfite orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات بايسلفيت الصوديوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات بايسلفيت الصوديوم بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "مركبات الكبريت"
 featured: false
 ---
 
-## Sodium Bisulfite (CAS 7631-90-5): Your Trusted China supplier & Supplier for High-Purity NaHSO₃
+## بايسلفيت الصوديوم (CAS 7631-90-5): موردك الصيني الموثوق لـ NaHSO₃ عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Bisulfite (NaHSO₃)**, we offer **high-purity** product with **≥97% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bisulfite is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food preservation, and industrial applications (HS Code: 2832100000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **بايسلفيت الصوديوم (NaHSO₃)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥97%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد بايسلفيت الصوديوم لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات معالجة المياه وحفظ الأغذية والتطبيقات الصناعية (رمز النظام المنسق: 2832100000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Water Treatment**: Widely used in **water treatment** as an effective **oxygen scavenger** to remove dissolved oxygen from boiler feed water, preventing corrosion. It also serves as a **dechlorination agent** in municipal and industrial water systems.
+1.  **معالجة المياه**: يستخدم على نطاق واسع في **معالجة المياه** كـ **مزيل فعال للأكسجين** لإزالة الأكسجين المذاب من مياه تغذية الغلايات، مما يمنع التآكل. كما يعمل كـ **عامل لإزالة الكلور** في أنظمة المياه البلدية والصناعية.
 
-2.  **Food Preservation**: Essential in **food preservation** as an **antioxidant** and **antimicrobial agent**. It prevents enzymatic browning in fruits and vegetables, extends the shelf life of seafood, and is used in winemaking to inhibit bacterial growth.
+2.  **حفظ الأغذية**: ضروري في **حفظ الأغذية** كـ **مضاد للأكسدة** و **عامل مضاد للميكروبات**. يمنع الاسمرار الإنزيمي في الفواكه والخضروات، ويطيل مدة صلاحية المأكولات البحرية، ويستخدم في صناعة النبيذ لتثبيط النمو البكتيري.
 
-3.  **Textile Industry**: Employed in the **textile industry** as a **bleaching agent**, **dyeing auxiliary**, and **reducing agent**. It helps to remove excess dye, improve color fastness, and prepare fabrics for further processing.
+3.  **صناعة المنسوجات**: يستخدم في **صناعة المنسوجات** كـ **عامل تبييض**، و **مساعد صباغة**، و **عامل مختزل**. يساعد في إزالة الصبغة الزائدة، وتحسين ثبات اللون، وتحضير الأقمشة لمزيد من المعالجة.
 
-4.  **Pulp and Paper Industry**: Used in the **pulp and paper industry** as a **bleaching agent** for wood pulp, improving the brightness and whiteness of paper products.
+4.  **صناعة اللب والورق**: يستخدم في **صناعة اللب والورق** كـ **عامل تبييض** لب الخشب، مما يحسن سطوع وبياض المنتجات الورقية.
 
-5.  **Photography**: Functions as a **reducing agent** in photographic developers, contributing to the chemical process of developing photographic films and papers.
+5.  **التصوير الفوتوغرافي**: يعمل كـ **عامل مختزل** في المظهرات الفوتوغرافية، مما يساهم في العملية الكيميائية لتطوير الأفلام والأوراق الفوتوغرافية.
 
-6.  **Chemical Synthesis**: Serves as a versatile **reducing agent** and **sulfonating agent** in various organic and inorganic chemical synthesis processes.
+6.  **التخليق الكيميائي**: يعمل كـ **عامل مختزل** و **عامل سلفنة** متعدد الاستخدامات في مختلف عمليات التخليق الكيميائي العضوي وغير العضوي.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sodium Bisulfite, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لبايسلفيت الصوديوم لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Bisulfite supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **بايسلفيت الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

@@ -1,77 +1,76 @@
 ---
 id: "13"
-name: "Sodium Hexametaphosphate (SHMP)"
+name: "سداسي ميتافوسفات الصوديوم (SHMP)"
 nameCn: "六偏磷酸钠"
 cas: "10124-56-8"
 hsCode: "2835391900"
 slug: "sodium-hexametaphosphate"
-shortDescription: "High-purity Sodium Hexametaphosphate (SHMP) for bulk purchase and export from China. Essential for water treatment, food additive, and industrial applications. Trusted supplier with competitive pricing."
+shortDescription: "سداسي ميتافوسفات الصوديوم (SHMP) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري لمعالجة المياه، والمضافات الغذائية، والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"(NaPO₃)₆"},
-  {"label":"CAS Number","value":"10124-56-8"},
-  {"label":"HS Code","value":"2835391900"},
-  {"label":"P₂O₅ Content","value":"≥68%"},
-  {"label":"Appearance","value":"White powder/granular"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"(NaPO₃)₆"},
+  {"label":"رقم CAS","value":"10124-56-8"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2835391900"},
+  {"label":"محتوى P₂O₅","value":"≥68%"},
+  {"label":"المظهر","value":"مسحوق أبيض/حبيبي"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Water treatment (sequestrant, scale inhibitor, dispersant)",
-  "Food additive (emulsifier, thickener, preservative)",
-  "Detergent and cleaning products (water softener)",
-  "Mining (flotation agent)",
-  "Oil drilling (mud dispersant)",
-  "Textile dyeing"
+  "معالجة المياه (عامل مخلبي، مانع للترسبات، مشتت)",
+  "مضافات غذائية (مستحلب، مثخن، مادة حافظة)",
+  "المنظفات ومنتجات التنظيف (منعم للمياه)",
+  "التعدين (عامل تعويم)",
+  "حفر الآبار النفطية (مشتت للطين)",
+  "صباغة المنسوجات"
 ]
 faqs: [
-  {"question":"What grades of Sodium Hexametaphosphate (SHMP) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of SHMP, offering food grade and industrial grade with ≥68% P₂O₅ content. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical P₂O₅ content of your SHMP products?",
-    "answer":"Our SHMP ((NaPO₃)₆) is available with a minimum P₂O₅ content of 68%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات سداسي ميتافوسفات الصوديوم (SHMP) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لـ SHMP، ونقدم الدرجة الغذائية والدرجة الصناعية بمحتوى P₂O₅ يبلغ ≥68%. كلا الدرجتين متاحتان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو محتوى P₂O₅ النموذجي لمنتجات SHMP الخاصة بكم؟",
+    "answer":"يتوفر SHMP ((NaPO₃)₆) لدينا بمحتوى P₂O₅ لا يقل عن 68%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is SHMP packaged for international shipping from China?",
-    "answer":"For export, our SHMP is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة SHMP للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة SHMP لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade SHMP?",
-    "answer":"Our industrial grade SHMP is widely used in water treatment as a sequestrant and scale inhibitor, in food as an emulsifier, and in detergents as a water softener. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لـ SHMP من الدرجة الصناعية؟",
+    "answer":"يستخدم SHMP من الدرجة الصناعية لدينا على نطاق واسع في معالجة المياه كعامل مخلبي ومانع للترسبات، وفي الأغذية كمستحلب، وفي المنظفات كمنعم للمياه. تعدد استخداماته يجعله مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for SHMP?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لـ SHMP؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk SHMP orders from your factory?",
-    "answer":"Standard lead time for bulk SHMP orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات SHMP بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات SHMP بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Phosphates"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "الفوسفات"
 featured: false
 ---
 
-## Sodium Hexametaphosphate (CAS 10124-56-8): Your Trusted China supplier & Supplier for High-Purity SHMP
+## سداسي ميتافوسفات الصوديوم (CAS 10124-56-8): موردك الصيني الموثوق لـ SHMP عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Hexametaphosphate (SHMP)**, we offer **high-purity** product with **≥68% P₂O₅ content** for **bulk purchase** and **export** worldwide. Our SHMP is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food, and industrial applications (HS Code: 2835391900).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **سداسي ميتافوسفات الصوديوم (SHMP)**، فإننا نقدم منتجاً **عالي النقاء** بمحتوى **P₂O₅ يبلغ ≥68%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد SHMP لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات معالجة المياه والأغذية والتطبيقات الصناعية (رمز النظام المنسق: 2835391900).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Water Treatment**: Widely used in **water treatment** as an effective **sequestrant, scale inhibitor, and dispersant**. It prevents the formation of scale in boilers and cooling systems, and helps to disperse suspended solids, improving water clarity and preventing fouling.
+1.  **معالجة المياه**: يستخدم على نطاق واسع في **معالجة المياه** كـ **عامل مخلبي ومانع للترسبات ومشتت** فعال. يمنع تكون القشور في الغلايات وأنظمة التبريد، ويساعد في تشتيت المواد الصلبة العالقة، مما يحسن وضوح المياه ويمنع التلوث.
 
-2.  **Food Additive**: Food-grade SHMP is used as an **emulsifier, thickener, and preservative** in various food products, including processed meats, dairy products, and beverages. It helps to improve texture, stabilize emulsions, and extend shelf life.
+2.  **مضافات غذائية**: يستخدم SHMP من الدرجة الغذائية كـ **مستحلب ومثخن ومادة حافظة** في مختلف المنتجات الغذائية، بما في ذلك اللحوم المصنعة ومنتجات الألبان والمشروبات. يساعد في تحسين الملمس واستقرار المستحلبات وإطالة مدة الصلاحية.
 
-3.  **Detergent and Cleaning Products**: Essential in **detergent and cleaning products** as a **water softener** and **chelating agent**. It binds with metal ions in hard water, preventing them from interfering with the action of surfactants and enhancing cleaning efficiency.
+3.  **المنظفات ومنتجات التنظيف**: ضروري في **المنظفات ومنتجات التنظيف** كـ **منعم للمياه** و **عامل مخلبي**. يرتبط بأيونات المعادن في الماء العسر، مما يمنعها من التداخل مع عمل المواد الخافضة للتوتر السطحي ويعزز كفاءة التنظيف.
 
-4.  **Mining Industry**: Employed in the **mining industry** as a **flotation agent** for mineral processing, helping to separate valuable minerals from gangue. It also acts as a dispersant for mineral slurries.
+4.  **صناعة التعدين**: يستخدم في **صناعة التعدين** كـ **عامل تعويم** لمعالجة المعادن، مما يساعد في فصل المعادن القيمة عن الشوائب. كما يعمل كمشتت للملاط المعدني.
 
-5.  **Oil Drilling**: Used in **oil drilling** as a **mud dispersant** to control the viscosity of drilling fluids, preventing clay swelling and improving drilling efficiency.
+5.  **حفر الآبار النفطية**: يستخدم في **حفر الآبار النفطية** كـ **مشتت للطين** للتحكم في لزوجة سوائل الحفر، مما يمنع انتفاخ الطين ويحسن كفاءة الحفر.
 
-6.  **Textile Dyeing**: Applied in the **textile industry** as a dispersant and chelating agent in dyeing processes, ensuring uniform color and preventing dye precipitation.
+6.  **صباغة المنسوجات**: يستخدم في **صناعة المنسوجات** كمشتت وعامل مخلبي في عمليات الصباغة، مما يضمن لوناً موحداً ويمنع ترسب الصبغة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our SHMP, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ SHMP لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Hexametaphosphate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **سداسي ميتافوسفات الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

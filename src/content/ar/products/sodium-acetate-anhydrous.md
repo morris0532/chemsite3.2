@@ -1,77 +1,76 @@
 ---
 id: "17"
-name: "Sodium Acetate Anhydrous"
+name: "خلات الصوديوم اللامائية"
 nameCn: "无水醋酸钠"
 cas: "127-09-3 / 6131-90-4"
 hsCode: "2915291000"
 slug: "sodium-acetate-anhydrous"
-shortDescription: "High-purity Sodium Acetate Anhydrous (CH3COONa) for bulk purchase and export from China. Essential for textile, pharmaceutical, and food applications. Trusted supplier with competitive pricing."
+shortDescription: "خلات الصوديوم اللامائية (CH3COONa) عالية النقاء للشراء بالجملة والتصدير من الصين. ضرورية لتطبيقات المنسوجات والأدوية والأغذية. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"CH₃COONa"},
-  {"label":"CAS Number","value":"127-09-3 / 6131-90-4"},
-  {"label":"HS Code","value":"2915291000"},
-  {"label":"Purity","value":"≥99.0%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"CH₃COONa"},
+  {"label":"رقم CAS","value":"127-09-3 / 6131-90-4"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2915291000"},
+  {"label":"النقاء","value":"≥99.0%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Textile dyeing and printing (buffering agent)",
-  "Pharmaceutical industry (excipient, diuretic)",
-  "Food additive (seasoning, preservative, pH regulator)",
-  "Photography (fixing agent)",
-  "Buffer solutions",
-  "Synthetic rubber supply"
+  "صباغة وطباعة المنسوجات (عامل دارئ)",
+  "الصناعة الصيدلانية (سواغ، مدر للبول)",
+  "مضافات غذائية (توابل، مادة حافظة، منظم حموضة)",
+  "التصوير الفوتوغرافي (عامل تثبيت)",
+  "المحاليل الدارئة",
+  "توريد المطاط الاصطناعي"
 ]
 faqs: [
-  {"question":"What grades of Sodium Acetate Anhydrous do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Acetate Anhydrous, offering industrial grade, food grade, and pharmaceutical grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Acetate Anhydrous products?",
-    "answer":"Our Sodium Acetate Anhydrous (CH₃COONa) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات خلات الصوديوم اللامائية التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لخلات الصوديوم اللامائية، ونقدم الدرجة الصناعية، والدرجة الغذائية، والدرجة الصيدلانية بنقاء ≥99.0%. جميع الدرجات متاحة للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات خلات الصوديوم اللامائية الخاصة بكم؟",
+    "answer":"تتوفر خلات الصوديوم اللامائية (CH₃COONa) لدينا بنقاء لا يقل عن 99.0%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is Sodium Acetate Anhydrous packaged for international shipping from China?",
-    "answer":"For export, our Sodium Acetate Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة خلات الصوديوم اللامائية للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة خلات الصوديوم اللامائية لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Acetate Anhydrous?",
-    "answer":"Our industrial grade Sodium Acetate Anhydrous is widely used in textile dyeing, pharmaceuticals, food as a seasoning and preservative, and in photography. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لخلات الصوديوم اللامائية من الدرجة الصناعية؟",
+    "answer":"تستخدم خلات الصوديوم اللامائية من الدرجة الصناعية لدينا على نطاق واسع في صباغة المنسوجات، والأدوية، والأغذية كتوابل ومادة حافظة، وفي التصوير الفوتوغرافي. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Acetate Anhydrous?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لخلات الصوديوم اللامائية؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sodium Acetate Anhydrous orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Acetate Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات خلات الصوديوم اللامائية بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات خلات الصوديوم اللامائية بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Organic Salts"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/حاوية 20 قدم"
+packaging: "25 كجم/أكياس جامبو"
+category: "الأملاح العضوية"
 featured: false
 ---
 
-## Sodium Acetate Anhydrous (CAS 127-09-3): Your Trusted China supplier & Supplier for High-Purity CH₃COONa
+## خلات الصوديوم اللامائية (CAS 127-09-3): موردك الصيني الموثوق لـ CH₃COONa عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Acetate Anhydrous (CH₃COONa)**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Acetate Anhydrous is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of industrial, pharmaceutical, and food applications (HS Code: 2915291000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **خلات الصوديوم اللامائية (CH₃COONa)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.0%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد خلات الصوديوم اللامائية لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من التطبيقات الصناعية والصيدلانية والغذائية (رمز النظام المنسق: 2915291000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Textile Industry**: Widely used in the **textile dyeing and printing industry** as a buffering agent to maintain pH during dyeing processes, ensuring consistent color and preventing dye degradation.
+1.  **صناعة المنسوجات**: يستخدم على نطاق واسع في **صناعة صباغة وطباعة المنسوجات** كعامل دارئ للحفاظ على درجة الحموضة أثناء عمليات الصباغة، مما يضمن لوناً متسقاً ويمنع تدهور الصبغة.
 
-2.  **Pharmaceutical Industry**: Essential in the **pharmaceutical industry** as an excipient, a diuretic, and a component in various buffer solutions for drug formulations and intravenous fluids.
+2.  **الصناعة الصيدلانية**: ضروري في **الصناعة الصيدلانية** كسواغ، ومدر للبول، ومكون في مختلف المحاليل الدارئة لتركيبات الأدوية والسوائل الوريدية.
 
-3.  **Food Additive**: Food-grade Sodium Acetate Anhydrous is used as a **seasoning, preservative, and pH regulator** in various food products, including snacks, sauces, and baked goods. It helps extend shelf life and enhance flavor.
+3.  **مضافات غذائية**: تستخدم خلات الصوديوم اللامائية من الدرجة الغذائية كـ **توابل ومادة حافظة ومنظم حموضة** في مختلف المنتجات الغذائية، بما في ذلك الوجبات الخفيفة والصلصات والمخبوزات. يساعد في إطالة مدة الصلاحية وتعزيز النكهة.
 
-4.  **Photography**: Employed in **photography** as a fixing agent in photographic solutions, contributing to the development and processing of films and prints.
+4.  **التصوير الفوتوغرافي**: يستخدم في **التصوير الفوتوغرافي** كعامل تثبيت في المحاليل الفوتوغرافية، مما يساهم في تطوير ومعالجة الأفلام والمطبوعات.
 
-5.  **Buffer Solutions**: A key component in the preparation of **buffer solutions** in laboratories and industrial processes, helping to maintain a stable pH for various chemical reactions.
+5.  **المحاليل الدارئة**: مكون رئيسي في تحضير **المحاليل الدارئة** في المختبرات والعمليات الصناعية، مما يساعد في الحفاظ على درجة حموضة مستقرة لمختلف التفاعلات الكيميائية.
 
-6.  **Synthetic Rubber supply**: Used in the supply of **synthetic rubber** as a catalyst and a buffering agent.
+6.  **توريد المطاط الاصطناعي**: يستخدم في توريد **المطاط الاصطناعي** كعامل حفاز وعامل دارئ.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sodium Acetate Anhydrous, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لخلات الصوديوم اللامائية لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Acetate Anhydrous supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **خلات الصوديوم اللامائية** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

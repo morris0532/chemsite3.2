@@ -1,77 +1,76 @@
 ---
 id: "14"
-name: "Sodium Metabisulphite (SMBS)"
+name: "焦亚硫酸钠 (SMBS)"
 nameCn: "焦亚硫酸钠"
 cas: "7681-57-4"
 hsCode: "2832100000"
 slug: "sodium-metabisulphite"
-shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted supplier with competitive pricing."
+shortDescription: "焦亚硫酸钠 (SMBS) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري لمعالجة المياه، وحفظ الأغذية، وتطبيقات التعدين. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"Na₂S₂O₅"},
-  {"label":"CAS Number","value":"7681-57-4"},
-  {"label":"HS Code","value":"2832100000"},
-  {"label":"Purity","value":"≥97%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"Na₂S₂O₅"},
+  {"label":"رقم CAS","value":"7681-57-4"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2832100000"},
+  {"label":"النقاء","value":"≥97%"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Water treatment (dechlorination, oxygen scavenger)",
-  "Food preservation (antioxidant, antimicrobial)",
-  "Mining (flotation agent, depressant)",
-  "Textile industry (bleaching, dyeing, reducing agent)",
-  "Pulp and paper industry (bleaching agent)",
-  "Photography (fixing agent)"
+  "معالجة المياه (إزالة الكلور، مزيل للأكسجين)",
+  "حفظ الأغذية (مضاد للأكسدة، مضاد للميكروبات)",
+  "التعدين (عامل تعويم، مثبط)",
+  "صناعة المنسوجات (تبييض، صباغة، عامل مختزل)",
+  "صناعة اللب والورق (عامل تبييض)",
+  "التصوير الفوتوغرافي (عامل تثبيت)"
 ]
 faqs: [
-  {"question":"What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of SMBS, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your SMBS products?",
-    "answer":"Our Sodium Metabisulphite (Na₂S₂O₅) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
+  {"question":"ما هي درجات焦亚硫酸钠 (SMBS) التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لـ SMBS، ونقدم الدرجة الغذائية والدرجة الصناعية بنقاء ≥97%. كلا الدرجتين متاحتان للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات SMBS الخاصة بكم؟",
+    "answer":"تتوفر焦亚硫酸钠 (Na₂S₂O₅) لدينا بنقاء لا يقل عن 97%. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية لجميع التطبيقات."
   },{
-    "question":"How is SMBS packaged for international shipping from China?",
-    "answer":"For export, our SMBS is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة SMBS للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة SMBS لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade SMBS?",
-    "answer":"Our industrial grade SMBS is widely used in water treatment as a dechlorination agent, in food preservation as an antioxidant, in mining as a flotation agent, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لـ SMBS من الدرجة الصناعية؟",
+    "answer":"يستخدم SMBS من الدرجة الصناعية لدينا على نطاق واسع في معالجة المياه كعامل لإزالة الكلور، وفي حفظ الأغذية كمضاد للأكسدة، وفي التعدين كعامل تعويم، وفي صناعة المنسوجات كعامل مختزل. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for SMBS?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لـ SMBS؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk SMBS orders from your factory?",
-    "answer":"Standard lead time for bulk SMBS orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات SMBS بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات SMBS بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "مركبات الكبريت"
 featured: false
 ---
 
-## Sodium Metabisulphite (CAS 7681-57-4): Your Trusted China supplier & Supplier for High-Purity SMBS
+##焦亚硫酸钠 (CAS 7681-57-4): موردك الصيني الموثوق لـ SMBS عالي النقاء
 
-As a premier **China supplier and supplier** of **Sodium Metabisulphite (SMBS)**, we offer **high-purity** product with **≥97% purity** for **bulk purchase** and **export** worldwide. Our SMBS is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of water treatment, food preservation, and industrial applications (HS Code: 2832100000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **焦亚硫酸钠 (SMBS)**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥97%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد SMBS لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات معالجة المياه وحفظ الأغذية والتطبيقات الصناعية (رمز النظام المنسق: 2832100000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Water Treatment**: Widely used in **water treatment** as an effective **dechlorination agent** to remove residual chlorine from municipal and industrial water systems. It also functions as an **oxygen scavenger** in boiler feed water, preventing corrosion.
+1.  **معالجة المياه**: يستخدم على نطاق واسع في **معالجة المياه** كـ **عامل فعال لإزالة الكلور** لإزالة الكلور المتبقي من أنظمة المياه البلدية والصناعية. كما يعمل كـ **مزيل للأكسجين** في مياه تغذية الغلايات، مما يمنع التآكل.
 
-2.  **Food Preservation**: Essential in **food preservation** as an **antioxidant** and **antimicrobial agent**. It prevents enzymatic browning in fruits and vegetables, extends the shelf life of seafood, and is used in winemaking to inhibit bacterial growth.
+2.  **حفظ الأغذية**: ضروري في **حفظ الأغذية** كـ **مضاد للأكسدة** و **عامل مضاد للميكروبات**. يمنع الاسمرار الإنزيمي في الفواكه والخضروات، ويطيل مدة صلاحية المأكولات البحرية، ويستخدم في صناعة النبيذ لتثبيط النمو البكتيري.
 
-3.  **Mining Industry**: Employed in the **mining industry** as a **flotation agent** and **depressant** for mineral processing, helping to separate valuable minerals from gangue. It is particularly effective in gold and silver extraction.
+3.  **صناعة التعدين**: يستخدم في **صناعة التعدين** كـ **عامل تعويم** و **مثبط** لمعالجة المعادن، مما يساعد في فصل المعادن القيمة عن الشوائب. وهو فعال بشكل خاص في استخراج الذهب والفضة.
 
-4.  **Textile Industry**: Used in the **textile industry** as a **bleaching agent**, **dyeing auxiliary**, and **reducing agent**. It helps to remove excess dye, improve color fastness, and prepare fabrics for further processing.
+4.  **صناعة المنسوجات**: يستخدم في **صناعة المنسوجات** كـ **عامل تبييض**، و **مساعد صباغة**، و **عامل مختزل**. يساعد في إزالة الصبغة الزائدة، وتحسين ثبات اللون، وتحضير الأقمشة لمزيد من المعالجة.
 
-5.  **Pulp and Paper Industry**: Applied in the **pulp and paper industry** as a **bleaching agent** for wood pulp, improving the brightness and whiteness of paper products.
+5.  **صناعة اللب والورق**: يستخدم في **صناعة اللب والورق** كـ **عامل تبييض** لب الخشب، مما يحسن سطوع وبياض المنتجات الورقية.
 
-6.  **Photography**: Functions as a **fixing agent** in photographic developers, contributing to the chemical process of developing photographic films and papers.
+6.  **التصوير الفوتوغرافي**: يعمل كـ **عامل تثبيت** في المظهرات الفوتوغرافية، مما يساهم في العملية الكيميائية لتطوير الأفلام والأوراق الفوتوغرافية.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our SMBS, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لـ SMBS لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً قدره 25 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Metabisulphite supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **焦亚硫酸钠** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.

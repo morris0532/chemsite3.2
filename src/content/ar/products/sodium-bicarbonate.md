@@ -1,77 +1,76 @@
 ---
 id: "16"
-name: "Sodium Bicarbonate (Baking Soda)"
+name: "بيكربونات الصوديوم (صودا الخبز)"
 nameCn: "小苏打"
 cas: "144-55-8"
 hsCode: "2836300000"
 slug: "sodium-bicarbonate"
-shortDescription: "High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from China. Essential for food, feed, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
+shortDescription: "بيكربونات الصوديوم (صودا الخبز) عالية النقاء للشراء بالجملة والتصدير من الصين. ضرورية لتطبيقات الأغذية والأعلاف والأدوية والصناعة. مورد موثوق بأسعار تنافسية."
 image: "/images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp"
 specs: [
-  {"label":"Chemical Formula","value":"NaHCO₃"},
-  {"label":"CAS Number","value":"144-55-8"},
-  {"label":"HS Code","value":"2836300000"},
-  {"label":"Purity","value":"≥99.0% (Food Grade)"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
+  {"label":"الصيغة الكيميائية","value":"NaHCO₃"},
+  {"label":"رقم CAS","value":"144-55-8"},
+  {"label":"رمز النظام المنسق (HS Code)","value":"2836300000"},
+  {"label":"النقاء","value":"≥99.0% (درجة غذائية)"},
+  {"label":"المظهر","value":"مسحوق بلوري أبيض"},
+  {"label":"التعبئة والتغليف","value":"أكياس منسوجة PP سعة 25 كجم مع بطانة PE، أكياس جامبو سعة 1000 كجم. التعبئة المخصصة متاحة."
   },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
+  {"label":"التحميل","value":"25-27 طن متري لكل حاوية 20 قدم (FCL)"},
+  {"label":"الموانئ المتاحة","value":"تشينغداو، تيانجين، داليان (الموانئ الرئيسية في الصين)"}
 ]
 applications: [
-  "Food industry (leavening agent, pH regulator, buffer)",
-  "Feed additive (ruminant feed, poultry feed)",
-  "Pharmaceutical industry (antacid, effervescent agent)",
-  "Detergent and cleaning products (mild abrasive, deodorizer)",
-  "Fire extinguishers",
-  "Water treatment"
+  "صناعة الأغذية (عامل رفع، منظم حموضة، دارئ)",
+  "مضافات الأعلاف (أعلاف المجترات، أعلاف الدواجن)",
+  "الصناعة الصيدلانية (مضاد للحموضة، عامل فوار)",
+  "المنظفات ومنتجات التنظيف (كاشط خفيف، مزيل للروائح)",
+  "طفاية حريق",
+  "معالجة المياه"
 ]
 faqs: [
-  {"question":"What grades of Sodium Bicarbonate do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Bicarbonate, offering food grade, feed grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Bicarbonate products?",
-    "answer":"Our Sodium Bicarbonate (NaHCO₃) is available with a minimum purity of 99.0% for food grade applications. We ensure strict quality control to meet international standards."
+  {"question":"ما هي درجات بيكربونات الصوديوم التي توفرونها للطلبات بالجملة؟","answer":"نحن مورد ومصدر صيني رائد لبيكربونات الصوديوم، ونقدم الدرجة الغذائية، ودرجة الأعلاف، والدرجة الصناعية بنقاء ≥99.0%. جميع الدرجات متاحة للشراء بالجملة والتصدير، لتلبية احتياجات الصناعة المتنوعة."},{
+    "question":"ما هو النقاء النموذجي لمنتجات بيكربونات الصوديوم الخاصة بكم؟",
+    "answer":"تتوفر بيكربونات الصوديوم (NaHCO₃) لدينا بنقاء لا يقل عن 99.0% لتطبيقات الدرجة الغذائية. نحن نضمن رقابة صارمة على الجودة لتلبية المعايير الدولية."
   },{
-    "question":"How is Sodium Bicarbonate packaged for international shipping from China?",
-    "answer":"For export, our Sodium Bicarbonate is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
+    "question":"كيف يتم تعبئة بيكربونات الصوديوم للشحن الدولي من الصين؟",
+    "answer":"للتصدير، يتم تعبئة بيكربونات الصوديوم لدينا عادةً في أكياس منسوجة PP سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة. تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري) للشحنات الكبيرة. يمكن ترتيب حلول تعبئة مخصصة."
   },{
-    "question":"What are the main applications of your industrial grade Sodium Bicarbonate?",
-    "answer":"Our industrial grade Sodium Bicarbonate is widely used in food as a leavening agent, in animal feed, in pharmaceuticals as an antacid, and in cleaning products. Its versatility makes it a key chemical."
+    "question":"ما هي التطبيقات الرئيسية لبيكربونات الصوديوم من الدرجة الصناعية؟",
+    "answer":"تستخدم بيكربونات الصوديوم من الدرجة الصناعية لدينا على نطاق واسع في الأغذية كعامل رفع، وفي أعلاف الحيوانات، وفي الأدوية كمضاد للحموضة، وفي منتجات التنظيف. تعدد استخداماتها يجعلها مادة كيميائية رئيسية."
   },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Bicarbonate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
+    "question":"هل يمكنك تقديم شهادة تحليل (COA) وورقة بيانات سلامة المواد (MSDS) لبيكربونات الصوديوم؟",
+    "answer":"نعم، نحن نقدم وثائق شاملة لكل شحنة، بما في ذلك شهادة تحليل (COA) توضح مواصفات المنتج وورقة بيانات سلامة المواد (MSDS) لإرشادات السلامة والمناولة. هذه متاحة عند الطلب."
   },{
-    "question":"What is the lead time for bulk Sodium Bicarbonate orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Bicarbonate orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
+    "question":"ما هو الوقت المستغرق لطلبات بيكربونات الصوديوم بالجملة من مصنعكم؟",
+    "answer":"الوقت القياسي لطلبات بيكربونات الصوديوم بالجملة هو عادة 7-15 يوماً بعد تأكيد الطلب، اعتماداً على حجم الطلب وجدول التوريد الحالي. نحن نسعى جاهدين للخدمات اللوجستية الفعالة والتسليم في الوقت المناسب من الموانئ الصينية الرئيسية."
   }
 ]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Alkali Products"
+ports: "تشينغداو / تيانجين / داليان"
+loading: "25-27 طن متري/20GP"
+packaging: "25 كجم/أكياس جامبو"
+category: "المنتجات القلوية"
 featured: false
 ---
 
-## Sodium Bicarbonate (CAS 144-55-8): Your Trusted China supplier & Supplier for High-Purity Baking Soda
+## بيكربونات الصوديوم (CAS 144-55-8): موردك الصيني الموثوق لصودا الخبز عالية النقاء
 
-As a premier **China supplier and supplier** of **Sodium Bicarbonate (NaHCO₃)**, commonly known as **Baking Soda**, we offer **high-purity** product with **≥99.0% purity** for **bulk purchase** and **export** worldwide. Our Sodium Bicarbonate is supplied to meet stringent international quality standards, making it an essential raw material for a wide range of food, feed, pharmaceutical, and industrial applications (HS Code: 2836300000).
+بصفتنا **مورداً ومصدراً صينياً** رائداً لـ **بيكربونات الصوديوم (NaHCO₃)**، والمعروفة باسم **صودا الخبز**، فإننا نقدم منتجاً **عالي النقاء** بنقاء **≥99.0%** لـ **الشراء بالجملة** و **التصدير** في جميع أنحاء العالم. يتم توريد بيكربونات الصوديوم لدينا لتلبية معايير الجودة الدولية الصارمة، مما يجعله مادة خام أساسية لمجموعة واسعة من تطبيقات الأغذية والأعلاف والأدوية والصناعة (رمز النظام المنسق: 2836300000).
 
-### Key Applications & Benefits:
+### التطبيقات والفوائد الرئيسية:
 
-1.  **Food Industry**: Widely used as a **leavening agent** in baking, reacting with acids to produce carbon dioxide, which causes dough to rise. It also functions as a **pH regulator** and **buffer** in various food products, enhancing flavor and stability.
+1.  **صناعة الأغذية**: يستخدم على نطاق واسع كـ **عامل رفع** في الخبز، حيث يتفاعل مع الأحماض لإنتاج ثاني أكسيد الكربون، مما يؤدي إلى ارتفاع العجين. كما يعمل كـ **منظم للحموضة** و **دارئ** في مختلف المنتجات الغذائية، مما يعزز النكهة والاستقرار.
 
-2.  **Feed Additive**: Essential as a **feed additive** for livestock, particularly ruminants and poultry. It acts as a buffer in animal feed, helping to stabilize rumen pH and improve digestion, leading to better animal health and productivity.
+2.  **مضافات الأعلاف**: ضروري كـ **مضاف للأعلاف** للماشية، وخاصة المجترات والدواجن. يعمل كدارئ في أعلاف الحيوانات، مما يساعد على استقرار درجة حموضة الكرش وتحسين الهضم، مما يؤدي إلى تحسين صحة الحيوان وإنتاجيته.
 
-3.  **Pharmaceutical Industry**: Employed in the **pharmaceutical industry** as an **antacid** to relieve heartburn and indigestion, and as an **effervescent agent** in various medications and health supplements.
+3.  **الصناعة الصيدلانية**: يستخدم في **الصناعة الصيدلانية** كـ **مضاد للحموضة** لتخفيف حرقة المعدة وعسر الهضم، وكـ **عامل فوار** في مختلف الأدوية والمكملات الصحية.
 
-4.  **Detergent and Cleaning Products**: Used in **detergent and cleaning products** as a mild abrasive, deodorizer, and water softener. It effectively removes stains, neutralizes odors, and enhances cleaning efficiency without harsh chemicals.
+4.  **المنظفات ومنتجات التنظيف**: يستخدم في **المنظفات ومنتجات التنظيف** ككاشط خفيف ومزيل للروائح ومنعم للمياه. يزيل البقع بفعالية، ويحيد الروائح، ويعزز كفاءة التنظيف بدون مواد كيميائية قاسية.
 
-5.  **Fire Extinguishers**: A key component in **dry chemical fire extinguishers**, where it releases carbon dioxide upon heating, smothering flames and preventing re-ignition.
+5.  **طفاية حريق**: مكون رئيسي في **طفايات الحريق الكيميائية الجافة**، حيث يطلق ثاني أكسيد الكربون عند التسخين، مما يخنق اللهب ويمنع إعادة الاشتعال.
 
-6.  **Water Treatment**: Utilized in **water treatment** processes for pH adjustment and alkalinity control, contributing to the overall quality of treated water.
+6.  **معارضة المياه**: يستخدم في عمليات **معالجة المياه** لضبط درجة الحموضة والتحكم في القلوية، مما يساهم في الجودة الإجمالية للمياه المعالجة.
 
-### Packaging, Logistics & Quality Assurance:
+### التعبئة والتغليف والخدمات اللوجستية وضمان الجودة:
 
-We provide flexible **packaging solutions** for our Sodium Bicarbonate, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
+نحن نقدم **حلول تعبئة** مرنة لبيكربونات الصوديوم لدينا، بما في ذلك أكياس منسوجة PP قوية سعة 25 كجم مع بطانات PE داخلية، مصممة للحماية من الرطوبة أثناء النقل الدولي. بالنسبة لـ **الطلبات بالجملة**، تتوفر أيضاً أكياس جامبو سعة 1000 كجم (1 طن متري). نحن نضمن **تحميلاً** فعالاً يتراوح بين 25-27 طناً مترياً لكل حاوية 20 قدم (FCL). نحن نقدم خدمات **تصدير** موثوقة من الموانئ الصينية الرئيسية: تشينغداو وتيانجين وداليان، مما يضمن لوجستيات تنافسية وتسليماً في الوقت المناسب.
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Bicarbonate supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-
+ترافق كل شحنة **شهادة تحليل (COA)** شاملة و **ورقة بيانات سلامة المواد (MSDS)**، مما يضمن الشفافية وجودة المنتج والامتثال لمعايير السلامة. شارك معنا كموردك الموثوق لـ **بيكربونات الصوديوم** للحصول على جودة متسقة وأسعار تنافسية وتوريد عالمي موثوق.
