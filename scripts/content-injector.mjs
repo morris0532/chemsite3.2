@@ -51,10 +51,11 @@ const contentMetadata = {
   en: { products: [], blog: [] },
   ru: { products: [], blog: [] },
   fr: { products: [], blog: [] },
-  es: { products: [], blog: [] }
+  es: { products: [], blog: [] },
+  ar: { products: [], blog: [] }
 };
 
-['en', 'ru', 'fr', 'es'].forEach(locale => {
+['en', 'ru', 'fr', 'es', 'ar'].forEach(locale => {
   ['products', 'blog'].forEach(type => {
     const dir = path.join(contentDir, locale, type);
     if (fs.existsSync(dir)) {

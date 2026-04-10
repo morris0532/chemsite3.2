@@ -22,6 +22,7 @@ export function getPrerenderRoutes() {
     routes.push(`/ru${page}`);
     routes.push(`/fr${page}`);
     routes.push(`/es${page}`);
+    routes.push(`/ar${page}`);
   });
 
   locales.forEach(locale => {

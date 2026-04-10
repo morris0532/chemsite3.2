@@ -5,7 +5,7 @@ const SITE_URL = 'https://www.sinopeakchem.com';
 
 async function generateSitemap() {
   const contentDir = path.resolve('src/content');
-  const locales = ['en', 'ru', 'fr'];
+  const locales = ['en', 'ru', 'fr', 'es', 'ar'];
   const pages = [
     '',
     '/products',
@@ -22,27 +22,32 @@ async function generateSitemap() {
 
   const today = new Date().toISOString().split('T')[0];
 
-  const addUrl = (loc, changefreq, priority, enLoc, ruLoc, frLoc) => {
+  const addUrl = (loc, changefreq, priority, alternateLocs) => {
     sitemap += `
   <url>
     <loc>${loc}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>${changefreq}</changefreq>
-    <priority>${priority}</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="${enLoc}" />
-    <xhtml:link rel="alternate" hreflang="ru" href="${ruLoc}" />
-    <xhtml:link rel="alternate" hreflang="fr" href="${frLoc}" />
+    <priority>${priority}</priority>`;
+    
+    Object.entries(alternateLocs).forEach(([lang, href]) => {
+      sitemap += `
+    <xhtml:link rel="alternate" hreflang="${lang}" href="${href}" />`;
+    });
+    
+    sitemap += `
   </url>`;
   };
 
   pages.forEach(page => {
-    const enLoc = `${SITE_URL}/en${page}`;
-    const ruLoc = `${SITE_URL}/ru${page}`;
-    const frLoc = `${SITE_URL}/fr${page}`;
+    const alternateLocs = {};
+    locales.forEach(locale => {
+      alternateLocs[locale] = `${SITE_URL}/${locale}${page}`;
+    });
     
-    addUrl(enLoc, 'weekly', page === '' ? '1.0' : '0.8', enLoc, ruLoc, frLoc);
-    addUrl(ruLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
-    addUrl(frLoc, 'weekly', '0.8', enLoc, ruLoc, frLoc);
+    locales.forEach(locale => {
+      addUrl(alternateLocs[locale], 'weekly', page === '' ? '1.0' : '0.8', alternateLocs);
+    });
   });
 
   const blogSlugs = new Set();
@@ -56,14 +61,15 @@ async function generateSitemap() {
   }
 
   for (const slug of blogSlugs) {
-    const enLoc = `${SITE_URL}/en/blog/${slug}`;
-    const ruLoc = `${SITE_URL}/ru/blog/${slug}`;
-    const frLoc = `${SITE_URL}/fr/blog/${slug}`;
+    const alternateLocs = {};
+    locales.forEach(locale => {
+      alternateLocs[locale] = `${SITE_URL}/${locale}/blog/${slug}`;
+    });
     
     for (const locale of locales) {
       const blogFile = path.join(contentDir, locale, 'blog', `${slug}.md`);
       if (fs.existsSync(blogFile)) {
-        addUrl(`${SITE_URL}/${locale}/blog/${slug}`, 'monthly', '0.6', enLoc, ruLoc, frLoc);
+        addUrl(alternateLocs[locale], 'monthly', '0.6', alternateLocs);
       }
     }
   }
@@ -79,14 +85,15 @@ async function generateSitemap() {
   }
 
   for (const slug of productSlugs) {
-    const enLoc = `${SITE_URL}/en/products/${slug}`;
-    const ruLoc = `${SITE_URL}/ru/products/${slug}`;
-    const frLoc = `${SITE_URL}/fr/products/${slug}`;
+    const alternateLocs = {};
+    locales.forEach(locale => {
+      alternateLocs[locale] = `${SITE_URL}/${locale}/products/${slug}`;
+    });
     
     for (const locale of locales) {
       const productFile = path.join(contentDir, locale, 'products', `${slug}.md`);
       if (fs.existsSync(productFile)) {
-        addUrl(`${SITE_URL}/${locale}/products/${slug}`, 'monthly', '0.7', enLoc, ruLoc, frLoc);
+        addUrl(alternateLocs[locale], 'monthly', '0.7', alternateLocs);
       }
     }
   }
