@@ -18,7 +18,8 @@ def update_dates():
                             content = f.read()
                         
                         # 匹配 yaml frontmatter 中的 date: "YYYY-MM-DD" 或 date: YYYY-MM-DD
-                        new_content = re.sub(r'date:\s*["\']?\d{4}-\d{2}-\d{2}["\']?', f'date: "{current_date}"', content)
+                        # 增加对阿拉伯语等可能存在的特殊字符或空格的处理
+                        new_content = re.sub(r'^date:\s*["\']?\d{4}-\d{2}-\d{2}["\']?', f'date: "{current_date}"', content, flags=re.MULTILINE)
                         
                         if new_content != content:
                             with open(path, 'w', encoding='utf-8') as f:
@@ -38,7 +39,7 @@ def update_dates():
                         content = f.read()
                     
                     # 匹配 date: "YYYY-MM-DD"
-                    new_content = re.sub(r'date:\s*["\']\d{4}-\d.0{2}-\d{2}["\']', f'date: "{current_date}"', content)
+                    new_content = re.sub(r'date:\s*["\']\d{4}-\d{2}-\d{2}["\']', f'date: "{current_date}"', content)
                     
                     if new_content != content:
                         with open(path, 'w', encoding='utf-8') as f:
