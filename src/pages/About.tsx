@@ -38,6 +38,18 @@ const jsonLdEs = {
   description: "Sinopeakchem es una empresa química multifuncional e innovadora que integra la operación de marcas y servicios de plataforma global desde 1998.",
 };
 
+const jsonLdAr = {
+  ...jsonLdEn,
+  description: "Sinopeakchem هي شركة كيميائية متعددة الوظائف ومبتكرة تدمج تشغيل العلامات التجارية وخدمات المنصات العالمية منذ عام 1998.",
+};
+
+const statsAr = [
+  { icon: Award, value: "22+", label: "منتجات متميزة" },
+  { icon: TrendingUp, value: "28+", label: "عاماً من الخبرة" },
+  { icon: Globe, value: "30+", label: "دولة مخدومة" },
+  { icon: Users, value: "150+", label: "عملاء راضون" },
+];
+
 const statsEn = [
   { icon: Award, value: "22+", label: "Premier Products" },
   { icon: TrendingUp, value: "28+", label: "Years Experience" },
@@ -174,6 +186,33 @@ const hubsEs = [
   },
 ];
 
+const hubsAr = [
+  {
+    icon: Factory,
+    title: "مركز مراقبة الجودة",
+    location: "شاندونغ، الصين",
+    desc: "قاعدة ضمان الجودة الرئيسية لمجموعتنا. نستثمر بكثافة في البحث والتطوير والتجارب النوعية سنوياً لضمان جودة رائدة وحلول مبتكرة.",
+  },
+  {
+    icon: Ship,
+    title: "التجارة الدولية والخدمات اللوجستية",
+    location: "ميناء تشينغداو، الصين",
+    desc: "يقع فرعنا في تشينغداو في أحد الموانئ البحرية الرئيسية للحاويات في العالم، ويوفر أسرع سرعة تسليم وحلول تخزين مرنة للتصدير العالمي.",
+  },
+  {
+    icon: Search,
+    title: "مركز البيانات الاستراتيجي",
+    location: "جينان، الصين",
+    desc: "مركز عملياتنا في محور توزيع المواد الخام الكيميائية في شرق الصين، حيث يتابع عن كثب اتجاهات السوق ويضمن الاستجابة السريعة.",
+  },
+  {
+    icon: GraduationCap,
+    title: "مركز تدريب الموظفين",
+    location: "الأكاديمية الداخلية",
+    desc: "تدريب مهني منتظم لتسهيل إمداد المواهب وضمان فهم فريقنا للاحتياجات المتطورة للصناعة العالمية.",
+  },
+];
+
 const valuesEn = [
   { icon: ShieldCheck, title: "Quality First", desc: "Full-process quality management system from raw material procurement to product delivery." },
   { icon: Microscope, title: "Advanced Detection", desc: "Equipped with HPLC and GC-MS, providing third-party testing reports for each batch of products." },
@@ -202,16 +241,24 @@ const valuesEs = [
   { icon: Users, title: "Soporte Bilingüe", desc: "Soporte técnico bilingüe las 24 horas para abordar problemas de comunicación y aplicación para clientes globales." },
 ];
 
+const valuesAr = [
+  { icon: ShieldCheck, title: "الجودة أولاً", desc: "نظام إدارة جودة كامل العمليات من شراء المواد الخام إلى تسليم المنتج." },
+  { icon: Microscope, title: "كشف متقدم", desc: "مجهز بـ HPLC و GC-MS، مع تقديم تقارير اختبار من طرف ثالث لكل دفعة من المنتجات." },
+  { icon: Zap, title: "الكفاءة والاستقرار", desc: "تضمن المستودعات في الموانئ الصينية الرئيسية التسليم الفوري واستقرار سلسلة التوريد." },
+  { icon: Users, title: "دعم ثنائي اللغة", desc: "دعم فني ثنائي اللغة على مدار 24 ساعة لمعالجة مشكلات التواصل والتطبيق للعملاء العالميين." },
+];
+
 export default function AboutPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  
-  const stats = isRu ? statsRu : (isFr ? statsFr : (isEs ? statsEs : statsEn));
-  const hubs = isRu ? hubsRu : (isFr ? hubsFr : (isEs ? hubsEs : hubsEn));
-  const values = isRu ? valuesRu : (isFr ? valuesFr : (isEs ? valuesEs : valuesEn));
-  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : jsonLdEn));
+  const isAr = location.pathname.startsWith("/ar");
+
+  const stats = isRu ? statsRu : (isFr ? statsFr : (isEs ? statsEs : (isAr ? statsAr : statsEn)));
+  const hubs = isRu ? hubsRu : (isFr ? hubsFr : (isEs ? hubsEs : (isAr ? hubsAr : hubsEn)));
+  const values = isRu ? valuesRu : (isFr ? valuesFr : (isEs ? valuesEs : (isAr ? valuesAr : valuesEn)));
+  const jsonLd = isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdAr : jsonLdEn)));
 
   const content = isRu ? {
     title: "О Sinopeakchem — Эксперты по высокостандартному обслуживанию",
@@ -256,13 +303,13 @@ export default function AboutPage() {
     visionDesc: "Estamos comprometidos con la construcción de una plataforma profesional para productos químicos de protección ambiental, promoviendo el desarrollo verde de las empresas industriales y llevando la tecnología china al mercado global.",
     affiliation: "Este sitio pertenece a Shandong Lan star Technology Group Co.,Ltd"
   } : isAr ? {
-    title: "عن Sinopeakchem - خبراء الخدمة عالية المعايير",
+    title: "حول Sinopeakchem - خبراء الخدمة عالية المعايير",
     description: "تعرف على Sinopeakchem، وهي شركة كيميائية متعددة الوظائف تتمتع بخبرة تزيد عن 28 عاماً. نحن نجمع بين تشغيل العلامات التجارية والخدمات اللوجستية العالمية.",
     heroTitle: "البحث عن أفضل الحلول هو هدفنا النهائي",
-    heroDesc: "خبراء خدمة بمعايير عالية، نربط التصنيع الصيني المتقدم بالاحتياجات الصناعية العالمية.",
+    heroDesc: "خبراء خدمة عالي المعايير يربطون التصنيع الصيني المتقدم بالاحتياجات الصناعية العالمية.",
     ourStory: "قصتنا",
     storySubtitle: "منذ عام 1998، نجح فريقنا في فهم احتياجات الصناعة وبناء منتجات موثوقة للجميع.",
-    storyP1: "تأسست Sinopeakchem في عام 1998 في مقاطعة شاندونغ بالصين، وتطورت لتصبح شركة كيميائية مبتكرة ومتعددة الوظائف تدمج تشغيل العلامات التجارية وخدمات المنصات العالمية.",
+    storyP1: "تأسست Sinopeakchem في عام 1998 في مقاطعة شاندونغ بالصين، وتطورت لتصبح شركة كيميائية متعددة الوظائف ومبتكرة تدمج تشغيل العلامات التجارية وخدمات المنصات العالمية.",
     storyP2: "تغطي مجموعتنا طيفاً واسعاً من المنتجات بما في ذلك حمض الأكساليك، وثيوسلفات الصوديوم، وكلوريد الكالسيوم، وكبريتيت الصوديوم، وحمض الستريك وسلسلة أخرى من الفوسفات والكبريتات. نحن نسعى جاهدين لنصبح نجماً ساطعاً في الصناعة الكيميائية من خلال الابتكار والخدمة الشاملة.",
     strategicHubs: "المراكز الاستراتيجية",
     serviceCommitment: "التزامنا بالخدمة",
