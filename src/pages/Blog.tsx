@@ -12,9 +12,10 @@ export default function BlogPage() {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
-  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : "/en"));
+  const isAr = location.pathname.startsWith("/ar");
+  const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : 'en')));
+  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
   const [currentPage = 1, setCurrentPage] = useState(1);const sorted = useMemo(() => {
     return [...markdownPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   }, [markdownPosts]);
@@ -94,6 +95,24 @@ export default function BlogPage() {
     prev: "Previous",
     next: "Next",
     page: "Page",
+  } : isAr ? {
+    title: "المدونة - رؤى الصناعة الكيميائية وأدلة المنتجات",
+    description: "اقرأ أحدث أخبار الصناعة وأدلة المنتجات والمقالات الفنية حول المواد الكيميائية الصناعية من فريق خبراء Sinopeakchem.",
+    heroTitle: "المدونة",
+    heroDesc: "رؤى الصناعة، أدلة المنتجات، والمقالات الفنية من فريق الخبراء لدينا.",
+    readMore: "اقرأ المزيد",
+    prev: "السابق",
+    next: "التالي",
+    page: "صفحة",
+  } : {
+    title: "Blog - Chemical Industry Insights and Product Guides",
+    description: "Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.",
+    heroTitle: "Blog",
+    heroDesc: "Industry insights, product guides, and technical articles from our expert team.",
+    readMore: "Read More",
+    prev: "Previous",
+    next: "Next",
+    page: "Page",
   });
 
   const handlePageChange = (page: number) => {
@@ -107,11 +126,12 @@ export default function BlogPage() {
       description={content.description}
       jsonLd={jsonLd}
     >
+      <div className={isAr ? 'text-right' : ''}>
       {/* Hero */}
       <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">{content.heroTitle}</h1>
-          <p className="text-blue-100 max-w-2xl text-lg">
+          <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+          <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
             {content.heroDesc}
           </p>
         </div>
@@ -132,11 +152,11 @@ export default function BlogPage() {
                 <div className="p-6 md:p-8 flex flex-col justify-center">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{featuredPost.category}</span>
-                    <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(featuredPost.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "long", day: "numeric", year: "numeric" })}</span>
+                    <span className="text-xs text-gray-500 flex items-center gap-1"><Calendar className="w-3 h-3" /> {new Date(featuredPost.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "long", day: "numeric", year: "numeric" })}</span>
                   </div>
-                  <h2 className="text-xl md:text-2xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors">{featuredPost.title}</h2>
+                  <h2 className={`text-xl md:text-2xl font-bold text-[#1A1A2E] mb-3 group-hover:text-[#0066B3] transition-colors ${isAr ? 'font-arabic' : ''}`}>{featuredPost.title}</h2>
                   <p className="text-gray-600 mb-4 line-clamp-3">{featuredPost.excerpt}</p>
-                  <span className="text-[#0066B3] font-medium flex items-center gap-1">{content.readMore} <ArrowRight className="w-4 h-4" /></span>
+                  <span className="text-[#0066B3] font-medium flex items-center gap-1">{content.readMore} <ArrowRight className={`w-4 h-4 ${isAr ? 'rotate-180' : ''}`} /></span>
                 </div>
               </div>
             </Link>
@@ -156,9 +176,9 @@ export default function BlogPage() {
                 <div className="p-5">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-xs font-medium text-[#0066B3] bg-blue-50 px-2 py-1 rounded-full">{post.category}</span>
-                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : "en-US")), { month: "short", day: "numeric", year: "numeric" })}</span>
+                    <span className="text-xs text-gray-500">{new Date(post.date).toLocaleDateString(isRu ? "ru-RU" : (isFr ? "fr-FR" : (isEs ? "es-ES" : (isAr ? "ar-SA" : "en-US"))), { month: "short", day: "numeric", year: "numeric" })}</span>
                   </div>
-                  <h2 className="text-base font-semibold text-[#1A1A2E] mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-2">{post.title}</h2>
+                  <h2 className={`text-base font-semibold text-[#1A1A2E] mb-2 group-hover:text-[#0066B3] transition-colors line-clamp-2 ${isAr ? 'font-arabic' : ''}`}>{post.title}</h2>
                   <p className="text-sm text-gray-600 line-clamp-2">{post.excerpt}</p>
                   <div className="flex items-center gap-1 mt-3 text-xs text-gray-500">
                     <User className="w-3 h-3" /> {post.author}
@@ -177,7 +197,7 @@ export default function BlogPage() {
                 className="p-2 rounded-lg border border-gray-200 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
                 aria-label={content.prev}
               >
-                <ChevronLeft className="w-5 h-5" />
+                <ChevronLeft className={`w-5 h-5 ${isAr ? 'rotate-180' : ''}`} />
               </button>
               
               <div className="flex items-center gap-1">
@@ -202,7 +222,7 @@ export default function BlogPage() {
                 className="p-2 rounded-lg border border-gray-200 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
                 aria-label={content.next}
               >
-                <ChevronRight className="w-5 h-5" />
+                <ChevronRight className={`w-5 h-5 ${isAr ? 'rotate-180' : ''}`} />
               </button>
             </div>
           )}
