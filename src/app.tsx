@@ -86,6 +86,18 @@ const App = () => (
             <Route path="/es/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/es/terms-of-service" element={<TermsOfService />} />
 
+            {/* Arabic routes */}
+            <Route path="/ar" element={<Index />} />
+            <Route path="/ar/products" element={<Products />} />
+            <Route path="/ar/products/:slug" element={<ProductDetail />} />
+            <Route path="/ar/packaging-gallery" element={<PackagingGallery />} />
+            <Route path="/ar/about" element={<About />} />
+            <Route path="/ar/blog" element={<Blog />} />
+            <Route path="/ar/blog/:slug" element={<BlogDetail />} />
+            <Route path="/ar/contact" element={<Contact />} />
+            <Route path="/ar/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/ar/terms-of-service" element={<TermsOfService />} />
+
             {/* 404 */}
             <Route path="*" element={<NotFound />} />
           </Routes>
