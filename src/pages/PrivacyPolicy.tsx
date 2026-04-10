@@ -6,6 +6,7 @@ const PrivacyPolicy = () => {
   const isRu = location.pathname.startsWith("/ru");
   const isFr = location.pathname.startsWith("/fr");
   const isEs = location.pathname.startsWith("/es");
+  const isAr = location.pathname.startsWith("/ar");
 
   const content = isRu ? {
     title: "Политика конфиденциальности",
@@ -118,6 +119,43 @@ const PrivacyPolicy = () => {
         content: "Si tiene alguna pregunta sobre esta política de privacidad o nuestras prácticas de privacidad, contáctenos en: info@sinopeakchem.com"
       }
     ]
+  } : isAr ? {
+    title: "سياسة الخصوصية",
+    lastUpdated: "آخر تحديث: 4 أبريل 2026",
+    sections: [
+      {
+        title: "1. مقدمة",
+        content: "تحترم Sinopeakchem (\"نحن\" أو \"إننا\") خصوصيتك وتلتزم بحماية بياناتك الشخصية. ستعلمك سياسة الخصوصية هذه بكيفية اهتمامنا ببياناتك الشخصية عند زيارتك لموقعنا الإلكتروني وتخبرك بحقوق الخصوصية الخاصة بك وكيف يحميك القانون."
+      },
+      {
+        title: "2. البيانات التي نجمعها",
+        content: "قد نجمع ونستخدم ونخزن وننقل أنواعاً مختلفة من البيانات الشخصية عنك والتي قمنا بتجميعها على النحو التالي:",
+        list: [
+          "بيانات الهوية: تشمل الاسم الأول واسم العائلة واسم المستخدم أو معرف مماثل.",
+          "بيانات الاتصال: تشمل عنوان البريد الإلكتروني وأرقام الهواتف.",
+          "البيانات الفنية: تشمل عنوان بروتوكول الإنترنت (IP)، ونوع المتصفح وإصداره، وإعداد المنطقة الزمنية والموقع.",
+          "بيانات الاستخدام: تشمل معلومات حول كيفية استخدامك لموقعنا ومنتجاتنا وخدماتنا."
+        ]
+      },
+      {
+        title: "3. كيف نستخدم بياناتك",
+        content: "سنستخدم بياناتك الشخصية فقط عندما يسمح لنا القانون بذلك. في أغلب الأحيان، سنستخدم بياناتك الشخصية في الظروف التالية:",
+        list: [
+          "لتسجيلك كعميل جديد.",
+          "لمعالجة وتسليم طلبك.",
+          "لإدارة علاقتنا معك.",
+          "لتحسين موقعنا الإلكتروني، والمنتجات/الخدمات، والتسويق أو علاقات العملاء."
+        ]
+      },
+      {
+        title: "4. أمن البيانات",
+        content: "لقد وضعنا تدابير أمنية مناسبة لمنع فقدان بياناتك الشخصية عن طريق الخطأ أو استخدامها أو الوصول إليها بطريقة غير مصرح بها أو تعديلها أو الكشف عنها."
+      },
+      {
+        title: "5. اتصل بنا",
+        content: "إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه أو ممارسات الخصوصية لدينا، يرجى الاتصال بنا على: info@sinopeakchem.com"
+      }
+    ]
   } : {
     title: "Privacy Policy",
     lastUpdated: "Last updated: April 04, 2026",
@@ -159,19 +197,19 @@ const PrivacyPolicy = () => {
 )
   return (
     <Layout title={content.title}>
-      <div className="container mx-auto px-4 py-24 max-w-4xl">
-        <h1 className="text-4xl font-bold mb-8">{content.title}</h1>
+      <div className={`container mx-auto px-4 py-24 max-w-4xl ${isAr ? 'text-right' : ''}`}>
+        <h1 className={`text-4xl font-bold mb-8 ${isAr ? 'font-arabic' : ''}`}>{content.title}</h1>
         <div className="prose prose-blue max-w-none">
-          <p className="text-gray-600 mb-6">{content.lastUpdated}</p>
+          <p className={`text-gray-600 mb-6 ${isAr ? 'font-arabic' : ''}`}>{content.lastUpdated}</p>
           
           {content.sections.map((section, index) => (
             <section key={index} className="mb-8">
-              <h2 className="text-2xl font-semibold mb-4">{section.title}</h2>
-              <p className="mb-4">{section.content}</p>
+              <h2 className={`text-2xl font-semibold mb-4 ${isAr ? 'font-arabic' : ''}`}>{section.title}</h2>
+              <p className={`mb-4 ${isAr ? 'font-arabic leading-relaxed' : ''}`}>{section.content}</p>
               {section.list && (
-                <ul className="list-disc pl-6 mb-4">
+                <ul className={`list-disc mb-4 ${isAr ? 'pr-6 pl-0' : 'pl-6'}`}>
                   {section.list.map((item, i) => (
-                    <li key={i}>{item}</li>
+                    <li key={i} className={isAr ? 'font-arabic mb-1' : ''}>{item}</li>
                   ))}
                 </ul>
               )}
