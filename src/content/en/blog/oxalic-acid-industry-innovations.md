@@ -64,6 +64,7 @@ These innovations collectively contribute to a more sustainable and efficient ox
 The oxalic acid industry is actively embracing innovation to meet the demands of a rapidly changing world. By integrating green chemistry, advanced purification, and circular economy principles, manufacturers are not only enhancing the efficiency and quality of oxalic acid production but also significantly contributing to global sustainability goals. These ongoing innovations ensure that oxalic acid will continue to be a vital chemical, produced and utilized in an environmentally responsible manner.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💡 **Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!**
 
 SinoPeakChem is at the forefront of providing high-quality oxalic acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
@@ -71,7 +72,7 @@ SinoPeakChem is at the forefront of providing high-quality oxalic acid, produced
 **[Discover Our Sustainable Production Practices →](/en/about-us)**  **[Contact Our Innovation Team →](/en/contact)**
 
 📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References
