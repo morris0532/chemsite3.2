@@ -37,11 +37,6 @@ La posición de China como principal productor mundial de ácido oxálico la con
 *   **Facilitación Comercial**: El acuerdo del Acuerdo Integral y Progresivo de Asociación Transpacífico (RCEP), que involucra a China y muchas naciones de la ASEAN, ofrece beneficios arancelarios significativos y procedimientos aduaneros simplificados. Esto reduce los costos de importación y facilita la logística comercial para compradores de ácido oxálico en la región [7].
 *   **Ecosistema de Exportación Maduro**: Los proveedores chinos cuentan con una infraestructura de exportación bien establecida, incluidos agentes de carga experimentados, instalaciones portuarias robustas y soporte documental completo, facilitando transacciones internacionales fluidas.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **¿Enviando ácido oxálico al Sudeste Asiático?** SinoPeakChem tiene más de 10 años de experiencia exportando a países de la ASEAN. Nos encargamos de toda la documentación y cumplimiento, asegurando un proceso de importación sin complicaciones para usted.  
-**[Obtenga una cotización para su país →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Proceso de Importación y Regulaciones por País
 
 Navegar las regulaciones de importación de productos químicos puede ser complejo, ya que los requisitos varían considerablemente en los países del Sudeste Asiático. Un proveedor confiable ayudará a preparar la documentación necesaria y a garantizar el cumplimiento.
@@ -120,15 +115,15 @@ SinoPeakChem es un fabricante y exportador líder chino de ácido oxálico, con 
 Para empresas que buscan un proveedor confiable y experimentado de ácido oxálico en el Sudeste Asiático, SinoPeakChem ofrece una experiencia de adquisición fluida y eficiente. Nuestra dedicación a la calidad, cumplimiento y atención al cliente asegura que reciba el mejor producto y soporte para sus necesidades industriales.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **Proveedor Confiable de Ácido Oxálico para el Sudeste Asiático**
 
-SinoPeakChem entrega a Tailandia, Vietnam, Indonesia, Filipinas y Malasia.  
-✅ Pureza 99.6%  ✅ Precios competitivos  ✅ Entrega rápida  ✅ Soporte local de cumplimiento
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Obtenga Cotización Gratis →](/en/contact)**  **[Solicite Muestra →](/en/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Email: sales@sinopeakchem.com  
-📱 WhatsApp: +86-XXX-XXXX-XXXX  
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

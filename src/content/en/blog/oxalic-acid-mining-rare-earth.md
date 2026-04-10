@@ -43,12 +43,6 @@ This precipitation is highly efficient, allowing for high recovery rates of REEs
 *   **Cost-Effectiveness**: Can reduce overall processing costs by simplifying separation steps and improving recovery yields.
 *   **Reduced Radioactivity**: Effective in separating REEs from radioactive elements like thorium, contributing to safer processing.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Enhance your rare earth element processing with high-purity oxalic acid.**
-SinoPeakChem provides specialized oxalic acid solutions tailored for the demanding requirements of hydrometallurgical applications in mining.
-**[Explore our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Case Study: Oxalic Acid in Monazite Processing
 
 In the processing of monazite sands, a common source of LREEs, a hydrometallurgical plant implemented an oxalic acid precipitation step after initial leaching. This resulted in a significant improvement in the separation of REEs from thorium and other impurities. The subsequent calcination of the rare earth oxalates produced high-grade rare earth oxides with purities exceeding 99.5%, demonstrating the effectiveness of oxalic acid in industrial-scale REE recovery.
@@ -62,13 +56,15 @@ While oxalic acid offers environmental advantages, proper management of its use 
 Oxalic acid is an indispensable reagent in the modern mining industry, particularly for the efficient and environmentally responsible extraction and purification of rare earth elements. Its ability to selectively precipitate REEs from complex solutions, coupled with its role in producing high-purity oxides, underscores its importance. As the demand for REEs continues to grow, the strategic application of oxalic acid will remain a cornerstone of sustainable and advanced hydrometallurgical processes. SinoPeakChem is committed to providing the high-quality oxalic acid necessary to meet these industrial challenges.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Partner for Advanced Chemical Solutions**
 
-We supply a comprehensive range of industrial chemicals, including high-purity oxalic acid, to meet your specific application requirements.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

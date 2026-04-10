@@ -48,6 +48,18 @@ Pour les entreprises en Afrique du Sud, en Égypte, au Nigeria et sur l'ensemble
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Références
 
 [1] "Le Rôle de l'Acide Oxalique dans les Processus Hydrométallurgiques pour les Éléments de Terres Rares." *Journal d'Ingénierie des Minéraux*, 2023.

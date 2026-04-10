@@ -54,11 +54,6 @@ La acidez moderada del ácido oxálico, sus propiedades reductor as y capacidad 
 *   **Extracción de tierras raras**: Utilizado en procesos hidrometalúrgicos para la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles con estos metales [6] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
 *   **Apicultura**: Usado como tratamiento contra ácaros Varroa en colmenas.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **¿Necesita ácido oxálico de alta pureza para su aplicación específica?** SinoPeakChem ofrece diversos grados de ácido oxálico, asegurando calidad y consistencia para eliminación de óxido, tratamiento de metales y más.  
-**[Solicite una muestra y cotización gratis →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Aplicaciones del Ácido Sulfúrico
 
 El ácido sulfúrico, a menudo llamado  
@@ -117,14 +112,15 @@ El ácido oxálico y el ácido sulfúrico, pese a ser ambos ácidos, cumplen pro
 Entender estas diferencias es fundamental para un manejo seguro, aplicación eficaz y gestión ambiental responsable. Al elegir entre ambos, considere la reacción química específica requerida, el material a tratar y las precauciones de seguridad necesarias. SinoPeakChem provee ácido oxálico de alta calidad para diversas necesidades industriales, asegurando que disponga del químico adecuado para su aplicación.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧪 **¿Eligiendo el ácido adecuado para sus necesidades industriales?**
 
-SinoPeakChem ofrece ácido oxálico premium, perfecto para eliminación de óxido, limpieza de metales y más. 
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Conozca más sobre nuestros productos de ácido oxálico →](/en/products/oxalic-acid)**  **[Contáctenos para soporte técnico →](/en/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Email: sales@sinopeakchem.com  
-📱 WhatsApp: +86-XXX-XXXX-XXXX  
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

@@ -107,6 +107,18 @@ Oxalic acid is a powerful yet manageable solution for rust removal and metal cle
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### References
 
 [1] "Oxalic Acid." *Wikipedia*, Wikimedia Foundation, en.wikipedia.org/wiki/Oxalic_acid.

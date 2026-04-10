@@ -60,12 +60,6 @@ Follow these steps carefully to dissolve oxalic acid:
 *   **Patience**: Allow sufficient time for the crystals to fully dissolve. Rushing the process can lead to an uneven concentration.
 *   **Test pH**: For critical applications, use pH paper or a pH meter to verify the acidity of your solution.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Need high-quality Oxalic Acid for your industrial processes?**
-SinoPeakChem provides premium-grade oxalic acid, ensuring consistent purity and performance for all your applications.
-**[Explore Our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Common Mistakes to Avoid
 
 *   **Adding Water to Acid**: Always add oxalic acid to water, not water to oxalic acid. This prevents potential splashing and heat generation.
@@ -78,13 +72,15 @@ SinoPeakChem provides premium-grade oxalic acid, ensuring consistent purity and 
 Properly dissolving oxalic acid is a fundamental skill for anyone working with this versatile chemical. By following the step-by-step instructions and adhering to safety precautions, you can prepare oxalic acid solutions safely and effectively for a wide range of industrial and household uses. Always remember to prioritize safety, use appropriate materials, and store your solutions correctly. With this guide, you are well-equipped to handle oxalic acid with confidence.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Trusted Partner for Industrial Chemicals**
 
-From high-purity oxalic acid to a wide range of industrial chemicals, we ensure quality and reliability.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

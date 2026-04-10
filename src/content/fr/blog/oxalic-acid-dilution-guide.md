@@ -106,6 +106,18 @@ Diluer l'acide oxalique en toute sécurité et avec précision est primordial po
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Références
 
 [1] "Fiche de Données de Sécurité de l'Acide Oxalique." *Sigma-Aldrich*, www.sigmaaldrich.com/US/en/sds/sial/o10003.

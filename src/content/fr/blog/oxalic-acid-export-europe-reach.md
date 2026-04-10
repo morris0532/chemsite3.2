@@ -48,6 +48,18 @@ Pour les entreprises européennes à la recherche d'un fournisseur d'acide oxali
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Références
 
 [1] "Règlement REACH : Un Guide pour les Importateurs de Produits Chimiques." *Publication de l'Agence Européenne des Produits Chimiques (ECHA)*, 2024.

@@ -48,14 +48,6 @@ La surveillance pendant la fabrication assure la cohérence et identifie les éc
 *   **Efficacité de la Filtration** : Vérifier l'efficacité des systèmes de filtration pour éliminer les impuretés.
 *   **Contrôle de la Cristallisation** : Surveiller la taille et la morphologie des cristaux pour assurer les propriétés physiques souhaitées.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Besoin de vérifier la pureté de votre acide oxalique ?**
-
-SinoPeakChem propose une gamme complète d'acide oxalique de haute pureté, soutenue par un contrôle qualité rigoureux et des certificats d'analyse détaillés. Collaborez avec nous pour des solutions chimiques fiables.
-
-**[Explorez nos Produits d'Acide Oxalique →](/fr/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### 3. Analyse du Produit Final
 
 Des tests rigoureux du produit fini sont essentiels avant l'emballage et la distribution.
@@ -80,13 +72,15 @@ Un emballage et un étiquetage appropriés sont essentiels pour la sécurité, l
 *   **Symboles Réglementaires** : Confirmer la présence de tous les symboles réglementaires requis (par exemple, numéro UN, nom d'expédition approprié).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ **Assurez-vous que votre acide oxalique répond aux normes mondiales.**
 
-L'engagement de SinoPeakChem envers la qualité signifie que chaque lot d'acide oxalique subit des tests rigoureux. Téléchargez notre échantillon de CoA ou contactez-nous pour des spécifications détaillées.
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
 
-**[Demandez un Échantillon →](/fr/contact)**  **[Contactez-nous pour les Spécifications →](/fr/contact)**
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
 
-📧 E-mail : sales@sinopeakchem.com
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références

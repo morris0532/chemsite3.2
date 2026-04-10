@@ -103,3 +103,15 @@ Choosing the right [oxalic acid supplier in China](https://www.sinopeakchem.com/
 
 **Partner with a trusted Chinese manufacturer — 10+ years of oxalic acid export experience.**
 **[Get Your Quote Now →](https://www.sinopeakchem.com/en/products/oxalic-acid)**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

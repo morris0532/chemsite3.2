@@ -32,3 +32,15 @@ L'expédition internationale de produits chimiques nécessite des connaissances 
 
 ## Comment Sinopeakchem vous aide
 Nous gérons l'ensemble du processus logistique, de l'usine au port, en veillant à ce que toutes les réglementations soient respectées et que votre cargaison arrive en toute sécurité. Sinopeakchem fournit un support d'expédition complet pour assurer une livraison fluide dans le monde entier.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

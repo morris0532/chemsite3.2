@@ -86,6 +86,18 @@ Elegir el proveedor correcto para ácido oxálico a granel es crucial para sus o
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de cadena de suministro química!
+
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo cadena de suministro química, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
+
+[Descubra nuestras prácticas de producción sostenible →](/es/contact) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Referencias
 
 [1] "Grados y Especificaciones del Ácido Oxálico." *Chemical Industry Journal*, 2023.  

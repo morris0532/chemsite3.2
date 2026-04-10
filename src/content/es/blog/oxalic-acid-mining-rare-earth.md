@@ -43,12 +43,6 @@ Esta precipitación es altamente eficiente, lo que permite altas tasas de recupe
 *   **Rentabilidad**: Puede reducir los costos generales de procesamiento al simplificar los pasos de separación y mejorar los rendimientos de recuperación.
 *   **Radiactividad Reducida**: Eficaz para separar los ETR de elementos radiactivos como el torio, lo que contribuye a un procesamiento más seguro.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Mejore su procesamiento de elementos de tierras raras con ácido oxálico de alta pureza.**
-SinoPeakChem ofrece soluciones especializadas de ácido oxálico adaptadas a los exigentes requisitos de las aplicaciones hidrometalúrgicas en la minería.
-**[Explore nuestros Productos de Ácido Oxálico →](/es/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Caso de Estudio: Ácido Oxálico en el Procesamiento de Monacita
 
 En el procesamiento de arenas de monacita, una fuente común de ETRL, una planta hidrometalúrgica implementó un paso de precipitación con ácido oxálico después de la lixiviación inicial. Esto resultó en una mejora significativa en la separación de los ETR del torio y otras impurezas. La calcinación posterior de los oxalatos de tierras raras produjo óxidos de tierras raras de alta calidad con purezas superiores al 99,5%, lo que demuestra la eficacia del ácido oxálico en la recuperación de ETR a escala industrial.
@@ -62,13 +56,15 @@ Si bien el ácido oxálico ofrece ventajas ambientales, una gestión adecuada de
 El ácido oxálico es un reactivo indispensable en la industria minera moderna, particularmente para la extracción y purificación eficiente y ambientalmente responsable de elementos de tierras raras. Su capacidad para precipitar selectivamente los ETR de soluciones complejas, junto con su papel en la producción de óxidos de alta pureza, subraya su importancia. A medida que la demanda de ETR continúa creciendo, la aplicación estratégica del ácido oxálico seguirá siendo una piedra angular de los procesos hidrometalúrgicos avanzados y sostenibles. SinoPeakChem se compromete a proporcionar el ácido oxálico de alta calidad necesario para afrontar estos desafíos industriales.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Su Socio para Soluciones Químicas Avanzadas**
 
-Suministramos una amplia gama de productos químicos industriales, incluido ácido oxálico de alta pureza, para satisfacer sus requisitos de aplicación específicos.
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Obtenga una Cotización Gratuita Hoy →](/es/contact)**  **[Solicite una Muestra →](/es/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Correo electrónico: sales@sinopeakchem.com
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

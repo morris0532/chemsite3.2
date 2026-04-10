@@ -74,11 +74,6 @@ Las propiedades reductoras y quelantes del ácido oxálico se aprovechan en apli
 *   **Industria textil**: Utilizado como mordiente en el teñido e impresión textil, y como agente blanqueador [7] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
 *   **Extracción de tierras raras**: Utilizado en la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles [8] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-✨ **¿Busca ácido oxálico de alta calidad para aplicaciones industriales o de limpieza?** SinoPeakChem ofrece ácido oxálico premium con pureza consistente para una efectiva eliminación de óxido, tratamiento de metales y más.  
-**[Obtenga una Cotización y Muestra Gratis Hoy →](/en/contact)**  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Aplicaciones del Ácido Tartárico
 
 El agradable sabor ácido y la estabilidad química del ácido tartárico lo hacen valioso en las industrias alimentaria y farmacéutica:
@@ -131,13 +126,16 @@ Aunque el ácido oxálico y el ácido tartárico son ácidos dicarboxílicos org
 
 La elección entre estos dos ácidos depende completamente de la aplicación prevista. Para procesos industriales que requieren fuerte acción quelante o reductora, el ácido oxálico es la opción. Para aplicaciones alimentarias, ajuste de pH o como agente leudante, se prefiere el ácido tartárico. SinoPeakChem se especializa en proveer ácido oxálico de alta calidad para diversas necesidades industriales, garantizando un producto que cumple con estrictos estándares de calidad para sus aplicaciones específicas.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-💡 **¿Necesita un proveedor confiable de Ácido Oxálico o tiene preguntas sobre sus aplicaciones?** SinoPeakChem es su socio de confianza para ácido oxálico de alta pureza, ofreciendo soporte experto y precios competitivos.  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**[Contáctenos para una Consulta o Cotización →](/en/contact)**
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-📧 Email: sales@sinopeakchem.com  
-📱 WhatsApp: +86-XXX-XXXX-XXXX  
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
+
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

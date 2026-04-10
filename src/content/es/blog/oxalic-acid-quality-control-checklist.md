@@ -48,14 +48,6 @@ El monitoreo durante la fabricación asegura la consistencia e identifica desvia
 *   **Eficiencia de Filtración**: Verificar la eficacia de los sistemas de filtración para eliminar impurezas.
 *   **Control de Cristalización**: Monitorear el tamaño y la morfología de los cristales para asegurar las propiedades físicas deseadas.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **¿Necesita verificar la pureza de su Ácido Oxálico?**
-
-SinoPeakChem ofrece una gama completa de ácido oxálico de alta pureza, respaldada por un riguroso control de calidad y Certificados de Análisis detallados. Asóciese con nosotros para soluciones químicas confiables.
-
-**[Explore nuestros Productos de Ácido Oxálico →](/es/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### 3. Análisis del Producto Final
 
 Las pruebas rigurosas del producto terminado son esenciales antes del envasado y la distribución.
@@ -80,13 +72,15 @@ El embalaje y etiquetado adecuados son críticos para la seguridad, el manejo y 
 *   **Símbolos Regulatorios**: Confirmar la presencia de todos los símbolos regulatorios requeridos (por ejemplo, número UN, nombre de envío adecuado).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ **Asegúrese de que su Ácido Oxálico cumpla con los estándares globales.**
 
-El compromiso de SinoPeakChem con la calidad significa que cada lote de ácido oxálico se somete a pruebas rigurosas. Descargue nuestra muestra de CoA o contáctenos para especificaciones detalladas.
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Solicite una Muestra →](/es/contact)**  **[Contáctenos para Especificaciones →](/es/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Correo electrónico: sales@sinopeakchem.com
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

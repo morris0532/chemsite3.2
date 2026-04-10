@@ -49,12 +49,6 @@ La utilidad del ácido oxálico en la industria papelera se extiende más allá 
 *   **Punto de Adición**: Generalmente se añade en la etapa de pretratamiento antes del blanqueo con peróxido o en combinación con otros agentes quelantes.
 *   **Compatibilidad**: Asegúrese de la compatibilidad con otros productos químicos utilizados en el proceso de fabricación de papel.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Optimice su producción de papel con ácido oxálico de alta pureza.**
-SinoPeakChem ofrece soluciones de ácido oxálico de primera calidad que mejoran la eficiencia del blanqueo y la calidad del papel, al tiempo que apoyan la sostenibilidad ambiental.
-**[Explore nuestros Productos de Ácido Oxálico →](/es/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Caso de Estudio: Ácido Oxálico en el Blanqueo ECF
 
 En una secuencia de blanqueo libre de cloro elemental (ECF), una fábrica que producía pulpa kraft blanqueada de madera dura implementó ácido oxálico como agente quelante antes de la etapa de peróxido de hidrógeno. Los resultados mostraron una reducción significativa del contenido de manganeso en la pulpa, lo que llevó a un aumento de 2 puntos en el brillo final de la pulpa y una reducción del 15% en el consumo de peróxido de hidrógeno, demostrando beneficios tanto ambientales como económicos.
@@ -64,13 +58,15 @@ En una secuencia de blanqueo libre de cloro elemental (ECF), una fábrica que pr
 El ácido oxálico es un producto químico valioso y versátil en la industria papelera moderna. Sus potentes propiedades quelantes y su acidez suave contribuyen significativamente a mejorar la eficiencia del blanqueo de la pulpa, mejorar la calidad del papel y promover prácticas de fabricación ambientalmente responsables. Desde la prevención de la degradación catalizada por metales hasta la ayuda en el ajuste del pH y la eliminación de incrustaciones, el ácido oxálico desempeña un papel multifacético en la optimización de los procesos de producción de papel. Para un suministro confiable de ácido oxálico de alta calidad, SinoPeakChem es su socio de confianza.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Su Socio para Soluciones Químicas Avanzadas**
 
-Suministramos una amplia gama de productos químicos industriales, incluido ácido oxálico de alta pureza, para satisfacer sus requisitos de aplicación específicos.
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Obtenga una Cotización Gratuita Hoy →](/es/contact)**  **[Solicite una Muestra →](/es/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Correo electrónico: sales@sinopeakchem.com
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

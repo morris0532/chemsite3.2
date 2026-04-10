@@ -89,12 +89,6 @@ This method quantifies the amount of insoluble impurities present in the oxalic 
 **Advantages**: Simple and effective for insoluble impurities.
 **Disadvantages**: Does not identify the nature of the insoluble matter.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Ensure the highest quality for your industrial processes.**
-SinoPeakChem provides Certificates of Analysis (CoA) for all our oxalic acid products, guaranteeing purity and compliance.
-**[Request a Certificate of Analysis →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Quality Control and Best Practices
 
 *   **Regular Testing**: Implement a routine testing schedule for incoming raw materials and finished products.
@@ -107,13 +101,15 @@ SinoPeakChem provides Certificates of Analysis (CoA) for all our oxalic acid pro
 Testing the purity of oxalic acid is a critical step in quality assurance for any industrial application. By employing methods such as titration with potassium permanganate, melting point determination, spectroscopic analysis, and gravimetric analysis, manufacturers and users can ensure that their oxalic acid meets the required specifications. Adhering to rigorous quality control practices not only guarantees optimal performance and safety but also contributes to the overall reliability and efficiency of industrial processes. For high-purity oxalic acid backed by comprehensive quality control, trust SinoPeakChem.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Partner for High-Purity Oxalic Acid**
 
-We offer various grades of oxalic acid, rigorously tested to meet international purity standards.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

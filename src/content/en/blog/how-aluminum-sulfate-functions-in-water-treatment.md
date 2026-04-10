@@ -32,3 +32,15 @@ Compared to alternative flocculants, such as iron salts, aluminum sulfate presen
 ## Safety and Storage Guidelines
 
 It is imperative to avoid co-storage of aluminum sulfate with strong bases or strong oxidizing agents to prevent potentially hazardous exothermic reactions. The storage environment must be maintained in a dry condition and at a temperature below 50°C to prevent moisture absorption and caking of the product. During handling, appropriate personal protective equipment, including gloves and safety goggles, should be worn to prevent dust inhalation or skin contact. In the event of accidental eye contact, immediately flush the affected area with copious amounts of clean water and seek prompt medical attention. During transportation, stringent precautions must be taken to protect the product from moisture and physical damage, ensuring the integrity of its packaging.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Aluminum Sulfate Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Aluminum Sulfate, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/aluminum-sulfate) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -91,6 +91,18 @@ Oxalic acid is a valuable tool in the beekeeper's arsenal for managing varroa mi
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### References
 
 [1] "Oxalic Acid for Varroa Mite Control." *Bee Health.org*, www.beehealth.org/varroa-mite-control/oxalic-acid/.

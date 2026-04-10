@@ -38,12 +38,6 @@ Une importation réussie repose sur une préparation méticuleuse et le respect 
 *   **TSCA (Toxic Substances Control Act)** : Pour les importations aux États-Unis, assurez-vous de la conformité avec les réglementations TSCA, y compris la notification appropriée et l'inscription à l'inventaire.
 *   **Lois Locales sur le Contrôle des Produits Chimiques** : Consultez toujours les réglementations locales de votre pays de destination, car celles-ci peuvent varier considérablement.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Simplifiez votre processus d'importation d'acide oxalique.**
-SinoPeakChem fournit de l'acide oxalique de haute qualité avec une documentation complète, aidant les primo-importateurs à naviguer dans les réglementations complexes.
-**[Explorez nos Produits d'Acide Oxalique →](/fr/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Bonnes Pratiques pour les Primo-Importateurs
 
 Pour minimiser les risques et assurer l'efficacité, considérez ces bonnes pratiques :
@@ -65,13 +59,15 @@ Pour minimiser les risques et assurer l'efficacité, considérez ces bonnes prat
 *   **Manque de Communication** : Maintenez des lignes de communication ouvertes avec votre fournisseur, votre courtier et vos partenaires logistiques.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌍 **Approvisionnement Mondial Facilité avec SinoPeakChem**
 
-Nous nous engageons à fournir un approvisionnement fiable et des conseils d'experts pour vos besoins d'importation d'acide oxalique. De la qualité des produits au soutien réglementaire, nous avons ce qu'il vous faut.
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
 
-**[Obtenez un Devis Gratuit Aujourd'hui →](/fr/contact)**  **[Demandez un Échantillon →](/fr/contact)**
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
 
-📧 E-mail : sales@sinopeakchem.com
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références

@@ -103,3 +103,15 @@ Choisir le bon [fournisseur d'acide oxalique en Chine](https://www.sinopeakchem.
 
 **Associez-vous à un fabricant chinois de confiance — plus de 10 ans d'expérience dans l'exportation d'acide oxalique.**
 **[Obtenez votre Devis Maintenant →](https://www.sinopeakchem.com/fr/products/oxalic-acid)**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

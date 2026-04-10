@@ -61,14 +61,15 @@ Las perspectivas para el mercado del ácido oxálico en 2026 son positivas, con 
 El ácido oxálico es un químico vital con un futuro prometedor. Su papel indispensable en sectores emergentes como la producción de baterías de VE, junto con sus aplicaciones establecidas en textiles, tratamiento de metales y extracción de tierras raras, lo posiciona para un crecimiento sostenido del mercado en 2026. Empresas como Sinopeakchem están comprometidas a satisfacer esta demanda proporcionando ácido oxálico de alta calidad, apoyando los avances industriales a nivel mundial.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📈 **¡Manténgase a la vanguardia con ácido oxálico de alta calidad!**
 
-SinoPeakChem es su socio confiable para ácido oxálico de primera calidad, apoyando sus innovaciones en baterías de VE, textiles sostenibles y fabricación avanzada.
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Explore nuestros productos de ácido oxálico →](/es/products/oxalic-acid)**  **[Obtenga una cotización personalizada →](/es/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Correo electrónico: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

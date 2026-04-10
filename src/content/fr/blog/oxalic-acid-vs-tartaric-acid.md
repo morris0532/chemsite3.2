@@ -74,11 +74,6 @@ Les propriétés réductrices et chélatantes de l'acide oxalique sont exploité
 *   **Industrie textile** : Utilisé comme mordant dans la teinture et l'impression des textiles, et comme agent de blanchiment [7] (voir aussi [Acide Oxalique pour la Teinture et l'Impression Textile](/fr/blog/oxalic-acid-textile-dyeing)).
 *   **Extraction d'éléments de terres rares** : Utilisé dans la séparation et la purification des éléments de terres rares en raison de sa capacité à former des oxalates insolubles [8] (voir aussi [Acide Oxalique pour l'Extraction des Terres Rares](/fr/blog/oxalic-acid-rare-earth-extraction)).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Vous recherchez de l'acide oxalique de haute qualité pour des applications industrielles ou de nettoyage ?** SinoPeakChem fournit de l'acide oxalique de première qualité avec une pureté constante pour une élimination efficace de la rouille, le traitement des métaux, et bien plus encore. 
-**[Obtenez un devis et un échantillon gratuits dès aujourd'hui →](/fr/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Applications de l'Acide Tartrique
 
 Le goût aigre agréable et la stabilité chimique de l'acide tartrique le rendent précieux dans les industries alimentaire et pharmaceutique :
@@ -132,12 +127,15 @@ Bien que l'acide oxalique et l'acide tartrique soient tous deux des acides dicar
 Le choix entre ces deux acides dépend entièrement de l'application prévue. Pour les processus industriels nécessitant une forte action chélatante ou réductrice, l'acide oxalique est le choix. Pour les applications liées à l'alimentation, l'ajustement du pH ou comme agent levant, l'acide tartrique est préféré. SinoPeakChem est spécialisé dans la fourniture d'acide oxalique de haute qualité pour divers besoins industriels, vous assurant de recevoir un produit qui répond aux normes de qualité strictes pour vos applications spécifiques.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Besoin d'un fournisseur fiable d'acide oxalique ou avez des questions sur ses applications ?** SinoPeakChem est votre partenaire de confiance pour l'acide oxalique de haute pureté, offrant un support expert et des prix compétitifs. 
 
-**[Contactez-nous pour une consultation ou un devis →](/fr/contact)**
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références

@@ -49,12 +49,6 @@ L'utilité de l'acide oxalique dans l'industrie papetière s'étend au-delà du 
 *   **Point d'Ajout** : Il est généralement ajouté au stade de prétraitement avant le blanchiment au peroxyde ou en conjonction avec d'autres agents chélatants.
 *   **Compatibilité** : Assurer la compatibilité avec les autres produits chimiques utilisés dans le processus de fabrication du papier.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Optimisez votre production de papier avec de l'acide oxalique de haute pureté.**
-SinoPeakChem propose des solutions d'acide oxalique de première qualité qui améliorent l'efficacité du blanchiment et la qualité du papier tout en favorisant la durabilité environnementale.
-**[Explorez nos Produits d'Acide Oxalique →](/fr/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Étude de Cas : Acide Oxalique dans le Blanchiment ECF
 
 Dans une séquence de blanchiment sans chlore élémentaire (ECF), une usine produisant de la pâte kraft de bois dur blanchie a mis en œuvre de l'acide oxalique comme agent chélatant avant l'étape du peroxyde d'hydrogène. Les résultats ont montré une réduction significative de la teneur en manganèse dans la pâte, entraînant une augmentation de 2 points de la luminosité finale de la pâte et une réduction de 15 % de la consommation de peroxyde d'hydrogène, démontrant à la fois des avantages environnementaux et économiques.
@@ -64,13 +58,15 @@ Dans une séquence de blanchiment sans chlore élémentaire (ECF), une usine pro
 L'acide oxalique est un produit chimique précieux et polyvalent dans l'industrie papetière moderne. Ses puissantes propriétés chélatantes et son acidité douce contribuent de manière significative à améliorer l'efficacité du blanchiment de la pâte, à améliorer la qualité du papier et à promouvoir des pratiques de fabrication respectueuses de l'environnement. De la prévention de la dégradation catalysée par les métaux à l'aide à l'ajustement du pH et à l'élimination du tartre, l'acide oxalique joue un rôle multifacette dans l'optimisation des processus de production de papier. Pour un approvisionnement fiable en acide oxalique de haute qualité, SinoPeakChem est votre partenaire de confiance.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem : Votre Partenaire pour des Solutions Chimiques Avancées**
 
-Nous fournissons une gamme complète de produits chimiques industriels, y compris de l'acide oxalique de haute pureté, pour répondre à vos besoins d'application spécifiques.
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
 
-**[Obtenez un Devis Gratuit Aujourd'hui →](/fr/contact)**  **[Demandez un Échantillon →](/fr/contact)**
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
 
-📧 E-mail : sales@sinopeakchem.com
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références

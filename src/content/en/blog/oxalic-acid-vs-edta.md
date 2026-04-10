@@ -53,12 +53,6 @@ EDTA is renowned for its broad-spectrum chelation capabilities and exceptional s
 
 When comparing the two agents directly for specific tasks, clear preferences emerge. For rust removal, oxalic acid is superior due to its dual action of reducing insoluble ferric iron to soluble ferrous iron while simultaneously chelating it. For general water treatment requiring the management of diverse metal ions, EDTA's broad-spectrum efficacy makes it the better choice. However, in scenarios with stringent environmental regulations, oxalic acid is strongly preferred due to its rapid biodegradability. Conversely, for food and pharmaceutical applications where extreme stability and specific safety profiles are required, EDTA remains the standard.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Considering oxalic acid as a cost-effective, eco-friendly chelating agent?**
-SinoPeakChem offers 99.6% high-purity industrial oxalic acid for all your chelation needs.
-**[Get Technical Data & Quote →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Environmental Impact
 
 The environmental footprint of chemical processes is under increasing scrutiny globally. Oxalic acid is a naturally occurring organic acid that is readily biodegradable. It breaks down into carbon dioxide and water, posing minimal long-term environmental risks. This makes it an attractive option for industries striving to improve their sustainability profiles.
@@ -79,13 +73,15 @@ The decision between oxalic acid and EDTA should be guided by the specific requi
 *   **Choose EDTA if:** You need to chelate a wide variety of different metal ions simultaneously, extreme complex stability is required (e.g., in food or pharmaceuticals), or you are formulating broad-spectrum detergents for hard water environments.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **Oxalic Acid for Industrial Applications**
 
-High purity ✅ Eco-friendly ✅ Competitive pricing.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get Free Quote →](/en/contact)**  **[Request Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

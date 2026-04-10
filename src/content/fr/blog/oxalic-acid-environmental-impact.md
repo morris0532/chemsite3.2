@@ -56,6 +56,18 @@ L'acide oxalique, un composé organique omniprésent, présente un profil enviro
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Références
 
 [1] "Acide Oxalique : Présence, Métabolisme et Rôle dans les Interactions Plante-Microbe." *Plant Physiology and Biochemistry*, vol. 121, 2017, pp. 12-22.

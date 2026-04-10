@@ -54,11 +54,6 @@ Oxalic acid's mild acidity, reducing properties, and chelating ability make it s
 *   **Rare Earth Element Extraction**: Used in the hydrometallurgical process for the separation and purification of rare earth elements due to its ability to form insoluble oxalates with these metals [6] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
 *   **Beekeeping**: Used as a treatment against Varroa mites in beehives.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Need high-purity Oxalic Acid for your specific application?** SinoPeakChem offers various grades of oxalic acid, ensuring quality and consistency for rust removal, metal treatment, and more. 
-**[Request a Free Sample & Quote →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Applications of Sulfuric Acid
 
 Sulfuric acid, often called the 
@@ -117,14 +112,15 @@ Oxalic acid and sulfuric acid, despite both being acids, serve vastly different 
 Understanding these differences is paramount for safe handling, effective application, and responsible environmental management. When choosing between the two, consider the specific chemical reaction required, the material being treated, and the necessary safety precautions. SinoPeakChem provides high-quality oxalic acid for various industrial needs, ensuring you have the right chemical for your application.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧪 **Choosing the right acid for your industrial needs?**
 
-SinoPeakChem offers premium oxalic acid, perfect for rust removal, metal cleaning, and more. 
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Learn More About Our Oxalic Acid Products →](/en/products/oxalic-acid)**  **[Contact Us for Technical Support →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

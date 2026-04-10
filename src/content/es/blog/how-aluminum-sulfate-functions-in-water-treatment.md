@@ -32,3 +32,15 @@ En comparación con otros floculantes, como las sales de hierro, el sulfato de a
 ## Guías de Seguridad y Almacenamiento
 
 Es imprescindible evitar el almacenamiento conjunto de sulfato de aluminio con bases fuertes o agentes oxidantes fuertes para prevenir reacciones exotérmicas potencialmente peligrosas. El ambiente de almacenamiento debe mantenerse en condición seca y a una temperatura inferior a 50°C para prevenir la absorción de humedad y la formación de grumos en el producto. Durante la manipulación, se debe usar el equipo de protección personal apropiado, incluyendo guantes y gafas de seguridad, para evitar la inhalación del polvo o el contacto con la piel. En caso de contacto accidental con los ojos, enjuagar inmediatamente la zona afectada con abundante agua limpia y buscar atención médica inmediata. Durante el transporte, se deben tomar precauciones estrictas para proteger el producto de la humedad y daños físicos, asegurando la integridad de su embalaje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de sulfato de aluminio!
+
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo sulfato de aluminio, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
+
+[Descubra nuestras prácticas de producción sostenible →](/es/products/aluminum-sulfate) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

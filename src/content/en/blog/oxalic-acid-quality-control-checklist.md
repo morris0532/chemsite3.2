@@ -48,14 +48,6 @@ Monitoring during manufacturing ensures consistency and identifies deviations ea
 *   **Filtration Efficiency**: Verify the effectiveness of filtration systems to remove impurities.
 *   **Crystallization Control**: Monitor crystal size and morphology to ensure desired physical properties.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Need to verify your Oxalic Acid's purity?**
-
-SinoPeakChem offers a comprehensive range of high-purity oxalic acid, backed by stringent quality control and detailed Certificates of Analysis. Partner with us for reliable chemical solutions.
-
-**[Explore Our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### 3. Final Product Analysis
 
 Rigorous testing of the finished product is essential before packaging and distribution.
@@ -79,16 +71,6 @@ Proper packaging and labeling are critical for safety, handling, and regulatory 
 *   **Labeling Accuracy**: Verify all labels contain correct product name, chemical formula, hazard symbols (GHS pictograms), safety warnings, net weight, batch number, manufacturing date, expiry date, and supplier information.
 *   **Regulatory Symbols**: Confirm presence of all required regulatory symbols (e.g., UN number, proper shipping name).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ **Ensure your Oxalic Acid meets global standards.**
-
-SinoPeakChem's commitment to quality means every batch of oxalic acid undergoes rigorous testing. Download our sample CoA or contact us for detailed specifications.
-
-**[Request a Sample →](/en/contact)**  **[Contact Us for Specifications →](/en/contact)**
-
-📧 Email: sales@sinopeakchem.com
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### 5. Documentation and Record Keeping
 
 Comprehensive records are vital for traceability, audits, and continuous improvement.
@@ -102,6 +84,18 @@ Comprehensive records are vital for traceability, audits, and continuous improve
 ## Conclusion
 
 Implementing a thorough quality control checklist for oxalic acid is indispensable for any entity involved in its production, distribution, or use. By adhering to these stringent measures, stakeholders can ensure product purity, operational safety, and unwavering compliance with the complex web of international chemical regulations. SinoPeakChem is dedicated to providing oxalic acid that consistently meets and exceeds these rigorous quality standards, offering peace of mind to our global partners.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References
 

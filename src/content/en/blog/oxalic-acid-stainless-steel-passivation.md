@@ -54,12 +54,6 @@ The general process for oxalic acid passivation involves several key steps:
 5.  **Drying**: Dry the component completely using clean, dry air or a suitable drying method to prevent water spots and promote passive film formation.
 6.  **Testing**: Conduct passivation tests (e.g., water break test, copper sulfate test, high humidity test) to verify the effectiveness of the passive layer.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Enhance the corrosion resistance of your stainless steel components.**
-SinoPeakChem provides high-purity oxalic acid, ideal for effective and environmentally responsible passivation processes.
-**[Explore our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Oxalic Acid in Other Metal Finishing Applications
 
 Beyond passivation, oxalic acid is also utilized in other metal finishing processes:
@@ -73,13 +67,15 @@ Beyond passivation, oxalic acid is also utilized in other metal finishing proces
 Oxalic acid offers a compelling alternative to traditional strong acid passivation methods for stainless steel. Its ability to effectively remove free iron and contaminants, coupled with its environmental and safety advantages, makes it an increasingly preferred choice in various industries. By understanding the technical process and adhering to best practices, manufacturers can leverage oxalic acid to achieve superior corrosion resistance and extend the service life of their stainless steel components. For reliable, high-quality oxalic acid for your metal finishing needs, SinoPeakChem is your trusted supplier.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Partner for Advanced Chemical Solutions**
 
-We supply a comprehensive range of industrial chemicals, including high-purity oxalic acid, to meet your specific application requirements.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

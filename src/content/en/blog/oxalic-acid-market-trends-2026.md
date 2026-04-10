@@ -61,14 +61,15 @@ The outlook for the oxalic acid market in 2026 is positive, with continuous inno
 Oxalic acid is a vital chemical with a promising future. Its indispensable role in emerging sectors like EV battery production, coupled with its established applications in textiles, metal treatment, and rare earth extraction, positions it for sustained market growth in 2026. Companies like Sinopeakchem are committed to meeting this demand by providing high-quality oxalic acid, supporting industrial advancements globally.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📈 **Stay ahead of the curve with high-quality Oxalic Acid!**
 
-SinoPeakChem is your reliable partner for premium oxalic acid, supporting your innovations in EV batteries, sustainable textiles, and advanced manufacturing.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Explore Our Oxalic Acid Products →](/en/products/oxalic-acid)**  **[Get a Custom Quote →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

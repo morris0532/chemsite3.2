@@ -74,11 +74,6 @@ Oxalic acid's reducing and chelating properties are leveraged in industrial and 
 *   **Textile Industry**: Used as a mordant in dyeing and printing textiles, and as a bleaching agent [7] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
 *   **Rare Earth Element Extraction**: Utilized in the separation and purification of rare earth elements due to its ability to form insoluble oxalates [8] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Seeking high-quality Oxalic Acid for industrial or cleaning applications?** SinoPeakChem provides premium oxalic acid with consistent purity for effective rust removal, metal treatment, and more. 
-**[Get a Free Quote & Sample Today →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Applications of Tartaric Acid
 
 Tartaric acid's pleasant sour taste and chemical stability make it valuable in the food and pharmaceutical industries:
@@ -133,12 +128,15 @@ While both oxalic acid and tartaric acid are organic dicarboxylic acids found in
 Choosing between these two acids depends entirely on the intended application. For industrial processes requiring strong chelating or reducing action, oxalic acid is the choice. For food-related applications, pH adjustment, or as a leavening agent, tartaric acid is preferred. SinoPeakChem specializes in providing high-quality oxalic acid for various industrial needs, ensuring you receive a product that meets stringent quality standards for your specific applications.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Need a reliable supplier for Oxalic Acid or have questions about its applications?** SinoPeakChem is your trusted partner for high-purity oxalic acid, offering expert support and competitive pricing. 
 
-**[Contact Us for a Consultation or Quote →](/en/contact)**
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

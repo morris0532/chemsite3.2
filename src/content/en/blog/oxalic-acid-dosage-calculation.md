@@ -99,12 +99,6 @@ Mass of Oxalic Acid = 12% of 3785 mL = 0.12 × 3785 g = 454.2 g
 
 **Procedure**: Dissolve 454.2 g of oxalic acid crystals in enough water to make a total volume of 3.785 liters.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Need precise concentrations for your industrial processes?**
-SinoPeakChem offers high-purity oxalic acid, ensuring consistent results for all your dosage requirements.
-**[Explore our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Safety Considerations in Dosage Calculation
 
 Accurate dosage calculation is not just about efficiency; it's also about safety. Always consider:
@@ -119,13 +113,15 @@ Accurate dosage calculation is not just about efficiency; it's also about safety
 Mastering oxalic acid dosage calculation is a critical skill for anyone working with this versatile chemical. By understanding the fundamental concepts of concentration, molarity, and dilution, and applying the correct formulas, you can ensure the safe, efficient, and effective use of oxalic acid in a multitude of applications. Always prioritize accuracy in your calculations and adhere to strict safety protocols to achieve optimal results and maintain a safe working environment. For reliable, high-purity oxalic acid, SinoPeakChem is your trusted partner.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Partner for High-Purity Industrial Chemicals**
 
-From high-purity oxalic acid to a wide range of industrial chemicals, we guarantee quality and reliability.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

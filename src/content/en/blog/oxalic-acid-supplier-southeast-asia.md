@@ -37,11 +37,6 @@ China's position as a leading global producer of oxalic acid makes it an ideal s
 *   **Trade Facilitation**: The Regional Comprehensive Economic Partnership (RCEP) agreement, involving China and many ASEAN nations, offers significant tariff benefits and streamlined customs procedures. This reduces import costs and simplifies trade logistics for oxalic acid buyers in the region [7].
 *   **Mature Export Ecosystem**: Chinese suppliers have a well-established export infrastructure, including experienced freight forwarders, robust port facilities, and comprehensive documentation support, facilitating smooth international transactions.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Shipping oxalic acid to Southeast Asia?** SinoPeakChem has 10+ years of export experience to ASEAN countries. We handle all documentation and compliance, ensuring a hassle-free import process for you. 
-**[Get a Quote for Your Country →](/en/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Import Process & Regulations by Country
 
 Navigating the import regulations for chemicals can be complex, as requirements vary significantly across Southeast Asian nations. A reliable supplier will assist in preparing the necessary documentation and ensuring compliance.
@@ -120,15 +115,15 @@ SinoPeakChem is a leading Chinese manufacturer and exporter of oxalic acid, with
 For businesses seeking a reliable and experienced oxalic acid supplier in Southeast Asia, SinoPeakChem offers a seamless and efficient procurement experience. Our dedication to quality, compliance, and customer service ensures that you receive the best product and support for your industrial needs.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **Trusted Oxalic Acid Supplier for Southeast Asia**
 
-SinoPeakChem delivers to Thailand, Vietnam, Indonesia, Philippines & Malaysia.
-✅ 99.6% purity  ✅ Competitive pricing  ✅ Fast delivery  ✅ Local compliance support
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get Free Quote →](/en/contact)**  **[Request Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

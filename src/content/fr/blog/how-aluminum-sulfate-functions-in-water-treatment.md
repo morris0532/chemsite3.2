@@ -32,3 +32,15 @@ Comparé aux floculants alternatifs, tels que les sels de fer, le sulfate d'alum
 ## Consignes de sécurité et de stockage
 
 Il est impératif d'éviter le stockage conjoint du sulfate d'aluminium avec des bases fortes ou des agents oxydants forts afin de prévenir des réactions exothermiques potentiellement dangereuses. L'environnement de stockage doit être maintenu au sec et à une température inférieure à 50°C pour éviter l'absorption d'humidité et l'agglomération du produit. Lors de la manipulation, un équipement de protection individuelle approprié, y compris des gants et des lunettes de sécurité, doit être porté pour éviter l'inhalation de poussière ou le contact cutané. En cas de contact accidentel avec les yeux, rincer immédiatement la zone affectée avec de grandes quantités d'eau propre et consulter rapidement un médecin. Pendant le transport, des précautions strictes doivent être prises pour protéger le produit de l'humidité et des dommages physiques, garantissant l'intégrité de son emballage.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en sulfate d'aluminium !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris sulfate d'aluminium, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/products/aluminum-sulfate) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

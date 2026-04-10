@@ -38,12 +38,6 @@ Successful importation hinges on meticulous preparation and adherence to regulat
 *   **TSCA (Toxic Substances Control Act)**: For imports into the United States, ensure compliance with TSCA regulations, including proper notification and inventory listing.
 *   **Local Chemical Control Laws**: Always consult local regulations in your destination country, as these can vary significantly.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Simplify Your Oxalic Acid Import Process.**
-SinoPeakChem provides high-quality oxalic acid with comprehensive documentation, assisting first-time importers in navigating complex regulations.
-**[Explore Our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Best Practices for First-Time Importers
 
 To minimize risks and ensure efficiency, consider these best practices:
@@ -64,19 +58,21 @@ To minimize risks and ensure efficiency, consider these best practices:
 *   **Ignoring Local Regulations**: What's permissible in one country may not be in another.
 *   **Lack of Communication**: Maintain open lines of communication with your supplier, broker, and logistics partners.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌍 **Global Sourcing Made Easy with SinoPeakChem**
-
-We are committed to providing reliable supply and expert guidance for your oxalic acid import needs. From product quality to regulatory support, we've got you covered.
-
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
-
-📧 Email: sales@sinopeakchem.com
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Conclusion
 
 Importing oxalic acid for the first time requires diligence, attention to detail, and a proactive approach to regulatory compliance. By understanding the essential documentation, adhering to best practices, and partnering with experienced suppliers and logistics providers, you can ensure a seamless and successful import process. SinoPeakChem is dedicated to supporting your import journey with high-quality oxalic acid and expert assistance, helping you confidently navigate the complexities of international chemical trade.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References
 

@@ -49,6 +49,18 @@ Para empresas en EE. UU., Canadá, México y en todo el continente norteamerica
 
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de cadena de suministro química!
+
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo cadena de suministro química, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
+
+[Descubra nuestras prácticas de producción sostenible →](/es/contact) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Referencias
 
 [1] "Soluciones de limpieza industrial: la eficacia del ácido oxálico en diversas aplicaciones." *Surface Treatment Technology Review*, 2021.  

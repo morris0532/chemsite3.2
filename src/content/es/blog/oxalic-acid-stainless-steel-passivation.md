@@ -54,12 +54,6 @@ El proceso general de pasivación con ácido oxálico implica varios pasos clave
 5.  **Secado**: Seque el componente completamente utilizando aire limpio y seco o un método de secado adecuado para evitar manchas de agua y promover la formación de la película pasiva.
 6.  **Pruebas**: Realice pruebas de pasivación (por ejemplo, prueba de ruptura de agua, prueba de sulfato de cobre, prueba de alta humedad) para verificar la eficacia de la capa pasiva.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Mejore la resistencia a la corrosión de sus componentes de acero inoxidable.**
-SinoPeakChem proporciona ácido oxálico de alta pureza, ideal para procesos de pasivación efectivos y ambientalmente responsables.
-**[Explore nuestros Productos de Ácido Oxálico →](/es/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Ácido Oxálico en Otras Aplicaciones de Acabado de Metales
 
 Más allá de la pasivación, el ácido oxálico también se utiliza en otros procesos de acabado de metales:
@@ -73,13 +67,15 @@ Más allá de la pasivación, el ácido oxálico también se utiliza en otros pr
 El ácido oxálico ofrece una alternativa convincente a los métodos tradicionales de pasivación con ácidos fuertes para el acero inoxidable. Su capacidad para eliminar eficazmente el hierro libre y los contaminantes, junto con sus ventajas ambientales y de seguridad, lo convierte en una opción cada vez más preferida en diversas industrias. Al comprender el proceso técnico y adherirse a las mejores prácticas, los fabricantes pueden aprovechar el ácido oxálico para lograr una resistencia a la corrosión superior y extender la vida útil de sus componentes de acero inoxidable. Para un ácido oxálico confiable y de alta calidad para sus necesidades de acabado de metales, SinoPeakChem es su proveedor de confianza.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Su Socio para Soluciones Químicas Avanzadas**
 
-Suministramos una amplia gama de productos químicos industriales, incluido ácido oxálico de alta pureza, para satisfacer sus requisitos de aplicación específicos.
+💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!
 
-**[Obtenga una Cotización Gratuita Hoy →](/es/contact)**  **[Solicite una Muestra →](/es/contact)**
+SinoPeakChem está a la vanguardia en el suministro de soluciones químicas de alta calidad, incluyendo ácido oxálico, producidos con énfasis en la sostenibilidad y la eficiencia. Únase a nosotros para sus necesidades químicas avanzadas.
 
-📧 Correo electrónico: sales@sinopeakchem.com
+[Descubra nuestras prácticas de producción sostenible →](/es/products/oxalic-acid) [Contacte a nuestro equipo de innovación →](/es/contact)
+
+📧 Correo electrónico: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Referencias

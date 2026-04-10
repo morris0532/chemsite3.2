@@ -38,3 +38,15 @@ La soude caustique (hydroxyde de sodium) est disponible en plusieurs qualités e
 
 ## Conclusion
 Que vous ayez besoin de soude caustique en écailles, en perles ou liquide, Sinopeakchem fournit des produits de haute qualité qui répondent aux normes internationales.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en soude caustique !
+
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris soude caustique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
+
+[Découvrez nos pratiques de production durable →](/fr/products/caustic-soda) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

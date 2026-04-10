@@ -49,12 +49,6 @@ Oxalic acid's utility in the paper industry extends beyond pulp bleaching:
 *   **Addition Point**: It is usually added in the pre-treatment stage before peroxide bleaching or in conjunction with other chelating agents.
 *   **Compatibility**: Ensure compatibility with other chemicals used in the paper manufacturing process.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Optimize your paper production with high-purity oxalic acid.**
-SinoPeakChem offers premium oxalic acid solutions that enhance bleaching efficiency and improve paper quality while supporting environmental sustainability.
-**[Explore our Oxalic Acid Products →](/en/products/oxalic-acid)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Case Study: Oxalic Acid in ECF Bleaching
 
 In an elemental chlorine-free (ECF) bleaching sequence, a mill producing bleached hardwood kraft pulp implemented oxalic acid as a chelating agent prior to the hydrogen peroxide stage. The results showed a significant reduction in manganese content in the pulp, leading to a 2-point increase in final pulp brightness and a 15% reduction in hydrogen peroxide consumption, demonstrating both environmental and economic benefits.
@@ -64,13 +58,15 @@ In an elemental chlorine-free (ECF) bleaching sequence, a mill producing bleache
 Oxalic acid is a valuable and versatile chemical in the modern paper industry. Its powerful chelating properties and mild acidity contribute significantly to improving pulp bleaching efficiency, enhancing paper quality, and promoting environmentally responsible manufacturing practices. From preventing metal-catalyzed degradation to assisting in pH adjustment and scale removal, oxalic acid plays a multifaceted role in optimizing paper production processes. For reliable supply of high-quality oxalic acid, SinoPeakChem is your trusted partner.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **SinoPeakChem: Your Partner for Advanced Chemical Solutions**
 
-We supply a comprehensive range of industrial chemicals, including high-purity oxalic acid, to meet your specific application requirements.
+💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
 
-**[Get a Free Quote Today →](/en/contact)**  **[Request a Sample →](/en/contact)**
+SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
 
-📧 Email: sales@sinopeakchem.com
+[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+
+📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### References

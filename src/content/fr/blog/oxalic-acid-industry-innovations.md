@@ -63,13 +63,13 @@ L'industrie de l'acide oxalique adopte activement l'innovation pour répondre au
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 **Innovez avec SinoPeakChem : Votre Partenaire pour des Solutions Durables d'Acide Oxalique !**
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !
 
-SinoPeakChem est à l'avant-garde de la fourniture d'acide oxalique de haute qualité, produit en mettant l'accent sur la durabilité et l'efficacité. Collaborez avec nous pour vos besoins en produits chimiques avancés.
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris acide oxalique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
 
-**[Découvrez nos Pratiques de Production Durable →](/fr/about-us)**  **[Contactez notre Équipe d'Innovation →](/fr/contact)**
+[Découvrez nos pratiques de production durable →](/fr/products/oxalic-acid) [Contactez notre équipe d'innovation →](/fr/contact)
 
-📧 E-mail: sales@sinopeakchem.com
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

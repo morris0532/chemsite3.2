@@ -54,11 +54,6 @@ L'acidité douce de l'acide oxalique, ses propriétés réductrices et sa capaci
 *   **Extraction d'éléments de terres rares** : Utilisé dans le processus hydrométallurgique pour la séparation et la purification des éléments de terres rares en raison de sa capacité à former des oxalates insolubles avec ces métaux [6] (voir aussi [Acide Oxalique pour l'Extraction des Terres Rares](/fr/blog/oxalic-acid-rare-earth-extraction)).
 *   **Apiculture** : Utilisé comme traitement contre les acariens Varroa dans les ruches.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Besoin d'acide oxalique de haute pureté pour votre application spécifique ?** SinoPeakChem propose différentes qualités d'acide oxalique, garantissant qualité et constance pour l'élimination de la rouille, le traitement des métaux, et bien plus encore. 
-**[Demandez un échantillon gratuit et un devis →](/fr/contact)**
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Applications de l'Acide Sulfurique
 
 L'acide sulfurique, souvent appelé le "roi des produits chimiques", a une application industrielle beaucoup plus large et à plus grande échelle en raison de sa forte acidité, de ses propriétés oxydantes et déshydratantes :
@@ -116,14 +111,15 @@ L'acide oxalique et l'acide sulfurique, bien que tous deux soient des acides, se
 Comprendre ces différences est primordial pour une manipulation sûre, une application efficace et une gestion environnementale responsable. Lors du choix entre les deux, tenez compte de la réaction chimique spécifique requise, du matériau traité et des précautions de sécurité nécessaires. SinoPeakChem fournit de l'acide oxalique de haute qualité pour divers besoins industriels, vous assurant d'avoir le bon produit chimique pour votre application.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧪 **Vous choisissez le bon acide pour vos besoins industriels ?**
 
-SinoPeakChem propose de l'acide oxalique de première qualité, parfait pour l'élimination de la rouille, le nettoyage des métaux, et bien plus encore. 
+💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en chaîne d'approvisionnement chimique !
 
-**[En savoir plus sur nos produits d'acide oxalique →](/fr/products/oxalic-acid)**  **[Contactez-nous pour un support technique →](/fr/contact)**
+SinoPeakChem est à la pointe de la fourniture de solutions chimiques de haute qualité, y compris chaîne d'approvisionnement chimique, produits en mettant l'accent sur la durabilité et l'efficacité. Devenez notre partenaire pour vos besoins chimiques avancés.
 
-📧 Email: sales@sinopeakchem.com
-📱 WhatsApp: +86-XXX-XXXX-XXXX
+[Découvrez nos pratiques de production durable →](/fr/contact) [Contactez notre équipe d'innovation →](/fr/contact)
+
+📧 E-mail : [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Références
