@@ -1,87 +1,87 @@
 ---
 id: "29"
 slug: "oxalic-acid-analytical-chemistry"
-title: "Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent"
-excerpt: "Discover the fundamental role of oxalic acid as a primary standard and reducing agent in various analytical chemistry techniques, from titration to complexometry."
+title: "حمض الأكساليك في الكيمياء التحليلية المخبرية: كاشف أساسي"
+excerpt: "اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات الكيمياء التحليلية، من المعايرة إلى قياس المعقدات."
 date: "2026-04-29"
-author: "Sinopeakchem Technical Team"
-category: "Laboratory Applications"
-tags: ["oxalic acid", "analytical chemistry", "titration", "primary standard", "reducing agent", "complexometry", "laboratory reagent", "Sinopeakchem"]
+author: "الفريق الفني لشركة Sinopeakchem"
+category: "تطبيقات مخبرية"
+tags: ["حمض الأكساليك", "الكيمياء التحليلية", "المعايرة", "معيار أولي", "عامل مختزل", "قياس المعقدات", "كاشف مخبري", "Sinopeakchem"]
 image: "/images/blog/oxalic-acid-analytical-chemistry.webp"
-imageAlt: "A professional and clean image depicting a modern analytical chemistry laboratory. Show glassware, titration setups, analytical instruments (e.g., spectrophotometer, chromatograph), and chemical reagents. Emphasize precision, scientific research, and laboratory work. High quality, 4k resolution."
+imageAlt: "صورة احترافية لمختبر كيمياء تحليلية حديث، تظهر الأدوات الزجاجية وإعدادات المعايرة"
 ---
 
-## Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent
+## حمض الأكساليك في الكيمياء التحليلية المخبرية: كاشف أساسي
 
-In the realm of analytical chemistry, precision and accuracy are paramount. **Oxalic acid** (H₂C₂O₄) stands out as a versatile and indispensable reagent, widely employed in various quantitative and qualitative analyses. Its well-defined chemical properties, particularly its ability to act as a primary standard and a reducing agent, make it a cornerstone in many laboratory procedures [1].
+في مجال الكيمياء التحليلية، تعتبر الدقة والضبط أمرين بالغي الأهمية. يبرز **حمض الأكساليك** (H₂C₂O₄) ككاشف متعدد الاستخدامات ولا غنى عنه، ويستخدم على نطاق واسع في مختلف التحليلات الكمية والنوعية. خصائصه الكيميائية المحددة جيداً، وخاصة قدرته على العمل كمعيار أولي وعامل مختزل، تجعله حجر زاوية في العديد من الإجراءات المخبرية [1].
 
-### Oxalic Acid as a Primary Standard
+### حمض الأكساليك كمعيار أولي
 
-One of the most significant applications of oxalic acid in analytical chemistry is its use as a **primary standard** for acid-base titrations. A primary standard is a highly pure, stable, non-hygroscopic compound of known composition that can be weighed accurately and used to prepare a solution of precisely known concentration. Oxalic acid fits these criteria perfectly:
+أحد أهم تطبيقات حمض الأكساليك في الكيمياء التحليلية هو استخدامه كـ **معيار أولي** (Primary Standard) لمعايرات الأحماض والقواعد. المعيار الأولي هو مركب عالي النقاء ومستقر وغير ممتص للرطوبة وذو تركيب معروف يمكن وزنه بدقة واستخدامه لتحضير محلول بتركيز معروف تماماً. يستوفي حمض الأكساليك هذه المعايير تماماً:
 
-*   **High Purity**: It can be obtained in a highly pure form.
-*   **Stability**: It is stable in air and does not absorb moisture (non-hygroscopic).
-*   **Known Composition**: Its molecular weight is precisely known.
-*   **Relatively High Molar Mass**: Reduces weighing errors.
+*   **نقاء عالٍ**: يمكن الحصول عليه في شكل نقي جداً.
+*   **الاستقرار**: مستقر في الهواء ولا يمتص الرطوبة.
+*   **تركيب معروف**: وزنه الجزيئي معروف بدقة.
+*   **كتلة مولية عالية نسبياً**: يقلل من أخطاء الوزن.
 
-Solutions of strong bases, such as sodium hydroxide (NaOH), are often standardized against a primary standard acid. Oxalic acid is commonly used for this purpose, allowing chemists to accurately determine the concentration of the base solution, which can then be used for further titrations [2].
+غالباً ما يتم تعيير محاليل القواعد القوية، مثل هيدروكسيد الصوديوم (NaOH)، مقابل حمض معيار أولي. يستخدم حمض الأكساليك عادة لهذا الغرض، مما يسمح للكيميائيين بتحديد تركيز محلول القاعدة بدقة [2].
 
-### Oxalic Acid as a Reducing Agent
+### حمض الأكساليك كعامل مختزل
 
-Oxalic acid is also a moderately strong **reducing agent**, especially in acidic solutions. This property is exploited in several redox titrations:
+يعد حمض الأكساليك أيضاً **عاملاً مختزلاً** قوياً بدرجة متوسطة، خاصة في المحاليل الحمضية. يتم استغلال هذه الخاصية في العديد من معايرات الأكسدة والاختزال:
 
-#### 1. Permanganometry
+#### 1. قياس البرمنجنات (Permanganometry)
 
-Oxalic acid is frequently used to standardize solutions of potassium permanganate (KMnO₄). Potassium permanganate is a powerful oxidizing agent, and its solutions are not primary standards because they are not perfectly stable. The reaction between oxalic acid and potassium permanganate in an acidic medium is a classic example of a redox titration:
+يستخدم حمض الأكساليك بشكل متكرر لتعيير محاليل برمنجنات البوتاسيوم (KMnO₄). برمنجنات البوتاسيوم عامل مؤكسد قوي، ومحاليلها ليست معايير أولية لأنها ليست مستقرة تماماً. التفاعل بين حمض الأكساليك وبرمنجنات البوتاسيوم في وسط حمضي هو مثال كلاسيكي لمعايرة الأكسدة والاختزال:
 
 ```
 2KMnO₄ + 5H₂C₂O₄ + 3H₂SO₄ → K₂SO₄ + 2MnSO₄ + 10CO₂ + 8H₂O
 ```
 
-This reaction is self-indicating (permanganate is purple, products are colorless), making it convenient for quantitative analysis. The standardization of KMnO₄ with oxalic acid is a common experiment in undergraduate chemistry laboratories [3].
+هذا التفاعل ذاتي الدلالة (البرمنجنات أرجواني، والواتج عديمة اللون)، مما يجعله ملائماً للتحليل الكمي [3].
 
-#### 2. Other Redox Reactions
+#### 2. تفاعلات الأكسدة والاختزال الأخرى
 
-Beyond permanganometry, oxalic acid can reduce other oxidizing agents, such as dichromate (Cr₂O₇²⁻) and cerium(IV) ions (Ce⁴⁺), although these applications are less common than its use with permanganate.
+بالإضافة إلى قياس البرمنجنات، يمكن لحمض الأكساليك اختزال عوامل مؤكسدة أخرى، مثل الدايكرومات (Cr₂O₇²⁻) وأيونات السيريوم (IV) (Ce⁴⁺).
 
-### Oxalic Acid in Complexometry
+### حمض الأكساليك في قياس المعقدات
 
-While not a direct complexometric titrant, oxalic acid and its salts (oxalates) are excellent **chelating agents**. They can form stable complexes with various metal ions (e.g., iron, calcium, magnesium, rare earths). This property is utilized in analytical separations and gravimetric analyses where metal ions are precipitated as insoluble oxalates for quantitative determination [4] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
+على الرغم من أنه ليس تيتانياً مباشراً لقياس المعقدات، إلا أن حمض الأكساليك وأملاحه (الأكسالات) هي **عوامل مخلبية** (Chelating Agents) ممتازة. يمكنها تكوين معقدات مستقرة مع أيونات معدنية مختلفة (مثل الحديد والكالسيوم والمغنيسيوم والأتربة النادرة). تستخدم هذه الخاصية في الفصل التحليلي والتحليل الوزني حيث يتم ترسيب أيونات المعادن كأكسالات غير قابلة للذوبان [4] (راجع أيضاً [حمض الأكساليك لاستخراج الأتربة النادرة](/ar/blog/oxalic-acid-rare-earth-extraction)).
 
-### Other Laboratory Uses
+### استخدامات مخبرية أخرى
 
-*   **pH Adjustment**: As a diprotic acid, oxalic acid can be used to prepare buffer solutions or adjust the pH in certain reactions.
-*   **Cleaning Glassware**: Its ability to remove rust and mineral stains makes it useful for cleaning laboratory glassware, especially those contaminated with iron residues.
-*   **Precipitation Agent**: Used to precipitate calcium as calcium oxalate, a common method for calcium determination.
+*   **ضبط درجة الحموضة (pH)**: كحمض ثنائي البروتون، يمكن استخدام حمض الأكساليك لتحضير محاليل منظمة.
+*   **تنظيف الأدوات الزجاجية**: قدرته على إزالة الصدأ والبقع المعدنية تجعله مفيداً لتنظيف الأدوات الزجاجية المخبرية الملوثة ببقايا الحديد.
+*   **عامل ترسيب**: يستخدم لترسيب الكالسيوم كأكسالات الكالسيوم، وهي طريقة شائعة لتقدير الكالسيوم.
 
-### Safety Considerations
+### اعتبارات السلامة
 
-Despite its widespread use, oxalic acid is corrosive and toxic. Proper laboratory safety practices, including the use of personal protective equipment (PPE) such as gloves and eye protection, and working in a well-ventilated area, are crucial. Spills should be neutralized promptly, and waste disposal must comply with local regulations [5] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+على الرغم من استخدامه الواسع، فإن حمض الأكساليك مادة أكالة وسامة. ممارسات السلامة المخبرية المناسبة، بما في ذلك استخدام معدات الحماية الشخصية (PPE) مثل القفازات وحماية العين، والعمل في منطقة جيدة التهوية، أمر بالغ الأهمية [5] (راجع أيضاً [سلامة وتداول حمض الأكساليك](/ar/blog/oxalic-acid-safety-handling)).
 
-### Conclusion
+### خاتمة
 
-Oxalic acid remains a cornerstone in analytical chemistry laboratories worldwide. Its reliability as a primary standard for acid-base titrations and its effectiveness as a reducing agent in redox titrations underscore its importance. Furthermore, its chelating properties make it valuable in various separation and precipitation techniques. For accurate and dependable analytical results, high-purity oxalic acid is an essential reagent. SinoPeakChem offers a range of high-quality oxalic acid products suitable for demanding laboratory applications.
+يظل حمض الأكساليك حجر زاوية في مختبرات الكيمياء التحليلية حول العالم. موثوقيته كمعيار أولي وفعاليته كعامل مختزل تؤكد أهميته. تقدم SinoPeakChem مجموعة من منتجات حمض الأكساليك عالية الجودة والمناسبة للتطبيقات المخبرية المتطلبة.
 
-**For high-purity oxalic acid for your analytical chemistry needs, [contact SinoPeakChem for product specifications and bulk orders →](/en/contact)**
+**للحصول على حمض أكساليك عالي النقاء لاحتياجات الكيمياء التحليلية الخاصة بك، [اتصل بشركة SinoPeakChem للحصول على مواصفات المنتج والطلبات بالجملة ←](/ar/contact)**
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+💡 ابتكر مع SinoPeakChem: شريكك لحلول حمض الأكساليك المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+تتصدر SinoPeakChem الطليعة في تقديم حلول كيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] Skoog, D. A., West, D. M., Holler, F. J., & Crouch, S. R. (2014). *Fundamentals of Analytical Chemistry*. Cengage Learning.
-[2] Christian, G. D., Dasgupta, P. K., & Schug, K. A. (2013). *Analytical Chemistry*. John Wiley & Sons.
-[3] Vogel, A. I. (1989). *Vogel's Textbook of Quantitative Chemical Analysis*. Longman Scientific & Technical.
-[4] Inczédy, J., Lengyel, T., & Ure, A. M. (1998). *Analytical Applications of Complex Equilibria*. Ellis Horwood.
-[5] National Institute for Occupational Safety and Health (NIOSH). (2007). *NIOSH Pocket Guide to Chemical Hazards*. U.S. Department of Health and Human Services.
+[1] Skoog, D. A., et al. (2014). *Fundamentals of Analytical Chemistry*.
+[2] Christian, G. D., et al. (2013). *Analytical Chemistry*.
+[3] Vogel, A. I. (1989). *Vogel's Textbook of Quantitative Chemical Analysis*.
+[4] Inczédy, J., et al. (1998). *Analytical Applications of Complex Equilibria*.
+[5] NIOSH. (2007). *Pocket Guide to Chemical Hazards*.

@@ -1,112 +1,97 @@
 ---
 id: "16"
 slug: "oxalic-acid-beekeeping"
-title: "Oxalic Acid in Beekeeping: Uses, Benefits & Precautions"
-excerpt: "A comprehensive guide to using oxalic acid for varroa mite control in beekeeping. Learn about application methods, dosage, timing, effectiveness, and safety for bees and honey."
+title: "حمض الأكساليك في تربية النحل: الاستخدامات والفوائد والاحتياطات"
+excerpt: "دليل شامل لاستخدام حمض الأكساليك لمكافحة سوس الفاروا في تربية النحل. تعرف على طرق التطبيق والجرعة والتوقيت والفعالية والسلامة للنحل والعسل."
 date: "2026-04-16"
-author: "Sinopeakchem Technical Team"
-category: "Beekeeping Applications"
-tags: ["oxalic acid beekeeping", "varroa mite treatment", "beehive pest control", "oxalic acid for bees", "beekeeping safety", "Sinopeakchem"]
+author: "الفريق الفني لشركة Sinopeakchem"
+category: "تطبيقات تربية النحل"
+tags: ["حمض الأكساليك لتربية النحل", "علاج سوس الفاروا", "مكافحة آفات خلية النحل", "حمض الأكساليك للنحل", "سلامة تربية النحل", "Sinopeakchem"]
 image: "/images/blog/oxalic-acid-beekeeping.webp"
-imageAlt: "A professional and clear image of a beekeeper in protective gear carefully applying an oxalic acid treatment to a beehive."
+imageAlt: "صورة احترافية لمربي نحل يرتدي ملابس واقية ويطبق بعناية علاج حمض الأكساليك على خلية نحل"
 ---
 
-## Oxalic Acid in Beekeeping: Uses, Benefits & Precautions
+## حمض الأكساليك في تربية النحل: الاستخدامات والفوائد والاحتياطات
 
-Beekeeping is a vital practice for agriculture and ecosystem health, but it faces numerous challenges, with varroa mites (Varroa destructor) being one of the most devastating pests. These parasitic mites weaken bee colonies, transmit diseases, and can lead to colony collapse if left untreated. Among the various treatments available, oxalic acid has emerged as a popular and effective organic option for varroa mite control. This guide explores the uses, benefits, and essential precautions when using oxalic acid in beekeeping.
+تعد تربية النحل ممارسة حيوية للزراعة وصحة النظام البيئي، لكنها تواجه تحديات عديدة، حيث يعد سوس الفاروا (Varroa destructor) أحد أكثر الآفات تدميراً. تضعف هذه الطفيليات مستعمرات النحل، وتنقل الأمراض، ويمكن أن تؤدي إلى انهيار المستعمرة إذا تركت دون علاج. من بين العلاجات المختلفة المتاحة، برز حمض الأكساليك كخيار عضوي شعبي وفعال لمكافحة سوس الفاروا. يستكشف هذا الدليل الاستخدامات والفوائد والاحتياطات الأساسية عند استخدام حمض الأكساليك في تربية النحل.
 
-### Understanding Varroa Mites and Their Impact
+### فهم سوس الفاروا وتأثيره
 
-Varroa mites are external parasites that feed on the hemolymph (blood) of adult and developing bees. They reproduce in the capped brood cells, leading to deformed bees, reduced lifespan, and compromised immune systems. Effective mite control is crucial for the survival and productivity of bee colonies.
+سوس الفاروا طفيليات خارجية تتغذى على الدملمف (دم) النحل البالغ والنامي. تتكاثر في خلايا الحضنة المغلقة، مما يؤدي إلى نحل مشوه، وتقليل عمر النحل، وضعف أجهزة المناعة. مكافحة السوس الفعالة أمر بالغ الأهمية لبقاء وإنتاجية مستعمرات النحل.
 
-### How Oxalic Acid Works Against Varroa Mites
+### كيف يعمل حمض الأكساليك ضد سوس الفاروا
 
-Oxalic acid (C₂H₂O₄) is a naturally occurring organic acid found in many plants. In beekeeping, it acts as a contact miticide. When applied to bees, the acid crystals adhere to the mites and are absorbed through their feet pads and soft membranes, disrupting their metabolism and leading to their death. It is particularly effective against phoretic mites (mites riding on adult bees) and has minimal impact on capped brood.
+حمض الأكساليك (C₂H₂O₄) هو حمض عضوي طبيعي يوجد في العديد من النباتات. في تربية النحل، يعمل كمبيد للسوس عن طريق الاتصال. عندما يطبق على النحل، تلتصق بلورات الحمض بالسوس ويتم امتصاصها من خلال وسادات أقدامها وأغشيتها الرخوة، مما يعطل تمثيلها الغذائي ويؤدي إلى موتها. وهو فعال بشكل خاص ضد السوس الموجود على النحل البالغ.
 
-### Application Methods
+### طرق التطبيق
 
-There are two primary methods for applying oxalic acid in beekeeping, each with its own advantages and considerations:
+هناك طريقتان أساسيتان لتطبيق حمض الأكساليك في تربية النحل:
 
-#### 1. Dribble Method (Trickle Method)
+#### 1. طريقة التنقيط (Dribble Method)
 
-This method involves dissolving oxalic acid dihydrate in a sugar syrup solution and dribbling it directly onto the bees in the hive.
+تتضمن هذه الطريقة إذابة حمض الأكساليك ثنائي الهيدرات في محلول شراب السكر وتنقيطه مباشرة على النحل في الخلية.
 
-**Procedure**:
--   **Preparation**: Mix 35 grams of oxalic acid dihydrate with 1 liter of 1:1 sugar syrup (sugar to water by weight). Warm the solution to around 30-35°C (86-95°F) for better absorption.
--   **Application**: Using a syringe or similar applicator, dribble 5 ml of the solution per seam of bees (the space between frames occupied by bees). Typically, a strong colony receives about 50 ml total.
--   **Timing**: Best applied during broodless periods (late fall/early winter) when most mites are phoretic, ensuring maximum contact with the mites. Avoid applying during nectar flows.
+**الإجراء**:
+-   **التحضير**: اخلط 35 جراماً من حمض الأكساليك ثنائي الهيدرات مع لتر واحد من شراب السكر 1:1 (سكر إلى ماء بالوزن).
+-   **التطبيق**: باستخدام حقنة، يتم تنقيط 5 مل من المحلول لكل مسافة بين الإطارات يشغلها النحل. عادة ما تستقبل المستعمرة القوية حوالي 50 مل كإجمالي.
+-   **التوقيت**: يفضل تطبيقه خلال فترات خلو الخلية من الحضنة (أواخر الخريف/أوائل الشتاء) لضمان أقصى تلامس مع السوس.
 
-**Pros**:
--   Relatively simple and inexpensive.
--   Good efficacy during broodless periods.
--   Less equipment required.
+**المزايا**: بسيطة وغير مكلفة، وفعالية جيدة في غياب الحضنة.
+**العيوب**: قد تسبب بعض موت النحل إذا طبقت بشكل خاطئ، وغير فعالة ضد السوس داخل الحضنة المغلقة.
 
-**Cons**:
--   Can chill bees if applied in cold weather.
--   May cause some bee mortality if overdosed or applied incorrectly.
--   Not effective on mites inside capped brood.
+#### 2. طريقة التبخير (Vaporization Method)
 
-#### 2. Vaporization Method (Sublimation Method)
+تتضمن تسخين بلورات حمض الأكساليك في مبخر متخصص، مما يؤدي إلى تساميها (تحولها مباشرة من صلب إلى غاز). يملأ البخار الخلية ويتكثف كبلورات دقيقة على النحل وأسطح الخلية.
 
-This method involves heating oxalic acid crystals in a specialized vaporizer, causing them to sublimate (turn directly from solid to gas). The vapor fills the hive and condenses as fine crystals on the bees and hive surfaces.
+**الإجراء**:
+-   **التحضير**: استخدم مبخراً متخصصاً لحمض الأكساليك. ضع جراماً واحداً من البلورات لكل صندوق حضنة.
+-   **التطبيق**: أدخل المبخر في مدخل الخلية وقم بالتسخين حسب التعليمات حتى يتسامى كل الحمض (عادة 2-3 دقائق).
+-   **التوقيت**: يمكن استخدامه في فترات خلو الحضنة أو حتى مع وجود بعض الحضنة، حيث يتغلغل البخار في الخلية بشكل أكثر فعالية.
 
-**Procedure**:
--   **Preparation**: Use a specialized oxalic acid vaporizer. Place 1 gram of oxalic acid dihydrate crystals per brood box into the vaporizer cup.
--   **Application**: Insert the vaporizer into the hive entrance or a designated opening. Heat the crystals according to the device's instructions until all acid has sublimated (typically 2-3 minutes). Seal the hive for 10-15 minutes after treatment.
--   **Timing**: Can be used during broodless periods or even with some brood present, as the vapor penetrates the hive more effectively. Best applied when ambient temperatures are above 0°C (32°F).
+**المزايا**: فعالة للغاية، وأقل إجهاداً للنحل في الطقس البارد مقارنة بالتنقيط.
+**العيوب**: تتطلب معدات متخصصة، وخطر استنشاق للمربي (تتطلب حماية تنفسية).
 
-**Pros**:
--   Highly effective, even with some brood present.
--   Less stressful for bees compared to dribbling in cold weather.
--   No sugar syrup residue in the hive.
+### فوائد استخدام حمض الأكساليك
 
-**Cons**:
--   Requires specialized and potentially expensive equipment (vaporizer).
--   Inhalation hazard for the beekeeper; requires proper respiratory protection.
--   Not effective on mites inside capped brood.
+-   **علاج عضوي**: حمض الأكساليك مركب طبيعي، مما يجعله علاجاً عضوياً معتمداً في العديد من المناطق.
+-   **لا يترك بقايا في العسل**: عند تطبيقه بشكل صحيح، يترك حمض الأكساليك الحد الأدنى من البقايا التي لا يمكن كشفها في العسل.
+-   **فعالية عالية**: يمكن لكلتا الطريقتين تحقيق معدلات قتل عالية للسوس (غالباً 90-99%).
+-   **مقاومة منخفضة للسوس**: أظهر سوس الفاروا مقاومة ضئيلة جداً لحمض الأكساليك.
 
-### Benefits of Using Oxalic Acid
+### الاحتياطات الأساسية والسلامة
 
--   **Organic Treatment**: Oxalic acid is a naturally occurring compound, making it an approved organic treatment for varroa mites in many regions.
--   **No Residue in Honey**: When applied correctly and during broodless periods, oxalic acid leaves minimal to no detectable residue in honey, making it safe for human consumption.
--   **High Efficacy**: Both dribble and vaporization methods can achieve high mite kill rates (often 90-99%) when applied under optimal conditions.
--   **Low Mite Resistance**: Varroa mites have shown very little resistance to oxalic acid compared to other synthetic miticides.
+حمض الأكساليك مادة أكالة ويمكن أن تكون ضارة إذا تم ابتلاعها أو استنشاقها أو ملامستها للجلد. يجب على مربي النحل دائماً إعطاء الأولوية للسلامة:
 
-### Essential Precautions and Safety
+-   **معدات الحماية الشخصية (PPE)**: ارتدِ دائماً قفازات مقاومة للأحماض، وحماية للعين، وجهاز تنفس (خاصة عند التبخير).
+-   **التهوية**: اعمل في منطقة جيدة التهوية.
+-   **اتباع الجرعة**: التزم بدقة بالجرعات الموصى بها.
+-   **التوقيت**: تجنب العلاج أثناء تدفق الرحيق لمنع تلوث العسل المعد للاستهلاك البشري.
+-   **التخزين**: احفظ حمض الأكساليك في مكان بارد وجاف وآمن (راجع [تعبئة وتخزين حمض الأكساليك](/ar/blog/oxalic-acid-packaging-storage)).
 
-Oxalic acid is corrosive and can be harmful if ingested, inhaled, or comes into contact with skin or eyes. Beekeepers must always prioritize safety:
+### خاتمة
 
--   **Personal Protective Equipment (PPE)**: Always wear acid-resistant gloves, eye protection (goggles), and a respirator (especially for vaporization) when handling oxalic acid.
--   **Ventilation**: Work in a well-ventilated area, preferably outdoors.
--   **Follow Dosage**: Adhere strictly to recommended dosages. Overdosing can harm bees.
--   **Timing**: Apply during broodless periods for best efficacy and minimal impact on bees and honey. Avoid treating during nectar flows to prevent contamination of honey intended for human consumption.
--   **Storage**: Store oxalic acid in a cool, dry, and secure place, away from children, pets, and food items (see [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
--   **First Aid**: In case of contact, rinse affected areas thoroughly with water. Seek medical attention if ingested or if irritation persists.
+يعد حمض الأكساليك أداة قيمة في ترسانة مربي النحل لإدارة سوس الفاروا، حيث يقدم حلاً فعالاً وعضوياً. توفر SinoPeakChem حمض أكساليك عالي الجودة مناسباً للتطبيقات الزراعية والصناعية، مما يدعم ممارسات تربية النحل المستدامة.
 
-### Conclusion
-
-Oxalic acid is a valuable tool in the beekeeper's arsenal for managing varroa mites, offering an effective and organic solution. By understanding its mechanism, applying it correctly, and strictly adhering to safety protocols, beekeepers can protect their colonies from this pervasive pest, ensuring the health and productivity of their bees. SinoPeakChem provides high-quality oxalic acid suitable for agricultural and industrial applications, supporting sustainable beekeeping practices.
-
-**Protect your bee colonies with high-quality oxalic acid. [Contact SinoPeakChem for reliable supply and expert advice →](/en/contact)**
+**احمِ مستعمرات النحل الخاصة بك باستخدام حمض الأكساليك عالي الجودة. [اتصل بشركة SinoPeakChem للحصول على إمدادات موثوقة ومشورة الخبراء ←](/ar/contact)**
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+💡 ابتكر مع SinoPeakChem: شريكك لحلول حمض الأكساليك المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+تتصدر SinoPeakChem الطليعة في تقديم حلول كيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] "Oxalic Acid for Varroa Mite Control." *Bee Health.org*, www.beehealth.org/varroa-mite-control/oxalic-acid/.
-[2] "Varroa Mite Treatment Options." *University of Maryland Extension*, extension.umd.edu/resource/varroa-mite-treatment-options.
-[3] "Oxalic Acid Dribble Treatment." *Honey Bee Health Coalition*, honeybeehealthcoalition.org/varroa/oxalic-acid-dribble/.
-[4] "Oxalic Acid Vaporization Treatment." *Scientific Beekeeping*, scientificbeekeeping.com/oxalic-acid-treatment-updates/.
-[5] "Safety Data Sheet: Oxalic Acid." *ScienceLab.com*, www.sciencelab.com/msds/Oxalic_Acid.shtml.
+[1] "حمض الأكساليك لمكافحة سوس الفاروا." *Bee Health.org*.
+[2] "خيارات علاج سوس الفاروا." *University of Maryland Extension*.
+[3] "علاج تنقيط حمض الأكساليك." *Honey Bee Health Coalition*.
+[4] "علاج تبخير حمض الأكساليك." *Scientific Beekeeping*.
+[5] "ورقة بيانات السلامة: حمض الأكساليك." *ScienceLab.com*.
