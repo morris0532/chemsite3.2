@@ -238,7 +238,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-[500px] md:min-h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0">
-          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Supply" className="w-full h-full object-cover" fetchPriority="high" />
+          <img src={HERO_IMG} alt="Sinopeakchem Strategic Chemical Supply" className="w-full h-full object-cover" fetchPriority="high" loading="eager" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#003d66]/95 via-[#004a82]/80 to-transparent" />
         </div>
         <div className="container mx-auto px-4 relative z-10 py-12 md:py-16">
