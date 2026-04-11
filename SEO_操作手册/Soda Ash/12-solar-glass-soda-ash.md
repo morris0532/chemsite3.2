@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["solar glass soda ash", "photovoltaic glass chemicals", "ultra-low iron soda ash", "solar grade sodium carbonate", "PV panel raw materials", "China solar glass supply chain"]
+keywords: ['Solar Glass Soda Ash', 'Photovoltaic Glass Chemicals', 'Ultra Clear Glass Sourcing', 'Low Iron Soda Ash', 'PV Industry Supply Chain']
 ---
 
 # Solar Glass Soda Ash: Sourcing for the Photovoltaic Revolution

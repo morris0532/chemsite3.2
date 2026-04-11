@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Compare"
 tags: ["soda ash vs caustic soda", "sodium carbonate vs sodium hydroxide", "alkali sourcing", "chemical plant procurement", "pH adjustment", "water treatment chemicals", "chemical synthesis", "China chemical supplier"]
+keywords: ['Soda Ash vs Caustic Soda', 'Alkali Sourcing', 'Sodium Carbonate vs Sodium Hydroxide', 'Chemical Plant Procurement', 'China Alkali Supplier']
 ---
 
 # Soda Ash vs Caustic Soda: Alkali Sourcing for Chemical Plants

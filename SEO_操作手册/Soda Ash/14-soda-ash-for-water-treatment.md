@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["water treatment soda ash", "pH control chemicals", "sodium carbonate for water softening", "municipal water sourcing", "alkalinity adjustment", "China soda ash supplier", "bulk water chemicals"]
+keywords: ['Soda Ash for Water Treatment', 'pH Control Chemicals', 'Municipal Water Sourcing', 'Sodium Carbonate Water Softening', 'Water Treatment Grade Soda Ash']
 ---
 
 # Soda Ash for Water Treatment: pH Control & Municipal Sourcing

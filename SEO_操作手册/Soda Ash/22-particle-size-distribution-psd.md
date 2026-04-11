@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["soda ash particle size", "PSD in sodium carbonate", "sieve analysis soda ash", "batch segregation glass", "soda ash dense granules", "soda ash light powder", "China soda ash quality"]
+keywords: ['Soda Ash PSD', 'Particle Size Distribution', 'Soda Ash Sieve Analysis', 'Glass Batch Consistency', 'Dense Soda Ash PSD']
 ---
 
 # Particle Size Distribution (PSD) in Soda Ash: Why it Matters for Your Batch

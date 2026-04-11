@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Glossary"
 tags: ["Soda Ash glossary", "chemical terms sodium carbonate", "Dense vs Light Soda Ash", "Solvay vs Hou process", "chemical trade terminology", "Soda Ash specifications", "China chemical export"]
+keywords: ['Soda Ash Glossary', 'Sodium Carbonate Terms', 'Dense vs Light Soda Ash', 'Chemical Trade Definitions', 'Procurement Manager Dictionary']
 ---
 
 # The A-Z of Soda Ash: Essential Terms for Procurement Managers

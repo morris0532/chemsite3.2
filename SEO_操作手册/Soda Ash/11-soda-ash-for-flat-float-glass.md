@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["flat glass soda ash", "float glass raw materials", "sodium carbonate for construction glass", "architectural glass chemicals", "China soda ash export", "glass batch consistency"]
+keywords: ['Soda Ash for Flat Glass', 'Float Glass Manufacturing', 'Construction Glass Chemicals', 'Bulk Soda Ash Dense', 'China Float Glass Supply']
 ---
 
 # Soda Ash for Flat & Float Glass: Meeting Global Construction Demand

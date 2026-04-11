@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["soda ash pH control", "buffering capacity sodium carbonate", "alkalinity vs pH", "pKa of soda ash", "water treatment chemicals", "pH regulator", "China soda ash supplier"]
+keywords: ['pH Control with Soda Ash', 'Buffering Capacity Chemicals', 'Alkalinity Management', 'Soda Ash pKa', 'Industrial pH Regulation']
 ---
 
 # pH Control with Soda Ash: Buffering Capacity & Alkalinity

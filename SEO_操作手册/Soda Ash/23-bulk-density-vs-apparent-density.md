@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["soda ash bulk density", "apparent density sodium carbonate", "soda ash logistics", "silo capacity calculation", "pneumatic conveying chemicals", "China soda ash export", "bulk chemical storage"]
+keywords: ['Soda Ash Bulk Density', 'Apparent Density Chemicals', 'Soda Ash Logistics Optimization', 'Storage Silo Calculation', 'Soda Ash Transport Efficiency']
 ---
 
 # Bulk Density vs. Apparent Density: Optimizing Soda Ash Storage & Logistics

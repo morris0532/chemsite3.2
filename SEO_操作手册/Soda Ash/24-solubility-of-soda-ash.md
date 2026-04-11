@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["soda ash solubility", "sodium carbonate concentration", "mixing soda ash", "soda ash hydrates", "industrial chemical mixing", "China soda ash supplier", "solubility curve sodium carbonate"]
+keywords: ['Solubility of Soda Ash', 'Sodium Carbonate Dissolution', 'Mixing Tips for Soda Ash', 'Soda Ash Temperature Solubility', 'Chemical Mixing Efficiency']
 ---
 
 # Solubility of Soda Ash: Temperature, Concentration & Mixing Tips

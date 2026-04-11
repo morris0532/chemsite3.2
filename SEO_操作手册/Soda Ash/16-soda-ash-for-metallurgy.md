@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["metallurgy soda ash", "alumina production chemicals", "lead recycling soda ash", "iron desulfurization", "sodium carbonate for smelting", "China chemical supplier", "bulk metallurgical chemicals"]
+keywords: ['Soda Ash for Metallurgy', 'Alumina Production Chemicals', 'Lead Recycling Sourcing', 'Metallurgical Grade Soda Ash', 'Steel Desulfurization Chemicals']
 ---
 
 # Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement

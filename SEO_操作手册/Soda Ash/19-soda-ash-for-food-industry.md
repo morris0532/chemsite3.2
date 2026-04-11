@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["food grade soda ash", "sodium carbonate E500(i)", "acidity regulator food", "noodle improver chemicals", "food additive sourcing", "China food grade chemicals", "FCC compliant soda ash"]
+keywords: ['Food Grade Soda Ash', 'E500i Compliance', 'Food Additive Sourcing', 'Sodium Carbonate Food Safety', 'FCC Compliant Soda Ash']
 ---
 
 # Soda Ash for Food Industry: E500(i) Compliance & Safety

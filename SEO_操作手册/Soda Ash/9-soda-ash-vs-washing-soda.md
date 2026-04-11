@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Compare"
 tags: ["soda ash vs washing soda", "sodium carbonate anhydrous", "sodium carbonate decahydrate", "washing soda bulk buy", "chemical hydrates", "detergent chemicals", "China chemical supplier"]
+keywords: ['Soda Ash vs Washing Soda', 'Sodium Carbonate Hydrates', 'Bulk Chemical Buying', 'Washing Soda Sourcing', 'Industrial Alkali Grades']
 ---
 
 # Soda Ash vs Washing Soda: Understanding Hydrates for Bulk Buying

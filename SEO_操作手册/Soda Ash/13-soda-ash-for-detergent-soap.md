@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["detergent grade soda ash", "soda ash light for soap", "sodium carbonate for detergents", "FMCG chemical sourcing", "water softener chemicals", "China soda ash supplier", "bulk detergent raw materials"]
+keywords: ['Soda Ash for Detergent', 'Detergent Grade Soda Ash', 'FMCG Chemical Sourcing', 'Soda Ash Light Bulk', 'Soap Manufacturing Chemicals']
 ---
 
 # Soda Ash for Detergent & Soap: Bulk Sourcing for FMCG Brands

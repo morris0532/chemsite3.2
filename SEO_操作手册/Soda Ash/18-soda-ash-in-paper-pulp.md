@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["paper industry soda ash", "pulp bleaching chemicals", "de-inking soda ash", "sodium carbonate for paper mills", "pulping chemicals", "China soda ash supplier", "bulk paper chemicals"]
+keywords: ['Soda Ash in Paper and Pulp', 'Paper Mill Sourcing', 'Pulp Bleaching Chemicals', 'De-inking Soda Ash', 'Paper Grade Sodium Carbonate']
 ---
 
 # Soda Ash in Paper & Pulp: Sourcing for Large-Scale Mills

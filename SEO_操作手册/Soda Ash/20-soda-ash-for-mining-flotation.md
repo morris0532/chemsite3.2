@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["mining soda ash", "flotation chemicals", "ore processing sodium carbonate", "pH regulator mining", "mineral processing reagents", "China soda ash supplier", "bulk mining chemicals"]
+keywords: ['Soda Ash for Mining', 'Flotation Chemicals Sourcing', 'Ore Processing Alkali', 'Mining Grade Soda Ash', 'Froth Flotation pH Control']
 ---
 
 # Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing

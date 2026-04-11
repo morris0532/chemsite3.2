@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Finance Team"
 category: "Sourcing"
 tags: ["Sinosure chemical trade", "China export credit insurance", "Soda Ash trade finance", "payment terms for chemicals", "OA DP payment terms", "Sinosure credit rating", "China chemical export"]
+keywords: ['Sinosure Chemical Trade', 'Trade Finance Soda Ash', 'Payment Terms for Chemicals', 'OA 90 Days Soda Ash', 'China Export Credit Insurance']
 ---
 
 # Sinosure & Trade Finance: Securing Your Soda Ash Investment

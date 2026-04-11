@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Quality Team"
 category: "Sourcing"
 tags: ["PSI for Soda Ash", "pre-shipment inspection chemical", "SGS inspection Soda Ash", "chemical quality control", "Soda Ash export inspection", "China chemical sourcing", "B2B chemical trade"]
+keywords: ['PSI for Soda Ash', 'Pre-Shipment Inspection Chemicals', 'SGS Inspection Soda Ash', 'Chemical Quality Assurance', 'Soda Ash Loading Inspection']
 ---
 
 # The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash

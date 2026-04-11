@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["Solvay process soda ash", "Hou process sodium carbonate", "combined soda ash process", "synthetic soda ash production", "ammonia-soda process", "China soda ash technology", "soda ash impurities"]
+keywords: ['Solvay vs Hou Process', 'Soda Ash Production Technology', 'Hou Process Advantages', 'China Soda Ash Technology', 'Synthetic Soda Ash Sourcing']
 ---
 
 # Solvay vs. Hou Process: Which Soda Ash is Better for You?

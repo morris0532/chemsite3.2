@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Technical"
 tags: ["soda ash impurities", "iron in sodium carbonate", "chloride in soda ash", "sulfate in soda ash", "glass grade soda ash", "chemical synthesis impurities", "China soda ash quality"]
+keywords: ['Soda Ash Impurity Analysis', 'Low Iron Soda Ash', 'Chloride in Sodium Carbonate', 'Sulfate in Soda Ash', 'High Purity Chemical Analysis']
 ---
 
 # Impurity Analysis: Fe, Cl, and SO4 in Soda Ash

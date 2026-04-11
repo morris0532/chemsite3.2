@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Sourcing Team"
 category: "Sourcing"
 tags: ["auditing China factory", "soda ash manufacturer audit", "chemical supplier quality control", "China chemical sourcing", "soda ash compliance", "supplier risk management", "China chemical export"]
+keywords: ['Auditing China Soda Ash Factory', 'Chemical Supplier Checklist', 'Factory Audit China', 'Soda Ash Quality Control', 'Supplier Vetting Chemicals']
 ---
 
 # Auditing a China Soda Ash Factory: A Buyer’s Checklist

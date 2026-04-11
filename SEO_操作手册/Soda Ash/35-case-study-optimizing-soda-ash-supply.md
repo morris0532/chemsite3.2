@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Sourcing Team"
 category: "Sourcing"
 tags: ["Soda Ash case study", "glass manufacturing supply chain", "optimizing chemical procurement", "Soda Ash Dense sourcing", "logistics efficiency chemicals", "China Soda Ash export", "bulk chemical sourcing"]
+keywords: ['Soda Ash Case Study', 'Optimizing Chemical Supply', 'Glass Industry Sourcing', 'Soda Ash Procurement Success', 'B2B Chemical Case Study']
 ---
 
 # Case Study: Optimizing Soda Ash Supply for a Global Glass Group

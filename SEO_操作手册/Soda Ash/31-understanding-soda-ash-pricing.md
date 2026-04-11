@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Sourcing Team"
 category: "Sourcing"
 tags: ["soda ash pricing", "FOB vs CIF", "soda ash market trends", "chemical price drivers", "Incoterms for chemicals", "China soda ash export price", "bulk chemical procurement"]
+keywords: ['Soda Ash Pricing', 'FOB Soda Ash China', 'CIF Soda Ash Price', 'Soda Ash Market Trends', 'Chemical Price Volatility']
 ---
 
 # Understanding Soda Ash Pricing: FOB, CIF, and Market Trends

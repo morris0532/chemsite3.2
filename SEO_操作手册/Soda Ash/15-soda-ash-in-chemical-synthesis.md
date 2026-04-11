@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["soda ash for chemical synthesis", "sodium silicate raw materials", "sodium phosphate production", "inorganic chemical manufacturing", "sodium carbonate for industry", "China chemical supplier", "bulk alkali sourcing"]
+keywords: ['Soda Ash in Chemical Synthesis', 'Sodium Silicate Production', 'Sodium Phosphate Sourcing', 'Inorganic Salt Manufacturing', 'Industrial Alkali Synthesis']
 ---
 
 # Soda Ash in Chemical Synthesis: Sodium Silicates & Phosphates

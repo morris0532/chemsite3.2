@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Compliance Team"
 category: "Sourcing"
 tags: ["REACH registration soda ash", "ISO 9001 chemical supplier", "ISO 14001 environmental compliance", "SDS for sodium carbonate", "chemical regulations EU", "Soda Ash compliance", "China chemical export"]
+keywords: ['REACH Registration Soda Ash', 'ISO 9001 Chemical Supplier', 'Chemical Regulatory Compliance', 'Soda Ash SDS GHS', 'EU REACH Soda Ash']
 ---
 
 # REACH & ISO Compliance: Navigating Regulations for Soda Ash

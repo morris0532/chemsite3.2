@@ -7,6 +7,7 @@ date: 2026-04-11
 author: "Sinopeakchem Technical Team"
 category: "Industry"
 tags: ["glass grade soda ash", "soda ash dense for glass", "sodium carbonate for glass manufacturing", "solar glass chemicals", "flat glass raw materials", "China soda ash supplier", "low iron soda ash"]
+keywords: ['Soda Ash for Glass Manufacturing', 'Glass Grade Soda Ash', 'High Purity Sodium Carbonate', 'China Glass Chemical Supplier', 'Dense Soda Ash Sourcing']
 ---
 
 # Soda Ash for Glass Manufacturing: High-Purity Sourcing from China
