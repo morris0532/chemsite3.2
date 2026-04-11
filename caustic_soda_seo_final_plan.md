@@ -20,7 +20,6 @@
 - [六、内链矩阵参考表](#六内链矩阵参考表)
 - [七、发布时间表](#七发布时间表)
 - [八、SEO 检查清单](#八seo检查清单)
-- [九、图片生成指南](#九图片生成指南)
 
 ---
 
@@ -624,76 +623,22 @@ yourdomain.com/blog/[primary-keyword-slug]
 
 ---
 
-## 九、图片生成指南
+## 九、图片规范（在写 Blog 时协商生成）
 
-### 9.1 图片生成规范
+**图片生成时机：** 在写每篇 Blog 文章时，根据文章内容协商生成图片
 
-**每篇文章需要生成 1 张主图（Hero Image），规格如下：**
+**图片规范：**
+- **格式：** WebP
+- **大小：** < 200KB
+- **分辨率：** 1200×630px（社交媒体标准）
+- **命名规范：** `CS-{article-id}-hero.webp`
+- **用途：** 文章开头、社交媒体分享、SEO 缩略图
 
-| 项目 | 要求 |
-|------|------|
-| **格式** | WebP |
-| **大小** | < 200KB |
-| **分辨率** | 1200×630px（社交媒体标准） |
-| **命名规范** | `CS-{article-id}-hero.webp` |
-| **存储位置** | CDN 或 S3（使用 manus-upload-file --webdev） |
-| **用途** | 文章开头、社交媒体分享、SEO 缩略图 |
-
-### 9.2 图片生成提示词模板
-
-**根据文章主题生成对应的图片，提示词示例：**
-
-**文章 1 - What Is Caustic Soda:**
-```
-Generate a professional industrial chemistry image showing caustic soda (sodium hydroxide) 
-in different forms: white flakes, pearls, and liquid solution. Include laboratory equipment 
-and chemical structure diagram. Modern, clean, professional style. 1200x630px, WebP format.
-```
-
-**文章 9 - Lithium Battery:**
-```
-Generate a high-tech image showing lithium battery manufacturing process with caustic soda 
-application. Include battery cells, chemical reactions, and industrial equipment. 
-Modern, futuristic, professional style. 1200x630px, WebP format.
-```
-
-**文章 12 - Water Treatment:**
-```
-Generate an environmental image showing water treatment process with caustic soda. 
-Include water purification tanks, pH adjustment, and clean water output. 
-Professional, eco-friendly style. 1200x630px, WebP format.
-```
-
-**文章 21 - Safety:**
-```
-Generate a safety-focused image showing proper handling of caustic soda with PPE, 
-safety equipment, and warning signs. Include chemical hazard symbols and protective measures. 
-Professional, safety-conscious style. 1200x630px, WebP format.
-```
-
-### 9.3 图片生成流程
-
-1. **根据文章 ID 和主题生成提示词**
-2. **使用 AI 图片生成工具生成 1200×630px 图片**
-3. **转换为 WebP 格式**
-4. **压缩至 < 200KB**
-5. **命名为 `CS-{article-id}-hero.webp`**
-6. **上传至 CDN 或 S3**
-7. **获取 CDN URL**
-8. **在文章中使用 CDN URL**
-
-### 9.4 图片生成工具建议
-
-- **Midjourney**：高质量图片，支持 WebP 导出
-- **DALL-E 3**：专业级图片生成
-- **Stable Diffusion**：开源，支持本地部署
-- **Adobe Firefly**：企业级图片生成
-
-### 9.5 图片优化工具
-
-- **Squoosh**：在线图片压缩，支持 WebP
-- **ImageOptim**：批量压缩工具
-- **TinyPNG**：智能压缩，保持质量
+**生成流程：**
+1. 在写文章时，根据文章主题和内容协商图片要求
+2. 生成符合规范的 WebP 图片（< 200KB）
+3. 上传至 CDN 或 S3
+4. 在文章中使用 CDN URL
 
 ---
 
