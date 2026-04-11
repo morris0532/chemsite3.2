@@ -479,9 +479,9 @@ Whether you need industrial-grade caustic soda for water treatment, food-grade f
 - ✅ Competitive pricing
 - ✅ Free samples available
 
-**[Get Free Quote →]** | **[Request Sample →]** | **[Contact Sales →]**
+**[Get Free Quote →](https://sinopeakchem.com/contact)**
 
-📧 Email: sales@yourcompany.com
+📧 Email: sales@sinopeakchem.com
 
 ---
 
