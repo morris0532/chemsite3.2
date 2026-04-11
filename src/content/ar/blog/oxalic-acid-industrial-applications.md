@@ -1,81 +1,85 @@
 ---
 id: "a56s4d6a5ds45"
 slug: "oxalic-acid-industrial-applications"
-title: "Oxalic Acid: Industrial Applications and Safety Guidelines"
-excerpt: "Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines."
+title: "حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة"
+excerpt: "استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة."
 date: "2026-02-20"
-author: "Sinopeakchem Technical Team"
-category: "Product Guide"
-tags: ["oxalic acid","rust removal","industrial chemicals","safety"]
+author: "الفريق الفني لشركة Sinopeakchem"
+category: "دليل المنتج"
+tags: ["حمض الأكساليك", "إزالة الصدأ", "المواد الكيميائية الصناعية", "السلامة"]
 image: "/images/blog/oxalic-acid-industrial-applications.webp"
-imageAlt: "Oxalic Acid used for industrial rust removal and cleaning"
+imageAlt: "حمض الأكساليك المستخدم في إزالة الصدأ والتنظيف الصناعي"
 ---
 
-## What is Oxalic Acid?
-Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid supplier](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is supplied industrially for numerous applications.
+## ما هو حمض الأكساليك؟
+حمض الأكساليك (C₂H₂O₄) هو أبسط حمض ثنائي الكربوكسيل وأحد أقوى الأحماض العضوية. بصفتها [مورداً رائعاً لحمض الأكساليك عالي النقاء](https://www.sinopeakchem.com/ar/products/oxalic-acid)، تضمن Sinopeakchem أن تلبي هذه المادة الكيميائية متعددة الاستخدامات المتطلبات الصارمة للمشترين الصناعيين العالميين. يوجد بشكل طبيعي في العديد من النباتات ويتم توفيره صناعياً للعديد من التطبيقات.
 
-## Key Industrial Applications
-### 1. Metal Cleaning and Rust Removal
-Oxalic acid is highly effective at dissolving iron oxide (rust) and is widely used for:
-- Cleaning metal surfaces before coating
-- Removing rust stains from concrete and stone
-- Brightening aluminum and stainless steel
+## التطبيقات الصناعية الرئيسية
 
-### 2. Marble and Stone Polishing
-In the stone industry, oxalic acid is used to:
-- Polish marble and granite surfaces
-- Remove stains from natural stone
-- Restore shine to weathered stone
+### 1. تنظيف المعادن وإزالة الصدأ
+حمض الأكساليك فعال للغاية في إذابة أكسيد الحديد (الصدأ) ويستخدم على نطاق واسع في:
+- تنظيف الأسطح المعدنية قبل الطلاء.
+- إزالة بقع الصدأ من الخرسانة والحجر.
+- تلميع الألومنيوم والفولاذ المقاوم للصدأ.
 
-### 3. Textile and Leather Industry
-Applications include:
-- Bleaching cotton and linen fabrics
-- Removing iron stains from textiles
-- Leather processing and tanning
+### 2. تلميع الرخام والحجر
+في صناعة الحجر، يستخدم حمض الأكساليك من أجل:
+- تلميع أسطح الرخام والجرانيت.
+- إزالة البقع من الحجر الطبيعي.
+- استعادة اللمعان للحجر المتأثر بالعوامل الجوية.
 
-### 4. Rare Earth Element Extraction
-Oxalic acid plays a crucial role in:
-- Precipitating rare earth oxalates from solution
-- Purifying rare earth concentrates
-- Producing high-purity rare earth oxides
+### 3. صناعة المنسوجات والجلود
+تشمل التطبيقات:
+- تبييض أقمشة القطن والكتان.
+- إزالة بقع الحديد من المنسوجات.
+- معالجة الجلود ودباغتها.
 
-### 5. Pharmaceutical Industry
-Used as an intermediate in:
-- Antibiotic synthesis
-- Vitamin C supply
-- Various pharmaceutical compounds
+### 4. استخراج العناصر الأرضية النادرة
+يلعب حمض الأكساليك دوراً حاسماً في:
+- ترسيب أكسالات العناصر الأرضية النادرة من المحلول.
+- تنقية مركزات العناصر الأرضية النادرة.
+- إنتاج أكاسيد العناصر الأرضية النادرة عالية النقاء.
 
-## Safety Guidelines
-### Handling Precautions
-- Wear appropriate PPE (gloves, goggles, respirator)
-- Work in well-ventilated areas
-- Avoid contact with skin and eyes
-- Do not ingest
+### 5. الصناعة الصيدلانية
+يستخدم كوسيط في:
+- تركيب المضادات الحيوية.
+- إمداد فيتامين ج.
+- مركبات صيدلانية مختلفة.
 
-### Storage Requirements
-- Store in cool, dry, well-ventilated area
-- Keep away from heat sources and incompatible materials
-- Use tightly sealed containers
-- Keep away from strong oxidizers and bases
+## إرشادات السلامة
 
-## Conclusion
-As a trusted [Oxalic Acid supplier from China](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation and global logistics support. Whether you need bulk quantities for rare earth extraction or specialized industrial cleaning, contact us for pricing and availability.
+### احتياطات التداول
+- ارتداء معدات الحماية الشخصية المناسبة (القفازات، النظارات الواقية، جهاز التنفس).
+- العمل في مناطق جيدة التهوية.
+- تجنب ملامسة الجلد والعينين.
+- لا تبتلعه.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### متطلبات التخزين
+- يحفظ في مكان بارد وجاف وجيد التهوية.
+- يحفظ بعيداً عن مصادر الحرارة والمواد غير المتوافقة.
+- استخدام حاويات محكمة الإغلاق.
+- يحفظ بعيداً عن المؤكسدات والقواعد القوية.
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+## خاتمة
+بصفتها [مورد حمض أكساليك موثوق من الصين](https://www.sinopeakchem.com/ar/products/oxalic-acid)، توفر Sinopeakchem حمض أكساليك عالي النقاء (≥99.6%) مع وثائق سلامة كاملة ودعم لوجستي عالمي. سواء كنت بحاجة إلى كميات كبيرة لاستخراج العناصر الأرضية النادرة أو للتنظيف الصناعي المتخصص، اتصل بنا للحصول على الأسعار والتوافر.
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
-
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
-
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+💡 ابتكر مع SinoPeakChem: شريكك لحلول حمض الأكساليك المستدامة!
 
-[1] "Oxalic Acid: Properties, Production, and Industrial Uses." *Chemical Reviews*, 2024.
-[2] "Rare Earth Element Extraction and Purification Using Oxalic Acid." *Journal of Rare Earths*, 2025.
-[3] "Technical Guidelines for Metal Cleaning and Rust Removal with Oxalic Acid." *SinoPeakChem Technical Series*, 2026.
-[4] "Safety Data Sheet (SDS) for Oxalic Acid." *China Ministry of Emergency Management*, 2024.
+تتصدر SinoPeakChem الطليعة في تقديم حلول كيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
+
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
+
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### المراجع
+
+[1] "حمض الأكساليك: الخصائص والإنتاج والاستخدامات الصناعية." *Chemical Reviews*.
+[2] "استخراج وتنقية العناصر الأرضية النادرة باستخدام حمض الأكساليك." *Journal of Rare Earths*.
+[3] "إرشادات فنية لتنظيف المعادن وإزالة الصدأ بحمض الأكساليك." *SinoPeakChem Technical Series*.
+[4] "صحيفة بيانات السلامة (SDS) لحمض الأكساليك." *وزارة إدارة الطوارئ الصينية*.
