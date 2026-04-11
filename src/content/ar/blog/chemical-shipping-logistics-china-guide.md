@@ -1,49 +1,54 @@
 ---
 id: "3"
 slug: "chemical-shipping-logistics-china-guide"
-title: "Chemical Shipping and Logistics from China: What You Need to Know"
-excerpt: "Navigate the complexities of international chemical shipping from China. Learn about regulations, packaging requirements, and choosing the right logistics partner."
+title: "شحن المواد الكيميائية والخدمات اللوجستية من الصين: ما تحتاج إلى معرفته"
+excerpt: "تعرف على تعقيدات الشحن الدولي للمواد الكيميائية من الصين. تعرف على اللوائح، ومتطلبات التعبئة، واختيار الشريك اللوجستي المناسب."
 date: "2026-03-05"
-author: "Sinopeakchem Logistics Team"
-category: "Shipping & Logistics"
-tags: ["chemical shipping","international trade","logistics"]
+author: "فريق سينوبيك كيم للخدمات اللوجستية"
+category: "الشحن والخدمات اللوجستية"
+tags: ["شحن المواد الكيميائية", "التجارة الدولية", "الخدمات اللوجستية"]
 image: "/images/blog/chemical-shipping-logistics-china-guide.webp"
-imageAlt: "International chemical shipping and logistics from China port"
+imageAlt: "شحن المواد الكيميائية الدولي والخدمات اللوجستية من ميناء الصين"
 ---
 
-## Navigating Chemical Logistics
-Shipping chemicals internationally requires specialized knowledge and careful planning. Here's what you need to consider when importing from China.
-## Key Considerations
-### 1. Regulations and Compliance
-- Understand IMDG codes for hazardous materials
-- Ensure all MSDS/SDS documentation is up to date
-- Comply with both Chinese export and destination country import laws
-### 2. Packaging Requirements
-- Use UN-approved packaging for dangerous goods
-- Ensure proper labeling and marking
-- Consider temperature-controlled shipping if necessary
-### 3. Choosing a Logistics Partner
-- Look for experience in chemical handling
-- Verify their network of specialized carriers
-- Check their track record for on-time delivery and safety
-## How Sinopeakchem Helps
-We manage the entire logistics process, from factory to port, ensuring all regulations are met and your shipment arrives safely. Sinopeakchem provides comprehensive shipping support to ensure smooth delivery worldwide.
+## التنقل في الخدمات اللوجستية الكيميائية
+يتطلب شحن المواد الكيميائية دولياً معرفة متخصصة وتخطيطاً دقيقاً. إليك ما تحتاج إلى مراعاته عند الاستيراد من الصين.
+
+## اعتبارات رئيسية
+
+### 1. اللوائح والامتثال
+- فهم أكواد IMDG للمواد الخطرة
+- التأكد من تحديث جميع وثائق MSDS/SDS
+- الامتثال لكل من قوانين التصدير الصينية وقوانين الاستيراد في بلد الوجهة
+
+### 2. متطلبات التعبئة
+- استخدام التعبئة المعتمدة من الأمم المتحدة (UN) للبضائع الخطرة
+- ضمان وضع العلامات والترميز الصحيح
+- مراعاة الشحن الذي يتطلب التحكم في درجة الحرارة إذا لزم الأمر
+
+### 3. اختيار شريك لوجستي
+- ابحث عن الخبرة في مناولة المواد الكيميائية
+- تحقق من شبكتهم من الناقلين المتخصصين
+- تحقق من سجلهم الحافل في التسليم في الوقت المحدد والسلامة
+
+## كيف تساعد سينوبيك كيم
+نحن ندير العملية اللوجستية بأكملها، من المصنع إلى الميناء، مما يضمن تلبية جميع اللوائح ووصول شحنتك بأمان. توفر سينوبيك كيم دعماً شاملاً للشحن لضمان سلاسة التسليم في جميع أنحاء العالم.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Chemical Supply Chain Solutions!
+💡 ابتكر مع سينوبيك كيم: شريكك لحلول سلسلة توريد المواد الكيميائية المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Chemical Supply Chain, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+سينوبيك كيم في طليعة تقديم الحلول الكيميائية عالية الجودة، بما في ذلك سلسلة توريد المواد الكيميائية، المنتجة مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/contact) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/contact) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] "International Maritime Dangerous Goods (IMDG) Code." *International Maritime Organization (IMO)*, 2024.
-[2] "GB 6944-2025: Classification and Code of Dangerous Goods." *Standardization Administration of the People's Republic of China*.
-[3] "Safety Data Sheet (SDS) Requirements for Hazardous Chemicals." *China Ministry of Emergency Management*.
-[4] "Guidelines for the Safe Transport of Chemical Products." *SinoPeakChem Logistics Whitepaper*, 2026.
+[1] "كود البضائع الخطرة البحرية الدولية (IMDG)." *المنظمة البحرية الدولية (IMO)*، 2024.
+[2] "GB 6944-2025: تصنيف وكود البضائع الخطرة." *إدارة التقييس في جمهورية الصين الشعبية*.
+[3] "متطلبات ورقة بيانات السلامة (SDS) للمواد الكيميائية الخطرة." *وزارة إدارة الطوارئ الصينية*.
+[4] "إرشادات النقل الآمن للمنتجات الكيميائية." *الورقة البيضاء للخدمات اللوجستية لسينوبيك كيم*، 2026.

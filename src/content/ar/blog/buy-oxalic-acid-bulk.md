@@ -1,210 +1,210 @@
 ---
 id: "5"
 slug: "buy-oxalic-acid-bulk"
-title: "How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide"
-excerpt: "A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum order quantities, packaging options, shipping methods, payment terms, and the complete procurement process from quotation to delivery."
+title: "كيفية شراء حمض الأكساليك بكميات كبيرة: دليل الحد الأدنى للطلب والتعبئة والشحن"
+excerpt: "دليل شامل للشراء بالجملة لحمض الأكساليك. تعرف على الحد الأدنى لكميات الطلب، وخيارات التعبئة، وطرق الشحن، وشروط الدفع، وعملية الشراء الكاملة من الاقتباس إلى التسليم."
 date: "2026-04-06"
-author: "Sinopeakchem Technical Team"
-category: "Procurement Guide"
-tags: ["buy oxalic acid bulk", "wholesale oxalic acid", "MOQ", "packaging", "shipping", "bulk purchase", "Sinopeakchem"]
+author: "فريق سينوبيك كيم التقني"
+category: "دليل المشتريات"
+tags: ["شراء حمض الأكساليك بالجملة", "حمض الأكساليك بالجملة", "الحد الأدنى للطلب", "التعبئة", "الشحن", "شراء كميات كبيرة", "سينوبيك كيم"]
 image: "/images/blog/buy-oxalic-acid-bulk.webp"
-imageAlt: "Industrial logistics image showing various packaging sizes of chemical products with a cargo ship and shipping containers in the background."
+imageAlt: "صورة لوجستية صناعية تظهر أحجام تعبئة مختلفة للمنتجات الكيميائية مع سفينة شحن وحاويات شحن في الخلفية."
 ---
 
-## How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide
+## كيفية شراء حمض الأكساليك بكميات كبيرة: دليل الحد الأدنى للطلب والتعبئة والشحن
 
-Purchasing oxalic acid in bulk requires careful planning and understanding of the procurement process. Whether you are a distributor, manufacturer, or large-scale industrial user, this comprehensive guide will walk you through every step—from defining your specifications to receiving and inspecting your goods. By following these guidelines, you can optimize costs, ensure product quality, and establish a reliable supply chain.
+يتطلب شراء حمض الأكساليك بكميات كبيرة تخطيطاً دقيقاً وفهماً لعملية الشراء. سواء كنت موزعاً أو مصنعاً أو مستخدماً صناعياً على نطاق واسع، فإن هذا الدليل الشامل سيوجهك عبر كل خطوة - من تحديد المواصفات الخاصة بك إلى استلام وفحص البضائع. من خلال اتباع هذه الإرشادات، يمكنك تحسين التكاليف وضمان جودة المنتج وإنشاء سلسلة توريد موثوقة.
 
-### Step-by-Step Bulk Buying Process
+### عملية الشراء بالجملة خطوة بخطوة
 
-#### Step 1: Define Your Specifications
+#### الخطوة 1: تحديد المواصفات الخاصة بك
 
-Before reaching out to suppliers, clearly define your requirements:
+قبل التواصل مع الموردين، حدد متطلباتك بوضوح:
 
-- **Purity Level**: Determine whether you need industrial grade (≥99.0%), technical grade (≥99.6%), or reagent grade (≥99.8%)
-- **Product Form**: Decide between dihydrate or anhydrous oxalic acid
-- **Annual Volume**: Estimate your yearly consumption to negotiate better pricing
-- **Intended Application**: Specify whether it's for rust removal, textiles, rare earth extraction, or other uses
+- **مستوى النقاء**: حدد ما إذا كنت بحاجة إلى الدرجة الصناعية (≥99.0%)، أو الدرجة التقنية (≥99.6%)، أو درجة الكواشف (≥99.8%)
+- **شكل المنتج**: اختر بين حمض الأكساليك ثنائي الهيدرات أو اللامائي
+- **الحجم السنوي**: قدر استهلاكك السنوي للتفاوض على أسعار أفضل
+- **التطبيق المقصود**: حدد ما إذا كان لإزالة الصدأ، أو المنسوجات، أو استخراج العناصر الأرضية النادرة، أو استخدامات أخرى
 
-#### Step 2: Request Quotes from Suppliers
+#### الخطوة 2: طلب عروض أسعار من الموردين
 
-Contact at least 3-5 reputable suppliers to compare pricing and terms. When requesting quotes, provide:
+اتصل بـ 3-5 موردين ذوي سمعة طيبة على الأقل لمقارنة الأسعار والشروط. عند طلب عروض الأسعار، قدم:
 
-- Exact specifications and purity requirements
-- Desired order quantity and frequency
-- Preferred payment terms and delivery timeline
-- Any special requirements (e.g., custom packaging, certifications)
+- المواصفات الدقيقة ومتطلبات النقاء
+- كمية الطلب المطلوبة وتكرارها
+- شروط الدفع المفضلة والجدول الزمني للتسليم
+- أي متطلبات خاصة (مثل التعبئة المخصصة، الشهادات)
 
-For a [reliable supplier](/en/blog/oxalic-acid-supplier-china), ensure they can provide detailed quotations including unit price, MOQ, and total landed cost.
+بالنسبة لـ [مورد موثوق](/ar/blog/oxalic-acid-supplier-china)، تأكد من قدرته على تقديم عروض أسعار مفصلة تشمل سعر الوحدة، والحد الأدنى للطلب (MOQ)، وإجمالي التكلفة الواصلة.
 
-#### Step 3: Request & Test Samples
+#### الخطوة 3: طلب واختبار العينات
 
-Before committing to a large order, request samples (typically 200-500g) from your top 2-3 candidates. Send these samples to an accredited third-party laboratory for testing to verify:
+قبل الالتزام بطلب كبير، اطلب عينات (عادةً 200-500 جرام) من أفضل 2-3 مرشحين لديك. أرسل هذه العينات إلى مختبر طرف ثالث معتمد لاختبارها والتحقق من:
 
-- Purity and composition
-- Moisture content
-- Heavy metal levels
-- Particle size distribution
+- النقاء والتركيب
+- محتوى الرطوبة
+- مستويات المعادن الثقيلة
+- توزيع حجم الجسيمات
 
-#### Step 4: Negotiate Terms
+#### الخطوة 4: التفاوض على الشروط
 
-Once you've verified sample quality, negotiate the commercial terms:
+بمجرد التحقق من جودة العينة، تفاوض على الشروط التجارية:
 
-- **Price**: Discuss volume discounts and payment method preferences
-- **MOQ**: Confirm the minimum order quantity
-- **Payment Method**: Agree on T/T, L/C, or other payment terms
-- **Delivery Timeline**: Establish expected lead times and shipping schedules
+- **السعر**: ناقش خصومات الكمية وتفضيلات طريقة الدفع
+- **الحد الأدنى للطلب (MOQ)**: قم بتأكيد الحد الأدنى لكمية الطلب
+- **طريقة الدفع**: اتفق على T/T أو L/C أو شروط دفع أخرى
+- **الجدول الزمني للتسليم**: حدد أوقات التسليم المتوقعة وجداول الشحن
 
-Reference current [oxalic acid price trends](/en/blog/oxalic-acid-price) to ensure you're getting competitive rates.
+ارجع إلى [اتجاهات أسعار حمض الأكساليك](/ar/blog/oxalic-acid-price) الحالية لضمان حصولك على أسعار تنافسية.
 
-#### Step 5: Place Order & Arrange Shipping
+#### الخطوة 5: تقديم الطلب وترتيب الشحن
 
-After finalizing terms:
+بعد الانتهاء من الشروط:
 
-- Sign a purchase contract or purchase order
-- Arrange logistics with the supplier or your freight forwarder
-- Confirm shipping method (FCL, LCL, or air freight)
-- Provide delivery address and any special handling instructions
+- وقع عقد شراء أو أمر شراء
+- رتب الخدمات اللوجستية مع المورد أو وكيل الشحن الخاص بك
+- أكد طريقة الشحن (FCL، LCL، أو الشحن الجوي)
+- قدم عنوان التسليم وأي تعليمات خاصة للمناولة
 
-#### Step 6: Receive & Inspect Goods
+#### الخطوة 6: استلام وفحص البضائع
 
-Upon arrival:
+عند الوصول:
 
-- Inspect packaging for damage
-- Verify quantity against the packing list
-- Conduct spot checks on product appearance and quality
-- Retain samples for future reference and quality assurance
+- افحص العبوات بحثاً عن أي تلف
+- تحقق من الكمية مقابل قائمة التعبئة
+- أجرِ فحوصات عشوائية على مظهر المنتج وجودته
+- احتفظ بالعينات للرجوع إليها مستقبلاً وضمان الجودة
 
-### MOQ (Minimum Order Quantity) Explained
+### شرح الحد الأدنى لكمية الطلب (MOQ)
 
-The minimum order quantity varies depending on the supplier and your relationship with them:
+يختلف الحد الأدنى لكمية الطلب حسب المورد وعلاقتك معه:
 
-- **Standard MOQ**: 1 metric ton (for LCL/consolidation) to 20 metric tons (for FCL)
-- **Sample Orders**: 50-200 kg is typically available for testing purposes
-- **Negotiated MOQ**: Established customers may negotiate lower MOQs for repeat orders
-- **Seasonal Variations**: Some suppliers may adjust MOQ based on production schedules
+- **الحد الأدنى القياسي**: من 1 طن متري (للشحن الجزئي LCL) إلى 20 طناً مترياً (للحاوية الكاملة FCL)
+- **طلبات العينات**: يتوفر عادةً 50-200 كجم لأغراض الاختبار
+- **الحد الأدنى المتفاوض عليه**: قد يتفاوض العملاء الدائمون على حدود أدنى للطلبات المتكررة
+- **الاختلافات الموسمية**: قد يقوم بعض الموردين بتعديل الحد الأدنى للطلب بناءً على جداول الإنتاج
 
-Larger MOQs generally result in better unit pricing, so consolidating your annual requirements can lead to significant cost savings.
+تؤدي الكميات الأكبر عادةً إلى سعر وحدة أفضل، لذا فإن توحيد متطلباتك السنوية يمكن أن يؤدي إلى توفير كبير في التكاليف.
 
-### Packaging Options
+### خيارات التعبئة
 
-Oxalic acid is available in multiple packaging formats to suit different needs:
+يتوفر حمض الأكساليك في أشكال تعبئة متعددة لتناسب الاحتياجات المختلفة:
 
-| Packaging Type | Size | Typical Use Case | Container Capacity (20ft) |
+| نوع التعبئة | الحجم | حالة الاستخدام النموذجية | سعة الحاوية (20 قدم) |
 |---|---|---|---|
-| Woven Bag + PE Liner | 25 kg | Retail / Small Orders | ~22 MT |
-| Woven Bag + PE Liner | 50 kg | Industrial Users | ~22 MT |
-| FIBC (Ton Bag) | 500 kg | Large Factories | ~22 MT |
-| FIBC (Ton Bag) | 1,000 kg | Large Factories | ~22 MT |
+| كيس منسوج + بطانة PE | 25 كجم | التجزئة / الطلبات الصغيرة | ~22 طن متري |
+| كيس منسوج + بطانة PE | 50 كجم | المستخدمون الصناعيون | ~22 طن متري |
+| كيس جامبو (Ton Bag) | 500 كجم | المصانع الكبيرة | ~22 طن متري |
+| كيس جامبو (Ton Bag) | 1,000 كجم | المصانع الكبيرة | ~22 طن متري |
 
-**Customization Options**: Many suppliers, including SinoPeakChem, offer custom packaging and private labeling (OEM/ODM) services. This is ideal if you want to rebrand the product under your own label.
+**خيارات التخصيص**: يقدم العديد من الموردين، بما في ذلك سينوبيك كيم، خدمات التعبئة المخصصة ووضع العلامات الخاصة (OEM/ODM). هذا مثالي إذا كنت ترغب في إعادة تسمية المنتج تحت علامتك التجارية الخاصة.
 
-**Packaging Quality**: Ensure packaging includes:
-- Moisture-proof inner PE liners
-- Proper sealing to prevent contamination
-- Clear labeling with product specifications, batch number, and safety information
-- Pallet-friendly stacking for efficient logistics
+**جودة التعبئة**: تأكد من أن التعبئة تشمل:
+- بطانات داخلية من البولي إيثيلين (PE) مقاومة للرطوبة
+- إغلاق محكم لمنع التلوث
+- ملصقات واضحة بمواصفات المنتج ورقم الدفعة ومعلومات السلامة
+- تكديس مناسب للمنصات (Pallets) لضمان لوجستيات فعالة
 
-### Shipping & Logistics
+### الشحن والخدمات اللوجستية
 
-#### Ocean Freight (Most Common)
+#### الشحن البحري (الأكثر شيوعاً)
 
-**Full Container Load (FCL)**:
-- 20-foot container: Approximately 22 MT capacity
-- 40-foot container: Approximately 24 MT capacity
-- Most cost-effective for orders ≥15 MT
-- Main export ports: Shanghai, Qingdao, Tianjin, Ningbo
+**حاوية كاملة (FCL)**:
+- حاوية 20 قدماً: سعة 22 طناً مترياً تقريباً
+- حاوية 40 قدماً: سعة 24 طناً مترياً تقريباً
+- الأكثر فعالية من حيث التكلفة للطلبات ≥15 طن متري
+- موانئ التصدير الرئيسية: شنغهاي، تشينغداو، تيانجين، نينغبو
 
-**Less Than Container Load (LCL)**:
-- Suitable for smaller orders (1-15 MT)
-- Higher per-unit cost due to consolidation fees
-- Longer transit times due to consolidation and deconsolidation
+**شحن جزئي (LCL)**:
+- مناسب للطلبات الصغيرة (1-15 طن متري)
+- تكلفة أعلى لكل وحدة بسبب رسوم التجميع
+- أوقات ترانزيت أطول بسبب عمليات التجميع والتفريغ
 
-**Typical Shipping Times**:
+**أوقات الشحن النموذجية**:
 
-| Destination | Approximate Transit Time |
+| الوجهة | وقت الترانزيت التقريبي |
 |---|---|
-| Southeast Asia | 7-15 days |
-| India | 15-20 days |
-| Middle East | 20-25 days |
-| Europe | 25-35 days |
-| North America | 25-35 days |
-| South America | 35-45 days |
-| Africa | 25-40 days |
+| جنوب شرق آسيا | 7-15 يوماً |
+| الهند | 15-20 يوماً |
+| الشرق الأوسط | 20-25 يوماً |
+| أوروبا | 25-35 يوماً |
+| أمريكا الشمالية | 25-35 يوماً |
+| أمريكا الجنوبية | 35-45 يوماً |
+| أفريقيا | 25-40 يوماً |
 
-#### Rail Transport
+#### النقل بالسكك الحديدية
 
-China-Europe Railway Express (China-EU Railway) is an excellent option for:
-- Central Asian markets
-- European destinations
-- Faster transit than ocean freight (15-20 days to Europe)
-- Competitive pricing for medium volumes
+يعد قطار الشحن بين الصين وأوروبا خياراً ممتازاً لـ:
+- أسواق آسيا الوسطى
+- الوجهات الأوروبية
+- ترانزيت أسرع من الشحن البحري (15-20 يوماً إلى أوروبا)
+- أسعار تنافسية للكميات المتوسطة
 
-#### Air Freight
+#### الشحن الجوي
 
-Reserved for urgent, small-quantity shipments due to high costs. Typical usage:
-- Emergency orders
-- Samples or trial shipments
-- Time-sensitive applications
+يخصص للشحنات العاجلة ذات الكميات الصغيرة بسبب التكاليف العالية. الاستخدام النموذجي:
+- الطلبات الطارئة
+- العينات أو الشحنات التجريبية
+- التطبيقات الحساسة للوقت
 
-### Payment Terms
+### شروط الدفع
 
-Understanding payment options helps you manage cash flow and reduce risk:
+يساعدك فهم خيارات الدفع على إدارة التدفق النقدي وتقليل المخاطر:
 
-**T/T (Telegraphic Transfer)**:
-- Most common method
-- Typical structure: 30% advance payment + 70% upon receipt of Bill of Lading copy
-- Fastest processing
+**التحويل البرقي (T/T)**:
+- الطريقة الأكثر شيوعاً
+- الهيكل النموذجي: 30% دفع مقدم + 70% عند استلام نسخة من بوليصة الشحن
+- أسرع في المعالجة
 
-**L/C (Letter of Credit)**:
-- Preferred for large orders
-- Bank guarantees payment to the supplier
-- Provides security for both parties
-- Requires more documentation
+**الاعتماد المستندي (L/C)**:
+- يفضل للطلبات الكبيرة
+- يضمن البنك الدفع للمورد
+- يوفر الأمان لكلا الطرفين
+- يتطلب المزيد من الوثائق
 
-**D/P (Documents Against Payment)**:
-- Moderate risk level
-- Payment due upon presentation of shipping documents
-- Suitable for established business relationships
+**مستندات مقابل الدفع (D/P)**:
+- مستوى مخاطرة متوسط
+- الدفع عند تقديم مستندات الشحن
+- مناسب لعلاقات العمل القائمة
 
-**Western Union**:
-- Limited to sample fees only
-- Not recommended for bulk orders
+**ويسترن يونيون**:
+- يقتصر على رسوم العينات فقط
+- لا ينصح به لطلبات الجملة
 
-### Documents You'll Receive
+### المستندات التي ستستلمها
 
-When your shipment arrives, expect the following documentation:
+عند وصول شحنتك، توقع الوثائق التالية:
 
-- **Commercial Invoice**: Details of goods, quantities, prices, and payment terms
-- **Packing List**: Itemized list of contents and packaging details
-- **Bill of Lading (B/L)**: Proof of shipment and ownership transfer
-- **Certificate of Analysis (COA)**: Test results confirming product specifications
-- **Material Safety Data Sheet (MSDS/SDS)**: Safety and handling information
-- **Certificate of Origin**: Confirms country of manufacture
-- **Fumigation Certificate**: Required if wooden pallets are used
+- **الفاتورة التجارية**: تفاصيل البضائع والكميات والأسعار وشروط الدفع
+- **قائمة التعبئة**: قائمة مفصلة بالمحتويات وتفاصيل التعبئة
+- **بوليصة الشحن (B/L)**: دليل على الشحن ونقل الملكية
+- **شهادة التحليل (COA)**: نتائج الاختبار التي تؤكد مواصفات المنتج
+- **ورقة بيانات سلامة المواد (MSDS/SDS)**: معلومات السلامة والمناولة
+- **شهادة المنشأ**: تؤكد بلد التصنيع
+- **شهادة التبخير**: مطلوبة في حال استخدام المنصات الخشبية
 
-### Conclusion
+### الخاتمة
 
-Bulk purchasing of oxalic acid requires careful coordination across multiple steps, from specification definition to final delivery. By following this guide and partnering with a transparent, experienced supplier like SinoPeakChem, you can streamline your procurement process, reduce costs, and ensure consistent product quality.
+يتطلب شراء حمض الأكساليك بكميات كبيرة تنسيقاً دقيقاً عبر خطوات متعددة، من تحديد المواصفات إلى التسليم النهائي. من خلال اتباع هذا الدليل والشراكة مع مورد شفاف وذو خبرة مثل سينوبيك كيم، يمكنك تبسيط عملية الشراء الخاصة بك، وتقليل التكاليف، وضمان جودة المنتج المتسقة.
 
-**Ready to place your bulk order? SinoPeakChem handles everything from production to delivery. [Start Your Order →] [Request Sample First →]**
+**هل أنت مستعد لتقديم طلبك بالجملة؟ سينوبيك كيم تتولى كل شيء من الإنتاج إلى التسليم. [ابدأ طلبك ←] [اطلب عينة أولاً ←]**
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+💡 ابتكر مع سينوبيك كيم: شريكك لحلول حمض الأكساليك المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+سينوبيك كيم في طليعة تقديم الحلول الكيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] "Chemical Logistics and Shipping Guide." *SinoPeakChem Technical Blog*, 2026.
-[2] "International Maritime Organization (IMO) Regulations for Chemical Transport." *IMO*.
-[3] "Understanding Payment Terms in International Trade." *International Chamber of Commerce*.
+[1] "دليل الخدمات اللوجستية والشحن الكيميائي." *مدونة سينوبيك كيم التقنية*، 2026.
+[2] "لوائح المنظمة البحرية الدولية (IMO) لنقل المواد الكيميائية." *IMO*.
+[3] "فهم شروط الدفع في التجارة الدولية." *غرفة التجارة الدولية*.
