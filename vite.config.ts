@@ -1,7 +1,5 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
-import { readFileSync } from 'fs';
-import { resolve } from 'path';
 import path from "path";
 import markdownPlugin from "./vite-plugin-markdown.mjs";
 
@@ -19,17 +17,9 @@ export default defineConfig({
         if (match) {
           const cssLinkTag = match[0];
           const cssHash = match[1];
-          const asyncLoadScript = `
-            <script>
-              (function() {
-                var link = document.createElement(\'link\');
-                link.rel = \'stylesheet\';
-                link.href = \'/assets/index-${cssHash}.css\';
-                document.head.appendChild(link);
-              })();
-            </script>
-          `;
-          return html.replace(cssLinkTag, asyncLoadScript);
+          const preloadLink = `<link rel="preload" href="/assets/index-${cssHash}.css" as="style" onload="this.onload=null;this.rel='stylesheet'">`;
+          const noscriptFallback = `<noscript><link rel="stylesheet" crossorigin href="/assets/index-${cssHash}.css"></noscript>`;
+          return html.replace(cssLinkTag, `${preloadLink}\n    ${noscriptFallback}`);
         }
         return html;
       },
