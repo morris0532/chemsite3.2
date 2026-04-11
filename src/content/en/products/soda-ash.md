@@ -5,48 +5,97 @@ nameCn: "纯碱"
 cas: "497-19-8"
 hsCode: "2836200000"
 slug: "soda-ash"
-shortDescription: "High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and export from China. Essential for glass, detergent, and chemical supply. Trusted supplier with competitive pricing."
+shortDescription: "Premium China Soda Ash (Sodium Carbonate) Light & Dense. Purity ≥ 99.2%, Fe ≤ 0.003%. Direct factory supply from Tianjin/Lianyungang Port. REACH & ISO compliant for global glass, detergent, and chemical industries."
 image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
 specs: [
   {"label":"Chemical Formula","value":"Na₂CO₃"},
   {"label":"CAS Number","value":"497-19-8"},
   {"label":"HS Code","value":"2836200000"},
-  {"label":"Purity","value":"≥99.2% (Light/Dense)"},
-  {"label":"Appearance","value":"White powder (dense/light)"},
-  {"label":"Packaging","value":"40KG bags / Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"27-28MT/20GP (dense) / 22-23MT/20GP (light)"},
-  {"label":"Available Ports","value":"Lianyungang / Qingdao / Tianjin"}
+  {"label":"Purity (Na₂CO₃)","value":"≥ 99.2%"},
+  {"label":"Iron Content (Fe)","value":"≤ 0.003%"},
+  {"label":"Chloride (NaCl)","value":"≤ 0.7%"},
+  {"label":"Appearance","value":"White Crystalline Powder (Light) / Granular (Dense)"},
+  {"label":"Packaging","value":"25kg/40kg/50kg PP Bags, 1000kg Jumbo Bags"},
+  {"label":"Loading Capacity","value":"27-28MT/20'GP (Dense), 21-22MT/20'GP (Light)"},
+  {"label":"Main Export Ports","value":"Tianjin / Lianyungang / Qingdao"}
 ]
-applications: ["Glass and flat glass supply","Detergent and soap supply","Water treatment","Metallurgy and smelting","Paper supply","Chemical synthesis"]
+applications: ["Flat & Container Glass Manufacturing","Detergent & Soap Production","Water Treatment & pH Control","Metallurgy & Alumina Refining","Chemical Synthesis (Sodium Silicates)","Textile & Dyeing Fixatives"]
 faqs: [
-  {"question":"What is the difference between dense and light soda ash?","answer":"Dense soda ash has a higher bulk density (approximately 1000 kg/m³) and is preferred for glass supply. Light soda ash has a lower bulk density (approximately 500 kg/m³) and is commonly used in detergent supply and chemical synthesis."},{"question":"What is the minimum order quantity for bulk buy?","answer":"We recommend a full 20-foot container for best pricing. As a leading China supplier, we can load 27-28MT of dense soda ash or 22-23MT of light soda ash per 20GP."},{"question":"Which Chinese ports do you export Soda Ash from?","answer":"We primarily ship from Lianyungang and Qingdao ports, both offering excellent connectivity to global destinations for your bulk orders."},{"question":"Can you provide samples before I place a wholesale order?","answer":"Yes, as a trusted supplier, we can provide samples for quality testing. Please contact our sales team with your requirements and shipping address."}
+  {"question":"What is the primary difference between Soda Ash Dense and Light for procurement?","answer":"The main difference is bulk density. Soda Ash Dense (~1000 kg/m³) is preferred for glass manufacturing to prevent dust loss in furnaces. Soda Ash Light (~500 kg/m³) is ideal for detergents and chemical reactions where rapid dissolution is required."},{"question":"What are the current loading limits for Soda Ash from China?","answer":"For Soda Ash Dense, we typically load 27-28 MT per 20'GP container. For Soda Ash Light, due to its higher volume, the limit is usually 21-22 MT per 20'GP to ensure safe transit and compliance with maritime regulations."},{"question":"Does your Soda Ash meet REACH and ISO standards for export to Europe?","answer":"Yes, our Soda Ash is fully REACH registered and manufactured under ISO 9001:2015 quality management systems. We provide full COA and TDS for every batch to ensure compliance with international procurement standards."},{"question":"Can you provide customized packaging for bulk orders?","answer":"Absolutely. While our standard is 50kg and 1000kg bags, we offer customized OEM packaging, including neutral bags or specific palletization (shrink-wrapped/IPPC pallets) to meet your local warehouse requirements."}
 ]
-ports: "Lianyungang / Qingdao"
-loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
-packaging: "40KG/Jumbo bags"
+ports: "Tianjin / Lianyungang / Qingdao"
+loading: "27-28MT/20GP (Dense) / 21-22MT/20GP (Light)"
+packaging: "50kg/1000kg Jumbo Bags"
 category: "Alkali Products"
 ---
 
-## Soda Ash (CAS 497-19-8): Your Premier China Supplier for Light & Dense Sodium Carbonate
+## Soda Ash (Sodium Carbonate) Sourcing Guide: High-Purity Industrial Grade
 
-As a leading **China supplier and supplier** of **Soda Ash (Na₂CO₃)**, also known as **Sodium Carbonate**, we offer both **Light Soda Ash** and **Dense Soda Ash** with **≥99.2% purity** for **bulk purchase** and **export** worldwide. Our Soda Ash is supplied using advanced processes, ensuring consistent quality that meets the diverse needs of various industrial applications (HS Code: 2836200000).
+As a premier **China Soda Ash supplier**, we provide high-purity **Sodium Carbonate (Na₂CO₃)** in both **Light** and **Dense** grades. Our product is engineered for high-performance industrial applications, ensuring a minimum purity of **99.2%** and ultra-low iron content (**Fe ≤ 0.003%**), critical for high-end glass and chemical synthesis.
 
-### Key Applications & Benefits:
+### Quick Specification Summary (TDS Highlights)
 
-1.  **Glass supply**: Soda Ash is a fundamental raw material in the **glass supply industry**, used in the supply of flat glass, container glass, and fiberglass. It acts as a flux, lowering the melting point of silica and reducing energy consumption.
+| Parameter | Soda Ash Dense (Industrial Grade) | Soda Ash Light (Industrial Grade) |
+| :--- | :--- | :--- |
+| **Total Alkali (as Na₂CO₃)** | ≥ 99.2% | ≥ 99.2% |
+| **Chloride (as NaCl)** | ≤ 0.70% | ≤ 0.70% |
+| **Iron (as Fe)** | ≤ 0.003% | ≤ 0.003% |
+| **Water Insoluble Matter** | ≤ 0.03% | ≤ 0.03% |
+| **Bulk Density (g/ml)** | 0.90 - 1.20 | 0.50 - 0.80 |
+| **Particle Size (>180μm)** | ≥ 70% | N/A (Fine Powder) |
 
-2.  **Detergent and Soap supply**: A crucial ingredient in the formulation of **detergents and soaps**, where it acts as a builder, enhancing cleaning efficiency by softening water and emulsifying grease.
+---
 
-3.  **Chemical supply**: Widely used in the supply of other essential chemicals, including **sodium silicates, sodium bicarbonate (baking soda)**, and various dyes and pigments. It serves as a versatile alkali source in numerous chemical reactions.
+## Industrial Grade Matcher: Choosing the Right Specification
 
-4.  **Water Treatment**: Employed in **water treatment** processes for pH adjustment, water softening by precipitating calcium and magnesium ions, and as a component in flocculation.
+Selecting the correct grade of Soda Ash is vital for process efficiency and cost-control. Use the table below to match your industry requirements:
 
-5.  **Metallurgy**: In the **metallurgical industry**, Soda Ash is used as a flux in smelting processes and as a desulfurizer in iron and steel supply, helping to remove impurities.
+| Industry Application | Recommended Grade | Key Procurement Factor |
+| :--- | :--- | :--- |
+| **Flat & Solar Glass** | **Soda Ash Dense** | Low Fe content & uniform particle size to prevent furnace dust. |
+| **Detergent & Soap** | **Soda Ash Light** | High solubility and excellent buffering capacity for surfactants. |
+| **Water Treatment** | **Soda Ash Light** | Rapid pH adjustment and cost-effective alkalinity source. |
+| **Chemical Synthesis** | **Light / Dense** | High purity (99.2%+) for sodium silicate and phosphate production. |
+| **Metallurgy (Alumina)** | **Soda Ash Dense** | Bulk handling efficiency and high-temperature stability. |
 
-### Packaging, Logistics & Quality Assurance:
+---
 
-We provide flexible **packaging solutions** for our Soda Ash, including robust 40KG PP woven bags and 1000KG jumbo bags, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of up to 28 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao and Lianyungang, ensuring competitive logistics and timely delivery.
+## Why Source Soda Ash from Our China Factory?
 
-Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Soda Ash supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
+### 1. Strategic Logistics & Port Advantage
+We leverage our proximity to **Tianjin Port** and **Lianyungang Port**, the two largest chemical export hubs in China. This ensures:
+*   **Reduced Inland Freight**: Lowering the overall CIF/CFR price for our global partners.
+*   **Frequent Vessel Schedules**: Minimizing lead times for urgent bulk orders.
+*   **Expert Loading**: We maximize container utilization (up to 28MT for Dense) to reduce your per-ton shipping cost.
 
+### 2. Strict Quality Control (COA/TDS Compliance)
+Every shipment undergoes rigorous testing. We provide a **Certificate of Analysis (COA)** for every batch, ensuring that parameters like **Fe, NaCl, and Sulfate** are well within your required thresholds. Our facility is **ISO 9001:2015** certified, and we maintain full **REACH registration** for the European market.
+
+### 3. Flexible Packaging Solutions
+To meet diverse international storage standards, we offer:
+*   **Standard**: 50kg PP/PE bags (durable for multi-stage transit).
+*   **Bulk**: 1000kg/1200kg Jumbo bags with bottom discharge for automated factories.
+*   **Custom**: Palletized with UV-resistant shrink wrap for outdoor storage.
+
+---
+
+## Logistics & Export Data for Procurement Managers
+
+*   **HS Code**: 2836200000
+*   **CAS No.**: 497-19-8
+*   **UN Number**: Not regulated as dangerous goods for transport.
+*   **Monthly Supply Capacity**: 15,000 Metric Tons.
+*   **Payment Terms**: L/C at sight, T/T (30% deposit), or Sinosure-backed credit for long-term partners.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 **Need a Formal Quote or TDS?**
+Our technical team is ready to provide a detailed price breakdown based on your target port.
+**[Get a Bulk Quote →](/en/contact)** **[Request Free Sample →](/en/contact)**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## References & Compliance
+1. **ISO 9001:2015**: Quality Management Systems for Alkali Production.
+2. **REACH Regulation**: European Chemicals Agency (ECHA) compliance for Sodium Carbonate.
+3. **GB/T 210.1-2004**: Chinese National Standard for Industrial Sodium Carbonate.
