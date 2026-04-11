@@ -1,100 +1,75 @@
 ---
-id: "9"
+id: "24"
 slug: "oxalic-acid-marble-polishing"
-title: "Oxalic Acid for Marble Polishing & Stone Care: Best Practices"
-excerpt: "Discover the professional techniques for using oxalic acid to polish marble and care for various stone surfaces. Learn about its chemical action, application methods, safety precautions, and how to achieve a brilliant shine."
-date: "2026-04-09"
-author: "Sinopeakchem Technical Team"
-category: "Product Application"
-tags: ["oxalic acid marble polishing", "stone care", "marble restoration", "stone cleaning", "Sinopeakchem"]
+title: "تلميع الرخام بحمض الأكساليك: الدليل المهني للعناية بالحجر"
+excerpt: "تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي. يغطي هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة."
+date: "2026-04-24"
+author: "خبير العناية بالحجر في Sinopeakchem"
+category: "تطبيقات صناعية"
+tags: ["تلميع الرخام", "حمض الأكساليك للرخام", "العناية بالحجر الطبيعي", "Sinopeakchem"]
 image: "/images/blog/oxalic-acid-marble-polishing.webp"
-imageAlt: "A close-up of a highly polished marble surface, reflecting light, with a subtle hint of the polishing process."
+imageAlt: "صورة مقربة لأرضية رخامية لامعة تعكس الضوء، تظهر نتائج عملية التلميع الاحترافية بحمض الأكساليك"
 ---
 
-## Oxalic Acid for Marble Polishing & Stone Care: Best Practices
+## تلميع الرخام بحمض الأكساليك: الدليل المهني للعناية بالحجر
 
-Marble and other natural stone surfaces are prized for their elegance and durability, but they can lose their luster over time due to etching, scratches, and general wear. Oxalic acid, a versatile organic compound, plays a crucial role in professional stone care, particularly in polishing marble to restore its brilliant shine. This guide explores the chemical principles, application techniques, and best practices for using oxalic acid in marble polishing and general stone maintenance.
+يعد الرخام من أجمل مواد البناء الطبيعية، ولكن بريقه قد يخفت بمرور الوقت بسبب التآكل والخدوش. يعد حمض الأكساليك (H₂C₂O₄) أداة لا غنى عنها للمحترفين في استعادة اللمعان الطبيعي للرخام والأحجار الكلسية الأخرى من خلال عملية كيميائية وميكانيكية فريدة.
 
-### The Chemical Action of Oxalic Acid on Stone
+### كيف يعمل حمض الأكساليك في تلميع الرخام؟
 
-Oxalic acid (C₂H₂O₄) is a dicarboxylic acid that reacts with calcium carbonate (CaCO₃), the primary component of marble and some other calcareous stones. When applied to marble, oxalic acid reacts to form calcium oxalate (CaC₂O₄), a hard, insoluble, and transparent salt that crystallizes on the surface. This micro-crystalline layer acts as a protective and reflective film, enhancing the stone's gloss and making it more resistant to future etching and staining [1].
+يتكون الرخام بشكل أساسي من كربونات الكالسيوم (CaCO₃). عندما يتفاعل حمض الأكساليك مع سطح الرخام، يحدث تفاعل كيميائي ينتج عنه **أكسالات الكالسيوم**. هذه المادة الجديدة أكثر صلابة ومقاومة من كربونات الكالسيوم الأصلية، وتشكل طبقة رقيقة وشفافة تمنح الرخام بريقه المميز.
 
-This process is often referred to as 
-crystallization or vitrification. It's important to note that while oxalic acid can improve the appearance of marble, it does not fill deep scratches or repair significant damage.
+### دليل الخطوات العملية لتلميع الرخام
 
-### Suitable Stone Types
+#### الخطوة 1: التحضير والسلامة
+-   **معدات الحماية الشخصية (PPE)**: ارتدِ دائماً قفازات مقاومة للمواد الكيميائية وحماية للعين (نظارات واقية) وكمامة. تأكد من أن منطقة العمل جيدة التهوية.
+-   **تنظيف السطح**: نظف سطح الرخام جيداً لإزالة جميع الأوساخ والدهون والحطام السائب باستخدام منظف حجر متعادل الحموضة.
+-   **حماية المناطق المحيطة**: قم بتغطية الأسطح المجاورة والأثاث والأرضيات لحمايتها من الرذاذ.
 
-Oxalic acid is primarily used on:
+#### الخطوة 2: تحضير معجون حمض الأكساليك
+-   **التركيز**: يستخدم حمض الأكساليك عادةً كمعجون للتلميع. اخلط مسحوق حمض الأكساليك مع كمية صغيرة من الماء المقطر لتكوين معجون سميك وكريمي يشبه قوام معجون الأسنان.
 
--   **Marble**: Highly effective for polishing and restoring shine due to its calcium carbonate composition.
--   **Travertine**: Similar to marble, travertine can also benefit from oxalic acid polishing.
--   **Limestone**: Can be polished, but caution is advised as it is softer than marble.
+#### الخطوة 3: التطبيق والتلميع
+-   **تطبيق المعجون**: ضع طبقة رقيقة ومتساوية من معجون حمض الأكساليك على قسم صغير من سطح الرخام (مثلاً 60×60 سم). لا تغطِ مساحة كبيرة جداً في وقت واحد لتجنب جفاف المعجون.
+-   **استخدام آلة التلميع**: باستخدام آلة تلميع دوارة منخفضة السرعة مع وسادة بيضاء أو من الألياف الطبيعية، ابدأ بتلميع المنطقة المحددة بحركات دائرية متداخلة. يؤدي الاحتكاك والضغط الناتج عن الآلة إلى بدء التفاعل الكيميائي والتبلور.
+-   **الحفاظ على الرطوبة**: حافظ على رطوبة المعجون أثناء التلميع. إذا بدأ في الجفاف، رشه برذاذ خفيف من الماء. استمر في التلميع حتى يتحقق اللمعان المطلوب (عادة 5-10 دقائق لكل قسم).
 
-It should generally **not** be used on:
+#### الخطوة 4: الشطف والمعادلة (مهم جداً)
+-   **الشطف الجيد**: فور الانتهاء من تلميع قسم ما، اشطف المنطقة جيداً بالماء النظيف لإزالة جميع بقايا المعجون.
+-   **المعادلة**: على الرغم من استقرار طبقة أكسالات الكالسيوم، فمن الممارسات الجيدة معادلة أي حمض متبقي. ضع محلولاً قلوياً خفيفاً (مثل صودا الخبز والماء) على المنطقة المصقولة، واتركه لبضع دقائق، ثم اشطفه مرة أخرى بالماء النظيف.
 
--   **Granite**: Granite is primarily composed of quartz and feldspar, which do not react with oxalic acid to form a polish. Using oxalic acid on granite is ineffective and can potentially cause hazing.
--   **Slate, Quartzite, Sandstone**: These silicious stones do not respond to oxalic acid polishing.
--   **Sealed or Coated Stone**: Oxalic acid will not penetrate sealers or coatings and may damage them.
+#### الخطوة 5: التجفيف والفحص
+-   **التجفيف التام**: اترك الرخام ليجف تماماً. افحص المنطقة المصقولة للتأكد من تساوي اللمعان. كرر العملية على الأقسام الأخرى حتى يتم تلميع السطح بالكامل.
 
-### Step-by-Step Guide to Marble Polishing with Oxalic Acid
-
-#### Step 1: Preparation and Safety
-
--   **Personal Protective Equipment (PPE)**: Always wear chemical-resistant gloves, eye protection (goggles), and a respirator or mask. Ensure the work area is well-ventilated. For detailed [safety guidelines](/en/blog/safety-guide), consult our comprehensive guide.
--   **Clean the Surface**: Thoroughly clean the marble surface to remove all dirt, grime, and loose debris. Use a neutral pH stone cleaner. Any remaining abrasive particles can cause scratches during polishing.
--   **Protect Surrounding Areas**: Mask off adjacent surfaces, furniture, and flooring to protect them from splashes.
-
-#### Step 2: Prepare the Oxalic Acid Paste
-
--   **Concentration**: Oxalic acid is typically used as a paste for polishing. Mix oxalic acid powder with a small amount of distilled water to create a thick, creamy paste. The consistency should be similar to toothpaste. Avoid making it too watery, as it will be less effective.
-
-#### Step 3: Application and Polishing
-
--   **Apply the Paste**: Apply a thin, even layer of the oxalic acid paste to a small section of the marble surface (e.g., 2x2 feet area). Do not cover too large an area at once, as the paste can dry out.
--   **Use a Polishing Machine**: Using a low-speed rotary polishing machine with a white or natural fiber pad, begin polishing the applied area. Work in overlapping circular motions. The friction and pressure from the machine, combined with the oxalic acid, initiate the chemical reaction and crystallization.
--   **Maintain Moisture**: Keep the paste moist during polishing. If it starts to dry, mist it lightly with water. Continue polishing until the desired shine is achieved, typically 5-10 minutes per section.
-
-#### Step 4: Rinse and Neutralize
-
--   **Rinse Thoroughly**: Immediately after polishing a section, rinse the area thoroughly with clean water to remove all paste residue. Use a wet vacuum or mop to pick up the slurry.
--   **Neutralize (Crucial)**: Although the calcium oxalate layer is stable, it's good practice to neutralize any residual acid. Apply a mild alkaline solution (e.g., baking soda and water) to the polished area, let it sit for a few minutes, then rinse again with clean water. For more details on [how to neutralize oxalic acid](/en/blog/how-to-neutralize-oxalic-acid), refer to our specific guide.
-
-#### Step 5: Dry and Inspect
-
--   **Dry Completely**: Allow the marble to dry completely. Inspect the polished area for evenness and shine. Repeat the process on other sections until the entire surface is polished.
--   **Seal (Optional but Recommended)**: Once polished and dry, consider applying a penetrating sealer to protect the marble from future stains and etching. This will help maintain the newly achieved shine.
-
-### Troubleshooting Common Issues
-
-| Issue | Cause | Solution |
+### استكشاف الأخطاء وإصلاحها
+| المشكلة | السبب المحتمل | الحل |
 |---|---|---|
-| Uneven Shine/Hazing | Inconsistent application, paste dried out, insufficient polishing | Reapply paste, maintain moisture, polish longer and more evenly |
-| Etching/Dull Spots | Acid left on surface too long, improper neutralization | Re-polish the affected area, ensure thorough rinsing and neutralization |
-| No noticeable shine | Incorrect stone type (e.g., granite), insufficient oxalic acid concentration | Verify stone type, ensure proper paste consistency and polishing technique |
+| لمعان غير متساوٍ | تطبيق غير متسق أو جفاف المعجون | أعد تطبيق المعجون وحافظ على الرطوبة |
+| بقع باهتة | ترك الحمض لفترة طويلة جداً | أعد تلميع المنطقة المصابة مع الشطف الجيد |
+| لا يوجد لمعان ملحوظ | نوع حجر غير مناسب (مثل الجرانيت) | تأكد من نوع الحجر (كلسي) وتركيز المعجون |
 
-### Conclusion
+### خاتمة
+يعد حمض الأكساليك أداة فعالة لاستعادة الجمال الطبيعي للرخام. من خلال فهم عمله الكيميائي واتباع أفضل الممارسات للتطبيق والسلامة، يمكنك تحقيق نتائج مذهلة. SinoPeakChem هي شريكك الموثوق لتوفير حمض أكساليك عالي الجودة لجميع احتياجات العناية بالحجر.
 
-Oxalic acid is an indispensable tool for professional marble polishing and stone care, offering an effective way to restore the natural beauty and shine of calcareous stones. By understanding its chemical action and meticulously following best practices for application and safety, you can achieve stunning results. For high-quality oxalic acid suitable for all your stone care needs, SinoPeakChem is your trusted partner.
-
-**Achieve a brilliant shine on your marble surfaces. Get high-purity oxalic acid from SinoPeakChem. [Contact Us for a Quote →](/en/contact)**
+**استعد البريق الرائع لأسطح الرخام الخاصة بك. احصل على حمض أكساليك عالي النقاء من SinoPeakChem. [اتصل بنا للحصول على عرض أسعار ←](/ar/contact)**
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+💡 ابتكر مع SinoPeakChem: شريكك لحلول حمض الأكساليك المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+تتصدر SinoPeakChem الطليعة في تقديم حلول كيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] "Marble Polishing with Oxalic Acid." *Stone Care International*, www.stonecare.com/marble-polishing-oxalic-acid.
-[2] "The Chemistry of Marble Polishing." *Natural Stone Institute*, www.naturalstoneinstitute.org/marble-polishing-chemistry.
-[3] "Safety Data Sheet: Oxalic Acid." *ScienceLab.com*, www.sciencelab.com/msds/Oxalic_Acid.shtml.
-[4] "Stone Care and Maintenance." *Marble Institute of America*, www.marble-institute.com/stone-care.
+[1] "تلميع الرخام بحمض الأكساليك." *Stone Care International*.
+[2] "كيمياء تلميع الرخام." *Natural Stone Institute*.
+[3] "صحيفة بيانات السلامة: حمض الأكساليك." *ScienceLab*.
+[4] "العناية بالحجر وصيانته." *Marble Institute of America*.
