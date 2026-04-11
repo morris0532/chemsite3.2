@@ -169,17 +169,11 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       }
     }
 
-    const newPath = location.pathname === "/" 
-      ? targetPrefix 
-      : (location.pathname.startsWith('/en') 
-          ? location.pathname.replace("/en", targetPrefix) 
-          : (location.pathname.startsWith('/ru') 
-              ? location.pathname.replace("/ru", targetPrefix) 
-              : (location.pathname.startsWith('/fr') 
-                  ? location.pathname.replace("/fr", targetPrefix) 
-                  : (location.pathname.startsWith('/es')
-                      ? location.pathname.replace("/es", targetPrefix)
-                      : location.pathname.replace("/ar", targetPrefix)))));
+    const pathParts = location.pathname.split('/').filter(Boolean);
+    const isKnownLang = ['en', 'ru', 'fr', 'es', 'ar'].includes(pathParts[0]);
+    const newPath = isKnownLang 
+      ? `/${targetLocale}/${pathParts.slice(1).join('/')}`
+      : `/${targetLocale}${location.pathname === '/' ? '' : location.pathname}`;
     navigate(newPath);
   };
 
