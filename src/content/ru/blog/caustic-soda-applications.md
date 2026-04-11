@@ -38,7 +38,11 @@ The burgeoning electric vehicle (EV) market and the broader energy storage secto
 **Market Growth:** This segment is experiencing an impressive 12-15% compound annual growth rate (CAGR). Projections indicate that by 2027, the global demand for EV batteries will drive a 25-30% increase in NaOH consumption within this sector [2]. The cost of NaOH typically accounts for 2-3% of the overall battery production cost. China, Japan, and South Korea are the primary consumers due to their dominant positions in battery manufacturing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 **Lithium Battery Manufacturers:** Our semiconductor-grade NaOH ensures optimal battery performance. 99.9%+ purity, ISO certified. **[Get Specification Sheet →](/en/products/caustic-soda)**
+
+💡 **Lithium Battery Manufacturers:**
+Our semiconductor-grade NaOH ensures optimal battery performance. 99.9%+ purity, ISO certified.
+**[Get Specification Sheet →](/en/products/caustic-soda)**
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Chemical Manufacturing & Synthesis
@@ -170,7 +174,13 @@ In water treatment, caustic soda is primarily used for pH adjustment of industri
 Absolutely. Caustic soda is essential in textile manufacturing for mercerization of cotton (enhancing strength and luster), bleaching fibers, fixing dyes, and desizing fabrics. It's a fundamental chemical for improving fabric quality and appearance.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏭 **Find the Right Caustic Soda Grade for Your Application.** Sinopeakchem supplies all industries. ✅ Food Grade ✅ Industrial Grade ✅ Semiconductor Grade. **[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)** 📧 sales@sinopeakchem.com
+
+🏭 **Find the Right Caustic Soda Grade for Your Application.**
+Sinopeakchem supplies all industries.
+✅ Food Grade ✅ Industrial Grade ✅ Semiconductor Grade.
+**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
+📧 sales@sinopeakchem.com
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## References

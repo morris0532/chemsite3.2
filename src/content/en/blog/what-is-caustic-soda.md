@@ -142,6 +142,14 @@ Semiconductor grade caustic soda represents the highest purity level, with impur
 
 **Price Premium:** Semiconductor grade typically costs 50-100% more than industrial grade due to strict purity requirements and specialized production processes.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 **Need Caustic Soda for Your Application?**
+We supply all grades from Food to Semiconductor. 99%+ purity, fast delivery, competitive pricing.
+**[Get Free Quote →](/en/contact)**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## Physical & Chemical Properties in Detail
 
 Understanding the detailed properties of caustic soda is crucial for safe handling and effective application.
@@ -254,7 +262,7 @@ Caustic soda is essential in kraft pulping, the dominant pulping process worldwi
 
 ### 6. Food Processing & Cosmetics
 
-Food-grade caustic soda is used in various food processing applications and cosmetic manufacturing.
+Food-grade caustic soda is used in food processing for applications such as peeling fruits and vegetables and for pH regulation.
 
 **Key Applications:**
 - Fruit and vegetable peeling (alkaline treatment)
@@ -468,24 +476,17 @@ Caustic soda is classified as a hazardous material and requires specialized tran
 - Material Safety Data Sheet (MSDS)
 - Certificate of origin
 
----
+📌 Still have questions about caustic soda specifications or pricing? **[Contact our experts →](/en/contact)**
 
-## Ready to Source High-Quality Caustic Soda?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Whether you need industrial-grade caustic soda for water treatment, food-grade for processing, or semiconductor-grade for electronics manufacturing, finding the right supplier is crucial for your business success.
-
-**Our company supplies all grades of caustic soda:**
-- ✅ 99%+ purity guaranteed
-- ✅ ISO certified and REACH compliant
-- ✅ Fast, reliable delivery
-- ✅ Competitive pricing
-- ✅ Free samples available
-
-**[Get Free Quote →](https://sinopeakchem.com/contact)**
-
+🏭 **Ready to Source High-Quality Caustic Soda?**
+Sinopeakchem — Your trusted caustic soda supplier.
+✅ 99%+ purity  ✅ Competitive pricing  ✅ Fast delivery  ✅ Free samples
+**[Get Free Quote →](/en/contact)**
 📧 Email: sales@sinopeakchem.com
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## References
 
