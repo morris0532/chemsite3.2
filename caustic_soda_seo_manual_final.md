@@ -61,14 +61,15 @@
 #### CTA 位置 3：文章底部（必放，最重要的 CTA）
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏭 Ready to Source High-Quality Caustic Soda?
 
-[Your Company Name] — Your trusted caustic soda supplier.
+SinopeakChem — Your trusted caustic soda supplier.
 ✅ 99%+ purity  ✅ Competitive pricing  ✅ Fast delivery  ✅ Free samples
 
-[Get Free Quote →]  [Request Sample →]  [Contact Sales →]
+[Get Free Quote →](link to contact)
 
-📧 Email: sales@yourcompany.com
+📧 Email: sales@sinopeakchem.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
