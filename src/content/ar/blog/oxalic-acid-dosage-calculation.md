@@ -1,133 +1,95 @@
 ---
-id: "5w87r9b7"
+id: "16"
 slug: "oxalic-acid-dosage-calculation"
-title: "Oxalic Acid Dosage Calculation: A Comprehensive Guide"
-excerpt: "Master the art of oxalic acid dosage calculation for various industrial and domestic applications. This guide covers essential formulas, practical examples, and safety considerations to ensure accurate and effective use."
-date: "2026-04-09"
-author: "SinoPeakChem Technical Team"
-category: "Technical Guide"
-tags: ["oxalic acid", "dosage calculation", "chemical formulas", "concentration", "dilution", "industrial applications", "safety", "stoichiometry"]
+title: "حساب جرعة حمض الأكساليك: الصيغ والأمثلة العملية"
+excerpt: "دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف التطبيقات الصناعية والمنزلية، بما في ذلك الملارية والتخفيف."
+date: "2026-04-16"
+author: "الفريق الفني لشركة Sinopeakchem"
+category: "أدلة تقنية"
+tags: ["حساب الجرعة الكيميائية", "تركيز حمض الأكساليك", "الصيغ الكيميائية", "التطبيقات الصناعية", "Sinopeakchem"]
 image: "/images/blog/oxalic-acid-dosage-calculation.webp"
-imageAlt: "A person calculating oxalic acid dosage on a laptop with a beaker and scale on the side"
+imageAlt: "صورة لميزان رقمي دقيق وأدوات زجاجية مخبرية تستخدم في حساب وقياس الجرعات الكيميائية"
 ---
 
-## Oxalic Acid Dosage Calculation: A Comprehensive Guide
+## حساب جرعة حمض الأكساليك: الصيغ والأمثلة العملية
 
-Oxalic acid, a versatile organic compound, finds extensive use across various industries, from metal cleaning and [rust removal](/en/blog/oxalic-acid-rust-removal) to textile processing and [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction). Achieving optimal results and ensuring safety in these applications heavily relies on accurate **oxalic acid dosage calculation**. Incorrect dosing can lead to inefficient processes, material damage, or even safety hazards. This comprehensive guide will equip you with the essential formulas, practical examples, and best practices for calculating oxalic acid dosages for different scenarios.
+يعد الحساب الدقيق لجرعة حمض الأكساليك (H₂C₂O₄) أمراً حيوياً لضمان الفعالية المثلى والسلامة وتقليل الهدر في مختلف التطبيقات. سواء كنت تستخدمه في معالجة المياه أو تنظيف المعادن أو العمليات المختبرية، فإن فهم كيفية حساب التراكيز هو مهارة أساسية.
 
-## Understanding Key Concepts
+### مفاهيم التركيز الأساسية
 
-Before diving into calculations, it's crucial to understand some fundamental chemical concepts:
+### 1. التركيز المئوي (وزن/وزن - % w/w)
+يستخدم عادةً عند تحضير المحاليل حيث تكون كتل المذاب والمذيب معروفة.
+\[ \text{% w/w} = \frac{\text{كتلة حمض الأكساليك (جم)}}{\text{كتلة المحلول (جم)}} \times 100 \]
+**مثال**: لتحضير 500 جم من محلول حمض الأكساليك بتركيز 5% (w/w):
+كتلة حمض الأكساليك = 5% من 500 جم = 0.05 × 500 جم = **25 جم**
+كتلة الماء = 500 جم - 25 جم = **475 جم**
 
-*   **Concentration**: The amount of solute (oxalic acid) dissolved in a given amount of solvent (usually water) or solution. It can be expressed as percentage (w/w, w/v), molarity (mol/L), or parts per million (ppm).
-*   **Molar Mass (Molecular Weight)**: The mass of one mole of a substance. For anhydrous oxalic acid (H₂C₂O₄), the molar mass is approximately 90.03 g/mol. For oxalic acid dihydrate (H₂C₂O₄·2H₂O), it's approximately 126.07 g/mol.
-*   **Stoichiometry**: The quantitative relationship between reactants and products in a chemical reaction. This is particularly important when oxalic acid is used in reactions like chelation or neutralization.
-*   **Density**: The mass per unit volume of a substance. For solutions, density helps convert between mass and volume.
+### 2. التركيز المئوي (وزن/حجم - % w/v)
+غالباً ما يستخدم عندما يكون حجم معين من المحلول مطلوباً.
+\[ \text{% w/v} = \frac{\text{كتلة حمض الأكساليك (جم)}}{\text{حجم المحلول (مل)}} \times 100 \]
+**مثال**: لتحضير 1000 مل من محلول حمض الأكساليك بتركيز 2% (w/v):
+كتلة حمض الأكساليك = 2% من 1000 مل = 0.02 × 1000 = **20 جم**
 
-## Essential Formulas for Dosage Calculation
+### 3. الملارية (Molarity - M)
+حاسمة للتفاعلات حيث يكون عدد المولات مهماً.
+\[ \text{الملارية (M)} = \frac{\text{مولات حمض الأكساليك}}{\text{حجم المحلول (لتر)}} \]
+لتحويل الكتلة إلى مولات:
+\[ \text{المولات} = \frac{\text{الكتلة (جم)}}{\text{الكتلة المولية (جم/مول)}} \]
+**مثال**: لتحضير 500 مل (0.5 لتر) من محلول حمض الأكساليك بتركيز 0.1 مولار (لامائي):
+مولات حمض الأكساليك = 0.1 مول/لتر × 0.5 لتر = 0.05 مول
+كتلة حمض الأكساليك = 0.05 مول × 90.03 جم/مول = **4.5015 جم**
 
-Here are the primary formulas you'll need for calculating oxalic acid dosages:
-
-### 1. Percentage Concentration (Weight/Weight - % w/w)
-
-This is commonly used for preparing solutions where both solute and solvent masses are known.
-
-\[ \text{% w/w} = \frac{\text{Mass of Oxalic Acid (g)}}{\text{Mass of Solution (g)}} \times 100 \]
-
-**Example**: To prepare 500 g of a 5% (w/w) oxalic acid solution:
-Mass of Oxalic Acid = 5% of 500 g = 0.05 × 500 g = 25 g
-Mass of Water = 500 g - 25 g = 475 g
-
-### 2. Percentage Concentration (Weight/Volume - % w/v)
-
-Often used when a specific volume of solution is required.
-
-\[ \text{% w/v} = \frac{\text{Mass of Oxalic Acid (g)}}{\text{Volume of Solution (mL)}} \times 100 \]
-
-**Example**: To prepare 1000 mL of a 2% (w/v) oxalic acid solution:
-Mass of Oxalic Acid = 2% of 1000 mL = 0.02 × 1000 g = 20 g (assuming density of solution is ~1 g/mL)
-
-### 3. Molarity (M)
-
-Crucial for reactions where the number of moles is important.
-
-\[ \text{Molarity (M)} = \frac{\text{Moles of Oxalic Acid}}{\text{Volume of Solution (L)}} \]
-
-To convert mass to moles:
-\[ \text{Moles} = \frac{\text{Mass (g)}}{\text{Molar Mass (g/mol)}} \]
-
-**Example**: To prepare 500 mL (0.5 L) of a 0.1 M oxalic acid solution (anhydrous):
-Moles of Oxalic Acid = 0.1 mol/L × 0.5 L = 0.05 mol
-Mass of Oxalic Acid = 0.05 mol × 90.03 g/mol = 4.5015 g
-
-### 4. Dilution Formula
-
-Used when diluting a concentrated stock solution to a desired lower concentration.
-
+### 4. صيغة التخفيف
+تستخدم عند تخفيف محلول مركز إلى تركيز أقل مطلوب.
 \[ C_1V_1 = C_2V_2 \]
+حيث:
+*   C₁ = التركيز الأولي
+*   V₁ = الحجم الأولي
+*   C₂ = التركيز النهائي
+*   V₂ = الحجم النهائي
 
-Where:
-*   C₁ = Initial concentration
-*   V₁ = Initial volume
-*   C₂ = Final concentration
-*   V₂ = Final volume
+## أمثلة على التطبيقات العملية
 
-**Example**: You have a 10% oxalic acid stock solution and need to prepare 2 L of a 2% solution.
-C₁ = 10%, V₁ = ?
-C₂ = 2%, V₂ = 2 L
-10% × V₁ = 2% × 2 L
-V₁ = (2% × 2 L) / 10% = 0.4 L (or 400 mL)
-So, you need 400 mL of the 10% stock solution and add water to make the total volume 2 L.
+### السيناريو 1: إزالة الصدأ من المعادن
+لإزالة الصدأ بفعالية، غالباً ما يوصى بمحلول حمض الأكساليك بتركيز 5-10%. لنستهدف محلولاً بتركيز 7% (w/v) لمعالجة سطح معدني يتطلب 5 لترات من المحلول.
+**الحساب**:
+كتلة حمض الأكساليك = 7% من 5000 مل = 0.07 × 5000 = **350 جم**
+**الإجراء**: أذب 350 جم من بلورات حمض الأكساليك في كمية كافية من الماء لعمل حجم إجمالي قدره 5 لترات.
 
-## Practical Application Examples
+### السيناريو 2: تبييض الخشب
+يستخدم تبييض الخشب عادةً محلول حمض الأكساليك بتركيز 10-15%. لنفترض أنك بحاجة إلى 1 جالون (حوالي 3.785 لتر) من محلول بتركيز 12% (w/v).
+**الحساب**:
+كتلة حمض الأكساليك = 12% من 3785 مل = 0.12 × 3785 = **454.2 جم**
+**الإجراء**: أذب 454.2 جم من بلورات حمض الأكساليك في كمية كافية من الماء لعمل حجم إجمالي قدره 3.785 لتر.
 
-### Scenario 1: Rust Removal from Metal
+## اعتبارات السلامة في حساب الجرعات
+الحساب الدقيق للجرعة لا يتعلق فقط بالكفاءة؛ بل يتعلق أيضاً بالسلامة. ضع في اعتبارك دائماً:
+*   **صحائف بيانات سلامة المواد (MSDS)**: ارجع إلى MSDS للحصول على تعليمات تداول محددة والتراكيز الموصى بها.
+*   **التهوية**: اعمل في مناطق جيدة التهوية لتجنب استنشاق الغبار أو الأبخرة.
+*   **معدات الحماية الشخصية (PPE)**: ارتدِ دائماً PPE المناسبة، بما في ذلك القفازات وحماية العين.
+*   **ترتيب الإضافة**: أضف الحمض دائماً إلى الماء ببطء، وليس الماء إلى الحمض أبداً، لإدارة توليد الحرارة ومنع التناثر.
 
-For effective rust removal, a 5-10% oxalic acid solution is often recommended. Let's aim for a 7% (w/v) solution to treat a metal surface requiring 5 liters of solution.
+## خاتمة
+إتقان حساب جرعة حمض الأكساليك هو مهارة حاسمة لأي شخص يعمل مع هذه المادة الكيميائية متعددة الاستخدامات. من خلال فهم المفاهيم الأساسية للتركيز والملارية والتخفيف، وتطبيق الصيغ الصحيحة، يمكنك ضمان الاستخدام الآمن والفعال لحمض الأكساليك في مجموعة متنوعة من التطبيقات. SinoPeakChem هي شريكك الموثوق للحصول على حمض أكساليك عالي النقاء.
 
-**Calculation**:
-Mass of Oxalic Acid = 7% of 5000 mL = 0.07 × 5000 g = 350 g
-
-**Procedure**: Dissolve 350 g of oxalic acid crystals in enough water to make a total volume of 5 liters.
-
-### Scenario 2: Wood Bleaching
-
-Wood bleaching typically uses a 10-15% oxalic acid solution. Suppose you need 1 gallon (approx. 3.785 L) of a 12% (w/v) solution.
-
-**Calculation**:
-Mass of Oxalic Acid = 12% of 3785 mL = 0.12 × 3785 g = 454.2 g
-
-**Procedure**: Dissolve 454.2 g of oxalic acid crystals in enough water to make a total volume of 3.785 liters.
-
-## Safety Considerations in Dosage Calculation
-
-Accurate dosage calculation is not just about efficiency; it's also about safety. Always consider:
-
-*   **Material Safety Data Sheets (MSDS)**: Refer to the MSDS for specific handling instructions, recommended concentrations, and first-aid measures.
-*   **Ventilation**: Work in well-ventilated areas to avoid inhaling dust or fumes, especially when weighing and mixing.
-*   **Personal Protective Equipment (PPE)**: Always wear appropriate PPE, including gloves, eye protection, and protective clothing, when handling oxalic acid and its solutions.
-*   **Order of Addition**: Always add acid to water slowly, never water to acid, to manage heat generation and prevent splashing.
-
-## Conclusion
-
-Mastering oxalic acid dosage calculation is a critical skill for anyone working with this versatile chemical. By understanding the fundamental concepts of concentration, molarity, and dilution, and applying the correct formulas, you can ensure the safe, efficient, and effective use of oxalic acid in a multitude of applications. Always prioritize accuracy in your calculations and adhere to strict safety protocols to achieve optimal results and maintain a safe working environment. For reliable, high-purity oxalic acid, SinoPeakChem is your trusted partner.
+---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Innovate with SinoPeakChem: Your Partner for Sustainable Oxalic Acid Solutions!
+💡 ابتكر مع SinoPeakChem: شريكك لحلول حمض الأكساليك المستدامة!
 
-SinoPeakChem is at the forefront of providing high-quality chemical solutions, including Oxalic Acid, produced with an emphasis on sustainability and efficiency. Partner with us for your advanced chemical needs.
+تتصدر SinoPeakChem الطليعة في تقديم حلول كيميائية عالية الجودة، بما في ذلك حمض الأكساليك، المنتج مع التركيز على الاستدامة والكفاءة. شاركنا لاحتياجاتك الكيميائية المتقدمة.
 
-[Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
+[اكتشف ممارسات الإنتاج المستدامة لدينا ←](/ar/products/oxalic-acid) [اتصل بفريق الابتكار لدينا ←](/ar/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 البريد الإلكتروني: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### References
+### المراجع
 
-[1] "Chemical Dosage Calculations for Water and Wastewater Treatment." *American Water Works Association*, 2023.
-[2] "Basic Principles of Stoichiometry and Chemical Reactions." *Journal of Chemical Education*, 2022.
-[3] "Oxalic Acid: Properties, Applications, and Safety Data." *Chemical Safety Handbook*, 2024.
-[4] "Formulas and Calculations for Chemical Engineers." *McGraw-Hill Education*, 2021.
-[5] "Industrial Applications of Oxalic Acid: A Review of Dosage and Concentration." *Industrial & Engineering Chemistry Research*, 2023.
+[1] "حسابات الجرعات الكيميائية لمعالجة المياه." *American Water Works Association*.
+[2] "المبادئ الأساسية للكيمياء والتفاعلات الكيميائية." *Journal of Chemical Education*.
+[3] "حمض الأكساليك: الخصائص والتطبيقات وبيانات السلامة." *دليل السلامة الكيميائية*.
+[4] "الصيغ والحسابات للمهندسين الكيميائيين." *McGraw-Hill Education*.
+[5] "التطبيقات الصناعية لحمض الأكساليك: مراجعة للجرعة والتركيز." *Industrial & Engineering Chemistry Research*.
