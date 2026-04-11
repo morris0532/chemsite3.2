@@ -4,37 +4,25 @@ let runtimeConfig: {
 } | null = null;
 
 // Configuration loading state
-let configLoading = true;
+let configLoading = false; // Set to false as we're no longer loading from endpoint
 
 // Default fallback configuration
 const defaultConfig = {
-  API_BASE_URL: 'https://sinopeakchem.com', // Updated to production domain
+  API_BASE_URL: 'https://www.sinopeakchem.com', // Updated to production domain
 };
 
-// Function to load runtime configuration
+/**
+ * Function to load runtime configuration
+ * @deprecated /api/config is no longer used to reduce TTFB. Using static config instead.
+ */
 export async function loadRuntimeConfig(): Promise<void> {
-  try {
-    // Try to load configuration from a config endpoint
-    const response = await fetch('/api/config');
-    if (response.ok) {
-      const contentType = response.headers.get('content-type');
-      if (contentType && contentType.includes('application/json')) {
-        runtimeConfig = await response.json();
-      }
-    }
-  } catch (error) {
-    // Silent fail
-  } finally {
-    configLoading = false;
-  }
+  // No-op to reduce TTFB by avoiding unnecessary network requests
+  configLoading = false;
+  return Promise.resolve();
 }
 
 // Get current configuration
 export function getConfig() {
-  if (configLoading) {
-    return defaultConfig;
-  }
-
   if (runtimeConfig) {
     return runtimeConfig;
   }
