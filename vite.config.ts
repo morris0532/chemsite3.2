@@ -17,19 +17,19 @@ export default defineConfig({
         const cssLinkRegex = /<link rel="stylesheet" crossorigin href="\/assets\/index-([a-zA-Z0-9]+)\.css">/;
         const match = html.match(cssLinkRegex);
         if (match) {
-          const cssFileName = match[0];
-          const cssFilePath = match[1];
+          const cssLinkTag = match[0];
+          const cssHash = match[1];
           const asyncLoadScript = `
             <script>
               (function() {
-                var link = document.createElement('link');
-                link.rel = 'stylesheet';
-                link.href = '/assets/index-${cssFilePath}.css';
+                var link = document.createElement(\'link\');
+                link.rel = \'stylesheet\';
+                link.href = \'/assets/index-${cssHash}.css\';
                 document.head.appendChild(link);
               })();
             </script>
           `;
-          return html.replace(cssFileName, asyncLoadScript);
+          return html.replace(cssLinkTag, asyncLoadScript);
         }
         return html;
       },
