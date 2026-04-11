@@ -12,14 +12,13 @@ export default defineConfig({
     {
       name: 'async-css-loader',
       transformIndexHtml(html) {
-        const cssLinkRegex = /<link rel="stylesheet" crossorigin href="\/assets\/index-([a-zA-Z0-9]+)\.css">/;
+        const cssLinkRegex = /<link rel="stylesheet" crossorigin href="\/assets\/(index-[a-zA-Z0-9]+\.css)">/;
         const match = html.match(cssLinkRegex);
         if (match) {
-          const cssLinkTag = match[0];
-          const cssHash = match[1];
-          const preloadLink = `<link rel="preload" href="/assets/index-${cssHash}.css" as="style" onload="this.onload=null;this.rel='stylesheet'">`;
-          const noscriptFallback = `<noscript><link rel="stylesheet" crossorigin href="/assets/index-${cssHash}.css"></noscript>`;
-          return html.replace(cssLinkTag, `${preloadLink}\n    ${noscriptFallback}`);
+          const cssFileName = match[1];
+          const preloadLink = `<link rel="preload" href="/assets/${cssFileName}" as="style" onload="this.onload=null;this.rel=\'stylesheet\'">`;
+          const noscriptFallback = `<noscript><link rel="stylesheet" crossorigin href="/assets/${cssFileName}"></noscript>`;
+          return html.replace(match[0], `${preloadLink}\n    ${noscriptFallback}`);
         }
         return html;
       },
