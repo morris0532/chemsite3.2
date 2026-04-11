@@ -3,7 +3,7 @@ id: "on22pcph"
 slug: "oxalic-acid-importer-guide"
 title: "First-Time Importer's Guide to Oxalic Acid: Regulations and Best Practices"
 excerpt: "Navigating the complexities of international trade can be daunting, especially for chemical compounds like oxalic acid. This comprehensive guide provides first-time importers with essential insights into regulations, documentation, and best practices to ensure a smooth and compliant import process."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Buyer's Guide"
 tags: ["oxalic acid import", "chemical regulations", "import permits", "customs documentation", "supply chain", "international trade", "first-time importer", "best practices"]

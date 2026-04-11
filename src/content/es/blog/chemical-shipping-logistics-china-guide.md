@@ -3,7 +3,7 @@ id: "3"
 slug: "chemical-shipping-logistics-china-guide"
 title: "Envío y Logística de Productos Químicos desde China: Lo Que Necesita Saber"
 excerpt: "Navegue las complejidades del envío internacional de productos químicos desde China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el socio logístico adecuado."
-date: "2026-03-05"
+date: "2026-04-10"
 author: "Sinopeakchem Logistics Team"
 category: "Shipping & Logistics"
 tags: ["chemical shipping","international trade","logistics"]

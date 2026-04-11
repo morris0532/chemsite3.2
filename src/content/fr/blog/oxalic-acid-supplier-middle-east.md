@@ -3,7 +3,7 @@ id: "32"
 slug: "oxalic-acid-supplier-middle-east"
 title: "Fournisseur d'acide oxalique pour le marché du Moyen-Orient : EAU, Arabie Saoudite et Turquie"
 excerpt: "Le Moyen-Orient est un marché dynamique pour l'acide oxalique, stimulé par des industries comme l'entretien de la pierre, le pétrole et le gaz, et le textile. SinoPeakChem est votre partenaire de confiance, offrant de l'acide oxalique de haute qualité avec une logistique efficace et un support de conformité pour les acheteurs aux EAU, en Arabie Saoudite et en Turquie."
-date: "2026-05-02"
+date: "2026-04-10"
 author: "Équipe de vente Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Moyen-Orient", "acide oxalique EAU", "acide oxalique Arabie Saoudite", "acide oxalique Turquie", "acheter acide oxalique Moyen-Orient", "fournisseur de produits chimiques Chine", "produits chimiques pour l'entretien de la pierre", "produits chimiques pétroliers et gaziers", "produits chimiques textiles"]

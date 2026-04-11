@@ -3,7 +3,7 @@ id: "9"
 slug: "oxalic-acid-marble-polishing"
 title: "Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas"
 excerpt: "Descubra las técnicas profesionales para usar ácido oxálico en el pulido de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química, métodos de aplicación, precauciones de seguridad y cómo lograr un brillo brillante."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicación de Producto"
 tags: ["oxalic acid marble polishing", "stone care", "marble restoration", "stone cleaning", "Sinopeakchem"]

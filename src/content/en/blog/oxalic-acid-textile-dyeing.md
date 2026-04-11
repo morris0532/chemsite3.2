@@ -3,7 +3,7 @@ id: "11"
 slug: "oxalic-acid-textile-dyeing"
 title: "Oxalic Acid for Textile Dyeing & Printing: Industrial Applications"
 excerpt: "Explore the vital role of oxalic acid in the textile industry, from its use as a dyeing auxiliary and reducing agent in printing to its effectiveness in cleaning and fiber treatment. Discover its industrial applications and benefits."
-date: "2026-04-11"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid textile", "textile dyeing", "textile printing", "fiber treatment", "industrial chemicals", "Sinopeakchem"]

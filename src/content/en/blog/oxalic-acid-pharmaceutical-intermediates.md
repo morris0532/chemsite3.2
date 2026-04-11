@@ -3,7 +3,7 @@ id: "23"
 slug: "oxalic-acid-pharmaceutical-intermediates"
 title: "Oxalic Acid in Pharmaceutical Intermediates: A Key Role"
 excerpt: "Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing."
-date: "2026-04-23"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Pharmaceutical Applications"
 tags: ["oxalic acid", "pharmaceutical intermediates", "drug synthesis", "chemical reagent", "organic synthesis", "Sinopeakchem"]

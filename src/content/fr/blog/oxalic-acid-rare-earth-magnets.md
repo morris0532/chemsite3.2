@@ -3,7 +3,7 @@ id: "25"
 slug: "oxalic-acid-rare-earth-magnets"
 title: "Acide Oxalique dans les Aimants de Terres Rares : Un Composant Critique"
 excerpt: "Découvrez le rôle vital de l'acide oxalique dans la production d'aimants de terres rares, en particulier dans la séparation et la purification des éléments de terres rares, essentiels pour les matériaux magnétiques de haute performance."
-date: "2026-04-25"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique", "aimants terres rares", "extraction terres rares", "aimants néodyme", "matériaux magnétiques", "précipitation chimique", "Sinopeakchem"]

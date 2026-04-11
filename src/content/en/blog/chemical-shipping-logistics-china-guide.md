@@ -3,7 +3,7 @@ id: "3"
 slug: "chemical-shipping-logistics-china-guide"
 title: "Chemical Shipping and Logistics from China: What You Need to Know"
 excerpt: "Navigate the complexities of international chemical shipping from China. Learn about regulations, packaging requirements, and choosing the right logistics partner."
-date: "2026-03-05"
+date: "2026-04-10"
 author: "Sinopeakchem Logistics Team"
 category: "Shipping & Logistics"
 tags: ["chemical shipping","international trade","logistics"]

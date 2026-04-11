@@ -3,7 +3,7 @@ id: "4"
 slug: "oxalic-acid-price"
 title: "Tendance des Prix de l'Acide Oxalique 2025 : Facteurs Affectant le Coût"
 excerpt: "Restez informé des dernières tendances des prix de l'acide oxalique pour 2025. Explorez les facteurs clés influençant les coûts, des matières premières aux prix de l'énergie, et apprenez comment obtenir la meilleure valeur pour vos achats en gros."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Analyse de Marché"
 tags: ["prix de l'acide oxalique", "coût de l'acide oxalique", "tendance du marché 2025", "achat de produits chimiques en gros", "Sinopeakchem"]

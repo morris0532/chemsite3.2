@@ -3,7 +3,7 @@ id: "4"
 slug: "oxalic-acid-price"
 title: "Tendencia del Precio del Ácido Oxálico 2025: Factores que Afectan el Costo"
 excerpt: "Manténgase informado sobre las últimas tendencias de precios del ácido oxálico para 2025. Explore los factores clave que influyen en los costos, desde las materias primas hasta los precios de la energía, y aprenda cómo obtener el mejor valor en sus compras al por mayor."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Análisis de Mercado"
 tags: ["oxalic acid price", "oxalic acid cost", "market trend 2025", "bulk chemical purchase", "Sinopeakchem"]

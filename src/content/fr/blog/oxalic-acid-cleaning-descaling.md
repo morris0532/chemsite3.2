@@ -3,7 +3,7 @@ id: "19"
 slug: "oxalic-acid-cleaning-descaling"
 title: "Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et Industriels"
 excerpt: "Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien des équipements industriels. Découvrez son action chimique, ses utilisations efficaces et les consignes de sécurité."
-date: "2026-04-19"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Nettoyage"
 tags: ["acide oxalique nettoyage", "acide oxalique détartrage", "nettoyage domestique", "nettoyage industriel", "détachant rouille", "détartrant calcaire", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "25"
 sług: "oxalic-acid-rare-earth-magnets"
 title: "Oxalic Acid in Rare Earth Magnets: A Critical Component"
 excerpt: "Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials."
-date: "2026-04-25"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid", "rare earth magnets", "rare earth extraction", "neodymium magnets", "magnetic materials", "chemical precipitation", "Sinopeakchem"]

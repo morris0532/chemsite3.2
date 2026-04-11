@@ -3,7 +3,7 @@ id: "27"
 slug: "oxalic-acid-metal-pre-treatment"
 title: "Acide Oxalique dans le Prétraitement des Surfaces Métalliques : Amélioration de l'Adhérence et de la Résistance à la Corrosion"
 excerpt: "Explorez le rôle crucial de l'acide oxalique dans le prétraitement des surfaces métalliques, du nettoyage et dégraissage à la passivation, améliorant l'adhérence des revêtements et la résistance à la corrosion."
-date: "2026-04-27"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique", "prétraitement métallique", "résistance à la corrosion", "préparation de surface", "nettoyage des métaux", "passivation", "adhérence", "Sinopeakchem"]

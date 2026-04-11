@@ -3,7 +3,7 @@ id: "24"
 slug: "oxalic-acid-dilution-guide"
 title: "Cómo Diluir el Ácido Oxálico de Forma Segura: Cálculo de Concentración y Guía de Manejo"
 excerpt: "Una guía completa para diluir el ácido oxálico de forma segura, incluyendo precauciones de seguridad esenciales, procedimientos paso a paso para la dilución y métodos de cálculo de concentración para diversas aplicaciones. Garantice un uso seguro y efectivo."
-date: "2026-04-24"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Seguridad y Manejo"
 tags: ["oxalic acid dilution", "chemical safety", "concentration calculation", "handling guide", "PPE", "Sinopeakchem"]

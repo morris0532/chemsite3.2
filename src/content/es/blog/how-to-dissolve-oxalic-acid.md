@@ -3,7 +3,7 @@ id: "x3kcwyfr"
 slug: "how-to-dissolve-oxalic-acid"
 title: "Cómo Disolver el Ácido Oxálico Correctamente: Una Guía Paso a Paso"
 excerpt: "Aprenda el método correcto y seguro para disolver el ácido oxálico para diversas aplicaciones industriales y domésticas. Esta guía cubre precauciones de seguridad esenciales, materiales requeridos, instrucciones paso a paso y consejos de expertos para resultados óptimos."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinopeakChem Technical Team"
 category: "Technical Guide"
 tags: ["ácido oxálico", "disolver ácido oxálico", "seguridad", "manejo de químicos", "aplicaciones industriales", "limpieza", "eliminación de óxido"]

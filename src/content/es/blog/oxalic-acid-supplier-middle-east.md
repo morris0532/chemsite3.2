@@ -3,7 +3,7 @@ id: "32"
 slug: "oxalic-acid-supplier-middle-east"
 title: "Proveedor de Ácido Oxálico para el Mercado de Oriente Medio: EAU, Arabia Saudita y Turquía"
 excerpt: "SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente Medio, atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos de alta calidad para el cuidado de piedras, petróleo y gas, y aplicaciones industriales."
-date: "2026-05-02"
+date: "2026-04-10"
 author: "Equipo de Ventas Sinopeakchem"
 category: "Mercado Regional"
 tags: ["ácido oxálico Oriente Medio", "ácido oxálico EAU", "ácido oxálico Arabia Saudita", "ácido oxálico Turquía", "proveedor químico", "cuidado de piedras", "petróleo y gas", "limpieza industrial"]

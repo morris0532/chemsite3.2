@@ -3,7 +3,7 @@ id: "35"
 slug: "oxalic-acid-export-europe-reach"
 title: "Oxalic Acid Export to Europe: REACH Compliance Guide"
 excerpt: "Navigating the complexities of oxalic acid export to Europe requires strict adherence to REACH regulations. SinoPeakChem provides high-quality, compliant oxalic acid for the European market."
-date: "2026-05-05"
+date: "2026-04-10"
 author: "Sinopeakchem Sales Team"
 category: "Regional Market"
 tags: ["oxalic acid Europe", "REACH compliance", "chemical export", "European market", "oxalic acid supplier", "chemical regulations", "Germany", "France", "Italy", "Spain"]

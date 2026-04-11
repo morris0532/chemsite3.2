@@ -3,7 +3,7 @@ id: "30"
 slug: "oxalic-acid-purchasing-faq"
 title: "Oxalic Acid Purchasing FAQ for Bulk Buyers"
 excerpt: "Navigate the complexities of bulk oxalic acid procurement with our comprehensive FAQ, covering everything from grades and packaging to shipping and payment terms."
-date: "2026-04-30"
+date: "2026-04-10"
 author: "Sinopeakchem Sales Team"
 category: "Purchasing Guide"
 tags: ["oxalic acid bulk", "oxalic acid purchase", "FAQ", "chemical procurement", "supplier selection", "packaging", "shipping", "payment terms", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "5w87r9b7"
 slug: "oxalic-acid-dosage-calculation"
 title: "Calcul de la Dose d'Acide Oxalique : Un Guide Complet"
 excerpt: "Maîtrisez l'art du calcul de la dose d'acide oxalique pour diverses applications industrielles et domestiques. Ce guide couvre les formules essentielles, des exemples pratiques et des considérations de sécurité pour une utilisation précise et efficace."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["acide oxalique", "calcul de dose", "formules chimiques", "concentration", "dilution", "applications industrielles", "sécurité", "stœchiométrie"]

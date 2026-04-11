@@ -3,7 +3,7 @@ id: "37"
 slug: "oxalic-acid-supplier-south-asia"
 title: "Proveedor de Ácido Oxálico para el Mercado de Asia Meridional: India, Pakistán y Bangladesh"
 excerpt: "SinoPeakChem es un proveedor líder de ácido oxálico para el mercado de Asia Meridional, atendiendo a países clave como India, Pakistán y Bangladesh con productos de calidad para el teñido textil, la industria del cuero y diversas aplicaciones químicas."
-date: "2026-05-07"
+date: "2026-04-10"
 author: "Equipo de Ventas de Sinopeakchem"
 category: "Mercado Regional"
 tags: ["ácido oxálico Asia Meridional", "ácido oxálico India", "ácido oxálico Pakistán", "ácido oxálico Bangladesh", "proveedor químico", "teñido textil", "industria del cuero", "fabricación química"]

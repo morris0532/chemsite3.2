@@ -3,7 +3,7 @@ id: "15"
 slug: "oxalic-acid-grades-specifications"
 title: "Oxalic Acid Grades & Specifications: An In-depth Look"
 excerpt: "Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application."
-date: "2026-04-15"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Information"
 tags: ["oxalic acid grades", "oxalic acid specifications", "industrial grade oxalic acid", "food grade oxalic acid", "pharmaceutical grade oxalic acid", "oxalic acid purity", "Sinopeakchem"]

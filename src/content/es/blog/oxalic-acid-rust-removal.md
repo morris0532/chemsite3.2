@@ -3,7 +3,7 @@ id: "564asdasd7"
 slug: "oxalic-acid-rust-removal"
 title: "Ácido Oxálico para la Eliminación de Óxido: La Guía Completa"
 excerpt: "Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación paso a paso, precauciones de seguridad y comparación con otros removedores de óxido."
-date: "2026-04-07"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicación de Producto"
 tags: ["oxalic acid rust removal", "rust remover", "metal cleaning", "chemical rust removal", "Sinopeakchem"]

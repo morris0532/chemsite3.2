@@ -3,7 +3,7 @@ id: "12"
 slug: "oxalic-acid-rare-earth-extraction"
 title: "Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la Industria Moderna"
 excerpt: "Explore el papel crítico del ácido oxálico en la extracción, separación y purificación de elementos de tierras raras. Conozca sus principios químicos y su importancia en industrias de alta tecnología como electrónica, energía verde y defensa."
-date: "2026-04-12"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicación de Producto"
 tags: ["oxalic acid rare earth", "rare earth extraction", "rare earth separation", "rare earth purification", "industrial chemistry", "Sinopeakchem"]

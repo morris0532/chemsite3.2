@@ -3,7 +3,7 @@ id: "ImbpXag5JO"
 slug: "oxalic-acid-market-trends-2026"
 title: "Tendances du Marché de l'Acide Oxalique 2026 : Moteurs de Croissance et Perspectives d'Avenir"
 excerpt: "Explorez le marché mondial dynamique de l'acide oxalique en 2026, tiré par des secteurs clés comme les batteries de véhicules électriques, les textiles durables et le nettoyage avancé des métaux. Cet article analyse la croissance du marché, les demandes régionales et les projections futures."
-date: "2026-05-06"
+date: "2026-04-10"
 author: "Équipe Technique Sinopeakchem"
 category: "Analyse de Marché"
 tags: ["acide oxalique", "tendances du marché", "2026", "batteries VE", "extraction de lithium", "textiles durables", "nettoyage des métaux", "produits chimiques industriels", "croissance du marché", "perspectives d'avenir"]

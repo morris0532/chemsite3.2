@@ -3,7 +3,7 @@ id: "21"
 slug: "oxalic-acid-aluminum-anodizing"
 title: "Oxalic Acid for Aluminum Anodizing: Process & Benefits"
 excerpt: "Discover the crucial role of oxalic acid in aluminum anodizing, a process that enhances the durability, corrosion resistance, and aesthetic appeal of aluminum. Learn about its mechanism, advantages, and applications in various industries."
-date: "2026-04-21"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid anodizing", "aluminum anodizing", "anodizing process", "corrosion resistance", "surface treatment", "Sinopeakchem"]

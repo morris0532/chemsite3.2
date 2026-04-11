@@ -3,7 +3,7 @@ id: "18"
 slug: "oxalic-acid-photography"
 title: "Acide Oxalique en Photographie : Usage Historique et Pertinence Moderne"
 excerpt: "Explorez le rôle historique de l'acide oxalique dans les processus photographiques, des premières impressions au platine et au palladium à ses applications modernes en virage et en gravure. Comprenez sa fonction chimique et les considérations de sécurité."
-date: "2026-04-18"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications Spécialisées"
 tags: ["acide oxalique photographie", "impressions platine palladium", "chimie photographique", "solutions de virage", "gravure", "photographie historique", "Sinopeakchem"]

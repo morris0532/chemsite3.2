@@ -3,7 +3,7 @@ id: "lzvxk9be"
 slug: "how-to-test-oxalic-acid-purity"
 title: "Comment Tester la Pureté de l'Acide Oxalique : Un Guide Complet"
 excerpt: "Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique, y compris le titrage au permanganate de potassium, la détermination du point de fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité de vos applications industrielles."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["acide oxalique", "test de pureté", "titrage", "permanganate de potassium", "point de fusion", "spectroscopie", "contrôle qualité", "analyse chimique"]

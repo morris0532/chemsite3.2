@@ -3,7 +3,7 @@ id: "er4jckyt"
 slug: "oxalic-acid-stainless-steel-passivation"
 title: "Oxalic Acid in Stainless Steel Passivation: A Technical Overview"
 excerpt: "Explore the critical role of oxalic acid in stainless steel passivation, enhancing corrosion resistance and surface quality. This guide covers the process, benefits, and technical considerations for effective application."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Overview"
 tags: ["oxalic acid", "stainless steel", "passivation", "corrosion resistance", "surface treatment", "metal finishing", "chemical cleaning", "technical guide"]

@@ -3,7 +3,7 @@ id: "56a1sda6s10"
 slug: "oxalic-acid-supplier-china"
 title: "Cómo Elegir un Proveedor Confiable de Ácido Oxálico en China: Guía Completa para Compradores"
 excerpt: "China produce más del 70% del ácido oxálico mundial. Aprenda a evaluar proveedores chinos, verificar certificaciones de calidad y garantizar una cadena de suministro estable para sus necesidades industriales."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Guía de Compra"
 tags: ["oxalic acid supplier", "oxalic acid manufacturer China", "chemical sourcing", "reliable supplier", "bulk oxalic acid", "Sinopeakchem"]

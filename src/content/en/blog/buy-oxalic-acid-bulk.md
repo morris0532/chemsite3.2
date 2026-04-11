@@ -3,7 +3,7 @@ id: "5"
 slug: "buy-oxalic-acid-bulk"
 title: "How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide"
 excerpt: "A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum order quantities, packaging options, shipping methods, payment terms, and the complete procurement process from quotation to delivery."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Procurement Guide"
 tags: ["buy oxalic acid bulk", "wholesale oxalic acid", "MOQ", "packaging", "shipping", "bulk purchase", "Sinopeakchem"]

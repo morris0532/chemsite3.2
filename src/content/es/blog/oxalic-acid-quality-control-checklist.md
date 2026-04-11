@@ -3,7 +3,7 @@ id: "ohthet87"
 slug: "oxalic-acid-quality-control-checklist"
 title: "Lista de Verificación de Control de Calidad del Ácido Oxálico: Asegurando Pureza y Cumplimiento"
 excerpt: "Asegurar la pureza y calidad del ácido oxálico es primordial para sus diversas aplicaciones industriales. Esta lista de verificación integral guía a fabricantes y compradores a través de medidas esenciales de control de calidad, desde la inspección de la materia prima hasta el análisis del producto final, garantizando el cumplimiento de los estándares internacionales y un rendimiento óptimo."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Guía del Comprador"
 tags: ["control de calidad ácido oxálico", "prueba de pureza", "cumplimiento químico", "aseguramiento de calidad", "métodos analíticos", "fabricación química", "gestión de la cadena de suministro", "estándares de la industria"]

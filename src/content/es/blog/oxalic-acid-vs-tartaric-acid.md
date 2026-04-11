@@ -3,7 +3,7 @@ id: "asd5as5d37"
 sulg: "oxalic-acid-vs-tartaric-acid"
 title: "Ácido Oxálico vs. Ácido Tartárico: Entendiendo las Diferencias"
 excerpt: "Profundice en las diferencias entre el ácido oxálico y el ácido tartárico, dos ácidos orgánicos que ocurren naturalmente. Este artículo compara sus estructuras químicas, fuentes naturales, diversas aplicaciones en industrias desde la limpieza hasta la alimentación, y consideraciones cruciales de seguridad."
-date: "2026-05-05"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Comparaciones Químicas"
 tags: ["ácido oxálico", "ácido tartárico", "ácidos orgánicos", "propiedades químicas", "aditivo alimentario", "removedor de óxido", "producción de vino", "normas de seguridad"]

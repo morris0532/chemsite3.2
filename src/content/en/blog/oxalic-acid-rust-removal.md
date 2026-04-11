@@ -3,7 +3,7 @@ id: "564asdasd7"
 slug: "oxalic-acid-rust-removal"
 title: "Oxalic Acid for Rust Removal: The Complete Guide"
 excerpt: "Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers."
-date: "2026-04-07"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid rust removal", "rust remover", "metal cleaning", "chemical rust removal", "Sinopeakchem"]

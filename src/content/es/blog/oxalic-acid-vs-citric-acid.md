@@ -3,7 +3,7 @@ id: "asd5as5d22"
 slug: "oxalic-acid-vs-citric-acid"
 title: "Ácido Oxálico vs. Ácido Cítrico: Un Análisis Comparativo"
 excerpt: "Un análisis comparativo del ácido oxálico y el ácido cítrico, destacando sus propiedades químicas, aplicaciones industriales y domésticas, perfiles de seguridad y consideraciones ambientales. Entienda cuál ácido es el más adecuado para diversas tareas."
-date: "2026-04-22"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Comparaciones Químicas"
 tags: ["oxalic acid", "citric acid", "chemical comparison", "rust remover", "food additive", "cleaning agents", "Sinopeakchem"]

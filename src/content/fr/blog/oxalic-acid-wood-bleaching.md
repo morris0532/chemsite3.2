@@ -3,7 +3,7 @@ id: "qwasd8"
 slug: "oxalic-acid-wood-bleaching"
 title: "Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel"
 excerpt: "Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce guide détaille son utilisation pour le blanchiment, l'élimination des taches d'eau, des taches noires et des taches de tanin, avec des instructions étape par étape et des conseils de sécurité."
-date: "2026-04-08"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique blanchiment bois", "nettoyant bois", "détachant tanin", "détachant eau", "restauration bois", "Sinopeakchem"]

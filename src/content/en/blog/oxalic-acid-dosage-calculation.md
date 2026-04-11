@@ -3,7 +3,7 @@ id: "5w87r9b7"
 slug: "oxalic-acid-dosage-calculation"
 title: "Oxalic Acid Dosage Calculation: A Comprehensive Guide"
 excerpt: "Master the art of oxalic acid dosage calculation for various industrial and domestic applications. This guide covers essential formulas, practical examples, and safety considerations to ensure accurate and effective use."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["oxalic acid", "dosage calculation", "chemical formulas", "concentration", "dilution", "industrial applications", "safety", "stoichiometry"]

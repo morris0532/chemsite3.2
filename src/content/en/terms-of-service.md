@@ -2,7 +2,7 @@
 id: terms-of-service
 title: Terms of Service
 slug: terms-of-service
-date: 2026-03-31
+date: "2026-04-10"
 untranslated: true
 ---
 

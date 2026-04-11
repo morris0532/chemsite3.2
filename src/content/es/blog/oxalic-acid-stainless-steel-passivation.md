@@ -3,7 +3,7 @@ id: "er4jckyt"
 slug: "oxalic-acid-stainless-steel-passivation"
 title: "Ácido Oxálico en la Pasivación del Acero Inoxidable: Una Visión Técnica"
 excerpt: "Explore el papel crítico del ácido oxálico en la pasivación del acero inoxidable, mejorando la resistencia a la corrosión y la calidad de la superficie. Esta guía cubre el proceso, los beneficios y las consideraciones técnicas para una aplicación efectiva."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Overview"
 tags: ["ácido oxálico", "acero inoxidable", "pasivación", "resistencia a la corrosión", "tratamiento de superficie", "acabado de metales", "limpieza química", "guía técnica"]

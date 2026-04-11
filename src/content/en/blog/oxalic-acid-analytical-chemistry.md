@@ -3,7 +3,7 @@ id: "29"
 slug: "oxalic-acid-analytical-chemistry"
 title: "Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent"
 excerpt: "Discover the fundamental role of oxalic acid as a primary standard and reducing agent in various analytical chemistry techniques, from titration to complexometry."
-date: "2026-04-29"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Laboratory Applications"
 tags: ["oxalic acid", "analytical chemistry", "titration", "primary standard", "reducing agent", "complexometry", "laboratory reagent", "Sinopeakchem"]

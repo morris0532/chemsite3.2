@@ -3,7 +3,7 @@ id: "33"
 slug: "oxalic-acid-supplier-africa"
 title: "Fournisseur d'Acide Oxalique pour le Marché Africain : Afrique du Sud, Égypte & Nigeria"
 excerpt: "SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le Nigeria avec des produits de qualité pour l'exploitation minière, le traitement de l'eau et les applications industrielles."
-date: "2026-05-03"
+date: "2026-04-10"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Afrique", "acide oxalique Afrique du Sud", "acide oxalique Égypte", "acide oxalique Nigeria", "fournisseur de produits chimiques", "extraction minière", "traitement de l'eau", "nettoyage industriel"]

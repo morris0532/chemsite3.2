@@ -3,7 +3,7 @@ id: "a56s4d6a5ds45"
 slug: "oxalic-acid-industrial-applications"
 title: "Oxalic Acid: Industrial Applications and Safety Guidelines"
 excerpt: "Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines."
-date: "2026-02-20"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Guide"
 tags: ["oxalic acid","rust removal","industrial chemicals","safety"]

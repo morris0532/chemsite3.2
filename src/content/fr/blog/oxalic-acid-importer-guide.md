@@ -3,7 +3,7 @@ id: "on22pcph"
 slug: "oxalic-acid-importer-guide"
 title: "Guide du Premier Importateur d'Acide Oxalique : Réglementations et Bonnes Pratiques"
 excerpt: "Naviguer dans les complexités du commerce international peut être intimidant, surtout pour les composés chimiques comme l'acide oxalique. Ce guide complet fournit aux primo-importateurs des informations essentielles sur les réglementations, la documentation et les bonnes pratiques pour assurer un processus d'importation fluide et conforme."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Guide de l'Acheteur"
 tags: ["importation acide oxalique", "réglementations chimiques", "permis d'importation", "documentation douanière", "chaîne d'approvisionnement", "commerce international", "primo-importateur", "bonnes pratiques"]

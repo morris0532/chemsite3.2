@@ -1,12 +1,40 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
 import path from "path";
 import markdownPlugin from "./vite-plugin-markdown.mjs";
 
 // https://vitejs.dev/config/
 export default defineConfig({
   base: "/",
-  plugins: [markdownPlugin(), react()],
+  plugins: [
+    markdownPlugin(),
+    react(),
+    {
+      name: 'async-css-loader',
+      transformIndexHtml(html) {
+        const cssLinkRegex = /<link rel="stylesheet" crossorigin href="\/assets\/index-([a-zA-Z0-9]+)\.css">/;
+        const match = html.match(cssLinkRegex);
+        if (match) {
+          const cssFileName = match[0];
+          const cssFilePath = match[1];
+          const asyncLoadScript = `
+            <script>
+              (function() {
+                var link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.href = '/assets/index-${cssFilePath}.css';
+                document.head.appendChild(link);
+              })();
+            </script>
+          `;
+          return html.replace(cssFileName, asyncLoadScript);
+        }
+        return html;
+      },
+    },
+  ],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

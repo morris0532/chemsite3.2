@@ -3,7 +3,7 @@ id: "x3kcwyfr"
 slug: "how-to-dissolve-oxalic-acid"
 title: "How to Dissolve Oxalic Acid Properly: A Step-by-Step Guide"
 excerpt: "Learn the correct and safe method to dissolve oxalic acid for various industrial and household applications. This guide covers essential safety precautions, required materials, step-by-step instructions, and expert tips for optimal results."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinopeakChem Technical Team"
 category: "Technical Guide"
 tags: ["oxalic acid", "dissolving oxalic acid", "safety", "chemical handling", "industrial applications", "cleaning", "rust removal"]

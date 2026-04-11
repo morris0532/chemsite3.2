@@ -3,7 +3,7 @@ id: "asd5as5d36"
 slug: "oxalic-acid-vs-sulfuric-acid"
 title: "Acide Oxalique vs. Acide Sulfurique : Différences Clés et Applications"
 excerpt: "Explorez les différences fondamentales entre l'acide oxalique et l'acide sulfurique, deux produits chimiques industriellement importants. Cet article compare leurs propriétés chimiques, leurs diverses applications, leurs profils de sécurité et leurs considérations environnementales pour vous aider à choisir le bon acide pour vos besoins."
-date: "2026-05-04"
+date: "2026-04-10"
 author: "Équipe Technique Sinopeakchem"
 category: "Comparaisons Chimiques"
 tags: ["acide oxalique", "acide sulfurique", "comparaison chimique", "propriétés des acides", "applications industrielles", "données de sécurité", "impact environnemental", "élimination de la rouille", "nettoyage des métaux", "régulation du pH"]

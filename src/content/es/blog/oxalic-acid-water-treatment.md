@@ -3,7 +3,7 @@ id: "17"
 slug: "oxalic-acid-water-treatment"
 title: "Ácido Oxálico para el Tratamiento de Agua: Eliminación de Hierro y Manganeso"
 excerpt: "Descubra cómo el ácido oxálico elimina eficazmente el hierro y el manganeso del agua, su mecanismo químico, métodos de aplicación, beneficios y consideraciones de seguridad para la purificación industrial y municipal del agua."
-date: "2026-04-17"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones de Tratamiento de Agua"
 tags: ["oxalic acid water treatment", "iron removal water", "manganese removal water", "water purification chemicals", "industrial water treatment", "Sinopeakchem"]

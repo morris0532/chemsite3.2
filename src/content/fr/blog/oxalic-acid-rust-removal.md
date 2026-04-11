@@ -3,7 +3,7 @@ id: "564asdasd7"
 slug: "oxalic-acid-rust-removal"
 title: "Acide Oxalique pour l'Élimination de la Rouille : Le Guide Complet"
 excerpt: "Découvrez comment l'acide oxalique élimine efficacement la rouille de diverses surfaces métalliques. Ce guide complet couvre ses principes chimiques, son application étape par étape, les précautions de sécurité et la comparaison avec d'autres décapants de rouille."
-date: "2026-04-07"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique élimination rouille", "détachant rouille", "nettoyage métal", "élimination rouille chimique", "Sinopeakchem"]

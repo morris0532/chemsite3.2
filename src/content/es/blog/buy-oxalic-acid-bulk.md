@@ -3,7 +3,7 @@ id: "5"
 slug: "buy-oxalic-acid-bulk"
 title: "Cómo Comprar Ácido Oxálico a Granel: Guía de MOQ, Empaque y Envío"
 excerpt: "Una guía completa para la compra a granel de ácido oxálico. Conozca las cantidades mínimas de pedido, opciones de empaque, métodos de envío, condiciones de pago y el proceso completo de adquisición desde la cotización hasta la entrega."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Equipo Técnico Sinopeakchem"
 category: "Guía de Compras"
 tags: ["buy oxalic acid bulk", "wholesale oxalic acid", "MOQ", "packaging", "shipping", "bulk purchase", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "20"
 slug: "oxalic-acid-leather-tanning"
 title: "Oxalic Acid for Leather Tanning & Dyeing: Traditional & Modern Methods"
 excerpt: "Explore the vital role of oxalic acid in leather tanning and dyeing, from its historical use in traditional methods to its modern applications in enhancing leather quality and color. Learn about its chemical functions and safety considerations."
-date: "2026-04-20"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Industrial Applications"
 tags: ["oxalic acid leather", "leather tanning", "leather dyeing", "tanning chemicals", "dyeing auxiliaries", "leather processing", "Sinopeakchem"]

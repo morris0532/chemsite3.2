@@ -3,7 +3,7 @@ id: "jzsqs4ay"
 slug: "oxalic-acid-vs-edta"
 title: "Oxalic Acid vs EDTA: Which Chelating Agent Is Better for Your Application?"
 excerpt: "Compare oxalic acid and EDTA as chelating agents. Discover their differences in properties, applications, environmental impact, and cost to choose the right solution for your industrial needs."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Article"
 tags: ["oxalic acid", "EDTA", "chelating agent", "chemical comparison", "industrial applications"]

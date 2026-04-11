@@ -3,7 +3,7 @@ id: "9a4sd5646"
 slug: "oxalic-acid-manufacturer-china"
 title: "Fabricante y Exportador de Ácido Oxálico en China: Calidad, Certificación y Logística"
 excerpt: "Descubra por qué China domina el mercado mundial del ácido oxálico. Conozca el control de calidad, las certificaciones internacionales, los procesos eficientes de exportación y cómo SinoPeakChem garantiza un suministro confiable en todo el mundo."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Equipo Técnico Sinopeakchem"
 category: "Perspectivas de la Industria"
 tags: ["oxalic acid manufacturer China", "oxalic acid exporter", "chemical quality control", "REACH registration", "global logistics", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "14"
 slug: "oxalic-acid-packaging-storage"
 title: "Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad"
 excerpt: "Una guía integral sobre el embalaje y almacenamiento adecuado del ácido oxálico. Conozca los tipos comunes de envases, las condiciones ideales de almacenamiento y las medidas de seguridad esenciales para mantener la calidad del producto y asegurar un manejo seguro."
-date: "2026-04-14"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Logística y Seguridad"
 tags: ["oxalic acid packaging", "oxalic acid storage", "chemical packaging", "chemical storage", "safety handling", "Sinopeakchem"]

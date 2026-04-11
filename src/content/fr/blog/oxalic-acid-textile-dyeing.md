@@ -3,7 +3,7 @@ id: "11"
 slug: "oxalic-acid-textile-dyeing"
 title: "Acide Oxalique pour la Teinture et l'Impression Textile : Applications Industrielles"
 excerpt: "Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son utilisation comme auxiliaire de teinture et agent réducteur dans l'impression à son efficacité dans le nettoyage et le traitement des fibres. Découvrez ses applications industrielles et ses avantages."
-date: "2026-04-11"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["acide oxalique textile", "teinture textile", "impression textile", "traitement des fibres", "produits chimiques industriels", "Sinopeakchem"]

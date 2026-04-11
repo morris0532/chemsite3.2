@@ -3,7 +3,7 @@ id: "4"
 slug: "oxalic-acid-price"
 title: "Oxalic Acid Price Trend 2025: Factors Affecting Cost"
 excerpt: "Stay informed about the latest oxalic acid price trends for 2025. Explore the key factors influencing costs, from raw materials to energy prices, and learn how to get the best value for your bulk purchases."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Market Analysis"
 tags: ["oxalic acid price", "oxalic acid cost", "market trend 2025", "bulk chemical purchase", "Sinopeakchem"]

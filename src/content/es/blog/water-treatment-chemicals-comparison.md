@@ -3,7 +3,7 @@ id: "a6sd4asd4"
 slug: "comparacion-quimicos-para-tratamiento-de-agua"
 title: "Comparación de Químicos para el Tratamiento de Agua: PAC vs Sulfato de Aluminio vs Cloruro Férrico"
 excerpt: "Comparación de los coagulantes para tratamiento de agua más populares, incluyendo Cloruro de Polialuminio (PAC), Sulfato de Aluminio y Cloruro Férrico para encontrar la mejor solución para sus necesidades de tratamiento de agua."
-date: "2026-02-28"
+date: "2026-04-10"
 author: "Equipo Técnico Sinopeakchem"
 category: "Artículo Técnico"
 tags: ["tratamiento de agua","PAC","coagulante","comparación química"]

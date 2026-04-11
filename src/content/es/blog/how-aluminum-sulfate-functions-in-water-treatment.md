@@ -3,7 +3,7 @@ id: "9"
 slug: "how-aluminum-sulfate-functions-in-water-treatment"
 title: "Cómo Funciona el Sulfato de Aluminio en el Tratamiento de Agua"
 excerpt: "Descubra el papel esencial del sulfato de aluminio en la purificación del agua, desde el agua potable hasta el tratamiento de aguas residuales industriales."
-date: "2026-04-04"
+date: "2026-04-10"
 author: "Sinopeakchem"
 category: "Tratamiento de Agua"
 tags: ["sulfato de aluminio", "tratamiento de agua", "coagulación", "floculación"]

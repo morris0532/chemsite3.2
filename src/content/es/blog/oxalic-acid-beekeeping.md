@@ -3,7 +3,7 @@ id: "16"
 slug: "oxalic-acid-beekeeping"
 title: "Ácido oxálico en la apicultura: usos, beneficios y precauciones"
 excerpt: "Una guía completa sobre el uso del ácido oxálico para el control de ácaros varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia y seguridad para las abejas y la miel."
-date: "2026-04-16"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones en Apicultura"
 tags: ["ácido oxálico apicultura", "tratamiento varroa", "control de plagas en colmenas", "ácido oxálico para abejas", "seguridad en apicultura", "Sinopeakchem"]

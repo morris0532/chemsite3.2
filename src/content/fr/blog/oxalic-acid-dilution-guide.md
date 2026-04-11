@@ -3,7 +3,7 @@ id: "24"
 slug: "oxalic-acid-dilution-guide"
 title: "Comment Diluer l'Acide Oxalique en Toute Sécurité : Calcul de Concentration et Guide de Manipulation"
 excerpt: "Un guide complet sur la dilution sécurisée de l'acide oxalique, incluant les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour diverses applications. Assurez une utilisation sûre et efficace."
-date: "2026-04-24"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Sécurité et Manipulation"
 tags: ["dilution acide oxalique", "sécurité chimique", "calcul concentration", "guide manipulation", "EPI", "Sinopeakchem"]

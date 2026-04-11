@@ -3,7 +3,7 @@ id: "14"
 slug: "oxalic-acid-packaging-storage"
 title: "Oxalic Acid Packaging & Storage: Ensuring Quality & Safety"
 excerpt: "A comprehensive guide to the proper packaging and storage of oxalic acid. Learn about common packaging types, ideal storage conditions, and essential safety measures to maintain product quality and ensure safe handling."
-date: "2026-04-14"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Logistics & Safety"
 tags: ["oxalic acid packaging", "oxalic acid storage", "chemical packaging", "chemical storage", "safety handling", "Sinopeakchem"]

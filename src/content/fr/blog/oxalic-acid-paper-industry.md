@@ -3,7 +3,7 @@ id: "97g42hcm"
 slug: "oxalic-acid-paper-industry"
 title: "Acide Oxalique dans l'Industrie Papetière : Blanchiment et Au-delà"
 excerpt: "Découvrez les applications multiples de l'acide oxalique dans l'industrie papetière, de son rôle crucial dans le blanchiment de la pâte à son utilisation dans diverses étapes de traitement. Ce guide explore ses fonctions chimiques, ses avantages environnementaux et son impact sur la qualité du papier."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Overview"
 tags: ["acide oxalique", "industrie papetière", "blanchiment de la pâte", "fabrication du papier", "traitement chimique", "avantages environnementaux", "qualité du papier", "guide technique"]

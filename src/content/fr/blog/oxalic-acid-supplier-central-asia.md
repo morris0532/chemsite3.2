@@ -3,7 +3,7 @@ id: "38"
 slug: "oxalic-acid-supplier-central-asia"
 title: "Fournisseur d'Acide Oxalique pour le Marché d'Asie Centrale : Kazakhstan et Ouzbékistan"
 excerpt: "SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché d'Asie Centrale, desservant des pays clés comme le Kazakhstan et l'Ouzbékistan avec des produits de qualité pour l'exploitation minière, le traitement industriel et diverses applications chimiques."
-date: "2026-05-08"
+date: "2026-04-10"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Asie Centrale", "acide oxalique Kazakhstan", "acide oxalique Ouzbékistan", "fournisseur de produits chimiques", "produits chimiques miniers", "traitement industriel", "fabrication de produits chimiques"]

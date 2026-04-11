@@ -3,7 +3,7 @@ id: "28"
 slug: "oxalic-acid-market-analysis"
 title: "Analyse du Marché Mondial de l'Acide Oxalique : Principaux Producteurs et Flux Commerciaux"
 excerpt: "Plongez dans le marché mondial de l'acide oxalique, en analysant les principales régions productrices, les flux commerciaux majeurs, les moteurs de la demande et les futures tendances du marché qui façonnent l'industrie."
-date: "2026-04-28"
+date: "2026-04-10"
 author: "Sinopeakchem Market Research"
 category: "Aperçus du Marché"
 tags: ["acide oxalique marché", "commerce mondial", "industrie chimique", "analyse de marché", "fabricant chinois", "chaîne d'approvisionnement", "Sinopeakchem"]

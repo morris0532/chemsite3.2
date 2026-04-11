@@ -3,7 +3,7 @@ id: "asd5as5d22"
 slug: "oxalic-acid-vs-citric-acid"
 title: "Oxalic Acid vs. Citric Acid: A Comparative Analysis"
 excerpt: "A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks."
-date: "2026-04-22"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Chemical Comparisons"
 tags: ["oxalic acid", "citric acid", "chemical comparison", "rust remover", "food additive", "cleaning agents", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "15"
 slug: "oxalic-acid-grades-specifications"
 title: "Qualités et Spécifications de l'Acide Oxalique : Un Examen Approfondi"
 excerpt: "Explorez les différentes qualités et spécifications de l'acide oxalique, y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez les exigences de pureté, les indicateurs physico-chimiques et les normes internationales pertinentes pour choisir le bon produit pour votre application."
-date: "2026-04-15"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Informations sur les Produits"
 tags: ["qualités acide oxalique", "spécifications acide oxalique", "acide oxalique de qualité industrielle", "acide oxalique de qualité alimentaire", "acide oxalique de qualité pharmaceutique", "pureté acide oxalique", "Sinopeakchem"]

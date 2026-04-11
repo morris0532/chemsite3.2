@@ -3,7 +3,7 @@ id: "97g42hcm"
 slug: "oxalic-acid-paper-industry"
 title: "Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá"
 excerpt: "Descubra las múltiples aplicaciones del ácido oxálico en la industria papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en diversas etapas de procesamiento. Esta guía explora sus funciones químicas, beneficios ambientales y su impacto en la calidad del papel."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Overview"
 tags: ["ácido oxálico", "industria papelera", "blanqueo de pulpa", "fabricación de papel", "procesamiento químico", "beneficios ambientales", "calidad del papel", "guía técnica"]

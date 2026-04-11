@@ -3,7 +3,7 @@ id: "25"
 sług: "oxalic-acid-rare-earth-magnets"
 title: "Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico"
 excerpt: "Descubra el papel vital del ácido oxálico en la producción de imanes de tierras raras, particularmente en la separación y purificación de elementos de tierras raras, que son esenciales para materiales magnéticos de alto rendimiento."
-date: "2026-04-25"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones Industriales"
 tags: ["ácido oxálico", "imanes de tierras raras", "extracción de tierras raras", "imanes de neodimio", "materiales magnéticos", "precipitación química", "Sinopeakchem"]

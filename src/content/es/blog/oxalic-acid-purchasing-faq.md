@@ -3,7 +3,7 @@ id: "30"
 slug: "oxalic-acid-purchasing-faq"
 title: "Preguntas Frecuentes sobre la Compra de Ácido Oxálico para Compradores al Por Mayor"
 excerpt: "Navegue por las complejidades de la adquisición a granel de ácido oxálico con nuestra completa sección de preguntas frecuentes, que abarca desde grados y embalajes hasta envío y condiciones de pago."
-date: "2026-04-30"
+date: "2026-04-10"
 author: "Equipo de Ventas de Sinopeakchem"
 category: "Guía de Compra"
 tags: ["oxalic acid bulk", "oxalic acid purchase", "FAQ", "chemical procurement", "supplier selection", "packaging", "shipping", "payment terms", "Sinopeakchem"]

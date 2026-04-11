@@ -3,7 +3,7 @@ id: "29"
 slug: "oxalic-acid-analytical-chemistry"
 title: "Ácido Oxálico en la Química Analítica de Laboratorio: Reactivo Esencial"
 excerpt: "Descubra el papel fundamental del ácido oxálico como patrón primario y agente reductor en diversas técnicas de química analítica, desde la valoración hasta la complejometría."
-date: "2026-04-29"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones de Laboratorio"
 tags: ["ácido oxálico", "química analítica", "valoración", "patrón primario", "agente reductor", "complejometría", "reactivo de laboratorio", "Sinopeakchem"]

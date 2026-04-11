@@ -3,7 +3,7 @@ id: "lzvxk9be"
 slug: "how-to-test-oxalic-acid-purity"
 title: "Cómo Probar la Pureza del Ácido Oxálico: Una Guía Completa"
 excerpt: "Descubra los métodos esenciales para probar la pureza del ácido oxálico, incluyendo la titulación con permanganato de potasio, la determinación del punto de fusión y el análisis espectroscópico. Asegure la calidad y seguridad para sus aplicaciones industriales."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["ácido oxálico", "prueba de pureza", "titulación", "permanganato de potasio", "punto de fusión", "espectroscopia", "control de calidad", "análisis químico"]

@@ -2,7 +2,7 @@
 id: privacy-policy
 title: Privacy Policy
 slug: privacy-policy
-date: 2026-03-31
+date: "2026-04-10"
 untranslated: true
 ---
 

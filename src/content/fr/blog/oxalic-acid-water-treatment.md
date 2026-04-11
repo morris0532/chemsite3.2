@@ -3,7 +3,7 @@ id: "17"
 slug: "oxalic-acid-water-treatment"
 title: "Acide Oxalique pour le Traitement de l'Eau : Élimination du Fer et du Manganèse"
 excerpt: "Découvrez comment l'acide oxalique élimine efficacement le fer et le manganèse de l'eau, son mécanisme chimique, ses méthodes d'application, ses avantages et les considérations de sécurité pour la purification de l'eau industrielle et municipale."
-date: "2026-04-17"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Traitement de l'Eau"
 tags: ["acide oxalique traitement eau", "élimination fer eau", "élimination manganèse eau", "produits chimiques purification eau", "traitement eau industriel", "Sinopeakchem"]

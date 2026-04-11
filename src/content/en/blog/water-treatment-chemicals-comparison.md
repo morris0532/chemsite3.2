@@ -3,7 +3,7 @@ id: "a6sd4asd4"
 slug: "water-treatment-chemicals-comparison"
 title: "Water Treatment Chemicals Comparison: PAC vs Aluminum Sulfate vs Ferric Chloride"
 excerpt: "Compare the most popular water treatment coagulants including Polyaluminum Chloride (PAC), Aluminum Sulfate, and Ferric Chloride to find the best solution for your water treatment needs."
-date: "2026-02-28"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Technical Article"
 tags: ["water treatment","PAC","coagulant","chemical comparison"]

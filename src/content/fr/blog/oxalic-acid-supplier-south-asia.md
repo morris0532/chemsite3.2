@@ -3,7 +3,7 @@ id: "37"
 slug: "oxalic-acid-supplier-south-asia"
 title: "Fournisseur d'Acide Oxalique pour le Marché de l'Asie du Sud : Inde, Pakistan et Bangladesh"
 excerpt: "SinoPeakChem est un fournisseur d'acide oxalique de premier plan pour le marché de l'Asie du Sud, desservant des pays clés comme l'Inde, le Pakistan et le Bangladesh avec des produits de qualité pour la teinture textile, l'industrie du cuir et diverses applications chimiques."
-date: "2026-05-07"
+date: "2026-04-10"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Asie du Sud", "acide oxalique Inde", "acide oxalique Pakistan", "acide oxalique Bangladesh", "fournisseur de produits chimiques", "teinture textile", "industrie du cuir", "fabrication de produits chimiques"]

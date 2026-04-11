@@ -3,7 +3,7 @@ id: "21"
 slug: "oxalic-acid-aluminum-anodizing"
 title: "Acide Oxalique pour l'Anodisation de l'Aluminium : Processus et Avantages"
 excerpt: "Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de l'aluminium, un processus qui améliore la durabilité, la résistance à la corrosion et l'attrait esthétique de l'aluminium. Apprenez son mécanisme, ses avantages et ses applications dans diverses industries."
-date: "2026-04-21"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications Industrielles"
 tags: ["acide oxalique anodisation", "anodisation aluminium", "processus anodisation", "résistance corrosion", "traitement surface", "Sinopeakchem"]

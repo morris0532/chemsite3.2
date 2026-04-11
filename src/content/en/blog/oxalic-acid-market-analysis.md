@@ -3,7 +3,7 @@ id: "28"
 slug: "oxalic-acid-market-analysis"
 title: "Global Oxalic Acid Market Analysis: Key Producers & Trade Flows"
 excerpt: "Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry."
-date: "2026-04-28"
+date: "2026-04-10"
 author: "Sinopeakchem Market Research"
 category: "Market Insights"
 tags: ["oxalic acid market", "global trade", "chemical industry", "market analysis", "China manufacturer", "supply chain", "Sinopeakchem"]

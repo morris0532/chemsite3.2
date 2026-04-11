@@ -3,7 +3,7 @@ id: "27"
 slug: "oxalic-acid-metal-pre-treatment"
 title: "Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la Adhesión y la Resistencia a la Corrosión"
 excerpt: "Explora el papel crucial del ácido oxálico en el pretratamiento de superficies metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión de recubrimientos y la resistencia a la corrosión."
-date: "2026-04-27"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones Industriales"
 tags: ["ácido oxálico", "pretratamiento metálico", "resistencia a la corrosión", "preparación de superficies", "limpieza de metales", "pasivación", "adhesión", "Sinopeakchem"]

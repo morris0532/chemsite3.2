@@ -3,7 +3,7 @@ id: "qwasd8"
 slug: "oxalic-acid-wood-bleaching"
 title: "Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional"
 excerpt: "Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas de tanino, con instrucciones paso a paso y consejos de seguridad."
-date: "2026-04-08"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicación de Producto"
 tags: ["blanqueo de madera con ácido oxálico", "limpiador de madera", "removedor de manchas de tanino", "removedor de manchas de agua", "restauración de madera", "Sinopeakchem"]

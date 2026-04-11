@@ -3,7 +3,7 @@ id: "20"
 slug: "oxalic-acid-leather-tanning"
 title: "Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos"
 excerpt: "Explore el papel vital del ácido oxálico en el curtido y teñido del cuero, desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones de seguridad."
-date: "2026-04-20"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones Industriales"
 tags: ["ácido oxálico cuero", "curtido de cuero", "teñido de cuero", "químicos para curtido", "auxiliares para teñido", "procesamiento de cuero", "Sinopeakchem"]

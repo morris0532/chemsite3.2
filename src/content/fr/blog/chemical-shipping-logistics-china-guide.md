@@ -3,7 +3,7 @@ id: "3"
 slug: "chemical-shipping-logistics-china-guide"
 title: "Expédition et logistique des produits chimiques depuis la Chine : ce que vous devez savoir"
 excerpt: "Naviguez dans les complexités de l'expédition internationale de produits chimiques depuis la Chine. Découvrez les réglementations, les exigences d'emballage et comment choisir le bon partenaire logistique."
-date: "2026-03-05"
+date: "2026-04-10"
 author: "Équipe Logistique Sinopeakchem"
 category: "Expédition et Logistique"
 tags: ["expédition de produits chimiques","commerce international","logistique"]

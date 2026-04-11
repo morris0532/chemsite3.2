@@ -3,7 +3,7 @@ id: "5w87r9b7"
 slug: "oxalic-acid-dosage-calculation"
 title: "Cálculo de la Dosis de Ácido Oxálico: Una Guía Completa"
 excerpt: "Domine el arte del cálculo de la dosis de ácido oxálico para diversas aplicaciones industriales y domésticas. Esta guía cubre fórmulas esenciales, ejemplos prácticos y consideraciones de seguridad para asegurar un uso preciso y efectivo."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["ácido oxálico", "cálculo de dosis", "fórmulas químicas", "concentración", "dilución", "aplicaciones industriales", "seguridad", "estequiometría"]

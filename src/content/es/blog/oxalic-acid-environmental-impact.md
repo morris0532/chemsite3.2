@@ -3,7 +3,7 @@ id: "26"
 slug: "oxalic-acid-environmental-impact"
 title: "Impacto Ambiental y Biodegradabilidad del Ácido Oxálico"
 excerpt: "Explore la huella ambiental del ácido oxálico, su presencia natural, biodegradabilidad y prácticas seguras de eliminación para garantizar un uso sostenible en diversas aplicaciones."
-date: "2026-04-26"
+date: "2026-04-10"
 author: "Equipo Técnico Sinopeakchem"
 category: "Sostenibilidad y Seguridad"
 tags: ["ácido oxálico", "impacto ambiental", "biodegradabilidad", "sostenibilidad", "seguridad química", "gestión de residuos", "Sinopeakchem"]

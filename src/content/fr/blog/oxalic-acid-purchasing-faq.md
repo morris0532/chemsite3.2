@@ -3,7 +3,7 @@ id: "30"
 slug: "oxalic-acid-purchasing-faq"
 title: "FAQ sur l'Achat d'Acide Oxalique pour les Acheteurs en Vrac"
 excerpt: "Naviguez dans les complexités de l'approvisionnement en acide oxalique en vrac grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux conditions d'expédition et de paiement."
-date: "2026-04-30"
+date: "2026-04-10"
 author: "Sinopeakchem Sales Team"
 category: "Guide d'Achat"
 tags: ["acide oxalique en vrac", "achat acide oxalique", "FAQ", "approvisionnement chimique", "sélection fournisseur", "emballage", "expédition", "conditions de paiement", "Sinopeakchem"]

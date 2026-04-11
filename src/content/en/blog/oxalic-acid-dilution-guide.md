@@ -3,7 +3,7 @@ id: "24"
 slug: "oxalic-acid-dilution-guide"
 title: "How to Safely Dilute Oxalic Acid: Concentration Calculation & Handling Guide"
 excerpt: "A comprehensive guide on safely diluting oxalic acid, including essential safety precautions, step-by-step dilution procedures, and concentration calculation methods for various applications. Ensure safe and effective use."
-date: "2026-04-24"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Safety & Handling"
 tags: ["oxalic acid dilution", "chemical safety", "concentration calculation", "handling guide", "PPE", "Sinopeakchem"]

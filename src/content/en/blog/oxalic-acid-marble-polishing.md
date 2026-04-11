@@ -3,7 +3,7 @@ id: "9"
 slug: "oxalic-acid-marble-polishing"
 title: "Oxalic Acid for Marble Polishing & Stone Care: Best Practices"
 excerpt: "Discover the professional techniques for using oxalic acid to polish marble and care for various stone surfaces. Learn about its chemical action, application methods, safety precautions, and how to achieve a brilliant shine."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Product Application"
 tags: ["oxalic acid marble polishing", "stone care", "marble restoration", "stone cleaning", "Sinopeakchem"]

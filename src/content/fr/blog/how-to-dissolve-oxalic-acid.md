@@ -3,7 +3,7 @@ id: "x3kcwyfr"
 slug: "how-to-dissolve-oxalic-acid"
 title: "Comment Dissoudre Correctement l'Acide Oxalique : Un Guide Étape par Étape"
 excerpt: "Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour diverses applications industrielles et domestiques. Ce guide couvre les précautions de sécurité essentielles, les matériaux requis, les instructions étape par étape et des conseils d'experts pour des résultats optimaux."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["acide oxalique", "dissolution acide oxalique", "sécurité", "manipulation chimique", "applications industrielles", "nettoyage", "dérochage"]

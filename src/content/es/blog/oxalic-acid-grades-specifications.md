@@ -3,7 +3,7 @@ id: "15"
 slug: "oxalic-acid-grades-specifications"
 title: "Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda"
 excerpt: "Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza, los indicadores físico-químicos y las normas internacionales relevantes para elegir el producto adecuado para su aplicación."
-date: "2026-04-15"
+date: "2026-04-10"
 author: "Equipo Técnico Sinopeakchem"
 category: "Información de Producto"
 tags: ["oxalic acid grades", "oxalic acid specifications", "industrial grade oxalic acid", "food grade oxalic acid", "pharmaceutical grade oxalic acid", "oxalic acid purity", "Sinopeakchem"]

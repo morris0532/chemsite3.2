@@ -3,7 +3,7 @@ id: "9"
 slug: "how-aluminum-sulfate-functions-in-water-treatment"
 title: "How Aluminum Sulfate Functions in Water Treatment"
 excerpt: "Discover the essential role of aluminum sulfate in water purification, from drinking water to industrial wastewater treatment."
-date: "2026-04-04"
+date: "2026-04-10"
 author: "Sinopeakchem"
 category: "Water Treatment"
 tags: ["aluminum sulfate", "water treatment", "coagulation", "flocculation"]

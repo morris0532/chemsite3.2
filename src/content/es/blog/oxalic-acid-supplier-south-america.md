@@ -3,7 +3,7 @@ id: "34"
 slug: "oxalic-acid-supplier-south-america"
 title: "Proveedor de Ácido Oxálico para el Mercado de Sudamérica: Brasil, Chile y Colombia"
 excerpt: "SinoPeakChem es su proveedor confiable de ácido oxálico para el dinámico mercado sudamericano, atendiendo a naciones clave como Brasil, Chile y Colombia con productos de calidad para la agricultura, el procesamiento del cuero y la minería."
-date: "2026-05-04"
+date: "2026-04-10"
 author: "Equipo de ventas de Sinopeakchem"
 category: "Mercado Regional"
 tags: ["ácido oxálico Sudamérica", "ácido oxálico Brasil", "ácido oxálico Chile", "ácido oxálico Colombia", "proveedor químico", "químicos para agricultura", "curtiembre", "industria minera"]

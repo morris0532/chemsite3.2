@@ -3,7 +3,7 @@ id: "5"
 slug: "buy-oxalic-acid-bulk"
 title: "Comment Acheter de l'Acide Oxalique en Gros : Guide MOQ, Emballage et Expédition"
 excerpt: "Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les quantités minimales de commande, les options d'emballage, les méthodes d'expédition, les conditions de paiement et l'ensemble du processus d'approvisionnement du devis à la livraison."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Guide d'Approvisionnement"
 tags: ["acheter acide oxalique en gros", "acide oxalique en gros", "MOQ", "emballage", "expédition", "achat en gros", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "19"
 slug: "oxalic-acid-cleaning-descaling"
 title: "Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses"
 excerpt: "Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines."
-date: "2026-04-19"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Cleaning Applications"
 tags: ["oxalic acid cleaning", "oxalic acid descaling", "household cleaning", "industrial cleaning", "rust stain remover", "calcium deposit remover", "Sinopeakchem"]

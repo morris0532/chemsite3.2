@@ -3,7 +3,7 @@ id: "8"
 slug: "oxalic-acid-comprehensive-guide"
 title: "Ácido Oxálico: Una Guía Integral sobre Aplicaciones Industriales, Producción y Tendencias del Mercado"
 excerpt: "Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos de producción, gestión de seguridad, estrategias ambientales y perspectivas futuras del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta pureza para distintas industrias."
-date: "2026-04-05"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Guía de Producto"
 tags: ["oxalic acid", "ethanedioic acid", "industrial chemicals", "rare earth extraction", "rust removal", "chemical production", "market trends", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "18"
 slug: "oxalic-acid-photography"
 title: "Oxalic Acid in Photography: Historical Use & Modern Relevance"
 excerpt: "Explore the historical role of oxalic acid in photographic processes, from early platinum and palladium prints to its modern applications in toning and printmaking. Understand its chemical function and safety considerations."
-date: "2026-04-18"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Specialty Applications"
 tags: ["oxalic acid photography", "platinum palladium prints", "photographic chemistry", "toning solutions", "printmaking", "historical photography", "Sinopeakchem"]

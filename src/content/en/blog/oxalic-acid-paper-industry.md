@@ -3,7 +3,7 @@ id: "97g42hcm"
 slug: "oxalic-acid-paper-industry"
 title: "Oxalic Acid in the Paper Industry: Bleaching and Beyond"
 excerpt: "Discover the multifaceted applications of oxalic acid in the paper industry, from its crucial role in pulp bleaching to its use in various processing stages. This guide explores its chemical functions, environmental benefits, and impact on paper quality."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Overview"
 tags: ["oxalic acid", "paper industry", "pulp bleaching", "paper manufacturing", "chemical processing", "environmental benefits", "paper quality", "technical guide"]

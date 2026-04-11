@@ -3,7 +3,7 @@ id: "6"
 slug: "how-to-choose-the-right-chem-supplier-from-china"
 title: "Cómo Elegir al Proveedor Químico Adecuado de China: Una Guía Completa"
 excerpt: "Una guía detallada sobre cómo seleccionar un proveedor químico confiable en China, abarcando la calificación del proveedor, control de calidad, cadena de suministro, rentabilidad y comunicación."
-date: "2026-03-20"
+date: "2026-04-10"
 author: "Sinopeakchem"
 category: "Guía de Abastecimiento"
 tags: ["chemical supplier","sourcing","China","procurement","supply chain"]

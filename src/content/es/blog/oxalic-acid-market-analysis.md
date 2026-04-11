@@ -3,7 +3,7 @@ id: "28"
 slug: "oxalic-acid-market-analysis"
 title: "Análisis del Mercado Global del Ácido Oxálico: Principales Productores y Flujos Comerciales"
 excerpt: "Profundice en el mercado global del ácido oxálico, analizando las principales regiones productoras, los principales flujos comerciales, los impulsores de la demanda y las tendencias futuras del mercado que dan forma a la industria."
-date: "2026-04-28"
+date: "2026-04-10"
 author: "Sinopeakchem Investigación de Mercado"
 category: "Perspectivas del Mercado"
 tags: ["mercado de ácido oxálico", "comercio global", "industria química", "análisis de mercado", "fabricante chino", "cadena de suministro", "Sinopeakchem"]

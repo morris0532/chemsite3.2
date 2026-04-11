@@ -3,7 +3,7 @@ id: "34"
 slug: "oxalic-acid-supplier-south-america"
 title: "Fournisseur d'Acide Oxalique pour le Marché Sud-Américain : Brésil, Chili & Colombie"
 excerpt: "SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché sud-américain dynamique, desservant des nations clés comme le Brésil, le Chili et la Colombie avec des produits de qualité pour l'agriculture, le traitement du cuir et l'exploitation minière."
-date: "2026-05-04"
+date: "2026-04-10"
 author: "Équipe Commerciale Sinopeakchem"
 category: "Marché Régional"
 tags: ["acide oxalique Amérique du Sud", "acide oxalique Brésil", "acide oxalique Chili", "acide oxalique Colombie", "fournisseur de produits chimiques", "produits chimiques agricoles", "tannage du cuir", "industrie minière"]

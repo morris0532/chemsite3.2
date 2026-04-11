@@ -3,7 +3,7 @@ id: "65asd4611"
 sug: "oxalic-acid-uses"
 title: "Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous Devriez Connaître"
 excerpt: "Explorez les diverses applications industrielles de l'acide oxalique, de l'élimination de la rouille et du blanchiment du bois à l'extraction des terres rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs."
-date: "2026-04-06"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Application Produit"
 tags: ["utilisations de l'acide oxalique", "applications de l'acide oxalique", "produits chimiques industriels", "élimination de la rouille", "blanchiment du bois", "extraction des terres rares", "produits pharmaceutiques", "Sinopeakchem"]

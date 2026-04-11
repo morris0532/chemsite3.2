@@ -3,7 +3,7 @@ id: "a56s4d6a5ds45"
 slug: "oxalic-acid-industrial-applications"
 title: "Acide oxalique : applications industrielles et consignes de sécurité"
 excerpt: "Explorez les diverses applications industrielles de l'acide oxalique, de l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes consignes de sécurité et de manipulation."
-date: "2026-02-20"
+date: "2026-04-10"
 author: "Équipe Technique Sinopeakchem"
 category: "Guide Produit"
 tags: ["acide oxalique","élimination de la rouille","produits chimiques industriels","sécurité"]

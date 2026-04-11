@@ -3,7 +3,7 @@ id: "29"
 slug: "oxalic-acid-analytical-chemistry"
 title: "Acide Oxalique en Chimie Analytique de Laboratoire : Réactif Essentiel"
 excerpt: "Découvrez le rôle fondamental de l'acide oxalique en tant qu'étalon primaire et agent réducteur dans diverses techniques de chimie analytique, du titrage à la complexométrie."
-date: "2026-04-29"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Applications de Laboratoire"
 tags: ["acide oxalique", "chimie analytique", "titrage", "étalon primaire", "agent réducteur", "complexométrie", "réactif de laboratoire", "Sinopeakchem"]

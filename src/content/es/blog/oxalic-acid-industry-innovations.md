@@ -3,7 +3,7 @@ id: "o7b0iuFkJL"
 slug: "oxalic-acid-industry-innovations"
 title: "Innovaciones en la Industria del Ácido Oxálico: Impulsando la Sostenibilidad y la Eficiencia"
 excerpt: "Explore las últimas innovaciones en la industria del ácido oxálico, centrándose en los avances en química verde, técnicas de purificación avanzadas e iniciativas de economía circular. Descubra cómo estos desarrollos están mejorando la sostenibilidad y la eficiencia en la producción y aplicación."
-date: "2026-05-06"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Innovaciones Industriales"
 tags: ["ácido oxálico", "innovaciones industriales", "química verde", "purificación avanzada", "economía circular", "producción sostenible", "fabricación química", "impacto ambiental"]

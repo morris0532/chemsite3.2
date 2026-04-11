@@ -3,7 +3,7 @@ id: "31"
 slug: "oxalic-acid-supplier-southeast-asia"
 title: "Proveedor de Ácido Oxálico para el Sudeste Asiático: Tailandia, Vietnam, Indonesia y Más"
 excerpt: "El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico, impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem es su socio confiable, ofreciendo ácido oxálico de alta calidad con logística eficiente y soporte de cumplimiento para compradores en Tailandia, Vietnam, Indonesia, Filipinas y Malasia."
-date: "2026-05-01"
+date: "2026-04-10"
 author: "Sinopeakchem Sales Team"
 category: "Mercado Regional"
 tags: ["oxalic acid Southeast Asia", "oxalic acid Thailand", "oxalic acid Vietnam", "oxalic acid Indonesia", "oxalic acid Philippines", "oxalic acid Malaysia", "buy oxalic acid Southeast Asia", "oxalic acid import ASEAN", "chemical supplier China", "RCEP trade", "textile industry", "rare earth extraction"]

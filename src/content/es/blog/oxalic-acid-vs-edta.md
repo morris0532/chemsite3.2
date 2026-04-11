@@ -3,7 +3,7 @@ id: "jzsqs4ay"
 slug: "oxalic-acid-vs-edta"
 title: "Ácido Oxálico vs EDTA: ¿Qué Agente Quelante Es Mejor para Su Aplicación?"
 excerpt: "Compare el ácido oxálico y el EDTA como agentes quelantes. Descubra sus diferencias en propiedades, aplicaciones, impacto ambiental y costo para elegir la solución adecuada para sus necesidades industriales."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinopeakChem Technical Team"
 category: "Technical Article"
 tags: ["ácido oxálico", "EDTA", "agente quelante", "comparación química", "aplicaciones industriales"]

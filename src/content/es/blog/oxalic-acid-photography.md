@@ -3,7 +3,7 @@ id: "18"
 slug: "oxalic-acid-photography"
 title: "Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna"
 excerpt: "Explora el papel histórico del ácido oxálico en los procesos fotográficos, desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas en el virado y la impresión artística. Comprende su función química y consideraciones de seguridad."
-date: "2026-04-18"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones Especializadas"
 tags: ["ácido oxálico fotografía", "impresiones platino paladio", "química fotográfica", "soluciones de virado", "grabado y impresión", "fotografía histórica", "Sinopeakchem"]

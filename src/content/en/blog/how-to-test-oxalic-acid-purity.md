@@ -3,7 +3,7 @@ id: "lzvxk9be"
 slug: "how-to-test-oxalic-acid-purity"
 title: "How to Test Oxalic Acid Purity: A Comprehensive Guide"
 excerpt: "Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications."
-date: "2026-04-09"
+date: "2026-04-10"
 author: "SinoPeakChem Technical Team"
 category: "Technical Guide"
 tags: ["oxalic acid", "purity testing", "titration", "potassium permanganate", "melting point", "spectroscopy", "quality control", "chemical analysis"]

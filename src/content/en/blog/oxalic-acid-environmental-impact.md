@@ -3,7 +3,7 @@ id: "26"
 slug: "oxalic-acid-environmental-impact"
 title: "Oxalic Acid's Environmental Impact & Biodegradability"
 excerpt: "Explore the environmental footprint of oxalic acid, its natural occurrence, biodegradability, and safe disposal practices to ensure sustainable use in various applications."
-date: "2026-04-26"
+date: "2026-04-10"
 author: "Sinopeakchem Technical Team"
 category: "Sustainability & Safety"
 tags: ["oxalic acid", "environmental impact", "biodegradability", "sustainability", "chemical safety", "waste management", "Sinopeakchem"]

@@ -3,7 +3,7 @@ id: "19"
 slug: "oxalic-acid-cleaning-descaling"
 title: "Ácido Oxálico para Limpieza y Desincrustación: Usos Domésticos e Industriales"
 excerpt: "Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación, desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales. Conozca su acción química, usos efectivos y pautas de seguridad."
-date: "2026-04-19"
+date: "2026-04-10"
 author: "Equipo Técnico de Sinopeakchem"
 category: "Aplicaciones de Limpieza"
 tags: ["oxalic acid cleaning", "oxalic acid descaling", "household cleaning", "industrial cleaning", "rust stain remover", "calcium deposit remover", "Sinopeakchem"]
