@@ -1,4 +1,6 @@
 ---
+id: "CS-A7kM2pQ9X1"
+url: "/blog/what-is-caustic-soda"
 title: "What Is Caustic Soda? A Complete Guide for Industrial Buyers"
 description: "Comprehensive guide to caustic soda (sodium hydroxide): chemical properties, applications, grades, safety, and how to source it for your business."
 image: "/images/blog/what-is-caustic-soda.webp"

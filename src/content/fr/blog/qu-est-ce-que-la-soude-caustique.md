@@ -1,4 +1,6 @@
 ---
+id: "CS-A7kM2pQ9X1"
+url: "/blog/what-is-caustic-soda"
 title: "Qu'est-ce que la soude caustique ? Guide complet pour les acheteurs industriels"
 description: "Guide détaillé sur la soude caustique (hydroxyde de sodium) : propriétés chimiques, applications, grades, sécurité et comment l'acheter pour votre entreprise."
 image: "/images/blog/what-is-caustic-soda.webp"
