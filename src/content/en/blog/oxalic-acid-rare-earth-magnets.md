@@ -1,16 +1,21 @@
 ---
-id: "25"
-sług: "oxalic-acid-rare-earth-magnets"
-title: "Oxalic Acid in Rare Earth Magnets: A Critical Component"
-excerpt: "Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Industrial Applications"
-tags: ["oxalic acid", "rare earth magnets", "rare earth extraction", "neodymium magnets", "magnetic materials", "chemical precipitation", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rare-earth-magnets.webp"
-imageAlt: "A professional and high-tech image depicting the production of rare earth magnets. Show elements like rare earth minerals, a chemical precipitation process (e.g., using oxalic acid), and finished powerful magnets. Emphasize precision, advanced technology, and the critical role of chemistry."
+Id: 'SP-praiqpx7ci'
+Origin_Slug: 'oxalic-acid-rare-earth-magnets'
+Slug: 'oxalic-acid-rare-earth-magnets'
+Excerpt: 'Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials.'
+title: 'Oxalic Acid in Rare Earth Magnets: A Critical Component'
+description: 'Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials.'
+Img: '/images/blog/oxalic-acid-rare-earth-magnets.webp'
+imageAlt: 'A professional and high-tech image depicting the production of rare earth magnets. Show elements like rare earth minerals, a chemical precipitation process (e.g., using oxalic acid), and finished powerful magnets. Emphasize precision, advanced technology, and the critical role of chemistry.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Industrial Applications'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid in Rare Earth Magnets: A Critical Component
 
 Rare earth magnets, such as Neodymium-Iron-Boron (NdFeB) magnets, are at the heart of many modern technologies, from electric vehicles and wind turbines to smartphones and medical devices. These powerful magnets rely on **rare earth elements (REEs)**, a group of 17 chemically similar metallic elements. The efficient and pure extraction of these elements from their ores is a complex process, and **oxalic acid** plays a critical and often indispensable role in this sophisticated supply chain [1].

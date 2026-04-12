@@ -1,16 +1,21 @@
 ---
-id: "36"
-slug: "oxalic-acid-supplier-north-america"
-title: "Oxalic Acid Supplier for North America Market: USA, Canada & Mexico"
-excerpt: "SinoPeakChem is your trusted oxalic acid supplier for the North American market, serving key countries like the USA, Canada, and Mexico with quality products for industrial cleaning, wood treatment, and various chemical applications."
-date: "2026-04-10"
-author: "Sinopeakchem Sales Team"
-category: "Regional Market"
-tags: ["oxalic acid North America", "oxalic acid USA", "oxalic acid Canada", "oxalic acid Mexico", "chemical supplier", "industrial cleaning", "wood treatment", "chemical manufacturing"]
-image: "/images/blog/oxalic-acid-supplier-north-america.webp"
-imageAlt: "A professional and clear image depicting a map of North America, highlighting countries like USA, Canada, and Mexico, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution."
+Id: 'SP-oxsj4n70sz'
+Origin_Slug: 'oxalic-acid-supplier-north-america'
+Slug: 'oxalic-acid-supplier-north-america'
+Excerpt: 'SinoPeakChem is your trusted oxalic acid supplier for the North American market, serving key countries like the USA, Canada, and Mexico with quality products for industrial cleaning, wood treatment, and various chemical applications.'
+title: 'Oxalic Acid Supplier for North America Market: USA, Canada & Mexico'
+description: 'SinoPeakChem is your trusted oxalic acid supplier for the North American market, serving key countries like the USA, Canada, and Mexico with quality products for industrial cleaning, wood treatment, and various chemical applications.'
+Img: '/images/blog/oxalic-acid-supplier-north-america.webp'
+imageAlt: 'A professional and clear image depicting a map of North America, highlighting countries like USA, Canada, and Mexico, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Regional Market'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid Supplier for North America Market: USA, Canada & Mexico
 
 The North American market, encompassing the United States, Canada, and Mexico, represents a significant and diverse demand for industrial chemicals, including oxalic acid. With robust manufacturing sectors, extensive agricultural activities, and a strong focus on maintenance and cleaning, these countries require a consistent supply of high-quality oxalic acid. SinoPeakChem is dedicated to being a reliable partner, offering tailored oxalic acid solutions to meet the specific needs of the North American market.

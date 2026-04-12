@@ -1,16 +1,21 @@
 ---
-id: "24"
-slug: "oxalic-acid-dilution-guide"
-title: "Comment Diluer l'Acide Oxalique en Toute Sécurité : Calcul de Concentration et Guide de Manipulation"
-excerpt: "Un guide complet sur la dilution sécurisée de l'acide oxalique, incluant les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour diverses applications. Assurez une utilisation sûre et efficace."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Sécurité et Manipulation"
-tags: ["dilution acide oxalique", "sécurité chimique", "calcul concentration", "guide manipulation", "EPI", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-dilution-guide.webp"
-imageAlt: "Une image professionnelle et claire représentant la dilution sécurisée de l'acide oxalique. Montrez une personne portant un EPI approprié (gants, lunettes de sécurité) versant soigneusement une solution concentrée dans de l'eau, avec de la verrerie de laboratoire (béchers, fioles jaugées) et une calculatrice ou une formule de concentration visible en arrière-plan. Mettez l'accent sur la sécurité et la précision."
+Id: 'SP-gzij94szzs'
+Origin_Slug: 'oxalic-acid-dilution-guide'
+Slug: 'oxalic-acid-dilution-guide'
+Excerpt: 'Un guide complet sur la dilution sécurisée de l''acide oxalique, incluant les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour diverses applications. Assurez une utilisation sûre et efficace.'
+title: 'Comment Diluer l''Acide Oxalique en Toute Sécurité : Calcul de Concentration et Guide de Manipulation'
+description: 'Un guide complet sur la dilution sécurisée de l''acide oxalique, incluant les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour diverses applications. Assurez une utilisation sûre et efficace.'
+Img: '/images/blog/oxalic-acid-dilution-guide.webp'
+imageAlt: 'Une image professionnelle et claire représentant la dilution sécurisée de l''acide oxalique. Montrez une personne portant un EPI approprié (gants, lunettes de sécurité) versant soigneusement une solution concentrée dans de l''eau, avec de la verrerie de laboratoire (béchers, fioles jaugées) et une calculatrice ou une formule de concentration visible en arrière-plan. Mettez l''accent sur la sécurité et la précision.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Sécurité et Manipulation'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Francophone Africa & EU (FR)'
 ---
-
 ## Comment Diluer l'Acide Oxalique en Toute Sécurité : Calcul de Concentration et Guide de Manipulation
 
 L'acide oxalique est un acide organique puissant largement utilisé dans diverses applications industrielles et domestiques, notamment l'élimination de la rouille, le blanchiment du bois et le nettoyage des métaux. Bien que très efficace, il est également corrosif et peut être toxique s'il est mal manipulé. Une dilution appropriée est cruciale non seulement pour obtenir les résultats souhaités, mais, plus important encore, pour assurer la sécurité et prévenir les dommages aux surfaces. Ce guide fournit les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour travailler en toute sécurité avec l'acide oxalique.

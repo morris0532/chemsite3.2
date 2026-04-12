@@ -1,14 +1,20 @@
 ---
-id: "56"
-slug: "oxalic-acid-water-treatment"
-title: "دور حمض الأكساليك في معالجة المياه الصناعية"
-excerpt: "كيف يساعد حمض الأكساليك في إزالة المعادن الثقيلة والترسبات الكلسية وتحسين جودة المياه في العمليات الصناعية."
-date: "2026-04-10"
-author: "خبير معالجة المياه في Sinopeakchem"
-category: "التطبيقات الصناعية"
-tags: ["معالجة المياه", "إزالة المعادن الثقيلة", "تنظيف الغلايات", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-water-treatment.webp"
-imageAlt: "منشأة صناعية لمعالجة المياه"
+Id: 'SP-rjt4d8kpqc'
+Origin_Slug: 'oxalic-acid-water-treatment'
+Slug: 'oxalic-acid-water-treatment'
+Excerpt: 'كيف يساعد حمض الأكساليك في إزالة المعادن الثقيلة والترسبات الكلسية وتحسين جودة المياه في العمليات الصناعية.'
+title: 'دور حمض الأكساليك في معالجة المياه الصناعية'
+description: 'كيف يساعد حمض الأكساليك في إزالة المعادن الثقيلة والترسبات الكلسية وتحسين جودة المياه في العمليات الصناعية.'
+Img: '/images/blog/oxalic-acid-water-treatment.webp'
+imageAlt: 'منشأة صناعية لمعالجة المياه'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'التطبيقات الصناعية'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
 ## معالجة المياه بحمض الأكساليك
 يعد حمض الأكساليك أداة قوية في معالجة المياه، خاصة لإزالة الملوثات المعدنية وتنظيف الأنظمة الصناعية.

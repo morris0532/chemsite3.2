@@ -1,16 +1,21 @@
 ---
-id: "lzvxk9be"
-slug: "how-to-test-oxalic-acid-purity"
-title: "Comment Tester la Pureté de l'Acide Oxalique : Un Guide Complet"
-excerpt: "Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique, y compris le titrage au permanganate de potassium, la détermination du point de fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité de vos applications industrielles."
-date: "2026-04-10"
-author: "SinoPeakChem Technical Team"
-category: "Technical Guide"
-tags: ["acide oxalique", "test de pureté", "titrage", "permanganate de potassium", "point de fusion", "spectroscopie", "contrôle qualité", "analyse chimique"]
-image: "/images/blog/how-to-test-oxalic-acid-purity.webp"
-imageAlt: "Montage de titrage en laboratoire pour tester la pureté de l'acide oxalique avec du permanganate de potassium"
+Id: 'SP-5arn0g83vn'
+Origin_Slug: 'how-to-test-oxalic-acid-purity'
+Slug: 'how-to-test-oxalic-acid-purity'
+Excerpt: 'Découvrez les méthodes essentielles pour tester la pureté de l''acide oxalique, y compris le titrage au permanganate de potassium, la détermination du point de fusion et l''analyse spectroscopique. Assurez la qualité et la sécurité de vos applications industrielles.'
+title: 'Comment Tester la Pureté de l''Acide Oxalique : Un Guide Complet'
+description: 'Découvrez les méthodes essentielles pour tester la pureté de l''acide oxalique, y compris le titrage au permanganate de potassium, la détermination du point de fusion et l''analyse spectroscopique. Assurez la qualité et la sécurité de vos applications industrielles.'
+Img: '/images/blog/how-to-test-oxalic-acid-purity.webp'
+imageAlt: 'Montage de titrage en laboratoire pour tester la pureté de l''acide oxalique avec du permanganate de potassium'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Technical Guide'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Francophone Africa & EU (FR)'
 ---
-
 ## Comment Tester la Pureté de l'Acide Oxalique : Un Guide Complet
 
 L'acide oxalique est un composé organique fondamental avec diverses applications dans des industries allant des produits pharmaceutiques et textiles au nettoyage des métaux et à l'[extraction des terres rares](/fr/blog/oxalic-acid-rare-earth-extraction). La pureté de l'acide oxalique est primordiale, car les impuretés peuvent avoir un impact significatif sur ses performances, sa sécurité et la qualité des produits finis. Assurer la pureté de l'acide oxalique par des méthodes de test fiables est un aspect critique du contrôle qualité. Ce guide explorera les techniques les plus courantes et efficaces pour évaluer la pureté de l'acide oxalique, offrant un aperçu complet aux professionnels de l'industrie.

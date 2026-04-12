@@ -1,16 +1,21 @@
 ---
-id: "31"
-slug: "oxalic-acid-pharmaceutical-intermediates"
-title: "حمض الأكساليك في صناعة الأدوية: الوسطيات الصيدلانية والتوليف"
-excerpt: "اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد."
-date: "2026-04-10"
-author: "خبير كيميائي في Sinopeakchem"
-category: "تطبيقات صناعية"
-tags: ["صناعة الأدوية", "الوسطيات الصيدلانية", "التوليف العضوي", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-pharmaceutical-intermediates.webp"
-imageAlt: "مختبر صيدلاني حديث مع معدات توليف وتكرير متطورة"
+Id: 'SP-16mvj6wej5'
+Origin_Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Excerpt: 'اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.'
+title: 'حمض الأكساليك في صناعة الأدوية: الوسطيات الصيدلانية والتوليف'
+description: 'اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.'
+Img: '/images/blog/oxalic-acid-pharmaceutical-intermediates.webp'
+imageAlt: 'مختبر صيدلاني حديث مع معدات توليف وتكرير متطورة'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'تطبيقات صناعية'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
-
 ## حمض الأكساليك: كاشف حيوي في تصنيع الأدوية
 
 يلعب حمض الأكساليك (H₂C₂O₄) دوراً حاسماً ومتعدد الأوجه في صناعة الأدوية. تجعله خصائصه الكيميائية الفريدة - كونه أبسط حمض ثنائي الكربوكسيل وقوته الحمضية العالية نسبياً - أداة لا غنى عنها في توليف وتنقية مجموعة واسعة من المركبات الصيدلانية والوسطيات.

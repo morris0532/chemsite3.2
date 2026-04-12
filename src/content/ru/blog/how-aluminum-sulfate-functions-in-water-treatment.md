@@ -1,16 +1,21 @@
 ---
-id: "9"
-slug: "how-aluminum-sulfate-functions-in-water-treatment"
-title: "Как сульфат алюминия функционирует в водоочистке"
-excerpt: "Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой воды до очистки промышленных сточных вод."
-date: "2026-04-10"
-author: "Sinopeakchem"
-category: "Water Treatment"
-tags: ["сульфат алюминия", "водоочистка", "коагуляция", "флокуляция"]
-image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp"
-imageAlt: "Aluminum Sulfate used in water treatment process"
+Id: 'SP-z79auboewr'
+Origin_Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
+Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
+Excerpt: 'Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой воды до очистки промышленных сточных вод.'
+title: 'Как сульфат алюминия функционирует в водоочистке'
+description: 'Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой воды до очистки промышленных сточных вод.'
+Img: '/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp'
+imageAlt: 'Aluminum Sulfate used in water treatment process'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Water Treatment'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'CIS & Russia (RU)'
 ---
-
 # Основная роль сульфата алюминия в современной водоочистке
 
 **[Сульфат алюминия](https://www.sinopeakchem.com/ru/products/aluminum-sulfate)** с химической формулой Al₂(SO₄)₃ и молекулярной массой 342,15 представляет собой широко известное неорганическое соединение, выглядящее как белое кристаллическое вещество. Как критически важный химический реагент, его основная функция в водоочистке заключается в образовании коллоидных частиц посредством реакций гидролиза. Эти частицы эффективно адсорбируют и осаждают взвешенные вещества, коллоиды и различные растворенные примеси, присутствующие в воде, что приводит к комплексной очистке воды. Его применение разнообразно и охватывает очистку питьевой воды, управление промышленными сточными водами, приготовление проклеивающих веществ на основе канифоли в бумажной промышленности и обесцвечивание нефти.

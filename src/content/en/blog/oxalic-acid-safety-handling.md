@@ -1,16 +1,21 @@
 ---
-id: "10"
-slug: "oxalic-acid-safety-handling"
-title: "Oxalic Acid Safety & Handling: A Comprehensive Guide"
-excerpt: "A comprehensive guide to safely handling oxalic acid. Learn about its properties, potential hazards, essential PPE, proper storage, first aid, and waste disposal procedures to ensure a safe working environment."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Safety & Compliance"
-tags: ["oxalic acid safety", "chemical handling", "PPE", "chemical storage", "first aid chemicals", "waste disposal", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-safety-handling.webp"
-imageAlt: "A person wearing appropriate PPE (goggles, gloves, lab coat) handling chemicals in a laboratory, emphasizing safety."
+Id: 'SP-gc5kcdclps'
+Origin_Slug: 'oxalic-acid-safety-handling'
+Slug: 'oxalic-acid-safety-handling'
+Excerpt: 'A comprehensive guide to safely handling oxalic acid. Learn about its properties, potential hazards, essential PPE, proper storage, first aid, and waste disposal procedures to ensure a safe working environment.'
+title: 'Oxalic Acid Safety & Handling: A Comprehensive Guide'
+description: 'A comprehensive guide to safely handling oxalic acid. Learn about its properties, potential hazards, essential PPE, proper storage, first aid, and waste disposal procedures to ensure a safe working environment.'
+Img: '/images/blog/oxalic-acid-safety-handling.webp'
+imageAlt: 'A person wearing appropriate PPE (goggles, gloves, lab coat) handling chemicals in a laboratory, emphasizing safety.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Safety & Compliance'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid Safety & Handling: A Comprehensive Guide
 
 Oxalic acid is a versatile organic compound widely used in various industries, from rust removal and wood bleaching to textile processing and rare earth extraction. While highly effective, it is also a corrosive substance that requires careful handling to prevent accidents and ensure a safe working environment. This comprehensive guide provides essential information on the properties of oxalic acid, potential hazards, necessary personal protective equipment (PPE), proper storage, first aid measures, and safe waste disposal.

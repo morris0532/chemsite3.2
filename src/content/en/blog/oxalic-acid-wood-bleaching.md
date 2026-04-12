@@ -1,16 +1,21 @@
 ---
-id: "qwasd8"
-slug: "oxalic-acid-wood-bleaching"
-title: "Oxalic Acid for Wood Bleaching & Cleaning: A Professional Guide"
-excerpt: "Restore and rejuvenate wood surfaces with oxalic acid. This guide details its use for bleaching, removing water stains, black spots, and tannin stains, with step-by-step instructions and safety tips."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Product Application"
-tags: ["oxalic acid wood bleaching", "wood cleaner", "tannin stain remover", "water stain remover", "wood restoration", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-wood-bleaching.webp"
-imageAlt: "A split image showing a wooden surface before and after treatment with oxalic acid, demonstrating effective bleaching and cleaning."
+Id: 'SP-15ahcaygxd'
+Origin_Slug: 'oxalic-acid-wood-bleaching'
+Slug: 'oxalic-acid-wood-bleaching'
+Excerpt: 'Restore and rejuvenate wood surfaces with oxalic acid. This guide details its use for bleaching, removing water stains, black spots, and tannin stains, with step-by-step instructions and safety tips.'
+title: 'Oxalic Acid for Wood Bleaching & Cleaning: A Professional Guide'
+description: 'Restore and rejuvenate wood surfaces with oxalic acid. This guide details its use for bleaching, removing water stains, black spots, and tannin stains, with step-by-step instructions and safety tips.'
+Img: '/images/blog/oxalic-acid-wood-bleaching.webp'
+imageAlt: 'A split image showing a wooden surface before and after treatment with oxalic acid, demonstrating effective bleaching and cleaning.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Product Application'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid for Wood Bleaching & Cleaning: A Professional Guide
 
 Wood, a timeless and versatile material, can often lose its luster due to exposure to moisture, sunlight, and iron-based stains. Graying, black spots, water rings, and tannin stains are common issues that can diminish wood's natural beauty. Oxalic acid, a powerful yet gentle organic acid, is a go-to solution for professional woodworkers and restorers to effectively bleach, clean, and rejuvenate various wood surfaces. This guide delves into the science, application, and safety protocols for using oxalic acid in wood treatment.

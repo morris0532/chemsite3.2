@@ -1,16 +1,21 @@
 ---
-id: "564asdasd7"
-slug: "oxalic-acid-rust-removal"
-title: "Oxalic Acid for Rust Removal: The Complete Guide"
-excerpt: "Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Product Application"
-tags: ["oxalic acid rust removal", "rust remover", "metal cleaning", "chemical rust removal", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-rust-removal.webp"
-imageAlt: "An illustrative image showing a rusted metal object partially submerged in an oxalic acid solution, with a clear distinction between the rusted and cleaned parts."
+Id: 'SP-lfv3r40mq7'
+Origin_Slug: 'oxalic-acid-rust-removal'
+Slug: 'oxalic-acid-rust-removal'
+Excerpt: 'Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers.'
+title: 'Oxalic Acid for Rust Removal: The Complete Guide'
+description: 'Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers.'
+Img: '/images/blog/oxalic-acid-rust-removal.webp'
+imageAlt: 'An illustrative image showing a rusted metal object partially submerged in an oxalic acid solution, with a clear distinction between the rusted and cleaned parts.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Product Application'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid for Rust Removal: The Complete Guide
 
 Rust, the common enemy of metal, can degrade the integrity and appearance of tools, machinery, and various metal structures. While numerous rust removers exist, oxalic acid stands out as a highly effective and relatively mild solution. This comprehensive guide explores the science behind oxalic acid rust removal, provides a step-by-step application process, outlines essential safety precautions, and compares its efficacy with other common rust-removing agents.

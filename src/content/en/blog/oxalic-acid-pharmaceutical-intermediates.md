@@ -1,16 +1,21 @@
 ---
-id: "23"
-slug: "oxalic-acid-pharmaceutical-intermediates"
-title: "Oxalic Acid in Pharmaceutical Intermediates: A Key Role"
-excerpt: "Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Pharmaceutical Applications"
-tags: ["oxalic acid", "pharmaceutical intermediates", "drug synthesis", "chemical reagent", "organic synthesis", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-pharmaceutical-intermediates.webp"
-imageAlt: "A professional and clean image depicting a pharmaceutical laboratory setting, with glassware, chemical compounds, and a focus on the synthesis or analysis of pharmaceutical intermediates. Highlight the precision and sterile environment."
+Id: 'SP-e9qowx5mo1'
+Origin_Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Excerpt: 'Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing.'
+title: 'Oxalic Acid in Pharmaceutical Intermediates: A Key Role'
+description: 'Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing.'
+Img: '/images/blog/oxalic-acid-pharmaceutical-intermediates.webp'
+imageAlt: 'A professional and clean image depicting a pharmaceutical laboratory setting, with glassware, chemical compounds, and a focus on the synthesis or analysis of pharmaceutical intermediates. Highlight the precision and sterile environment.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Pharmaceutical Applications'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid in Pharmaceutical Intermediates: A Key Role
 
 Oxalic acid (C₂H₂O₄) is a simple yet powerful dicarboxylic acid that plays a surprisingly significant role in the pharmaceutical industry, particularly in the synthesis of various **pharmaceutical intermediates**. These intermediates are crucial building blocks in the multi-step process of drug manufacturing, and the unique chemical properties of oxalic acid make it an invaluable reagent for specific reactions and purification steps.

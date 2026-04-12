@@ -1,16 +1,21 @@
 ---
-id: "r0kqj4i3"
-slug: "oxalic-acid-mining-rare-earth"
-title: "Acide Oxalique dans l'Exploitation Minière : Extraction et Purification des Éléments de Terres Rares"
-excerpt: "Explorez le rôle critique de l'acide oxalique dans l'industrie minière, en particulier dans l'extraction et la purification efficaces des éléments de terres rares (ETR). Cet aperçu technique explore ses mécanismes chimiques, ses avantages par rapport aux méthodes traditionnelles et les considérations environnementales."
-date: "2026-04-10"
-author: "SinoPeakChem Technical Team"
-category: "Technical Overview"
-tags: ["acide oxalique", "exploitation minière", "éléments de terres rares", "ETR", "extraction", "purification", "hydrométallurgie", "agent chélatant", "impact environnemental"]
-image: "/images/blog/oxalic-acid-mining-rare-earth.webp"
-imageAlt: "Scène professionnelle d'exploitation minière industrielle et de traitement chimique avec des ingénieurs et de grandes cuves, axée sur l'extraction des éléments de terres rares"
+Id: 'SP-lc5zd4gxlp'
+Origin_Slug: 'oxalic-acid-mining-rare-earth'
+Slug: 'oxalic-acid-mining-rare-earth'
+Excerpt: 'Explorez le rôle critique de l''acide oxalique dans l''industrie minière, en particulier dans l''extraction et la purification efficaces des éléments de terres rares (ETR). Cet aperçu technique explore ses mécanismes chimiques, ses avantages par rapport aux méthodes traditionnelles et les considérations environnementales.'
+title: 'Acide Oxalique dans l''Exploitation Minière : Extraction et Purification des Éléments de Terres Rares'
+description: 'Explorez le rôle critique de l''acide oxalique dans l''industrie minière, en particulier dans l''extraction et la purification efficaces des éléments de terres rares (ETR). Cet aperçu technique explore ses mécanismes chimiques, ses avantages par rapport aux méthodes traditionnelles et les considérations environnementales.'
+Img: '/images/blog/oxalic-acid-mining-rare-earth.webp'
+imageAlt: 'Scène professionnelle d''exploitation minière industrielle et de traitement chimique avec des ingénieurs et de grandes cuves, axée sur l''extraction des éléments de terres rares'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Technical Overview'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Francophone Africa & EU (FR)'
 ---
-
 ## Acide Oxalique dans l'Exploitation Minière : Extraction et Purification des Éléments de Terres Rares
 
 La demande mondiale en **éléments de terres rares (ETR)**, composants critiques dans les industries de haute technologie allant de l'électronique à l'énergie renouvelable, a stimulé des avancées significatives dans leurs technologies d'extraction et de purification. Parmi les divers agents chimiques employés, l'**acide oxalique** (H₂C₂O₄) est apparu comme un réactif très efficace et écologiquement avantageux, en particulier dans le traitement hydrométallurgique des ETR. Ses propriétés chélatantes et précipitantes uniques le rendent indispensable pour séparer et affiner ces métaux précieux des corps de minerai complexes.

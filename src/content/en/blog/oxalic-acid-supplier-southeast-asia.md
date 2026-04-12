@@ -1,16 +1,21 @@
 ---
-id: "31"
-slug: "oxalic-acid-supplier-southeast-asia"
-title: "Oxalic Acid Supplier for Southeast Asia: Thailand, Vietnam, Indonesia & More"
-excerpt: "Southeast Asia is a rapidly growing market for oxalic acid, driven by industries like textiles, ceramics, and rubber. SinoPeakChem is your trusted partner, offering high-quality oxalic acid with efficient logistics and compliance support for buyers in Thailand, Vietnam, Indonesia, Philippines, and Malaysia."
-date: "2026-04-10"
-author: "Sinopeakchem Sales Team"
-category: "Regional Market"
-tags: ["oxalic acid Southeast Asia", "oxalic acid Thailand", "oxalic acid Vietnam", "oxalic acid Indonesia", "oxalic acid Philippines", "oxalic acid Malaysia", "buy oxalic acid Southeast Asia", "oxalic acid import ASEAN", "chemical supplier China", "RCEP trade", "textile industry", "rare earth extraction"]
-image: "/images/blog/oxalic-acid-supplier-southeast-asia.webp"
-imageAlt: "A professional and clear image depicting a map of Southeast Asia, highlighting countries like Thailand, Vietnam, and Indonesia, with subtle overlays of chemical trade routes, industrial facilities, or port activities. Emphasize the region's economic growth and chemical import/export. High quality, 4k resolution."
+Id: 'SP-mg5p2e9vsz'
+Origin_Slug: 'oxalic-acid-supplier-southeast-asia'
+Slug: 'oxalic-acid-supplier-southeast-asia'
+Excerpt: 'Southeast Asia is a rapidly growing market for oxalic acid, driven by industries like textiles, ceramics, and rubber. SinoPeakChem is your trusted partner, offering high-quality oxalic acid with efficient logistics and compliance support for buyers in Thailand, Vietnam, Indonesia, Philippines, and Malaysia.'
+title: 'Oxalic Acid Supplier for Southeast Asia: Thailand, Vietnam, Indonesia & More'
+description: 'Southeast Asia is a rapidly growing market for oxalic acid, driven by industries like textiles, ceramics, and rubber. SinoPeakChem is your trusted partner, offering high-quality oxalic acid with efficient logistics and compliance support for buyers in Thailand, Vietnam, Indonesia, Philippines, and Malaysia.'
+Img: '/images/blog/oxalic-acid-supplier-southeast-asia.webp'
+imageAlt: 'A professional and clear image depicting a map of Southeast Asia, highlighting countries like Thailand, Vietnam, and Indonesia, with subtle overlays of chemical trade routes, industrial facilities, or port activities. Emphasize the region''s economic growth and chemical import/export. High quality, 4k resolution.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Regional Market'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 # Oxalic Acid Supplier for Southeast Asia: Thailand, Vietnam, Indonesia & More
 
 Southeast Asia stands as one of the fastest-growing regions globally for oxalic acid consumption, with demand propelled by thriving industries such as textiles, leather, ceramics, and rubber processing. As a pivotal chemical, oxalic acid plays a crucial role in numerous manufacturing processes across this dynamic economic zone. China, with its robust production capacity and strategic geographical proximity, has emerged as the primary source of oxalic acid for Southeast Asian nations. This comprehensive guide aims to assist buyers in countries like Thailand, Vietnam, Indonesia, the Philippines, and Malaysia in navigating the complexities of sourcing high-quality oxalic acid from reliable Chinese suppliers like SinoPeakChem.

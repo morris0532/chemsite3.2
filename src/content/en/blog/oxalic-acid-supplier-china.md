@@ -1,16 +1,21 @@
 ---
-id: "56a1sda6s10"
-slug: "oxalic-acid-supplier-china"
-title: "How to Choose a Reliable Oxalic Acid Supplier in China: A Complete Buyer's Guide"
-excerpt: "China produces over 70% of the world's oxalic acid. Learn how to evaluate Chinese suppliers, verify quality certifications, and ensure a stable supply chain for your industrial needs."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Buying Guide"
-tags: ["oxalic acid supplier", "oxalic acid manufacturer China", "chemical sourcing", "reliable supplier", "bulk oxalic acid", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-china.webp"
-imageAlt: "Industrial oxalic acid warehouse and shipping logistics, representing a reliable supply chain from China."
+Id: 'SP-8voqp9xxl2'
+Origin_Slug: 'oxalic-acid-supplier-china'
+Slug: 'oxalic-acid-supplier-china'
+Excerpt: 'China produces over 70% of the world''s oxalic acid. Learn how to evaluate Chinese suppliers, verify quality certifications, and ensure a stable supply chain for your industrial needs.'
+title: 'How to Choose a Reliable Oxalic Acid Supplier in China: A Complete Buyer''s Guide'
+description: 'China produces over 70% of the world''s oxalic acid. Learn how to evaluate Chinese suppliers, verify quality certifications, and ensure a stable supply chain for your industrial needs.'
+Img: '/images/blog/oxalic-acid-supplier-china.webp'
+imageAlt: 'Industrial oxalic acid warehouse and shipping logistics, representing a reliable supply chain from China.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Buying Guide'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## How to Choose a Reliable Oxalic Acid Supplier in China
 
 China is the global powerhouse for [oxalic acid](https://www.sinopeakchem.com/en/blog/what-is-oxalic-acid) production, accounting for more than 70% of the world's total capacity. For international buyers, sourcing from China offers significant cost advantages and supply stability. However, the vast number of manufacturers and exporters can make it challenging to identify a truly reliable partner.

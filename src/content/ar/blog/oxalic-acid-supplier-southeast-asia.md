@@ -1,16 +1,21 @@
 ---
-id: "48"
-slug: "oxalic-acid-supplier-southeast-asia"
-title: "مورد حمض الأكساليك في جنوب شرق آسيا: تايلاند وفيتنام وإندونيسيا والفلبين وماليزيا"
-excerpt: "دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب."
-date: "2026-04-10"
-author: "خبير مبيعات جنوب شرق آسيا في Sinopeakchem"
-category: "سلسلة التوريد"
-tags: ["مورد جنوب شرق آسيا", "تايلاند", "فيتنام", "إندونيسيا", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-southeast-asia.webp"
-imageAlt: "اللوجستيات الكيميائية وسلسلة التوريد في جنوب شرق آسيا"
+Id: 'SP-4h2ggumf9g'
+Origin_Slug: 'oxalic-acid-supplier-southeast-asia'
+Slug: 'oxalic-acid-supplier-southeast-asia'
+Excerpt: 'دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.'
+title: 'مورد حمض الأكساليك في جنوب شرق آسيا: تايلاند وفيتنام وإندونيسيا والفلبين وماليزيا'
+description: 'دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.'
+Img: '/images/blog/oxalic-acid-supplier-southeast-asia.webp'
+imageAlt: 'اللوجستيات الكيميائية وسلسلة التوريد في جنوب شرق آسيا'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'سلسلة التوريد'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
-
 ## سوق حمض الأكساليك في جنوب شرق آسيا
 
 تعد منطقة جنوب شرق آسيا واحدة من أسرع المناطق نمواً في العالم، مع طلب متزايد على المواد الكيميائية الصناعية مثل حمض الأكساليك (H₂C₂O₄). تلتزم **SinoPeakChem** بدعم هذا النمو من خلال توفير منتجات عالية الجودة وحلول لوجستية مخصصة للمنطقة.

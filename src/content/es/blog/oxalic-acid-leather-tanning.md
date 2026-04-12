@@ -1,16 +1,21 @@
 ---
-id: "20"
-slug: "oxalic-acid-leather-tanning"
-title: "Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos"
-excerpt: "Explore el papel vital del ácido oxálico en el curtido y teñido del cuero, desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones de seguridad."
-date: "2026-04-10"
-author: "Equipo Técnico de Sinopeakchem"
-category: "Aplicaciones Industriales"
-tags: ["ácido oxálico cuero", "curtido de cuero", "teñido de cuero", "químicos para curtido", "auxiliares para teñido", "procesamiento de cuero", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-leather-tanning.webp"
-imageAlt: "Una imagen profesional y artística que muestra el proceso de curtido y teñido de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una exhibición de productos de cuero de varios colores."
+Id: 'SP-t0bhtv7159'
+Origin_Slug: 'oxalic-acid-leather-tanning'
+Slug: 'oxalic-acid-leather-tanning'
+Excerpt: 'Explore el papel vital del ácido oxálico en el curtido y teñido del cuero, desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones de seguridad.'
+title: 'Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos'
+description: 'Explore el papel vital del ácido oxálico en el curtido y teñido del cuero, desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones de seguridad.'
+Img: '/images/blog/oxalic-acid-leather-tanning.webp'
+imageAlt: 'Una imagen profesional y artística que muestra el proceso de curtido y teñido de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una exhibición de productos de cuero de varios colores.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Aplicaciones Industriales'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Latin America & Spain (ES)'
 ---
-
 ## Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos
 
 La producción de cuero es un oficio antiguo que se ha evolucionado hasta convertirse en un proceso industrial sofisticado, que depende en gran medida de la química para transformar las pieles crudas en materiales duraderos, flexibles y estéticamente atractivos. Entre la variedad de productos químicos empleados, el ácido oxálico (C₂H₂O₄) desempeña un papel significativo, aunque a menudo tras bambalinas, en varias etapas del curtido y teñido del cuero. Sus propiedades como ácido, agente quelante y agente reductor lo hacen valioso tanto en el procesamiento tradicional como en el moderno del cuero.

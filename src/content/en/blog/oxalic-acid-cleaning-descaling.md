@@ -1,16 +1,21 @@
 ---
-id: "19"
-slug: "oxalic-acid-cleaning-descaling"
-title: "Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses"
-excerpt: "Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Cleaning Applications"
-tags: ["oxalic acid cleaning", "oxalic acid descaling", "household cleaning", "industrial cleaning", "rust stain remover", "calcium deposit remover", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-cleaning-descaling.webp"
-imageAlt: "A clean and professional image depicting both household cleaning (e.g., a sparkling clean bathroom fixture) and industrial descaling (e.g., a clean pipe or industrial equipment)."
+Id: 'SP-gecqc6qd6s'
+Origin_Slug: 'oxalic-acid-cleaning-descaling'
+Slug: 'oxalic-acid-cleaning-descaling'
+Excerpt: 'Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines.'
+title: 'Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses'
+description: 'Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines.'
+Img: '/images/blog/oxalic-acid-cleaning-descaling.webp'
+imageAlt: 'A clean and professional image depicting both household cleaning (e.g., a sparkling clean bathroom fixture) and industrial descaling (e.g., a clean pipe or industrial equipment).'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Cleaning Applications'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses
 
 Oxalic acid (C₂H₂O₄) is a powerful organic acid widely recognized for its exceptional cleaning and descaling properties. Its ability to react with metal oxides and mineral deposits makes it an invaluable agent in both household cleaning routines and demanding industrial maintenance. From tackling stubborn rust stains to restoring the efficiency of industrial machinery, oxalic acid offers a versatile and effective solution.

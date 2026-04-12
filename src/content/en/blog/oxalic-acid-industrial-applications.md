@@ -1,16 +1,21 @@
 ---
-id: "a56s4d6a5ds45"
-slug: "oxalic-acid-industrial-applications"
-title: "Oxalic Acid: Industrial Applications and Safety Guidelines"
-excerpt: "Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Product Guide"
-tags: ["oxalic acid","rust removal","industrial chemicals","safety"]
-image: "/images/blog/oxalic-acid-industrial-applications.webp"
-imageAlt: "Oxalic Acid used for industrial rust removal and cleaning"
+Id: 'SP-duuf50vr0f'
+Origin_Slug: 'oxalic-acid-industrial-applications'
+Slug: 'oxalic-acid-industrial-applications'
+Excerpt: 'Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines.'
+title: 'Oxalic Acid: Industrial Applications and Safety Guidelines'
+description: 'Explore the diverse industrial applications of oxalic acid from rust removal to rare earth extraction, along with important safety and handling guidelines.'
+Img: '/images/blog/oxalic-acid-industrial-applications.webp'
+imageAlt: 'Oxalic Acid used for industrial rust removal and cleaning'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Product Guide'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## What is Oxalic Acid?
 Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid supplier](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is supplied industrially for numerous applications.
 

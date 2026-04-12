@@ -1,16 +1,21 @@
 ---
-id: "r0kqj4i3"
-slug: "oxalic-acid-mining-rare-earth"
-title: "Oxalic Acid in Mining: Extraction and Purification of Rare Earth Elements"
-excerpt: "Explore the critical role of oxalic acid in the mining industry, particularly in the efficient extraction and purification of rare earth elements (REEs). This technical overview delves into its chemical mechanisms, advantages over traditional methods, and environmental considerations."
-date: "2026-04-10"
-author: "SinoPeakChem Technical Team"
-category: "Technical Overview"
-tags: ["oxalic acid", "mining", "rare earth elements", "REEs", "extraction", "purification", "hydrometallurgy", "chelating agent", "environmental impact"]
-image: "/images/blog/oxalic-acid-mining-rare-earth.webp"
-imageAlt: "Professional industrial mining and chemical processing scene with engineers and large vats, focusing on rare earth element extraction"
+Id: 'SP-9pmnw75895'
+Origin_Slug: 'oxalic-acid-mining-rare-earth'
+Slug: 'oxalic-acid-mining-rare-earth'
+Excerpt: 'Explore the critical role of oxalic acid in the mining industry, particularly in the efficient extraction and purification of rare earth elements (REEs). This technical overview delves into its chemical mechanisms, advantages over traditional methods, and environmental considerations.'
+title: 'Oxalic Acid in Mining: Extraction and Purification of Rare Earth Elements'
+description: 'Explore the critical role of oxalic acid in the mining industry, particularly in the efficient extraction and purification of rare earth elements (REEs). This technical overview delves into its chemical mechanisms, advantages over traditional methods, and environmental considerations.'
+Img: '/images/blog/oxalic-acid-mining-rare-earth.webp'
+imageAlt: 'Professional industrial mining and chemical processing scene with engineers and large vats, focusing on rare earth element extraction'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Technical Overview'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid in Mining: Extraction and Purification of Rare Earth Elements
 
 The global demand for **rare earth elements (REEs)**, critical components in high-tech industries ranging from electronics to renewable energy, has spurred significant advancements in their extraction and purification technologies. Among the various chemical agents employed, **oxalic acid** (H₂C₂O₄) has emerged as a highly effective and environmentally advantageous reagent, particularly in the hydrometallurgical processing of REEs. Its unique chelating and precipitating properties make it indispensable for separating and refining these valuable metals from complex ore bodies.

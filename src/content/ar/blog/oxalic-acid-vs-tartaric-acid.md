@@ -1,14 +1,20 @@
 ---
-id: "55"
-slug: "oxalic-acid-vs-tartaric-acid"
-title: "حمض الأكساليك مقابل حمض الطرطريك: تطبيقات كيميائية متخصصة"
-excerpt: "مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن."
-date: "2026-04-10"
-author: "خبير المنتجات في Sinopeakchem"
-category: "مقارنة المنتجات"
-tags: ["حمض الأكساليك", "حمض الطرطريك", "كيمياء عضوية", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-tartaric-acid.webp"
-imageAlt: "مقارنة بين بلورات حمض الأكساليك وحمض الطرطريك"
+Id: 'SP-1mt3ziiooq'
+Origin_Slug: 'oxalic-acid-vs-tartaric-acid'
+Slug: 'oxalic-acid-vs-tartaric-acid'
+Excerpt: 'مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن.'
+title: 'حمض الأكساليك مقابل حمض الطرطريك: تطبيقات كيميائية متخصصة'
+description: 'مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن.'
+Img: '/images/blog/oxalic-acid-vs-tartaric-acid.webp'
+imageAlt: 'مقارنة بين بلورات حمض الأكساليك وحمض الطرطريك'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'مقارنة المنتجات'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
 ## مقارنة الأحماض العضوية المتخصصة
 يُستخدم كل من حمض الأكساليك وحمض الطرطريك في صناعات مماثلة ولكن لأغراض مختلفة.

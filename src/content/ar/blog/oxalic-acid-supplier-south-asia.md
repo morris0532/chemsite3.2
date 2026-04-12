@@ -1,16 +1,21 @@
 ---
-id: "47"
-slug: "oxalic-acid-supplier-south-asia"
-title: "مورد حمض الأكساليك الموثوق في جنوب آسيا: الهند وباكستان وبنغلاديش"
-excerpt: "اكتشف كيف تدعم SinoPeakChem الصناعات في جنوب آسيا من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة للمنسوجات والجلود والمواد الصيدلانية."
-date: "2026-04-10"
-author: "مدير مبيعات جنوب آسيا في Sinopeakchem"
-category: "سلسلة التوريد"
-tags: ["مورد جنوب آسيا", "الهند", "باكستان", "بنغلاديش", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-supplier-south-asia.webp"
-imageAlt: "اللوجستيات الكيميائية وسلسلة التوريد عبر جنوب آسيا"
+Id: 'SP-5cyskeofcg'
+Origin_Slug: 'oxalic-acid-supplier-south-asia'
+Slug: 'oxalic-acid-supplier-south-asia'
+Excerpt: 'اكتشف كيف تدعم SinoPeakChem الصناعات في جنوب آسيا من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة للمنسوجات والجلود والمواد الصيدلانية.'
+title: 'مورد حمض الأكساليك الموثوق في جنوب آسيا: الهند وباكستان وبنغلاديش'
+description: 'اكتشف كيف تدعم SinoPeakChem الصناعات في جنوب آسيا من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة للمنسوجات والجلود والمواد الصيدلانية.'
+Img: '/images/blog/oxalic-acid-supplier-south-asia.webp'
+imageAlt: 'اللوجستيات الكيميائية وسلسلة التوريد عبر جنوب آسيا'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'سلسلة التوريد'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
-
 ## تلبية الاحتياجات الصناعية في جنوب آسيا
 
 تعد جنوب آسيا مركزاً عالمياً رئيسياً للتصنيع، حيث تقود الهند وباكستان وبنغلاديش الطلب على حمض الأكساليك (H₂C₂O₄). تلتزم **SinoPeakChem** بكونها الشريك الموثوق للشركات في المنطقة، من خلال توفير منتجات عالية الجودة وخدمات لوجستية متميزة.

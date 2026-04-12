@@ -1,16 +1,21 @@
 ---
-id: "28"
-slug: "oxalic-acid-market-analysis"
-title: "Global Oxalic Acid Market Analysis: Key Producers & Trade Flows"
-excerpt: "Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry."
-date: "2026-04-10"
-author: "Sinopeakchem Market Research"
-category: "Market Insights"
-tags: ["oxalic acid market", "global trade", "chemical industry", "market analysis", "China manufacturer", "supply chain", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-market-analysis.webp"
-imageAlt: "A professional and informative image depicting a global market analysis for oxalic acid. Show a world map with trade routes, bar charts or line graphs representing market trends, and subtle industrial elements like chemical plants or shipping containers. Emphasize global reach, economic data, and market dynamics. High quality, 4k resolution."
+Id: 'SP-pilr90q2h2'
+Origin_Slug: 'oxalic-acid-market-analysis'
+Slug: 'oxalic-acid-market-analysis'
+Excerpt: 'Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry.'
+title: 'Global Oxalic Acid Market Analysis: Key Producers & Trade Flows'
+description: 'Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry.'
+Img: '/images/blog/oxalic-acid-market-analysis.webp'
+imageAlt: 'A professional and informative image depicting a global market analysis for oxalic acid. Show a world map with trade routes, bar charts or line graphs representing market trends, and subtle industrial elements like chemical plants or shipping containers. Emphasize global reach, economic data, and market dynamics. High quality, 4k resolution.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Market Insights'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Global Oxalic Acid Market Analysis: Key Producers & Trade Flows
 
 The global oxalic acid market is a dynamic segment of the chemical industry, driven by diverse applications ranging from pharmaceuticals and rare earth extraction to textile dyeing and metal cleaning. Understanding the market landscape, key producers, and trade flows is essential for buyers, distributors, and industry stakeholders to make informed decisions.

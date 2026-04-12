@@ -1,14 +1,20 @@
 ---
-id: "52"
-slug: "oxalic-acid-vs-edta"
-title: "حمض الأكساليك مقابل EDTA: أيهما أفضل كعامل مخلبي؟"
-excerpt: "مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على كفاءة ربط المعادن، والتكلفة، والأثر البيئي."
-date: "2026-04-10"
-author: "خبير كيميائي في Sinopeakchem"
-category: "مقارنة المنتجات"
-tags: ["حمض الأكساليك", "EDTA", "عامل مخلبي", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-edta.webp"
-imageAlt: "مقارنة بين حمض الأكساليك و EDTA في المختبر"
+Id: 'SP-ljzwljs7ga'
+Origin_Slug: 'oxalic-acid-vs-edta'
+Slug: 'oxalic-acid-vs-edta'
+Excerpt: 'مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على كفاءة ربط المعادن، والتكلفة، والأثر البيئي.'
+title: 'حمض الأكساليك مقابل EDTA: أيهما أفضل كعامل مخلبي؟'
+description: 'مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على كفاءة ربط المعادن، والتكلفة، والأثر البيئي.'
+Img: '/images/blog/oxalic-acid-vs-edta.webp'
+imageAlt: 'مقارنة بين حمض الأكساليك و EDTA في المختبر'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'مقارنة المنتجات'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
 ## حمض الأكساليك و EDTA كعوامل مخلبية
 تعد العوامل المخلبية ضرورية في العديد من الصناعات لربط أيونات المعادن ومنع تداخلها. حمض الأكساليك و EDTA (حمض إيثيلين ديامين رباعي الخليك) هما من أكثر الخيارات شيوعاً، لكنهما يعملان بشكل مختلف تماماً.

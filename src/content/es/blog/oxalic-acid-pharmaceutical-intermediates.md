@@ -1,16 +1,21 @@
 ---
-id: "23"
-slug: "oxalic-acid-pharmaceutical-intermediates"
-title: "Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave"
-excerpt: "Explora el papel crítico del ácido oxálico como un bloque de construcción y reactivo versátil en la síntesis de diversos intermedios farmacéuticos, destacando sus propiedades químicas y aplicaciones en la fabricación de medicamentos."
-date: "2026-04-10"
-author: "Equipo Técnico de Sinopeakchem"
-category: "Aplicaciones Farmacéuticas"
-tags: ["oxalic acid", "pharmaceutical intermediates", "drug synthesis", "chemical reagent", "organic synthesis", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-pharmaceutical-intermediates.webp"
-imageAlt: "Una imagen profesional y limpia que muestra un laboratorio farmacéutico, con material de vidrio, compuestos químicos y un enfoque en la síntesis o análisis de intermedios farmacéuticos. Destaca la precisión y el ambiente estéril."
+Id: 'SP-ia3pe48qcu'
+Origin_Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Slug: 'oxalic-acid-pharmaceutical-intermediates'
+Excerpt: 'Explora el papel crítico del ácido oxálico como un bloque de construcción y reactivo versátil en la síntesis de diversos intermedios farmacéuticos, destacando sus propiedades químicas y aplicaciones en la fabricación de medicamentos.'
+title: 'Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave'
+description: 'Explora el papel crítico del ácido oxálico como un bloque de construcción y reactivo versátil en la síntesis de diversos intermedios farmacéuticos, destacando sus propiedades químicas y aplicaciones en la fabricación de medicamentos.'
+Img: '/images/blog/oxalic-acid-pharmaceutical-intermediates.webp'
+imageAlt: 'Una imagen profesional y limpia que muestra un laboratorio farmacéutico, con material de vidrio, compuestos químicos y un enfoque en la síntesis o análisis de intermedios farmacéuticos. Destaca la precisión y el ambiente estéril.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Aplicaciones Farmacéuticas'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Latin America & Spain (ES)'
 ---
-
 ## Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave
 
 El ácido oxálico (C₂H₂O₄) es un ácido dicarboxílico simple pero potente que desempeña un papel sorprendentemente significativo en la industria farmacéutica, particularmente en la síntesis de diversos **intermedios farmacéuticos**. Estos intermedios son bloques de construcción esenciales en el proceso multietapa de fabricación de medicamentos, y las propiedades químicas únicas del ácido oxálico lo convierten en un reactivo invaluable para reacciones específicas y pasos de purificación.

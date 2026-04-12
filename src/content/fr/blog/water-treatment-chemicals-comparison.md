@@ -1,16 +1,21 @@
 ---
-id: "a6sd4asd4"
-slug: "water-treatment-chemicals-comparison"
-title: "Comparaison des produits chimiques de traitement de l'eau : PAC vs Sulfate d'aluminium vs Chlorure ferrique"
-excerpt: "Comparez les coagulants de traitement de l'eau les plus populaires, notamment le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure ferrique, pour trouver la meilleure solution pour vos besoins de traitement de l'eau."
-date: "2026-04-10"
-author: "Équipe Technique Sinopeakchem"
-category: "Article Technique"
-tags: ["traitement de l'eau","PAC","coagulant","comparaison chimique"]
-image: "/images/blog/water-treatment-chemicals-comparison.webp"
-imageAlt: "Comparison of water treatment chemicals PAC and Aluminum Sulfate"
+Id: 'SP-a3sdfsosmu'
+Origin_Slug: 'water-treatment-chemicals-comparison'
+Slug: 'water-treatment-chemicals-comparison'
+Excerpt: 'Comparez les coagulants de traitement de l''eau les plus populaires, notamment le polychlorure d''aluminium (PAC), le sulfate d''aluminium et le chlorure ferrique, pour trouver la meilleure solution pour vos besoins de traitement de l''eau.'
+title: 'Comparaison des produits chimiques de traitement de l''eau : PAC vs Sulfate d''aluminium vs Chlorure ferrique'
+description: 'Comparez les coagulants de traitement de l''eau les plus populaires, notamment le polychlorure d''aluminium (PAC), le sulfate d''aluminium et le chlorure ferrique, pour trouver la meilleure solution pour vos besoins de traitement de l''eau.'
+Img: '/images/blog/water-treatment-chemicals-comparison.webp'
+imageAlt: 'Comparison of water treatment chemicals PAC and Aluminum Sulfate'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Article Technique'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Francophone Africa & EU (FR)'
 ---
-
 ## Introduction
 Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet article compare trois options populaires : le PAC, le sulfate d'aluminium et le chlorure ferrique.
 

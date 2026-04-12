@@ -1,16 +1,21 @@
 ---
-id: "asd5as5d22"
-slug: "oxalic-acid-vs-citric-acid"
-title: "Oxalic Acid vs. Citric Acid: A Comparative Analysis"
-excerpt: "A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Chemical Comparisons"
-tags: ["oxalic acid", "citric acid", "chemical comparison", "rust remover", "food additive", "cleaning agents", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-vs-citric-acid.webp"
-imageAlt: "A professional and clear comparative image. On one side, represent oxalic acid with its chemical structure (C2H2O4) and industrial/cleaning applications (e.g., rust removal, wood bleaching). On the other side, represent citric acid with its chemical structure (C6H8O7) and food/beverage/cosmetic applications (e.g., lemon, fruit). Use a clear visual divider or 'versus' element."
+Id: 'SP-ustshjtrc3'
+Origin_Slug: 'oxalic-acid-vs-citric-acid'
+Slug: 'oxalic-acid-vs-citric-acid'
+Excerpt: 'A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks.'
+title: 'Oxalic Acid vs. Citric Acid: A Comparative Analysis'
+description: 'A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks.'
+Img: '/images/blog/oxalic-acid-vs-citric-acid.webp'
+imageAlt: 'A professional and clear comparative image. On one side, represent oxalic acid with its chemical structure (C2H2O4) and industrial/cleaning applications (e.g., rust removal, wood bleaching). On the other side, represent citric acid with its chemical structure (C6H8O7) and food/beverage/cosmetic applications (e.g., lemon, fruit). Use a clear visual divider or ''versus'' element.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Chemical Comparisons'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid vs. Citric Acid: A Comparative Analysis
 
 Oxalic acid and citric acid are both organic acids widely used in various industrial and household applications. While they share some similarities as carboxylic acids, their distinct chemical structures and properties lead to different primary uses, efficacy, and safety considerations. Understanding these differences is crucial for selecting the appropriate acid for a specific task, whether it's for cleaning, food processing, or industrial applications.

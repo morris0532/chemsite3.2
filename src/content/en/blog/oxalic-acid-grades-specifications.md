@@ -1,16 +1,21 @@
 ---
-id: "15"
-slug: "oxalic-acid-grades-specifications"
-title: "Oxalic Acid Grades & Specifications: An In-depth Look"
-excerpt: "Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Product Information"
-tags: ["oxalic acid grades", "oxalic acid specifications", "industrial grade oxalic acid", "food grade oxalic acid", "pharmaceutical grade oxalic acid", "oxalic acid purity", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-grades-specifications.webp"
-imageAlt: "A professional laboratory setting with beakers containing different grades of oxalic acid samples and a Certificate of Analysis."
+Id: 'SP-giprpr4izg'
+Origin_Slug: 'oxalic-acid-grades-specifications'
+Slug: 'oxalic-acid-grades-specifications'
+Excerpt: 'Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application.'
+title: 'Oxalic Acid Grades & Specifications: An In-depth Look'
+description: 'Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application.'
+Img: '/images/blog/oxalic-acid-grades-specifications.webp'
+imageAlt: 'A professional laboratory setting with beakers containing different grades of oxalic acid samples and a Certificate of Analysis.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Product Information'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid Grades & Specifications: An In-depth Look
 
 Oxalic acid (C₂H₂O₄) is a dicarboxylic acid with a wide range of applications across various industries, from rust removal and textile processing to rare earth extraction and pharmaceutical synthesis. However, not all oxalic acid is created equal. Different applications demand specific purity levels and physical-chemical properties, leading to the classification of oxalic acid into various grades. Understanding these grades and their specifications is crucial for ensuring product performance, safety, and compliance.

@@ -1,16 +1,21 @@
 ---
-id: "32"
-slug: "oxalic-acid-supplier-middle-east"
-title: "Oxalic Acid Supplier for Middle East Market: UAE, Saudi Arabia & Turkey"
-excerpt: "SinoPeakChem is your trusted oxalic acid supplier for the Middle East, serving key markets like UAE, Saudi Arabia, and Turkey with high-quality products for stone care, oil & gas, and industrial applications."
-date: "2026-04-10"
-author: "Sinopeakchem Sales Team"
-category: "Regional Market"
-tags: ["oxalic acid Middle East", "UAE oxalic acid", "Saudi Arabia oxalic acid", "Turkey oxalic acid", "chemical supplier", "stone care", "oil & gas", "industrial cleaning"]
-image: "/images/blog/oxalic-acid-supplier-middle-east.webp"
-imageAlt: "A professional and clear image depicting a map of the Middle East, highlighting countries like UAE, Saudi Arabia, and Turkey, with subtle overlays of chemical trade routes, oil refineries, or modern industrial facilities. Emphasize the region's economic significance and chemical import/export. High quality, 4k resolution."
+Id: 'SP-geusbjis90'
+Origin_Slug: 'oxalic-acid-supplier-middle-east'
+Slug: 'oxalic-acid-supplier-middle-east'
+Excerpt: 'SinoPeakChem is your trusted oxalic acid supplier for the Middle East, serving key markets like UAE, Saudi Arabia, and Turkey with high-quality products for stone care, oil & gas, and industrial applications.'
+title: 'Oxalic Acid Supplier for Middle East Market: UAE, Saudi Arabia & Turkey'
+description: 'SinoPeakChem is your trusted oxalic acid supplier for the Middle East, serving key markets like UAE, Saudi Arabia, and Turkey with high-quality products for stone care, oil & gas, and industrial applications.'
+Img: '/images/blog/oxalic-acid-supplier-middle-east.webp'
+imageAlt: 'A professional and clear image depicting a map of the Middle East, highlighting countries like UAE, Saudi Arabia, and Turkey, with subtle overlays of chemical trade routes, oil refineries, or modern industrial facilities. Emphasize the region''s economic significance and chemical import/export. High quality, 4k resolution.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Regional Market'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid Supplier for Middle East Market: UAE, Saudi Arabia & Turkey
 
 The Middle East, a region characterized by its robust energy sector, rapid urbanization, and growing industrial diversification, presents a significant demand for industrial chemicals. Countries like the United Arab Emirates (UAE), Saudi Arabia, and Turkey are at the forefront of this economic transformation, driving the need for high-quality oxalic acid in various applications. SinoPeakChem is strategically positioned to be your reliable partner, offering premium oxalic acid solutions tailored for this dynamic market.

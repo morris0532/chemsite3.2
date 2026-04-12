@@ -1,16 +1,21 @@
 ---
-id: "9a4sd5646"
-slug: "oxalic-acid-manufacturer-china"
-title: "China Oxalic Acid Manufacturer & Exporter: Quality, Certification & Logistics"
-excerpt: "Discover why China dominates the global oxalic acid market. Learn about quality control, international certifications, efficient export processes, and how SinoPeakChem ensures reliable supply worldwide."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Industry Insights"
-tags: ["oxalic acid manufacturer China", "oxalic acid exporter", "chemical quality control", "REACH registration", "global logistics", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-manufacturer-china.webp"
-imageAlt: "A modern chemical manufacturing facility in China with elements of quality control, certifications, and global logistics, including a cargo ship and world map."
+Id: 'SP-nf9ofwzqlk'
+Origin_Slug: 'oxalic-acid-manufacturer-china'
+Slug: 'oxalic-acid-manufacturer-china'
+Excerpt: 'Discover why China dominates the global oxalic acid market. Learn about quality control, international certifications, efficient export processes, and how SinoPeakChem ensures reliable supply worldwide.'
+title: 'China Oxalic Acid Manufacturer & Exporter: Quality, Certification & Logistics'
+description: 'Discover why China dominates the global oxalic acid market. Learn about quality control, international certifications, efficient export processes, and how SinoPeakChem ensures reliable supply worldwide.'
+Img: '/images/blog/oxalic-acid-manufacturer-china.webp'
+imageAlt: 'A modern chemical manufacturing facility in China with elements of quality control, certifications, and global logistics, including a cargo ship and world map.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Industry Insights'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## China Oxalic Acid Manufacturer & Exporter: Quality, Certification & Logistics
 
 China stands as the undisputed leader in global oxalic acid production and export, accounting for over 70% of the world's total capacity [1]. This dominance is not merely due to scale but also a result of advanced manufacturing capabilities, stringent quality control, and a robust export infrastructure. For international buyers, understanding the landscape of Chinese oxalic acid manufacturers and exporters is key to securing a reliable and high-quality supply.

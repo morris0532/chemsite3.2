@@ -1,16 +1,21 @@
 ---
-id: "qwasd8"
-slug: "oxalic-acid-wood-bleaching"
-title: "Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional"
-excerpt: "Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas de tanino, con instrucciones paso a paso y consejos de seguridad."
-date: "2026-04-10"
-author: "Equipo Técnico de Sinopeakchem"
-category: "Aplicación de Producto"
-tags: ["blanqueo de madera con ácido oxálico", "limpiador de madera", "removedor de manchas de tanino", "removedor de manchas de agua", "restauración de madera", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-wood-bleaching.webp"
-imageAlt: "Imagen dividida que muestra una superficie de madera antes y después del tratamiento con ácido oxálico, demostrando un blanqueo y limpieza efectivos."
+Id: 'SP-q9t4bvuihp'
+Origin_Slug: 'oxalic-acid-wood-bleaching'
+Slug: 'oxalic-acid-wood-bleaching'
+Excerpt: 'Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas de tanino, con instrucciones paso a paso y consejos de seguridad.'
+title: 'Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional'
+description: 'Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas de tanino, con instrucciones paso a paso y consejos de seguridad.'
+Img: '/images/blog/oxalic-acid-wood-bleaching.webp'
+imageAlt: 'Imagen dividida que muestra una superficie de madera antes y después del tratamiento con ácido oxálico, demostrando un blanqueo y limpieza efectivos.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Aplicación de Producto'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Latin America & Spain (ES)'
 ---
-
 ## Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional
 
 La madera, un material atemporal y versátil, a menudo pierde su lustre debido a la exposición a la humedad, la luz solar y las manchas a base de hierro. El ennegrecimiento, las manchas negras, los anillos de agua y las manchas de tanino son problemas comunes que pueden disminuir la belleza natural de la madera. El ácido oxálico, un ácido orgánico potente pero suave, es una solución preferida por ebanistas y restauradores profesionales para blanquear, limpiar y rejuvenecer eficazmente diversas superficies de madera. Esta guía profundiza en la ciencia, la aplicación y los protocolos de seguridad para el uso de ácido oxálico en el tratamiento de la madera.

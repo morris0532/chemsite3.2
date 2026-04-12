@@ -1,16 +1,21 @@
 ---
-id: "lzvxk9be"
-slug: "how-to-test-oxalic-acid-purity"
-title: "How to Test Oxalic Acid Purity: A Comprehensive Guide"
-excerpt: "Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications."
-date: "2026-04-10"
-author: "SinoPeakChem Technical Team"
-category: "Technical Guide"
-tags: ["oxalic acid", "purity testing", "titration", "potassium permanganate", "melting point", "spectroscopy", "quality control", "chemical analysis"]
-image: "/images/blog/how-to-test-oxalic-acid-purity.webp"
-imageAlt: "Laboratory titration setup for testing oxalic acid purity with potassium permanganate"
+Id: 'SP-zlooorcsc2'
+Origin_Slug: 'how-to-test-oxalic-acid-purity'
+Slug: 'how-to-test-oxalic-acid-purity'
+Excerpt: 'Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications.'
+title: 'How to Test Oxalic Acid Purity: A Comprehensive Guide'
+description: 'Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications.'
+Img: '/images/blog/how-to-test-oxalic-acid-purity.webp'
+imageAlt: 'Laboratory titration setup for testing oxalic acid purity with potassium permanganate'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Technical Guide'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## How to Test Oxalic Acid Purity: A Comprehensive Guide
 
 Oxalic acid is a fundamental organic compound with diverse applications in industries ranging from pharmaceuticals and textiles to metal cleaning and [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction). The purity of oxalic acid is paramount, as impurities can significantly impact its performance, safety, and the quality of end products. Ensuring the purity of oxalic acid through reliable testing methods is a critical aspect of quality control. This guide will delve into the most common and effective techniques for assessing oxalic acid purity, providing a comprehensive overview for industrial professionals.

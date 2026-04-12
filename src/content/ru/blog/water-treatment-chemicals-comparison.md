@@ -1,16 +1,21 @@
 ---
-id: "a6sd4asd4"
-slug: "water-treatment-chemicals-comparison"
-title: "Сравнение химикатов для водоподготовки: PAC против сульфата алюминия против хлорида железа"
-excerpt: "Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд водоподготовки."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Техническая статья"
-tags: ["водоподготовка","PAC","коагулянт","сравнение химикатов"]
-image: "/images/blog/water-treatment-chemicals-comparison.webp"
-imageAlt: "Comparison of water treatment chemicals PAC and Aluminum Sulfate"
+Id: 'SP-nmob19fbfp'
+Origin_Slug: 'water-treatment-chemicals-comparison'
+Slug: 'water-treatment-chemicals-comparison'
+Excerpt: 'Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд водоподготовки.'
+title: 'Сравнение химикатов для водоподготовки: PAC против сульфата алюминия против хлорида железа'
+description: 'Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд водоподготовки.'
+Img: '/images/blog/water-treatment-chemicals-comparison.webp'
+imageAlt: 'Comparison of water treatment chemicals PAC and Aluminum Sulfate'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Техническая статья'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'CIS & Russia (RU)'
 ---
-
 ## Введение
 Выбор правильного коагулянта имеет решающее значение для эффективной водоподготовки. В этой статье сравниваются три популярных варианта: PAC, сульфат алюминия и хлорид железа.
 

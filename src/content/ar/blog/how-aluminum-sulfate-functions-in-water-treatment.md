@@ -1,16 +1,21 @@
 ---
-id: "9"
-slug: "how-aluminum-sulfate-functions-in-water-treatment"
-title: "كيفية عمل كبريتات الألومنيوم في معالجة المياه"
-excerpt: "اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى معالجة مياه الصرف الصناعي."
-date: "2026-04-10"
-author: "سينوبيك كيم"
-category: "معالجة المياه"
-tags: ["كبريتات الألومنيوم", "معالجة المياه", "التخثر", "التلبيد"]
-image: "/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp"
-imageAlt: "كبريتات الألومنيوم المستخدمة في عملية معالجة المياه"
+Id: 'SP-xdjs3fwsuf'
+Origin_Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
+Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
+Excerpt: 'اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى معالجة مياه الصرف الصناعي.'
+title: 'كيفية عمل كبريتات الألومنيوم في معالجة المياه'
+description: 'اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى معالجة مياه الصرف الصناعي.'
+Img: '/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp'
+imageAlt: 'كبريتات الألومنيوم المستخدمة في عملية معالجة المياه'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'معالجة المياه'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'MENA Region (AR)'
 ---
-
 # الدور الأساسي لكبريتات الألومنيوم في معالجة المياه الحديثة
 
 تعد **[كبريتات الألومنيوم](https://www.sinopeakchem.com/ar/products/aluminum-sulfate)**، ذات الصيغة الكيميائية Al₂(SO₄)₃ والوزن الجزيئي 342.15، مركباً غير عضوي معترفاً به على نطاق واسع ويظهر كمادة صلبة بلورية بيضاء. كعامل كيميائي حيوي، تتمثل وظيفتها الأساسية في معالجة المياه في توليد جزيئات غروية من خلال تفاعلات التحلل المائي. تقوم هذه الجزيئات بامتصاص وترسيب المواد الصلبة العالقة والغرويات والشوائب الذائبة المختلفة بشكل فعال، مما يؤدي إلى تنقية شاملة للمياه. تطبيقاتها متنوعة، وتشمل معالجة مياه الشرب، وإدارة مياه الصرف الصناعي، وتحضير عوامل تحجيم الصنوبر في صناعة الورق، وإزالة ألوان البترول.

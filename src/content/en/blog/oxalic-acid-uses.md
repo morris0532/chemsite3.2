@@ -1,16 +1,21 @@
 ---
-id: "65asd4611"
-slug: "oxalic-acid-uses"
-title: "Top 15 Industrial Uses of Oxalic Acid You Should Know"
-excerpt: "Explore the diverse industrial applications of oxalic acid, from rust removal and wood bleaching to rare earth extraction and pharmaceutical synthesis. Discover its versatility across various sectors."
-date: "2026-04-10"
-author: "Sinopeakchem Technical Team"
-category: "Product Application"
-tags: ["oxalic acid uses", "oxalic acid applications", "industrial chemicals", "rust removal", "wood bleaching", "rare earth extraction", "pharmaceuticals", "Sinopeakchem"]
-image: "/images/blog/oxalic-acid-uses.webp"
-imageAlt: "Diverse industrial applications of oxalic acid, showing various processes like rust removal, wood treatment, and chemical synthesis."
+Id: 'SP-r256kysuln'
+Origin_Slug: 'oxalic-acid-uses'
+Slug: 'oxalic-acid-uses'
+Excerpt: 'Explore the diverse industrial applications of oxalic acid, from rust removal and wood bleaching to rare earth extraction and pharmaceutical synthesis. Discover its versatility across various sectors.'
+title: 'Top 15 Industrial Uses of Oxalic Acid You Should Know'
+description: 'Explore the diverse industrial applications of oxalic acid, from rust removal and wood bleaching to rare earth extraction and pharmaceutical synthesis. Discover its versatility across various sectors.'
+Img: '/images/blog/oxalic-acid-uses.webp'
+imageAlt: 'Diverse industrial applications of oxalic acid, showing various processes like rust removal, wood treatment, and chemical synthesis.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Product Application'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Top 15 Industrial Uses of Oxalic Acid You Should Know
 
 Oxalic acid, chemically known as ethanedioic acid, is the simplest dicarboxylic acid and one of the most versatile organic acids widely used across numerous industries. Its unique chemical properties—including strong acidity, chelating ability, and reducing power—make it indispensable in applications ranging from metal treatment and textile dyeing to rare earth extraction and pharmaceutical synthesis.

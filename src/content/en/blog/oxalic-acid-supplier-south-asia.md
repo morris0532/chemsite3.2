@@ -1,16 +1,21 @@
 ---
-id: "37"
-slug: "oxalic-acid-supplier-south-asia"
-title: "Oxalic Acid Supplier for South Asia Market: India, Pakistan & Bangladesh"
-excerpt: "SinoPeakChem is a leading oxalic acid supplier for the South Asian market, serving key countries like India, Pakistan, and Bangladesh with quality products for textile dyeing, leather industry, and various chemical applications."
-date: "2026-04-10"
-author: "Sinopeakchem Sales Team"
-category: "Regional Market"
-tags: ["oxalic acid South Asia", "oxalic acid India", "oxalic acid Pakistan", "oxalic acid Bangladesh", "chemical supplier", "textile dyeing", "leather industry", "chemical manufacturing"]
-image: "/images/blog/oxalic-acid-supplier-south-asia.webp"
-imageAlt: "A professional and clear image depicting a map of South Asia, highlighting countries like India, Pakistan, and Bangladesh, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution."
+Id: 'SP-8q7557lhj1'
+Origin_Slug: 'oxalic-acid-supplier-south-asia'
+Slug: 'oxalic-acid-supplier-south-asia'
+Excerpt: 'SinoPeakChem is a leading oxalic acid supplier for the South Asian market, serving key countries like India, Pakistan, and Bangladesh with quality products for textile dyeing, leather industry, and various chemical applications.'
+title: 'Oxalic Acid Supplier for South Asia Market: India, Pakistan & Bangladesh'
+description: 'SinoPeakChem is a leading oxalic acid supplier for the South Asian market, serving key countries like India, Pakistan, and Bangladesh with quality products for textile dyeing, leather industry, and various chemical applications.'
+Img: '/images/blog/oxalic-acid-supplier-south-asia.webp'
+imageAlt: 'A professional and clear image depicting a map of South Asia, highlighting countries like India, Pakistan, and Bangladesh, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution.'
+Date: '2026-04-10'
+author: 'Sinopeakchem Technical Team'
+category: 'Regional Market'
+tag:
+Primary_Keyword: 'Industrial Chemicals'
+Keywords:
+Schema_Type: 'TechArticle'
+Target_Region: 'Global (EN)'
 ---
-
 ## Oxalic Acid Supplier for South Asia Market: India, Pakistan & Bangladesh
 
 The South Asian market, particularly India, Pakistan, and Bangladesh, represents a dynamic and rapidly growing demand for industrial chemicals, including oxalic acid. With thriving textile, leather, and pharmaceutical industries, these countries require a consistent supply of high-quality oxalic acid for various applications. SinoPeakChem is committed to being a reliable partner, offering tailored oxalic acid solutions to meet the specific needs of the South Asian market.
