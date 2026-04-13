@@ -4,7 +4,9 @@ import { useMarkdownContent } from './useMarkdownContent';
 
 export interface SearchResult {
   type: 'post' | 'product';
+  id: string;
   slug: string;
+  RootnoTouch: string;
   title: string;
   description: string;
   category: string;
@@ -27,7 +29,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       // 英文内容
       ...enContent.posts.map((post: any) => ({
         type: 'post' as const,
+        id: post.id,
         slug: post.slug,
+        RootnoTouch: post.RootnoTouch,
         title: post.title,
         description: post.excerpt,
         category: post.category,
@@ -36,7 +40,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       })),
       ...enContent.products.map((product: any) => ({
         type: 'product' as const,
+        id: product.id,
         slug: product.slug,
+        RootnoTouch: product.RootnoTouch,
         title: product.name,
         description: product.shortDescription,
         category: product.category,
@@ -47,7 +53,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       // 俄文内容
       ...ruContent.posts.map((post: any) => ({
         type: 'post' as const,
+        id: post.id,
         slug: post.slug,
+        RootnoTouch: post.RootnoTouch,
         title: post.title,
         description: post.excerpt,
         category: post.category,
@@ -56,7 +64,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       })),
       ...ruContent.products.map((product: any) => ({
         type: 'product' as const,
+        id: product.id,
         slug: product.slug,
+        RootnoTouch: product.RootnoTouch,
         title: product.name,
         description: product.shortDescription,
         category: product.category,
@@ -67,7 +77,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       // 法文内容
       ...frContent.posts.map((post: any) => ({
         type: 'post' as const,
+        id: post.id,
         slug: post.slug,
+        RootnoTouch: post.RootnoTouch,
         title: post.title,
         description: post.excerpt,
         category: post.category,
@@ -76,7 +88,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       })),
       ...frContent.products.map((product: any) => ({
         type: 'product' as const,
+        id: product.id,
         slug: product.slug,
+        RootnoTouch: product.RootnoTouch,
         title: product.name,
         description: product.shortDescription,
         category: product.category,
@@ -87,7 +101,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       // 西班牙文内容
       ...esContent.posts.map((post: any) => ({
         type: 'post' as const,
+        id: post.id,
         slug: post.slug,
+        RootnoTouch: post.RootnoTouch,
         title: post.title,
         description: post.excerpt,
         category: post.category,
@@ -96,7 +112,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       })),
       ...esContent.products.map((product: any) => ({
         type: 'product' as const,
+        id: product.id,
         slug: product.slug,
+        RootnoTouch: product.RootnoTouch,
         title: product.name,
         description: product.shortDescription,
         category: product.category,
@@ -107,7 +125,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       // 阿拉伯文内容
       ...arContent.posts.map((post: any) => ({
         type: 'post' as const,
+        id: post.id,
         slug: post.slug,
+        RootnoTouch: post.RootnoTouch,
         title: post.title,
         description: post.excerpt,
         category: post.category,
@@ -116,7 +136,9 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       })),
       ...arContent.products.map((product: any) => ({
         type: 'product' as const,
+        id: product.id,
         slug: product.slug,
+        RootnoTouch: product.RootnoTouch,
         title: product.name,
         description: product.shortDescription,
         category: product.category,
@@ -137,7 +159,7 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
       minMatchCharLength: 2,
       includeScore: true,
     });
-  }, [enContent, ruContent, frContent]);
+  }, [enContent, ruContent, frContent, esContent, arContent]);
 
   const search = (query: string): SearchResult[] => {
     if (!query.trim()) return [];
@@ -147,12 +169,14 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
     const deduped = new Map<string, SearchResult>();
     
     results.forEach(result => {
-      const key = `${result.item.type}-${result.item.slug}`;
+      // Use id or RootnoTouch as the unique key for deduplication across languages
+      const key = `${result.item.type}-${result.item.id || result.item.RootnoTouch}`;
       
       // 优先保留当前语言的版本，其次保留英文版本
-      if (!deduped.has(key) || 
+      const existing = deduped.get(key);
+      if (!existing || 
           result.item.language === currentLocale ||
-          (result.item.language === 'en' && deduped.get(key)?.language !== currentLocale)) {
+          (result.item.language === 'en' && existing.language !== currentLocale)) {
         deduped.set(key, {
           ...result.item,
           score: result.score,
@@ -169,11 +193,11 @@ export function useSearch(currentLocale: 'en' | 'ru' | 'fr' | 'es' | 'ar') {
     const uniqueKeys = new Set<string>();
     
     [...enContent.posts, ...ruContent.posts, ...frContent.posts, ...esContent.posts, ...arContent.posts].forEach((post: any) => {
-      uniqueKeys.add(`post-${post.slug}`);
+      uniqueKeys.add(`post-${post.id || post.RootnoTouch}`);
     });
     
     [...enContent.products, ...ruContent.products, ...frContent.products, ...esContent.products, ...arContent.products].forEach((product: any) => {
-      uniqueKeys.add(`product-${product.slug}`);
+      uniqueKeys.add(`product-${product.id || product.RootnoTouch}`);
     });
 
     return uniqueKeys.size;

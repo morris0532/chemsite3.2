@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
+import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
 const LanguageGuide: React.FC = () => {
   const [show, setShow] = useState(false);
@@ -38,13 +39,57 @@ const LanguageGuide: React.FC = () => {
     }
   }, [location.pathname]);
 
+  const enContent = useMarkdownContent('en');
+  const ruContent = useMarkdownContent('ru');
+  const frContent = useMarkdownContent('fr');
+  const esContent = useMarkdownContent('es');
+  const arContent = useMarkdownContent('ar');
+
   const handleSwitch = () => {
     if (!targetLang) return;
     
-    const pathParts = location.pathname.split('/').filter(Boolean);
-    // 替换语言前缀，保留后续路径
-    const newPath = `/${targetLang.code}/${pathParts.slice(1).join('/')}`;
+    const targetLocale = targetLang.code as 'en' | 'ru' | 'fr' | 'es' | 'ar';
+    const targetPrefix = `/${targetLocale}`;
     
+    const pathParts = location.pathname.split('/').filter(Boolean);
+    const currentLang = (['en', 'ru', 'fr', 'es', 'ar'].includes(pathParts[0]) ? pathParts[0] : 'en') as 'en' | 'ru' | 'fr' | 'es' | 'ar';
+    
+    const targetContent = targetLocale === 'en' ? enContent : (targetLocale === 'ru' ? ruContent : (targetLocale === 'fr' ? frContent : (targetLocale === 'es' ? esContent : arContent)));
+    const currentContent = currentLang === 'ru' ? ruContent : (currentLang === 'fr' ? frContent : (currentLang === 'es' ? esContent : (currentLang === 'ar' ? arContent : enContent)));
+
+    if (location.pathname.includes('/blog/')) {
+      const currentSlug = location.pathname.split('/blog/')[1];
+      const currentPost = currentContent.posts.find((p: any) => p.slug === currentSlug);
+      if (currentPost) {
+        const targetPost = targetContent.posts.find((p: any) => 
+          (p.id && currentPost.id && p.id === currentPost.id) || 
+          (p.RootnoTouch && currentPost.RootnoTouch && p.RootnoTouch === currentPost.RootnoTouch)
+        );
+        if (targetPost) {
+          setShow(false);
+          navigate(`${targetPrefix}/blog/${targetPost.slug}`);
+          return;
+        }
+      }
+    }
+
+    if (location.pathname.includes('/products/')) {
+      const currentSlug = location.pathname.split('/products/')[1];
+      const currentProduct = currentContent.products.find((p: any) => p.slug === currentSlug);
+      if (currentProduct) {
+        const targetProduct = targetContent.products.find((p: any) => 
+          (p.id && currentProduct.id && p.id === currentProduct.id) || 
+          (p.RootnoTouch && currentProduct.RootnoTouch && p.RootnoTouch === currentProduct.RootnoTouch)
+        );
+        if (targetProduct) {
+          setShow(false);
+          navigate(`${targetPrefix}/products/${targetProduct.slug}`);
+          return;
+        }
+      }
+    }
+
+    const newPath = `/${targetLocale}/${pathParts.slice(1).join('/')}`;
     setShow(false);
     navigate(newPath);
   };
