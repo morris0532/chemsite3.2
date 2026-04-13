@@ -6,7 +6,7 @@ Excerpt: Understand the critical role of caustic soda (sodium hydroxide) in the 
 Id: SP-8iibxflku2
 Keywords: null
 Origin_Slug: caustic-soda-alumina-production
-Primary_Keyword: Industrial Chemicals
+Primary_Keyword: Industrial Chemicals 
 Schema_Type: TechArticle
 Slug: caustic-soda-alumina-production
 Target_Region: Francophone Africa & EU (FR)
