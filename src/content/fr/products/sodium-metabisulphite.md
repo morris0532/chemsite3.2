@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-metabisulphite
 image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
 category: Sulfur Compounds
@@ -49,7 +50,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export
   from China. Essential for water treatment, food preservation, and mining applications.
   Trusted supplier with competitive pricing.
-slug: metabisulfite-de-sodium
+slug: sodium-metabisulphite
 specs:
 - label: Chemical Formula
   value: Na₂S₂O₅

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: polyaluminum-chloride
 image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
 category: معالجة المياه
@@ -47,7 +48,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: كلوريد متعدد الألومنيوم (PAC) عالي الكفاءة للشراء بالجملة والتصدير
   من الصين. ضروري لمعالجة المياه، وتنقية مياه الصرف الصحي، والتلبد الصناعي. مورد موثوق
   بأسعار تنافسية.
-slug: كلوريد-البولي-ألومنيوم
+slug: polyaluminum-chloride
 specs:
 - label: الصيغة الكيميائية
   value: '[Al₂(OH)nCl₆-n]m'

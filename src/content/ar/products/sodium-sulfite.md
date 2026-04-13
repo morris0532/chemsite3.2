@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-sulfite
 image: /images/products/sodium-sulfite-anhydrous-cas-7757-83-7-sinopeakchem.webp
 category: مركبات الكبريت
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: كبريتيت الصوديوم اللامائي (Na2SO3) عالي النقاء للشراء بالجملة والتصدير
   من الصين. ضروري لمعالجة المياه، والتصوير الفوتوغرافي، وتطبيقات المنسوجات. مورد موثوق
   بأسعار تنافسية.
-slug: كبريتيت-الصوديوم
+slug: sodium-sulfite
 specs:
 - label: الصيغة الكيميائية
   value: Na₂SO₃

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-hexametaphosphate
 image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 category: Fosfatos
@@ -52,7 +53,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Hexametafosfato de sodio (SHMP) de alta pureza para compra a granel
   y exportación desde China. Esencial para tratamiento de agua, aditivo alimentario
   y aplicaciones industriales. Proveedor confiable con precios competitivos.
-slug: hexametafosfato-de-sodio
+slug: sodium-hexametaphosphate
 specs:
 - label: Fórmula Química
   value: (NaPO₃)₆

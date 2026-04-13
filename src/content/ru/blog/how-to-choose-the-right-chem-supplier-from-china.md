@@ -1,7 +1,8 @@
 ---
+
 Id: SP-jio4gutw7b
 rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-slug: kak-vybrat-podkhodyashchego-postavshchika-khimikatov
+slug: how-to-choose-the-right-chem-supplier-from-china
 Excerpt: Подробное руководство по выбору надежного поставщика химикатов в Китае, охватывающее
   квалификацию поставщика, контроль качества, цепочку поставок, экономическую эффективность
   и коммуникацию.

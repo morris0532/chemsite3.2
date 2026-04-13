@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: ammonium-sulphate
 image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 category: Compuestos de Sulfato
@@ -30,7 +31,7 @@ packaging: 25/50KG/Jumbo bags
 ports: Tianjin / Qingdao
 shortDescription: Fertilizante de sulfato de amonio para uso agrícola e industrial
   y químico intermedio.
-slug: sulfato-de-amonio
+slug: ammonium-sulphate
 specs:
 - label: Fórmula Química
   value: (NH₄)₂SO₄

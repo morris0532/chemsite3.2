@@ -1,7 +1,8 @@
 ---
+
 Id: SP-vu8f7lth01
 rootnotouch: oxalic-acid-comprehensive-guide
-slug: acido-oxalico-una-guia-integral
+slug: oxalic-acid-comprehensive-guide
 Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
   de producción, gestión de seguridad, estrategias ambientales y perspectivas futuras
   del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta pureza para
@@ -312,6 +313,7 @@ En esencia, el valor perdurable del ácido oxálico reside en sus propiedades qu
 [**¡Contáctenos hoy para una cotización!**](https://www.sinopeakchem.com/en/contact) | [**Explore nuestros productos de Ácido Oxálico**](https://www.sinopeakchem.com/en/products/oxalic-acid)
 
 ---
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!

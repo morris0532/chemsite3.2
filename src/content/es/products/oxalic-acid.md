@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: oxalic-acid
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: Ácidos Orgánicos

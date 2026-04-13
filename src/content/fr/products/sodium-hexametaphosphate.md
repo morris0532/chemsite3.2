@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-hexametaphosphate
 image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 category: Phosphates
@@ -58,7 +59,7 @@ shortDescription: Hexamétaphosphate de sodium (SHMP) de haute pureté pour l'ac
   en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau,
   les additifs alimentaires et les applications industrielles. Fabricant de confiance
   avec des prix compétitifs.
-slug: hexametaphosphate-de-sodium
+slug: sodium-hexametaphosphate
 specs:
 - label: Formule chimique
   value: (NaPO₃)₆

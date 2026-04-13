@@ -1,7 +1,8 @@
 ---
+
 Id: SP-756fzf5rai
 rootnotouch: buy-oxalic-acid-bulk
-slug: como-comprar-acido-oxalico-a
+slug: buy-oxalic-acid-bulk
 Excerpt: Una guía completa para la compra a granel de ácido oxálico. Conozca las cantidades
   mínimas de pedido, opciones de empaque, métodos de envío, condiciones de pago y
   el proceso completo de adquisición desde la cotización hasta la entrega.

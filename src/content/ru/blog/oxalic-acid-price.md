@@ -1,7 +1,8 @@
 ---
+
 Id: SP-ir5ldw5prb
 rootnotouch: oxalic-acid-price
-slug: tendentsiya-tsen-na-shchavelevuyu-kislotu
+slug: oxalic-acid-price
 Excerpt: Будьте в курсе последних тенденций цен на щавелевую кислоту в 2025 году.
   Изучите ключевые факторы, влияющие на стоимость, от сырья до цен на энергоносители,
   и узнайте, как получить лучшую цену при оптовых закупках.

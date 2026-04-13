@@ -1,7 +1,8 @@
 ---
+
 Id: SP-9iznt1u24v
 rootnotouch: oxalic-acid-marble-polishing
-slug: oxalic-acid-for-marble-polishing-stone-care-best-practices
+slug: oxalic-acid-marble-polishing
 Excerpt: >-
   Discover the professional techniques for using oxalic acid to polish marble
   and care for various stone surfaces. Learn about its chemical action,

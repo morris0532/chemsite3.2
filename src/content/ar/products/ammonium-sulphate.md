@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: ammonium-sulphate
 image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 category: مركبات الكبريتات
@@ -28,7 +29,7 @@ nameCn: 硫酸铵
 packaging: 25/50 كجم/أكياس جامبو
 ports: تيانجين / تشينغداو
 shortDescription: سماد كبريتات الأمونيوم من الدرجة الزراعية والصناعية ووسيط كيميائي.
-slug: كبريتات-الأمونيوم
+slug: ammonium-sulphate
 specs:
 - label: الصيغة الكيميائية
   value: (NH₄)₂SO₄

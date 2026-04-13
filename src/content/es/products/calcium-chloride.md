@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: calcium-chloride
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: Compuestos de Cloruro
@@ -57,7 +58,7 @@ shortDescription: Cloruro de Calcio (CaCl2) de alta pureza en escamas, gránulos
   polvo para compra al por mayor y exportación desde China. Esencial para aplicaciones
   de descongelación, petróleo y gas, y alimentarias. Proveedor confiable con precios
   competitivos.
-slug: cloruro-de-calcio
+slug: calcium-chloride
 specs:
 - label: Fórmula Química
   value: CaCl₂

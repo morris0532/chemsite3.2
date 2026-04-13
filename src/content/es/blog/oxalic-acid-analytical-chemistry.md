@@ -1,7 +1,8 @@
 ---
+
 Id: SP-3l8j4wbhma
 rootnotouch: oxalic-acid-analytical-chemistry
-slug: acido-oxalico-en-la-quimica
+slug: oxalic-acid-analytical-chemistry
 Excerpt: Descubra el papel fundamental del ácido oxálico como patrón primario y agente
   reductor en diversas técnicas de química analítica, desde la valoración hasta la
   complejometría.

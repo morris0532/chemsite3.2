@@ -1,7 +1,8 @@
 ---
+
 Id: SP-92awep831l-ru
 rootnotouch: caustic-soda-applications
-slug: primenenie-kausticheskoy-sody-polnoe-rukovodstvo
+slug: primenenie-kausticheskoy-sody
 title: 'Применение каустической соды: Полное руководство для B2B покупателей'
 description: Изучите разнообразные промышленные применения каустической соды (гидроксида натрия) в очистке воды, литиевых батареях, текстиле и многом другом.
 image: /images/blog/caustic-soda-applications.webp

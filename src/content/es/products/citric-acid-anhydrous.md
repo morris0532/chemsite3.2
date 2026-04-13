@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: citric-acid-anhydrous
 image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 category: Ácidos Orgánicos
@@ -56,7 +57,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido cítrico anhidro de alta pureza para compra al por mayor y
   exportación desde China. Esencial para aplicaciones en la industria alimentaria
   y de bebidas, farmacéutica e industrial. Proveedor confiable con precios competitivos.
-slug: acido-citrico-anhidro
+slug: citric-acid-anhydrous
 specs:
 - label: Fórmula química
   value: C₆H₈O₇

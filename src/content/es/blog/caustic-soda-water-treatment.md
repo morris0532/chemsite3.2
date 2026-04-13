@@ -1,7 +1,8 @@
 ---
+
 Id: SP-g7kzd7vxdm
 rootnotouch: caustic-soda-water-treatment
-slug: caustic-soda-in-water-treatment
+slug: caustic-soda-water-treatment
 Excerpt: Explore the critical role of caustic soda (sodium hydroxide) in industrial
   water treatment, including pH adjustment, alkalinity control, and heavy metal precipitation,
   for efficient and compliant operations.

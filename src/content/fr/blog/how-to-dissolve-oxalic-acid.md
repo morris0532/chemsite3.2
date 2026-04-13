@@ -1,7 +1,8 @@
 ---
+
 Id: SP-vilfg06xq0
 rootnotouch: how-to-dissolve-oxalic-acid
-slug: comment-dissoudre-correctement-l-acide-oxalique
+slug: how-to-dissolve-oxalic-acid
 Excerpt: Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
   diverses applications industrielles et domestiques. Ce guide couvre les précautions
   de sécurité essentielles, les matériaux requis, les instructions étape par étape

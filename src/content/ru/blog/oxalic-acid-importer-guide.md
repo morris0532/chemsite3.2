@@ -1,7 +1,8 @@
 ---
+
 Id: SP-b1kbuurhmc
 rootnotouch: oxalic-acid-importer-guide
-slug: rukovodstvo-dlya-nachinayushchikh-importerov-shchavelevoy
+slug: oxalic-acid-importer-guide
 Excerpt: Навигация по сложностям международной торговли может быть непростой, особенно
   для химических соединений, таких как щавелевая кислота. Это всеобъемлющее руководство
   предоставляет начинающим импортерам важную информацию о правилах, документации и

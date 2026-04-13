@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: borax
 image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
 category: مركبات البورون
@@ -26,7 +27,7 @@ nameCn: 硼砂
 packaging: 25 كجم/50 كجم أكياس
 ports: داليان
 shortDescription: البورق الصناعي لتوريد الزجاج والسيراميك والمنظفات والتطبيقات المعدنية.
-slug: البورق
+slug: borax
 specs:
 - label: الصيغة الكيميائية
   value: Na₂B₄O₇·10H₂O

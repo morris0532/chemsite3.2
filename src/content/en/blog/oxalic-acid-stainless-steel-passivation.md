@@ -1,7 +1,8 @@
 ---
+
 Id: SP-99s7dozow4
 rootnotouch: oxalic-acid-stainless-steel-passivation
-slug: oxalic-acid-in-stainless-steel-passivation
+slug: oxalic-acid-stainless-steel-passivation
 Excerpt: >-
   Explore the critical role of oxalic acid in stainless steel passivation,
   enhancing corrosion resistance and surface quality. This guide covers the

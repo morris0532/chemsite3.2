@@ -1,7 +1,8 @@
 ---
+
 Id: SP-5sajjcvt2m
 rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: comment-choisir-la-bonne-qualite
+slug: how-to-choose-right-caustic-soda-grade
 Excerpt: Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez à choisir
   la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le traitement
   de l'eau.
@@ -53,6 +54,7 @@ Les perles (également appelées billes) sont produites par un processus de pril
 | **Durée de conservation** | Bonne (Hygroscopique) | Excellente (Moins de mottage) |
 
 ---
+
 ## 2. Guide de sélection par industrie
 
 Le choix de la bonne qualité dépend fortement des exigences techniques et des normes de sécurité de votre industrie.

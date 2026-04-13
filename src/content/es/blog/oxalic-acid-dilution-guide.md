@@ -1,7 +1,8 @@
 ---
+
 Id: SP-87cio3w8b5
 rootnotouch: oxalic-acid-dilution-guide
-slug: como-diluir-el-acido-oxalico
+slug: oxalic-acid-dilution-guide
 Excerpt: Una guía completa para diluir el ácido oxálico de forma segura, incluyendo
   precauciones de seguridad esenciales, procedimientos paso a paso para la dilución
   y métodos de cálculo de concentración para diversas aplicaciones. Garantice un uso

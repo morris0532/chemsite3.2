@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: trisodium-phosphate
 image: /images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp
 category: Phosphates
@@ -58,7 +59,7 @@ shortDescription: Phosphate de trisodium (TSP) de haute pureté pour l'achat en 
   et l'exportation depuis la Chine. Essentiel pour le nettoyage, les additifs alimentaires
   et les applications de traitement de l'eau. Fabricant de confiance avec des prix
   compétitifs.
-slug: phosphate-trisodique
+slug: trisodium-phosphate
 specs:
 - label: Formule chimique
   value: Na₃PO₄

@@ -1,7 +1,8 @@
 ---
+
 Id: SP-92awep831l
 rootnotouch: caustic-soda-applications
-slug: caustic-soda-applications-complete-industry-guide
+slug: caustic-soda-applications
 Excerpt: >-
   Explore the diverse industrial uses of caustic soda (sodium hydroxide) across
   water treatment, lithium batteries, textiles, and more. A comprehensive guide

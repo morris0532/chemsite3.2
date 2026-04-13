@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-bicarbonate
 image: /images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp
 category: المنتجات القلوية
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: بيكربونات الصوديوم (صودا الخبز) عالية النقاء للشراء بالجملة والتصدير
   من الصين. ضرورية لتطبيقات الأغذية والأعلاف والأدوية والصناعة. مورد موثوق بأسعار
   تنافسية.
-slug: بيكربونات-الصوديوم
+slug: sodium-bicarbonate
 specs:
 - label: الصيغة الكيميائية
   value: NaHCO₃

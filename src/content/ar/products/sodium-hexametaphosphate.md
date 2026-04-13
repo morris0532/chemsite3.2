@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-hexametaphosphate
 image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 category: الفوسفات
@@ -45,7 +46,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: سداسي ميتافوسفات الصوديوم (SHMP) عالي النقاء للشراء بالجملة والتصدير
   من الصين. ضروري لمعالجة المياه، والمضافات الغذائية، والتطبيقات الصناعية. مورد موثوق
   بأسعار تنافسية.
-slug: هيكساميتافوسفات-الصوديوم
+slug: sodium-hexametaphosphate
 specs:
 - label: الصيغة الكيميائية
   value: (NaPO₃)₆

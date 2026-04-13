@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-metabisulphite
 image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
 category: Compuestos de Azufre
@@ -53,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Metabisulfito de Sodio (SMBS) de alta pureza para compra al por
   mayor y exportación desde China. Esencial para el tratamiento de agua, conservación
   de alimentos y aplicaciones mineras. Proveedor confiable con precios competitivos.
-slug: metabisulfito-de-sodio
+slug: sodium-metabisulphite
 specs:
 - label: Fórmula Química
   value: Na₂S₂O₅

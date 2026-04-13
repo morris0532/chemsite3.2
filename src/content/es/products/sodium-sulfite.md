@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-sulfite
 image: /images/products/sodium-sulfite-anhydrous-cas-7757-83-7-sinopeakchem.webp
 category: Compuestos de Azufre
@@ -54,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfito de Sodio Anhidro (Na2SO3) de alta pureza para compra a granel
   y exportación desde China. Esencial para tratamiento de agua, fotografía y aplicaciones
   textiles. Proveedor confiable con precios competitivos.
-slug: sulfito-de-sodio
+slug: sodium-sulfite
 specs:
 - label: Fórmula Química
   value: Na₂SO₃

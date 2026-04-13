@@ -1,7 +1,8 @@
 ---
+
 Id: SP-4onxsd68yq
 rootnotouch: oxalic-acid-quality-control-checklist
-slug: lista-de-verificacion-de-control
+slug: oxalic-acid-quality-control-checklist
 Excerpt: Asegurar la pureza y calidad del ácido oxálico es primordial para sus diversas
   aplicaciones industriales. Esta lista de verificación integral guía a fabricantes
   y compradores a través de medidas esenciales de control de calidad, desde la inspección

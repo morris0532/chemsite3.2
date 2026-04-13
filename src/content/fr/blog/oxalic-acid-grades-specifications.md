@@ -1,7 +1,8 @@
 ---
+
 Id: SP-yvb9vz3cyw
 rootnotouch: oxalic-acid-grades-specifications
-slug: qualites-et-specifications-de-l-acide
+slug: oxalic-acid-grades-specifications
 Excerpt: Explorez les différentes qualités et spécifications de l'acide oxalique,
   y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
   les exigences de pureté, les indicateurs physico-chimiques et les normes internationales

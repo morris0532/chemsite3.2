@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: calcium-chloride
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: مركبات الكلوريد
@@ -48,7 +49,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: كلوريد الكالسيوم عالي النقاء (CaCl2) في شكل رقائق وحبيبات ومسحوق
   للشراء بالجملة والتصدير من الصين. ضروري لإزالة الجليد، والنفط والغاز، والتطبيقات
   الغذائية. مورد موثوق بأسعار تنافسية.
-slug: كلوريد-الكالسيوم
+slug: calcium-chloride
 specs:
 - label: الصيغة الكيميائية
   value: CaCl₂

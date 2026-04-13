@@ -1,7 +1,8 @@
 ---
+
 Id: SP-pbjyzuu9lz
 rootnotouch: oxalic-acid-metal-pre-treatment
-slug: acide-oxalique-dans-le-pretraitement
+slug: oxalic-acid-metal-pre-treatment
 Excerpt: Explorez le rôle crucial de l'acide oxalique dans le prétraitement des surfaces
   métalliques, du nettoyage et dégraissage à la passivation, améliorant l'adhérence
   des revêtements et la résistance à la corrosion.

@@ -1,7 +1,8 @@
 ---
+
 Id: SP-f86q5p1lic
 rootnotouch: oxalic-acid-industry-innovations
-slug: innovaciones-en-la-industria-del
+slug: oxalic-acid-industry-innovations
 Excerpt: Explore las últimas innovaciones en la industria del ácido oxálico, centrándose
   en los avances en química verde, técnicas de purificación avanzadas e iniciativas
   de economía circular. Descubra cómo estos desarrollos están mejorando la sostenibilidad

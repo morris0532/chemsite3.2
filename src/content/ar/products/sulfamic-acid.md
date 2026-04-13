@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sulfamic-acid
 image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
 category: الأحماض
@@ -44,7 +45,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: حمض السلفاميك (H3NSO3) عالي النقاء للشراء بالجملة والتصدير من الصين.
   ضروري للتنظيف والطلاء الكهربائي وتطبيقات المنسوجات. مورد موثوق بأسعار تنافسية.
-slug: حمض-السلفاميك
+slug: sulfamic-acid
 specs:
 - label: الصيغة الكيميائية
   value: H₃NSO₃

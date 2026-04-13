@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: citric-acid-anhydrous
 image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 category: الأحماض العضوية
@@ -45,7 +46,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: حمض الستريك اللامائي عالي النقاء للشراء بالجملة والتصدير من الصين.
   ضروري للأغذية والمشروبات، والأدوية، والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية.
-slug: حمض-الستريك-اللامائي
+slug: citric-acid-anhydrous
 specs:
 - label: الصيغة الكيميائية
   value: C₆H₈O₇

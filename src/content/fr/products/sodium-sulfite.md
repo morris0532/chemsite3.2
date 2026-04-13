@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-sulfite
 image: /images/products/sodium-sulfite-anhydrous-cas-7757-83-7-sinopeakchem.webp
 category: Composés du soufre
@@ -60,7 +61,7 @@ shortDescription: Sulfite de sodium anhydre (Na2SO3) de haute pureté pour l'ach
   en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau,
   la photographie et les applications textiles. Fabricant de confiance avec des prix
   compétitifs.
-slug: sulfite-de-sodium
+slug: sodium-sulfite
 specs:
 - label: Formule chimique
   value: Na₂SO₃

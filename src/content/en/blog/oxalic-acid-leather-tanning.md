@@ -1,7 +1,8 @@
 ---
+
 Id: SP-zdgzfxbfra
 rootnotouch: oxalic-acid-leather-tanning
-slug: oxalic-acid-for-leather-tanning-dyeing
+slug: oxalic-acid-leather-tanning
 Excerpt: >-
   Explore the vital role of oxalic acid in leather tanning and dyeing, from its
   historical use in traditional methods to its modern applications in enhancing

@@ -1,7 +1,8 @@
 ---
+
 Id: SP-8rdxwc08fj
 rootnotouch: how-to-dissolve-oxalic-acid
-slug: how-to-dissolve-oxalic-acid-properly-a-step-by-step-guide
+slug: how-to-dissolve-oxalic-acid
 Excerpt: >-
   Learn the correct and safe method to dissolve oxalic acid for various
   industrial and household applications. This guide covers essential safety

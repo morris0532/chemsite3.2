@@ -1,7 +1,8 @@
 ---
+
 Id: SP-54gcckj8rr
 rootnotouch: oxalic-acid-mining-rare-earth
-slug: acido-oxalico-en-la-mineria
+slug: oxalic-acid-mining-rare-earth
 Excerpt: Explore el papel crítico del ácido oxálico en la industria minera, particularmente
   en la extracción y purificación eficientes de elementos de tierras raras (ETR).
   Esta visión técnica profundiza en sus mecanismos químicos, ventajas sobre los métodos

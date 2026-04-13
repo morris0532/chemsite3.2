@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: calcium-chloride
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: Composés de chlorure
@@ -61,7 +62,7 @@ shortDescription: Chlorure de calcium (CaCl2) de haute pureté en écailles, gra
   et poudre pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour
   le déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant
   de confiance avec des prix compétitifs.
-slug: chlorure-de-calcium
+slug: calcium-chloride
 specs:
 - label: Formule chimique
   value: CaCl₂

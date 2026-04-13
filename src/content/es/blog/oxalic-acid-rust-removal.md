@@ -1,7 +1,8 @@
 ---
+
 Id: SP-rxbanmqyqr
 rootnotouch: oxalic-acid-rust-removal
-slug: acido-oxalico-para-la-eliminacion
+slug: oxalic-acid-rust-removal
 Excerpt: Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies
   metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación
   paso a paso, precauciones de seguridad y comparación con otros removedores de óxido.

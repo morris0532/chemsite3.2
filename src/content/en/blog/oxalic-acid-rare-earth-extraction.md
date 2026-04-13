@@ -1,7 +1,8 @@
 ---
+
 Id: SP-tgrcwyqtow
 rootnotouch: oxalic-acid-rare-earth-extraction
-slug: oxalic-acid-for-rare-earth-extraction
+slug: oxalic-acid-rare-earth-extraction
 Excerpt: >-
   Explore the critical role of oxalic acid in the extraction, separation, and
   purification of rare earth elements. Learn about its chemical principles and

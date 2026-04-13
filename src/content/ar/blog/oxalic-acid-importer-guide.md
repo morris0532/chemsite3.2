@@ -1,7 +1,8 @@
 ---
+
 Id: SP-qsnigbaijl
 rootnotouch: oxalic-acid-importer-guide
-slug: دليل-المستورد-لأول-مرة-لحمض
+slug: oxalic-acid-importer-guide
 Excerpt: دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
   الدولية (REACH، TSCA)، وأفضل الممارسات لعملية استيراد سلسة.
 title: 'دليل المستورد لأول مرة لحمض الأكساليك: اللوائح والوثائق'

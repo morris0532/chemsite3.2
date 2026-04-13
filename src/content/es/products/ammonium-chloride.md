@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: ammonium-chloride
 image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
 category: Compuestos de Cloruro
@@ -57,7 +58,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Cloruro de Amonio (NH4Cl) de alta calidad para compra al por mayor
   y exportación desde China. Esencial para fertilizantes, aditivos para piensos y
   aplicaciones industriales. Proveedor de confianza con precios competitivos.
-slug: cloruro-de-amonio
+slug: ammonium-chloride
 specs:
 - label: Fórmula Química
   value: NH₄Cl

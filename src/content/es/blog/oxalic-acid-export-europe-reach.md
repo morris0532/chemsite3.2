@@ -1,7 +1,8 @@
 ---
+
 Id: SP-0ajs6ny9c4
 rootnotouch: oxalic-acid-export-europe-reach
-slug: exportacion-de-acido-oxalico-a
+slug: oxalic-acid-export-europe-reach
 Excerpt: Navegar las complejidades de la exportación de ácido oxálico a Europa requiere
   una estricta adhesión a las regulaciones REACH. SinoPeakChem provee ácido oxálico
   de alta calidad y conforme para el mercado europeo.

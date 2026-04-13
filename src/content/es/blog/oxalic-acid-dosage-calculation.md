@@ -1,7 +1,8 @@
 ---
+
 Id: SP-ee7mhfr44w
 rootnotouch: oxalic-acid-dosage-calculation
-slug: calculo-de-la-dosis-de
+slug: oxalic-acid-dosage-calculation
 Excerpt: Domine el arte del cálculo de la dosis de ácido oxálico para diversas aplicaciones
   industriales y domésticas. Esta guía cubre fórmulas esenciales, ejemplos prácticos
   y consideraciones de seguridad para asegurar un uso preciso y efectivo.

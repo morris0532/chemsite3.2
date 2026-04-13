@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: polyaluminum-chloride
 image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
 category: Tratamiento de Agua
@@ -56,7 +57,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Cloruro de Polialuminio (PAC) de alta eficiencia para compra al
   por mayor y exportación desde China. Esencial para tratamiento de agua, purificación
   de aguas residuales y floculación industrial. Proveedor confiable con precios competitivos.
-slug: cloruro-de-polialuminio
+slug: polyaluminum-chloride
 specs:
 - label: Fórmula Química
   value: '[Al₂(OH)nCl₆-n]m'

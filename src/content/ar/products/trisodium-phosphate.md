@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: trisodium-phosphate
 image: /images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp
 category: الفوسفات
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: فوسفات ثلاثي الصوديوم (TSP) عالي النقاء للشراء بالجملة والتصدير
   من الصين. ضروري للتنظيف والمضافات الغذائية وتطبيقات معالجة المياه. مورد موثوق بأسعار
   تنافسية.
-slug: فوسفات-ثلاثي-الصوديوم
+slug: trisodium-phosphate
 specs:
 - label: الصيغة الكيميائية
   value: Na₃PO₄

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-tripolyphosphate
 image: /images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp
 category: Fosfatos
@@ -51,7 +52,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Trifosfato de Sodio (STPP) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para detergentes, aditivos alimentarios y aplicaciones
   industriales. Proveedor confiable con precios competitivos.
-slug: tripolifosfato-de-sodio
+slug: sodium-tripolyphosphate
 specs:
 - label: Fórmula Química
   value: Na₅P₃O₁₀

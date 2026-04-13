@@ -1,7 +1,8 @@
 ---
+
 Id: SP-95rf06gk4c
 rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-slug: comment-choisir-le-bon-fournisseur
+slug: how-to-choose-the-right-chem-supplier-from-china
 Excerpt: Un guide approfondi sur la sélection d'un fournisseur de produits chimiques
   fiable en Chine, couvrant la qualification du fournisseur, le contrôle de la qualité,
   la chaîne d'approvisionnement, la rentabilité et la communication.

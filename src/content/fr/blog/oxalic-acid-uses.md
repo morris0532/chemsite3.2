@@ -1,7 +1,8 @@
 ---
+
 Id: SP-gmg7vcyfpr
 rootnotouch: oxalic-acid-uses
-slug: les-15-principales-utilisations-industrielles
+slug: oxalic-acid-uses
 Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
   l'élimination de la rouille et du blanchiment du bois à l'extraction des terres
   rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs.

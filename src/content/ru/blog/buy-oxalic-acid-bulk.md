@@ -1,7 +1,8 @@
 ---
+
 Id: SP-z4bzkxxlmv
 rootnotouch: buy-oxalic-acid-bulk
-slug: kak-kupit-shchavelevuyu-kislotu-optom
+slug: buy-oxalic-acid-bulk
 Excerpt: Полное руководство по оптовой закупке щавелевой кислоты. Узнайте о минимальных
   объемах заказа, вариантах упаковки, методах доставки, условиях оплаты и полном процессе
   закупок от предложения до доставки.

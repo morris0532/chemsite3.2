@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-bisulfite
 image: /images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp
 category: Composés du soufre
@@ -59,7 +60,7 @@ shortDescription: Bisulfite de sodium (NaHSO3) de haute pureté pour l'achat en 
   et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la conservation
   des aliments et le traitement des textiles. Fabricant de confiance avec des prix
   compétitifs.
-slug: bisulfite-de-sodium
+slug: sodium-bisulfite
 specs:
 - label: Formule chimique
   value: NaHSO₃

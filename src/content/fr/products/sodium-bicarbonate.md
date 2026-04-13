@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-bicarbonate
 image: /images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp
 category: Produits alcalins
@@ -60,7 +61,7 @@ shortDescription: Bicarbonate de sodium (bicarbonate de soude) de haute pureté 
   l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications
   alimentaires, animales, pharmaceutiques et industrielles. Fabricant de confiance
   avec des prix compétitifs.
-slug: bicarbonate-de-sodium
+slug: sodium-bicarbonate
 specs:
 - label: Formule chimique
   value: NaHCO₃

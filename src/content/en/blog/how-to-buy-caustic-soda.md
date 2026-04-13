@@ -1,7 +1,8 @@
 ---
+
 Id: SP-lxyphurb93
 rootnotouch: how-to-buy-caustic-soda
-slug: how-to-buy-caustic-soda-the-complete-b2b-sourcing-guide
+slug: how-to-buy-caustic-soda
 Excerpt: >-
   A comprehensive B2B guide on how to buy caustic soda (sodium hydroxide),
   covering needs assessment, supplier evaluation, price negotiation, quality

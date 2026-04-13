@@ -1,7 +1,8 @@
 ---
+
 Id: SP-92awep831l-es
 rootnotouch: caustic-soda-applications
-slug: aplicaciones-de-la-soda-caustica
+slug: aplicaciones-soda-caustica
 title: 'Aplicaciones de la Soda Cáustica: Guía Industrial Completa para Compradores B2B'
 description: Explore los diversos usos industriales de la soda cáustica (hidróxido de sodio) en el tratamiento de agua, baterías de litio, textiles y más.
 image: /images/blog/caustic-soda-applications.webp

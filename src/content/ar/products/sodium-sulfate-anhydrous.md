@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-sulfate-anhydrous
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: الكبريتات
@@ -44,7 +45,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: كبريتات الصوديوم اللامائية (Na2SO4) عالية النقاء للشراء بالجملة
   والتصدير من الصين. ضرورية للمنظفات والمنسوجات وتوريد الزجاج. مورد موثوق بأسعار تنافسية.
-slug: كبريتات-الصوديوم-اللامائية
+slug: sodium-sulfate-anhydrous
 specs:
 - label: الصيغة الكيميائية
   value: Na₂SO₄

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-sulfate-anhydrous
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: Sulfatos
@@ -54,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfato de Sodio Anhidro (Na2SO4) de alta pureza para compra a granel
   y exportación desde China. Esencial para suministro de detergentes, textiles y vidrio.
   Proveedor confiable con precios competitivos.
-slug: sulfato-de-sodio-anhidro
+slug: sodium-sulfate-anhydrous
 specs:
 - label: Fórmula química
   value: Na₂SO₄

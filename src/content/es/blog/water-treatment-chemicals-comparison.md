@@ -1,7 +1,8 @@
 ---
+
 Id: SP-vd1yjlknxe
 rootnotouch: comparacion-quimicos-para-tratamiento-de-agua
-slug: comparacion-de-quimicos-para-el
+slug: comparacion-quimicos-para-tratamiento-de-agua
 Excerpt: Comparación de los coagulantes para tratamiento de agua más populares, incluyendo
   Cloruro de Polialuminio (PAC), Sulfato de Aluminio y Cloruro Férrico para encontrar
   la mejor solución para sus necesidades de tratamiento de agua.

@@ -1,7 +1,8 @@
 ---
+
 Id: SP-vi1ts8lt51
 rootnotouch: how-to-dissolve-oxalic-acid
-slug: kak-pravilno-rastvoryat-shchavelevuyu-kislotu
+slug: how-to-dissolve-oxalic-acid
 Excerpt: Узнайте правильный и безопасный метод растворения щавелевой кислоты для различных
   промышленных и бытовых применений. Это руководство охватывает основные меры безопасности,
   необходимые материалы, пошаговые инструкции и советы экспертов для достижения оптимальных

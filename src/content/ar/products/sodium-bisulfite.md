@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-bisulfite
 image: /images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp
 category: مركبات الكبريت
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: بايسلفيت الصوديوم (NaHSO3) عالي النقاء للشراء بالجملة والتصدير من
   الصين. ضروري لمعالجة المياه، وحفظ الأغذية، ومعالجة المنسوجات. مورد موثوق بأسعار
   تنافسية.
-slug: بيسلفيت-الصوديوم
+slug: sodium-bisulfite
 specs:
 - label: الصيغة الكيميائية
   value: NaHSO₃

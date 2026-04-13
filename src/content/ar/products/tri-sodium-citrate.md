@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: tri-sodium-citrate
 image: /images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp
 category: السترات
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: سترات ثلاثي الصوديوم (TSC) عالية النقاء للشراء بالجملة والتصدير
   من الصين. ضرورية للمضافات الغذائية والأدوية وتطبيقات المنظفات. مورد موثوق بأسعار
   تنافسية.
-slug: سترات-الصوديوم
+slug: tri-sodium-citrate
 specs:
 - label: الصيغة الكيميائية
   value: Na₃C₆H₅O₇·2H₂O

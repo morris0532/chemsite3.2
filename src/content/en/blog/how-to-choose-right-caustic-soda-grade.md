@@ -1,7 +1,8 @@
 ---
+
 Id: SP-tm1shrwqsr
 rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: how-to-choose-the-right-caustic-soda-grade-for-your-industry
+slug: how-to-choose-right-caustic-soda-grade
 Excerpt: >-
   Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the
   right Sodium Hydroxide grade for textiles, soap, and water treatment with our
@@ -56,8 +57,6 @@ Pearls (also known as beads) are produced through a prilling process, resulting 
 | **Storage Life** | Good (Hygroscopic) | Excellent (Less caking) |
 
 ---
-
-
 
 ## 2. Industry-Specific Selection Guide
 

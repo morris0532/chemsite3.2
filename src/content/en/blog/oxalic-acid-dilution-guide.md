@@ -1,7 +1,8 @@
 ---
+
 Id: SP-0k2yz1qfw7
 rootnotouch: oxalic-acid-dilution-guide
-slug: how-to-safely-dilute-oxalic-acid
+slug: oxalic-acid-dilution-guide
 Excerpt: >-
   A comprehensive guide on safely diluting oxalic acid, including essential
   safety precautions, step-by-step dilution procedures, and concentration

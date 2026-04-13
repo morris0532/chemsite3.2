@@ -1,7 +1,8 @@
 ---
+
 Id: SP-f8qggrpdac
 rootnotouch: caustic-soda-mining-mineral-processing
-slug: caustic-soda-in-mining
+slug: caustic-soda-mining-mineral-processing
 Excerpt: Explore the vital role of caustic soda (sodium hydroxide) in the mining and
   mineral processing industry, from ore extraction and flotation to pH control and
   wastewater treatment.

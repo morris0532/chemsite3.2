@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-bicarbonate
 image: /images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp
 category: Productos Alcalinos
@@ -55,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Bicarbonato de Sodio de alta pureza para compra a granel y exportación
   desde China. Esencial para aplicaciones en alimentos, piensos, farmacéutica e industria.
   Proveedor confiable con precios competitivos.
-slug: bicarbonato-de-sodio
+slug: sodium-bicarbonate
 specs:
 - label: Fórmula Química
   value: NaHCO₃

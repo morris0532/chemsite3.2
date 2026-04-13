@@ -1,7 +1,8 @@
 ---
+
 Id: SP-qqruw4dqbw
 rootnotouch: oxalic-acid-industrial-applications
-slug: shchavelevaya-kislota-promyshlennoe-primenenie-i
+slug: oxalic-acid-industrial-applications
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
   ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
   и обращения.

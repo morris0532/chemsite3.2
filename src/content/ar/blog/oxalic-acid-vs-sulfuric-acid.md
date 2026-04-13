@@ -1,7 +1,8 @@
 ---
+
 Id: SP-jxf4ybn2fv
 rootnotouch: oxalic-acid-vs-sulfuric-acid
-slug: حمض-الأكساليك-مقابل-حمض-الكبريتيك
+slug: oxalic-acid-vs-sulfuric-acid
 Excerpt: مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات التنظيف
   والأنودة.
 title: حمض الأكساليك مقابل حمض الكبريتيك في التنظيف الصناعي

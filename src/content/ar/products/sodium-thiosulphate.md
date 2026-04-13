@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-thiosulphate
 image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 category: مركبات الكبريت
@@ -47,7 +48,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: ثيوسلفات الصوديوم (Na2S2O3) عالية النقاء للشراء بالجملة والتصدير
   من الصين. ضرورية لمعالجة المياه، والتصوير الفوتوغرافي، والتطبيقات الطبية. مورد موثوق
   بأسعار تنافسية.
-slug: ثيوسلفات-الصوديوم
+slug: sodium-thiosulphate
 specs:
 - label: الصيغة الكيميائية
   value: Na₂S₂O₃·5H₂O

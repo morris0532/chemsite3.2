@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-tripolyphosphate
 image: /images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp
 category: الفوسفات
@@ -45,7 +46,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: ثلاثي بولي فوسفات الصوديوم (STPP) عالي النقاء للشراء بالجملة والتصدير
   من الصين. ضروري للمنظفات والمضافات الغذائية والتطبيقات الصناعية. مورد موثوق بأسعار
   تنافسية.
-slug: تريبوليفوسفات-الصوديوم
+slug: sodium-tripolyphosphate
 specs:
 - label: الصيغة الكيميائية
   value: Na₅P₃O₁₀

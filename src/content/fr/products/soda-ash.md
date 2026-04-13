@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: soda-ash
 image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
 category: Produits alcalins
@@ -40,7 +41,7 @@ shortDescription: Carbonate de sodium (soude) léger et dense de haute qualité 
   l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication
   du verre, des détergents et des produits chimiques. Fournisseur de confiance avec
   des prix compétitifs.
-slug: carbonate-de-sodium
+slug: soda-ash
 specs:
 - label: Formule chimique
   value: Na₂CO₃

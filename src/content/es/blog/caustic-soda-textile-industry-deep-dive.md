@@ -1,7 +1,8 @@
 ---
+
 Id: SP-lbwtwkegcz
 rootnotouch: caustic-soda-textile-industry-deep-dive
-slug: caustic-soda-in-the-textile
+slug: caustic-soda-textile-industry-deep-dive
 Excerpt: Explore the critical applications of caustic soda (sodium hydroxide) in the
   textile industry, focusing on mercerization, dyeing, scouring, and other finishing
   processes that enhance fabric quality and performance.

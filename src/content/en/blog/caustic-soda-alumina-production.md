@@ -1,8 +1,8 @@
 ---
+
 Id: SP-21zzlpf2x4
 rootnotouch: caustic-soda-alumina-production
-slug: 
-Excerpt: >-
+slug: caustic-soda-alumina-production
   Understand the critical role of caustic soda (sodium hydroxide) in the Bayer
   process for alumina production, from bauxite digestion to red mud management,
   and its impact on the aluminum industry.

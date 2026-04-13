@@ -1,7 +1,8 @@
 ---
+
 Id: SP-1y2cpbu0j8
 rootnotouch: oxalic-acid-vs-sulfuric-acid
-slug: shchavelevaya-kislota-protiv-sernoy-kisloty
+slug: oxalic-acid-vs-sulfuric-acid
 Excerpt: Изучите фундаментальные различия между щавелевой кислотой и серной кислотой,
   двумя промышленно значимыми химическими веществами. Эта статья сравнивает их химические
   свойства, разнообразные области применения, профили безопасности и экологические

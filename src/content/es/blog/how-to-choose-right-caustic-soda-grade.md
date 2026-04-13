@@ -1,7 +1,8 @@
 ---
+
 Id: SP-b1gzmyk1ig
 rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: como-elegir-el-grado-correcto
+slug: how-to-choose-right-caustic-soda-grade
 Excerpt: Compare Escamas vs. Perlas de Sosa Cáustica (99% Pureza). Aprenda a elegir
   el grado correcto de Hidróxido de Sodio para textiles, jabones y tratamiento de
   agua.
@@ -53,6 +54,7 @@ Las perlas (también conocidas como cuentas) se producen mediante un proceso de 
 | **Vida Útil** | Buena (Higroscópica) | Excelente (Menos apelmazamiento) |
 
 ---
+
 ## 2. Guía de Selección Específica por Industria
 
 Elegir el grado correcto depende en gran medida de los requisitos técnicos y los estándares de seguridad de su industria.

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sulfamic-acid
 image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
 category: Ácidos
@@ -52,7 +53,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido Sulfámico de alta pureza (H3NSO3) para compra al por mayor
   y exportación desde China. Esencial para limpieza, galvanoplastia y aplicaciones
   textiles. Proveedor confiable con precios competitivos.
-slug: acido-sulfamico
+slug: sulfamic-acid
 specs:
 - label: Fórmula química
   value: H₃NSO₃

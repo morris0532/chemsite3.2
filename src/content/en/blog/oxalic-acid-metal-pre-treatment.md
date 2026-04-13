@@ -1,8 +1,8 @@
 ---
+
 Id: SP-8ym0nm4unq
 rootnotouch: oxalic-acid-metal-pre-treatment
-slug: 
-Excerpt: >-
+slug: oxalic-acid-metal-pre-treatment
   Explore the crucial role of oxalic acid in metal surface pre-treatment, from
   cleaning and degreasing to passivation, enhancing adhesion for coatings and
   improving corrosion resistance.

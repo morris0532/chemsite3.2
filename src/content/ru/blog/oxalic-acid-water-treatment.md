@@ -1,7 +1,8 @@
 ---
+
 Id: SP-yxr2e46y9c
 rootnotouch: oxalic-acid-water-treatment
-slug: shchavelevaya-kislota-dlya-ochistki-vody
+slug: oxalic-acid-water-treatment
 Excerpt: Узнайте, как щавелевая кислота эффективно удаляет железо и марганец из воды,
   ее химический механизм, методы применения, преимущества и соображения безопасности
   для промышленной и муниципальной очистки воды.

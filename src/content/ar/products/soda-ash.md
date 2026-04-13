@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: soda-ash
 image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
 category: المنتجات القلوية
@@ -35,7 +36,7 @@ ports: ليانيونغانغ / تشينغداو
 shortDescription: رماد الصودا (كربونات الصوديوم) الخفيف والكثيف عالي الجودة للشراء
   بالجملة والتصدير من الصين. ضروري لتوريد الزجاج والمنظفات والمواد الكيميائية. مورد
   موثوق بأسعار تنافسية.
-slug: رماد-الصودا
+slug: soda-ash
 specs:
 - label: الصيغة الكيميائية
   value: Na₂CO₃

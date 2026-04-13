@@ -1,7 +1,8 @@
 ---
+
 Id: SP-y07p703tot
 rootnotouch: oxalic-acid-uses
-slug: 15-osnovnykh-promyshlennykh-primeneniy-shchavelevoy
+slug: oxalic-acid-uses
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
   ржавчины и отбеливания древесины до извлечения редкоземельных элементов и фармацевтического
   синтеза. Откройте для себя ее универсальность в различных секторах.

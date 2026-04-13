@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: trisodium-phosphate
 image: /images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp
 category: Fosfatos
@@ -54,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Fosfato Trisódico (TSP) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para limpieza, aditivo alimentario y tratamiento
   de aguas. Proveedor confiable con precios competitivos.
-slug: fosfato-trisodico
+slug: trisodium-phosphate
 specs:
 - label: Fórmula Química
   value: Na₃PO₄

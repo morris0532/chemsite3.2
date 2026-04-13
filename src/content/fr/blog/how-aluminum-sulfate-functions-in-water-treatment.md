@@ -1,7 +1,8 @@
 ---
+
 Id: SP-00v89vrkka
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
-slug: comment-le-sulfate-d-aluminium-fonctionne
+slug: how-aluminum-sulfate-functions-in-water-treatment
 Excerpt: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
   l'eau, de l'eau potable au traitement des eaux usées industrielles.
 title: Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau

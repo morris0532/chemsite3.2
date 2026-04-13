@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-acetate-anhydrous
 image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 category: الأملاح العضوية
@@ -45,7 +46,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: خلات الصوديوم اللامائية (CH3COONa) عالية النقاء للشراء بالجملة والتصدير
   من الصين. ضرورية لتطبيقات المنسوجات والأدوية والأغذية. مورد موثوق بأسعار تنافسية.
-slug: أسيتات-الصوديوم-اللامائية
+slug: sodium-acetate-anhydrous
 specs:
 - label: الصيغة الكيميائية
   value: CH₃COONa

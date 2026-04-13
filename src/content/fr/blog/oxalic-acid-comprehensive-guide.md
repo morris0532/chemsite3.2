@@ -1,7 +1,8 @@
 ---
+
 Id: SP-m0pe79vqo9
 rootnotouch: oxalic-acid-comprehensive-guide
-slug: acide-oxalique-guide-complet
+slug: oxalic-acid-comprehensive-guide
 Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, ses
   processus de production, la gestion de la sécurité, les stratégies environnementales
   et les perspectives du marché.

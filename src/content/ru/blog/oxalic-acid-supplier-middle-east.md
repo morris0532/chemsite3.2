@@ -1,7 +1,8 @@
 ---
+
 Id: SP-evn6ipk8eo
 rootnotouch: oxalic-acid-supplier-middle-east
-slug: postavshchik-shchavelevoy-kisloty-dlya-rynka
+slug: oxalic-acid-supplier-middle-east
 Excerpt: Ближний Восток — динамичный рынок щавелевой кислоты, движимый такими отраслями,
   как уход за камнем, нефть и газ, а также текстиль. SinoPeakChem — ваш надежный партнер,
   предлагающий высококачественную щавелевую кислоту с эффективной логистикой и поддержкой

@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: citric-acid-monohydrate
 image: /images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp
 category: الأحماض العضوية
@@ -46,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: حمض الستريك أحادي الهيدرات عالي النقاء للشراء بالجملة والتصدير من
   الصين. ضروري للأغذية والمشروبات، والأدوية، والتطبيقات الصناعية. مورد موثوق بأسعار
   تنافسية.
-slug: حمض-الستريك-أحادي-الهيدرات
+slug: citric-acid-monohydrate
 specs:
 - label: الصيغة الكيميائية
   value: C₆H₈O₇·H₂O

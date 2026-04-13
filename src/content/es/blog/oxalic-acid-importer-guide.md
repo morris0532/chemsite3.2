@@ -1,7 +1,8 @@
 ---
+
 Id: SP-ieg3mz9bm2
 rootnotouch: oxalic-acid-importer-guide
-slug: guia-para-el-importador-primerizo
+slug: oxalic-acid-importer-guide
 Excerpt: Navegar por las complejidades del comercio internacional puede ser desalentador,
   especialmente para compuestos químicos como el ácido oxálico. Esta guía completa
   proporciona a los importadores primerizos información esencial sobre regulaciones,

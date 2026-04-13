@@ -1,7 +1,8 @@
 ---
+
 Id: SP-3cm2h0zm8u
 rootnotouch: oxalic-acid-dosage-calculation
-slug: oxalic-acid-dosage-calculation-a-comprehensive-guide
+slug: oxalic-acid-dosage-calculation
 Excerpt: >-
   Master the art of oxalic acid dosage calculation for various industrial and
   domestic applications. This guide covers essential formulas, practical

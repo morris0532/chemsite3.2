@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: citric-acid-monohydrate
 image: /images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp
 category: Acides organiques
@@ -60,7 +61,7 @@ shortDescription: Acide citrique monohydraté de haute pureté pour l'achat en g
   et l'exportation depuis la Chine. Essentiel pour les applications alimentaires,
   les boissons, pharmaceutiques et industrielles. Fabricant de confiance avec des
   prix compétitifs.
-slug: acide-citrique-monohydrate
+slug: citric-acid-monohydrate
 specs:
 - label: Formule chimique
   value: C₆H₈O₇·H₂O

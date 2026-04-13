@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-acetate-anhydrous
 image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 category: Sels organiques
@@ -59,7 +60,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acétate de sodium anhydre (CH3COONa) de haute pureté pour l'achat
   en gros et l'exportation depuis la Chine. Essentiel pour les applications textiles,
   pharmaceutiques et alimentaires. Fabricant de confiance avec des prix compétitifs.
-slug: acetate-de-sodium-anhydre
+slug: sodium-acetate-anhydrous
 specs:
 - label: Formule chimique
   value: CH₃COONa

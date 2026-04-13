@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: sodium-metabisulphite
 image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
 category: مركبات الكبريت
@@ -44,7 +45,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: 焦亚硫酸钠 (SMBS) عالي النقاء للشراء بالجملة والتصدير من الصين. ضروري
   لمعالجة المياه، وحفظ الأغذية، وتطبيقات التعدين. مورد موثوق بأسعار تنافسية.
-slug: ميتابيسلفيت-الصوديوم
+slug: sodium-metabisulphite
 specs:
 - label: الصيغة الكيميائية
   value: Na₂S₂O₅

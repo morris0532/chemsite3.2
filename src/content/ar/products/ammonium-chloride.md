@@ -1,4 +1,5 @@
 ---
+
 rootnotouch: ammonium-chloride
 image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
 category: مركبات الكلوريد
@@ -46,7 +47,7 @@ packaging: 25 كجم/أكياس جامبو
 ports: تشينغداو / تيانجين / داليان
 shortDescription: كلوريد الأمونيوم عالي الجودة (NH4Cl) للشراء بالجملة والتصدير من
   الصين. ضروري للأسمدة، وإضافات الأعلاف، والتطبيقات الصناعية. مورد موثوق بأسعار تنافسية.
-slug: كلوريد-الأمونيوم
+slug: ammonium-chloride
 specs:
 - label: الصيغة الكيميائية
   value: NH₄Cl
