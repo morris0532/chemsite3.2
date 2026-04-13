@@ -1,7 +1,7 @@
 ---
 Id: SP-3fngo1cu0g
 rootnotouch: izalat-as-sada-bihamd-al-oxalic-al-sinaia
-Slug: 
+Slug: izalat-as-sada-bihamd-al-oxalic-al-sinaia
 Excerpt: تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
   الحديد من الخشب، مع نصائح حول التركيز والسلامة وأفضل الممارسات.
 title: 'كيفية استخدام حمض الأكساليك لإزالة الصدأ: دليل خطوة بخطوة'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## قوة حمض الأكساليك في إزالة الصدأ
 
 يعد حمض الأكساليك (H₂C₂O₄) أحد أكثر المواد الكيميائية فعالية وتعدداً في الاستخدام لإزالة الصدأ (أكسيد الحديد) من الأسطح المعدنية وبقع التانين/الحديد من الخشب. على عكس الأحماض القوية جداً، فإن حمض الأكساليك لطيف بما يكفي للعديد من التطبيقات مع كونه قوياً بما يكفي لإذابة الصدأ العنيد.

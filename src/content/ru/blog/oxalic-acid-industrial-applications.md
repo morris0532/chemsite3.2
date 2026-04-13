@@ -1,7 +1,7 @@
 ---
 Id: SP-qqruw4dqbw
 rootnotouch: oxalic-acid-industrial-applications
-Slug: 
+Slug: oxalic-acid-industrial-applications
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
   ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
   и обращения.
@@ -18,9 +18,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: CIS & Russia (RU)
----
-
+Target_Region: CIS & Russia (RU)---
 ## Что такое щавелевая кислота?
 Щавелевая кислота (C₂H₂O₄) — простейшая дикарбоновая кислота и одна из сильнейших органических кислот. Она встречается в природе во многих растениях и производится в промышленных масштабах для многочисленных применений.
 ## Ключевые промышленные применения

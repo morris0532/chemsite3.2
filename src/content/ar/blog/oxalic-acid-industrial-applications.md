@@ -1,7 +1,7 @@
 ---
 Id: SP-ymhifh1bi1
 rootnotouch: oxalic-acid-industrial-applications
-Slug: 
+Slug: oxalic-acid-industrial-applications
 Excerpt: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
   العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
 title: 'حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## ما هو حمض الأكساليك؟
 حمض الأكساليك (C₂H₂O₄) هو أبسط حمض ثنائي الكربوكسيل وأحد أقوى الأحماض العضوية. بصفتها [مورداً رائعاً لحمض الأكساليك عالي النقاء](https://www.sinopeakchem.com/ar/products/oxalic-acid)، تضمن Sinopeakchem أن تلبي هذه المادة الكيميائية متعددة الاستخدامات المتطلبات الصارمة للمشترين الصناعيين العالميين. يوجد بشكل طبيعي في العديد من النباتات ويتم توفيره صناعياً للعديد من التطبيقات.
 

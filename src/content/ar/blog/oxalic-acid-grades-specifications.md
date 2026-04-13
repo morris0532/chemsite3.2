@@ -1,7 +1,7 @@
 ---
 Id: SP-ud0fvvjtji
 rootnotouch: oxalic-acid-grades-specifications
-Slug: 
+Slug: oxalic-acid-grades-specifications
 Excerpt: تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة الصيدلانية،
   وافهم مواصفاتها الفنية وتطبيقاتها ومعايير الصناعة.
 title: 'درجات ومواصفات حمض الأكساليك: دليل شامل'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## درجات ومواصفات حمض الأكساليك: دليل شامل
 
 يعد حمض الأكساليك (H₂C₂O₄) مادة كيميائية متعددة الاستخدامات، ولكن ليست كل أشكاله متساوية. اعتماداً على التطبيق المقصود، يتوفر حمض الأكساليك في درجات مختلفة، كل منها بمواصفات ومستويات نقاء محددة. يعد فهم هذه الدرجات أمراً حيوياً لاختيار المنتج المناسب لاحتياجاتك الصناعية أو المختبرية.

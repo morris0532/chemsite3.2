@@ -1,7 +1,7 @@
 ---
 Id: SP-6inmj53kx8
 rootnotouch: oxalic-acid-textile-dyeing
-Slug: 
+Slug: oxalic-acid-textile-dyeing
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة المنسوجات كمساعد للصباغة، وعامل
   اختزال، ومزيل لبقع الصدأ لتعزيز جودة الأقمشة.
 title: 'حمض الأكساليك في صباغة وطباعة المنسوجات: دليل شامل'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## حمض الأكساليك في صناعة المنسوجات
 
 يعد حمض الأكساليك (H₂C₂O₄) مادة كيميائية أساسية في قطاع المنسوجات، حيث يعمل كمساعد للصباغة، وعامل اختزال، ومنظف فعال. تساهم خصائصه الكيميائية الفريدة في إنتاج أقمشة نابضة بالحياة وخالية من العيوب.

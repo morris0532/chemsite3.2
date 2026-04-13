@@ -1,7 +1,7 @@
 ---
 Id: SP-1mt3ziiooq
 rootnotouch: oxalic-acid-vs-tartaric-acid
-Slug: 
+Slug: oxalic-acid-vs-tartaric-acid
 Excerpt: مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن.
 title: 'حمض الأكساليك مقابل حمض الطرطريك: تطبيقات كيميائية متخصصة'
 description: مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن.
@@ -14,9 +14,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## مقارنة الأحماض العضوية المتخصصة
 يُستخدم كل من حمض الأكساليك وحمض الطرطريك في صناعات مماثلة ولكن لأغراض مختلفة.
 

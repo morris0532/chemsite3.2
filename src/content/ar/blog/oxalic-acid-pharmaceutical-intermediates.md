@@ -1,7 +1,7 @@
 ---
 Id: SP-16mvj6wej5
 rootnotouch: oxalic-acid-pharmaceutical-intermediates
-Slug: 
+Slug: oxalic-acid-pharmaceutical-intermediates
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية
   الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.
 title: 'حمض الأكساليك في صناعة الأدوية: الوسطيات الصيدلانية والتوليف'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## حمض الأكساليك: كاشف حيوي في تصنيع الأدوية
 
 يلعب حمض الأكساليك (H₂C₂O₄) دوراً حاسماً ومتعدد الأوجه في صناعة الأدوية. تجعله خصائصه الكيميائية الفريدة - كونه أبسط حمض ثنائي الكربوكسيل وقوته الحمضية العالية نسبياً - أداة لا غنى عنها في توليف وتنقية مجموعة واسعة من المركبات الصيدلانية والوسطيات.
