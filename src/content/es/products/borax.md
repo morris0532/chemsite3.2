@@ -27,7 +27,7 @@ packaging: Bolsas de 25KG/50KG
 ports: Dalian
 shortDescription: Bórax industrial para suministro de vidrio, cerámica, detergentes
   y aplicaciones metalúrgicas.
-slug: b-rax-industrial
+Slug: b-rax-industrial
 specs:
 - label: Fórmula química
   value: Na₂B₄O₇·10H₂O
@@ -46,6 +46,7 @@ specs:
 - label: Puertos disponibles
   value: Dalian
 ---
+
 El bórax (Na₂B₄O₇·10H₂O), también conocido como borato de sodio, es una sal inorgánica de alto rendimiento ampliamente reconocida por sus excepcionales capacidades de limpieza, amortiguación y fundente. Es un ingrediente vital en el suministro de agentes limpiadores, productos químicos industriales y diversos otros productos. Nuestro bórax se suministra con altos estándares de pureza y consistencia, garantizando un rendimiento óptimo tanto en aplicaciones industriales como domésticas.
 
 En la **industria de limpieza y detergentes**, el bórax es un "potenciador de limpieza" y "ablandador de agua" primario. Actúa secuestrando iones de calcio y magnesio en aguas duras, evitando que interfieran con la acción de los tensioactivos. Esto asegura que los detergentes puedan funcionar eficazmente incluso en condiciones de agua difíciles, mejorando el poder de limpieza general. También se usa como **agente amortiguador** para controlar el pH de diversas formulaciones de limpieza y como **agente desodorizante** para eliminar olores de distintas superficies.

@@ -55,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Citrato de Trisodio (TSC) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para aplicaciones como aditivo alimentario,
   farmacéutico y detergente. Proveedor confiable con precios competitivos.
-slug: citrato-de-trisodio-tsc-industrial
+Slug: citrato-de-trisodio-tsc-industrial
 specs:
 - label: Fórmula química
   value: Na₃C₆H₅O₇·2H₂O
@@ -75,6 +75,7 @@ specs:
 - label: Puertos disponibles
   value: Qingdao, Tianjin, Dalian (principales puertos de China)
 ---
+
 ## Citrato de Trisodio (CAS 68-04-2): Su proveedor confiable en China y suministrador de TSC de alta pureza
 
 Como proveedor líder en **China** y suministrador de **Citrato de Trisodio (TSC)**, ofrecemos un producto de **alta pureza** con una **pureza ≥99.0%** para **compra al por mayor** y **exportación** mundial. Nuestro Citrato de Trisodio se suministra cumpliendo estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones en aditivos alimentarios, farmacéuticos e industriales (Código HS: 2918150000).

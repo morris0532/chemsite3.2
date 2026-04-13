@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
+
 ## Acide Oxalique dans les Aimants de Terres Rares : Un Composant Critique
 
 Les aimants de terres rares, tels que les aimants Neodymium-Fer-Bore (NdFeB), sont au cœur de nombreuses technologies modernes, des véhicules électriques et éoliennes aux smartphones et dispositifs médicaux. Ces aimants puissants reposent sur les **éléments de terres rares (ETR)**, un groupe de 17 éléments métalliques chimiquement similaires. L'extraction efficace et pure de ces éléments de leurs minerais est un processus complexe, et l'**acide oxalique** joue un rôle critique et souvent indispensable dans cette chaîne d'approvisionnement sophistiquée [1].
@@ -68,7 +69,6 @@ L'acide oxalique est bien plus qu'un simple acide organique ; c'est un réactif 
 **Pour de l'acide oxalique de haute qualité pour le traitement des terres rares et d'autres applications industrielles, [contactez SinoPeakChem pour les spécifications des produits et les commandes en gros →](/fr/contact)**
 
 ---
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !

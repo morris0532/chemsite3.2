@@ -23,6 +23,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
+
 ## Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico
 
 Los imanes de tierras raras, como los imanes de Neodimio-Hierro-Boro (NdFeB), están en el corazón de muchas tecnologías modernas, desde vehículos eléctricos y turbinas eólicas hasta teléfonos inteligentes y dispositivos médicos. Estos potentes imanes dependen de los **elementos de tierras raras (ETR)**, un grupo de 17 elementos metálicos químicamente similares. La extracción eficiente y pura de estos elementos de sus menas es un proceso complejo, y el **ácido oxálico** desempeña un papel crítico y a menudo indispensable en esta sofisticada cadena de suministro [1].
@@ -67,7 +68,6 @@ El ácido oxálico es mucho más que un ácido orgánico simple; es un reactivo 
 **Para ácido oxálico de alta calidad para procesamiento de tierras raras y otras aplicaciones industriales, [contacte a SinoPeakChem para especificaciones de producto y pedidos al por mayor →](/en/contact)**
 
 ---
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!

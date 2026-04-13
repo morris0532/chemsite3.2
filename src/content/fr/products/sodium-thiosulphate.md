@@ -60,7 +60,7 @@ shortDescription: Thiosulfate de sodium (Na2S2O3) de haute pureté pour l'achat 
   gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la
   photographie et les applications médicales. Fabricant de confiance avec des prix
   compétitifs.
-slug: thiosulfate-de-sodium-hypo-industrial
+Slug: thiosulfate-de-sodium-hypo-industrial
 specs:
 - label: Formule chimique
   value: Na₂S₂O₃·5H₂O
@@ -80,6 +80,7 @@ specs:
 - label: Ports disponibles
   value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
+
 ## Thiosulfate de sodium (CAS 7772-98-7 / 10102-17-7) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂S₂O₃ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **thiosulfate de sodium (Na₂S₂O₃)**, communément appelé **Hypo**, nous proposons un produit de **haute pureté** avec une **pureté ≥99%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre thiosulfate de sodium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de traitement de l'eau, de photographie et médicales (Code SH : 2832300000).

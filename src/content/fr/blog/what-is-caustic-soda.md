@@ -19,6 +19,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
+
 Caustic soda, chemically known as sodium hydroxide (NaOH), stands as one of the most critical industrial chemicals in the world. From water treatment facilities to lithium battery manufacturing, caustic soda plays an indispensable role in modern industry. This comprehensive guide explores everything you need to know about caustic soda—its properties, applications, grades, and how to source it effectively for your business.
 
 ## What Is Caustic Soda? Chemical Definition & Basic Properties

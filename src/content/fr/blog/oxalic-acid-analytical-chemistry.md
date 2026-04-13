@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
+
 ## Acide Oxalique en Chimie Analytique de Laboratoire : Réactif Essentiel
 
 Dans le domaine de la chimie analytique, la précision et l'exactitude sont primordiales. L'**acide oxalique** (H₂C₂O₄) se distingue comme un réactif polyvalent et indispensable, largement employé dans diverses analyses quantitatives et qualitatives. Ses propriétés chimiques bien définies, en particulier sa capacité à agir comme étalon primaire et agent réducteur, en font une pierre angulaire de nombreuses procédures de laboratoire [1].
@@ -78,7 +79,6 @@ L'acide oxalique reste une pierre angulaire dans les laboratoires de chimie anal
 **Pour de l'acide oxalique de haute pureté pour vos besoins en chimie analytique, [contactez SinoPeakChem pour les spécifications des produits et les commandes en gros →](/fr/contact)**
 
 ---
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innovez avec SinoPeakChem : Votre partenaire pour des solutions durables en acide oxalique !

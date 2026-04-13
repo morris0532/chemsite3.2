@@ -54,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfato de Sodio Anhidro (Na2SO4) de alta pureza para compra a granel
   y exportación desde China. Esencial para suministro de detergentes, textiles y vidrio.
   Proveedor confiable con precios competitivos.
-slug: sulfato-de-sodio-anhidro-ssa-industrial
+Slug: sulfato-de-sodio-anhidro-ssa-industrial
 specs:
 - label: Fórmula química
   value: Na₂SO₄
@@ -74,6 +74,7 @@ specs:
 - label: Puertos Disponibles
   value: Qingdao, Tianjin, Dalian (Principales puertos de China)
 ---
+
 ## Sulfato de Sodio Anhidro (CAS 7757-82-6): Su proveedor confiable en China de Na₂SO₄ de alta pureza
 
 Como un proveedor premier en **China** de **Sulfato de Sodio Anhidro (Na₂SO₄)**, ofrecemos un producto de **alta pureza** con **≥99% de pureza** para **compra a granel** y **exportación** a nivel mundial. Nuestro Sulfato de Sodio Anhidro cumple con estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones en suministro de detergentes, textiles y vidrio (Código SA: 2833110000).

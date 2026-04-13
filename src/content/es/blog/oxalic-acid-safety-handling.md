@@ -23,6 +23,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
+
 ## Seguridad y Manejo del Ácido Oxálico: Una Guía Completa
 
 El ácido oxálico es un compuesto orgánico versátil, ampliamente utilizado en diversas industrias, desde la eliminación de óxido y el blanqueo de madera hasta el procesamiento textil y la extracción de tierras raras. Aunque es altamente efectivo, también es una sustancia corrosiva que requiere un manejo cuidadoso para prevenir accidentes y garantizar un entorno de trabajo seguro. Esta guía completa proporciona información esencial sobre las propiedades del ácido oxálico, sus riesgos potenciales, el equipo de protección personal (EPP) necesario, el almacenamiento adecuado, las medidas de primeros auxilios y la eliminación segura de residuos.
@@ -81,7 +82,6 @@ El ácido oxálico es un químico valioso con numerosas aplicaciones, pero su us
 **Asegure la seguridad en sus operaciones con ácido oxálico de alta calidad y orientación experta. [Contáctenos para hojas de datos de seguridad y soporte →](/en/contact)**
 
 ---
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!

@@ -58,7 +58,7 @@ shortDescription: Tripolyphosphate de sodium (STPP) de haute pureté pour l'acha
   gros et l'exportation depuis la Chine. Essentiel pour les détergents, les additifs
   alimentaires et les applications industrielles. Fabricant de confiance avec des
   prix compétitifs.
-slug: tripolyphosphate-de-sodium-stpp-industrial
+Slug: tripolyphosphate-de-sodium-stpp-industrial
 specs:
 - label: Formule chimique
   value: Na₅P₃O₁₀
@@ -78,6 +78,7 @@ specs:
 - label: Ports disponibles
   value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
+
 ## Tripolyphosphate de sodium (CAS 7758-29-4) : Votre fabricant et fournisseur de confiance en Chine pour le STPP de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **tripolyphosphate de sodium (STPP)**, nous proposons un produit de **haute pureté** avec une **teneur en P₂O₅ ≥57%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre STPP est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de détergents, alimentaires et industrielles (Code SH : 2835319000).

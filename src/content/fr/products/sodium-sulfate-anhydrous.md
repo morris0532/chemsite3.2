@@ -58,7 +58,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfate de sodium anhydre (Na2SO4) de haute pureté pour l'achat
   en gros et l'exportation depuis la Chine. Essentiel pour la fabrication de détergents,
   de textiles et de verre. Fabricant de confiance avec des prix compétitifs.
-slug: sulfate-de-sodium-anhydre-ssa-industrial
+Slug: sulfate-de-sodium-anhydre-ssa-industrial
 specs:
 - label: Formule chimique
   value: Na₂SO₄
@@ -78,6 +78,7 @@ specs:
 - label: Ports disponibles
   value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
+
 ## Sulfate de sodium anhydre (CAS 7757-82-6) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂SO₄ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfate de sodium anhydre (Na₂SO₄)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre sulfate de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de fabrication de détergents, de textiles et de verre (Code SH : 2833110000).

@@ -56,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et
   l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie et
   les applications textiles. Fabricant de confiance avec des prix compétitifs.
-slug: acide-sulfamique-industrial
+Slug: acide-sulfamique-industrial
 specs:
 - label: Formule chimique
   value: H₃NSO₃
@@ -76,6 +76,7 @@ specs:
 - label: Ports disponibles
   value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
+
 ## Acide sulfamique (CAS 5329-14-6) : Votre fabricant et fournisseur de confiance en Chine pour le H₃NSO₃ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide sulfamique (H₃NSO₃)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,5%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide sulfamique est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de nettoyage, de galvanoplastie et industrielles (Code SH : 2811199090).

@@ -20,6 +20,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
+
 ## ¿Qué es el Ácido Oxálico?
 El ácido oxálico (C₂H₂O₄) es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más fuertes. Como un [proveedor líder de ácido oxálico de alta pureza](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem garantiza que este químico versátil cumpla con los estrictos requisitos de los compradores industriales globales. Se encuentra de forma natural en muchas plantas y se suministra industrialmente para numerosas aplicaciones.
 

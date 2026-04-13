@@ -59,7 +59,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acide citrique anhydre de haute pureté pour l'achat en gros et l'exportation
   depuis la Chine. Essentiel pour les applications alimentaires, les boissons, pharmaceutiques
   et industrielles. Fabricant de confiance avec des prix compétitifs.
-slug: acide-citrique-anhydre-industrial
+Slug: acide-citrique-anhydre-industrial
 specs:
 - label: Formule chimique
   value: C₆H₈O₇
@@ -79,6 +79,7 @@ specs:
 - label: Ports disponibles
   value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
+
 ## Acide citrique anhydre (CAS 77-92-9) : Votre fabricant et fournisseur de confiance en Chine pour le C₆H₈O₇ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide citrique anhydre (C₆H₈O₇)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,5 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide citrique anhydre est produit par des processus de fermentation avancés, garantissant une qualité constante qui répond aux normes internationales les plus strictes pour les applications alimentaires, pharmaceutiques et industrielles (Code SH : 2918140000).

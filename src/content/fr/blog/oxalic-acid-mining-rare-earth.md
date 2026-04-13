@@ -1,7 +1,7 @@
 ---
 Id: SP-lc5zd4gxlp
 Origin_Slug: oxalic-acid-mining-rare-earth
-Slug: acide-oxalique-dans-l-exploitation-mini-re-extraction-et-purification-des-l-ments-de-terres-rares
+Slug: acide-oxalique-dans-l-exploitation-mini-re-extraction-et-purification-des
 Excerpt: Explorez le rôle critique de l'acide oxalique dans l'industrie minière, en
   particulier dans l'extraction et la purification efficaces des éléments de terres
   rares (ETR). Cet aperçu technique explore ses mécanismes chimiques, ses avantages
@@ -25,6 +25,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
+
 ## Acide Oxalique dans l'Exploitation Minière : Extraction et Purification des Éléments de Terres Rares
 
 La demande mondiale en **éléments de terres rares (ETR)**, composants critiques dans les industries de haute technologie allant de l'électronique à l'énergie renouvelable, a stimulé des avancées significatives dans leurs technologies d'extraction et de purification. Parmi les divers agents chimiques employés, l'**acide oxalique** (H₂C₂O₄) est apparu comme un réactif très efficace et écologiquement avantageux, en particulier dans le traitement hydrométallurgique des ETR. Ses propriétés chélatantes et précipitantes uniques le rendent indispensable pour séparer et affiner ces métaux précieux des corps de minerai complexes.

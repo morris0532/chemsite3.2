@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
+
 ## Ácido Oxálico en la Química Analítica de Laboratorio: Reactivo Esencial
 
 En el ámbito de la química analítica, la precisión y exactitud son primordiales. El **ácido oxálico** (H₂C₂O₄) destaca como un reactivo versátil e indispensable, ampliamente utilizado en diversos análisis cuantitativos y cualitativos. Sus propiedades químicas bien definidas, especialmente su capacidad para actuar como patrón primario y agente reductor, lo convierten en una piedra angular en muchos procedimientos de laboratorio [1].
@@ -78,7 +79,6 @@ El ácido oxálico sigue siendo una piedra angular en los laboratorios de quími
 **Para ácido oxálico de alta pureza para sus necesidades en química analítica, [contacte a SinoPeakChem para especificaciones de productos y pedidos al por mayor →](/en/contact)**
 
 ---
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!

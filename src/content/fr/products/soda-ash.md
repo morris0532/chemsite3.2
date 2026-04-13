@@ -40,7 +40,7 @@ shortDescription: Carbonate de sodium (soude) léger et dense de haute qualité 
   l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication
   du verre, des détergents et des produits chimiques. Fournisseur de confiance avec
   des prix compétitifs.
-slug: carbonate-de-sodium-soude-industrial
+Slug: carbonate-de-sodium-soude-industrial
 specs:
 - label: Formule chimique
   value: Na₂CO₃
@@ -59,6 +59,7 @@ specs:
 - label: Ports disponibles
   value: Lianyungang / Qingdao / Tianjin
 ---
+
 ## Carbonate de sodium (CAS 497-19-8) : Votre premier fournisseur en Chine pour le carbonate de sodium léger et dense
 
 En tant que **fournisseur et fabricant leader en Chine** de **carbonate de sodium (Na₂CO₃)**, également connu sous le nom de **soude**, nous proposons du **carbonate de sodium léger** et du **carbonate de sodium dense** avec une **pureté ≥99,2 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre carbonate de sodium est produit à l'aide de processus avancés, garantissant une qualité constante qui répond aux divers besoins de diverses applications industrielles (Code SH : 2836200000).
