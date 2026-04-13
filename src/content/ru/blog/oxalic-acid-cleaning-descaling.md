@@ -1,6 +1,6 @@
 ---
 Id: SP-uigmrhdikd
-Origin_Slug: oxalic-acid-cleaning-descaling
+rootnotouch: oxalic-acid-cleaning-descaling
 Slug: 
 Excerpt: Изучите универсальные применения щавелевой кислоты в очистке и удалении накипи,
   от удаления стойких пятен в быту до обслуживания промышленного оборудования. Узнайте

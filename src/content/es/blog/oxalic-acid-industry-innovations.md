@@ -1,6 +1,6 @@
 ---
 Id: SP-f86q5p1lic
-Origin_Slug: oxalic-acid-industry-innovations
+rootnotouch: oxalic-acid-industry-innovations
 Slug: innovaciones-en-la-industria-del-cido-ox-lico-impulsando-la-sostenibilidad
 Excerpt: Explore las últimas innovaciones en la industria del ácido oxálico, centrándose
   en los avances en química verde, técnicas de purificación avanzadas e iniciativas

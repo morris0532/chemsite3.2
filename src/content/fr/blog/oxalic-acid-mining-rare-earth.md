@@ -1,6 +1,6 @@
 ---
 Id: SP-lc5zd4gxlp
-Origin_Slug: oxalic-acid-mining-rare-earth
+rootnotouch: oxalic-acid-mining-rare-earth
 Slug: acide-oxalique-dans-l-exploitation-mini-re-extraction-et-purification-des
 Excerpt: Explorez le rôle critique de l'acide oxalique dans l'industrie minière, en
   particulier dans l'extraction et la purification efficaces des éléments de terres

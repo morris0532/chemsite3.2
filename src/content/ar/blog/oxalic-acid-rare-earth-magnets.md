@@ -1,6 +1,6 @@
 ---
 Id: SP-7hiyfxiowe
-Origin_Slug: oxalic-acid-rare-earth-magnets
+rootnotouch: oxalic-acid-rare-earth-magnets
 Slug: 
 Excerpt: تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة
   لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا الخضراء.

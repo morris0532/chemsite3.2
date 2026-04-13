@@ -1,6 +1,6 @@
 ---
 Id: SP-bkyesroatu
-Origin_Slug: oxalic-acid-comprehensive-guide
+rootnotouch: oxalic-acid-comprehensive-guide
 Slug: 
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, процессы
   ее производства, управление безопасностью, экологические стратегии и перспективы

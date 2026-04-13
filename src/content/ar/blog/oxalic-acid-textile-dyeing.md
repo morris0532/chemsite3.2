@@ -1,6 +1,6 @@
 ---
 Id: SP-6inmj53kx8
-Origin_Slug: oxalic-acid-textile-dyeing
+rootnotouch: oxalic-acid-textile-dyeing
 Slug: 
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة المنسوجات كمساعد للصباغة، وعامل
   اختزال، ومزيل لبقع الصدأ لتعزيز جودة الأقمشة.

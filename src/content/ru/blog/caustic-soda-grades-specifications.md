@@ -1,6 +1,6 @@
 ---
 Id: SP-1gndum99zh
-Origin_Slug: caustic-soda-grades-specifications
+rootnotouch: caustic-soda-grades-specifications
 Slug: kausticheskaya-soda-grades-specifications-a-technical-rukovodstvo-for-promyshlennyy-buyers
 Excerpt: A comprehensive technical guide for industrial buyers on caustic soda (sodium
   hydroxide) grades, specifications, purity levels, and testing methods for various

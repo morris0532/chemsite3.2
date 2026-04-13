@@ -1,6 +1,6 @@
 ---
 Id: SP-oeq1r7h79a
-Origin_Slug: water-treatment-chemicals-comparison
+rootnotouch: water-treatment-chemicals-comparison
 Slug: water-treatment-chemicals-comparison
 Excerpt: >-
   Compare the most popular water treatment coagulants including Polyaluminum

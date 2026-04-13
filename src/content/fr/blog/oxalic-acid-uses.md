@@ -1,6 +1,6 @@
 ---
 Id: SP-gmg7vcyfpr
-Origin_Slug: oxalic-acid-uses
+rootnotouch: oxalic-acid-uses
 Slug: les-15-principales-utilisations-industrielles-de-l-acide-oxalique-que-vous
 Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
   l'élimination de la rouille et du blanchiment du bois à l'extraction des terres

@@ -1,6 +1,6 @@
 ---
 Id: SP-h2qjeeorwb
-Origin_Slug: oxalic-acid-beekeeping
+rootnotouch: oxalic-acid-beekeeping
 Slug: acide-oxalique-en-apiculture-utilisations-avantages-et-pr-cautions
 Excerpt: Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
   varroa en apiculture. Découvrez les méthodes d'application, le dosage, le calendrier,

@@ -1,6 +1,6 @@
 ---
 Id: SP-ih63t6rbss
-Origin_Slug: oxalic-acid-metal-pre-treatment
+rootnotouch: oxalic-acid-metal-pre-treatment
 Slug: 
 Excerpt: استكشف كيف يعمل حمض الأكساليك كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل
   في المعالجة المسبقة للمعادن، مما يحسن من التصاق الطلاء ومقاومة التآكل.

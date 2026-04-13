@@ -1,6 +1,6 @@
 ---
 Id: SP-4ml8hwraan
-Origin_Slug: oxalic-acid-supplier-southeast-asia
+rootnotouch: oxalic-acid-supplier-southeast-asia
 Slug: fournisseur-d-acide-oxalique-pour-l-asie-du-sud-est-tha-lande-vietnam
 Excerpt: L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique,
   tiré par des industries comme le textile, la céramique et le caoutchouc. SinoPeakChem

@@ -1,6 +1,6 @@
 ---
 Id: SP-cu2x9leh56
-Origin_Slug: oxalic-acid-metal-pre-treatment
+rootnotouch: oxalic-acid-metal-pre-treatment
 Slug: cido-ox-lico-en-el-pretratamiento-de-superficies-met-licas-mejorando-la
 Excerpt: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
   metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión

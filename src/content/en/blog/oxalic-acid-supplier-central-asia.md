@@ -1,6 +1,6 @@
 ---
 Id: SP-71shxf1jkr
-Origin_Slug: oxalic-acid-supplier-central-asia
+rootnotouch: oxalic-acid-supplier-central-asia
 Slug: oxalic-acid-supplier-central-asia
 Excerpt: >-
   SinoPeakChem is your trusted oxalic acid supplier for the Central Asian

@@ -1,6 +1,6 @@
 ---
 Id: SP-dlo7slr2o2
-Origin_Slug: oxalic-acid-paper-industry
+rootnotouch: oxalic-acid-paper-industry
 Slug: oxalic-acid-paper-industry
 Excerpt: >-
   Discover the multifaceted applications of oxalic acid in the paper industry,

@@ -1,6 +1,6 @@
 ---
 Id: SP-rgx89t1xln
-Origin_Slug: oxalic-acid-cleaning-descaling
+rootnotouch: oxalic-acid-cleaning-descaling
 Slug: acide-oxalique-pour-le-nettoyage-et-le-d-tartrage-usages-domestiques-et
 Excerpt: Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
   et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien

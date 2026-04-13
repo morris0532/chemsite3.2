@@ -1,5 +1,5 @@
 ---
-Origin_Slug: ammonium-chloride
+rootnotouch: ammonium-chloride
 image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
 category: Compuestos de Cloruro
 applications:

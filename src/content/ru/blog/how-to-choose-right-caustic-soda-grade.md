@@ -1,6 +1,6 @@
 ---
 Id: SP-9isk13cgnu
-Origin_Slug: how-to-choose-right-caustic-soda-grade
+rootnotouch: how-to-choose-right-caustic-soda-grade
 Slug: 
 Excerpt: Сравнение чешуированной и гранулированной каустической соды (чистота 99%).
   Узнайте, как выбрать правильный сорт гидроксида натрия для текстиля, мыла и водоочистки.

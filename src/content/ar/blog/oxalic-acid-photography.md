@@ -1,6 +1,6 @@
 ---
 Id: SP-om5dtcbwfq
-Origin_Slug: oxalic-acid-photography
+rootnotouch: oxalic-acid-photography
 Slug: hamd-al-oxalic-in-photography-historical-use-modern-relevance
 Excerpt: Explore the historical role of oxalic acid in photographic processes, from
   early platinum and palladium prints to its modern applications in toning and printmaking.

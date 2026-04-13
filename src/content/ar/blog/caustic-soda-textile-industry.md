@@ -1,6 +1,6 @@
 ---
 Id: SP-mvnyqg5z2m
-Origin_Slug: caustic-soda-textile-industry
+rootnotouch: caustic-soda-textile-industry
 Slug: as-suda-al-kawia-in-the-textile-industry-essential-for-dyeing-mercerizing
 Excerpt: Explore the indispensable role of caustic soda (sodium hydroxide) in textile
   manufacturing, from mercerization and dyeing to scouring and finishing, enhancing

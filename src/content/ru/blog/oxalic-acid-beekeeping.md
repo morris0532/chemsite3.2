@@ -1,6 +1,6 @@
 ---
 Id: SP-3llr97mc39
-Origin_Slug: oxalic-acid-beekeeping
+rootnotouch: oxalic-acid-beekeeping
 Slug: 
 Excerpt: Полное руководство по использованию щавелевой кислоты для борьбы с клещом
   варроа в пчеловодстве. Узнайте о методах применения, дозировке, сроках, эффективности

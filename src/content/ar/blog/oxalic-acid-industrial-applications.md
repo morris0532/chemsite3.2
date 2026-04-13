@@ -1,6 +1,6 @@
 ---
 Id: SP-ymhifh1bi1
-Origin_Slug: oxalic-acid-industrial-applications
+rootnotouch: oxalic-acid-industrial-applications
 Slug: 
 Excerpt: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
   العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.

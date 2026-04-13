@@ -1,6 +1,6 @@
 ---
 Id: SP-52bjyyb22a
-Origin_Slug: oxalic-acid-market-analysis
+rootnotouch: oxalic-acid-market-analysis
 Slug: analyse-du-march-mondial-de-l-acide-oxalique-principaux-producteurs-et
 Excerpt: Plongez dans le marché mondial de l'acide oxalique, en analysant les principales
   régions productrices, les flux commerciaux majeurs, les moteurs de la demande et

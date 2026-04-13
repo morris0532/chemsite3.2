@@ -1,6 +1,6 @@
 ---
 Id: SP-756fzf5rai
-Origin_Slug: buy-oxalic-acid-bulk
+rootnotouch: buy-oxalic-acid-bulk
 Slug: c-mo-comprar-cido-ox-lico-a-granel-gu-a-de-moq-empaque-y-env-o
 Excerpt: Una guía completa para la compra a granel de ácido oxálico. Conozca las cantidades
   mínimas de pedido, opciones de empaque, métodos de envío, condiciones de pago y

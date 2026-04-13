@@ -1,6 +1,6 @@
 ---
 Id: SP-lxyphurb93
-Origin_Slug: how-to-buy-caustic-soda
+rootnotouch: how-to-buy-caustic-soda
 Slug: how-to-buy-caustic-soda
 Excerpt: >-
   A comprehensive B2B guide on how to buy caustic soda (sodium hydroxide),

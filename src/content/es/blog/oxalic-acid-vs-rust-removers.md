@@ -1,6 +1,6 @@
 ---
 Id: SP-egnjui3ey8
-Origin_Slug: oxalic-acid-vs-rust-removers
+rootnotouch: oxalic-acid-vs-rust-removers
 Slug: cido-ox-lico-vs-otros-removedores-de-xido-cu-l-deber-as-elegir
 Excerpt: Compara el ácido oxálico con otros removedores de óxido comunes como ácido
   fosfórico, ácido cítrico y métodos mecánicos. Aprende sobre sus ventajas, desventajas,

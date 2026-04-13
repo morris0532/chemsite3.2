@@ -1,6 +1,6 @@
 ---
 Id: SP-p8fo1o9cxc
-Origin_Slug: oxalic-acid-purchasing-faq
+rootnotouch: oxalic-acid-purchasing-faq
 Slug: 
 Excerpt: احصل على إجابات لأسئلتك حول شراء حمض الأكساليك بالجملة، من خيارات التعبئة
   وشروط الشحن إلى مراقبة الجودة والخدمات اللوجستية الدولية.

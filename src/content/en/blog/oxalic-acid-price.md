@@ -1,6 +1,6 @@
 ---
 Id: SP-ogywxm9z0y
-Origin_Slug: oxalic-acid-price
+rootnotouch: oxalic-acid-price
 Slug: oxalic-acid-price
 Excerpt: >-
   Stay informed about the latest oxalic acid price trends for 2025. Explore the

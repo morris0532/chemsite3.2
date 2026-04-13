@@ -1,6 +1,6 @@
 ---
 Id: SP-dgc3si1cro
-Origin_Slug: oxalic-acid-supplier-africa
+rootnotouch: oxalic-acid-supplier-africa
 Slug: fournisseur-d-acide-oxalique-pour-le-march-africain-afrique-du-sud-gypte
 Excerpt: SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché
   africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le Nigeria

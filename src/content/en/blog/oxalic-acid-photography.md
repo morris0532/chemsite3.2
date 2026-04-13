@@ -1,6 +1,6 @@
 ---
 Id: SP-yy1gbtzfc5
-Origin_Slug: oxalic-acid-photography
+rootnotouch: oxalic-acid-photography
 Slug: oxalic-acid-photography
 Excerpt: >-
   Explore the historical role of oxalic acid in photographic processes, from

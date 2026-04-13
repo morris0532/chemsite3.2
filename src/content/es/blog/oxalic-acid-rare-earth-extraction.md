@@ -1,6 +1,6 @@
 ---
 Id: SP-od1j418aun
-Origin_Slug: oxalic-acid-rare-earth-extraction
+rootnotouch: oxalic-acid-rare-earth-extraction
 Slug: cido-ox-lico-para-la-extracci-n-de-tierras-raras-un-qu-mico-clave-en-la
 Excerpt: Explore el papel crítico del ácido oxálico en la extracción, separación y
   purificación de elementos de tierras raras. Conozca sus principios químicos y su

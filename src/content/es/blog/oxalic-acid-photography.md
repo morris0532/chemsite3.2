@@ -1,6 +1,6 @@
 ---
 Id: SP-fmx197yelf
-Origin_Slug: oxalic-acid-photography
+rootnotouch: oxalic-acid-photography
 Slug: cido-ox-lico-en-la-fotograf-a-uso-hist-rico-y-relevancia-moderna
 Excerpt: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
   desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas

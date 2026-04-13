@@ -1,6 +1,6 @@
 ---
 Id: SP-ncongiqjms
-Origin_Slug: caustic-soda-food-processing
+rootnotouch: caustic-soda-food-processing
 Slug: as-suda-al-kawia-in-food-processing-salama-regulations-essential-tatbiqat
 Excerpt: Explore the critical role of caustic soda (sodium hydroxide) in the food
   industry, from cleaning and sanitization to pH adjustment and peeling, ensuring

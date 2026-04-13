@@ -1,6 +1,6 @@
 ---
 Id: SP-kxndfyx2tn
-Origin_Slug: caustic-soda-pulp-paper-industry
+rootnotouch: caustic-soda-pulp-paper-industry
 Slug: caustic-soda-pulp-paper-industry
 Excerpt: >-
   Discover the vital role of caustic soda (sodium hydroxide) in the pulp and

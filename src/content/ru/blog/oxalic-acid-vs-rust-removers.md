@@ -1,6 +1,6 @@
 ---
 Id: SP-7vch1hcz3y
-Origin_Slug: oxalic-acid-vs-rust-removers
+rootnotouch: oxalic-acid-vs-rust-removers
 Slug: 
 Excerpt: Сравните щавелевую кислоту с другими распространенными средствами для удаления
   ржавчины, такими как фосфорная кислота, лимонная кислота и механические методы.

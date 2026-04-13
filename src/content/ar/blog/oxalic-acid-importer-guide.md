@@ -1,6 +1,6 @@
 ---
 Id: SP-qsnigbaijl
-Origin_Slug: oxalic-acid-importer-guide
+rootnotouch: oxalic-acid-importer-guide
 Slug: 
 Excerpt: دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
   الدولية (REACH، TSCA)، وأفضل الممارسات لعملية استيراد سلسة.

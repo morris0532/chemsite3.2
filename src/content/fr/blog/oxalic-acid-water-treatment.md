@@ -1,6 +1,6 @@
 ---
 Id: SP-np3bmjkskj
-Origin_Slug: oxalic-acid-water-treatment
+rootnotouch: oxalic-acid-water-treatment
 Slug: acide-oxalique-pour-le-traitement-de-l-eau-limination-du-fer-et-du-mangan-se
 Excerpt: Découvrez comment l'acide oxalique élimine efficacement le fer et le manganèse
   de l'eau, son mécanisme chimique, ses méthodes d'application, ses avantages et les

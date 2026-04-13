@@ -1,6 +1,6 @@
 ---
 Id: SP-duuf50vr0f
-Origin_Slug: oxalic-acid-industrial-applications
+rootnotouch: oxalic-acid-industrial-applications
 Slug: oxalic-acid-industrial-applications
 Excerpt: >-
   Explore the diverse industrial applications of oxalic acid from rust removal

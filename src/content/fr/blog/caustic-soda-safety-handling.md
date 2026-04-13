@@ -1,6 +1,6 @@
 ---
 Id: SP-3cqujxt4dj
-Origin_Slug: caustic-soda-safety-handling
+rootnotouch: caustic-soda-safety-handling
 Slug: soude-caustique-securite-manipulation-a-comprehensive-industriel-guide
 Excerpt: A critical guide for industrial buyers on safe handling, storage, and emergency
   procedures for caustic soda (sodium hydroxide), ensuring workplace safety and regulatory

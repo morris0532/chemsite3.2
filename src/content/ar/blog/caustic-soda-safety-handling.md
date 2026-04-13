@@ -1,6 +1,6 @@
 ---
 Id: SP-nps69fc320
-Origin_Slug: caustic-soda-safety-handling
+rootnotouch: caustic-soda-safety-handling
 Slug: as-suda-al-kawia-salama-munawala-a-comprehensive-sinaia-dalil
 Excerpt: A critical guide for industrial buyers on safe handling, storage, and emergency
   procedures for caustic soda (sodium hydroxide), ensuring workplace safety and regulatory

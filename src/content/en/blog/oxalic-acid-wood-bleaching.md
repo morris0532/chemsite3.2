@@ -1,6 +1,6 @@
 ---
 Id: SP-15ahcaygxd
-Origin_Slug: oxalic-acid-wood-bleaching
+rootnotouch: oxalic-acid-wood-bleaching
 Slug: oxalic-acid-wood-bleaching
 Excerpt: >-
   Restore and rejuvenate wood surfaces with oxalic acid. This guide details its

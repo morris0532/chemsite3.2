@@ -1,6 +1,6 @@
 ---
 Id: SP-6logp2mqqj
-Origin_Slug: oxalic-acid-vs-tartaric-acid
+rootnotouch: oxalic-acid-vs-tartaric-acid
 Slug: oxalic-acid-vs-tartaric-acid
 Excerpt: >-
   Delve into the distinctions between oxalic acid and tartaric acid, two

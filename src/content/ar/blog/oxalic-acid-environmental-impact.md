@@ -1,6 +1,6 @@
 ---
 Id: SP-0ram908w6j
-Origin_Slug: oxalic-acid-environmental-impact
+rootnotouch: oxalic-acid-environmental-impact
 Slug: 
 Excerpt: استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية
   للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.

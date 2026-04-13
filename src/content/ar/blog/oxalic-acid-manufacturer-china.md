@@ -1,6 +1,6 @@
 ---
 Id: SP-3ejxs3rz5w
-Origin_Slug: oxalic-acid-manufacturer-china
+rootnotouch: oxalic-acid-manufacturer-china
 Slug: 2026
 Excerpt: دليل شامل لاختيار أفضل مصنعي حمض الأكساليك في الصين، يغطي معايير الجودة والشهادات
   والعمليات اللوجستية والأسئلة الشائعة للمشترين الدوليين.

@@ -1,6 +1,6 @@
 ---
 Id: SP-gve1jn8im3
-Origin_Slug: oxalic-acid-aluminum-anodizing
+rootnotouch: oxalic-acid-aluminum-anodizing
 Slug: 
 Excerpt: Откройте для себя ключевую роль щавелевой кислоты в анодировании алюминия
   — процессе, который повышает долговечность, коррозионную стойкость и эстетическую

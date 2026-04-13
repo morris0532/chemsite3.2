@@ -1,6 +1,6 @@
 ---
 Id: SP-lklqj8jr6e
-Origin_Slug: chemical-shipping-logistics-china-guide
+rootnotouch: chemical-shipping-logistics-china-guide
 Slug: env-o-y-log-stica-de-productos-qu-micos-desde-china-lo-que-necesita-saber
 Excerpt: Navegue las complejidades del envío internacional de productos químicos desde
   China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el socio

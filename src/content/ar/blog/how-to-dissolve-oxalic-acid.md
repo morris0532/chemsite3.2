@@ -1,6 +1,6 @@
 ---
 Id: SP-s2v2ola8ak
-Origin_Slug: how-to-dissolve-oxalic-acid
+rootnotouch: how-to-dissolve-oxalic-acid
 Slug: 
 Excerpt: تعلم الطريقة الصحيحة والآمنة لإذابة حمض الأكساليك لمختلف التطبيقات الصناعية
   والمنزلية. يغطي هذا الدليل احتياطات السلامة الأساسية، والمواد المطلوبة، والتعليمات

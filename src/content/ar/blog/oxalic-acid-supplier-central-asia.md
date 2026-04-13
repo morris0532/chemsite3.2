@@ -1,6 +1,6 @@
 ---
 Id: SP-xu00iul70s
-Origin_Slug: oxalic-acid-supplier-central-asia
+rootnotouch: oxalic-acid-supplier-central-asia
 Slug: hamd-al-oxalic-muwarid-for-central-asia-market-kazakhstan-uzbekistan
 Excerpt: SinoPeakChem is your trusted oxalic acid supplier for the Central Asian market,
   serving key countries like Kazakhstan and Uzbekistan with quality products for mining,

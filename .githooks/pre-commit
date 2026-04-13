@@ -7,13 +7,13 @@ if [ -z "$STAGED_FILES" ]; then
     exit 0
 fi
 
-# 检查 Origin_Slug 是否被修改
+# 检查 rootnotouch 是否被修改
 for FILE in $STAGED_FILES; do
-    if git diff --cached "$FILE" | grep -q '^+Origin_Slug:'; then
-        # 如果 Origin_Slug 被修改，检查是否为 AI 操作
+    if git diff --cached "$FILE" | grep -q '^+rootnotouch:'; then
+        # 如果 rootnotouch 被修改，检查是否为 AI 操作
         # 这里通过检查提交者信息或环境变量来识别 AI 操作
         if [ "$MANUS_AI_MODE" = "true" ]; then
-            echo "错误: 检测到 AI 正在尝试修改锁定字段 'Origin_Slug' ($FILE)。"
+            echo "错误: 检测到 AI 正在尝试修改锁定字段 'rootnotouch' ($FILE)。"
             echo "根据 SEO_RULES.md，该字段仅允许手动修改。提交已拦截。"
             exit 1
         fi

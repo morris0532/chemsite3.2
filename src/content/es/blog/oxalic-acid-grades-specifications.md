@@ -1,6 +1,6 @@
 ---
 Id: SP-5nnt9k7crj
-Origin_Slug: oxalic-acid-grades-specifications
+rootnotouch: oxalic-acid-grades-specifications
 Slug: grados-y-especificaciones-del-cido-ox-lico-una-revisi-n-profunda
 Excerpt: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
   grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,

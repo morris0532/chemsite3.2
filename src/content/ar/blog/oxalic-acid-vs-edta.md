@@ -1,6 +1,6 @@
 ---
 Id: SP-ljzwljs7ga
-Origin_Slug: oxalic-acid-vs-edta
+rootnotouch: oxalic-acid-vs-edta
 Slug: edta
 Excerpt: مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على
   كفاءة ربط المعادن، والتكلفة، والأثر البيئي.

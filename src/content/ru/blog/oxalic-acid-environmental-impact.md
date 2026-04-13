@@ -1,6 +1,6 @@
 ---
 Id: SP-owfo63unnr
-Origin_Slug: oxalic-acid-environmental-impact
+rootnotouch: oxalic-acid-environmental-impact
 Slug: 
 Excerpt: Изучите экологический след щавелевой кислоты, ее естественное присутствие,
   биоразлагаемость и безопасные методы утилизации для обеспечения устойчивого использования

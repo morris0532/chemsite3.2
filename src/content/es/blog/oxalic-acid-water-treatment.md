@@ -1,6 +1,6 @@
 ---
 Id: SP-04kht3rnsh
-Origin_Slug: oxalic-acid-water-treatment
+rootnotouch: oxalic-acid-water-treatment
 Slug: cido-ox-lico-para-el-tratamiento-de-agua-eliminaci-n-de-hierro-y-manganeso
 Excerpt: Descubra cómo el ácido oxálico elimina eficazmente el hierro y el manganeso
   del agua, su mecanismo químico, métodos de aplicación, beneficios y consideraciones

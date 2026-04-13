@@ -1,6 +1,6 @@
 ---
 Id: SP-e7s09r2rew
-Origin_Slug: caustic-soda-vs-soda-ash
+rootnotouch: caustic-soda-vs-soda-ash
 Slug: caustic-soda-vs-soda-ash
 Excerpt: >-
   A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃),

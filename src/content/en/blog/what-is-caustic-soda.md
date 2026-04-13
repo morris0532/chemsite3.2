@@ -1,6 +1,6 @@
 ---
 Id: SP-97f8w8j7fj
-Origin_Slug: what-is-caustic-soda
+rootnotouch: what-is-caustic-soda
 Slug: what-is-caustic-soda
 Excerpt: >-
   Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,

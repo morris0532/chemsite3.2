@@ -1,6 +1,6 @@
 ---
 Id: SP-7uxi0ourdr
-Origin_Slug: ma-hiya-as-suda-al-kawia-al-sinaia
+rootnotouch: ma-hiya-as-suda-al-kawia-al-sinaia
 Slug: what-is-as-suda-al-kawia-a-complete-dalil-for-sinaia-buyers
 Excerpt: 'Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
   applications, grades, safety, and how to source it for your business.'

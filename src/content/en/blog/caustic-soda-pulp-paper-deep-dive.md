@@ -1,6 +1,6 @@
 ---
 Id: SP-fnicr9yvmj
-Origin_Slug: caustic-soda-pulp-paper-deep-dive
+rootnotouch: caustic-soda-pulp-paper-deep-dive
 Slug: caustic-soda-pulp-paper-deep-dive
 Excerpt: >-
   Explore the indispensable role of caustic soda (sodium hydroxide) in the pulp

@@ -1,6 +1,6 @@
 ---
 Id: SP-g7vy437j22
-Origin_Slug: oxalic-acid-dilution-guide
+rootnotouch: oxalic-acid-dilution-guide
 Slug: 
 Excerpt: تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل
   احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.

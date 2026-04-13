@@ -1,6 +1,6 @@
 ---
 Id: SP-zagdbeax2j
-Origin_Slug: oxalic-acid-supplier-southeast-asia
+rootnotouch: oxalic-acid-supplier-southeast-asia
 Slug: 
 Excerpt: Юго-Восточная Азия является быстрорастущим рынком для щавелевой кислоты,
   движимым такими отраслями, как текстильная, керамическая и резиновая. SinoPeakChem

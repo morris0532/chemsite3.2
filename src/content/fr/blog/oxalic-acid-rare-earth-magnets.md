@@ -1,6 +1,6 @@
 ---
 Id: SP-l7f6c1d4na
-Origin_Slug: oxalic-acid-rare-earth-magnets
+rootnotouch: oxalic-acid-rare-earth-magnets
 Slug: acide-oxalique-dans-les-aimants-de-terres-rares-un-composant-critique
 Excerpt: Découvrez le rôle vital de l'acide oxalique dans la production d'aimants
   de terres rares, en particulier dans la séparation et la purification des éléments

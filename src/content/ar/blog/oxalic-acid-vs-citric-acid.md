@@ -1,6 +1,6 @@
 ---
 Id: SP-9lsvbk0lt0
-Origin_Slug: oxalic-acid-vs-citric-acid
+rootnotouch: oxalic-acid-vs-citric-acid
 Slug: 
 Excerpt: مقارنة مفصلة بين حمض الأكساليك وحمض الستريك، تغطي الخصائص الكيميائية، وقوة
   إزالة الصدأ، وسلامة الاستخدام، والتطبيقات الصناعية المثالية.

@@ -1,6 +1,6 @@
 ---
 Id: SP-1y2cpbu0j8
-Origin_Slug: oxalic-acid-vs-sulfuric-acid
+rootnotouch: oxalic-acid-vs-sulfuric-acid
 Slug: 
 Excerpt: Изучите фундаментальные различия между щавелевой кислотой и серной кислотой,
   двумя промышленно значимыми химическими веществами. Эта статья сравнивает их химические

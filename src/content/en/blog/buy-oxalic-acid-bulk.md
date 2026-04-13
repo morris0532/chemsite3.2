@@ -1,6 +1,6 @@
 ---
 Id: SP-ketyg4i6lt
-Origin_Slug: buy-oxalic-acid-bulk
+rootnotouch: buy-oxalic-acid-bulk
 Slug: buy-oxalic-acid-bulk
 Excerpt: >-
   A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum

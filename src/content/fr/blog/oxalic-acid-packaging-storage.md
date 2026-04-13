@@ -1,6 +1,6 @@
 ---
 Id: SP-8ize3gf9wf
-Origin_Slug: oxalic-acid-packaging-storage
+rootnotouch: oxalic-acid-packaging-storage
 Slug: emballage-et-stockage-de-l-acide-oxalique-assurer-qualit-et-s-curit
 Excerpt: Un guide complet sur l'emballage et le stockage appropriés de l'acide oxalique.
   Découvrez les types d'emballage courants, les conditions de stockage idéales et

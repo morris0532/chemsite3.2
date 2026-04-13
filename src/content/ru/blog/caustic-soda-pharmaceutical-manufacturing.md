@@ -1,6 +1,6 @@
 ---
 Id: SP-14bd26lz2n
-Origin_Slug: caustic-soda-pharmaceutical-manufacturing
+rootnotouch: caustic-soda-pharmaceutical-manufacturing
 Slug: kausticheskaya-soda-in-pharmaceutical-manufacturing-synthesis-purification-cleaning
 Excerpt: Discover the critical applications of pharmaceutical-grade caustic soda (sodium
   hydroxide) in drug synthesis, pH adjustment, purification processes, and stringent

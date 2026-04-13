@@ -1,6 +1,6 @@
 ---
 Id: SP-r0o5xh7dbl
-Origin_Slug: oxalic-acid-marble-polishing
+rootnotouch: oxalic-acid-marble-polishing
 Slug: 
 Excerpt: تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي. يغطي
   هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة.

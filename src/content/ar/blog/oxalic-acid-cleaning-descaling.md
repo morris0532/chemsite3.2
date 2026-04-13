@@ -1,6 +1,6 @@
 ---
 Id: SP-h4h16tdi1p
-Origin_Slug: oxalic-acid-cleaning-descaling
+rootnotouch: oxalic-acid-cleaning-descaling
 Slug: 
 Excerpt: اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على
   تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات

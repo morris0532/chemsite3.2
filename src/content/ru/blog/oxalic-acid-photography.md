@@ -1,6 +1,6 @@
 ---
 Id: SP-5vszt1jc45
-Origin_Slug: oxalic-acid-photography
+rootnotouch: oxalic-acid-photography
 Slug: 
 Excerpt: Исследуйте историческую роль щавелевой кислоты в фотографических процессах,
   от ранних платиновых и палладиевых отпечатков до ее современного применения в тонировании

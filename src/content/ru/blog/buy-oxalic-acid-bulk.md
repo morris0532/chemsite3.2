@@ -1,6 +1,6 @@
 ---
 Id: SP-z4bzkxxlmv
-Origin_Slug: buy-oxalic-acid-bulk
+rootnotouch: buy-oxalic-acid-bulk
 Slug: moq
 Excerpt: Полное руководство по оптовой закупке щавелевой кислоты. Узнайте о минимальных
   объемах заказа, вариантах упаковки, методах доставки, условиях оплаты и полном процессе

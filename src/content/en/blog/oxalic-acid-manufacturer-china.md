@@ -1,6 +1,6 @@
 ---
 Id: SP-nf9ofwzqlk
-Origin_Slug: oxalic-acid-manufacturer-china
+rootnotouch: oxalic-acid-manufacturer-china
 Slug: oxalic-acid-manufacturer-china
 Excerpt: >-
   Discover why China dominates the global oxalic acid market. Learn about

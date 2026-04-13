@@ -1,6 +1,6 @@
 ---
 Id: SP-sze5gj16ry
-Origin_Slug: oxalic-acid-market-trends-2026
+rootnotouch: oxalic-acid-market-trends-2026
 Slug: oxalic-acid-market-trends-2026
 Excerpt: >-
   Explore the dynamic global oxalic acid market in 2026, driven by key sectors

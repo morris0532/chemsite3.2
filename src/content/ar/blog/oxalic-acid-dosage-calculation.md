@@ -1,6 +1,6 @@
 ---
 Id: SP-0a35zaiuw5
-Origin_Slug: oxalic-acid-dosage-calculation
+rootnotouch: oxalic-acid-dosage-calculation
 Slug: 
 Excerpt: دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف
   التطبيقات الصناعية والمنزلية، بما في ذلك الملارية والتخفيف.

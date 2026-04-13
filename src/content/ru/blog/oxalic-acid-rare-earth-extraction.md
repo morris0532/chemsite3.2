@@ -1,6 +1,6 @@
 ---
 Id: SP-lp0rjl0wr9
-Origin_Slug: oxalic-acid-rare-earth-extraction
+rootnotouch: oxalic-acid-rare-earth-extraction
 Slug: 
 Excerpt: Изучите критическую роль щавелевой кислоты в извлечении, разделении и очистке
   редкоземельных элементов. Узнайте о ее химических принципах и ее значении в высокотехнологичных

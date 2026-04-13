@@ -1,5 +1,5 @@
 ---
-Origin_Slug: citric-acid-anhydrous
+rootnotouch: citric-acid-anhydrous
 image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 category: Ácidos Orgánicos
 applications:

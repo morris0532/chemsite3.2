@@ -1,6 +1,6 @@
 ---
 Id: SP-79i5alqcvu
-Origin_Slug: oxalic-acid-paper-industry
+rootnotouch: oxalic-acid-paper-industry
 Slug: 
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك كعامل مخلبي في تبييض لب الورق، وتحسين جودة
   الورق، وتعزيز ممارسات التصنيع المستدامة.

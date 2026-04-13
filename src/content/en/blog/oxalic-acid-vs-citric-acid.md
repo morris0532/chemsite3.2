@@ -1,6 +1,6 @@
 ---
 Id: SP-ustshjtrc3
-Origin_Slug: oxalic-acid-vs-citric-acid
+rootnotouch: oxalic-acid-vs-citric-acid
 Slug: oxalic-acid-vs-citric-acid
 Excerpt: >-
   A comparative analysis of oxalic acid and citric acid, highlighting their

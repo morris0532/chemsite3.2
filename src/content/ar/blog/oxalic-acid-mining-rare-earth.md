@@ -1,6 +1,6 @@
 ---
 Id: SP-yvoe76sz3c
-Origin_Slug: oxalic-acid-mining-rare-earth
+rootnotouch: oxalic-acid-mining-rare-earth
 Slug: 
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك ككاشف رئيسي في التعدين الحديث لاستخراج
   وفصل وتنقية العناصر الأرضية النادرة (REEs) بكفاءة.

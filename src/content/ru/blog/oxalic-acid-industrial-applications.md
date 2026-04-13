@@ -1,6 +1,6 @@
 ---
 Id: SP-qqruw4dqbw
-Origin_Slug: oxalic-acid-industrial-applications
+rootnotouch: oxalic-acid-industrial-applications
 Slug: 
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
   ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности

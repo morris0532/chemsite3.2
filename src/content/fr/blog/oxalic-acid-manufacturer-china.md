@@ -1,6 +1,6 @@
 ---
 Id: SP-83wu9ntc3g
-Origin_Slug: oxalic-acid-manufacturer-china
+rootnotouch: oxalic-acid-manufacturer-china
 Slug: fabricant-et-exportateur-chinois-d-acide-oxalique-qualit-certification
 Excerpt: Découvrez pourquoi la Chine domine le marché mondial de l'acide oxalique.
   Apprenez-en davantage sur le contrôle qualité, les certifications internationales,

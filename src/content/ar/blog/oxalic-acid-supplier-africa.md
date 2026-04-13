@@ -1,6 +1,6 @@
 ---
 Id: SP-qwaqua3rq0
-Origin_Slug: oxalic-acid-supplier-africa
+rootnotouch: oxalic-acid-supplier-africa
 Slug: 
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض
   أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.

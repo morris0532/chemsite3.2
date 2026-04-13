@@ -1,6 +1,6 @@
 ---
 Id: SP-i7ja9qjnns
-Origin_Slug: oxalic-acid-mining-rare-earth
+rootnotouch: oxalic-acid-mining-rare-earth
 Slug: 
 Excerpt: Изучите критическую роль щавелевой кислоты в горнодобывающей промышленности,
   особенно в эффективном извлечении и очистке редкоземельных элементов (РЗЭ). Этот

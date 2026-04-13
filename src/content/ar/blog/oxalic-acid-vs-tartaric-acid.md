@@ -1,6 +1,6 @@
 ---
 Id: SP-1mt3ziiooq
-Origin_Slug: oxalic-acid-vs-tartaric-acid
+rootnotouch: oxalic-acid-vs-tartaric-acid
 Slug: 
 Excerpt: مقارنة بين حمضين عضويين هامين في صناعات المنسوجات والأغذية والمعادن.
 title: 'حمض الأكساليك مقابل حمض الطرطريك: تطبيقات كيميائية متخصصة'

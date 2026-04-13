@@ -1,6 +1,6 @@
 ---
 Id: SP-x6yumk43er
-Origin_Slug: how-to-test-oxalic-acid-purity
+rootnotouch: how-to-test-oxalic-acid-purity
 Slug: c-mo-probar-la-pureza-del-cido-ox-lico-una-gu-a-completa
 Excerpt: Descubra los métodos esenciales para probar la pureza del ácido oxálico,
   incluyendo la titulación con permanganato de potasio, la determinación del punto

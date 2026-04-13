@@ -1,6 +1,6 @@
 ---
 Id: SP-3ig0dqk97w
-Origin_Slug: oxalic-acid-wood-bleaching
+rootnotouch: oxalic-acid-wood-bleaching
 Slug: acide-oxalique-pour-le-blanchiment-et-le-nettoyage-du-bois-un-guide-professionnel
 Excerpt: Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
   guide détaille son utilisation pour le blanchiment, l'élimination des taches d'eau,

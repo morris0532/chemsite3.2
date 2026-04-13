@@ -1,6 +1,6 @@
 ---
 Id: SP-str4f9qd4r
-Origin_Slug: oxalic-acid-safety-handling
+rootnotouch: oxalic-acid-safety-handling
 Slug: 
 Excerpt: Полное руководство по безопасному обращению с щавелевой кислотой. Узнайте
   о ее свойствах, потенциальных опасностях, необходимом СИЗ, правильном хранении,

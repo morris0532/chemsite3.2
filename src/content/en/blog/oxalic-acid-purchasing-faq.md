@@ -1,6 +1,6 @@
 ---
 Id: SP-dgikay2rwm
-Origin_Slug: oxalic-acid-purchasing-faq
+rootnotouch: oxalic-acid-purchasing-faq
 Slug: oxalic-acid-purchasing-faq
 Excerpt: >-
   Navigate the complexities of bulk oxalic acid procurement with our

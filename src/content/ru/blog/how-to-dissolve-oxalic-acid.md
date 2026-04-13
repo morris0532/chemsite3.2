@@ -1,6 +1,6 @@
 ---
 Id: SP-vi1ts8lt51
-Origin_Slug: how-to-dissolve-oxalic-acid
+rootnotouch: how-to-dissolve-oxalic-acid
 Slug: 
 Excerpt: Узнайте правильный и безопасный метод растворения щавелевой кислоты для различных
   промышленных и бытовых применений. Это руководство охватывает основные меры безопасности,

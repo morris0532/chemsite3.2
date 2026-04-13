@@ -1,6 +1,6 @@
 ---
 Id: SP-hr2ru4bl1i
-Origin_Slug: oxalic-acid-purchasing-faq
+rootnotouch: oxalic-acid-purchasing-faq
 Slug: 
 Excerpt: Разберитесь в сложностях оптовой закупки щавелевой кислоты с нашим всеобъемлющим
   разделом часто задаваемых вопросов, охватывающим все, от сортов и упаковки до условий

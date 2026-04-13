@@ -1,6 +1,6 @@
 ---
 Id: SP-z79auboewr
-Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
+rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
 Slug: 
 Excerpt: Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой
   воды до очистки промышленных сточных вод.

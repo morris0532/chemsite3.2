@@ -1,6 +1,6 @@
 ---
 Id: SP-j8fnf1a73c
-Origin_Slug: caustic-soda-vs-soda-ash
+rootnotouch: caustic-soda-vs-soda-ash
 Slug: soude-caustique-vs-carbonate-de-sodium-key-differences-selection-guide-for-industriel
 Excerpt: A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃), highlighting
   their chemical differences, applications, and helping industrial buyers choose the

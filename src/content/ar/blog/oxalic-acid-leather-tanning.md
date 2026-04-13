@@ -1,6 +1,6 @@
 ---
 Id: SP-pmrmcqtctx
-Origin_Slug: oxalic-acid-leather-tanning
+rootnotouch: oxalic-acid-leather-tanning
 Slug: 
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم
   في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية

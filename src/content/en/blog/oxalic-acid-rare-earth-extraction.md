@@ -1,6 +1,6 @@
 ---
 Id: SP-tgrcwyqtow
-Origin_Slug: oxalic-acid-rare-earth-extraction
+rootnotouch: oxalic-acid-rare-earth-extraction
 Slug: oxalic-acid-rare-earth-extraction
 Excerpt: >-
   Explore the critical role of oxalic acid in the extraction, separation, and

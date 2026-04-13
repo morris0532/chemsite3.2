@@ -1,5 +1,5 @@
 ---
-Origin_Slug: soda-ash
+rootnotouch: soda-ash
 image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
 category: Щелочные продукты
 applications:

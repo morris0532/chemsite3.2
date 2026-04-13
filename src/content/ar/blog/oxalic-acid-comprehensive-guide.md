@@ -1,6 +1,6 @@
 ---
 Id: SP-znynchhwvr
-Origin_Slug: oxalic-acid-comprehensive-guide
+rootnotouch: oxalic-acid-comprehensive-guide
 Slug: 
 Excerpt: دليل تقني مفصل حول حمض الأكساليك، يغطي خصائصه الكيميائية، وتطبيقاته الصناعية
   الواسعة في المنسوجات والمعادن والأتربة النادرة، بالإضافة إلى اتجاهات السوق والاستدامة.

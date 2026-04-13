@@ -1,6 +1,6 @@
 ---
 Id: SP-uhrgrbauwm
-Origin_Slug: how-to-choose-the-right-chem-supplier-from-china
+rootnotouch: how-to-choose-the-right-chem-supplier-from-china
 Slug: 
 Excerpt: دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد، ومراقبة
   الجودة، وسلسلة التوريد، وفعالية التكلفة، والتواصل.

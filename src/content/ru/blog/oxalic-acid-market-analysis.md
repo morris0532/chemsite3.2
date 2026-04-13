@@ -1,6 +1,6 @@
 ---
 Id: SP-8e699rvkxw
-Origin_Slug: oxalic-acid-market-analysis
+rootnotouch: oxalic-acid-market-analysis
 Slug: 
 Excerpt: Погрузитесь в мировой рынок щавелевой кислоты, анализируя ключевые производящие
   регионы, основные торговые потоки, движущие силы спроса и будущие тенденции рынка,

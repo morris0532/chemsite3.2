@@ -1,6 +1,6 @@
 ---
 Id: SP-d29giundp5
-Origin_Slug: chemical-shipping-logistics-china-guide
+rootnotouch: chemical-shipping-logistics-china-guide
 Slug: chemical-shipping-logistics-china-guide
 Excerpt: >-
   Navigate the complexities of international chemical shipping from China. Learn

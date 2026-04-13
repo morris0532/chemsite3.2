@@ -1,6 +1,6 @@
 ---
 Id: SP-mwrrpfe116
-Origin_Slug: oxalic-acid-market-trends-2026
+rootnotouch: oxalic-acid-market-trends-2026
 Slug: 2026
 Excerpt: استكشف الاتجاهات الناشئة في سوق حمض الأكساليك لعام 2026، بما في ذلك دوره
   في بطاريات السيارات الكهربائية، والمعالجة المستدامة للمنسوجات، والابتكارات في استخراج

@@ -1,6 +1,6 @@
 ---
 Id: SP-gecqc6qd6s
-Origin_Slug: oxalic-acid-cleaning-descaling
+rootnotouch: oxalic-acid-cleaning-descaling
 Slug: oxalic-acid-cleaning-descaling
 Excerpt: >-
   Explore the versatile applications of oxalic acid in cleaning and descaling,

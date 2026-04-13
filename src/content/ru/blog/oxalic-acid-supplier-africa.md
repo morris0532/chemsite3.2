@@ -1,6 +1,6 @@
 ---
 Id: SP-gi1upein1p
-Origin_Slug: oxalic-acid-supplier-africa
+rootnotouch: oxalic-acid-supplier-africa
 Slug: 
 Excerpt: SinoPeakChem — ваш надежный поставщик щавелевой кислоты для африканского
   рынка, обслуживающий ключевые страны, такие как Южная Африка, Египет и Нигерия,

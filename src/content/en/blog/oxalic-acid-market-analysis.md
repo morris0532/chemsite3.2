@@ -1,6 +1,6 @@
 ---
 Id: SP-pilr90q2h2
-Origin_Slug: oxalic-acid-market-analysis
+rootnotouch: oxalic-acid-market-analysis
 Slug: oxalic-acid-market-analysis
 Excerpt: >-
   Dive into the global oxalic acid market, analyzing key producing regions,

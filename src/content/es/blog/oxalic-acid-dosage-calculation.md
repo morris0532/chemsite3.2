@@ -1,6 +1,6 @@
 ---
 Id: SP-ee7mhfr44w
-Origin_Slug: oxalic-acid-dosage-calculation
+rootnotouch: oxalic-acid-dosage-calculation
 Slug: c-lculo-de-la-dosis-de-cido-ox-lico-una-gu-a-completa
 Excerpt: Domine el arte del cálculo de la dosis de ácido oxálico para diversas aplicaciones
   industriales y domésticas. Esta guía cubre fórmulas esenciales, ejemplos prácticos

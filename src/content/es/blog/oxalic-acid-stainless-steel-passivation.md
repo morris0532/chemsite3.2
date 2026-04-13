@@ -1,6 +1,6 @@
 ---
 Id: SP-codivua1pu
-Origin_Slug: oxalic-acid-stainless-steel-passivation
+rootnotouch: oxalic-acid-stainless-steel-passivation
 Slug: cido-ox-lico-en-la-pasivaci-n-del-acero-inoxidable-una-visi-n-t-cnica
 Excerpt: Explore el papel crítico del ácido oxálico en la pasivación del acero inoxidable,
   mejorando la resistencia a la corrosión y la calidad de la superficie. Esta guía

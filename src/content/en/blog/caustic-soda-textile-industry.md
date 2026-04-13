@@ -1,6 +1,6 @@
 ---
 Id: SP-9amql22e1i
-Origin_Slug: caustic-soda-textile-industry
+rootnotouch: caustic-soda-textile-industry
 Slug: caustic-soda-textile-industry
 Excerpt: >-
   Explore the indispensable role of caustic soda (sodium hydroxide) in textile

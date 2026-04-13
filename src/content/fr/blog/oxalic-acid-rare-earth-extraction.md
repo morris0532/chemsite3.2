@@ -1,6 +1,6 @@
 ---
 Id: SP-i9iv2z3o99
-Origin_Slug: oxalic-acid-rare-earth-extraction
+rootnotouch: oxalic-acid-rare-earth-extraction
 Slug: acide-oxalique-pour-l-extraction-des-terres-rares-un-produit-chimique-cl
 Excerpt: Explorez le rôle critique de l'acide oxalique dans l'extraction, la séparation
   et la purification des éléments de terres rares. Découvrez ses principes chimiques

@@ -1,6 +1,6 @@
 ---
 Id: SP-gsvfd5i0wz
-Origin_Slug: caustic-soda-textile-industry-deep-dive
+rootnotouch: caustic-soda-textile-industry-deep-dive
 Slug: caustic-soda-textile-industry-deep-dive
 Excerpt: >-
   Explore the critical applications of caustic soda (sodium hydroxide) in the

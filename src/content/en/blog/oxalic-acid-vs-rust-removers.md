@@ -1,6 +1,6 @@
 ---
 Id: SP-b711557b1a
-Origin_Slug: oxalic-acid-vs-rust-removers
+rootnotouch: oxalic-acid-vs-rust-removers
 Slug: oxalic-acid-vs-rust-removers
 Excerpt: >-
   Compare oxalic acid with other common rust removers like phosphoric acid,

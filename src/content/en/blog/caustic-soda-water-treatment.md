@@ -1,6 +1,6 @@
 ---
 Id: SP-uxonf8j153
-Origin_Slug: caustic-soda-water-treatment
+rootnotouch: caustic-soda-water-treatment
 Slug: caustic-soda-water-treatment
 Excerpt: >-
   Explore the critical role of caustic soda (sodium hydroxide) in industrial

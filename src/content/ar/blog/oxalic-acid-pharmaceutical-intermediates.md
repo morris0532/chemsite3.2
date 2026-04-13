@@ -1,6 +1,6 @@
 ---
 Id: SP-16mvj6wej5
-Origin_Slug: oxalic-acid-pharmaceutical-intermediates
+rootnotouch: oxalic-acid-pharmaceutical-intermediates
 Slug: 
 Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية
   الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.

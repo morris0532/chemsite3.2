@@ -1,6 +1,6 @@
 ---
 Id: SP-5f86k9wx2a
-Origin_Slug: how-to-choose-right-caustic-soda-grade
+rootnotouch: how-to-choose-right-caustic-soda-grade
 Slug: 
 Excerpt: مقارنة بين قشور الصودا الكاوية وحبيباتها (نقاء 99%). تعرف على كيفية اختيار
   الدرجة الصحيحة لهيدروكسيد الصوديوم للمنسوجات والصابون ومعالجة المياه.

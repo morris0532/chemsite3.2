@@ -1,6 +1,6 @@
 ---
 Id: SP-sqx172ezln
-Origin_Slug: oxalic-acid-textile-dyeing
+rootnotouch: oxalic-acid-textile-dyeing
 Slug: acide-oxalique-pour-la-teinture-et-l-impression-textile-applications-industrielles
 Excerpt: Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son
   utilisation comme auxiliaire de teinture et agent réducteur dans l'impression à

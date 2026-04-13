@@ -1,6 +1,6 @@
 ---
 Id: SP-sr3mduwph5
-Origin_Slug: oxalic-acid-supplier-central-asia
+rootnotouch: oxalic-acid-supplier-central-asia
 Slug: 
 Excerpt: SinoPeakChem — ваш надежный поставщик щавелевой кислоты для рынка Центральной
   Азии, обслуживающий ключевые страны, такие как Казахстан и Узбекистан, качественной

@@ -1,6 +1,6 @@
 ---
 Id: SP-dla3p15y4x
-Origin_Slug: oxalic-acid-market-analysis
+rootnotouch: oxalic-acid-market-analysis
 Slug: an-lisis-del-mercado-global-del-cido-ox-lico-principales-productores-y-flujos
 Excerpt: Profundice en el mercado global del ácido oxálico, analizando las principales
   regiones productoras, los principales flujos comerciales, los impulsores de la demanda

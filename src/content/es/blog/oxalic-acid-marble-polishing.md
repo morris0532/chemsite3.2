@@ -1,6 +1,6 @@
 ---
 Id: SP-9q9zjwo3yn
-Origin_Slug: oxalic-acid-marble-polishing
+rootnotouch: oxalic-acid-marble-polishing
 Slug: cido-ox-lico-para-pulido-de-m-rmol-y-cuidado-de-piedras-mejores-pr-cticas
 Excerpt: Descubra las técnicas profesionales para usar ácido oxálico en el pulido
   de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química,

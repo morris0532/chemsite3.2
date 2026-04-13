@@ -1,6 +1,6 @@
 ---
 Id: SP-5cyskeofcg
-Origin_Slug: oxalic-acid-supplier-south-asia
+rootnotouch: oxalic-acid-supplier-south-asia
 Slug: 
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في جنوب آسيا من خلال توفير حمض أكساليك
   عالي الجودة ولوجستيات فعالة للمنسوجات والجلود والمواد الصيدلانية.

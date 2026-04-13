@@ -1,6 +1,6 @@
 ---
 Id: SP-jxf4ybn2fv
-Origin_Slug: oxalic-acid-vs-sulfuric-acid
+rootnotouch: oxalic-acid-vs-sulfuric-acid
 Slug: 
 Excerpt: مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات التنظيف
   والأنودة.

@@ -1,6 +1,6 @@
 ---
 Id: SP-aarqwygsc7
-Origin_Slug: buy-oxalic-acid-bulk
+rootnotouch: buy-oxalic-acid-bulk
 Slug: 
 Excerpt: دليل شامل للشراء بالجملة لحمض الأكساليك. تعرف على الحد الأدنى لكميات الطلب،
   وخيارات التعبئة، وطرق الشحن، وشروط الدفع، وعملية الشراء الكاملة من الاقتباس إلى

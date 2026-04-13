@@ -1,6 +1,6 @@
 ---
 Id: SP-hbf9kab11c
-Origin_Slug: oxalic-acid-aluminum-anodizing
+rootnotouch: oxalic-acid-aluminum-anodizing
 Slug: 
 Excerpt: اكتشف الدور الحاسم لحمض الأكساليك في أنودة الألومنيوم، وهي عملية تعزز المتانة
   ومقاومة التآكل والجاذبية الجمالية للألومنيوم. تعرف على آليتها ومزاياها وتطبيقاتها

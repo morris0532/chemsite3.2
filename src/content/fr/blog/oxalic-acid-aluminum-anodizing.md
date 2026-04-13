@@ -1,6 +1,6 @@
 ---
 Id: SP-bqtf8rv6cw
-Origin_Slug: oxalic-acid-aluminum-anodizing
+rootnotouch: oxalic-acid-aluminum-anodizing
 Slug: acide-oxalique-pour-l-anodisation-de-l-aluminium-processus-et-avantages
 Excerpt: Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de l'aluminium,
   un processus qui améliore la durabilité, la résistance à la corrosion et l'attrait

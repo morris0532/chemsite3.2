@@ -1,6 +1,6 @@
 ---
 Id: SP-n3yrdwgtup
-Origin_Slug: oxalic-acid-beekeeping
+rootnotouch: oxalic-acid-beekeeping
 Slug: 
 Excerpt: دليل شامل لاستخدام حمض الأكساليك لمكافحة سوس الفاروا في تربية النحل. تعرف
   على طرق التطبيق والجرعة والتوقيت والفعالية والسلامة للنحل والعسل.

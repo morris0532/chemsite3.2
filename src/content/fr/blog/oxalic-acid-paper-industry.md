@@ -1,6 +1,6 @@
 ---
 Id: SP-kmr9tlhn17
-Origin_Slug: oxalic-acid-paper-industry
+rootnotouch: oxalic-acid-paper-industry
 Slug: acide-oxalique-dans-l-industrie-papeti-re-blanchiment-et-au-del
 Excerpt: Découvrez les applications multiples de l'acide oxalique dans l'industrie
   papetière, de son rôle crucial dans le blanchiment de la pâte à son utilisation

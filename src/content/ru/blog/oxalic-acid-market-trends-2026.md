@@ -1,6 +1,6 @@
 ---
 Id: SP-oi9zbfhov9
-Origin_Slug: oxalic-acid-market-trends-2026
+rootnotouch: oxalic-acid-market-trends-2026
 Slug: 2026
 Excerpt: Изучите динамичный мировой рынок щавелевой кислоты в 2026 году, движимый
   ключевыми секторами, такими как аккумуляторы для электромобилей, устойчивый текстиль

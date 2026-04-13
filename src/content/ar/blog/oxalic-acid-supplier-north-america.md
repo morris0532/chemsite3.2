@@ -1,6 +1,6 @@
 ---
 Id: SP-5afdixya40
-Origin_Slug: oxalic-acid-supplier-north-america
+rootnotouch: oxalic-acid-supplier-north-america
 Slug: 
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض
   أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.

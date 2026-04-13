@@ -1,6 +1,6 @@
 ---
 Id: SP-duqne0j27r
-Origin_Slug: caustic-soda-grades-specifications
+rootnotouch: caustic-soda-grades-specifications
 Slug: as-suda-al-kawia-grades-specifications-a-technical-dalil-for-sinaia-buyers
 Excerpt: A comprehensive technical guide for industrial buyers on caustic soda (sodium
   hydroxide) grades, specifications, purity levels, and testing methods for various

@@ -1,6 +1,6 @@
 ---
 Id: SP-k9i0wtx0gu
-Origin_Slug: caustic-soda-vs-soda-ash
+rootnotouch: caustic-soda-vs-soda-ash
 Slug: soda-caustica-vs-ceniza-de-soda-key-differences-selection-guia-for-industrial
 Excerpt: A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃), highlighting
   their chemical differences, applications, and helping industrial buyers choose the

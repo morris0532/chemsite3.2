@@ -1,6 +1,6 @@
 ---
 Id: SP-w9qhkuypge
-Origin_Slug: oxalic-acid-industrial-applications
+rootnotouch: oxalic-acid-industrial-applications
 Slug: acide-oxalique-applications-industrielles-et-consignes-de-s-curit
 Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
   l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes

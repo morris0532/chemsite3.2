@@ -1,6 +1,6 @@
 ---
 Id: SP-praiqpx7ci
-Origin_Slug: oxalic-acid-rare-earth-magnets
+rootnotouch: oxalic-acid-rare-earth-magnets
 Slug: oxalic-acid-rare-earth-magnets
 Excerpt: >-
   Discover the vital role of oxalic acid in the production of rare earth

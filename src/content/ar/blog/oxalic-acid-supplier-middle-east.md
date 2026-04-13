@@ -1,6 +1,6 @@
 ---
 Id: SP-zpocr410m2
-Origin_Slug: oxalic-acid-supplier-middle-east
+rootnotouch: oxalic-acid-supplier-middle-east
 Slug: 
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك
   عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.

@@ -1,6 +1,6 @@
 ---
 Id: SP-jioxemkpcx
-Origin_Slug: oxalic-acid-pharmaceutical-intermediates
+rootnotouch: oxalic-acid-pharmaceutical-intermediates
 Slug: 
 Excerpt: Исследуйте критическую роль щавелевой кислоты как универсального строительного
   блока и реагента в синтезе различных фармацевтических промежуточных продуктов, подчеркивая

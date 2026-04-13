@@ -1,6 +1,6 @@
 ---
 Id: SP-slqvccx9et
-Origin_Slug: oxalic-acid-rare-earth-extraction
+rootnotouch: oxalic-acid-rare-earth-extraction
 Slug: ree
 Excerpt: اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
   النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.

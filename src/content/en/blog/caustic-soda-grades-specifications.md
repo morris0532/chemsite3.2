@@ -1,6 +1,6 @@
 ---
 Id: SP-fvmpf15dlz
-Origin_Slug: caustic-soda-grades-specifications
+rootnotouch: caustic-soda-grades-specifications
 Slug: caustic-soda-grades-specifications
 Excerpt: >-
   A comprehensive technical guide for industrial buyers on caustic soda (sodium

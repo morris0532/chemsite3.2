@@ -1,6 +1,6 @@
 ---
 Id: SP-yvb9vz3cyw
-Origin_Slug: oxalic-acid-grades-specifications
+rootnotouch: oxalic-acid-grades-specifications
 Slug: qualit-s-et-sp-cifications-de-l-acide-oxalique-un-examen-approfondi
 Excerpt: Explorez les différentes qualités et spécifications de l'acide oxalique,
   y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez

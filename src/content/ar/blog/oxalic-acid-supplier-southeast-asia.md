@@ -1,6 +1,6 @@
 ---
 Id: SP-4h2ggumf9g
-Origin_Slug: oxalic-acid-supplier-southeast-asia
+rootnotouch: oxalic-acid-supplier-southeast-asia
 Slug: 
 Excerpt: دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات
   الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.

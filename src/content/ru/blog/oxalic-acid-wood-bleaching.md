@@ -1,6 +1,6 @@
 ---
 Id: SP-1elx4csd7d
-Origin_Slug: oxalic-acid-wood-bleaching
+rootnotouch: oxalic-acid-wood-bleaching
 Slug: 
 Excerpt: Восстановите и омолодите деревянные поверхности с помощью щавелевой кислоты.
   Это руководство подробно описывает ее использование для отбеливания, удаления водяных

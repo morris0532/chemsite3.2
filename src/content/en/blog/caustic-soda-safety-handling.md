@@ -1,6 +1,6 @@
 ---
 Id: SP-hmzam56hkn
-Origin_Slug: caustic-soda-safety-handling
+rootnotouch: caustic-soda-safety-handling
 Slug: caustic-soda-safety-handling
 Excerpt: >-
   A critical guide for industrial buyers on safe handling, storage, and

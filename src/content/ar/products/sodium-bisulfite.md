@@ -1,5 +1,5 @@
 ---
-Origin_Slug: sodium-bisulfite
+rootnotouch: sodium-bisulfite
 image: /images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp
 category: مركبات الكبريت
 applications:

@@ -1,5 +1,5 @@
 ---
-Origin_Slug: tri-sodium-citrate
+rootnotouch: tri-sodium-citrate
 image: /images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp
 category: السترات
 applications:

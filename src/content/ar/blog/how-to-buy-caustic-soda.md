@@ -1,6 +1,6 @@
 ---
 Id: SP-b994fql6li
-Origin_Slug: how-to-buy-caustic-soda
+rootnotouch: how-to-buy-caustic-soda
 Slug: how-to-shira-as-suda-al-kawia-the-complete-b2b-sourcing-dalil
 Excerpt: A comprehensive B2B guide on how to buy caustic soda (sodium hydroxide),
   covering needs assessment, supplier evaluation, price negotiation, quality control,

@@ -1,6 +1,6 @@
 ---
 Id: SP-17vcu1qcep
-Origin_Slug: water-treatment-chemicals-comparison
+rootnotouch: water-treatment-chemicals-comparison
 Slug: pac
 Excerpt: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
 title: 'مقارنة مواد معالجة المياه: PAC مقابل كبريتات الألومنيوم مقابل كلوريد الحديديك'

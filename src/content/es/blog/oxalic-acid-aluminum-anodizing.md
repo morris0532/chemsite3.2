@@ -1,6 +1,6 @@
 ---
 Id: SP-ez9sbyu923
-Origin_Slug: oxalic-acid-aluminum-anodizing
+rootnotouch: oxalic-acid-aluminum-anodizing
 Slug: cido-ox-lico-para-anodizado-de-aluminio-proceso-y-beneficios
 Excerpt: Descubra el papel crucial del ácido oxálico en el anodizado de aluminio,
   un proceso que mejora la durabilidad, la resistencia a la corrosión y el atractivo

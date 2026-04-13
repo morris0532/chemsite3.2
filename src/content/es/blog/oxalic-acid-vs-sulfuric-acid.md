@@ -1,6 +1,6 @@
 ---
 Id: SP-16awkgare7
-Origin_Slug: oxalic-acid-vs-sulfuric-acid
+rootnotouch: oxalic-acid-vs-sulfuric-acid
 Slug: cido-ox-lico-vs-cido-sulf-rico-diferencias-clave-y-aplicaciones
 Excerpt: Explore las diferencias fundamentales entre el ácido oxálico y el ácido sulfúrico,
   dos productos químicos de gran importancia industrial. Este artículo compara sus

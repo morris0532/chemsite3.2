@@ -1,6 +1,6 @@
 ---
 Id: SP-ht5jl42mjh
-Origin_Slug: oxalic-acid-stainless-steel-passivation
+rootnotouch: oxalic-acid-stainless-steel-passivation
 Slug: 
 Excerpt: Изучите критическую роль щавелевой кислоты в пассивации нержавеющей стали,
   повышающую коррозионную стойкость и качество поверхности. Это руководство охватывает

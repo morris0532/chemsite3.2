@@ -1,6 +1,6 @@
 ---
 Id: SP-yg9w5at4q8
-Origin_Slug: oxalic-acid-comprehensive-guide
+rootnotouch: oxalic-acid-comprehensive-guide
 Slug: oxalic-acid-comprehensive-guide
 Excerpt: >-
   Explore the diverse industrial applications of oxalic acid, its production

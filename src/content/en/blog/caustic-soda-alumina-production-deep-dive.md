@@ -1,6 +1,6 @@
 ---
 Id: SP-yuax5oc0ll
-Origin_Slug: caustic-soda-alumina-production-deep-dive
+rootnotouch: caustic-soda-alumina-production-deep-dive
 Slug: caustic-soda-alumina-production-deep-dive
 Excerpt: >-
   A deep dive into the critical role of caustic soda (sodium hydroxide) in the

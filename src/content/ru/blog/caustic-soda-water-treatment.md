@@ -1,6 +1,6 @@
 ---
 Id: SP-9jm3lkqrrm
-Origin_Slug: caustic-soda-water-treatment
+rootnotouch: caustic-soda-water-treatment
 Slug: kausticheskaya-soda-in-ochistka-vody-essential-primeneniye-benefits-for-promyshlennyy
 Excerpt: Explore the critical role of caustic soda (sodium hydroxide) in industrial
   water treatment, including pH adjustment, alkalinity control, and heavy metal precipitation,

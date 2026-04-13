@@ -1,6 +1,6 @@
 ---
 Id: SP-zcwujbhlk5
-Origin_Slug: oxalic-acid-vs-sulfuric-acid
+rootnotouch: oxalic-acid-vs-sulfuric-acid
 Slug: acide-oxalique-vs-acide-sulfurique-diff-rences-cl-s-et-applications
 Excerpt: Explorez les différences fondamentales entre l'acide oxalique et l'acide
   sulfurique, deux produits chimiques industriellement importants. Cet article compare

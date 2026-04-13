@@ -1,6 +1,6 @@
 ---
 Id: SP-tm1shrwqsr
-Origin_Slug: how-to-choose-right-caustic-soda-grade
+rootnotouch: how-to-choose-right-caustic-soda-grade
 Slug: how-to-choose-right-caustic-soda-grade
 Excerpt: >-
   Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the

@@ -1,6 +1,6 @@
 ---
 Id: SP-gk20dcatf7
-Origin_Slug: oxalic-acid-analytical-chemistry
+rootnotouch: oxalic-acid-analytical-chemistry
 Slug: 
 Excerpt: اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات
   الكيمياء التحليلية، من المعايرة إلى قياس المعقدات.

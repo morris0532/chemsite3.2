@@ -1,6 +1,6 @@
 ---
 Id: SP-7o7p11em81
-Origin_Slug: oxalic-acid-export-europe-reach
+rootnotouch: oxalic-acid-export-europe-reach
 Slug: oxalic-acid-export-europe-reach
 Excerpt: >-
   Navigating the complexities of oxalic acid export to Europe requires strict

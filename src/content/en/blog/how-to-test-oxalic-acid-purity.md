@@ -1,6 +1,6 @@
 ---
 Id: SP-zlooorcsc2
-Origin_Slug: how-to-test-oxalic-acid-purity
+rootnotouch: how-to-test-oxalic-acid-purity
 Slug: how-to-test-oxalic-acid-purity
 Excerpt: >-
   Discover the essential methods for testing oxalic acid purity, including

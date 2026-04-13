@@ -1,6 +1,6 @@
 ---
 Id: SP-giprpr4izg
-Origin_Slug: oxalic-acid-grades-specifications
+rootnotouch: oxalic-acid-grades-specifications
 Slug: oxalic-acid-grades-specifications
 Excerpt: >-
   Explore the different grades and specifications of oxalic acid, including

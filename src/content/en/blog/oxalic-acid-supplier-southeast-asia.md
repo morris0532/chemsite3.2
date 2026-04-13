@@ -1,6 +1,6 @@
 ---
 Id: SP-mg5p2e9vsz
-Origin_Slug: oxalic-acid-supplier-southeast-asia
+rootnotouch: oxalic-acid-supplier-southeast-asia
 Slug: oxalic-acid-supplier-southeast-asia
 Excerpt: >-
   Southeast Asia is a rapidly growing market for oxalic acid, driven by

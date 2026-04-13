@@ -1,5 +1,5 @@
 ---
-Origin_Slug: caustic-soda
+rootnotouch: caustic-soda
 image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: Productos Alcalinos
 applications:

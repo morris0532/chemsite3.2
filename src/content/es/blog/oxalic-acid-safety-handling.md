@@ -1,6 +1,6 @@
 ---
 Id: SP-jzusrelx6t
-Origin_Slug: oxalic-acid-safety-handling
+rootnotouch: oxalic-acid-safety-handling
 Slug: seguridad-y-manejo-del-cido-ox-lico-una-gu-a-completa
 Excerpt: Una guía completa para manejar el ácido oxálico de forma segura. Conozca
   sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento

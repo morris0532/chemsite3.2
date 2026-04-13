@@ -1,6 +1,6 @@
 ---
 Id: SP-li0pf3rbay
-Origin_Slug: oxalic-acid-rare-earth-magnets
+rootnotouch: oxalic-acid-rare-earth-magnets
 Slug: 
 Excerpt: Откройте для себя жизненно важную роль щавелевой кислоты в производстве редкоземельных
   магнитов, особенно в разделении и очистке редкоземельных элементов, которые необходимы

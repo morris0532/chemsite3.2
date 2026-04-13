@@ -1,6 +1,6 @@
 ---
 Id: SP-azrispxqgm
-Origin_Slug: oxalic-acid-uses
+rootnotouch: oxalic-acid-uses
 Slug: 15
 Excerpt: اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
   واستخراج العناصر الأرضية النادرة، والأدوية، وتربية النحل، والمزيد.

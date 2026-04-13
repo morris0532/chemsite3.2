@@ -1,5 +1,5 @@
 ---
-Origin_Slug: sodium-bicarbonate
+rootnotouch: sodium-bicarbonate
 image: /images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp
 category: Produits alcalins
 applications:

@@ -1,6 +1,6 @@
 ---
 Id: SP-4c51y9hn3u
-Origin_Slug: oxalic-acid-export-europe-reach
+rootnotouch: oxalic-acid-export-europe-reach
 Slug: reach
 Excerpt: دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على لوائح
   REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.

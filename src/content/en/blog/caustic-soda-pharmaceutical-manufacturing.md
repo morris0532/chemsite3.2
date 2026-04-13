@@ -1,6 +1,6 @@
 ---
 Id: SP-2rs39es16n
-Origin_Slug: caustic-soda-pharmaceutical-manufacturing
+rootnotouch: caustic-soda-pharmaceutical-manufacturing
 Slug: caustic-soda-pharmaceutical-manufacturing
 Excerpt: >-
   Discover the critical applications of pharmaceutical-grade caustic soda

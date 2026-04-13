@@ -1,6 +1,6 @@
 ---
 Id: SP-21zzlpf2x4
-Origin_Slug: caustic-soda-alumina-production
+rootnotouch: caustic-soda-alumina-production
 Slug: caustic-soda-alumina-production
 Excerpt: >-
   Understand the critical role of caustic soda (sodium hydroxide) in the Bayer

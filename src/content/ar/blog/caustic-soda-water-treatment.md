@@ -1,6 +1,6 @@
 ---
 Id: SP-hkp1xyb2p5
-Origin_Slug: caustic-soda-water-treatment
+rootnotouch: caustic-soda-water-treatment
 Slug: as-suda-al-kawia-in-mualajat-al-miyah-essential-tatbiqat-benefits-for-sinaia
 Excerpt: Explore the critical role of caustic soda (sodium hydroxide) in industrial
   water treatment, including pH adjustment, alkalinity control, and heavy metal precipitation,

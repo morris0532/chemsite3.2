@@ -1,5 +1,5 @@
 ---
-Origin_Slug: sodium-acetate-anhydrous
+rootnotouch: sodium-acetate-anhydrous
 image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 category: Sales Orgánicas
 applications:

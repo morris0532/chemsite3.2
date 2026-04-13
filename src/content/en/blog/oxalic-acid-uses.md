@@ -1,6 +1,6 @@
 ---
 Id: SP-r256kysuln
-Origin_Slug: oxalic-acid-uses
+rootnotouch: oxalic-acid-uses
 Slug: oxalic-acid-uses
 Excerpt: >-
   Explore the diverse industrial applications of oxalic acid, from rust removal

@@ -1,6 +1,6 @@
 ---
 Id: SP-xkuygkxk3q
-Origin_Slug: oxalic-acid-safety-handling
+rootnotouch: oxalic-acid-safety-handling
 Slug: s-curit-et-manipulation-de-l-acide-oxalique-un-guide-complet
 Excerpt: Un guide complet pour manipuler l'acide oxalique en toute sécurité. Apprenez-en
   davantage sur ses propriétés, ses dangers potentiels, l'EPI essentiel, le stockage

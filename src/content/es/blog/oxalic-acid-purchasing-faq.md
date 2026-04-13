@@ -1,6 +1,6 @@
 ---
 Id: SP-1iquapuqlf
-Origin_Slug: oxalic-acid-purchasing-faq
+rootnotouch: oxalic-acid-purchasing-faq
 Slug: preguntas-frecuentes-sobre-la-compra-de-cido-ox-lico-para-compradores-al-por
 Excerpt: Navegue por las complejidades de la adquisición a granel de ácido oxálico
   con nuestra completa sección de preguntas frecuentes, que abarca desde grados y

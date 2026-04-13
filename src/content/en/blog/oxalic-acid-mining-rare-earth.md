@@ -1,6 +1,6 @@
 ---
 Id: SP-9pmnw75895
-Origin_Slug: oxalic-acid-mining-rare-earth
+rootnotouch: oxalic-acid-mining-rare-earth
 Slug: oxalic-acid-mining-rare-earth
 Excerpt: >-
   Explore the critical role of oxalic acid in the mining industry, particularly

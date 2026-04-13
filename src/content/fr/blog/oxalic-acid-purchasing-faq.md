@@ -1,6 +1,6 @@
 ---
 Id: SP-02hvgpfig2
-Origin_Slug: oxalic-acid-purchasing-faq
+rootnotouch: oxalic-acid-purchasing-faq
 Slug: faq-sur-l-achat-d-acide-oxalique-pour-les-acheteurs-en-vrac
 Excerpt: Naviguez dans les complexités de l'approvisionnement en acide oxalique en
   vrac grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux conditions

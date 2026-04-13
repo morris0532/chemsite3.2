@@ -1,6 +1,6 @@
 ---
 Id: SP-ql69whz1u4
-Origin_Slug: oxalic-acid-supplier-china
+rootnotouch: oxalic-acid-supplier-china
 Slug: 2026
 Excerpt: تعلم المعايير الأساسية لاختيار أفضل مصنع لحمض الأكساليك في الصين، من التحقق
   من النقاء والشهادات الدولية إلى ضمان اللوجستيات الآمنة والتواصل الفعال.

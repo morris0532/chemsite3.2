@@ -1,6 +1,6 @@
 ---
 Id: SP-notus8wjs9
-Origin_Slug: oxalic-acid-market-analysis
+rootnotouch: oxalic-acid-market-analysis
 Slug: 
 Excerpt: نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
   الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.

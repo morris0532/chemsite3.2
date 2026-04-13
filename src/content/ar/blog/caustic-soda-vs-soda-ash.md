@@ -1,6 +1,6 @@
 ---
 Id: SP-wm0zduwtmb
-Origin_Slug: caustic-soda-vs-soda-ash
+rootnotouch: caustic-soda-vs-soda-ash
 Slug: as-suda-al-kawia-vs-ramad-as-suda-key-differences-selection-dalil-for-sinaia
 Excerpt: A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃), highlighting
   their chemical differences, applications, and helping industrial buyers choose the

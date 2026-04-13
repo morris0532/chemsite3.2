@@ -1,6 +1,6 @@
 ---
 Id: SP-1qis7187em
-Origin_Slug: oxalic-acid-vs-citric-acid
+rootnotouch: oxalic-acid-vs-citric-acid
 Slug: 
 Excerpt: Сравнительный анализ щавелевой и лимонной кислот, освещающий их химические
   свойства, промышленное и бытовое применение, профили безопасности и экологические

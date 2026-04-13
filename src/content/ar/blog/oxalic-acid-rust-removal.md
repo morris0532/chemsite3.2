@@ -1,6 +1,6 @@
 ---
 Id: SP-3fngo1cu0g
-Origin_Slug: izalat-as-sada-bihamd-al-oxalic-al-sinaia
+rootnotouch: izalat-as-sada-bihamd-al-oxalic-al-sinaia
 Slug: 
 Excerpt: تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
   الحديد من الخشب، مع نصائح حول التركيز والسلامة وأفضل الممارسات.

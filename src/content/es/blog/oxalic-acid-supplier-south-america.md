@@ -1,6 +1,6 @@
 ---
 Id: SP-alspnvx52i
-Origin_Slug: oxalic-acid-supplier-south-america
+rootnotouch: oxalic-acid-supplier-south-america
 Slug: proveedor-de-cido-ox-lico-para-el-mercado-de-sudam-rica-brasil-chile-y
 Excerpt: SinoPeakChem es su proveedor confiable de ácido oxálico para el dinámico
   mercado sudamericano, atendiendo a naciones clave como Brasil, Chile y Colombia

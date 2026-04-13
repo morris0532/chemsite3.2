@@ -1,6 +1,6 @@
 ---
 Id: SP-v2wq13ya89
-Origin_Slug: oxalic-acid-supplier-middle-east
+rootnotouch: oxalic-acid-supplier-middle-east
 Slug: fournisseur-d-acide-oxalique-pour-le-march-du-moyen-orient-eau-arabie
 Excerpt: Le Moyen-Orient est un marché dynamique pour l'acide oxalique, stimulé par
   des industries comme l'entretien de la pierre, le pétrole et le gaz, et le textile.

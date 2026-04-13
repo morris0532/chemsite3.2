@@ -1,6 +1,6 @@
 ---
 Id: SP-jio4gutw7b
-Origin_Slug: how-to-choose-the-right-chem-supplier-from-china
+rootnotouch: how-to-choose-the-right-chem-supplier-from-china
 Slug: 
 Excerpt: Подробное руководство по выбору надежного поставщика химикатов в Китае, охватывающее
   квалификацию поставщика, контроль качества, цепочку поставок, экономическую эффективность

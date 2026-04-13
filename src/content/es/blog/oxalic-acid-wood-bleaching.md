@@ -1,6 +1,6 @@
 ---
 Id: SP-q9t4bvuihp
-Origin_Slug: oxalic-acid-wood-bleaching
+rootnotouch: oxalic-acid-wood-bleaching
 Slug: cido-ox-lico-para-el-blanqueo-y-limpieza-de-madera-una-gu-a-profesional
 Excerpt: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
   guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas

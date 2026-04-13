@@ -1,6 +1,6 @@
 ---
 Id: SP-pfukee3vm9
-Origin_Slug: oxalic-acid-industry-innovations
+rootnotouch: oxalic-acid-industry-innovations
 Slug: 
 Excerpt: اكتشف أحدث التطورات في إنتاج حمض الأكساليك، من طرق الكيمياء الخضراء إلى مبادرات
   الاقتصاد الدائري، وكيف تعمل هذه الابتكارات على تعزيز الاستدامة والكفاءة.

@@ -1,6 +1,6 @@
 ---
 Id: SP-8ybqaswq0m
-Origin_Slug: oxalic-acid-price
+rootnotouch: oxalic-acid-price
 Slug: hamd-al-oxalic-siar-trend-2025-factors-affecting-cost
 Excerpt: Stay informed about the latest oxalic acid price trends for 2025. Explore
   the key factors influencing costs, from raw materials to energy prices, and learn

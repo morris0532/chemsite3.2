@@ -1,6 +1,6 @@
 ---
 Id: SP-cu801jfn16
-Origin_Slug: caustic-soda-pulp-paper-industry
+rootnotouch: caustic-soda-pulp-paper-industry
 Slug: soda-caustica-in-pulp-paper-industry-key-processes-environmental-considerations
 Excerpt: Discover the vital role of caustic soda (sodium hydroxide) in the pulp and
   paper industry, from pulping and bleaching to de-inking, alongside its environmental

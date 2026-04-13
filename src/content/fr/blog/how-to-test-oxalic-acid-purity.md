@@ -1,6 +1,6 @@
 ---
 Id: SP-5arn0g83vn
-Origin_Slug: how-to-test-oxalic-acid-purity
+rootnotouch: how-to-test-oxalic-acid-purity
 Slug: comment-tester-la-puret-de-l-acide-oxalique-un-guide-complet
 Excerpt: Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique,
   y compris le titrage au permanganate de potassium, la détermination du point de

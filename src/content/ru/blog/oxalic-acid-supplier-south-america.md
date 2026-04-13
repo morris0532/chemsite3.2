@@ -1,6 +1,6 @@
 ---
 Id: SP-uawz7qb5zf
-Origin_Slug: oxalic-acid-supplier-south-america
+rootnotouch: oxalic-acid-supplier-south-america
 Slug: 
 Excerpt: SinoPeakChem — ваш надежный поставщик щавелевой кислоты для динамичного южноамериканского
   рынка, обслуживающий ключевые страны, такие как Бразилия, Чили и Колумбия, качественной

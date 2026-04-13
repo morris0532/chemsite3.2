@@ -1,6 +1,6 @@
 ---
 Id: SP-9dircoo2vq
-Origin_Slug: oxalic-acid-supplier-china
+rootnotouch: oxalic-acid-supplier-china
 Slug: 
 Excerpt: Китай производит более 70% мировой щавелевой кислоты. Узнайте, как оценивать
   китайских поставщиков, проверять сертификаты качества и обеспечивать стабильную

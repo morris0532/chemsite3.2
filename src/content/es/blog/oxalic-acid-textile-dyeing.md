@@ -1,6 +1,6 @@
 ---
 Id: SP-91te88mmva
-Origin_Slug: oxalic-acid-textile-dyeing
+rootnotouch: oxalic-acid-textile-dyeing
 Slug: cido-ox-lico-para-te-ido-e-impresi-n-textil-aplicaciones-industriales
 Excerpt: Explora el papel vital del ácido oxálico en la industria textil, desde su
   uso como auxiliar de teñido y agente reductor en impresión hasta su eficacia en

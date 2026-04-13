@@ -1,5 +1,5 @@
 ---
-Origin_Slug: sodium-sulfate-anhydrous
+rootnotouch: sodium-sulfate-anhydrous
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: Сульфатные соединения
 applications:

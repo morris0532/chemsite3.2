@@ -1,6 +1,6 @@
 ---
 Id: SP-pscwqk2inw
-Origin_Slug: chemical-shipping-logistics-china-guide
+rootnotouch: chemical-shipping-logistics-china-guide
 Slug: 
 Excerpt: Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте
   о правилах, требованиях к упаковке и выборе правильного логистического партнера.

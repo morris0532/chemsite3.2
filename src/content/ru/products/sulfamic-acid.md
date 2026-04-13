@@ -1,5 +1,5 @@
 ---
-Origin_Slug: sulfamic-acid
+rootnotouch: sulfamic-acid
 image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
 category: Специальные кислоты
 applications:

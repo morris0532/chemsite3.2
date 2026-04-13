@@ -1,6 +1,6 @@
 ---
 Id: SP-uvm1pbz6c4
-Origin_Slug: caustic-soda-packaging-logistics
+rootnotouch: caustic-soda-packaging-logistics
 Slug: caustic-soda-packaging-logistics
 Excerpt: >-
   A comprehensive guide for B2B buyers on caustic soda packaging, international

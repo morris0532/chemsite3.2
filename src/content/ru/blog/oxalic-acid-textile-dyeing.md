@@ -1,6 +1,6 @@
 ---
 Id: SP-f0tgosnzg8
-Origin_Slug: oxalic-acid-textile-dyeing
+rootnotouch: oxalic-acid-textile-dyeing
 Slug: 
 Excerpt: Изучите жизненно важную роль щавелевой кислоты в текстильной промышленности,
   от ее использования в качестве вспомогательного средства для крашения и восстановителя

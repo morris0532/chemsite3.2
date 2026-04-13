@@ -1,6 +1,6 @@
 ---
 Id: SP-8q7557lhj1
-Origin_Slug: oxalic-acid-supplier-south-asia
+rootnotouch: oxalic-acid-supplier-south-asia
 Slug: oxalic-acid-supplier-south-asia
 Excerpt: >-
   SinoPeakChem is a leading oxalic acid supplier for the South Asian market,

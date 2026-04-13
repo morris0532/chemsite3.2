@@ -1,6 +1,6 @@
 ---
 Id: SP-ud0fvvjtji
-Origin_Slug: oxalic-acid-grades-specifications
+rootnotouch: oxalic-acid-grades-specifications
 Slug: 
 Excerpt: تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة الصيدلانية،
   وافهم مواصفاتها الفنية وتطبيقاتها ومعايير الصناعة.

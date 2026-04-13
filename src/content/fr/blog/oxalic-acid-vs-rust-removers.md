@@ -1,6 +1,6 @@
 ---
 Id: SP-ne5o37rc0q
-Origin_Slug: oxalic-acid-vs-rust-removers
+rootnotouch: oxalic-acid-vs-rust-removers
 Slug: acide-oxalique-vs-autres-d-graissants-lequel-choisir
 Excerpt: Comparez l'acide oxalique avec d'autres dégraissants courants comme l'acide
   phosphorique, l'acide citrique et les méthodes mécaniques. Découvrez leurs avantages,

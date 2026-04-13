@@ -1,6 +1,6 @@
 ---
 Id: SP-i85421pj38
-Origin_Slug: what-is-caustic-soda
+rootnotouch: what-is-caustic-soda
 Slug: what-is-soude-caustique-a-complete-guide-for-industriel-buyers
 Excerpt: 'Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
   applications, grades, safety, and how to source it for your business.'

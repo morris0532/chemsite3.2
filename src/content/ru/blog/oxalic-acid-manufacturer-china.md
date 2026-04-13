@@ -1,6 +1,6 @@
 ---
 Id: SP-na1x2xsm1c
-Origin_Slug: oxalic-acid-manufacturer-china
+rootnotouch: oxalic-acid-manufacturer-china
 Slug: 
 Excerpt: Узнайте, почему Китай доминирует на мировом рынке щавелевой кислоты. Подробнее
   о контроле качества, международных сертификациях, эффективных экспортных процессах

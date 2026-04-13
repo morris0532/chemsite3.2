@@ -1,6 +1,6 @@
 ---
 Id: SP-qknh7h85fs
-Origin_Slug: caustic-soda-price-trends-market-analysis
+rootnotouch: caustic-soda-price-trends-market-analysis
 Slug: soude-caustique-prix-trends-market-analysis-2024-2025-a-b2b-buyer-s-guide
 Excerpt: An in-depth analysis of global caustic soda price trends, market drivers,
   supply-demand dynamics, and future outlook for industrial B2B buyers in 2024-2025.

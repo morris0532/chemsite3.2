@@ -1,6 +1,6 @@
 ---
 Id: SP-sk074jxpit
-Origin_Slug: oxalic-acid-leather-tanning
+rootnotouch: oxalic-acid-leather-tanning
 Slug: 
 Excerpt: Исследуйте жизненно важную роль щавелевой кислоты в дублении и окрашивании
   кожи, от ее исторического использования в традиционных методах до ее современного

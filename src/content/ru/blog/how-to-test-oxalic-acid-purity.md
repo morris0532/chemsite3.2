@@ -1,6 +1,6 @@
 ---
 Id: SP-1op0j395lw
-Origin_Slug: how-to-test-oxalic-acid-purity
+rootnotouch: how-to-test-oxalic-acid-purity
 Slug: 
 Excerpt: Откройте для себя основные методы проверки чистоты щавелевой кислоты, включая
   титрование перманганатом калия, определение температуры плавления и спектроскопический

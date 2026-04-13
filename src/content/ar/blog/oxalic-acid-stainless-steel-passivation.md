@@ -1,6 +1,6 @@
 ---
 Id: SP-a9ygx18ur6
-Origin_Slug: oxalic-acid-stainless-steel-passivation
+rootnotouch: oxalic-acid-stainless-steel-passivation
 Slug: 
 Excerpt: اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
   المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.

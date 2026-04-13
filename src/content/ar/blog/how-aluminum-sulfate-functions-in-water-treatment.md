@@ -1,6 +1,6 @@
 ---
 Id: SP-xdjs3fwsuf
-Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
+rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
 Slug: 
 Excerpt: اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى
   معالجة مياه الصرف الصناعي.

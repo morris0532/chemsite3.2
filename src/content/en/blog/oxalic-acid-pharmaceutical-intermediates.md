@@ -1,6 +1,6 @@
 ---
 Id: SP-e9qowx5mo1
-Origin_Slug: oxalic-acid-pharmaceutical-intermediates
+rootnotouch: oxalic-acid-pharmaceutical-intermediates
 Slug: oxalic-acid-pharmaceutical-intermediates
 Excerpt: >-
   Explore the critical role of oxalic acid as a versatile building block and

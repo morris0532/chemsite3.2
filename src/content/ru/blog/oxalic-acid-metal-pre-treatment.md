@@ -1,6 +1,6 @@
 ---
 Id: SP-b9dodh19tr
-Origin_Slug: oxalic-acid-metal-pre-treatment
+rootnotouch: oxalic-acid-metal-pre-treatment
 Slug: 
 Excerpt: Изучите решающую роль щавелевой кислоты в предварительной обработке металлических
   поверхностей, от очистки и обезжиривания до пассивации, повышая адгезию покрытий

@@ -1,6 +1,6 @@
 ---
 Id: SP-sb332jt9tw
-Origin_Slug: oxalic-acid-analytical-chemistry
+rootnotouch: oxalic-acid-analytical-chemistry
 Slug: 
 Excerpt: Откройте для себя фундаментальную роль щавелевой кислоты как первичного стандарта
   и восстановителя в различных методах аналитической химии, от титрования до комплексометрии.

@@ -1,6 +1,6 @@
 ---
 Id: SP-1g3bhao3sz
-Origin_Slug: oxalic-acid-dosage-calculation
+rootnotouch: oxalic-acid-dosage-calculation
 Slug: 
 Excerpt: Освойте искусство расчета дозировки щавелевой кислоты для различных промышленных
   и бытовых применений. Это руководство охватывает основные формулы, практические

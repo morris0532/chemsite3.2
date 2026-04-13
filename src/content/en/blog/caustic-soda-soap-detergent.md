@@ -1,6 +1,6 @@
 ---
 Id: SP-h6viaw1385
-Origin_Slug: caustic-soda-soap-detergent
+rootnotouch: caustic-soda-soap-detergent
 Slug: caustic-soda-soap-detergent
 Excerpt: >-
   Discover the fundamental role of caustic soda (sodium hydroxide) in the

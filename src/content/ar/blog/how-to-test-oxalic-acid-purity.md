@@ -1,6 +1,6 @@
 ---
 Id: SP-a8b5gyftm5
-Origin_Slug: how-to-test-oxalic-acid-purity
+rootnotouch: how-to-test-oxalic-acid-purity
 Slug: 
 Excerpt: دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل
   الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.

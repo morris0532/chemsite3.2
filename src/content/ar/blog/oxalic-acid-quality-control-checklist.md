@@ -1,6 +1,6 @@
 ---
 Id: SP-hbwvg7pmnw
-Origin_Slug: oxalic-acid-quality-control-checklist
+rootnotouch: oxalic-acid-quality-control-checklist
 Slug: 
 Excerpt: دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في
   العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.

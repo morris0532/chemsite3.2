@@ -1,6 +1,6 @@
 ---
 Id: SP-458tta5ggr
-Origin_Slug: oxalic-acid-price
+rootnotouch: oxalic-acid-price
 Slug: tendencia-del-precio-del-cido-ox-lico-2025-factores-que-afectan-el-costo
 Excerpt: Manténgase informado sobre las últimas tendencias de precios del ácido oxálico
   para 2025. Explore los factores clave que influyen en los costos, desde las materias

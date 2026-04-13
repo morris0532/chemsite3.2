@@ -1,6 +1,6 @@
 ---
 Id: SP-e3sq37fqgh
-Origin_Slug: caustic-soda-alumina-production-deep-dive
+rootnotouch: caustic-soda-alumina-production-deep-dive
 Slug: soude-caustique-in-alumina-production-the-bayer-process-explained-for-industriel
 Excerpt: A deep dive into the critical role of caustic soda (sodium hydroxide) in
   the Bayer process for alumina production, covering digestion, clarification, precipitation,

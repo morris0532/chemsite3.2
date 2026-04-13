@@ -1,6 +1,6 @@
 ---
 Id: SP-kkx16df0kb
-Origin_Slug: oxalic-acid-rare-earth-magnets
+rootnotouch: oxalic-acid-rare-earth-magnets
 Slug: cido-ox-lico-en-im-nes-de-tierras-raras-un-componente-cr-tico
 Excerpt: Descubra el papel vital del ácido oxálico en la producción de imanes de tierras
   raras, particularmente en la separación y purificación de elementos de tierras raras,

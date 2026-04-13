@@ -1,6 +1,6 @@
 ---
 Id: SP-knxgnl4aoz
-Origin_Slug: oxalic-acid-leather-tanning
+rootnotouch: oxalic-acid-leather-tanning
 Slug: acide-oxalique-pour-le-tannage-et-la-teinture-du-cuir-m-thodes-traditionnelles
 Excerpt: Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture
   du cuir, de son utilisation historique dans les méthodes traditionnelles à ses applications

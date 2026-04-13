@@ -1,6 +1,6 @@
 ---
 Id: SP-kmkrvh58jy
-Origin_Slug: caustic-soda-mining-mineral-processing
+rootnotouch: caustic-soda-mining-mineral-processing
 Slug: caustic-soda-mining-mineral-processing
 Excerpt: >-
   Explore the vital role of caustic soda (sodium hydroxide) in the mining and

@@ -1,6 +1,6 @@
 ---
 Id: SP-rjt4d8kpqc
-Origin_Slug: oxalic-acid-water-treatment
+rootnotouch: oxalic-acid-water-treatment
 Slug: 
 Excerpt: كيف يساعد حمض الأكساليك في إزالة المعادن الثقيلة والترسبات الكلسية وتحسين
   جودة المياه في العمليات الصناعية.

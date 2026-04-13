@@ -1,6 +1,6 @@
 ---
 Id: SP-10kjje295r
-Origin_Slug: oxalic-acid-quality-control-checklist
+rootnotouch: oxalic-acid-quality-control-checklist
 Slug: liste-de-contr-le-de-la-qualit-de-l-acide-oxalique-assurer-la-puret-et
 Excerpt: Assurer la pureté et la qualité de l'acide oxalique est primordial pour ses
   diverses applications industrielles. Cette liste de contrôle complète guide les

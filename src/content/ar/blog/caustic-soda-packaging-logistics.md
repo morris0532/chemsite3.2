@@ -1,6 +1,6 @@
 ---
 Id: SP-o4ci3zuyfr
-Origin_Slug: caustic-soda-packaging-logistics
+rootnotouch: caustic-soda-packaging-logistics
 Slug: as-suda-al-kawia-packaging-logistics-a-dalil-for-international-b2b-buyers
 Excerpt: A comprehensive guide for B2B buyers on caustic soda packaging, international
   shipping regulations, dangerous goods handling, and essential documentation for

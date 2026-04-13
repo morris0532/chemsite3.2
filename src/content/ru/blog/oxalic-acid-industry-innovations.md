@@ -1,6 +1,6 @@
 ---
 Id: SP-xtx4yypgg9
-Origin_Slug: oxalic-acid-industry-innovations
+rootnotouch: oxalic-acid-industry-innovations
 Slug: 
 Excerpt: Изучите последние инновации в производстве щавелевой кислоты, сосредоточившись
   на достижениях в области зеленой химии, передовых методах очистки и инициативах

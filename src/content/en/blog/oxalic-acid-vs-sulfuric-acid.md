@@ -1,6 +1,6 @@
 ---
 Id: SP-lqdd5wtw7b
-Origin_Slug: oxalic-acid-vs-sulfuric-acid
+rootnotouch: oxalic-acid-vs-sulfuric-acid
 Slug: oxalic-acid-vs-sulfuric-acid
 Excerpt: >-
   Explore the fundamental differences between oxalic acid and sulfuric acid, two

@@ -1,6 +1,6 @@
 ---
 Id: SP-3hhgbygzno
-Origin_Slug: oxalic-acid-aluminum-anodizing
+rootnotouch: oxalic-acid-aluminum-anodizing
 Slug: oxalic-acid-aluminum-anodizing
 Excerpt: >-
   Discover the crucial role of oxalic acid in aluminum anodizing, a process that

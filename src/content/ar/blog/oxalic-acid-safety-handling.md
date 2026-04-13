@@ -1,6 +1,6 @@
 ---
 Id: SP-7h7njep6ts
-Origin_Slug: oxalic-acid-safety-handling
+rootnotouch: oxalic-acid-safety-handling
 Slug: 
 Excerpt: دليل شامل حول السلامة عند التعامل مع حمض الأكساليك، يغطي معدات الوقاية الشخصية
   (PPE)، وبروتوكولات التخزين، وإجراءات الطوارئ، والتخلص من النفايات.

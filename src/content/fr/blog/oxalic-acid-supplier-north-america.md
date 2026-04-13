@@ -1,6 +1,6 @@
 ---
 Id: SP-pb6hey1mmk
-Origin_Slug: oxalic-acid-supplier-north-america
+rootnotouch: oxalic-acid-supplier-north-america
 Slug: fournisseur-d-acide-oxalique-pour-le-march-nord-am-ricain-tats-unis
 Excerpt: SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché
   nord-américain, desservant des pays clés comme les États-Unis, le Canada et le Mexique

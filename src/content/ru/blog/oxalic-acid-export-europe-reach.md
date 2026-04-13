@@ -1,6 +1,6 @@
 ---
 Id: SP-yak7t4qjlh
-Origin_Slug: oxalic-acid-export-europe-reach
+rootnotouch: oxalic-acid-export-europe-reach
 Slug: reach
 Excerpt: Навигация по сложностям экспорта щавелевой кислоты в Европу требует строгого
   соблюдения регламента REACH. SinoPeakChem поставляет высококачественную, соответствующую

@@ -1,6 +1,6 @@
 ---
 Id: SP-fzptf2rbum
-Origin_Slug: oxalic-acid-industry-innovations
+rootnotouch: oxalic-acid-industry-innovations
 Slug: oxalic-acid-industry-innovations
 Excerpt: >-
   Explore the latest innovations in the oxalic acid industry, focusing on

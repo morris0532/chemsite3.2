@@ -1,6 +1,6 @@
 ---
 Id: SP-6n54y94ogb
-Origin_Slug: oxalic-acid-vs-rust-removers
+rootnotouch: oxalic-acid-vs-rust-removers
 Slug: 
 Excerpt: لماذا يفضل المحترفون حمض الأكساليك النقي على مزيلات الصدأ التجارية باهظة
   الثمن؟ اكتشف الفروق في الفعالية والسعر.

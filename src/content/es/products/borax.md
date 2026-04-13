@@ -1,5 +1,5 @@
 ---
-Origin_Slug: borax
+rootnotouch: borax
 image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
 category: Compuestos de Boro
 applications:

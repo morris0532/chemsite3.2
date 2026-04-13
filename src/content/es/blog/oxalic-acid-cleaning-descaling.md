@@ -1,6 +1,6 @@
 ---
 Id: SP-ep3arv0hvz
-Origin_Slug: oxalic-acid-cleaning-descaling
+rootnotouch: oxalic-acid-cleaning-descaling
 Slug: cido-ox-lico-para-limpieza-y-desincrustaci-n-usos-dom-sticos-e-industriales
 Excerpt: Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación,
   desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales.

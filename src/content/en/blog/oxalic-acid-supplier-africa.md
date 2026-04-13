@@ -1,6 +1,6 @@
 ---
 Id: SP-bwm0z03g5d
-Origin_Slug: oxalic-acid-supplier-africa
+rootnotouch: oxalic-acid-supplier-africa
 Slug: oxalic-acid-supplier-africa
 Excerpt: >-
   SinoPeakChem is your dedicated oxalic acid supplier for the African market,

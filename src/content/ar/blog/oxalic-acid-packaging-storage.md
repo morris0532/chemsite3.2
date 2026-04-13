@@ -1,6 +1,6 @@
 ---
 Id: SP-tm6c3p8vvx
-Origin_Slug: oxalic-acid-packaging-storage
+rootnotouch: oxalic-acid-packaging-storage
 Slug: 
 Excerpt: دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك
   لضمان طول عمر المنتج وسلامة التعامل معه.

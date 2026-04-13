@@ -1,6 +1,6 @@
 ---
 Id: SP-6qopkjkdf3
-Origin_Slug: caustic-soda-soap-detergent
+rootnotouch: caustic-soda-soap-detergent
 Slug: soda-caustica-in-soap-detergent-manufacturing-saponification-formulation
 Excerpt: Discover the fundamental role of caustic soda (sodium hydroxide) in the production
   of soaps and detergents, from the saponification process to its use in various cleaning

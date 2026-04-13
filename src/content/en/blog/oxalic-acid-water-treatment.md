@@ -1,6 +1,6 @@
 ---
 Id: SP-vr2tgx6vzm
-Origin_Slug: oxalic-acid-water-treatment
+rootnotouch: oxalic-acid-water-treatment
 Slug: oxalic-acid-water-treatment
 Excerpt: >-
   Discover how oxalic acid effectively removes iron and manganese from water,

@@ -1,6 +1,6 @@
 ---
 Id: SP-ta8sjh5r69
-Origin_Slug: oxalic-acid-wood-bleaching
+rootnotouch: oxalic-acid-wood-bleaching
 Slug: 
 Excerpt: تعلم كيفية استخدام حمض الأكساليك لإزالة بقع الماء والصدأ من الخشب وإعادة
   اللون الطبيعي للأخشاب القديمة.

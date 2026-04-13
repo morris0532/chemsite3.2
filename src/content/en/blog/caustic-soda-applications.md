@@ -1,6 +1,6 @@
 ---
 Id: SP-92awep831l
-Origin_Slug: caustic-soda-applications
+rootnotouch: caustic-soda-applications
 Slug: caustic-soda-applications
 Excerpt: >-
   Explore the diverse industrial uses of caustic soda (sodium hydroxide) across

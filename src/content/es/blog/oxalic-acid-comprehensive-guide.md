@@ -1,6 +1,6 @@
 ---
 Id: SP-vu8f7lth01
-Origin_Slug: oxalic-acid-comprehensive-guide
+rootnotouch: oxalic-acid-comprehensive-guide
 Slug: cido-ox-lico-una-gu-a-integral-sobre-aplicaciones-industriales-producci-n
 Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
   de producción, gestión de seguridad, estrategias ambientales y perspectivas futuras
