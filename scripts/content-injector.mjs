@@ -67,7 +67,7 @@ const contentMetadata = {
           
           contentMetadata[locale][type].push({
             title: data.title || data.name || '',
-            slug: data.slug || file.replace('.md', ''),
+            slug: data.slug || data.Slug || file.replace('.md', ''),
             date: data.date || '',
             cas: data.cas || '',
             image: data.image || ''
@@ -101,8 +101,23 @@ routes.forEach(route => {
   const slug = parts[2];
 
   if (parts.length === 3 && (type === 'blog' || type === 'products')) {
-    const mdFilePath = path.join(contentDir, locale, type, `${slug}.md`);
-    if (fs.existsSync(mdFilePath)) {
+    // Find the markdown file by slug in frontmatter or filename
+    const dir = path.join(contentDir, locale, type);
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+    let mdFilePath = '';
+    
+    for (const file of files) {
+      const fullPath = path.join(dir, file);
+      const fileContent = fs.readFileSync(fullPath, 'utf-8');
+      const { data } = matter(fileContent);
+      const fileSlug = data.slug || data.Slug || file.replace('.md', '');
+      if (fileSlug === slug) {
+        mdFilePath = fullPath;
+        break;
+      }
+    }
+
+    if (mdFilePath && fs.existsSync(mdFilePath)) {
       const fileContent = fs.readFileSync(mdFilePath, 'utf-8');
       const { data, content } = matter(fileContent);
       

@@ -34,8 +34,8 @@ export default function markdownPlugin() {
                 const fileContent = fs.readFileSync(filePath, 'utf-8');
                 const { data: frontmatter, content } = matter(fileContent);
                 posts.push({
-                  id: frontmatter.id || file.replace('.md', ''),
-                  slug: frontmatter.slug || file.replace('.md', ''),
+                  id: frontmatter.id || frontmatter.Id || file.replace('.md', ''),
+                  slug: frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   title: frontmatter.title || '',
                   excerpt: frontmatter.excerpt || '',
                   content: content,
@@ -57,8 +57,8 @@ export default function markdownPlugin() {
                 const fileContent = fs.readFileSync(filePath, 'utf-8');
                 const { data: frontmatter, content } = matter(fileContent);
                 products.push({
-                  id: frontmatter.id || file.replace('.md', ''),
-                  slug: frontmatter.slug || file.replace('.md', ''),
+                  id: frontmatter.id || frontmatter.Id || file.replace('.md', ''),
+                  slug: frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   name: frontmatter.name || '',
                   category: frontmatter.category || 'Chemicals',
                   shortDescription: frontmatter.shortDescription || '',

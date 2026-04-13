@@ -34,7 +34,7 @@ export function getPrerenderRoutes() {
           const fileContent = fs.readFileSync(path.join(blogDir, file), 'utf-8');
           const { data } = matter(fileContent);
           if (data.draft !== true) {
-            const slug = file.replace('.md', '');
+            const slug = data.slug || data.Slug || file.replace('.md', '');
             routes.push(`/${locale}/blog/${slug}`);
           }
         }
@@ -50,7 +50,7 @@ export function getPrerenderRoutes() {
           const fileContent = fs.readFileSync(path.join(productDir, file), 'utf-8');
           const { data } = matter(fileContent);
           if (data.draft !== true) {
-            const slug = file.replace('.md', '');
+            const slug = data.slug || data.Slug || file.replace('.md', '');
             routes.push(`/${locale}/products/${slug}`);
           }
         }
