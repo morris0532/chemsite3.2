@@ -29,9 +29,6 @@ export const generateProductSchema = (product: any, locale: string) => {
     "offers": {
       "@type": "Offer",
       "url": `https://www.sinopeakchem.com/${locale}/products/${product.slug}`,
-      "price": "0",
-      "priceCurrency": "USD",
-      "priceValidUntil": "2027-12-31",
       "availability": "https://schema.org/InStock",
       "hasReturnPolicy": {
         "@type": "MerchantReturnPolicy",
@@ -72,26 +69,7 @@ export const generateProductSchema = (product: any, locale: string) => {
         "@type": "Organization",
         "name": "Sinopeakchem"
       }
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "128"
-    },
-    "review": [
-      {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Global Buyer"
-        },
-        "reviewBody": "Excellent quality and professional service. Highly recommended for industrial chemical sourcing."
-      }
-    ]
+    }
   };
 };
 
