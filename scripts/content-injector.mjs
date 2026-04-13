@@ -97,6 +97,7 @@ routes.forEach(route => {
   let ogImage = 'https://www.sinopeakchem.com/images/og-image.jpg';
   let jsonLd = null;
   let lcpImage = '';
+  let currentOriginSlug = '';
 
   const parts = route.split('/').filter(Boolean); 
   const locale = parts[0] || 'en';
@@ -116,6 +117,7 @@ routes.forEach(route => {
       const fileSlug = data.slug || data.Slug || file.replace('.md', '');
       if (fileSlug === slug) {
         mdFilePath = fullPath;
+        currentOriginSlug = data.origin_slug || data.Origin_Slug || data.slug || data.Slug || file.replace('.md', '');
         break;
       }
     }
@@ -325,18 +327,33 @@ routes.forEach(route => {
     const cleanDesc = description.replace(/"/g, '&quot;').replace(/\n/g, ' ').trim();
     html = html.replace(/<meta\s+name="description"\s+content=".*?"\s*\/?>/i, `<meta name="description" content="${cleanDesc}" />`);
 
-    // Inject Hreflang Tags
+    // --- 修复后的多语言切换逻辑 (Hreflang) ---
     const availableLocales = ['en', 'ru', 'fr', 'es', 'ar'];
     let hreflangTags = '\n';
     
-    const pathWithoutLocale = parts.slice(1).join('/');
-    const suffix = pathWithoutLocale ? `/${pathWithoutLocale}` : '';
-
     availableLocales.forEach(l => {
-      const href = `${BASE_URL}/${l}${suffix}`;
+      let targetSlug = '';
+      
+      if (parts.length === 3) { // 详情页 (Product 或 Blog)
+        const targetPost = contentMetadata[l][type].find(p => p.originSlug === currentOriginSlug);
+        targetSlug = targetPost ? `${type}/${targetPost.slug}` : `${type}/${slug}`;
+      } else { // 列表页或基础页面
+        targetSlug = parts.slice(1).join('/');
+      }
+
+      const href = `${BASE_URL}/${l}${targetSlug ? '/' + targetSlug : ''}`;
       hreflangTags += `    <link rel="alternate" hreflang="${l}" href="${href}" />\n`;
     });
-    hreflangTags += `    <link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${suffix}" />`;
+
+    // 添加 x-default (指向英语版)
+    let defaultSlug = '';
+    if (parts.length === 3) {
+      const defaultPost = contentMetadata['en'][type].find(p => p.originSlug === currentOriginSlug);
+      defaultSlug = defaultPost ? `${type}/${defaultPost.slug}` : `${type}/${slug}`;
+    } else {
+      defaultSlug = parts.slice(1).join('/');
+    }
+    hreflangTags += `    <link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${defaultSlug ? '/' + defaultSlug : ''}" />`;
     
     // Remove existing hreflang tags to avoid duplication
     html = html.replace(/<link rel="alternate" hreflang=".*?" href=".*?" \/>/g, '');
