@@ -40,8 +40,16 @@ function formatUrlEntry(loc, changefreq, priority, alternates) {
   return entry;
 }
 
+/**
+ * Helper to check if a content file exists for a given locale and slug
+ */
+function contentExists(locale, type, slug) {
+  const filePath = path.join(CONTENT_DIR, locale, type, `${slug}.md`);
+  return fs.existsSync(filePath);
+}
+
 async function generateSitemap() {
-  console.log('Starting advanced sitemap generation...');
+  console.log('Starting advanced sitemap generation with ghost page protection...');
   const sitemaps = [];
 
   // 1. Static Pages Sitemap
@@ -76,9 +84,12 @@ async function generateSitemap() {
   });
 
   productSlugs.forEach(slug => {
+    // Only include locales where the product actually exists
+    const availableLocales = LOCALES.filter(l => contentExists(l, 'products', slug));
     const alternates = {};
-    LOCALES.forEach(l => alternates[l] = `${SITE_URL}/${l}/products/${slug}`);
-    LOCALES.forEach(l => {
+    availableLocales.forEach(l => alternates[l] = `${SITE_URL}/${l}/products/${slug}`);
+    
+    availableLocales.forEach(l => {
       productXml += formatUrlEntry(alternates[l], 'monthly', '0.9', alternates);
     });
   });
@@ -86,7 +97,7 @@ async function generateSitemap() {
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-products.xml'), productXml);
   sitemaps.push('sitemap-products.xml');
 
-  // 3. Blog Sitemap (Supports splitting if > 1000 items per file to be safe, though Google limit is 50k)
+  // 3. Blog Sitemap
   const blogSlugs = new Set();
   LOCALES.forEach(l => {
     const dir = path.join(CONTENT_DIR, l, 'blog');
@@ -102,7 +113,7 @@ async function generateSitemap() {
   });
 
   const blogSlugsArray = Array.from(blogSlugs);
-  const CHUNK_SIZE = 1000; // Conservative chunk size for blog posts
+  const CHUNK_SIZE = 1000;
   for (let i = 0; i < blogSlugsArray.length; i += CHUNK_SIZE) {
     const chunk = blogSlugsArray.slice(i, i + CHUNK_SIZE);
     const chunkIndex = Math.floor(i / CHUNK_SIZE) + 1;
@@ -110,9 +121,12 @@ async function generateSitemap() {
     
     let blogXml = getXmlHeader();
     chunk.forEach(slug => {
+      // Only include locales where the blog post actually exists
+      const availableLocales = LOCALES.filter(l => contentExists(l, 'blog', slug));
       const alternates = {};
-      LOCALES.forEach(l => alternates[l] = `${SITE_URL}/${l}/blog/${slug}`);
-      LOCALES.forEach(l => {
+      availableLocales.forEach(l => alternates[l] = `${SITE_URL}/${l}/blog/${slug}`);
+      
+      availableLocales.forEach(l => {
         blogXml += formatUrlEntry(alternates[l], 'monthly', '0.6', alternates);
       });
     });
