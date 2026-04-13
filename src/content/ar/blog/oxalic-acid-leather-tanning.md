@@ -19,7 +19,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة
 
 تعد صناعة الجلود واحدة من أقدم الصناعات التحويلية، وقد لعب حمض الأكساليك (H₂C₂O₄) دوراً ثابتاً ومهماً فيها. بفضل خصائصه الكيميائية الفريدة كحمض عضوي قوي وعامل مخلبي، يساهم حمض الأكساليك في تحويل الجلود الخام إلى منتجات جلدية متينة وجميلة.

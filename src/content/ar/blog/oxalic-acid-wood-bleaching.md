@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## إعادة الحياة للخشب القديم
 يعد حمض الأكساليك المادة المفضلة لترميم الأخشاب وتبييضها بفضل قدرته على إزالة البقع العميقة دون إتلاف ألياف الخشب.
 

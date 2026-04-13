@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## معالجة المياه بحمض الأكساليك
 يعد حمض الأكساليك أداة قوية في معالجة المياه، خاصة لإزالة الملوثات المعدنية وتنظيف الأنظمة الصناعية.
 

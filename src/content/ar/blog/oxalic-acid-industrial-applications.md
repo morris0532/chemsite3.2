@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## ما هو حمض الأكساليك؟
 حمض الأكساليك (C₂H₂O₄) هو أبسط حمض ثنائي الكربوكسيل وأحد أقوى الأحماض العضوية. بصفتها [مورداً رائعاً لحمض الأكساليك عالي النقاء](https://www.sinopeakchem.com/ar/products/oxalic-acid)، تضمن Sinopeakchem أن تلبي هذه المادة الكيميائية متعددة الاستخدامات المتطلبات الصارمة للمشترين الصناعيين العالميين. يوجد بشكل طبيعي في العديد من النباتات ويتم توفيره صناعياً للعديد من التطبيقات.
 

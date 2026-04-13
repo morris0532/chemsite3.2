@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## حمض الأكساليك في صناعة المنسوجات
 
 يعد حمض الأكساليك (H₂C₂O₄) مادة كيميائية أساسية في قطاع المنسوجات، حيث يعمل كمساعد للصباغة، وعامل اختزال، ومنظف فعال. تساهم خصائصه الكيميائية الفريدة في إنتاج أقمشة نابضة بالحياة وخالية من العيوب.

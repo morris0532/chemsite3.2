@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: CIS & Russia (RU)---
+Target_Region: CIS & Russia (RU)
+---
 ## Навигация по химической логистике
 Международная доставка химикатов требует специальных знаний и тщательного планирования. Вот что вам нужно учитывать при импорте из Китая.
 ## Ключевые соображения

@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## التنقل في الخدمات اللوجستية الكيميائية
 يتطلب شحن المواد الكيميائية دولياً معرفة متخصصة وتخطيطاً دقيقاً. إليك ما تحتاج إلى مراعاته عند الاستيراد من الصين.
 

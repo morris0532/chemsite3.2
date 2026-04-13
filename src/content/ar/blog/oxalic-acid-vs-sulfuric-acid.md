@@ -16,7 +16,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## الأحماض العضوية مقابل الأحماض المعدنية
 بينما يعد حمض الكبريتيك حمضاً معدنياً قوياً جداً وخطراً، فإن حمض الأكساليك يقدم بديلاً عضوياً فعالاً لمهام محددة.
 

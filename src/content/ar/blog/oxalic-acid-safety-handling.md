@@ -17,7 +17,8 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
 ## فهم مخاطر حمض الأكساليك
 
 حمض الأكساليك (H₂C₂O₄) مادة كيميائية صناعية قيمة، ولكنها تتطلب معالجة حذرة بسبب طبيعتها السامة والمسببة للتآكل. يمكن أن يؤدي التعرض لها إلى تهيج شديد في الجلد والعينين، ومشاكل تنفسية عند استنشاق الغبار، وتسمم حاد عند الابتلاع. تلتزم SinoPeakChem بضمان سلامة عملائها من خلال توفير إرشادات شاملة للتداول الآمن.
