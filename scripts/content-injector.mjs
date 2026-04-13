@@ -69,7 +69,7 @@ const contentMetadata = {
           contentMetadata[locale][type].push({
             title: data.title || data.name || '',
             slug: data.slug || data.Slug || file.replace('.md', ''),
-            originSlug: data.origin_slug || data.Origin_Slug || data.slug || data.Slug || file.replace('.md', ''),
+            RootnoTouch: data.RootnoTouch || data.RootnoTouch || data.slug || data.Slug || file.replace('.md', ''),
             date: data.date || '',
             cas: data.cas || '',
             image: data.image || ''
@@ -97,7 +97,7 @@ routes.forEach(route => {
   let ogImage = 'https://www.sinopeakchem.com/images/og-image.jpg';
   let jsonLd = null;
   let lcpImage = '';
-  let currentOriginSlug = '';
+  let RootnoTouch = '';
 
   const parts = route.split('/').filter(Boolean); 
   const locale = parts[0] || 'en';
@@ -117,7 +117,7 @@ routes.forEach(route => {
       const fileSlug = data.slug || data.Slug || file.replace('.md', '');
       if (fileSlug === slug) {
         mdFilePath = fullPath;
-        currentOriginSlug = data.origin_slug || data.Origin_Slug || data.slug || data.Slug || file.replace('.md', '');
+        RootnoTouch = data.RootnoTouch || data.RootnoTouch || data.slug || data.Slug || file.replace('.md', '');
         break;
       }
     }
@@ -335,7 +335,7 @@ routes.forEach(route => {
       let targetSlug = '';
       
       if (parts.length === 3) { // 详情页 (Product 或 Blog)
-        const targetPost = contentMetadata[l][type].find(p => p.originSlug === currentOriginSlug);
+        const targetPost = contentMetadata[l][type].find(p => p.RootnoTouch === RootnoTouch);
         targetSlug = targetPost ? `${type}/${targetPost.slug}` : `${type}/${slug}`;
       } else { // 列表页或基础页面
         targetSlug = parts.slice(1).join('/');
@@ -348,7 +348,7 @@ routes.forEach(route => {
     // 添加 x-default (指向英语版)
     let defaultSlug = '';
     if (parts.length === 3) {
-      const defaultPost = contentMetadata['en'][type].find(p => p.originSlug === currentOriginSlug);
+      const defaultPost = contentMetadata['en'][type].find(p => p.RootnoTouch === RootnoTouch);
       defaultSlug = defaultPost ? `${type}/${defaultPost.slug}` : `${type}/${slug}`;
     } else {
       defaultSlug = parts.slice(1).join('/');

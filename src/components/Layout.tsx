@@ -151,7 +151,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       if (currentPost) {
         const targetPost = targetContent.posts.find((p: any) => 
           (p.id && p.id === currentPost.id) || 
-          (p.originSlug && p.originSlug === currentPost.originSlug)
+          (p.RootnoTouch && p.RootnoTouch === currentPost.RootnoTouch)
         );
         if (targetPost) {
           navigate(`${targetPrefix}/blog/${targetPost.slug}`);
@@ -166,7 +166,7 @@ export default function Layout({ children, title, description, image, jsonLd }: 
       if (currentProduct) {
         const targetProduct = targetContent.products.find((p: any) => 
           (p.id && p.id === currentProduct.id) || 
-          (p.originSlug && p.originSlug === currentProduct.originSlug)
+          (p.RootnoTouch && p.RootnoTouch === currentProduct.RootnoTouch)
         );
         if (targetProduct) {
           navigate(`${targetPrefix}/products/${targetProduct.slug}`);

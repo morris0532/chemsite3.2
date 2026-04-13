@@ -6,7 +6,7 @@ const CONTENT_DIR = 'src/content';
 // 定义您期望的严格物理顺序，增加了产品核心字段
 const PREFERRED_ORDER = [
   'Id',
-  'Origin_Slug',
+  'RootnoTouch',
   'Slug',
   'name',
   'cas',
