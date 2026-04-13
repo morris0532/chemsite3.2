@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك
-  عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
 Id: SP-zpocr410m2
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-middle-east
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mwrd-middle-east
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: سلسلة التوريد
-description: اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض
-  أكساليك عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
+Excerpt: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك
+  عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
+title: 'مورد حمض الأكساليك الموثوق في الشرق الأوسط: الإمارات والسعودية وتركيا'
+description: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك
+  عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
 image: /images/blog/oxalic-acid-supplier-middle-east.webp
 imageAlt: الموانئ الاستراتيجية واللوجستيات الكيميائية في منطقة الشرق الأوسط
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
 tag: null
-title: 'مورد حمض الأكساليك الموثوق في الشرق الأوسط: الإمارات والسعودية وتركيا'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## تلبية الطلب المتزايد في الشرق الأوسط

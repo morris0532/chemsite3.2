@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: Подробное руководство по выбору надежного поставщика химикатов в Китае, охватывающее
-  квалификацию поставщика, контроль качества, цепочку поставок, экономическую эффективность
-  и коммуникацию.
 Id: SP-jio4gutw7b
-Keywords: null
 Origin_Slug: how-to-choose-the-right-chem-supplier-from-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-choose-the-right-chem-postavshchik-from-kitay
-Target_Region: CIS & Russia (RU)
+Excerpt: >-
+  Подробное руководство по выбору надежного поставщика химикатов в Китае,
+  охватывающее квалификацию поставщика, контроль качества, цепочку поставок,
+  экономическую эффективность и коммуникацию.
+title: 'Как выбрать подходящего поставщика химикатов из Китая: Полное руководство'
+description: >-
+  Подробное руководство по выбору надежного поставщика химикатов в Китае,
+  охватывающее квалификацию поставщика, контроль качества, цепочку поставок,
+  экономическую эффективность и коммуникацию.
+image: /images/blog/how-to-choose-the-right-chem-supplier-from-china.webp
+imageAlt: >-
+  Современная химическая логистика и цепочка поставок с организованными бочками
+  и промышленным фоном
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Руководство по снабжению
-description: Подробное руководство по выбору надежного поставщика химикатов в Китае,
-  охватывающее квалификацию поставщика, контроль качества, цепочку поставок, экономическую
-  эффективность и коммуникацию.
-image: /images/blog/how-to-choose-the-right-chem-supplier-from-china.webp
-imageAlt: Современная химическая логистика и цепочка поставок с организованными бочками
-  и промышленным фоном
 tag: null
-title: 'Как выбрать подходящего поставщика химикатов из Китая: Полное руководство'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: CIS & Russia (RU)
 ---
 
 ## Введение

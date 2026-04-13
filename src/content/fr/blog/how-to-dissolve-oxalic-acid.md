@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
-  diverses applications industrielles et domestiques. Ce guide couvre les précautions
-  de sécurité essentielles, les matériaux requis, les instructions étape par étape
-  et des conseils d'experts pour des résultats optimaux.
 Id: SP-vilfg06xq0
-Keywords: null
 Origin_Slug: how-to-dissolve-oxalic-acid
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-dissolve-oxalic-acid
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
+  diverses applications industrielles et domestiques. Ce guide couvre les
+  précautions de sécurité essentielles, les matériaux requis, les instructions
+  étape par étape et des conseils d'experts pour des résultats optimaux.
+title: 'Comment Dissoudre Correctement l''Acide Oxalique : Un Guide Étape par Étape'
+description: >-
+  Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
+  diverses applications industrielles et domestiques. Ce guide couvre les
+  précautions de sécurité essentielles, les matériaux requis, les instructions
+  étape par étape et des conseils d'experts pour des résultats optimaux.
+image: /images/blog/how-to-dissolve-oxalic-acid.webp
+imageAlt: >-
+  Personne en blouse de laboratoire et gants bleus ajoutant soigneusement des
+  cristaux d'acide oxalique à de l'eau dans un bécher
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
-description: Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique
-  pour diverses applications industrielles et domestiques. Ce guide couvre les précautions
-  de sécurité essentielles, les matériaux requis, les instructions étape par étape
-  et des conseils d'experts pour des résultats optimaux.
-image: /images/blog/how-to-dissolve-oxalic-acid.webp
-imageAlt: Personne en blouse de laboratoire et gants bleus ajoutant soigneusement
-  des cristaux d'acide oxalique à de l'eau dans un bécher
 tag: null
-title: 'Comment Dissoudre Correctement l''Acide Oxalique : Un Guide Étape par Étape'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Comment Dissoudre Correctement l'Acide Oxalique : Un Guide Étape par Étape

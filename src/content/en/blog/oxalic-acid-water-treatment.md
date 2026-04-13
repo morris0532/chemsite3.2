@@ -1,20 +1,28 @@
 ---
-Id: 'SP-vr2tgx6vzm'
-Origin_Slug: 'oxalic-acid-water-treatment'
-Slug: 'oxalic-acid-water-treatment'
-Excerpt: 'Discover how oxalic acid effectively removes iron and manganese from water, its chemical mechanism, application methods, benefits, and safety considerations for industrial and municipal water purification.'
+Id: SP-vr2tgx6vzm
+Origin_Slug: oxalic-acid-water-treatment
+Slug: oxalic-acid-water-treatment
+Excerpt: >-
+  Discover how oxalic acid effectively removes iron and manganese from water,
+  its chemical mechanism, application methods, benefits, and safety
+  considerations for industrial and municipal water purification.
 title: 'Oxalic Acid for Water Treatment: Removing Iron & Manganese'
-description: 'Discover how oxalic acid effectively removes iron and manganese from water, its chemical mechanism, application methods, benefits, and safety considerations for industrial and municipal water purification.'
-image: '/images/blog/oxalic-acid-water-treatment.webp'
-imageAlt: 'A professional and clean image of a modern water treatment facility, with clear water flowing through filtration systems.'
+description: >-
+  Discover how oxalic acid effectively removes iron and manganese from water,
+  its chemical mechanism, application methods, benefits, and safety
+  considerations for industrial and municipal water purification.
+image: /images/blog/oxalic-acid-water-treatment.webp
+imageAlt: >-
+  A professional and clean image of a modern water treatment facility, with
+  clear water flowing through filtration systems.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Water Treatment Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Water Treatment Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Water Treatment: Removing Iron & Manganese
 

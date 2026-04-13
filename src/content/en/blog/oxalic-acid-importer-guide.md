@@ -1,20 +1,31 @@
 ---
-Id: 'SP-4j4q70nj8o'
-Origin_Slug: 'oxalic-acid-importer-guide'
-Slug: 'oxalic-acid-importer-guide'
-Excerpt: 'Navigating the complexities of international trade can be daunting, especially for chemical compounds like oxalic acid. This comprehensive guide provides first-time importers with essential insights into regulations, documentation, and best practices to ensure a smooth and compliant import process.'
+Id: SP-4j4q70nj8o
+Origin_Slug: oxalic-acid-importer-guide
+Slug: oxalic-acid-importer-guide
+Excerpt: >-
+  Navigating the complexities of international trade can be daunting, especially
+  for chemical compounds like oxalic acid. This comprehensive guide provides
+  first-time importers with essential insights into regulations, documentation,
+  and best practices to ensure a smooth and compliant import process.
 title: 'First-Time Importer''s Guide to Oxalic Acid: Regulations and Best Practices'
-description: 'Navigating the complexities of international trade can be daunting, especially for chemical compounds like oxalic acid. This comprehensive guide provides first-time importers with essential insights into regulations, documentation, and best practices to ensure a smooth and compliant import process.'
-image: '/images/blog/oxalic-acid-importer-guide.webp'
-imageAlt: 'A professional scene representing international trade and chemical logistics with a globe, shipping container ship, and documents related to chemical regulations and import/export.'
+description: >-
+  Navigating the complexities of international trade can be daunting, especially
+  for chemical compounds like oxalic acid. This comprehensive guide provides
+  first-time importers with essential insights into regulations, documentation,
+  and best practices to ensure a smooth and compliant import process.
+image: /images/blog/oxalic-acid-importer-guide.webp
+imageAlt: >-
+  A professional scene representing international trade and chemical logistics
+  with a globe, shipping container ship, and documents related to chemical
+  regulations and import/export.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Buyer''s Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Buyer's Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## First-Time Importer's Guide to Oxalic Acid: Regulations and Best Practices
 

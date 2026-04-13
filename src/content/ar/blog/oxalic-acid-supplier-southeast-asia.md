@@ -1,22 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات
-  الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.
 Id: SP-4h2ggumf9g
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-southeast-asia
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mwrd-southeast-asia
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: سلسلة التوريد
-description: دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات
+Excerpt: >-
+  دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات
+  الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.
+title: >-
+  مورد حمض الأكساليك في جنوب شرق آسيا: تايلاند وفيتنام وإندونيسيا والفلبين
+  وماليزيا
+description: >-
+  دليل شامل لاستيراد حمض الأكساليك من الصين إلى جنوب شرق آسيا، يغطي التطبيقات
   الصناعية واللوجستيات واتفاقية RCEP واختيار المورد المناسب.
 image: /images/blog/oxalic-acid-supplier-southeast-asia.webp
 imageAlt: اللوجستيات الكيميائية وسلسلة التوريد في جنوب شرق آسيا
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
 tag: null
-title: 'مورد حمض الأكساليك في جنوب شرق آسيا: تايلاند وفيتنام وإندونيسيا والفلبين وماليزيا'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## سوق حمض الأكساليك في جنوب شرق آسيا

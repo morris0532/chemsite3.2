@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra los métodos esenciales para probar la pureza del ácido oxálico,
-  incluyendo la titulación con permanganato de potasio, la determinación del punto
-  de fusión y el análisis espectroscópico. Asegure la calidad y seguridad para sus
-  aplicaciones industriales.
 Id: SP-x6yumk43er
-Keywords: null
 Origin_Slug: how-to-test-oxalic-acid-purity
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-test-oxalic-acid-purity
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra los métodos esenciales para probar la pureza del ácido oxálico,
+  incluyendo la titulación con permanganato de potasio, la determinación del
+  punto de fusión y el análisis espectroscópico. Asegure la calidad y seguridad
+  para sus aplicaciones industriales.
+title: 'Cómo Probar la Pureza del Ácido Oxálico: Una Guía Completa'
+description: >-
+  Descubra los métodos esenciales para probar la pureza del ácido oxálico,
+  incluyendo la titulación con permanganato de potasio, la determinación del
+  punto de fusión y el análisis espectroscópico. Asegure la calidad y seguridad
+  para sus aplicaciones industriales.
+image: /images/blog/how-to-test-oxalic-acid-purity.webp
+imageAlt: >-
+  Montaje de titulación de laboratorio para probar la pureza del ácido oxálico
+  con permanganato de potasio
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
-description: Descubra los métodos esenciales para probar la pureza del ácido oxálico,
-  incluyendo la titulación con permanganato de potasio, la determinación del punto
-  de fusión y el análisis espectroscópico. Asegure la calidad y seguridad para sus
-  aplicaciones industriales.
-image: /images/blog/how-to-test-oxalic-acid-purity.webp
-imageAlt: Montaje de titulación de laboratorio para probar la pureza del ácido oxálico
-  con permanganato de potasio
 tag: null
-title: 'Cómo Probar la Pureza del Ácido Oxálico: Una Guía Completa'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Cómo Probar la Pureza del Ácido Oxálico: Una Guía Completa

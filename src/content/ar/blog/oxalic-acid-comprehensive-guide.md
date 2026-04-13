@@ -1,23 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: دليل تقني مفصل حول حمض الأكساليك، يغطي خصائصه الكيميائية، وتطبيقاته الصناعية
-  الواسعة في المنسوجات والمعادن والأتربة النادرة، بالإضافة إلى اتجاهات السوق والاستدامة.
 Id: SP-znynchhwvr
-Keywords: null
 Origin_Slug: oxalic-acid-comprehensive-guide
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-comprehensive-dlyl
-Target_Region: MENA Region (AR)
+Excerpt: >-
+  دليل تقني مفصل حول حمض الأكساليك، يغطي خصائصه الكيميائية، وتطبيقاته الصناعية
+  الواسعة في المنسوجات والمعادن والأتربة النادرة، بالإضافة إلى اتجاهات السوق
+  والاستدامة.
+title: 'الدليل الشامل لحمض الأكساليك: الخصائص والتطبيقات والآفاق المستقبلية'
+description: >-
+  دليل تقني مفصل حول حمض الأكساليك، يغطي خصائصه الكيميائية، وتطبيقاته الصناعية
+  الواسعة في المنسوجات والمعادن والأتربة النادرة، بالإضافة إلى اتجاهات السوق
+  والاستدامة.
+image: /images/blog/oxalic-acid-comprehensive-guide.webp
+imageAlt: >-
+  رسم توضيحي احترافي يظهر الهيكل الجزيئي لحمض الأكساليك وتطبيقاته الصناعية
+  المتنوعة
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: أدلة صناعية
-description: دليل تقني مفصل حول حمض الأكساليك، يغطي خصائصه الكيميائية، وتطبيقاته الصناعية
-  الواسعة في المنسوجات والمعادن والأتربة النادرة، بالإضافة إلى اتجاهات السوق والاستدامة.
-image: /images/blog/oxalic-acid-comprehensive-guide.webp
-imageAlt: رسم توضيحي احترافي يظهر الهيكل الجزيئي لحمض الأكساليك وتطبيقاته الصناعية
-  المتنوعة
 tag: null
-title: 'الدليل الشامل لحمض الأكساليك: الخصائص والتطبيقات والآفاق المستقبلية'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## الدليل الشامل لحمض الأكساليك: الخصائص والتطبيقات والآفاق المستقبلية

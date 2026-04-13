@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Comparez l'acide oxalique avec d'autres dégraissants courants comme l'acide
-  phosphorique, l'acide citrique et les méthodes mécaniques. Découvrez leurs avantages,
-  inconvénients, applications et considérations de sécurité pour choisir la meilleure
-  solution pour vos besoins de dégraissage.
 Id: SP-ne5o37rc0q
-Keywords: null
 Origin_Slug: oxalic-acid-vs-rust-removers
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-rust-removers
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Comparez l'acide oxalique avec d'autres dégraissants courants comme l'acide
+  phosphorique, l'acide citrique et les méthodes mécaniques. Découvrez leurs
+  avantages, inconvénients, applications et considérations de sécurité pour
+  choisir la meilleure solution pour vos besoins de dégraissage.
+title: 'Acide Oxalique vs. Autres Dégraissants : Lequel Choisir ?'
+description: >-
+  Comparez l'acide oxalique avec d'autres dégraissants courants comme l'acide
+  phosphorique, l'acide citrique et les méthodes mécaniques. Découvrez leurs
+  avantages, inconvénients, applications et considérations de sécurité pour
+  choisir la meilleure solution pour vos besoins de dégraissage.
+image: /images/blog/oxalic-acid-vs-rust-removers.webp
+imageAlt: >-
+  Une image comparative illustrant différentes méthodes d'élimination de la
+  rouille, y compris des solutions chimiques et des outils mécaniques.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Comparaison de Produits
-description: Comparez l'acide oxalique avec d'autres dégraissants courants comme l'acide
-  phosphorique, l'acide citrique et les méthodes mécaniques. Découvrez leurs avantages,
-  inconvénients, applications et considérations de sécurité pour choisir la meilleure
-  solution pour vos besoins de dégraissage.
-image: /images/blog/oxalic-acid-vs-rust-removers.webp
-imageAlt: Une image comparative illustrant différentes méthodes d'élimination de la
-  rouille, y compris des solutions chimiques et des outils mécaniques.
 tag: null
-title: 'Acide Oxalique vs. Autres Dégraissants : Lequel Choisir ?'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique vs. Autres Dégraissants : Lequel Choisir ?

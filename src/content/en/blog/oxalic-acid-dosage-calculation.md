@@ -1,20 +1,28 @@
 ---
-Id: 'SP-3cm2h0zm8u'
-Origin_Slug: 'oxalic-acid-dosage-calculation'
-Slug: 'oxalic-acid-dosage-calculation'
-Excerpt: 'Master the art of oxalic acid dosage calculation for various industrial and domestic applications. This guide covers essential formulas, practical examples, and safety considerations to ensure accurate and effective use.'
+Id: SP-3cm2h0zm8u
+Origin_Slug: oxalic-acid-dosage-calculation
+Slug: oxalic-acid-dosage-calculation
+Excerpt: >-
+  Master the art of oxalic acid dosage calculation for various industrial and
+  domestic applications. This guide covers essential formulas, practical
+  examples, and safety considerations to ensure accurate and effective use.
 title: 'Oxalic Acid Dosage Calculation: A Comprehensive Guide'
-description: 'Master the art of oxalic acid dosage calculation for various industrial and domestic applications. This guide covers essential formulas, practical examples, and safety considerations to ensure accurate and effective use.'
-image: '/images/blog/oxalic-acid-dosage-calculation.webp'
-imageAlt: 'A person calculating oxalic acid dosage on a laptop with a beaker and scale on the side'
+description: >-
+  Master the art of oxalic acid dosage calculation for various industrial and
+  domestic applications. This guide covers essential formulas, practical
+  examples, and safety considerations to ensure accurate and effective use.
+image: /images/blog/oxalic-acid-dosage-calculation.webp
+imageAlt: >-
+  A person calculating oxalic acid dosage on a laptop with a beaker and scale on
+  the side
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Technical Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Technical Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Dosage Calculation: A Comprehensive Guide
 

@@ -1,53 +1,81 @@
 ---
-id: "22"
-name: "Sulfamic Acid"
-nameCn: "氨基磺酸"
-cas: "5329-14-6"
-hsCode: "2811199090"
-slug: "sulfamic-acid"
-shortDescription: "High-purity Sulfamic Acid (H3NSO3) for bulk purchase and export from China. Essential for cleaning, electroplating, and textile applications. Trusted supplier with competitive pricing."
-image: "/images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"H₃NSO₃"},
-  {"label":"CAS Number","value":"5329-14-6"},
-  {"label":"HS Code","value":"2811199090"},
-  {"label":"Purity","value":"≥99.5%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Cleaning agent (descaling, rust removal)",
-  "Electroplating (pH regulator, additive)",
-  "Textile industry (dye fixing, bleaching)",
-  "Paper and pulp industry (chlorine stabilizer)",
-  "Sweetener supply",
-  "Chemical synthesis"
-]
-faqs: [
-  {"question":"What grades of Sulfamic Acid do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sulfamic Acid, offering industrial grade with ≥99.5% purity. It is available for bulk purchase and export, ideal for various industrial applications."},{
-    "question":"What is the typical purity of your Sulfamic Acid products?",
-    "answer":"Our Sulfamic Acid (H₃NSO₃) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Sulfamic Acid packaged for international shipping from China?",
-    "answer":"For export, our Sulfamic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Sulfamic Acid?",
-    "answer":"Our industrial grade Sulfamic Acid is widely used as a cleaning agent for descaling, in electroplating as a pH regulator, and in the textile industry for dye fixing. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sulfamic Acid?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Sulfamic Acid orders from your factory?",
-    "answer":"Standard lead time for bulk Sulfamic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Acids"
+image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
+category: Acids
+id: '22'
+name: Sulfamic Acid
+nameCn: 氨基磺酸
+cas: 5329-14-6
+hsCode: '2811199090'
+slug: sulfamic-acid
+shortDescription: >-
+  High-purity Sulfamic Acid (H3NSO3) for bulk purchase and export from China.
+  Essential for cleaning, electroplating, and textile applications. Trusted
+  supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: H₃NSO₃
+  - label: CAS Number
+    value: 5329-14-6
+  - label: HS Code
+    value: '2811199090'
+  - label: Purity
+    value: ≥99.5%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Cleaning agent (descaling, rust removal)'
+  - 'Electroplating (pH regulator, additive)'
+  - 'Textile industry (dye fixing, bleaching)'
+  - Paper and pulp industry (chlorine stabilizer)
+  - Sweetener supply
+  - Chemical synthesis
+faqs:
+  - question: What grades of Sulfamic Acid do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Sulfamic Acid, offering
+      industrial grade with ≥99.5% purity. It is available for bulk purchase and
+      export, ideal for various industrial applications.
+  - question: What is the typical purity of your Sulfamic Acid products?
+    answer: >-
+      Our Sulfamic Acid (H₃NSO₃) is available with a minimum purity of 99.5%. We
+      ensure strict quality control to meet international standards for all
+      applications.
+  - question: How is Sulfamic Acid packaged for international shipping from China?
+    answer: >-
+      For export, our Sulfamic Acid is typically packaged in 25KG PP woven bags
+      with inner PE liners, designed to protect against moisture. 1000KG (1MT)
+      jumbo bags are also available for larger bulk shipments. Custom packaging
+      solutions can be arranged.
+  - question: What are the main applications of your industrial grade Sulfamic Acid?
+    answer: >-
+      Our industrial grade Sulfamic Acid is widely used as a cleaning agent for
+      descaling, in electroplating as a pH regulator, and in the textile
+      industry for dye fixing. Its versatility makes it a key chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Sulfamic Acid?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Sulfamic Acid orders from your factory?
+    answer: >-
+      Standard lead time for bulk Sulfamic Acid orders is typically 7-15 days
+      after order confirmation, depending on the order size and current supply
+      schedule. We strive for efficient logistics and timely delivery from major
+      Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

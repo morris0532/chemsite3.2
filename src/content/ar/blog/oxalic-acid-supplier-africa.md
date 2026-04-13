@@ -1,22 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض
-  أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.
 Id: SP-qwaqua3rq0
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-africa
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mwrd-africa
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: سلسلة التوريد
-description: اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير
-  حمض أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.
+Excerpt: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه
+  والمنسوجات.
+title: 'مورد حمض الأكساليك الموثوق في أفريقيا: جنوب أفريقيا ومصر ونيجيريا'
+description: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه
+  والمنسوجات.
 image: /images/blog/oxalic-acid-supplier-africa.webp
 imageAlt: خريطة أفريقيا تبرز المراكز الصناعية الرئيسية واللوجستيات الكيميائية
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
 tag: null
-title: 'مورد حمض الأكساليك الموثوق في أفريقيا: جنوب أفريقيا ومصر ونيجيريا'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## تلبية الطلب المتزايد على حمض الأكساليك في أفريقيا

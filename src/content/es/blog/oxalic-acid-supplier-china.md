@@ -1,26 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: China produce más del 70% del ácido oxálico mundial. Aprenda a evaluar proveedores
-  chinos, verificar certificaciones de calidad y garantizar una cadena de suministro
-  estable para sus necesidades industriales.
 Id: SP-yjb7uftc6q
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-proveedor-china
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  China produce más del 70% del ácido oxálico mundial. Aprenda a evaluar
+  proveedores chinos, verificar certificaciones de calidad y garantizar una
+  cadena de suministro estable para sus necesidades industriales.
+title: >-
+  Cómo Elegir un Proveedor Confiable de Ácido Oxálico en China: Guía Completa
+  para Compradores
+description: >-
+  China produce más del 70% del ácido oxálico mundial. Aprenda a evaluar
+  proveedores chinos, verificar certificaciones de calidad y garantizar una
+  cadena de suministro estable para sus necesidades industriales.
+image: /images/blog/oxalic-acid-supplier-china.webp
+imageAlt: >-
+  Almacén industrial de ácido oxálico y logística de envío, representando una
+  cadena de suministro confiable desde China.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Guía de Compra
-description: China produce más del 70% del ácido oxálico mundial. Aprenda a evaluar
-  proveedores chinos, verificar certificaciones de calidad y garantizar una cadena
-  de suministro estable para sus necesidades industriales.
-image: /images/blog/oxalic-acid-supplier-china.webp
-imageAlt: Almacén industrial de ácido oxálico y logística de envío, representando
-  una cadena de suministro confiable desde China.
 tag: null
-title: 'Cómo Elegir un Proveedor Confiable de Ácido Oxálico en China: Guía Completa
-  para Compradores'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Cómo Elegir un Proveedor Confiable de Ácido Oxálico en China

@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Naviguer dans les complexités de l'exportation d'acide oxalique vers l'Europe
-  exige une adhésion stricte aux réglementations REACH. SinoPeakChem fournit de l'acide
-  oxalique de haute qualité et conforme pour le marché européen.
 Id: SP-v1mtlfqr0l
-Keywords: null
 Origin_Slug: oxalic-acid-export-europe-reach
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-export-europe-reach
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Naviguer dans les complexités de l'exportation d'acide oxalique vers l'Europe
+  exige une adhésion stricte aux réglementations REACH. SinoPeakChem fournit de
+  l'acide oxalique de haute qualité et conforme pour le marché européen.
+title: 'Exportation d''Acide Oxalique vers l''Europe : Guide de Conformité REACH'
+description: >-
+  Naviguer dans les complexités de l'exportation d'acide oxalique vers l'Europe
+  exige une adhésion stricte aux réglementations REACH. SinoPeakChem fournit de
+  l'acide oxalique de haute qualité et conforme pour le marché européen.
+image: /images/blog/oxalic-acid-export-europe-reach.webp
+imageAlt: >-
+  Une image professionnelle et claire représentant le concept d'exportation de
+  produits chimiques vers l'Europe, avec des éléments comme une carte de
+  l'Europe, un porte-conteneurs, et des superpositions subtiles représentant des
+  documents ou réglementations de conformité REACH. Soulignez la sécurité, la
+  qualité et le respect de la réglementation. Haute qualité, résolution 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Marché Régional
-description: Naviguer dans les complexités de l'exportation d'acide oxalique vers
-  l'Europe exige une adhésion stricte aux réglementations REACH. SinoPeakChem fournit
-  de l'acide oxalique de haute qualité et conforme pour le marché européen.
-image: /images/blog/oxalic-acid-export-europe-reach.webp
-imageAlt: Une image professionnelle et claire représentant le concept d'exportation
-  de produits chimiques vers l'Europe, avec des éléments comme une carte de l'Europe,
-  un porte-conteneurs, et des superpositions subtiles représentant des documents ou
-  réglementations de conformité REACH. Soulignez la sécurité, la qualité et le respect
-  de la réglementation. Haute qualité, résolution 4k.
 tag: null
-title: 'Exportation d''Acide Oxalique vers l''Europe : Guide de Conformité REACH'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Exportation d'Acide Oxalique vers l'Europe : Guide de Conformité REACH

@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez comment l'acide oxalique élimine efficacement la rouille de diverses
-  surfaces métalliques. Ce guide complet couvre ses principes chimiques, son application
-  étape par étape, les précautions de sécurité et la comparaison avec d'autres décapants
-  de rouille.
 Id: SP-6mq6dy8go8
-Keywords: null
 Origin_Slug: oxalic-acid-rust-removal
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rust-removal
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Découvrez comment l'acide oxalique élimine efficacement la rouille de diverses
+  surfaces métalliques. Ce guide complet couvre ses principes chimiques, son
+  application étape par étape, les précautions de sécurité et la comparaison
+  avec d'autres décapants de rouille.
+title: 'Acide Oxalique pour l''Élimination de la Rouille : Le Guide Complet'
+description: >-
+  Découvrez comment l'acide oxalique élimine efficacement la rouille de diverses
+  surfaces métalliques. Ce guide complet couvre ses principes chimiques, son
+  application étape par étape, les précautions de sécurité et la comparaison
+  avec d'autres décapants de rouille.
+image: /images/blog/oxalic-acid-rust-removal.webp
+imageAlt: >-
+  Une image illustrative montrant un objet métallique rouillé partiellement
+  immergé dans une solution d'acide oxalique, avec une distinction claire entre
+  les parties rouillées et nettoyées.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
-description: Découvrez comment l'acide oxalique élimine efficacement la rouille de
-  diverses surfaces métalliques. Ce guide complet couvre ses principes chimiques,
-  son application étape par étape, les précautions de sécurité et la comparaison avec
-  d'autres décapants de rouille.
-image: /images/blog/oxalic-acid-rust-removal.webp
-imageAlt: Une image illustrative montrant un objet métallique rouillé partiellement
-  immergé dans une solution d'acide oxalique, avec une distinction claire entre les
-  parties rouillées et nettoyées.
 tag: null
-title: 'Acide Oxalique pour l''Élimination de la Rouille : Le Guide Complet'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour l'Élimination de la Rouille : Le Guide Complet

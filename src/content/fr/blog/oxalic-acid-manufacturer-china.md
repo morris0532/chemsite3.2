@@ -1,29 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez pourquoi la Chine domine le marché mondial de l'acide oxalique.
-  Apprenez-en davantage sur le contrôle qualité, les certifications internationales,
-  les processus d'exportation efficaces et comment SinoPeakChem assure un approvisionnement
-  fiable dans le monde entier.
 Id: SP-83wu9ntc3g
-Keywords: null
 Origin_Slug: oxalic-acid-manufacturer-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-manufacturer-chine
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Découvrez pourquoi la Chine domine le marché mondial de l'acide oxalique.
+  Apprenez-en davantage sur le contrôle qualité, les certifications
+  internationales, les processus d'exportation efficaces et comment SinoPeakChem
+  assure un approvisionnement fiable dans le monde entier.
+title: >-
+  Fabricant et Exportateur Chinois d'Acide Oxalique : Qualité, Certification et
+  Logistique
+description: >-
+  Découvrez pourquoi la Chine domine le marché mondial de l'acide oxalique.
+  Apprenez-en davantage sur le contrôle qualité, les certifications
+  internationales, les processus d'exportation efficaces et comment SinoPeakChem
+  assure un approvisionnement fiable dans le monde entier.
+image: /images/blog/oxalic-acid-manufacturer-china.webp
+imageAlt: >-
+  Une installation de fabrication chimique moderne en Chine avec des éléments de
+  contrôle qualité, de certifications et de logistique mondiale, y compris un
+  cargo et une carte du monde.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aperçus de l'Industrie
-description: Découvrez pourquoi la Chine domine le marché mondial de l'acide oxalique.
-  Apprenez-en davantage sur le contrôle qualité, les certifications internationales,
-  les processus d'exportation efficaces et comment SinoPeakChem assure un approvisionnement
-  fiable dans le monde entier.
-image: /images/blog/oxalic-acid-manufacturer-china.webp
-imageAlt: Une installation de fabrication chimique moderne en Chine avec des éléments
-  de contrôle qualité, de certifications et de logistique mondiale, y compris un cargo
-  et une carte du monde.
 tag: null
-title: 'Fabricant et Exportateur Chinois d''Acide Oxalique : Qualité, Certification
-  et Logistique'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Fabricant et Exportateur Chinois d'Acide Oxalique : Qualité, Certification et Logistique

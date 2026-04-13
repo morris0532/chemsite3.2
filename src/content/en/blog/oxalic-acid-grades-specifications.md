@@ -1,20 +1,30 @@
 ---
-Id: 'SP-giprpr4izg'
-Origin_Slug: 'oxalic-acid-grades-specifications'
-Slug: 'oxalic-acid-grades-specifications'
-Excerpt: 'Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application.'
+Id: SP-giprpr4izg
+Origin_Slug: oxalic-acid-grades-specifications
+Slug: oxalic-acid-grades-specifications
+Excerpt: >-
+  Explore the different grades and specifications of oxalic acid, including
+  industrial, food, and pharmaceutical grades. Understand purity requirements,
+  physical-chemical indicators, and relevant international standards to choose
+  the right product for your application.
 title: 'Oxalic Acid Grades & Specifications: An In-depth Look'
-description: 'Explore the different grades and specifications of oxalic acid, including industrial, food, and pharmaceutical grades. Understand purity requirements, physical-chemical indicators, and relevant international standards to choose the right product for your application.'
-image: '/images/blog/oxalic-acid-grades-specifications.webp'
-imageAlt: 'A professional laboratory setting with beakers containing different grades of oxalic acid samples and a Certificate of Analysis.'
+description: >-
+  Explore the different grades and specifications of oxalic acid, including
+  industrial, food, and pharmaceutical grades. Understand purity requirements,
+  physical-chemical indicators, and relevant international standards to choose
+  the right product for your application.
+image: /images/blog/oxalic-acid-grades-specifications.webp
+imageAlt: >-
+  A professional laboratory setting with beakers containing different grades of
+  oxalic acid samples and a Certificate of Analysis.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Information'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Information
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Grades & Specifications: An In-depth Look
 

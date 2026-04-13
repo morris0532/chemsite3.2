@@ -1,29 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Navegue por las complejidades de la adquisición a granel de ácido oxálico
-  con nuestra completa sección de preguntas frecuentes, que abarca desde grados y
-  embalajes hasta envío y condiciones de pago.
 Id: SP-1iquapuqlf
-Keywords: null
 Origin_Slug: oxalic-acid-purchasing-faq
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-purchasing-faq
-Target_Region: Latin America & Spain (ES)
-author: Sinopeakchem Technical Team
-category: Guía de Compra
-description: Navegue por las complejidades de la adquisición a granel de ácido oxálico
-  con nuestra completa sección de preguntas frecuentes, que abarca desde grados y
+Excerpt: >-
+  Navegue por las complejidades de la adquisición a granel de ácido oxálico con
+  nuestra completa sección de preguntas frecuentes, que abarca desde grados y
+  embalajes hasta envío y condiciones de pago.
+title: >-
+  Preguntas Frecuentes sobre la Compra de Ácido Oxálico para Compradores al Por
+  Mayor
+description: >-
+  Navegue por las complejidades de la adquisición a granel de ácido oxálico con
+  nuestra completa sección de preguntas frecuentes, que abarca desde grados y
   embalajes hasta envío y condiciones de pago.
 image: /images/blog/oxalic-acid-purchasing-faq.webp
-imageAlt: Una imagen profesional y clara que representa un concepto de preguntas frecuentes,
-  proceso de compra o sacos de productos químicos a granel. Muestra elementos como
-  signos de interrogación, una lista de verificación, una calculadora o sacos industriales
-  apilados ordenadamente. Enfatiza claridad, eficiencia y compra a granel. Alta calidad,
-  resolución 4k.
+imageAlt: >-
+  Una imagen profesional y clara que representa un concepto de preguntas
+  frecuentes, proceso de compra o sacos de productos químicos a granel. Muestra
+  elementos como signos de interrogación, una lista de verificación, una
+  calculadora o sacos industriales apilados ordenadamente. Enfatiza claridad,
+  eficiencia y compra a granel. Alta calidad, resolución 4k.
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Guía de Compra
 tag: null
-title: Preguntas Frecuentes sobre la Compra de Ácido Oxálico para Compradores al Por
-  Mayor
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Preguntas Frecuentes sobre la Compra de Ácido Oxálico para Compradores al Por Mayor

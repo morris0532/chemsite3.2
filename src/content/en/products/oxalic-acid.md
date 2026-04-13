@@ -1,53 +1,83 @@
 ---
-id: "3"
-name: "Oxalic Acid"
-nameCn: "草酸"
-cas: "144-62-7 / 6153-56-6"
-hsCode: "2917111000"
-slug: "oxalic-acid"
-shortDescription: "High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from China. Essential for rare earth extraction, textile dyeing, and metal cleaning. Trusted supplier with competitive pricing."
-image: "/images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"H₂C₂O₄·2H₂O"},
-  {"label":"CAS Number","value":"144-62-7 / 6153-56-6"},
-  {"label":"HS Code","value":"2917111000"},
-  {"label":"Purity","value":"≥99.6%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Rare earth element extraction and purification",
-  "Textile dyeing and printing (mordant, reducing agent)",
-  "Metal cleaning and rust removal",
-  "Leather tanning",
-  "Pharmaceutical intermediates",
-  "Bleaching agent (wood, cork)"
-]
-faqs: [
-  {"question":"What grades of Oxalic Acid do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Oxalic Acid, offering industrial grade with ≥99.6% purity. It is available for bulk purchase and export, ideal for various industrial applications including rare earth processing and metal cleaning."},{
-    "question":"What is the typical purity of your Oxalic Acid products?",
-    "answer":"Our Oxalic Acid (H₂C₂O₄·2H₂O) is available with a minimum purity of 99.6%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Oxalic Acid packaged for international shipping from China?",
-    "answer":"For export, our Oxalic Acid is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Oxalic Acid?",
-    "answer":"Our industrial grade Oxalic Acid is widely used in rare earth element extraction, textile dyeing and printing, metal cleaning and rust removal, and leather tanning. Its strong reducing and chelating properties make it highly versatile."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Oxalic Acid?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Oxalic Acid orders from your factory?",
-    "answer":"Standard lead time for bulk Oxalic Acid orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Organic Acids"
+image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
+category: Organic Acids
+id: '3'
+name: Oxalic Acid
+nameCn: 草酸
+cas: 144-62-7 / 6153-56-6
+hsCode: '2917111000'
+slug: oxalic-acid
+shortDescription: >-
+  High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from
+  China. Essential for rare earth extraction, textile dyeing, and metal
+  cleaning. Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: H₂C₂O₄·2H₂O
+  - label: CAS Number
+    value: 144-62-7 / 6153-56-6
+  - label: HS Code
+    value: '2917111000'
+  - label: Purity
+    value: ≥99.6%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - Rare earth element extraction and purification
+  - 'Textile dyeing and printing (mordant, reducing agent)'
+  - Metal cleaning and rust removal
+  - Leather tanning
+  - Pharmaceutical intermediates
+  - 'Bleaching agent (wood, cork)'
+faqs:
+  - question: What grades of Oxalic Acid do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Oxalic Acid, offering
+      industrial grade with ≥99.6% purity. It is available for bulk purchase and
+      export, ideal for various industrial applications including rare earth
+      processing and metal cleaning.
+  - question: What is the typical purity of your Oxalic Acid products?
+    answer: >-
+      Our Oxalic Acid (H₂C₂O₄·2H₂O) is available with a minimum purity of 99.6%.
+      We ensure strict quality control to meet international standards for all
+      applications.
+  - question: How is Oxalic Acid packaged for international shipping from China?
+    answer: >-
+      For export, our Oxalic Acid is typically packaged in 25KG PP woven bags
+      with inner PE liners, designed to protect against moisture. 1000KG (1MT)
+      jumbo bags are also available for larger bulk shipments. Custom packaging
+      solutions can be arranged.
+  - question: What are the main applications of your industrial grade Oxalic Acid?
+    answer: >-
+      Our industrial grade Oxalic Acid is widely used in rare earth element
+      extraction, textile dyeing and printing, metal cleaning and rust removal,
+      and leather tanning. Its strong reducing and chelating properties make it
+      highly versatile.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Oxalic Acid?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Oxalic Acid orders from your factory?
+    answer: >-
+      Standard lead time for bulk Oxalic Acid orders is typically 7-15 days
+      after order confirmation, depending on the order size and current supply
+      schedule. We strive for efficient logistics and timely delivery from major
+      Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25MT/20GP
+packaging: 25KG/Jumbo bags
 featured: true
 ---
 

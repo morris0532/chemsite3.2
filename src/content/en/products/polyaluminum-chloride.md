@@ -1,53 +1,84 @@
 ---
-id: "19"
-name: "Polyaluminum Chloride (PAC)"
-nameCn: "聚合氯化铝"
-cas: "1327-41-9"
-hsCode: "2827320000"
-slug: "polyaluminum-chloride"
-shortDescription: "High-efficiency Polyaluminum Chloride (PAC) for bulk purchase and export from China. Essential for water treatment, wastewater purification, and industrial flocculation. Trusted supplier with competitive pricing."
-image: "/images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"[Al₂(OH)nCl₆-n]m"},
-  {"label":"CAS Number","value":"1327-41-9"},
-  {"label":"HS Code","value":"2827320000"},
-  {"label":"Al₂O₃ Content","value":"≥28% / ≥30% (Industrial Grade)"},
-  {"label":"Appearance","value":"Yellowish powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"20-22MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Drinking water treatment (coagulant, flocculant)",
-  "Industrial wastewater treatment (textile, paper, mining)",
-  "Municipal sewage treatment",
-  "Sludge dewatering",
-  "Oil-water separation",
-  "Sugar refining"
-]
-faqs: [
-  {"question":"What grades of Polyaluminum Chloride (PAC) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Polyaluminum Chloride, offering industrial grade with Al₂O₃ content of ≥28% and ≥30%. It is available for bulk purchase and export, ideal for various water treatment applications."},{
-    "question":"What is the typical Al₂O₃ content of your PAC products?",
-    "answer":"Our Polyaluminum Chloride (PAC) is available with Al₂O₃ content of ≥28% and ≥30%, ensuring high efficiency in coagulation and flocculation processes. We ensure strict quality control to meet international standards."
-  },{
-    "question":"How is PAC packaged for international shipping from China?",
-    "answer":"For export, our PAC is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade PAC?",
-    "answer":"Our industrial grade PAC is widely used in drinking water treatment, industrial wastewater treatment (textile, paper, mining), municipal sewage treatment, and sludge dewatering. Its high efficiency in removing suspended solids and colloids makes it a preferred choice."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for PAC?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk PAC orders from your factory?",
-    "answer":"Standard lead time for bulk PAC orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "20-22MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Water Treatment"
+image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
+category: Water Treatment
+id: '19'
+name: Polyaluminum Chloride (PAC)
+nameCn: 聚合氯化铝
+cas: 1327-41-9
+hsCode: '2827320000'
+slug: polyaluminum-chloride
+shortDescription: >-
+  High-efficiency Polyaluminum Chloride (PAC) for bulk purchase and export from
+  China. Essential for water treatment, wastewater purification, and industrial
+  flocculation. Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: '[Al₂(OH)nCl₆-n]m'
+  - label: CAS Number
+    value: 1327-41-9
+  - label: HS Code
+    value: '2827320000'
+  - label: Al₂O₃ Content
+    value: ≥28% / ≥30% (Industrial Grade)
+  - label: Appearance
+    value: Yellowish powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 20-22MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Drinking water treatment (coagulant, flocculant)'
+  - 'Industrial wastewater treatment (textile, paper, mining)'
+  - Municipal sewage treatment
+  - Sludge dewatering
+  - Oil-water separation
+  - Sugar refining
+faqs:
+  - question: What grades of Polyaluminum Chloride (PAC) do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Polyaluminum Chloride,
+      offering industrial grade with Al₂O₃ content of ≥28% and ≥30%. It is
+      available for bulk purchase and export, ideal for various water treatment
+      applications.
+  - question: What is the typical Al₂O₃ content of your PAC products?
+    answer: >-
+      Our Polyaluminum Chloride (PAC) is available with Al₂O₃ content of ≥28%
+      and ≥30%, ensuring high efficiency in coagulation and flocculation
+      processes. We ensure strict quality control to meet international
+      standards.
+  - question: How is PAC packaged for international shipping from China?
+    answer: >-
+      For export, our PAC is typically packaged in 25KG PP woven bags with inner
+      PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags
+      are also available for larger bulk shipments. Custom packaging solutions
+      can be arranged.
+  - question: What are the main applications of your industrial grade PAC?
+    answer: >-
+      Our industrial grade PAC is widely used in drinking water treatment,
+      industrial wastewater treatment (textile, paper, mining), municipal sewage
+      treatment, and sludge dewatering. Its high efficiency in removing
+      suspended solids and colloids makes it a preferred choice.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for PAC?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk PAC orders from your factory?
+    answer: >-
+      Standard lead time for bulk PAC orders is typically 7-15 days after order
+      confirmation, depending on the order size and current supply schedule. We
+      strive for efficient logistics and timely delivery from major Chinese
+      ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 20-22MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

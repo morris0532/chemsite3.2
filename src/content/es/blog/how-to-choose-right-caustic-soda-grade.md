@@ -1,24 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: Compare Escamas vs. Perlas de Sosa Cáustica (99% Pureza). Aprenda a elegir
-  el grado correcto de Hidróxido de Sodio para textiles, jabones y tratamiento de
-  agua.
 Id: SP-b1gzmyk1ig
-Keywords: null
 Origin_Slug: how-to-choose-right-caustic-soda-grade
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-choose-right-caustic-soda-grade
-Target_Region: Latin America & Spain (ES)
-author: Sinopeakchem Technical Team
-category: Guía de Producto
-description: Compare Escamas vs. Perlas de Sosa Cáustica (99% Pureza). Aprenda a elegir
-  el grado correcto de Hidróxido de Sodio para textiles, jabones y tratamiento de
+Excerpt: >-
+  Compare Escamas vs. Perlas de Sosa Cáustica (99% Pureza). Aprenda a elegir el
+  grado correcto de Hidróxido de Sodio para textiles, jabones y tratamiento de
+  agua.
+title: Cómo Elegir el Grado Correcto de Sosa Cáustica para su Industria
+description: >-
+  Compare Escamas vs. Perlas de Sosa Cáustica (99% Pureza). Aprenda a elegir el
+  grado correcto de Hidróxido de Sodio para textiles, jabones y tratamiento de
   agua.
 image: /images/blog/how-to-choose-right-caustic-soda-grade.webp
 imageAlt: Diferentes grados de perlas y escamas de Sosa Cáustica
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Guía de Producto
 tag: null
-title: Cómo Elegir el Grado Correcto de Sosa Cáustica para su Industria
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 # Cómo Elegir el Grado Correcto de Sosa Cáustica para su Industria

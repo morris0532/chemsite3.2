@@ -1,20 +1,30 @@
 ---
-Id: 'SP-8voqp9xxl2'
-Origin_Slug: 'oxalic-acid-supplier-china'
-Slug: 'oxalic-acid-supplier-china'
-Excerpt: 'China produces over 70% of the world''s oxalic acid. Learn how to evaluate Chinese suppliers, verify quality certifications, and ensure a stable supply chain for your industrial needs.'
-title: 'How to Choose a Reliable Oxalic Acid Supplier in China: A Complete Buyer''s Guide'
-description: 'China produces over 70% of the world''s oxalic acid. Learn how to evaluate Chinese suppliers, verify quality certifications, and ensure a stable supply chain for your industrial needs.'
-image: '/images/blog/oxalic-acid-supplier-china.webp'
-imageAlt: 'Industrial oxalic acid warehouse and shipping logistics, representing a reliable supply chain from China.'
+Id: SP-8voqp9xxl2
+Origin_Slug: oxalic-acid-supplier-china
+Slug: oxalic-acid-supplier-china
+Excerpt: >-
+  China produces over 70% of the world's oxalic acid. Learn how to evaluate
+  Chinese suppliers, verify quality certifications, and ensure a stable supply
+  chain for your industrial needs.
+title: >-
+  How to Choose a Reliable Oxalic Acid Supplier in China: A Complete Buyer's
+  Guide
+description: >-
+  China produces over 70% of the world's oxalic acid. Learn how to evaluate
+  Chinese suppliers, verify quality certifications, and ensure a stable supply
+  chain for your industrial needs.
+image: /images/blog/oxalic-acid-supplier-china.webp
+imageAlt: >-
+  Industrial oxalic acid warehouse and shipping logistics, representing a
+  reliable supply chain from China.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Buying Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Buying Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## How to Choose a Reliable Oxalic Acid Supplier in China
 

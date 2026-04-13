@@ -1,20 +1,29 @@
 ---
-Id: 'SP-yy1gbtzfc5'
-Origin_Slug: 'oxalic-acid-photography'
-Slug: 'oxalic-acid-photography'
-Excerpt: 'Explore the historical role of oxalic acid in photographic processes, from early platinum and palladium prints to its modern applications in toning and printmaking. Understand its chemical function and safety considerations.'
+Id: SP-yy1gbtzfc5
+Origin_Slug: oxalic-acid-photography
+Slug: oxalic-acid-photography
+Excerpt: >-
+  Explore the historical role of oxalic acid in photographic processes, from
+  early platinum and palladium prints to its modern applications in toning and
+  printmaking. Understand its chemical function and safety considerations.
 title: 'Oxalic Acid in Photography: Historical Use & Modern Relevance'
-description: 'Explore the historical role of oxalic acid in photographic processes, from early platinum and palladium prints to its modern applications in toning and printmaking. Understand its chemical function and safety considerations.'
-image: '/images/blog/oxalic-acid-photography.webp'
-imageAlt: 'A vintage photography darkroom scene, with old photographic equipment, developing trays, and prints, conveying both historical use and modern relevance in photographic chemistry.'
+description: >-
+  Explore the historical role of oxalic acid in photographic processes, from
+  early platinum and palladium prints to its modern applications in toning and
+  printmaking. Understand its chemical function and safety considerations.
+image: /images/blog/oxalic-acid-photography.webp
+imageAlt: >-
+  A vintage photography darkroom scene, with old photographic equipment,
+  developing trays, and prints, conveying both historical use and modern
+  relevance in photographic chemistry.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Specialty Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Specialty Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Photography: Historical Use & Modern Relevance
 

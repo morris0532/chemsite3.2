@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على
-  تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات
-  الكلسية.
 Id: SP-h4h16tdi1p
-Keywords: null
 Origin_Slug: oxalic-acid-cleaning-descaling
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-cleaning-descaling
-Target_Region: MENA Region (AR)
+Excerpt: >-
+  اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على
+  تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة
+  الترسبات الكلسية.
+title: 'حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل'
+description: >-
+  اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على
+  تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة
+  الترسبات الكلسية.
+image: /images/blog/oxalic-acid-cleaning-descaling.webp
+imageAlt: >-
+  صورة احترافية توضح فعالية حمض الأكساليك في إزالة الصدأ من سطح معدني، تظهر
+  الفرق قبل وبعد التنظيف
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: حلول التنظيف
-description: اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف
-  على تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات
-  الكلسية.
-image: /images/blog/oxalic-acid-cleaning-descaling.webp
-imageAlt: صورة احترافية توضح فعالية حمض الأكساليك في إزالة الصدأ من سطح معدني، تظهر
-  الفرق قبل وبعد التنظيف
 tag: null
-title: 'حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل

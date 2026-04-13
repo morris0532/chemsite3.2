@@ -1,23 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة
-  لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا الخضراء.
 Id: SP-7hiyfxiowe
-Keywords: null
 Origin_Slug: oxalic-acid-rare-earth-magnets
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rare-earth-magnets
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: تطبيقات صناعية
-description: تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة
-  اللازمة لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا
+Excerpt: >-
+  تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة
+  لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا
+  الخضراء.
+title: حمض الأكساليك في إنتاج مغناطيسات الأتربة النادرة
+description: >-
+  تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة
+  لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا
   الخضراء.
 image: /images/blog/oxalic-acid-rare-earth-magnets.webp
 imageAlt: مغناطيسات نيوديميوم قوية تظهر تطبيقاتها في المحركات عالية التقنية
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
 tag: null
-title: حمض الأكساليك في إنتاج مغناطيسات الأتربة النادرة
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## أهمية مغناطيسات الأتربة النادرة في العالم الحديث

@@ -1,83 +1,98 @@
 ---
 Origin_Slug: sodium-acetate-anhydrous
-applications:
-- Teinture et impression textile (agent tampon)
-- Industrie pharmaceutique (excipient, diurétique)
-- Additif alimentaire (assaisonnement, conservateur, régulateur de pH)
-- Photographie (agent de fixage)
-- Solutions tampons
-- supply de caoutchouc synthétique
-cas: 127-09-3 / 6131-90-4
+image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 category: Sels organiques
+applications:
+  - Teinture et impression textile (agent tampon)
+  - 'Industrie pharmaceutique (excipient, diurétique)'
+  - 'Additif alimentaire (assaisonnement, conservateur, régulateur de pH)'
+  - Photographie (agent de fixage)
+  - Solutions tampons
+  - supply de caoutchouc synthétique
+cas: 127-09-3 / 6131-90-4
 faqs:
-- answer: Nous sommes un fabricant et fournisseur leader en Chine d'acétate de sodium
-    anhydre, proposant des qualités industrielle, alimentaire et pharmaceutique avec
-    une pureté ≥99,0 %. Toutes les qualités sont disponibles pour l'achat en gros
-    et l'exportation, répondant aux divers besoins de l'industrie.
-  question: Quelles qualités d'acétate de sodium anhydre fournissez-vous pour les
-    commandes en gros ?
-- answer: Notre acétate de sodium anhydre (CH₃COONa) est disponible avec une pureté
-    minimale de 99,0 %. Nous assurons un contrôle qualité strict pour répondre aux
-    normes internationales pour toutes les applications.
-  question: Quelle est la pureté typique de vos produits d'acétate de sodium anhydre
-    ?
-- answer: Pour l'exportation, notre acétate de sodium anhydre est généralement emballé
-    dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus
-    pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également
-    disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage
-    personnalisées peuvent être organisées.
-  question: Comment l'acétate de sodium anhydre est-il emballé pour l'expédition internationale
-    depuis la Chine ?
-- answer: Notre acétate de sodium anhydre de qualité industrielle est largement utilisé
-    dans la teinture textile, les produits pharmaceutiques, l'alimentation comme assaisonnement
-    et conservateur, et dans la photographie. Sa polyvalence en fait un produit chimique
-    clé.
-  question: Quelles sont les principales applications de votre acétate de sodium anhydre
-    de qualité industrielle ?
-- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
-    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
-    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
-    de manipulation. Ceux-ci sont disponibles sur demande.
-  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-    de sécurité (MSDS) pour l'acétate de sodium anhydre ?
-- answer: Le délai de livraison standard pour les commandes d'acétate de sodium anhydre
-    en gros est généralement de 7 à 15 jours après la confirmation de la commande,
-    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
-    d'assurer une logistique efficace et une livraison rapide depuis les principaux
-    ports chinois.
-  question: Quel est le délai de livraison pour les commandes d'acétate de sodium
-    anhydre en gros de votre usine ?
+  - answer: >-
+      Nous sommes un fabricant et fournisseur leader en Chine d'acétate de
+      sodium anhydre, proposant des qualités industrielle, alimentaire et
+      pharmaceutique avec une pureté ≥99,0 %. Toutes les qualités sont
+      disponibles pour l'achat en gros et l'exportation, répondant aux divers
+      besoins de l'industrie.
+    question: >-
+      Quelles qualités d'acétate de sodium anhydre fournissez-vous pour les
+      commandes en gros ?
+  - answer: >-
+      Notre acétate de sodium anhydre (CH₃COONa) est disponible avec une pureté
+      minimale de 99,0 %. Nous assurons un contrôle qualité strict pour répondre
+      aux normes internationales pour toutes les applications.
+    question: Quelle est la pureté typique de vos produits d'acétate de sodium anhydre ?
+  - answer: >-
+      Pour l'exportation, notre acétate de sodium anhydre est généralement
+      emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures
+      en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg
+      (1 MT) sont également disponibles pour les expéditions en vrac plus
+      importantes. Des solutions d'emballage personnalisées peuvent être
+      organisées.
+    question: >-
+      Comment l'acétate de sodium anhydre est-il emballé pour l'expédition
+      internationale depuis la Chine ?
+  - answer: >-
+      Notre acétate de sodium anhydre de qualité industrielle est largement
+      utilisé dans la teinture textile, les produits pharmaceutiques,
+      l'alimentation comme assaisonnement et conservateur, et dans la
+      photographie. Sa polyvalence en fait un produit chimique clé.
+    question: >-
+      Quelles sont les principales applications de votre acétate de sodium
+      anhydre de qualité industrielle ?
+  - answer: >-
+      Oui, nous fournissons une documentation complète pour chaque expédition, y
+      compris un certificat d'analyse (COA) détaillant les spécifications du
+      produit et une fiche de données de sécurité (MSDS) pour les directives de
+      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
+    question: >-
+      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+      de sécurité (MSDS) pour l'acétate de sodium anhydre ?
+  - answer: >-
+      Le délai de livraison standard pour les commandes d'acétate de sodium
+      anhydre en gros est généralement de 7 à 15 jours après la confirmation de
+      la commande, selon la taille de la commande et le calendrier de supply
+      actuel. Nous nous efforçons d'assurer une logistique efficace et une
+      livraison rapide depuis les principaux ports chinois.
+    question: >-
+      Quel est le délai de livraison pour les commandes d'acétate de sodium
+      anhydre en gros de votre usine ?
 featured: false
 hsCode: '2915291000'
 id: '17'
-image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 loading: 25MT/20GP
 name: Acétate de sodium anhydre
 nameCn: 无水醋酸钠
 packaging: 25KG/Jumbo bags
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Acétate de sodium anhydre (CH3COONa) de haute pureté pour l'achat
-  en gros et l'exportation depuis la Chine. Essentiel pour les applications textiles,
-  pharmaceutiques et alimentaires. Fabricant de confiance avec des prix compétitifs.
+shortDescription: >-
+  Acétate de sodium anhydre (CH3COONa) de haute pureté pour l'achat en gros et
+  l'exportation depuis la Chine. Essentiel pour les applications textiles,
+  pharmaceutiques et alimentaires. Fabricant de confiance avec des prix
+  compétitifs.
 slug: sodium-acetate-anhydrous
 specs:
-- label: Formule chimique
-  value: CH₃COONa
-- label: Numéro CAS
-  value: 127-09-3 / 6131-90-4
-- label: Code SH
-  value: '2915291000'
-- label: Pureté
-  value: ≥99,0 %
-- label: Apparence
-  value: Poudre cristalline blanche
-- label: Emballage
-  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
-    personnalisé disponible.
-- label: Chargement
-  value: 25 MT par conteneur 20GP (FCL)
-- label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+  - label: Formule chimique
+    value: CH₃COONa
+  - label: Numéro CAS
+    value: 127-09-3 / 6131-90-4
+  - label: Code SH
+    value: '2915291000'
+  - label: Pureté
+    value: '≥99,0 %'
+  - label: Apparence
+    value: Poudre cristalline blanche
+  - label: Emballage
+    value: >-
+      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
+      Emballage personnalisé disponible.
+  - label: Chargement
+    value: 25 MT par conteneur 20GP (FCL)
+  - label: Ports disponibles
+    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
 ---
 
 ## Acétate de sodium anhydre (CAS 127-09-3) : Votre fabricant et fournisseur de confiance en Chine pour le CH₃COONa de haute pureté

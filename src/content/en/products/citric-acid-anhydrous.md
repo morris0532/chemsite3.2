@@ -1,53 +1,89 @@
 ---
-id: "8"
-name: "Citric Acid Anhydrous"
-nameCn: "无水柠檬酸"
-cas: "77-92-9 / 5949-29-1"
-hsCode: "2918140000"
-slug: "citric-acid-anhydrous"
-shortDescription: "High-purity Citric Acid Anhydrous for bulk purchase and export from China. Essential for food & beverage, pharmaceutical, and industrial applications. Trusted supplier with competitive pricing."
-image: "/images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"C₆H₈O₇"},
-  {"label":"CAS Number","value":"77-92-9 / 5949-29-1"},
-  {"label":"HS Code","value":"2918140000"},
-  {"label":"Purity","value":"≥99.5%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Food and beverage industry (acidulant, preservative, flavor enhancer)",
-  "Pharmaceutical industry (excipient, pH regulator)",
-  "Detergent and cleaning products (chelating agent)",
-  "Cosmetics and personal care products",
-  "Industrial cleaning and descaling",
-  "Textile dyeing"
-]
-faqs: [
-  {"question":"What grades of Citric Acid Anhydrous do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Citric Acid Anhydrous, offering food grade, pharmaceutical grade, and industrial grade with ≥99.5% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Citric Acid Anhydrous products?",
-    "answer":"Our Citric Acid Anhydrous (C₆H₈O₇) is available with a minimum purity of 99.5%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Citric Acid Anhydrous packaged for international shipping from China?",
-    "answer":"For export, our Citric Acid Anhydrous is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Citric Acid Anhydrous?",
-    "answer":"Our industrial grade Citric Acid Anhydrous is widely used in the food and beverage industry as an acidulant, in pharmaceuticals as an excipient, in detergents as a chelating agent, and in cosmetics. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Citric Acid Anhydrous?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Citric Acid Anhydrous orders from your factory?",
-    "answer":"Standard lead time for bulk Citric Acid Anhydrous orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Organic Acids"
+image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
+category: Organic Acids
+id: '8'
+name: Citric Acid Anhydrous
+nameCn: 无水柠檬酸
+cas: 77-92-9 / 5949-29-1
+hsCode: '2918140000'
+slug: citric-acid-anhydrous
+shortDescription: >-
+  High-purity Citric Acid Anhydrous for bulk purchase and export from China.
+  Essential for food & beverage, pharmaceutical, and industrial applications.
+  Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: C₆H₈O₇
+  - label: CAS Number
+    value: 77-92-9 / 5949-29-1
+  - label: HS Code
+    value: '2918140000'
+  - label: Purity
+    value: ≥99.5%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Food and beverage industry (acidulant, preservative, flavor enhancer)'
+  - 'Pharmaceutical industry (excipient, pH regulator)'
+  - Detergent and cleaning products (chelating agent)
+  - Cosmetics and personal care products
+  - Industrial cleaning and descaling
+  - Textile dyeing
+faqs:
+  - question: What grades of Citric Acid Anhydrous do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Citric Acid Anhydrous,
+      offering food grade, pharmaceutical grade, and industrial grade with
+      ≥99.5% purity. All grades are available for bulk purchase and export,
+      catering to diverse industry needs.
+  - question: What is the typical purity of your Citric Acid Anhydrous products?
+    answer: >-
+      Our Citric Acid Anhydrous (C₆H₈O₇) is available with a minimum purity of
+      99.5%. We ensure strict quality control to meet international standards
+      for all applications.
+  - question: >-
+      How is Citric Acid Anhydrous packaged for international shipping from
+      China?
+    answer: >-
+      For export, our Citric Acid Anhydrous is typically packaged in 25KG PP
+      woven bags with inner PE liners, designed to protect against moisture.
+      1000KG (1MT) jumbo bags are also available for larger bulk shipments.
+      Custom packaging solutions can be arranged.
+  - question: >-
+      What are the main applications of your industrial grade Citric Acid
+      Anhydrous?
+    answer: >-
+      Our industrial grade Citric Acid Anhydrous is widely used in the food and
+      beverage industry as an acidulant, in pharmaceuticals as an excipient, in
+      detergents as a chelating agent, and in cosmetics. Its versatility makes
+      it a key chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Citric Acid Anhydrous?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: >-
+      What is the lead time for bulk Citric Acid Anhydrous orders from your
+      factory?
+    answer: >-
+      Standard lead time for bulk Citric Acid Anhydrous orders is typically 7-15
+      days after order confirmation, depending on the order size and current
+      supply schedule. We strive for efficient logistics and timely delivery
+      from major Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

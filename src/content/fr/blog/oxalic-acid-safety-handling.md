@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Un guide complet pour manipuler l'acide oxalique en toute sécurité. Apprenez-en
-  davantage sur ses propriétés, ses dangers potentiels, l'EPI essentiel, le stockage
-  approprié, les premiers secours et les procédures d'élimination des déchets pour
-  garantir un environnement de travail sûr.
 Id: SP-xkuygkxk3q
-Keywords: null
 Origin_Slug: oxalic-acid-safety-handling
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-securite-manipulation
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Un guide complet pour manipuler l'acide oxalique en toute sécurité.
+  Apprenez-en davantage sur ses propriétés, ses dangers potentiels, l'EPI
+  essentiel, le stockage approprié, les premiers secours et les procédures
+  d'élimination des déchets pour garantir un environnement de travail sûr.
+title: 'Sécurité et Manipulation de l''Acide Oxalique : Un Guide Complet'
+description: >-
+  Un guide complet pour manipuler l'acide oxalique en toute sécurité.
+  Apprenez-en davantage sur ses propriétés, ses dangers potentiels, l'EPI
+  essentiel, le stockage approprié, les premiers secours et les procédures
+  d'élimination des déchets pour garantir un environnement de travail sûr.
+image: /images/blog/oxalic-acid-safety-handling.webp
+imageAlt: >-
+  Une personne portant un EPI approprié (lunettes, gants, blouse de laboratoire)
+  manipulant des produits chimiques dans un laboratoire, soulignant la sécurité.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Sécurité et Conformité
-description: Un guide complet pour manipuler l'acide oxalique en toute sécurité. Apprenez-en
-  davantage sur ses propriétés, ses dangers potentiels, l'EPI essentiel, le stockage
-  approprié, les premiers secours et les procédures d'élimination des déchets pour
-  garantir un environnement de travail sûr.
-image: /images/blog/oxalic-acid-safety-handling.webp
-imageAlt: Une personne portant un EPI approprié (lunettes, gants, blouse de laboratoire)
-  manipulant des produits chimiques dans un laboratoire, soulignant la sécurité.
 tag: null
-title: 'Sécurité et Manipulation de l''Acide Oxalique : Un Guide Complet'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Sécurité et Manipulation de l'Acide Oxalique : Un Guide Complet

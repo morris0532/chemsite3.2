@@ -1,20 +1,30 @@
 ---
-Id: 'SP-e9qowx5mo1'
-Origin_Slug: 'oxalic-acid-pharmaceutical-intermediates'
-Slug: 'oxalic-acid-pharmaceutical-intermediates'
-Excerpt: 'Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing.'
+Id: SP-e9qowx5mo1
+Origin_Slug: oxalic-acid-pharmaceutical-intermediates
+Slug: oxalic-acid-pharmaceutical-intermediates
+Excerpt: >-
+  Explore the critical role of oxalic acid as a versatile building block and
+  reagent in the synthesis of various pharmaceutical intermediates, highlighting
+  its chemical properties and applications in drug manufacturing.
 title: 'Oxalic Acid in Pharmaceutical Intermediates: A Key Role'
-description: 'Explore the critical role of oxalic acid as a versatile building block and reagent in the synthesis of various pharmaceutical intermediates, highlighting its chemical properties and applications in drug manufacturing.'
-image: '/images/blog/oxalic-acid-pharmaceutical-intermediates.webp'
-imageAlt: 'A professional and clean image depicting a pharmaceutical laboratory setting, with glassware, chemical compounds, and a focus on the synthesis or analysis of pharmaceutical intermediates. Highlight the precision and sterile environment.'
+description: >-
+  Explore the critical role of oxalic acid as a versatile building block and
+  reagent in the synthesis of various pharmaceutical intermediates, highlighting
+  its chemical properties and applications in drug manufacturing.
+image: /images/blog/oxalic-acid-pharmaceutical-intermediates.webp
+imageAlt: >-
+  A professional and clean image depicting a pharmaceutical laboratory setting,
+  with glassware, chemical compounds, and a focus on the synthesis or analysis
+  of pharmaceutical intermediates. Highlight the precision and sterile
+  environment.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Pharmaceutical Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Pharmaceutical Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Pharmaceutical Intermediates: A Key Role
 

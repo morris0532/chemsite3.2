@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique,
-  y compris le titrage au permanganate de potassium, la détermination du point de
-  fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité de vos applications
-  industrielles.
 Id: SP-5arn0g83vn
-Keywords: null
 Origin_Slug: how-to-test-oxalic-acid-purity
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-test-oxalic-acid-purity
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique,
+  y compris le titrage au permanganate de potassium, la détermination du point
+  de fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité de
+  vos applications industrielles.
+title: 'Comment Tester la Pureté de l''Acide Oxalique : Un Guide Complet'
+description: >-
+  Découvrez les méthodes essentielles pour tester la pureté de l'acide oxalique,
+  y compris le titrage au permanganate de potassium, la détermination du point
+  de fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité de
+  vos applications industrielles.
+image: /images/blog/how-to-test-oxalic-acid-purity.webp
+imageAlt: >-
+  Montage de titrage en laboratoire pour tester la pureté de l'acide oxalique
+  avec du permanganate de potassium
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
-description: Découvrez les méthodes essentielles pour tester la pureté de l'acide
-  oxalique, y compris le titrage au permanganate de potassium, la détermination du
-  point de fusion et l'analyse spectroscopique. Assurez la qualité et la sécurité
-  de vos applications industrielles.
-image: /images/blog/how-to-test-oxalic-acid-purity.webp
-imageAlt: Montage de titrage en laboratoire pour tester la pureté de l'acide oxalique
-  avec du permanganate de potassium
 tag: null
-title: 'Comment Tester la Pureté de l''Acide Oxalique : Un Guide Complet'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Comment Tester la Pureté de l'Acide Oxalique : Un Guide Complet

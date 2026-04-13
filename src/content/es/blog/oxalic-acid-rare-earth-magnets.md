@@ -1,27 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra el papel vital del ácido oxálico en la producción de imanes de tierras
-  raras, particularmente en la separación y purificación de elementos de tierras raras,
-  que son esenciales para materiales magnéticos de alto rendimiento.
 Id: SP-kkx16df0kb
-Keywords: null
 Origin_Slug: oxalic-acid-rare-earth-magnets
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rare-earth-magnets
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra el papel vital del ácido oxálico en la producción de imanes de
+  tierras raras, particularmente en la separación y purificación de elementos de
+  tierras raras, que son esenciales para materiales magnéticos de alto
+  rendimiento.
+title: 'Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico'
+description: >-
+  Descubra el papel vital del ácido oxálico en la producción de imanes de
+  tierras raras, particularmente en la separación y purificación de elementos de
+  tierras raras, que son esenciales para materiales magnéticos de alto
+  rendimiento.
+image: /images/blog/oxalic-acid-rare-earth-magnets.webp
+imageAlt: >-
+  Una imagen profesional y de alta tecnología que representa la producción de
+  imanes de tierras raras. Mostrar elementos como minerales de tierras raras, un
+  proceso de precipitación química (por ejemplo, usando ácido oxálico) e imanes
+  potentes terminados. Enfatizar precisión, tecnología avanzada y el papel
+  crítico de la química.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
-description: Descubra el papel vital del ácido oxálico en la producción de imanes
-  de tierras raras, particularmente en la separación y purificación de elementos de
-  tierras raras, que son esenciales para materiales magnéticos de alto rendimiento.
-image: /images/blog/oxalic-acid-rare-earth-magnets.webp
-imageAlt: Una imagen profesional y de alta tecnología que representa la producción
-  de imanes de tierras raras. Mostrar elementos como minerales de tierras raras, un
-  proceso de precipitación química (por ejemplo, usando ácido oxálico) e imanes potentes
-  terminados. Enfatizar precisión, tecnología avanzada y el papel crítico de la química.
 tag: null
-title: 'Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico

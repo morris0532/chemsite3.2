@@ -1,29 +1,34 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
-  et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien
-  des équipements industriels. Découvrez son action chimique, ses utilisations efficaces
-  et les consignes de sécurité.
 Id: SP-rgx89t1xln
-Keywords: null
 Origin_Slug: oxalic-acid-cleaning-descaling
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-cleaning-descaling
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
+  et le détartrage, de l'élimination des taches tenaces dans les foyers à
+  l'entretien des équipements industriels. Découvrez son action chimique, ses
+  utilisations efficaces et les consignes de sécurité.
+title: >-
+  Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et
+  Industriels
+description: >-
+  Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
+  et le détartrage, de l'élimination des taches tenaces dans les foyers à
+  l'entretien des équipements industriels. Découvrez son action chimique, ses
+  utilisations efficaces et les consignes de sécurité.
+image: /images/blog/oxalic-acid-cleaning-descaling.webp
+imageAlt: >-
+  Une image propre et professionnelle représentant à la fois le nettoyage
+  domestique (par exemple, un robinet de salle de bain étincelant) et le
+  détartrage industriel (par exemple, un tuyau propre ou un équipement
+  industriel).
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications de Nettoyage
-description: Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
-  et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien
-  des équipements industriels. Découvrez son action chimique, ses utilisations efficaces
-  et les consignes de sécurité.
-image: /images/blog/oxalic-acid-cleaning-descaling.webp
-imageAlt: Une image propre et professionnelle représentant à la fois le nettoyage
-  domestique (par exemple, un robinet de salle de bain étincelant) et le détartrage
-  industriel (par exemple, un tuyau propre ou un équipement industriel).
 tag: null
-title: 'Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et
-  Industriels'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et Industriels

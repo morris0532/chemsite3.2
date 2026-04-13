@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات التنظيف
-  والأنودة.
 Id: SP-jxf4ybn2fv
-Keywords: null
 Origin_Slug: oxalic-acid-vs-sulfuric-acid
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-sulfuric-acid
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: مقارنة المنتجات
-description: مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات
-  التنظيف والأنودة.
+Excerpt: >-
+  مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات التنظيف
+  والأنودة.
+title: حمض الأكساليك مقابل حمض الكبريتيك في التنظيف الصناعي
+description: >-
+  مقارنة بين حمض عضوي (الأكساليك) وحمض معدني قوي (الكبريتيك) في تطبيقات التنظيف
+  والأنودة.
 image: /images/blog/oxalic-acid-vs-sulfuric-acid.webp
 imageAlt: أحماض صناعية للتنظيف والأنودة
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: مقارنة المنتجات
 tag: null
-title: حمض الأكساليك مقابل حمض الكبريتيك في التنظيف الصناعي
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## الأحماض العضوية مقابل الأحماض المعدنية

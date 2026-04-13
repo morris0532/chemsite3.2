@@ -1,20 +1,31 @@
 ---
-Id: 'SP-pilr90q2h2'
-Origin_Slug: 'oxalic-acid-market-analysis'
-Slug: 'oxalic-acid-market-analysis'
-Excerpt: 'Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry.'
+Id: SP-pilr90q2h2
+Origin_Slug: oxalic-acid-market-analysis
+Slug: oxalic-acid-market-analysis
+Excerpt: >-
+  Dive into the global oxalic acid market, analyzing key producing regions,
+  major trade flows, demand drivers, and future market trends shaping the
+  industry.
 title: 'Global Oxalic Acid Market Analysis: Key Producers & Trade Flows'
-description: 'Dive into the global oxalic acid market, analyzing key producing regions, major trade flows, demand drivers, and future market trends shaping the industry.'
-image: '/images/blog/oxalic-acid-market-analysis.webp'
-imageAlt: 'A professional and informative image depicting a global market analysis for oxalic acid. Show a world map with trade routes, bar charts or line graphs representing market trends, and subtle industrial elements like chemical plants or shipping containers. Emphasize global reach, economic data, and market dynamics. High quality, 4k resolution.'
+description: >-
+  Dive into the global oxalic acid market, analyzing key producing regions,
+  major trade flows, demand drivers, and future market trends shaping the
+  industry.
+image: /images/blog/oxalic-acid-market-analysis.webp
+imageAlt: >-
+  A professional and informative image depicting a global market analysis for
+  oxalic acid. Show a world map with trade routes, bar charts or line graphs
+  representing market trends, and subtle industrial elements like chemical
+  plants or shipping containers. Emphasize global reach, economic data, and
+  market dynamics. High quality, 4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Market Insights'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Market Insights
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Global Oxalic Acid Market Analysis: Key Producers & Trade Flows
 

@@ -1,20 +1,29 @@
 ---
-Id: 'SP-gecqc6qd6s'
-Origin_Slug: 'oxalic-acid-cleaning-descaling'
-Slug: 'oxalic-acid-cleaning-descaling'
-Excerpt: 'Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines.'
+Id: SP-gecqc6qd6s
+Origin_Slug: oxalic-acid-cleaning-descaling
+Slug: oxalic-acid-cleaning-descaling
+Excerpt: >-
+  Explore the versatile applications of oxalic acid in cleaning and descaling,
+  from removing tough stains in households to industrial equipment maintenance.
+  Learn about its chemical action, effective uses, and safety guidelines.
 title: 'Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses'
-description: 'Explore the versatile applications of oxalic acid in cleaning and descaling, from removing tough stains in households to industrial equipment maintenance. Learn about its chemical action, effective uses, and safety guidelines.'
-image: '/images/blog/oxalic-acid-cleaning-descaling.webp'
-imageAlt: 'A clean and professional image depicting both household cleaning (e.g., a sparkling clean bathroom fixture) and industrial descaling (e.g., a clean pipe or industrial equipment).'
+description: >-
+  Explore the versatile applications of oxalic acid in cleaning and descaling,
+  from removing tough stains in households to industrial equipment maintenance.
+  Learn about its chemical action, effective uses, and safety guidelines.
+image: /images/blog/oxalic-acid-cleaning-descaling.webp
+imageAlt: >-
+  A clean and professional image depicting both household cleaning (e.g., a
+  sparkling clean bathroom fixture) and industrial descaling (e.g., a clean pipe
+  or industrial equipment).
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Cleaning Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Cleaning Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Cleaning & Descaling: Household & Industrial Uses
 

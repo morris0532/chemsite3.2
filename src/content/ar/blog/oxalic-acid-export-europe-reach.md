@@ -1,23 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على لوائح
-  REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.
 Id: SP-4c51y9hn3u
-Keywords: null
 Origin_Slug: oxalic-acid-export-europe-reach
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-export-europe-reach
-Target_Region: MENA Region (AR)
+Excerpt: >-
+  دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على لوائح
+  REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.
+title: 'تصدير حمض الأكساليك إلى أوروبا: الامتثال للوائح REACH والجودة'
+description: >-
+  دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على لوائح
+  REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.
+image: /images/blog/oxalic-acid-export-europe-reach.webp
+imageAlt: >-
+  صورة لميناء أوروبي حديث مع حاويات شحن، ترمز إلى التجارة الدولية والامتثال
+  للوائح REACH
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: التجارة واللوائح
-description: دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على
-  لوائح REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.
-image: /images/blog/oxalic-acid-export-europe-reach.webp
-imageAlt: صورة لميناء أوروبي حديث مع حاويات شحن، ترمز إلى التجارة الدولية والامتثال
-  للوائح REACH
 tag: null
-title: 'تصدير حمض الأكساليك إلى أوروبا: الامتثال للوائح REACH والجودة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## تصدير حمض الأكساليك إلى أوروبا: الامتثال للوائح REACH والجودة

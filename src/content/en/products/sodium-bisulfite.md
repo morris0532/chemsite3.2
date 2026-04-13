@@ -1,53 +1,83 @@
 ---
-id: "20"
-name: "Sodium Bisulfite"
-nameCn: "亚硫酸氢钠"
-cas: "7631-90-5"
-hsCode: "2832100000"
-slug: "sodium-bisulfite"
-shortDescription: "High-purity Sodium Bisulfite (NaHSO3) for bulk purchase and export from China. Essential for water treatment, food preservation, and textile processing. Trusted supplier with competitive pricing."
-image: "/images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"NaHSO₃"},
-  {"label":"CAS Number","value":"7631-90-5"},
-  {"label":"HS Code","value":"2832100000"},
-  {"label":"Purity","value":"≥97%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Water treatment (oxygen scavenger, dechlorination)",
-  "Food preservation (antioxidant, antimicrobial)",
-  "Textile industry (bleaching, dyeing, reducing agent)",
-  "Pulp and paper industry (bleaching agent)",
-  "Photography (reducing agent)",
-  "Chemical synthesis"
-]
-faqs: [
-  {"question":"What grades of Sodium Bisulfite do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Sodium Bisulfite, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Sodium Bisulfite products?",
-    "answer":"Our Sodium Bisulfite (NaHSO₃) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Sodium Bisulfite packaged for international shipping from China?",
-    "answer":"For export, our Sodium Bisulfite is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Sodium Bisulfite?",
-    "answer":"Our industrial grade Sodium Bisulfite is widely used in water treatment as an oxygen scavenger, in food preservation as an antioxidant, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Sodium Bisulfite?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Sodium Bisulfite orders from your factory?",
-    "answer":"Standard lead time for bulk Sodium Bisulfite orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+image: /images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp
+category: Sulfur Compounds
+id: '20'
+name: Sodium Bisulfite
+nameCn: 亚硫酸氢钠
+cas: 7631-90-5
+hsCode: '2832100000'
+slug: sodium-bisulfite
+shortDescription: >-
+  High-purity Sodium Bisulfite (NaHSO3) for bulk purchase and export from China.
+  Essential for water treatment, food preservation, and textile processing.
+  Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: NaHSO₃
+  - label: CAS Number
+    value: 7631-90-5
+  - label: HS Code
+    value: '2832100000'
+  - label: Purity
+    value: ≥97%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Water treatment (oxygen scavenger, dechlorination)'
+  - 'Food preservation (antioxidant, antimicrobial)'
+  - 'Textile industry (bleaching, dyeing, reducing agent)'
+  - Pulp and paper industry (bleaching agent)
+  - Photography (reducing agent)
+  - Chemical synthesis
+faqs:
+  - question: What grades of Sodium Bisulfite do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Sodium Bisulfite, offering
+      food grade and industrial grade with ≥97% purity. Both grades are
+      available for bulk purchase and export, catering to diverse industry
+      needs.
+  - question: What is the typical purity of your Sodium Bisulfite products?
+    answer: >-
+      Our Sodium Bisulfite (NaHSO₃) is available with a minimum purity of 97%.
+      We ensure strict quality control to meet international standards for all
+      applications.
+  - question: How is Sodium Bisulfite packaged for international shipping from China?
+    answer: >-
+      For export, our Sodium Bisulfite is typically packaged in 25KG PP woven
+      bags with inner PE liners, designed to protect against moisture. 1000KG
+      (1MT) jumbo bags are also available for larger bulk shipments. Custom
+      packaging solutions can be arranged.
+  - question: What are the main applications of your industrial grade Sodium Bisulfite?
+    answer: >-
+      Our industrial grade Sodium Bisulfite is widely used in water treatment as
+      an oxygen scavenger, in food preservation as an antioxidant, and in the
+      textile industry as a reducing agent. Its versatility makes it a key
+      chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Sodium Bisulfite?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Sodium Bisulfite orders from your factory?
+    answer: >-
+      Standard lead time for bulk Sodium Bisulfite orders is typically 7-15 days
+      after order confirmation, depending on the order size and current supply
+      schedule. We strive for efficient logistics and timely delivery from major
+      Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

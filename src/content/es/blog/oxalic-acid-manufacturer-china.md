@@ -1,29 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra por qué China domina el mercado mundial del ácido oxálico. Conozca
-  el control de calidad, las certificaciones internacionales, los procesos eficientes
-  de exportación y cómo SinoPeakChem garantiza un suministro confiable en todo el
-  mundo.
 Id: SP-iqil3f7p1j
-Keywords: null
 Origin_Slug: oxalic-acid-manufacturer-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-manufacturer-china
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra por qué China domina el mercado mundial del ácido oxálico. Conozca el
+  control de calidad, las certificaciones internacionales, los procesos
+  eficientes de exportación y cómo SinoPeakChem garantiza un suministro
+  confiable en todo el mundo.
+title: >-
+  Fabricante y Exportador de Ácido Oxálico en China: Calidad, Certificación y
+  Logística
+description: >-
+  Descubra por qué China domina el mercado mundial del ácido oxálico. Conozca el
+  control de calidad, las certificaciones internacionales, los procesos
+  eficientes de exportación y cómo SinoPeakChem garantiza un suministro
+  confiable en todo el mundo.
+image: /images/blog/oxalic-acid-manufacturer-china.webp
+imageAlt: >-
+  Una instalación moderna de fabricación química en China con elementos de
+  control de calidad, certificaciones y logística global, incluyendo un barco de
+  carga y un mapa mundi.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Perspectivas de la Industria
-description: Descubra por qué China domina el mercado mundial del ácido oxálico. Conozca
-  el control de calidad, las certificaciones internacionales, los procesos eficientes
-  de exportación y cómo SinoPeakChem garantiza un suministro confiable en todo el
-  mundo.
-image: /images/blog/oxalic-acid-manufacturer-china.webp
-imageAlt: Una instalación moderna de fabricación química en China con elementos de
-  control de calidad, certificaciones y logística global, incluyendo un barco de carga
-  y un mapa mundi.
 tag: null
-title: 'Fabricante y Exportador de Ácido Oxálico en China: Calidad, Certificación
-  y Logística'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Fabricante y Exportador de Ácido Oxálico en China: Calidad, Certificación y Logística

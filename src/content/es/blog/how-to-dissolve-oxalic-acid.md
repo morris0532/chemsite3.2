@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Aprenda el método correcto y seguro para disolver el ácido oxálico para diversas
-  aplicaciones industriales y domésticas. Esta guía cubre precauciones de seguridad
-  esenciales, materiales requeridos, instrucciones paso a paso y consejos de expertos
-  para resultados óptimos.
 Id: SP-bet4tf2f7x
-Keywords: null
 Origin_Slug: how-to-dissolve-oxalic-acid
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-to-dissolve-oxalic-acid
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Aprenda el método correcto y seguro para disolver el ácido oxálico para
+  diversas aplicaciones industriales y domésticas. Esta guía cubre precauciones
+  de seguridad esenciales, materiales requeridos, instrucciones paso a paso y
+  consejos de expertos para resultados óptimos.
+title: 'Cómo Disolver el Ácido Oxálico Correctamente: Una Guía Paso a Paso'
+description: >-
+  Aprenda el método correcto y seguro para disolver el ácido oxálico para
+  diversas aplicaciones industriales y domésticas. Esta guía cubre precauciones
+  de seguridad esenciales, materiales requeridos, instrucciones paso a paso y
+  consejos de expertos para resultados óptimos.
+image: /images/blog/how-to-dissolve-oxalic-acid.webp
+imageAlt: >-
+  Persona con bata de laboratorio y guantes azules añadiendo cuidadosamente
+  cristales de ácido oxálico al agua en un vaso de precipitados
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
-description: Aprenda el método correcto y seguro para disolver el ácido oxálico para
-  diversas aplicaciones industriales y domésticas. Esta guía cubre precauciones de
-  seguridad esenciales, materiales requeridos, instrucciones paso a paso y consejos
-  de expertos para resultados óptimos.
-image: /images/blog/how-to-dissolve-oxalic-acid.webp
-imageAlt: Persona con bata de laboratorio y guantes azules añadiendo cuidadosamente
-  cristales de ácido oxálico al agua en un vaso de precipitados
 tag: null
-title: 'Cómo Disolver el Ácido Oxálico Correctamente: Una Guía Paso a Paso'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Cómo Disolver el Ácido Oxálico Correctamente: Una Guía Paso a Paso

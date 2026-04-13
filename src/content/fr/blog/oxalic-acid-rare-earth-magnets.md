@@ -1,28 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez le rôle vital de l'acide oxalique dans la production d'aimants
-  de terres rares, en particulier dans la séparation et la purification des éléments
-  de terres rares, essentiels pour les matériaux magnétiques de haute performance.
 Id: SP-l7f6c1d4na
-Keywords: null
 Origin_Slug: oxalic-acid-rare-earth-magnets
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rare-earth-magnets
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Découvrez le rôle vital de l'acide oxalique dans la production d'aimants de
+  terres rares, en particulier dans la séparation et la purification des
+  éléments de terres rares, essentiels pour les matériaux magnétiques de haute
+  performance.
+title: 'Acide Oxalique dans les Aimants de Terres Rares : Un Composant Critique'
+description: >-
+  Découvrez le rôle vital de l'acide oxalique dans la production d'aimants de
+  terres rares, en particulier dans la séparation et la purification des
+  éléments de terres rares, essentiels pour les matériaux magnétiques de haute
+  performance.
+image: /images/blog/oxalic-acid-rare-earth-magnets.webp
+imageAlt: >-
+  Une image professionnelle et de haute technologie représentant la production
+  d'aimants de terres rares. Montrez des éléments tels que des minéraux de
+  terres rares, un processus de précipitation chimique (par exemple, utilisant
+  de l'acide oxalique) et des aimants puissants finis. Mettez l'accent sur la
+  précision, la technologie avancée et le rôle critique de la chimie.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Industrielles
-description: Découvrez le rôle vital de l'acide oxalique dans la production d'aimants
-  de terres rares, en particulier dans la séparation et la purification des éléments
-  de terres rares, essentiels pour les matériaux magnétiques de haute performance.
-image: /images/blog/oxalic-acid-rare-earth-magnets.webp
-imageAlt: Une image professionnelle et de haute technologie représentant la production
-  d'aimants de terres rares. Montrez des éléments tels que des minéraux de terres
-  rares, un processus de précipitation chimique (par exemple, utilisant de l'acide
-  oxalique) et des aimants puissants finis. Mettez l'accent sur la précision, la technologie
-  avancée et le rôle critique de la chimie.
 tag: null
-title: 'Acide Oxalique dans les Aimants de Terres Rares : Un Composant Critique'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique dans les Aimants de Terres Rares : Un Composant Critique

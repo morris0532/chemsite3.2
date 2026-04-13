@@ -1,20 +1,31 @@
 ---
-Id: 'SP-zdgzfxbfra'
-Origin_Slug: 'oxalic-acid-leather-tanning'
-Slug: 'oxalic-acid-leather-tanning'
-Excerpt: 'Explore the vital role of oxalic acid in leather tanning and dyeing, from its historical use in traditional methods to its modern applications in enhancing leather quality and color. Learn about its chemical functions and safety considerations.'
+Id: SP-zdgzfxbfra
+Origin_Slug: oxalic-acid-leather-tanning
+Slug: oxalic-acid-leather-tanning
+Excerpt: >-
+  Explore the vital role of oxalic acid in leather tanning and dyeing, from its
+  historical use in traditional methods to its modern applications in enhancing
+  leather quality and color. Learn about its chemical functions and safety
+  considerations.
 title: 'Oxalic Acid for Leather Tanning & Dyeing: Traditional & Modern Methods'
-description: 'Explore the vital role of oxalic acid in leather tanning and dyeing, from its historical use in traditional methods to its modern applications in enhancing leather quality and color. Learn about its chemical functions and safety considerations.'
-image: '/images/blog/oxalic-acid-leather-tanning.webp'
-imageAlt: 'A professional and artistic image depicting the leather tanning and dyeing process. Show vats with leather, hands working with dyed leather, or a display of various colored leather products.'
+description: >-
+  Explore the vital role of oxalic acid in leather tanning and dyeing, from its
+  historical use in traditional methods to its modern applications in enhancing
+  leather quality and color. Learn about its chemical functions and safety
+  considerations.
+image: /images/blog/oxalic-acid-leather-tanning.webp
+imageAlt: >-
+  A professional and artistic image depicting the leather tanning and dyeing
+  process. Show vats with leather, hands working with dyed leather, or a display
+  of various colored leather products.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Industrial Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Industrial Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Leather Tanning & Dyeing: Traditional & Modern Methods
 

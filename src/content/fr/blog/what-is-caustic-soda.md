@@ -1,23 +1,26 @@
 ---
-Date: '2026-04-11'
-Excerpt: 'Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
-  applications, grades, safety, and how to source it for your business.'
 Id: SP-i85421pj38
-Keywords: null
 Origin_Slug: what-is-caustic-soda
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: what-is-caustic-soda
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
+  applications, grades, safety, and how to source it for your business.
+title: What Is Caustic Soda? A Complete Guide for Industrial Buyers
+description: >-
+  Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
+  applications, grades, safety, and how to source it for your business.
+image: /images/blog/what-is-caustic-soda.webp
+imageAlt: >-
+  Caustic soda crystals in beaker with NaOH formula and industrial factory
+  background
+Date: '2026-04-11'
 author: Sinopeakchem Technical Team
 category: Product Knowledge
-description: 'Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
-  applications, grades, safety, and how to source it for your business.'
-image: /images/blog/what-is-caustic-soda.webp
-imageAlt: Caustic soda crystals in beaker with NaOH formula and industrial factory
-  background
 tag: null
-title: What Is Caustic Soda? A Complete Guide for Industrial Buyers
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 Caustic soda, chemically known as sodium hydroxide (NaOH), stands as one of the most critical industrial chemicals in the world. From water treatment facilities to lithium battery manufacturing, caustic soda plays an indispensable role in modern industry. This comprehensive guide explores everything you need to know about caustic soda—its properties, applications, grades, and how to source it effectively for your business.

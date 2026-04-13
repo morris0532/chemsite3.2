@@ -1,82 +1,97 @@
 ---
 Origin_Slug: sodium-hexametaphosphate
-applications:
-- Traitement de l'eau (séquestrant, inhibiteur de tartre, dispersant)
-- Additif alimentaire (émulsifiant, épaississant, conservateur)
-- Détergents et produits de nettoyage (adoucisseur d'eau)
-- Mines (agent de flottation)
-- Forage pétrolier (dispersant de boue)
-- Teinture textile
-cas: 10124-56-8
+image: >-
+  /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 category: Phosphates
+applications:
+  - 'Traitement de l''eau (séquestrant, inhibiteur de tartre, dispersant)'
+  - 'Additif alimentaire (émulsifiant, épaississant, conservateur)'
+  - Détergents et produits de nettoyage (adoucisseur d'eau)
+  - Mines (agent de flottation)
+  - Forage pétrolier (dispersant de boue)
+  - Teinture textile
+cas: 10124-56-8
 faqs:
-- answer: Nous sommes un fabricant et fournisseur leader de SHMP en Chine, proposant
-    des qualités alimentaire et industrielle avec une teneur en P₂O₅ ≥68%. Les deux
-    qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux
-    divers besoins de l'industrie.
-  question: Quelles qualités d'hexamétaphosphate de sodium (SHMP) fournissez-vous
-    pour les commandes en gros ?
-- answer: Notre SHMP ((NaPO₃)₆) est disponible avec une teneur minimale en P₂O₅ de
-    68%. Nous assurons un contrôle qualité strict pour répondre aux normes internationales
-    pour toutes les applications.
-  question: Quelle est la teneur typique en P₂O₅ de vos produits SHMP ?
-- answer: Pour l'exportation, notre SHMP est généralement emballé dans des sacs tissés
-    en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre
-    l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les
-    expéditions en vrac plus importantes. Des solutions d'emballage personnalisées
-    peuvent être organisées.
-  question: Comment le SHMP est-il emballé pour l'expédition internationale depuis
-    la Chine ?
-- answer: Notre SHMP de qualité industrielle est largement utilisé dans le traitement
-    de l'eau comme séquestrant et inhibiteur de tartre, dans l'alimentation comme
-    émulsifiant et dans les détergents comme adoucisseur d'eau. Sa polyvalence en
-    fait un produit chimique clé.
-  question: Quelles sont les principales applications de votre SHMP de qualité industrielle
-    ?
-- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
-    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
-    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
-    de manipulation. Ceux-ci sont disponibles sur demande.
-  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-    de sécurité (MSDS) pour le SHMP ?
-- answer: Le délai de livraison standard pour les commandes en gros de SHMP est généralement
-    de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande
-    et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique
-    efficace et une livraison rapide depuis les principaux ports chinois.
-  question: Quel est le délai de livraison pour les commandes en gros de SHMP de votre
-    usine ?
+  - answer: >-
+      Nous sommes un fabricant et fournisseur leader de SHMP en Chine, proposant
+      des qualités alimentaire et industrielle avec une teneur en P₂O₅ ≥68%. Les
+      deux qualités sont disponibles pour l'achat en gros et l'exportation,
+      répondant aux divers besoins de l'industrie.
+    question: >-
+      Quelles qualités d'hexamétaphosphate de sodium (SHMP) fournissez-vous pour
+      les commandes en gros ?
+  - answer: >-
+      Notre SHMP ((NaPO₃)₆) est disponible avec une teneur minimale en P₂O₅ de
+      68%. Nous assurons un contrôle qualité strict pour répondre aux normes
+      internationales pour toutes les applications.
+    question: Quelle est la teneur typique en P₂O₅ de vos produits SHMP ?
+  - answer: >-
+      Pour l'exportation, notre SHMP est généralement emballé dans des sacs
+      tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour
+      protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont
+      également disponibles pour les expéditions en vrac plus importantes. Des
+      solutions d'emballage personnalisées peuvent être organisées.
+    question: >-
+      Comment le SHMP est-il emballé pour l'expédition internationale depuis la
+      Chine ?
+  - answer: >-
+      Notre SHMP de qualité industrielle est largement utilisé dans le
+      traitement de l'eau comme séquestrant et inhibiteur de tartre, dans
+      l'alimentation comme émulsifiant et dans les détergents comme adoucisseur
+      d'eau. Sa polyvalence en fait un produit chimique clé.
+    question: >-
+      Quelles sont les principales applications de votre SHMP de qualité
+      industrielle ?
+  - answer: >-
+      Oui, nous fournissons une documentation complète pour chaque expédition, y
+      compris un certificat d'analyse (COA) détaillant les spécifications du
+      produit et une fiche de données de sécurité (MSDS) pour les directives de
+      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
+    question: >-
+      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+      de sécurité (MSDS) pour le SHMP ?
+  - answer: >-
+      Le délai de livraison standard pour les commandes en gros de SHMP est
+      généralement de 7 à 15 jours après la confirmation de la commande, selon
+      la taille de la commande et le calendrier de supply actuel. Nous nous
+      efforçons d'assurer une logistique efficace et une livraison rapide depuis
+      les principaux ports chinois.
+    question: >-
+      Quel est le délai de livraison pour les commandes en gros de SHMP de votre
+      usine ?
 featured: false
 hsCode: '2835391900'
 id: '13'
-image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 loading: 25MT/20GP
 name: Hexamétaphosphate de sodium (SHMP)
 nameCn: 六偏磷酸钠
 packaging: Sacs de 25KG/Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Hexamétaphosphate de sodium (SHMP) de haute pureté pour l'achat
-  en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau,
-  les additifs alimentaires et les applications industrielles. Fabricant de confiance
-  avec des prix compétitifs.
+shortDescription: >-
+  Hexamétaphosphate de sodium (SHMP) de haute pureté pour l'achat en gros et
+  l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, les
+  additifs alimentaires et les applications industrielles. Fabricant de
+  confiance avec des prix compétitifs.
 slug: sodium-hexametaphosphate
 specs:
-- label: Formule chimique
-  value: (NaPO₃)₆
-- label: Numéro CAS
-  value: 10124-56-8
-- label: Code SH
-  value: '2835391900'
-- label: Teneur en P₂O₅
-  value: ≥68%
-- label: Apparence
-  value: Poudre blanche/granulaire
-- label: Emballage
-  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
-    personnalisé disponible.
-- label: Chargement
-  value: 25 MT par conteneur 20GP (FCL)
-- label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+  - label: Formule chimique
+    value: (NaPO₃)₆
+  - label: Numéro CAS
+    value: 10124-56-8
+  - label: Code SH
+    value: '2835391900'
+  - label: Teneur en P₂O₅
+    value: ≥68%
+  - label: Apparence
+    value: Poudre blanche/granulaire
+  - label: Emballage
+    value: >-
+      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
+      Emballage personnalisé disponible.
+  - label: Chargement
+    value: 25 MT par conteneur 20GP (FCL)
+  - label: Ports disponibles
+    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
 ---
 
 ## Hexamétaphosphate de sodium (CAS 10124-56-8) : Votre fabricant et fournisseur de confiance en Chine pour le SHMP de haute pureté

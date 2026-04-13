@@ -1,26 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
-  leurs différences en termes de propriétés, d'applications, d'impact environnemental
-  et de coût pour choisir la bonne solution pour vos besoins industriels.
 Id: SP-lqijva8bxn
-Keywords: null
 Origin_Slug: oxalic-acid-vs-edta
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-edta
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
+  leurs différences en termes de propriétés, d'applications, d'impact
+  environnemental et de coût pour choisir la bonne solution pour vos besoins
+  industriels.
+title: >-
+  Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre
+  Application ?
+description: >-
+  Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
+  leurs différences en termes de propriétés, d'applications, d'impact
+  environnemental et de coût pour choisir la bonne solution pour vos besoins
+  industriels.
+image: /images/blog/oxalic-acid-vs-edta.webp
+imageAlt: >-
+  Comparaison des structures chimiques et des propriétés de l'acide oxalique et
+  de l'EDTA
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Article
-description: Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
-  leurs différences en termes de propriétés, d'applications, d'impact environnemental
-  et de coût pour choisir la bonne solution pour vos besoins industriels.
-image: /images/blog/oxalic-acid-vs-edta.webp
-imageAlt: Comparaison des structures chimiques et des propriétés de l'acide oxalique
-  et de l'EDTA
 tag: null
-title: 'Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre Application
-  ?'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre Application ?

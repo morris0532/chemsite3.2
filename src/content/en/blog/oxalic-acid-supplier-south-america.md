@@ -1,20 +1,31 @@
 ---
-Id: 'SP-ex01qgtg6n'
-Origin_Slug: 'oxalic-acid-supplier-south-america'
-Slug: 'oxalic-acid-supplier-south-america'
-Excerpt: 'SinoPeakChem is your reliable oxalic acid supplier for the dynamic South American market, serving key nations like Brazil, Chile, and Colombia with quality products for agriculture, leather processing, and mining.'
+Id: SP-ex01qgtg6n
+Origin_Slug: oxalic-acid-supplier-south-america
+Slug: oxalic-acid-supplier-south-america
+Excerpt: >-
+  SinoPeakChem is your reliable oxalic acid supplier for the dynamic South
+  American market, serving key nations like Brazil, Chile, and Colombia with
+  quality products for agriculture, leather processing, and mining.
 title: 'Oxalic Acid Supplier for South America Market: Brazil, Chile & Colombia'
-description: 'SinoPeakChem is your reliable oxalic acid supplier for the dynamic South American market, serving key nations like Brazil, Chile, and Colombia with quality products for agriculture, leather processing, and mining.'
-image: '/images/blog/oxalic-acid-supplier-south-america.webp'
-imageAlt: 'A professional and clear image depicting a map of South America, highlighting countries like Brazil, Chile, and Colombia, with subtle overlays of chemical trade routes, agricultural landscapes, or industrial facilities. Emphasize the region''s economic significance and chemical import/export. High quality, 4k resolution.'
+description: >-
+  SinoPeakChem is your reliable oxalic acid supplier for the dynamic South
+  American market, serving key nations like Brazil, Chile, and Colombia with
+  quality products for agriculture, leather processing, and mining.
+image: /images/blog/oxalic-acid-supplier-south-america.webp
+imageAlt: >-
+  A professional and clear image depicting a map of South America, highlighting
+  countries like Brazil, Chile, and Colombia, with subtle overlays of chemical
+  trade routes, agricultural landscapes, or industrial facilities. Emphasize the
+  region's economic significance and chemical import/export. High quality, 4k
+  resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Regional Market'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Regional Market
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Supplier for South America Market: Brazil, Chile & Colombia
 

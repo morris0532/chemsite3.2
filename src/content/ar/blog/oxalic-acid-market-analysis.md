@@ -1,23 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
-  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.
 Id: SP-notus8wjs9
-Keywords: null
 Origin_Slug: oxalic-acid-market-analysis
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-swq-analysis
-Target_Region: MENA Region (AR)
+Excerpt: >-
+  نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
+  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين
+  والمستوردين.
+title: 'تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة'
+description: >-
+  نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
+  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين
+  والمستوردين.
+image: /images/blog/oxalic-acid-market-analysis.webp
+imageAlt: >-
+  رسم بياني عالمي يظهر تدفقات تجارة المواد الكيميائية بين القارات، مع التركيز
+  على الصادرات من آسيا
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: تحليل السوق
-description: نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
-  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.
-image: /images/blog/oxalic-acid-market-analysis.webp
-imageAlt: رسم بياني عالمي يظهر تدفقات تجارة المواد الكيميائية بين القارات، مع التركيز
-  على الصادرات من آسيا
 tag: null
-title: 'تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة

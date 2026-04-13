@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: تعرف على تعقيدات الشحن الدولي للمواد الكيميائية من الصين. تعرف على اللوائح،
-  ومتطلبات التعبئة، واختيار الشريك اللوجستي المناسب.
 Id: SP-t5d4zpnx06
-Keywords: null
 Origin_Slug: chemical-shipping-logistics-china-guide
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: chemical-shipping-lwjstyat-alsyn-dlyl
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: الشحن والخدمات اللوجستية
-description: تعرف على تعقيدات الشحن الدولي للمواد الكيميائية من الصين. تعرف على اللوائح،
+Excerpt: >-
+  تعرف على تعقيدات الشحن الدولي للمواد الكيميائية من الصين. تعرف على اللوائح،
+  ومتطلبات التعبئة، واختيار الشريك اللوجستي المناسب.
+title: 'شحن المواد الكيميائية والخدمات اللوجستية من الصين: ما تحتاج إلى معرفته'
+description: >-
+  تعرف على تعقيدات الشحن الدولي للمواد الكيميائية من الصين. تعرف على اللوائح،
   ومتطلبات التعبئة، واختيار الشريك اللوجستي المناسب.
 image: /images/blog/chemical-shipping-logistics-china-guide.webp
 imageAlt: شحن المواد الكيميائية الدولي والخدمات اللوجستية من ميناء الصين
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: الشحن والخدمات اللوجستية
 tag: null
-title: 'شحن المواد الكيميائية والخدمات اللوجستية من الصين: ما تحتاج إلى معرفته'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## التنقل في الخدمات اللوجستية الكيميائية

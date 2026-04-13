@@ -1,20 +1,20 @@
 ---
-Date: '2026-04-10'
-Excerpt: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
 Id: SP-17vcu1qcep
-Keywords: null
 Origin_Slug: water-treatment-chemicals-comparison
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: water-treatment-chemicals-comparison
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: مقال فني
+Excerpt: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
+title: 'مقارنة مواد معالجة المياه: PAC مقابل كبريتات الألومنيوم مقابل كلوريد الحديديك'
 description: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
 image: /images/blog/water-treatment-chemicals-comparison.webp
 imageAlt: مقارنة بين PAC وكبريتات الألومنيوم في معالجة المياه
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: مقال فني
 tag: null
-title: 'مقارنة مواد معالجة المياه: PAC مقابل كبريتات الألومنيوم مقابل كلوريد الحديديك'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## اختيار المخثر الصحيح

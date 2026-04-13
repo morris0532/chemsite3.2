@@ -1,20 +1,28 @@
 ---
-Id: 'SP-gc5kcdclps'
-Origin_Slug: 'oxalic-acid-safety-handling'
-Slug: 'oxalic-acid-safety-handling'
-Excerpt: 'A comprehensive guide to safely handling oxalic acid. Learn about its properties, potential hazards, essential PPE, proper storage, first aid, and waste disposal procedures to ensure a safe working environment.'
+Id: SP-gc5kcdclps
+Origin_Slug: oxalic-acid-safety-handling
+Slug: oxalic-acid-safety-handling
+Excerpt: >-
+  A comprehensive guide to safely handling oxalic acid. Learn about its
+  properties, potential hazards, essential PPE, proper storage, first aid, and
+  waste disposal procedures to ensure a safe working environment.
 title: 'Oxalic Acid Safety & Handling: A Comprehensive Guide'
-description: 'A comprehensive guide to safely handling oxalic acid. Learn about its properties, potential hazards, essential PPE, proper storage, first aid, and waste disposal procedures to ensure a safe working environment.'
-image: '/images/blog/oxalic-acid-safety-handling.webp'
-imageAlt: 'A person wearing appropriate PPE (goggles, gloves, lab coat) handling chemicals in a laboratory, emphasizing safety.'
+description: >-
+  A comprehensive guide to safely handling oxalic acid. Learn about its
+  properties, potential hazards, essential PPE, proper storage, first aid, and
+  waste disposal procedures to ensure a safe working environment.
+image: /images/blog/oxalic-acid-safety-handling.webp
+imageAlt: >-
+  A person wearing appropriate PPE (goggles, gloves, lab coat) handling
+  chemicals in a laboratory, emphasizing safety.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Safety & Compliance'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Safety & Compliance
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Safety & Handling: A Comprehensive Guide
 

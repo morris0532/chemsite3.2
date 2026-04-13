@@ -1,30 +1,20 @@
 ---
-Date: '2026-04-10'
-Excerpt: SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado norteamericano,
-  atendiendo países clave como EE. UU., Canadá y México con productos de calidad para
-  limpieza industrial, tratamiento de la madera y diversas aplicaciones químicas.
 Id: SP-itjznfv1d6
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-north-america
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-proveedor-north-america
-Target_Region: Latin America & Spain (ES)
+Excerpt: "SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado norteamericano, atendiendo países clave como EE.\_UU., Canadá y México con productos de calidad para limpieza industrial, tratamiento de la madera y diversas aplicaciones químicas."
+title: "Proveedor de Ácido Oxálico para el Mercado de Norteamérica: EE.\_UU., Canadá y México"
+description: "SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado norteamericano, atendiendo países clave como EE.\_UU., Canadá y México con productos de calidad para limpieza industrial, tratamiento de la madera y diversas aplicaciones químicas."
+image: /images/blog/oxalic-acid-supplier-north-america.webp
+imageAlt: "Una imagen profesional y clara que muestra un mapa de Norteamérica, resaltando países como EE.\_UU., Canadá y México, con superposiciones sutiles de rutas comerciales de productos químicos, paisajes industriales o actividades portuarias. Destaca la importancia económica de la región y el comercio químico de importación/exportación. Alta calidad, resolución 4k."
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
-description: SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado
-  norteamericano, atendiendo países clave como EE. UU., Canadá y México con productos
-  de calidad para limpieza industrial, tratamiento de la madera y diversas aplicaciones
-  químicas.
-image: /images/blog/oxalic-acid-supplier-north-america.webp
-imageAlt: Una imagen profesional y clara que muestra un mapa de Norteamérica, resaltando
-  países como EE. UU., Canadá y México, con superposiciones sutiles de rutas comerciales
-  de productos químicos, paisajes industriales o actividades portuarias. Destaca la
-  importancia económica de la región y el comercio químico de importación/exportación.
-  Alta calidad, resolución 4k.
 tag: null
-title: 'Proveedor de Ácido Oxálico para el Mercado de Norteamérica: EE. UU., Canadá
-  y México'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Proveedor de Ácido Oxálico para el Mercado de Norteamérica: EE. UU., Canadá y México

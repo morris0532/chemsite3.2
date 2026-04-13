@@ -1,26 +1,29 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore the historical role of oxalic acid in photographic processes, from
-  early platinum and palladium prints to its modern applications in toning and printmaking.
-  Understand its chemical function and safety considerations.
 Id: SP-om5dtcbwfq
-Keywords: null
 Origin_Slug: oxalic-acid-photography
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-photography
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: Specialty Applications
-description: Explore the historical role of oxalic acid in photographic processes,
-  from early platinum and palladium prints to its modern applications in toning and
+Excerpt: >-
+  Explore the historical role of oxalic acid in photographic processes, from
+  early platinum and palladium prints to its modern applications in toning and
+  printmaking. Understand its chemical function and safety considerations.
+title: 'Oxalic Acid in Photography: Historical Use & Modern Relevance'
+description: >-
+  Explore the historical role of oxalic acid in photographic processes, from
+  early platinum and palladium prints to its modern applications in toning and
   printmaking. Understand its chemical function and safety considerations.
 image: /images/blog/oxalic-acid-photography.webp
-imageAlt: A vintage photography darkroom scene, with old photographic equipment, developing
-  trays, and prints, conveying both historical use and modern relevance in photographic
-  chemistry.
+imageAlt: >-
+  A vintage photography darkroom scene, with old photographic equipment,
+  developing trays, and prints, conveying both historical use and modern
+  relevance in photographic chemistry.
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Specialty Applications
 tag: null
-title: 'Oxalic Acid in Photography: Historical Use & Modern Relevance'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## Oxalic Acid in Photography: Historical Use & Modern Relevance

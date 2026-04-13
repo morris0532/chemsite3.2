@@ -1,20 +1,31 @@
 ---
-Id: 'SP-0k2yz1qfw7'
-Origin_Slug: 'oxalic-acid-dilution-guide'
-Slug: 'oxalic-acid-dilution-guide'
-Excerpt: 'A comprehensive guide on safely diluting oxalic acid, including essential safety precautions, step-by-step dilution procedures, and concentration calculation methods for various applications. Ensure safe and effective use.'
+Id: SP-0k2yz1qfw7
+Origin_Slug: oxalic-acid-dilution-guide
+Slug: oxalic-acid-dilution-guide
+Excerpt: >-
+  A comprehensive guide on safely diluting oxalic acid, including essential
+  safety precautions, step-by-step dilution procedures, and concentration
+  calculation methods for various applications. Ensure safe and effective use.
 title: 'How to Safely Dilute Oxalic Acid: Concentration Calculation & Handling Guide'
-description: 'A comprehensive guide on safely diluting oxalic acid, including essential safety precautions, step-by-step dilution procedures, and concentration calculation methods for various applications. Ensure safe and effective use.'
-image: '/images/blog/oxalic-acid-dilution-guide.webp'
-imageAlt: 'A professional and clear image depicting the safe dilution of oxalic acid. Show a person wearing appropriate PPE (gloves, safety glasses) carefully pouring a concentrated solution into water, with laboratory glassware (beakers, volumetric flasks) and a calculator or concentration formula visible in the background. Emphasize safety and precision.'
+description: >-
+  A comprehensive guide on safely diluting oxalic acid, including essential
+  safety precautions, step-by-step dilution procedures, and concentration
+  calculation methods for various applications. Ensure safe and effective use.
+image: /images/blog/oxalic-acid-dilution-guide.webp
+imageAlt: >-
+  A professional and clear image depicting the safe dilution of oxalic acid.
+  Show a person wearing appropriate PPE (gloves, safety glasses) carefully
+  pouring a concentrated solution into water, with laboratory glassware
+  (beakers, volumetric flasks) and a calculator or concentration formula visible
+  in the background. Emphasize safety and precision.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Safety & Handling'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Safety & Handling
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## How to Safely Dilute Oxalic Acid: Concentration Calculation & Handling Guide
 

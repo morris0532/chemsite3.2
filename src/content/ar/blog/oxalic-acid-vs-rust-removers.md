@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: لماذا يفضل المحترفون حمض الأكساليك النقي على مزيلات الصدأ التجارية باهظة
-  الثمن؟ اكتشف الفروق في الفعالية والسعر.
 Id: SP-6n54y94ogb
-Keywords: null
 Origin_Slug: oxalic-acid-vs-rust-removers
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-rust-removers
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: مقارنة المنتجات
-description: لماذا يفضل المحترفون حمض الأكساليك النقي على مزيلات الصدأ التجارية باهظة
+Excerpt: >-
+  لماذا يفضل المحترفون حمض الأكساليك النقي على مزيلات الصدأ التجارية باهظة
+  الثمن؟ اكتشف الفروق في الفعالية والسعر.
+title: 'حمض الأكساليك مقابل مزيلات الصدأ التجارية: تحليل التكلفة والأداء'
+description: >-
+  لماذا يفضل المحترفون حمض الأكساليك النقي على مزيلات الصدأ التجارية باهظة
   الثمن؟ اكتشف الفروق في الفعالية والسعر.
 image: /images/blog/oxalic-acid-vs-rust-removers.webp
 imageAlt: مقارنة إزالة الصدأ بين حمض الأكساليك والمنتجات التجارية
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: مقارنة المنتجات
 tag: null
-title: 'حمض الأكساليك مقابل مزيلات الصدأ التجارية: تحليل التكلفة والأداء'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك: المكون السري في مزيلات الصدأ

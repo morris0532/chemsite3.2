@@ -1,29 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez l'empreinte environnementale de l'acide oxalique, sa présence naturelle,
-  sa biodégradabilité et les pratiques d'élimination sûres pour garantir une utilisation
-  durable dans diverses applications.
 Id: SP-9ejaywq8f7
-Keywords: null
 Origin_Slug: oxalic-acid-environmental-impact
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-environmental-impact
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez l'empreinte environnementale de l'acide oxalique, sa présence
+  naturelle, sa biodégradabilité et les pratiques d'élimination sûres pour
+  garantir une utilisation durable dans diverses applications.
+title: Impact Environnemental et Biodégradabilité de l'Acide Oxalique
+description: >-
+  Explorez l'empreinte environnementale de l'acide oxalique, sa présence
+  naturelle, sa biodégradabilité et les pratiques d'élimination sûres pour
+  garantir une utilisation durable dans diverses applications.
+image: /images/blog/oxalic-acid-environmental-impact.webp
+imageAlt: >-
+  Une image professionnelle et propre représentant la science de
+  l'environnement. Montrez un laboratoire avec des scientifiques analysant des
+  échantillons d'eau ou de sol, ou un écosystème naturel serein avec une
+  végétation luxuriante et de l'eau claire, intégrant subtilement des éléments
+  suggérant la biodégradabilité ou la recherche environnementale. Mettez
+  l'accent sur la durabilité et la rigueur scientifique. Haute qualité,
+  résolution 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Durabilité et Sécurité
-description: Explorez l'empreinte environnementale de l'acide oxalique, sa présence
-  naturelle, sa biodégradabilité et les pratiques d'élimination sûres pour garantir
-  une utilisation durable dans diverses applications.
-image: /images/blog/oxalic-acid-environmental-impact.webp
-imageAlt: Une image professionnelle et propre représentant la science de l'environnement.
-  Montrez un laboratoire avec des scientifiques analysant des échantillons d'eau ou
-  de sol, ou un écosystème naturel serein avec une végétation luxuriante et de l'eau
-  claire, intégrant subtilement des éléments suggérant la biodégradabilité ou la recherche
-  environnementale. Mettez l'accent sur la durabilité et la rigueur scientifique.
-  Haute qualité, résolution 4k.
 tag: null
-title: Impact Environnemental et Biodégradabilité de l'Acide Oxalique
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Impact Environnemental et Biodégradabilité de l'Acide Oxalique

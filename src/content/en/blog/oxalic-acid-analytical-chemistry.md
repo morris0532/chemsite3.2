@@ -1,20 +1,30 @@
 ---
-Id: 'SP-e29imj9wf3'
-Origin_Slug: 'oxalic-acid-analytical-chemistry'
-Slug: 'oxalic-acid-analytical-chemistry'
-Excerpt: 'Discover the fundamental role of oxalic acid as a primary standard and reducing agent in various analytical chemistry techniques, from titration to complexometry.'
+Id: SP-e29imj9wf3
+Origin_Slug: oxalic-acid-analytical-chemistry
+Slug: oxalic-acid-analytical-chemistry
+Excerpt: >-
+  Discover the fundamental role of oxalic acid as a primary standard and
+  reducing agent in various analytical chemistry techniques, from titration to
+  complexometry.
 title: 'Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent'
-description: 'Discover the fundamental role of oxalic acid as a primary standard and reducing agent in various analytical chemistry techniques, from titration to complexometry.'
-image: '/images/blog/oxalic-acid-analytical-chemistry.webp'
-imageAlt: 'A professional and clean image depicting a modern analytical chemistry laboratory. Show glassware, titration setups, analytical instruments (e.g., spectrophotometer, chromatograph), and chemical reagents. Emphasize precision, scientific research, and laboratory work. High quality, 4k resolution.'
+description: >-
+  Discover the fundamental role of oxalic acid as a primary standard and
+  reducing agent in various analytical chemistry techniques, from titration to
+  complexometry.
+image: /images/blog/oxalic-acid-analytical-chemistry.webp
+imageAlt: >-
+  A professional and clean image depicting a modern analytical chemistry
+  laboratory. Show glassware, titration setups, analytical instruments (e.g.,
+  spectrophotometer, chromatograph), and chemical reagents. Emphasize precision,
+  scientific research, and laboratory work. High quality, 4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Laboratory Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Laboratory Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent
 

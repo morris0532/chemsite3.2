@@ -1,27 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Una guía integral sobre el embalaje y almacenamiento adecuado del ácido oxálico.
-  Conozca los tipos comunes de envases, las condiciones ideales de almacenamiento
-  y las medidas de seguridad esenciales para mantener la calidad del producto y asegurar
-  un manejo seguro.
 Id: SP-aut89jjd5q
-Keywords: null
 Origin_Slug: oxalic-acid-packaging-storage
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-embalaje-storage
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
+  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de
+  almacenamiento y las medidas de seguridad esenciales para mantener la calidad
+  del producto y asegurar un manejo seguro.
+title: 'Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad'
+description: >-
+  Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
+  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de
+  almacenamiento y las medidas de seguridad esenciales para mantener la calidad
+  del producto y asegurar un manejo seguro.
+image: /images/blog/oxalic-acid-packaging-storage.webp
+imageAlt: >-
+  Una escena limpia y organizada de un almacén industrial con palets apilados
+  ordenadamente de sacos químicos, claramente etiquetados para almacenamiento
+  seguro.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Logística y Seguridad
-description: Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
-  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de almacenamiento
-  y las medidas de seguridad esenciales para mantener la calidad del producto y asegurar
-  un manejo seguro.
-image: /images/blog/oxalic-acid-packaging-storage.webp
-imageAlt: Una escena limpia y organizada de un almacén industrial con palets apilados
-  ordenadamente de sacos químicos, claramente etiquetados para almacenamiento seguro.
 tag: null
-title: 'Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad

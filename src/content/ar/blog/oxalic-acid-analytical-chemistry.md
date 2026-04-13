@@ -1,23 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات
-  الكيمياء التحليلية، من المعايرة إلى قياس المعقدات.
 Id: SP-gk20dcatf7
-Keywords: null
 Origin_Slug: oxalic-acid-analytical-chemistry
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-analytical-chemistry
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: تطبيقات مخبرية
-description: اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات
+Excerpt: >-
+  اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات
+  الكيمياء التحليلية، من المعايرة إلى قياس المعقدات.
+title: 'حمض الأكساليك في الكيمياء التحليلية المخبرية: كاشف أساسي'
+description: >-
+  اكتشف الدور الأساسي لحمض الأكساليك كمعيار أولي وعامل مختزل في مختلف تقنيات
   الكيمياء التحليلية، من المعايرة إلى قياس المعقدات.
 image: /images/blog/oxalic-acid-analytical-chemistry.webp
-imageAlt: صورة احترافية لمختبر كيمياء تحليلية حديث، تظهر الأدوات الزجاجية وإعدادات
+imageAlt: >-
+  صورة احترافية لمختبر كيمياء تحليلية حديث، تظهر الأدوات الزجاجية وإعدادات
   المعايرة
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: تطبيقات مخبرية
 tag: null
-title: 'حمض الأكساليك في الكيمياء التحليلية المخبرية: كاشف أساسي'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك في الكيمياء التحليلية المخبرية: كاشف أساسي

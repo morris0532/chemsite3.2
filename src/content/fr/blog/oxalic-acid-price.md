@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Restez informé des dernières tendances des prix de l'acide oxalique pour
-  2025. Explorez les facteurs clés influençant les coûts, des matières premières aux
-  prix de l'énergie, et apprenez comment obtenir la meilleure valeur pour vos achats
-  en gros.
 Id: SP-vhu3vif93c
-Keywords: null
 Origin_Slug: oxalic-acid-price
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-prix
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Restez informé des dernières tendances des prix de l'acide oxalique pour 2025.
+  Explorez les facteurs clés influençant les coûts, des matières premières aux
+  prix de l'énergie, et apprenez comment obtenir la meilleure valeur pour vos
+  achats en gros.
+title: 'Tendance des Prix de l''Acide Oxalique 2025 : Facteurs Affectant le Coût'
+description: >-
+  Restez informé des dernières tendances des prix de l'acide oxalique pour 2025.
+  Explorez les facteurs clés influençant les coûts, des matières premières aux
+  prix de l'énergie, et apprenez comment obtenir la meilleure valeur pour vos
+  achats en gros.
+image: /images/blog/oxalic-acid-price.webp
+imageAlt: >-
+  Une image professionnelle de style professionnel montrant un graphique
+  linéaire ascendant sur des sacs de produits chimiques industriels,
+  représentant les tendances des prix du marché de l'acide oxalique.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Analyse de Marché
-description: Restez informé des dernières tendances des prix de l'acide oxalique pour
-  2025. Explorez les facteurs clés influençant les coûts, des matières premières aux
-  prix de l'énergie, et apprenez comment obtenir la meilleure valeur pour vos achats
-  en gros.
-image: /images/blog/oxalic-acid-price.webp
-imageAlt: Une image professionnelle de style professionnel montrant un graphique linéaire
-  ascendant sur des sacs de produits chimiques industriels, représentant les tendances
-  des prix du marché de l'acide oxalique.
 tag: null
-title: 'Tendance des Prix de l''Acide Oxalique 2025 : Facteurs Affectant le Coût'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Tendance des Prix de l'Acide Oxalique 2025 : Facteurs Affectant le Coût

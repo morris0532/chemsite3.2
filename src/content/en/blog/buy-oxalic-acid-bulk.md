@@ -1,20 +1,28 @@
 ---
-Id: 'SP-ketyg4i6lt'
-Origin_Slug: 'buy-oxalic-acid-bulk'
-Slug: 'buy-oxalic-acid-bulk'
-Excerpt: 'A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum order quantities, packaging options, shipping methods, payment terms, and the complete procurement process from quotation to delivery.'
+Id: SP-ketyg4i6lt
+Origin_Slug: buy-oxalic-acid-bulk
+Slug: buy-oxalic-acid-bulk
+Excerpt: >-
+  A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum
+  order quantities, packaging options, shipping methods, payment terms, and the
+  complete procurement process from quotation to delivery.
 title: 'How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide'
-description: 'A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum order quantities, packaging options, shipping methods, payment terms, and the complete procurement process from quotation to delivery.'
-image: '/images/blog/buy-oxalic-acid-bulk.webp'
-imageAlt: 'Industrial logistics image showing various packaging sizes of chemical products with a cargo ship and shipping containers in the background.'
+description: >-
+  A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum
+  order quantities, packaging options, shipping methods, payment terms, and the
+  complete procurement process from quotation to delivery.
+image: /images/blog/buy-oxalic-acid-bulk.webp
+imageAlt: >-
+  Industrial logistics image showing various packaging sizes of chemical
+  products with a cargo ship and shipping containers in the background.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Procurement Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Procurement Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide
 

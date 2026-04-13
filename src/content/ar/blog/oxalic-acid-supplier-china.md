@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: تعلم المعايير الأساسية لاختيار أفضل مصنع لحمض الأكساليك في الصين، من التحقق
-  من النقاء والشهادات الدولية إلى ضمان اللوجستيات الآمنة والتواصل الفعال.
 Id: SP-ql69whz1u4
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mwrd-alsyn
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: سلسلة التوريد
-description: تعلم المعايير الأساسية لاختيار أفضل مصنع لحمض الأكساليك في الصين، من
-  التحقق من النقاء والشهادات الدولية إلى ضمان اللوجستيات الآمنة والتواصل الفعال.
+Excerpt: >-
+  تعلم المعايير الأساسية لاختيار أفضل مصنع لحمض الأكساليك في الصين، من التحقق من
+  النقاء والشهادات الدولية إلى ضمان اللوجستيات الآمنة والتواصل الفعال.
+title: 'كيفية اختيار مورد حمض الأكساليك الموثوق في الصين: دليل 2026'
+description: >-
+  تعلم المعايير الأساسية لاختيار أفضل مصنع لحمض الأكساليك في الصين، من التحقق من
+  النقاء والشهادات الدولية إلى ضمان اللوجستيات الآمنة والتواصل الفعال.
 image: /images/blog/oxalic-acid-supplier-china.webp
 imageAlt: منشأة تصنيع كيميائية حديثة في الصين تبرز معايير الجودة العالمية
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
 tag: null
-title: 'كيفية اختيار مورد حمض الأكساليك الموثوق في الصين: دليل 2026'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## لماذا تختار مورداً صينياً لحمض الأكساليك؟

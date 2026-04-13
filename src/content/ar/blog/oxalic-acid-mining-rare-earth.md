@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف الدور الحيوي لحمض الأكساليك ككاشف رئيسي في التعدين الحديث لاستخراج
-  وفصل وتنقية العناصر الأرضية النادرة (REEs) بكفاءة.
 Id: SP-yvoe76sz3c
-Keywords: null
 Origin_Slug: oxalic-acid-mining-rare-earth
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mining-rare-earth
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: تطبيقات صناعية
-description: اكتشف الدور الحيوي لحمض الأكساليك ككاشف رئيسي في التعدين الحديث لاستخراج
-  وفصل وتنقية العناصر الأرضية النادرة (REEs) بكفاءة.
+Excerpt: >-
+  اكتشف الدور الحيوي لحمض الأكساليك ككاشف رئيسي في التعدين الحديث لاستخراج وفصل
+  وتنقية العناصر الأرضية النادرة (REEs) بكفاءة.
+title: 'حمض الأكساليك في التعدين: استخراج العناصر الأرضية النادرة'
+description: >-
+  اكتشف الدور الحيوي لحمض الأكساليك ككاشف رئيسي في التعدين الحديث لاستخراج وفصل
+  وتنقية العناصر الأرضية النادرة (REEs) بكفاءة.
 image: /images/blog/oxalic-acid-mining-rare-earth.webp
 imageAlt: منظر جوي لموقع تعدين حديث مع معدات معالجة متطورة
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
 tag: null
-title: 'حمض الأكساليك في التعدين: استخراج العناصر الأرضية النادرة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك: كاشف حيوي لاستخراج العناصر الأرضية النادرة

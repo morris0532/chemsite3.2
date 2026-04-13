@@ -1,53 +1,86 @@
 ---
-id: "10"
-name: "Tri-Sodium Citrate (TSC)"
-nameCn: "柠檬酸三钠"
-cas: "68-04-2"
-hsCode: "2918150000"
-slug: "tri-sodium-citrate"
-shortDescription: "High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China. Essential for food additive, pharmaceutical, and detergent applications. Trusted supplier with competitive pricing."
-image: "/images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"Na₃C₆H₅O₇·2H₂O"},
-  {"label":"CAS Number","value":"68-04-2"},
-  {"label":"HS Code","value":"2918150000"},
-  {"label":"Purity","value":"≥99.0%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Food additive (acidity regulator, emulsifier, stabilizer)",
-  "Pharmaceutical industry (anticoagulant, alkalizing agent)",
-  "Detergent and cleaning products (builder, water softener)",
-  "Cosmetics and personal care products",
-  "Chemical synthesis",
-  "Photography"
-]
-faqs: [
-  {"question":"What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of TSC, offering food grade, pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your Tri-Sodium Citrate products?",
-    "answer":"Our Tri-Sodium Citrate (Na₃C₆H₅O₇·2H₂O) is available with a minimum purity of 99.0%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Tri-Sodium Citrate packaged for international shipping from China?",
-    "answer":"For export, our TSC is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Tri-Sodium Citrate?",
-    "answer":"Our industrial grade TSC is widely used in food as an acidity regulator, in pharmaceuticals as an anticoagulant, and in detergents as a builder. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Tri-Sodium Citrate?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Tri-Sodium Citrate orders from your factory?",
-    "answer":"Standard lead time for bulk TSC orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Citrates"
+image: /images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp
+category: Citrates
+id: '10'
+name: Tri-Sodium Citrate (TSC)
+nameCn: 柠檬酸三钠
+cas: 68-04-2
+hsCode: '2918150000'
+slug: tri-sodium-citrate
+shortDescription: >-
+  High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China.
+  Essential for food additive, pharmaceutical, and detergent applications.
+  Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: Na₃C₆H₅O₇·2H₂O
+  - label: CAS Number
+    value: 68-04-2
+  - label: HS Code
+    value: '2918150000'
+  - label: Purity
+    value: ≥99.0%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Food additive (acidity regulator, emulsifier, stabilizer)'
+  - 'Pharmaceutical industry (anticoagulant, alkalizing agent)'
+  - 'Detergent and cleaning products (builder, water softener)'
+  - Cosmetics and personal care products
+  - Chemical synthesis
+  - Photography
+faqs:
+  - question: What grades of Tri-Sodium Citrate (TSC) do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of TSC, offering food grade,
+      pharmaceutical grade, and industrial grade with ≥99.0% purity. All grades
+      are available for bulk purchase and export, catering to diverse industry
+      needs.
+  - question: What is the typical purity of your Tri-Sodium Citrate products?
+    answer: >-
+      Our Tri-Sodium Citrate (Na₃C₆H₅O₇·2H₂O) is available with a minimum purity
+      of 99.0%. We ensure strict quality control to meet international standards
+      for all applications.
+  - question: How is Tri-Sodium Citrate packaged for international shipping from China?
+    answer: >-
+      For export, our TSC is typically packaged in 25KG PP woven bags with inner
+      PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags
+      are also available for larger bulk shipments. Custom packaging solutions
+      can be arranged.
+  - question: >-
+      What are the main applications of your industrial grade Tri-Sodium
+      Citrate?
+    answer: >-
+      Our industrial grade TSC is widely used in food as an acidity regulator,
+      in pharmaceuticals as an anticoagulant, and in detergents as a builder.
+      Its versatility makes it a key chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Tri-Sodium Citrate?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: >-
+      What is the lead time for bulk Tri-Sodium Citrate orders from your
+      factory?
+    answer: >-
+      Standard lead time for bulk TSC orders is typically 7-15 days after order
+      confirmation, depending on the order size and current supply schedule. We
+      strive for efficient logistics and timely delivery from major Chinese
+      ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

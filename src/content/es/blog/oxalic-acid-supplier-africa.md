@@ -1,28 +1,35 @@
 ---
-Date: '2026-04-10'
-Excerpt: SinoPeakChem es su proveedor dedicado de ácido oxálico para el mercado africano,
-  sirviendo a países clave como Sudáfrica, Egipto y Nigeria con productos de calidad
-  para minería, tratamiento de agua y aplicaciones industriales.
 Id: SP-l26q5h99ix
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-africa
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-proveedor-africa
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  SinoPeakChem es su proveedor dedicado de ácido oxálico para el mercado
+  africano, sirviendo a países clave como Sudáfrica, Egipto y Nigeria con
+  productos de calidad para minería, tratamiento de agua y aplicaciones
+  industriales.
+title: >-
+  Proveedor de Ácido Oxálico para el Mercado Africano: Sudáfrica, Egipto y
+  Nigeria
+description: >-
+  SinoPeakChem es su proveedor dedicado de ácido oxálico para el mercado
+  africano, sirviendo a países clave como Sudáfrica, Egipto y Nigeria con
+  productos de calidad para minería, tratamiento de agua y aplicaciones
+  industriales.
+image: /images/blog/oxalic-acid-supplier-africa.webp
+imageAlt: >-
+  Imagen profesional y clara que muestra un mapa de África, destacando países
+  como Sudáfrica, Egipto y Nigeria, con sutiles superposiciones de rutas
+  comerciales químicas, operaciones mineras o instalaciones industriales.
+  Enfatiza la importancia económica de la región y la importación/exportación de
+  productos químicos. Alta calidad, resolución 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
-description: SinoPeakChem es su proveedor dedicado de ácido oxálico para el mercado
-  africano, sirviendo a países clave como Sudáfrica, Egipto y Nigeria con productos
-  de calidad para minería, tratamiento de agua y aplicaciones industriales.
-image: /images/blog/oxalic-acid-supplier-africa.webp
-imageAlt: Imagen profesional y clara que muestra un mapa de África, destacando países
-  como Sudáfrica, Egipto y Nigeria, con sutiles superposiciones de rutas comerciales
-  químicas, operaciones mineras o instalaciones industriales. Enfatiza la importancia
-  económica de la región y la importación/exportación de productos químicos. Alta
-  calidad, resolución 4k.
 tag: null
-title: 'Proveedor de Ácido Oxálico para el Mercado Africano: Sudáfrica, Egipto y Nigeria'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Proveedor de Ácido Oxálico para el Mercado Africano: Sudáfrica, Egipto y Nigeria

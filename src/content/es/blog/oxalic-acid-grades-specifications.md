@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
-  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,
-  los indicadores físico-químicos y las normas internacionales relevantes para elegir
-  el producto adecuado para su aplicación.
 Id: SP-5nnt9k7crj
-Keywords: null
 Origin_Slug: oxalic-acid-grades-specifications
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-grados-especificaciones
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
+  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de
+  pureza, los indicadores físico-químicos y las normas internacionales
+  relevantes para elegir el producto adecuado para su aplicación.
+title: 'Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda'
+description: >-
+  Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
+  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de
+  pureza, los indicadores físico-químicos y las normas internacionales
+  relevantes para elegir el producto adecuado para su aplicación.
+image: /images/blog/oxalic-acid-grades-specifications.webp
+imageAlt: >-
+  Un laboratorio profesional con vasos de precipitados que contienen diferentes
+  grados de muestras de ácido oxálico y un Certificado de Análisis.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Información de Producto
-description: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
-  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,
-  los indicadores físico-químicos y las normas internacionales relevantes para elegir
-  el producto adecuado para su aplicación.
-image: /images/blog/oxalic-acid-grades-specifications.webp
-imageAlt: Un laboratorio profesional con vasos de precipitados que contienen diferentes
-  grados de muestras de ácido oxálico y un Certificado de Análisis.
 tag: null
-title: 'Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda

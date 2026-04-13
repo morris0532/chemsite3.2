@@ -1,29 +1,34 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez le rôle crucial de l'acide oxalique dans le prétraitement des surfaces
-  métalliques, du nettoyage et dégraissage à la passivation, améliorant l'adhérence
-  des revêtements et la résistance à la corrosion.
 Id: SP-pbjyzuu9lz
-Keywords: null
 Origin_Slug: oxalic-acid-metal-pre-treatment
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-metal-pre-treatment
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez le rôle crucial de l'acide oxalique dans le prétraitement des
+  surfaces métalliques, du nettoyage et dégraissage à la passivation, améliorant
+  l'adhérence des revêtements et la résistance à la corrosion.
+title: >-
+  Acide Oxalique dans le Prétraitement des Surfaces Métalliques : Amélioration
+  de l'Adhérence et de la Résistance à la Corrosion
+description: >-
+  Explorez le rôle crucial de l'acide oxalique dans le prétraitement des
+  surfaces métalliques, du nettoyage et dégraissage à la passivation, améliorant
+  l'adhérence des revêtements et la résistance à la corrosion.
+image: /images/blog/oxalic-acid-metal-pre-treatment.webp
+imageAlt: >-
+  Une image industrielle professionnelle et propre représentant le prétraitement
+  des surfaces métalliques. Montrez des pièces métalliques subissant un
+  nettoyage, un dégraissage ou un processus de bain chimique. Mettez l'accent
+  sur la préparation des surfaces pour le revêtement ou la peinture, avec un
+  accent sur la précision et l'application industrielle. Haute qualité,
+  résolution 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Industrielles
-description: Explorez le rôle crucial de l'acide oxalique dans le prétraitement des
-  surfaces métalliques, du nettoyage et dégraissage à la passivation, améliorant l'adhérence
-  des revêtements et la résistance à la corrosion.
-image: /images/blog/oxalic-acid-metal-pre-treatment.webp
-imageAlt: Une image industrielle professionnelle et propre représentant le prétraitement
-  des surfaces métalliques. Montrez des pièces métalliques subissant un nettoyage,
-  un dégraissage ou un processus de bain chimique. Mettez l'accent sur la préparation
-  des surfaces pour le revêtement ou la peinture, avec un accent sur la précision
-  et l'application industrielle. Haute qualité, résolution 4k.
 tag: null
-title: 'Acide Oxalique dans le Prétraitement des Surfaces Métalliques : Amélioration
-  de l''Adhérence et de la Résistance à la Corrosion'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique dans le Prétraitement des Surfaces Métalliques : Amélioration de l'Adhérence et de la Résistance à la Corrosion

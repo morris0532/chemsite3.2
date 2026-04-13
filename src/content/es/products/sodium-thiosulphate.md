@@ -1,81 +1,94 @@
 ---
 Origin_Slug: sodium-thiosulphate
-applications:
-- Tratamiento de agua (decloración, eliminación de metales pesados)
-- Fotografía (agente fijador)
-- Médico (antídoto para el envenenamiento por cianuro)
-- Industria textil (agente reductor, blanqueo)
-- Análisis químico (titulante)
-- Curtido de cuero
-cas: 7772-98-7 / 10102-17-7
+image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 category: Compuestos de Azufre
+applications:
+  - 'Tratamiento de agua (decloración, eliminación de metales pesados)'
+  - Fotografía (agente fijador)
+  - Médico (antídoto para el envenenamiento por cianuro)
+  - 'Industria textil (agente reductor, blanqueo)'
+  - Análisis químico (titulante)
+  - Curtido de cuero
+cas: 7772-98-7 / 10102-17-7
 faqs:
-- answer: Somos un proveedor líder en China de Tiosulfato de Sodio, ofreciendo formas
-    anhidras y pentahidratadas con una pureza ≥99%. Ambos grados están disponibles
-    para compra al por mayor y exportación, atendiendo a diversas necesidades de la
-    industria.
-  question: ¿Qué grados de Tiosulfato de Sodio suministran para pedidos al por mayor?
-- answer: Nuestro Tiosulfato de Sodio (Na₂S₂O₃) está disponible con una pureza mínima
-    del 99% tanto para la forma anhidra como para la pentahidratada. Garantizamos
-    un estricto control de calidad para cumplir con los estándares internacionales
-    en todas las aplicaciones.
-  question: ¿Cuál es la pureza típica de sus productos de Tiosulfato de Sodio?
-- answer: Para la exportación, nuestro Tiosulfato de Sodio se empaqueta típicamente
-    en sacos de polipropileno tejido de 25 kg con revestimientos internos de PE, diseñados
-    para proteger contra la humedad. También hay disponibles sacos jumbo de 1000 kg
-    (1 TM) para envíos a granel más grandes. Se pueden organizar soluciones de embalaje
-    personalizadas.
-  question: ¿Cómo se empaqueta el Tiosulfato de Sodio para el envío internacional
-    desde China?
-- answer: Nuestro Tiosulfato de Sodio de grado industrial se utiliza ampliamente en
-    el tratamiento de agua como agente de decloración, en fotografía como agente fijador
-    y en la industria textil como agente reductor. Su versatilidad lo convierte en
-    un producto químico clave.
-  question: ¿Cuáles son las principales aplicaciones de su Tiosulfato de Sodio de
-    grado industrial?
-- answer: Sí, proporcionamos documentación completa para cada envío, incluido un Certificado
-    de Análisis (COA) que detalla las especificaciones del producto y una Hoja de
-    Datos de Seguridad de Materiales (MSDS) para las pautas de seguridad y manejo.
-    Estos están disponibles bajo petición.
-  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
-    de Seguridad de Materiales (MSDS) para el Tiosulfato de Sodio?
-- answer: El tiempo de entrega estándar para pedidos al por mayor de Tiosulfato de
-    Sodio es típicamente de 7 a 15 días después de la confirmación del pedido, dependiendo
-    del tamaño del pedido y el programa de suministro actual. Nos esforzamos por una
-    logística eficiente y una entrega oportuna desde los principales puertos chinos.
-  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de Tiosulfato
-    de Sodio desde su fábrica?
+  - answer: >-
+      Somos un proveedor líder en China de Tiosulfato de Sodio, ofreciendo
+      formas anhidras y pentahidratadas con una pureza ≥99%. Ambos grados están
+      disponibles para compra al por mayor y exportación, atendiendo a diversas
+      necesidades de la industria.
+    question: ¿Qué grados de Tiosulfato de Sodio suministran para pedidos al por mayor?
+  - answer: >-
+      Nuestro Tiosulfato de Sodio (Na₂S₂O₃) está disponible con una pureza
+      mínima del 99% tanto para la forma anhidra como para la pentahidratada.
+      Garantizamos un estricto control de calidad para cumplir con los
+      estándares internacionales en todas las aplicaciones.
+    question: ¿Cuál es la pureza típica de sus productos de Tiosulfato de Sodio?
+  - answer: >-
+      Para la exportación, nuestro Tiosulfato de Sodio se empaqueta típicamente
+      en sacos de polipropileno tejido de 25 kg con revestimientos internos de
+      PE, diseñados para proteger contra la humedad. También hay disponibles
+      sacos jumbo de 1000 kg (1 TM) para envíos a granel más grandes. Se pueden
+      organizar soluciones de embalaje personalizadas.
+    question: >-
+      ¿Cómo se empaqueta el Tiosulfato de Sodio para el envío internacional
+      desde China?
+  - answer: >-
+      Nuestro Tiosulfato de Sodio de grado industrial se utiliza ampliamente en
+      el tratamiento de agua como agente de decloración, en fotografía como
+      agente fijador y en la industria textil como agente reductor. Su
+      versatilidad lo convierte en un producto químico clave.
+    question: >-
+      ¿Cuáles son las principales aplicaciones de su Tiosulfato de Sodio de
+      grado industrial?
+  - answer: >-
+      Sí, proporcionamos documentación completa para cada envío, incluido un
+      Certificado de Análisis (COA) que detalla las especificaciones del
+      producto y una Hoja de Datos de Seguridad de Materiales (MSDS) para las
+      pautas de seguridad y manejo. Estos están disponibles bajo petición.
+    question: >-
+      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+      de Seguridad de Materiales (MSDS) para el Tiosulfato de Sodio?
+  - answer: >-
+      El tiempo de entrega estándar para pedidos al por mayor de Tiosulfato de
+      Sodio es típicamente de 7 a 15 días después de la confirmación del pedido,
+      dependiendo del tamaño del pedido y el programa de suministro actual. Nos
+      esforzamos por una logística eficiente y una entrega oportuna desde los
+      principales puertos chinos.
+    question: >-
+      ¿Cuál es el tiempo de entrega para pedidos al por mayor de Tiosulfato de
+      Sodio desde su fábrica?
 featured: false
 hsCode: '2832300000'
 id: '1'
-image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 loading: 25TM/20GP
 name: Tiosulfato de Sodio (Hypo)
 nameCn: 硫代硫酸钠
 packaging: 25KG/Sacos Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Tiosulfato de Sodio (Na2S2O3) de alta pureza para compra al por
-  mayor y exportación desde China. Esencial para el tratamiento de agua, fotografía
-  y aplicaciones médicas. Proveedor de confianza con precios competitivos.
+shortDescription: >-
+  Tiosulfato de Sodio (Na2S2O3) de alta pureza para compra al por mayor y
+  exportación desde China. Esencial para el tratamiento de agua, fotografía y
+  aplicaciones médicas. Proveedor de confianza con precios competitivos.
 slug: tiosulfato-de-sodio
 specs:
-- label: Fórmula Química
-  value: Na₂S₂O₃·5H₂O
-- label: Número CAS
-  value: 7772-98-7 / 10102-17-7
-- label: Código SA
-  value: '2832300000'
-- label: Pureza
-  value: ≥99% (Anhidro/Pentahidratado)
-- label: Apariencia
-  value: Polvo/cristales cristalinos blancos
-- label: Embalaje
-  value: Sacos de polipropileno tejido de 25 kg con revestimiento de PE, sacos jumbo
-    de 1000 kg. Embalaje personalizado disponible.
-- label: Carga
-  value: 25 TM por contenedor de 20 pies (FCL)
-- label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Puertos principales de China)
+  - label: Fórmula Química
+    value: Na₂S₂O₃·5H₂O
+  - label: Número CAS
+    value: 7772-98-7 / 10102-17-7
+  - label: Código SA
+    value: '2832300000'
+  - label: Pureza
+    value: ≥99% (Anhidro/Pentahidratado)
+  - label: Apariencia
+    value: Polvo/cristales cristalinos blancos
+  - label: Embalaje
+    value: >-
+      Sacos de polipropileno tejido de 25 kg con revestimiento de PE, sacos
+      jumbo de 1000 kg. Embalaje personalizado disponible.
+  - label: Carga
+    value: 25 TM por contenedor de 20 pies (FCL)
+  - label: Puertos Disponibles
+    value: 'Qingdao, Tianjin, Dalian (Puertos principales de China)'
 ---
 
 ## Tiosulfato de Sodio (CAS 7772-98-7 / 10102-17-7): Su Proveedor de Confianza en China para Na₂S₂O₃ de Alta Pureza

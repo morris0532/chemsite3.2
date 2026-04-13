@@ -1,20 +1,31 @@
 ---
-Id: 'SP-71shxf1jkr'
-Origin_Slug: 'oxalic-acid-supplier-central-asia'
-Slug: 'oxalic-acid-supplier-central-asia'
-Excerpt: 'SinoPeakChem is your trusted oxalic acid supplier for the Central Asian market, serving key countries like Kazakhstan and Uzbekistan with quality products for mining, industrial processing, and various chemical applications.'
+Id: SP-71shxf1jkr
+Origin_Slug: oxalic-acid-supplier-central-asia
+Slug: oxalic-acid-supplier-central-asia
+Excerpt: >-
+  SinoPeakChem is your trusted oxalic acid supplier for the Central Asian
+  market, serving key countries like Kazakhstan and Uzbekistan with quality
+  products for mining, industrial processing, and various chemical applications.
 title: 'Oxalic Acid Supplier for Central Asia Market: Kazakhstan & Uzbekistan'
-description: 'SinoPeakChem is your trusted oxalic acid supplier for the Central Asian market, serving key countries like Kazakhstan and Uzbekistan with quality products for mining, industrial processing, and various chemical applications.'
-image: '/images/blog/oxalic-acid-supplier-central-asia.webp'
-imageAlt: 'A professional and clear image depicting a map of Central Asia, highlighting countries like Kazakhstan and Uzbekistan, with subtle overlays of chemical trade routes, industrial landscapes, or port activities. Emphasize the economic significance of the region and chemical import/export. High quality, 4k resolution.'
+description: >-
+  SinoPeakChem is your trusted oxalic acid supplier for the Central Asian
+  market, serving key countries like Kazakhstan and Uzbekistan with quality
+  products for mining, industrial processing, and various chemical applications.
+image: /images/blog/oxalic-acid-supplier-central-asia.webp
+imageAlt: >-
+  A professional and clear image depicting a map of Central Asia, highlighting
+  countries like Kazakhstan and Uzbekistan, with subtle overlays of chemical
+  trade routes, industrial landscapes, or port activities. Emphasize the
+  economic significance of the region and chemical import/export. High quality,
+  4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Regional Market'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Regional Market
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Supplier for Central Asia Market: Kazakhstan & Uzbekistan
 

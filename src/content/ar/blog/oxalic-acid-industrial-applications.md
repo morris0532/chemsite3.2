@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
-  العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
 Id: SP-ymhifh1bi1
-Keywords: null
 Origin_Slug: oxalic-acid-industrial-applications
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-industrial-tatbyqat
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: دليل المنتج
-description: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى
-  استخراج العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
+Excerpt: >-
+  استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
+  العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
+title: 'حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة'
+description: >-
+  استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
+  العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
 image: /images/blog/oxalic-acid-industrial-applications.webp
 imageAlt: حمض الأكساليك المستخدم في إزالة الصدأ والتنظيف الصناعي
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: دليل المنتج
 tag: null
-title: 'حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## ما هو حمض الأكساليك؟

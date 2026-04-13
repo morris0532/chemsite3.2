@@ -1,37 +1,41 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez les différences fondamentales entre l'acide oxalique et l'acide
-  sulfurique, deux produits chimiques industriellement importants. Cet article compare
-  leurs propriétés chimiques, leurs diverses applications, leurs profils de sécurité
-  et leurs considérations environnementales pour vous aider à choisir le bon acide
-  pour vos besoins.
 Id: SP-zcwujbhlk5
-Keywords: null
 Origin_Slug: oxalic-acid-vs-sulfuric-acid
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-sulfuric-acid
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez les différences fondamentales entre l'acide oxalique et l'acide
+  sulfurique, deux produits chimiques industriellement importants. Cet article
+  compare leurs propriétés chimiques, leurs diverses applications, leurs profils
+  de sécurité et leurs considérations environnementales pour vous aider à
+  choisir le bon acide pour vos besoins.
+title: 'Acide Oxalique vs. Acide Sulfurique : Différences Clés et Applications'
+description: >-
+  Explorez les différences fondamentales entre l'acide oxalique et l'acide
+  sulfurique, deux produits chimiques industriellement importants. Cet article
+  compare leurs propriétés chimiques, leurs diverses applications, leurs profils
+  de sécurité et leurs considérations environnementales pour vous aider à
+  choisir le bon acide pour vos besoins.
+image: /images/blog/oxalic-acid-vs-sulfuric-acid.webp
+imageAlt: >-
+  Une image claire, professionnelle et visuellement attrayante comparant l'acide
+  oxalique et l'acide sulfurique. L'image doit utiliser des métaphores visuelles
+  ou des représentations scientifiques pour souligner leurs différences clés en
+  termes de structure chimique, d'applications et de profils de sécurité. Par
+  exemple, l'acide oxalique pourrait être représenté par une molécule plus
+  douce, d'apparence organique, avec des symboles de nettoyage ou d'élimination
+  de la rouille, tandis que l'acide sulfurique pourrait être représenté comme
+  une molécule inorganique plus agressive avec des symboles de processus
+  industriels puissants ou de corrosion. Utilisez une composition équilibrée
+  avec des distinctions claires entre les deux. Haute qualité, résolution 4k,
+  format WebP, taille de fichier inférieure à 300KB.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Comparaisons Chimiques
-description: Explorez les différences fondamentales entre l'acide oxalique et l'acide
-  sulfurique, deux produits chimiques industriellement importants. Cet article compare
-  leurs propriétés chimiques, leurs diverses applications, leurs profils de sécurité
-  et leurs considérations environnementales pour vous aider à choisir le bon acide
-  pour vos besoins.
-image: /images/blog/oxalic-acid-vs-sulfuric-acid.webp
-imageAlt: Une image claire, professionnelle et visuellement attrayante comparant l'acide
-  oxalique et l'acide sulfurique. L'image doit utiliser des métaphores visuelles ou
-  des représentations scientifiques pour souligner leurs différences clés en termes
-  de structure chimique, d'applications et de profils de sécurité. Par exemple, l'acide
-  oxalique pourrait être représenté par une molécule plus douce, d'apparence organique,
-  avec des symboles de nettoyage ou d'élimination de la rouille, tandis que l'acide
-  sulfurique pourrait être représenté comme une molécule inorganique plus agressive
-  avec des symboles de processus industriels puissants ou de corrosion. Utilisez une
-  composition équilibrée avec des distinctions claires entre les deux. Haute qualité,
-  résolution 4k, format WebP, taille de fichier inférieure à 300KB.
 tag: null
-title: 'Acide Oxalique vs. Acide Sulfurique : Différences Clés et Applications'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 # Acide Oxalique vs. Acide Sulfurique : Différences Clés et Applications

@@ -1,20 +1,30 @@
 ---
-Id: 'SP-tgrcwyqtow'
-Origin_Slug: 'oxalic-acid-rare-earth-extraction'
-Slug: 'oxalic-acid-rare-earth-extraction'
-Excerpt: 'Explore the critical role of oxalic acid in the extraction, separation, and purification of rare earth elements. Learn about its chemical principles and its significance in high-tech industries like electronics, green energy, and defense.'
+Id: SP-tgrcwyqtow
+Origin_Slug: oxalic-acid-rare-earth-extraction
+Slug: oxalic-acid-rare-earth-extraction
+Excerpt: >-
+  Explore the critical role of oxalic acid in the extraction, separation, and
+  purification of rare earth elements. Learn about its chemical principles and
+  its significance in high-tech industries like electronics, green energy, and
+  defense.
 title: 'Oxalic Acid for Rare Earth Extraction: A Key Chemical in Modern Industry'
-description: 'Explore the critical role of oxalic acid in the extraction, separation, and purification of rare earth elements. Learn about its chemical principles and its significance in high-tech industries like electronics, green energy, and defense.'
-image: '/images/blog/oxalic-acid-rare-earth-extraction.webp'
-imageAlt: 'A sophisticated laboratory setting focused on rare earth element extraction, featuring specialized equipment and colorful solutions.'
+description: >-
+  Explore the critical role of oxalic acid in the extraction, separation, and
+  purification of rare earth elements. Learn about its chemical principles and
+  its significance in high-tech industries like electronics, green energy, and
+  defense.
+image: /images/blog/oxalic-acid-rare-earth-extraction.webp
+imageAlt: >-
+  A sophisticated laboratory setting focused on rare earth element extraction,
+  featuring specialized equipment and colorful solutions.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Application'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Application
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Rare Earth Extraction: A Key Chemical in Modern Industry
 

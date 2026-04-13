@@ -1,82 +1,97 @@
 ---
 Origin_Slug: caustic-soda
-applications:
-- Industria del papel y la pulpa (pulpado, blanqueo)
-- Industria textil (mercerizado, teñido)
-- Tratamiento de agua (ajuste de pH, eliminación de metales pesados)
-- Suministro de jabones y detergentes
-- Suministro de alúmina
-- Refino de petróleo
-- Suministro de intermedios químicos
-cas: 1310-73-2
+image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: Productos Alcalinos
+applications:
+  - 'Industria del papel y la pulpa (pulpado, blanqueo)'
+  - 'Industria textil (mercerizado, teñido)'
+  - 'Tratamiento de agua (ajuste de pH, eliminación de metales pesados)'
+  - Suministro de jabones y detergentes
+  - Suministro de alúmina
+  - Refino de petróleo
+  - Suministro de intermedios químicos
+cas: 1310-73-2
 faqs:
-- answer: Somos un proveedor líder en China de Soda Cáustica, ofreciendo tanto escamas
-    de alta pureza como perlas (microperlas) con una pureza ≥99%. Ambas formas son
-    ideales para diversas aplicaciones industriales y están disponibles para compra
-    al por mayor y exportación.
-  question: ¿Qué formas de Soda Cáustica suministran para pedidos al por mayor?
-- answer: Nuestra Soda Cáustica (Hidróxido de Sodio) está disponible en grados de
-    pureza del 96% y 99%. Garantizamos un estricto control de calidad para cumplir
-    con los estándares internacionales en todas las aplicaciones industriales.
-  question: ¿Cuál es la pureza típica de sus productos de Soda Cáustica?
-- answer: Para la exportación, nuestra Soda Cáustica se empaqueta típicamente en sacos
-    de polipropileno tejido de 25 kg con revestimientos internos de PE, diseñados
-    para soportar los rigores del transporte internacional y proteger contra la humedad.
-    Se pueden organizar soluciones de embalaje personalizadas para pedidos de gran
-    volumen.
-  question: ¿Cómo se empaqueta la Soda Cáustica para el envío internacional desde
-    China?
-- answer: Nuestra Soda Cáustica de grado industrial se utiliza ampliamente en la industria
-    del papel y la pulpa, el mercerizado textil, el tratamiento de agua para el ajuste
-    del pH, el suministro de jabones y detergentes, el suministro de alúmina y el
-    refino de petróleo. Su versatilidad la convierte en un intermedio químico clave.
-  question: ¿Cuáles son las principales aplicaciones de su Soda Cáustica de grado
-    industrial?
-- answer: Sí, proporcionamos documentación completa para cada envío, incluido un Certificado
-    de Análisis (COA) que detalla las especificaciones del producto y una Hoja de
-    Datos de Seguridad de Materiales (MSDS) para las pautas de seguridad y manejo.
-    Estos están disponibles bajo petición.
-  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
-    de Seguridad de Materiales (MSDS) para la Soda Cáustica?
-- answer: El tiempo de entrega estándar para pedidos al por mayor de Soda Cáustica
-    es típicamente de 7 a 15 días después de la confirmación del pedido, dependiendo
-    del tamaño del pedido y el programa de suministro actual. Nos esforzamos por una
-    logística eficiente y una entrega oportuna desde los principales puertos chinos.
-  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de Soda Cáustica
-    desde su fábrica?
+  - answer: >-
+      Somos un proveedor líder en China de Soda Cáustica, ofreciendo tanto
+      escamas de alta pureza como perlas (microperlas) con una pureza ≥99%.
+      Ambas formas son ideales para diversas aplicaciones industriales y están
+      disponibles para compra al por mayor y exportación.
+    question: ¿Qué formas de Soda Cáustica suministran para pedidos al por mayor?
+  - answer: >-
+      Nuestra Soda Cáustica (Hidróxido de Sodio) está disponible en grados de
+      pureza del 96% y 99%. Garantizamos un estricto control de calidad para
+      cumplir con los estándares internacionales en todas las aplicaciones
+      industriales.
+    question: ¿Cuál es la pureza típica de sus productos de Soda Cáustica?
+  - answer: >-
+      Para la exportación, nuestra Soda Cáustica se empaqueta típicamente en
+      sacos de polipropileno tejido de 25 kg con revestimientos internos de PE,
+      diseñados para soportar los rigores del transporte internacional y
+      proteger contra la humedad. Se pueden organizar soluciones de embalaje
+      personalizadas para pedidos de gran volumen.
+    question: >-
+      ¿Cómo se empaqueta la Soda Cáustica para el envío internacional desde
+      China?
+  - answer: >-
+      Nuestra Soda Cáustica de grado industrial se utiliza ampliamente en la
+      industria del papel y la pulpa, el mercerizado textil, el tratamiento de
+      agua para el ajuste del pH, el suministro de jabones y detergentes, el
+      suministro de alúmina y el refino de petróleo. Su versatilidad la
+      convierte en un intermedio químico clave.
+    question: >-
+      ¿Cuáles son las principales aplicaciones de su Soda Cáustica de grado
+      industrial?
+  - answer: >-
+      Sí, proporcionamos documentación completa para cada envío, incluido un
+      Certificado de Análisis (COA) que detalla las especificaciones del
+      producto y una Hoja de Datos de Seguridad de Materiales (MSDS) para las
+      pautas de seguridad y manejo. Estos están disponibles bajo petición.
+    question: >-
+      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+      de Seguridad de Materiales (MSDS) para la Soda Cáustica?
+  - answer: >-
+      El tiempo de entrega estándar para pedidos al por mayor de Soda Cáustica
+      es típicamente de 7 a 15 días después de la confirmación del pedido,
+      dependiendo del tamaño del pedido y el programa de suministro actual. Nos
+      esforzamos por una logística eficiente y una entrega oportuna desde los
+      principales puertos chinos.
+    question: >-
+      ¿Cuál es el tiempo de entrega para pedidos al por mayor de Soda Cáustica
+      desde su fábrica?
 featured: true
 hsCode: '2815110000'
 id: '2'
-image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 loading: 25-27TM/20GP
 name: Soda Cáustica
 nameCn: 片碱
 packaging: 25KG/Sacos Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Escamas y perlas de Soda Cáustica (Hidróxido de Sodio) de alta pureza
-  para compra al por mayor y exportación desde China. Proveedor líder para aplicaciones
-  industriales que incluyen papel, textiles y tratamiento de agua. Pureza del 99%
-  disponible.
+shortDescription: >-
+  Escamas y perlas de Soda Cáustica (Hidróxido de Sodio) de alta pureza para
+  compra al por mayor y exportación desde China. Proveedor líder para
+  aplicaciones industriales que incluyen papel, textiles y tratamiento de agua.
+  Pureza del 99% disponible.
 slug: soda-caustica
 specs:
-- label: Fórmula Química
-  value: NaOH
-- label: Número CAS
-  value: 1310-73-2
-- label: Código SA
-  value: '2815110000'
-- label: Pureza
-  value: ≥96% / ≥99% (Escamas/Perlas)
-- label: Apariencia
-  value: Escamas o perlas blancas
-- label: Embalaje
-  value: Sacos de polipropileno tejido de 25 kg con revestimiento de PE / sacos jumbo.
-    Embalaje personalizado disponible para pedidos al por mayor.
-- label: Carga
-  value: 25-27 TM por contenedor de 20 pies (FCL)
-- label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Puertos principales de China)
+  - label: Fórmula Química
+    value: NaOH
+  - label: Número CAS
+    value: 1310-73-2
+  - label: Código SA
+    value: '2815110000'
+  - label: Pureza
+    value: ≥96% / ≥99% (Escamas/Perlas)
+  - label: Apariencia
+    value: Escamas o perlas blancas
+  - label: Embalaje
+    value: >-
+      Sacos de polipropileno tejido de 25 kg con revestimiento de PE / sacos
+      jumbo. Embalaje personalizado disponible para pedidos al por mayor.
+  - label: Carga
+    value: 25-27 TM por contenedor de 20 pies (FCL)
+  - label: Puertos Disponibles
+    value: 'Qingdao, Tianjin, Dalian (Puertos principales de China)'
 ---
 
 ## Soda Cáustica (CAS 1310-73-2): Su Proveedor de Confianza en China para Hidróxido de Sodio de Alta Pureza

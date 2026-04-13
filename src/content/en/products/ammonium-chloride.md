@@ -1,54 +1,84 @@
 ---
-id: "18"
-name: "Ammonium Chloride"
-nameCn: "氯化铵"
-cas: "12125-02-9"
-hsCode: "2827101000"
-slug: "ammonium-chloride"
-shortDescription: "High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China. Essential for fertilizer, feed additive, and industrial applications. Trusted supplier with competitive pricing."
-image: "/images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"NH₄Cl"},
-  {"label":"CAS Number","value":"12125-02-9"},
-  {"label":"HS Code","value":"2827101000"},
-  {"label":"Purity","value":"≥99.5% (Industrial Grade)"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Fertilizer (nitrogen source for crops)",
-  "Feed additive (ruminants, poultry)",
-  "Dry cell batteries",
-  "Metal working (flux for soldering)",
-  "Textile and leather industry",
-  "Pharmaceutical intermediates",
-  "Food additive (E510)"
-]
-faqs: [
-  {"question":"What grades of Ammonium Chloride do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Ammonium Chloride, offering industrial grade (≥99.5% purity) and feed grade. Both are available for bulk purchase and export, catering to various industrial and agricultural requirements."},{
-    "question":"What is the typical purity of your Ammonium Chloride products?",
-    "answer":"Our Ammonium Chloride (NH₄Cl) is available with a minimum purity of 99.5% for industrial applications. We ensure strict quality control to meet international standards."
-  },{
-    "question":"How is Ammonium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Ammonium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Ammonium Chloride?",
-    "answer":"Our industrial grade Ammonium Chloride is widely used as a nitrogen fertilizer, a feed additive for livestock, in dry cell batteries, as a flux in metalworking, and in the textile and leather industries. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Ammonium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Ammonium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Ammonium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
+category: Chloride Compounds
+id: '18'
+name: Ammonium Chloride
+nameCn: 氯化铵
+cas: 12125-02-9
+hsCode: '2827101000'
+slug: ammonium-chloride
+shortDescription: >-
+  High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China.
+  Essential for fertilizer, feed additive, and industrial applications. Trusted
+  supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: NH₄Cl
+  - label: CAS Number
+    value: 12125-02-9
+  - label: HS Code
+    value: '2827101000'
+  - label: Purity
+    value: ≥99.5% (Industrial Grade)
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25-27MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - Fertilizer (nitrogen source for crops)
+  - 'Feed additive (ruminants, poultry)'
+  - Dry cell batteries
+  - Metal working (flux for soldering)
+  - Textile and leather industry
+  - Pharmaceutical intermediates
+  - Food additive (E510)
+faqs:
+  - question: What grades of Ammonium Chloride do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Ammonium Chloride,
+      offering industrial grade (≥99.5% purity) and feed grade. Both are
+      available for bulk purchase and export, catering to various industrial and
+      agricultural requirements.
+  - question: What is the typical purity of your Ammonium Chloride products?
+    answer: >-
+      Our Ammonium Chloride (NH₄Cl) is available with a minimum purity of 99.5%
+      for industrial applications. We ensure strict quality control to meet
+      international standards.
+  - question: How is Ammonium Chloride packaged for international shipping from China?
+    answer: >-
+      For export, our Ammonium Chloride is typically packaged in 25KG PP woven
+      bags with inner PE liners, designed to protect against moisture. 1000KG
+      (1MT) jumbo bags are also available for larger bulk shipments. Custom
+      packaging solutions can be arranged.
+  - question: What are the main applications of your industrial grade Ammonium Chloride?
+    answer: >-
+      Our industrial grade Ammonium Chloride is widely used as a nitrogen
+      fertilizer, a feed additive for livestock, in dry cell batteries, as a
+      flux in metalworking, and in the textile and leather industries. Its
+      versatility makes it a key chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Ammonium Chloride?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Ammonium Chloride orders from your factory?
+    answer: >-
+      Standard lead time for bulk Ammonium Chloride orders is typically 7-15
+      days after order confirmation, depending on the order size and current
+      supply schedule. We strive for efficient logistics and timely delivery
+      from major Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25-27MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

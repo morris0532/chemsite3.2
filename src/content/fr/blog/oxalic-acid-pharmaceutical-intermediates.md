@@ -1,27 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
-  et réactif polyvalent dans la synthèse de divers intermédiaires pharmaceutiques,
-  soulignant ses propriétés chimiques et ses applications dans la fabrication de médicaments.
 Id: SP-ruxjr7lsw0
-Keywords: null
 Origin_Slug: oxalic-acid-pharmaceutical-intermediates
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-pharmaceutical-intermediates
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
+  et réactif polyvalent dans la synthèse de divers intermédiaires
+  pharmaceutiques, soulignant ses propriétés chimiques et ses applications dans
+  la fabrication de médicaments.
+title: 'Acide Oxalique dans les Intermédiaires Pharmaceutiques : Un Rôle Clé'
+description: >-
+  Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
+  et réactif polyvalent dans la synthèse de divers intermédiaires
+  pharmaceutiques, soulignant ses propriétés chimiques et ses applications dans
+  la fabrication de médicaments.
+image: /images/blog/oxalic-acid-pharmaceutical-intermediates.webp
+imageAlt: >-
+  Une image professionnelle et propre représentant un laboratoire
+  pharmaceutique, avec de la verrerie, des composés chimiques et un accent sur
+  la synthèse ou l'analyse des intermédiaires pharmaceutiques. Mettez en
+  évidence la précision et l'environnement stérile.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Pharmaceutiques
-description: Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
-  et réactif polyvalent dans la synthèse de divers intermédiaires pharmaceutiques,
-  soulignant ses propriétés chimiques et ses applications dans la fabrication de médicaments.
-image: /images/blog/oxalic-acid-pharmaceutical-intermediates.webp
-imageAlt: Une image professionnelle et propre représentant un laboratoire pharmaceutique,
-  avec de la verrerie, des composés chimiques et un accent sur la synthèse ou l'analyse
-  des intermédiaires pharmaceutiques. Mettez en évidence la précision et l'environnement
-  stérile.
 tag: null
-title: 'Acide Oxalique dans les Intermédiaires Pharmaceutiques : Un Rôle Clé'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique dans les Intermédiaires Pharmaceutiques : Un Rôle Clé

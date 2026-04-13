@@ -1,19 +1,53 @@
 ---
-id: "21"
-name: "Borax"
-nameCn: "硼砂"
-cas: "1303-96-4"
-hsCode: "2840190000"
-slug: "borax"
-shortDescription: "Industrial borax for glass supply, ceramics, detergents, and metallurgical applications."
-image: "/images/products/borax-cas-1303-96-4-sinopeakchem.webp"
-specs: [{"label":"Chemical Formula","value":"Na₂B₄O₇·10H₂O"},{"label":"CAS Number","value":"1303-96-4"},{"label":"HS Code","value":"2840190000"},{"label":"B₂O₃ Content","value":"≥36%"},{"label":"Appearance","value":"White crystalline powder"},{"label":"Packaging","value":"25KG / 50KG bags"},{"label":"Loading","value":"27MT per 20GP container"},{"label":"Available Ports","value":"Dalian"}]
-applications: ["Glass and fiberglass supply","Ceramic and enamel supply","Detergent and cleaning products","Metallurgical flux","Insecticide and herbicide","Flame retardant"]
-faqs: [{"question":"What is the minimum order quantity?","answer":"A full 20-foot container (27MT) is recommended for cost-effective ordering."},{"question":"What forms of borax do you offer?","answer":"We offer borax in both decahydrate (10-mol) and pentahydrate (5-mol) forms, as well as anhydrous borax for specific applications."},{"question":"Which port is used for borax shipments?","answer":"Borax is primarily shipped from Dalian port."}]
-ports: "Dalian"
-loading: "27MT/20GP"
-packaging: "25KG/50KG bags"
-category: "Boron Compounds"
+image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
+category: Boron Compounds
+id: '21'
+name: Borax
+nameCn: 硼砂
+cas: 1303-96-4
+hsCode: '2840190000'
+slug: borax
+shortDescription: >-
+  Industrial borax for glass supply, ceramics, detergents, and metallurgical
+  applications.
+specs:
+  - label: Chemical Formula
+    value: Na₂B₄O₇·10H₂O
+  - label: CAS Number
+    value: 1303-96-4
+  - label: HS Code
+    value: '2840190000'
+  - label: B₂O₃ Content
+    value: ≥36%
+  - label: Appearance
+    value: White crystalline powder
+  - label: Packaging
+    value: 25KG / 50KG bags
+  - label: Loading
+    value: 27MT per 20GP container
+  - label: Available Ports
+    value: Dalian
+applications:
+  - Glass and fiberglass supply
+  - Ceramic and enamel supply
+  - Detergent and cleaning products
+  - Metallurgical flux
+  - Insecticide and herbicide
+  - Flame retardant
+faqs:
+  - question: What is the minimum order quantity?
+    answer: >-
+      A full 20-foot container (27MT) is recommended for cost-effective
+      ordering.
+  - question: What forms of borax do you offer?
+    answer: >-
+      We offer borax in both decahydrate (10-mol) and pentahydrate (5-mol)
+      forms, as well as anhydrous borax for specific applications.
+  - question: Which port is used for borax shipments?
+    answer: Borax is primarily shipped from Dalian port.
+ports: Dalian
+loading: 27MT/20GP
+packaging: 25KG/50KG bags
 ---
 
 Borax (Na₂B₄O₇·10H₂O), also known as Sodium Borate, is a high-performance inorganic salt widely recognized for its exceptional cleaning, buffering, and fluxing capabilities. It is a vital ingredient in the supply of cleaning agents, industrial chemicals, and various other products. Our Borax is supplied to high standards of purity and consistency, ensuring optimal performance in both industrial and household applications.

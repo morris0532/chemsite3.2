@@ -1,20 +1,30 @@
 ---
-Id: 'SP-zlooorcsc2'
-Origin_Slug: 'how-to-test-oxalic-acid-purity'
-Slug: 'how-to-test-oxalic-acid-purity'
-Excerpt: 'Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications.'
+Id: SP-zlooorcsc2
+Origin_Slug: how-to-test-oxalic-acid-purity
+Slug: how-to-test-oxalic-acid-purity
+Excerpt: >-
+  Discover the essential methods for testing oxalic acid purity, including
+  titration with potassium permanganate, melting point determination, and
+  spectroscopic analysis. Ensure quality and safety for your industrial
+  applications.
 title: 'How to Test Oxalic Acid Purity: A Comprehensive Guide'
-description: 'Discover the essential methods for testing oxalic acid purity, including titration with potassium permanganate, melting point determination, and spectroscopic analysis. Ensure quality and safety for your industrial applications.'
-image: '/images/blog/how-to-test-oxalic-acid-purity.webp'
-imageAlt: 'Laboratory titration setup for testing oxalic acid purity with potassium permanganate'
+description: >-
+  Discover the essential methods for testing oxalic acid purity, including
+  titration with potassium permanganate, melting point determination, and
+  spectroscopic analysis. Ensure quality and safety for your industrial
+  applications.
+image: /images/blog/how-to-test-oxalic-acid-purity.webp
+imageAlt: >-
+  Laboratory titration setup for testing oxalic acid purity with potassium
+  permanganate
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Technical Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Technical Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## How to Test Oxalic Acid Purity: A Comprehensive Guide
 

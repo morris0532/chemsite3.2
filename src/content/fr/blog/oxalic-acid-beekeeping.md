@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
-  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le calendrier,
-  l'efficacité et la sécurité pour les abeilles et le miel.
 Id: SP-h2qjeeorwb
-Keywords: null
 Origin_Slug: oxalic-acid-beekeeping
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-beekeeping
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
+  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le
+  calendrier, l'efficacité et la sécurité pour les abeilles et le miel.
+title: 'Acide Oxalique en Apiculture : Utilisations, Avantages et Précautions'
+description: >-
+  Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
+  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le
+  calendrier, l'efficacité et la sécurité pour les abeilles et le miel.
+image: /images/blog/oxalic-acid-beekeeping.webp
+imageAlt: >-
+  Une image professionnelle et claire d'un apiculteur en tenue de protection
+  appliquant soigneusement un traitement à l'acide oxalique à une ruche.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Apicoles
-description: Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle
-  du varroa en apiculture. Découvrez les méthodes d'application, le dosage, le calendrier,
-  l'efficacité et la sécurité pour les abeilles et le miel.
-image: /images/blog/oxalic-acid-beekeeping.webp
-imageAlt: Une image professionnelle et claire d'un apiculteur en tenue de protection
-  appliquant soigneusement un traitement à l'acide oxalique à une ruche.
 tag: null
-title: 'Acide Oxalique en Apiculture : Utilisations, Avantages et Précautions'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique en Apiculture : Utilisations, Avantages et Précautions

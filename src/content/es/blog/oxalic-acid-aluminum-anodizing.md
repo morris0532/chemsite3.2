@@ -1,28 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra el papel crucial del ácido oxálico en el anodizado de aluminio,
-  un proceso que mejora la durabilidad, la resistencia a la corrosión y el atractivo
-  estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones en diversas
-  industrias.
 Id: SP-ez9sbyu923
-Keywords: null
 Origin_Slug: oxalic-acid-aluminum-anodizing
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-aluminum-anodizing
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra el papel crucial del ácido oxálico en el anodizado de aluminio, un
+  proceso que mejora la durabilidad, la resistencia a la corrosión y el
+  atractivo estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones
+  en diversas industrias.
+title: 'Ácido Oxálico para Anodizado de Aluminio: Proceso y Beneficios'
+description: >-
+  Descubra el papel crucial del ácido oxálico en el anodizado de aluminio, un
+  proceso que mejora la durabilidad, la resistencia a la corrosión y el
+  atractivo estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones
+  en diversas industrias.
+image: /images/blog/oxalic-acid-aluminum-anodizing.webp
+imageAlt: >-
+  Una imagen profesional y limpia que representa el proceso de anodizado de
+  aluminio. Muestra piezas de aluminio sumergidas en un baño electrolítico o un
+  primer plano de productos anodizados de aluminio con colores vibrantes y
+  hermosos.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
-description: Descubra el papel crucial del ácido oxálico en el anodizado de aluminio,
-  un proceso que mejora la durabilidad, la resistencia a la corrosión y el atractivo
-  estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones en diversas
-  industrias.
-image: /images/blog/oxalic-acid-aluminum-anodizing.webp
-imageAlt: Una imagen profesional y limpia que representa el proceso de anodizado de
-  aluminio. Muestra piezas de aluminio sumergidas en un baño electrolítico o un primer
-  plano de productos anodizados de aluminio con colores vibrantes y hermosos.
 tag: null
-title: 'Ácido Oxálico para Anodizado de Aluminio: Proceso y Beneficios'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico para Anodizado de Aluminio: Proceso y Beneficios

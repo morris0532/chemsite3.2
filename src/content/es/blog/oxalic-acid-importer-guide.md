@@ -1,31 +1,35 @@
 ---
-Date: '2026-04-10'
-Excerpt: Navegar por las complejidades del comercio internacional puede ser desalentador,
-  especialmente para compuestos químicos como el ácido oxálico. Esta guía completa
-  proporciona a los importadores primerizos información esencial sobre regulaciones,
-  documentación y mejores prácticas para asegurar un proceso de importación fluido
-  y conforme.
 Id: SP-ieg3mz9bm2
-Keywords: null
 Origin_Slug: oxalic-acid-importer-guide
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-importer-guia
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Navegar por las complejidades del comercio internacional puede ser
+  desalentador, especialmente para compuestos químicos como el ácido oxálico.
+  Esta guía completa proporciona a los importadores primerizos información
+  esencial sobre regulaciones, documentación y mejores prácticas para asegurar
+  un proceso de importación fluido y conforme.
+title: >-
+  Guía para el Importador Primerizo de Ácido Oxálico: Regulaciones y Mejores
+  Prácticas
+description: >-
+  Navegar por las complejidades del comercio internacional puede ser
+  desalentador, especialmente para compuestos químicos como el ácido oxálico.
+  Esta guía completa proporciona a los importadores primerizos información
+  esencial sobre regulaciones, documentación y mejores prácticas para asegurar
+  un proceso de importación fluido y conforme.
+image: /images/blog/oxalic-acid-importer-guide.webp
+imageAlt: >-
+  Una escena profesional que representa el comercio internacional y la logística
+  química con un globo terráqueo, un buque portacontenedores y documentos
+  relacionados con las regulaciones químicas y la importación/exportación.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Guía del Comprador
-description: Navegar por las complejidades del comercio internacional puede ser desalentador,
-  especialmente para compuestos químicos como el ácido oxálico. Esta guía completa
-  proporciona a los importadores primerizos información esencial sobre regulaciones,
-  documentación y mejores prácticas para asegurar un proceso de importación fluido
-  y conforme.
-image: /images/blog/oxalic-acid-importer-guide.webp
-imageAlt: Una escena profesional que representa el comercio internacional y la logística
-  química con un globo terráqueo, un buque portacontenedores y documentos relacionados
-  con las regulaciones químicas y la importación/exportación.
 tag: null
-title: 'Guía para el Importador Primerizo de Ácido Oxálico: Regulaciones y Mejores
-  Prácticas'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Guía para el Importador Primerizo de Ácido Oxálico: Regulaciones y Mejores Prácticas

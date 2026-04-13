@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في
-  العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
 Id: SP-hbwvg7pmnw
-Keywords: null
 Origin_Slug: oxalic-acid-quality-control-checklist
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-quality-control-checklist
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: مراقبة الجودة
-description: دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم
-  في العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
+Excerpt: >-
+  دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في
+  العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
+title: 'قائمة فحص مراقبة جودة حمض الأكساليك: ضمان النقاء والامتثال'
+description: >-
+  دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في
+  العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
 image: /images/blog/oxalic-acid-quality-control-checklist.webp
 imageAlt: كيميائي يقوم بإجراء تحليل دقيق في مختبر مراقبة جودة حديث
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: مراقبة الجودة
 tag: null
-title: 'قائمة فحص مراقبة جودة حمض الأكساليك: ضمان النقاء والامتثال'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## أهمية مراقبة الجودة في إنتاج حمض الأكساليك

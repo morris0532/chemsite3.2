@@ -1,23 +1,26 @@
 ---
-Date: '2026-04-10'
-Excerpt: دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
-  الدولية (REACH، TSCA)، وأفضل الممارسات لعملية استيراد سلسة.
 Id: SP-qsnigbaijl
-Keywords: null
 Origin_Slug: oxalic-acid-importer-guide
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-importer-dlyl
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: التجارة واللوائح
-description: دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
+Excerpt: >-
+  دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
+  الدولية (REACH، TSCA)، وأفضل الممارسات لعملية استيراد سلسة.
+title: 'دليل المستورد لأول مرة لحمض الأكساليك: اللوائح والوثائق'
+description: >-
+  دليل شامل للمستوردين الجدد لحمض الأكساليك، يغطي الوثائق الأساسية، واللوائح
   الدولية (REACH، TSCA)، وأفضل الممارسات لعملية استيراد سلسة.
 image: /images/blog/oxalic-acid-importer-guide.webp
-imageAlt: صورة لمستندات تجارية رسمية وختم جمركي، ترمز إلى عملية استيراد المواد الكيميائية
-  الدولية
+imageAlt: >-
+  صورة لمستندات تجارية رسمية وختم جمركي، ترمز إلى عملية استيراد المواد
+  الكيميائية الدولية
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: التجارة واللوائح
 tag: null
-title: 'دليل المستورد لأول مرة لحمض الأكساليك: اللوائح والوثائق'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## دليل المستورد لأول مرة لحمض الأكساليك: اللوائح والوثائق

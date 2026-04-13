@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى
-  معالجة مياه الصرف الصناعي.
 Id: SP-xdjs3fwsuf
-Keywords: null
 Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-aluminum-sulfate-functions-in-water-treatment
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: معالجة المياه
-description: اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب
-  إلى معالجة مياه الصرف الصناعي.
+Excerpt: >-
+  اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى
+  معالجة مياه الصرف الصناعي.
+title: كيفية عمل كبريتات الألومنيوم في معالجة المياه
+description: >-
+  اكتشف الدور الأساسي لكبريتات الألومنيوم في تنقية المياه، من مياه الشرب إلى
+  معالجة مياه الصرف الصناعي.
 image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
 imageAlt: كبريتات الألومنيوم المستخدمة في عملية معالجة المياه
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: معالجة المياه
 tag: null
-title: كيفية عمل كبريتات الألومنيوم في معالجة المياه
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 # الدور الأساسي لكبريتات الألومنيوم في معالجة المياه الحديثة

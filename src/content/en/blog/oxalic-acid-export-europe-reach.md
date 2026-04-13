@@ -1,20 +1,30 @@
 ---
-Id: 'SP-7o7p11em81'
-Origin_Slug: 'oxalic-acid-export-europe-reach'
-Slug: 'oxalic-acid-export-europe-reach'
-Excerpt: 'Navigating the complexities of oxalic acid export to Europe requires strict adherence to REACH regulations. SinoPeakChem provides high-quality, compliant oxalic acid for the European market.'
+Id: SP-7o7p11em81
+Origin_Slug: oxalic-acid-export-europe-reach
+Slug: oxalic-acid-export-europe-reach
+Excerpt: >-
+  Navigating the complexities of oxalic acid export to Europe requires strict
+  adherence to REACH regulations. SinoPeakChem provides high-quality, compliant
+  oxalic acid for the European market.
 title: 'Oxalic Acid Export to Europe: REACH Compliance Guide'
-description: 'Navigating the complexities of oxalic acid export to Europe requires strict adherence to REACH regulations. SinoPeakChem provides high-quality, compliant oxalic acid for the European market.'
-image: '/images/blog/oxalic-acid-export-europe-reach.webp'
-imageAlt: 'A professional and clear image depicting the concept of chemical export to Europe, with elements like a map of Europe, a container ship, and subtle overlays representing REACH compliance documents or regulations. Emphasize safety, quality, and regulatory adherence. High quality, 4k resolution.'
+description: >-
+  Navigating the complexities of oxalic acid export to Europe requires strict
+  adherence to REACH regulations. SinoPeakChem provides high-quality, compliant
+  oxalic acid for the European market.
+image: /images/blog/oxalic-acid-export-europe-reach.webp
+imageAlt: >-
+  A professional and clear image depicting the concept of chemical export to
+  Europe, with elements like a map of Europe, a container ship, and subtle
+  overlays representing REACH compliance documents or regulations. Emphasize
+  safety, quality, and regulatory adherence. High quality, 4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Regional Market'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Regional Market
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Export to Europe: REACH Compliance Guide
 

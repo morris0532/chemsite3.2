@@ -1,20 +1,33 @@
 ---
-Id: 'SP-ustshjtrc3'
-Origin_Slug: 'oxalic-acid-vs-citric-acid'
-Slug: 'oxalic-acid-vs-citric-acid'
-Excerpt: 'A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks.'
+Id: SP-ustshjtrc3
+Origin_Slug: oxalic-acid-vs-citric-acid
+Slug: oxalic-acid-vs-citric-acid
+Excerpt: >-
+  A comparative analysis of oxalic acid and citric acid, highlighting their
+  chemical properties, industrial and household applications, safety profiles,
+  and environmental considerations. Understand which acid is best suited for
+  various tasks.
 title: 'Oxalic Acid vs. Citric Acid: A Comparative Analysis'
-description: 'A comparative analysis of oxalic acid and citric acid, highlighting their chemical properties, industrial and household applications, safety profiles, and environmental considerations. Understand which acid is best suited for various tasks.'
-image: '/images/blog/oxalic-acid-vs-citric-acid.webp'
-imageAlt: 'A professional and clear comparative image. On one side, represent oxalic acid with its chemical structure (C2H2O4) and industrial/cleaning applications (e.g., rust removal, wood bleaching). On the other side, represent citric acid with its chemical structure (C6H8O7) and food/beverage/cosmetic applications (e.g., lemon, fruit). Use a clear visual divider or ''versus'' element.'
+description: >-
+  A comparative analysis of oxalic acid and citric acid, highlighting their
+  chemical properties, industrial and household applications, safety profiles,
+  and environmental considerations. Understand which acid is best suited for
+  various tasks.
+image: /images/blog/oxalic-acid-vs-citric-acid.webp
+imageAlt: >-
+  A professional and clear comparative image. On one side, represent oxalic acid
+  with its chemical structure (C2H2O4) and industrial/cleaning applications
+  (e.g., rust removal, wood bleaching). On the other side, represent citric acid
+  with its chemical structure (C6H8O7) and food/beverage/cosmetic applications
+  (e.g., lemon, fruit). Use a clear visual divider or 'versus' element.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Chemical Comparisons'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Chemical Comparisons
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid vs. Citric Acid: A Comparative Analysis
 

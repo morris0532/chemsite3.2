@@ -1,31 +1,63 @@
 ---
-id: "7"
-name: "Soda Ash (Sodium Carbonate)"
-nameCn: "纯碱"
-cas: "497-19-8"
-hsCode: "2836200000"
-slug: "soda-ash"
-shortDescription: "High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and export from China. Essential for glass, detergent, and chemical supply. Trusted supplier with competitive pricing."
-image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"Na₂CO₃"},
-  {"label":"CAS Number","value":"497-19-8"},
-  {"label":"HS Code","value":"2836200000"},
-  {"label":"Purity","value":"≥99.2% (Light/Dense)"},
-  {"label":"Appearance","value":"White powder (dense/light)"},
-  {"label":"Packaging","value":"40KG bags / Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"27-28MT/20GP (dense) / 22-23MT/20GP (light)"},
-  {"label":"Available Ports","value":"Lianyungang / Qingdao / Tianjin"}
-]
-applications: ["Glass and flat glass supply","Detergent and soap supply","Water treatment","Metallurgy and smelting","Paper supply","Chemical synthesis"]
-faqs: [
-  {"question":"What is the difference between dense and light soda ash?","answer":"Dense soda ash has a higher bulk density (approximately 1000 kg/m³) and is preferred for glass supply. Light soda ash has a lower bulk density (approximately 500 kg/m³) and is commonly used in detergent supply and chemical synthesis."},{"question":"What is the minimum order quantity for bulk buy?","answer":"We recommend a full 20-foot container for best pricing. As a leading China supplier, we can load 27-28MT of dense soda ash or 22-23MT of light soda ash per 20GP."},{"question":"Which Chinese ports do you export Soda Ash from?","answer":"We primarily ship from Lianyungang and Qingdao ports, both offering excellent connectivity to global destinations for your bulk orders."},{"question":"Can you provide samples before I place a wholesale order?","answer":"Yes, as a trusted supplier, we can provide samples for quality testing. Please contact our sales team with your requirements and shipping address."}
-]
-ports: "Lianyungang / Qingdao"
-loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
-packaging: "40KG/Jumbo bags"
-category: "Alkali Products"
+image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
+category: Alkali Products
+id: '7'
+name: Soda Ash (Sodium Carbonate)
+nameCn: 纯碱
+cas: 497-19-8
+hsCode: '2836200000'
+slug: soda-ash
+shortDescription: >-
+  High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and
+  export from China. Essential for glass, detergent, and chemical supply.
+  Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: Na₂CO₃
+  - label: CAS Number
+    value: 497-19-8
+  - label: HS Code
+    value: '2836200000'
+  - label: Purity
+    value: ≥99.2% (Light/Dense)
+  - label: Appearance
+    value: White powder (dense/light)
+  - label: Packaging
+    value: 40KG bags / Jumbo bags. Custom packaging available.
+  - label: Loading
+    value: 27-28MT/20GP (dense) / 22-23MT/20GP (light)
+  - label: Available Ports
+    value: Lianyungang / Qingdao / Tianjin
+applications:
+  - Glass and flat glass supply
+  - Detergent and soap supply
+  - Water treatment
+  - Metallurgy and smelting
+  - Paper supply
+  - Chemical synthesis
+faqs:
+  - question: What is the difference between dense and light soda ash?
+    answer: >-
+      Dense soda ash has a higher bulk density (approximately 1000 kg/m³) and is
+      preferred for glass supply. Light soda ash has a lower bulk density
+      (approximately 500 kg/m³) and is commonly used in detergent supply and
+      chemical synthesis.
+  - question: What is the minimum order quantity for bulk buy?
+    answer: >-
+      We recommend a full 20-foot container for best pricing. As a leading China
+      supplier, we can load 27-28MT of dense soda ash or 22-23MT of light soda
+      ash per 20GP.
+  - question: Which Chinese ports do you export Soda Ash from?
+    answer: >-
+      We primarily ship from Lianyungang and Qingdao ports, both offering
+      excellent connectivity to global destinations for your bulk orders.
+  - question: Can you provide samples before I place a wholesale order?
+    answer: >-
+      Yes, as a trusted supplier, we can provide samples for quality testing.
+      Please contact our sales team with your requirements and shipping address.
+ports: Lianyungang / Qingdao
+loading: 27-28MT/20GP (dense) / 22-23MT/20GP (light)
+packaging: 40KG/Jumbo bags
 ---
 
 ## Soda Ash (CAS 497-19-8): Your Premier China Supplier for Light & Dense Sodium Carbonate

@@ -1,20 +1,29 @@
 ---
-Id: 'SP-lfv3r40mq7'
-Origin_Slug: 'oxalic-acid-rust-removal'
-Slug: 'oxalic-acid-rust-removal'
-Excerpt: 'Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers.'
+Id: SP-lfv3r40mq7
+Origin_Slug: oxalic-acid-rust-removal
+Slug: oxalic-acid-rust-removal
+Excerpt: >-
+  Discover how oxalic acid effectively removes rust from various metal surfaces.
+  This comprehensive guide covers its chemical principles, step-by-step
+  application, safety precautions, and comparison with other rust removers.
 title: 'Oxalic Acid for Rust Removal: The Complete Guide'
-description: 'Discover how oxalic acid effectively removes rust from various metal surfaces. This comprehensive guide covers its chemical principles, step-by-step application, safety precautions, and comparison with other rust removers.'
-image: '/images/blog/oxalic-acid-rust-removal.webp'
-imageAlt: 'An illustrative image showing a rusted metal object partially submerged in an oxalic acid solution, with a clear distinction between the rusted and cleaned parts.'
+description: >-
+  Discover how oxalic acid effectively removes rust from various metal surfaces.
+  This comprehensive guide covers its chemical principles, step-by-step
+  application, safety precautions, and comparison with other rust removers.
+image: /images/blog/oxalic-acid-rust-removal.webp
+imageAlt: >-
+  An illustrative image showing a rusted metal object partially submerged in an
+  oxalic acid solution, with a clear distinction between the rusted and cleaned
+  parts.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Application'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Application
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Rust Removal: The Complete Guide
 

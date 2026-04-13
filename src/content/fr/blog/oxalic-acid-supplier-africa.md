@@ -1,31 +1,36 @@
 ---
-Date: '2026-04-10'
-Excerpt: SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché
-  africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le Nigeria
-  avec des produits de qualité pour l'exploitation minière, le traitement de l'eau
-  et les applications industrielles.
 Id: SP-dgc3si1cro
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-africa
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-fournisseur-africa
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché
+  africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le
+  Nigeria avec des produits de qualité pour l'exploitation minière, le
+  traitement de l'eau et les applications industrielles.
+title: >-
+  Fournisseur d'Acide Oxalique pour le Marché Africain : Afrique du Sud, Égypte
+  & Nigeria
+description: >-
+  SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché
+  africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le
+  Nigeria avec des produits de qualité pour l'exploitation minière, le
+  traitement de l'eau et les applications industrielles.
+image: /images/blog/oxalic-acid-supplier-africa.webp
+imageAlt: >-
+  Une image professionnelle et claire représentant une carte de l'Afrique,
+  mettant en évidence des pays comme l'Afrique du Sud, l'Égypte et le Nigeria,
+  avec des superpositions subtiles de routes commerciales chimiques,
+  d'opérations minières ou d'installations industrielles. Soulignez l'importance
+  économique de la région et l'import/export de produits chimiques. Haute
+  qualité, résolution 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Marché Régional
-description: SinoPeakChem est votre fournisseur dédié d'acide oxalique pour le marché
-  africain, desservant des nations clés comme l'Afrique du Sud, l'Égypte et le Nigeria
-  avec des produits de qualité pour l'exploitation minière, le traitement de l'eau
-  et les applications industrielles.
-image: /images/blog/oxalic-acid-supplier-africa.webp
-imageAlt: Une image professionnelle et claire représentant une carte de l'Afrique,
-  mettant en évidence des pays comme l'Afrique du Sud, l'Égypte et le Nigeria, avec
-  des superpositions subtiles de routes commerciales chimiques, d'opérations minières
-  ou d'installations industrielles. Soulignez l'importance économique de la région
-  et l'import/export de produits chimiques. Haute qualité, résolution 4k.
 tag: null
-title: 'Fournisseur d''Acide Oxalique pour le Marché Africain : Afrique du Sud, Égypte
-  & Nigeria'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Fournisseur d'Acide Oxalique pour le Marché Africain : Afrique du Sud, Égypte & Nigeria

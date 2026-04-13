@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: Naviguez dans les complexités de l'expédition internationale de produits
-  chimiques depuis la Chine. Découvrez les réglementations, les exigences d'emballage
-  et comment choisir le bon partenaire logistique.
 Id: SP-6inm99ugwr
-Keywords: null
 Origin_Slug: chemical-shipping-logistics-china-guide
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: chemical-shipping-logistique-chine-guide
-Target_Region: Francophone Africa & EU (FR)
-author: Sinopeakchem Technical Team
-category: Expédition et Logistique
-description: Naviguez dans les complexités de l'expédition internationale de produits
-  chimiques depuis la Chine. Découvrez les réglementations, les exigences d'emballage
-  et comment choisir le bon partenaire logistique.
+Excerpt: >-
+  Naviguez dans les complexités de l'expédition internationale de produits
+  chimiques depuis la Chine. Découvrez les réglementations, les exigences
+  d'emballage et comment choisir le bon partenaire logistique.
+title: >-
+  Expédition et logistique des produits chimiques depuis la Chine : ce que vous
+  devez savoir
+description: >-
+  Naviguez dans les complexités de l'expédition internationale de produits
+  chimiques depuis la Chine. Découvrez les réglementations, les exigences
+  d'emballage et comment choisir le bon partenaire logistique.
 image: /images/blog/chemical-shipping-logistics-china-guide.webp
 imageAlt: International chemical shipping and logistics from China port
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Expédition et Logistique
 tag: null
-title: 'Expédition et logistique des produits chimiques depuis la Chine : ce que vous
-  devez savoir'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Naviguer dans la logistique des produits chimiques

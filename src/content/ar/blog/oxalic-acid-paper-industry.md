@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف الدور الحيوي لحمض الأكساليك كعامل مخلبي في تبييض لب الورق، وتحسين جودة
-  الورق، وتعزيز ممارسات التصنيع المستدامة.
 Id: SP-79i5alqcvu
-Keywords: null
 Origin_Slug: oxalic-acid-paper-industry
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-paper-industry
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: تطبيقات صناعية
-description: اكتشف الدور الحيوي لحمض الأكساليك كعامل مخلبي في تبييض لب الورق، وتحسين
-  جودة الورق، وتعزيز ممارسات التصنيع المستدامة.
+Excerpt: >-
+  اكتشف الدور الحيوي لحمض الأكساليك كعامل مخلبي في تبييض لب الورق، وتحسين جودة
+  الورق، وتعزيز ممارسات التصنيع المستدامة.
+title: 'حمض الأكساليك في صناعة الورق: تبييض اللب وما وراءه'
+description: >-
+  اكتشف الدور الحيوي لحمض الأكساليك كعامل مخلبي في تبييض لب الورق، وتحسين جودة
+  الورق، وتعزيز ممارسات التصنيع المستدامة.
 image: /images/blog/oxalic-acid-paper-industry.webp
 imageAlt: مصنع حديث للورق مع بكرات ورق ضخمة وعمليات تبييض متطورة
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
 tag: null
-title: 'حمض الأكساليك في صناعة الورق: تبييض اللب وما وراءه'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك: كاشف حيوي في صناعة الورق الحديثة

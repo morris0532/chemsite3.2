@@ -1,20 +1,33 @@
 ---
-Id: 'SP-8ym0nm4unq'
-Origin_Slug: 'oxalic-acid-metal-pre-treatment'
-Slug: 'oxalic-acid-metal-pre-treatment'
-Excerpt: 'Explore the crucial role of oxalic acid in metal surface pre-treatment, from cleaning and degreasing to passivation, enhancing adhesion for coatings and improving corrosion resistance.'
-title: 'Oxalic Acid in Metal Surface Pre-treatment: Enhancing Adhesion & Corrosion Resistance'
-description: 'Explore the crucial role of oxalic acid in metal surface pre-treatment, from cleaning and degreasing to passivation, enhancing adhesion for coatings and improving corrosion resistance.'
-image: '/images/blog/oxalic-acid-metal-pre-treatment.webp'
-imageAlt: 'A professional and clean industrial image depicting metal surface pre-treatment. Show metal parts undergoing cleaning, degreasing, or a chemical bath process. Emphasize the preparation of surfaces for coating or painting, with a focus on precision and industrial application. High quality, 4k resolution.'
+Id: SP-8ym0nm4unq
+Origin_Slug: oxalic-acid-metal-pre-treatment
+Slug: oxalic-acid-metal-pre-treatment
+Excerpt: >-
+  Explore the crucial role of oxalic acid in metal surface pre-treatment, from
+  cleaning and degreasing to passivation, enhancing adhesion for coatings and
+  improving corrosion resistance.
+title: >-
+  Oxalic Acid in Metal Surface Pre-treatment: Enhancing Adhesion & Corrosion
+  Resistance
+description: >-
+  Explore the crucial role of oxalic acid in metal surface pre-treatment, from
+  cleaning and degreasing to passivation, enhancing adhesion for coatings and
+  improving corrosion resistance.
+image: /images/blog/oxalic-acid-metal-pre-treatment.webp
+imageAlt: >-
+  A professional and clean industrial image depicting metal surface
+  pre-treatment. Show metal parts undergoing cleaning, degreasing, or a chemical
+  bath process. Emphasize the preparation of surfaces for coating or painting,
+  with a focus on precision and industrial application. High quality, 4k
+  resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Industrial Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Industrial Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Metal Surface Pre-treatment: Enhancing Adhesion & Corrosion Resistance
 

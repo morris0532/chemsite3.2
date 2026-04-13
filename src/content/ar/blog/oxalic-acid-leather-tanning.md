@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم
-  في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية
-  والحديثة.
 Id: SP-pmrmcqtctx
-Keywords: null
 Origin_Slug: oxalic-acid-leather-tanning
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-leather-tanning
-Target_Region: MENA Region (AR)
+Excerpt: >-
+  اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم في
+  درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب
+  التقليدية والحديثة.
+title: 'حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة'
+description: >-
+  اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم في
+  درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب
+  التقليدية والحديثة.
+image: /images/blog/oxalic-acid-leather-tanning.webp
+imageAlt: >-
+  صورة لجلود مدبوغة ملونة معروضة في ورشة عمل، تظهر نتائج عملية الدباغة والصباغة
+  الاحترافية
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: تطبيقات صناعية
-description: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم
-  في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية
-  والحديثة.
-image: /images/blog/oxalic-acid-leather-tanning.webp
-imageAlt: صورة لجلود مدبوغة ملونة معروضة في ورشة عمل، تظهر نتائج عملية الدباغة والصباغة
-  الاحترافية
 tag: null
-title: 'حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة

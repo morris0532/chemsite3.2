@@ -1,80 +1,98 @@
 ---
 Origin_Slug: citric-acid-anhydrous
-applications:
-- Industria alimentaria y de bebidas (acidulante, conservante, potenciador de sabor)
-- Industria farmacéutica (excipiente, regulador de pH)
-- Detergentes y productos de limpieza (agente quelante)
-- Cosméticos y productos de cuidado personal
-- Limpieza industrial y decapado
-- Teñido textil
-cas: 77-92-9 / 5949-29-1
+image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 category: Ácidos Orgánicos
+applications:
+  - >-
+    Industria alimentaria y de bebidas (acidulante, conservante, potenciador de
+    sabor)
+  - 'Industria farmacéutica (excipiente, regulador de pH)'
+  - Detergentes y productos de limpieza (agente quelante)
+  - Cosméticos y productos de cuidado personal
+  - Limpieza industrial y decapado
+  - Teñido textil
+cas: 77-92-9 / 5949-29-1
 faqs:
-- answer: Somos un proveedor líder en China de Ácido Cítrico Anhidro, ofreciendo grados
-    alimentario, farmacéutico e industrial con una pureza ≥99.5%. Todos los grados
-    están disponibles para compra al por mayor y exportación, atendiendo a las diversas
-    necesidades de la industria.
-  question: ¿Qué grados de Ácido Cítrico Anhidro suministran para pedidos al por mayor?
-- answer: Nuestro Ácido Cítrico Anhidro (C₆H₈O₇) está disponible con una pureza mínima
-    del 99.5%. Garantizamos un control de calidad estricto para cumplir con las normas
-    internacionales en todas las aplicaciones.
-  question: ¿Cuál es la pureza típica de sus productos de Ácido Cítrico Anhidro?
-- answer: Para exportación, nuestro Ácido Cítrico Anhidro se embala típicamente en
-    bolsas tejidas de polipropileno de 25KG con forros interiores de PE, diseñadas
-    para proteger contra la humedad. También están disponibles sacos jumbo de 1000KG
-    (1MT) para envíos a granel más grandes. Se pueden organizar soluciones de embalaje
-    personalizadas.
-  question: ¿Cómo se empaca el Ácido Cítrico Anhidro para envíos internacionales desde
-    China?
-- answer: Nuestro Ácido Cítrico Anhidro grado industrial se utiliza ampliamente en
-    la industria alimentaria y de bebidas como acidulante, en farmacéutica como excipiente,
-    en detergentes como agente quelante y en cosméticos. Su versatilidad lo convierte
-    en un químico clave.
-  question: ¿Cuáles son las principales aplicaciones de su Ácido Cítrico Anhidro grado
-    industrial?
-- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
-    Certificado de Análisis (COA) que detalla las especificaciones del producto y
-    una Hoja de Datos de Seguridad (MSDS) para las pautas de seguridad y manejo. Estos
-    están disponibles bajo solicitud.
-  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
-    de Seguridad (MSDS) para el Ácido Cítrico Anhidro?
-- answer: El tiempo estándar de entrega para pedidos al por mayor de Ácido Cítrico
-    Anhidro es típicamente de 7 a 15 días después de la confirmación del pedido, dependiendo
-    del tamaño del pedido y del programa de suministro vigente. Nos esforzamos por
-    una logística eficiente y entrega puntual desde los principales puertos chinos.
-  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de Ácido Cítrico
-    Anhidro desde su fábrica?
+  - answer: >-
+      Somos un proveedor líder en China de Ácido Cítrico Anhidro, ofreciendo
+      grados alimentario, farmacéutico e industrial con una pureza ≥99.5%. Todos
+      los grados están disponibles para compra al por mayor y exportación,
+      atendiendo a las diversas necesidades de la industria.
+    question: >-
+      ¿Qué grados de Ácido Cítrico Anhidro suministran para pedidos al por
+      mayor?
+  - answer: >-
+      Nuestro Ácido Cítrico Anhidro (C₆H₈O₇) está disponible con una pureza
+      mínima del 99.5%. Garantizamos un control de calidad estricto para cumplir
+      con las normas internacionales en todas las aplicaciones.
+    question: ¿Cuál es la pureza típica de sus productos de Ácido Cítrico Anhidro?
+  - answer: >-
+      Para exportación, nuestro Ácido Cítrico Anhidro se embala típicamente en
+      bolsas tejidas de polipropileno de 25KG con forros interiores de PE,
+      diseñadas para proteger contra la humedad. También están disponibles sacos
+      jumbo de 1000KG (1MT) para envíos a granel más grandes. Se pueden
+      organizar soluciones de embalaje personalizadas.
+    question: >-
+      ¿Cómo se empaca el Ácido Cítrico Anhidro para envíos internacionales desde
+      China?
+  - answer: >-
+      Nuestro Ácido Cítrico Anhidro grado industrial se utiliza ampliamente en
+      la industria alimentaria y de bebidas como acidulante, en farmacéutica
+      como excipiente, en detergentes como agente quelante y en cosméticos. Su
+      versatilidad lo convierte en un químico clave.
+    question: >-
+      ¿Cuáles son las principales aplicaciones de su Ácido Cítrico Anhidro grado
+      industrial?
+  - answer: >-
+      Sí, proporcionamos documentación completa para cada envío, incluyendo un
+      Certificado de Análisis (COA) que detalla las especificaciones del
+      producto y una Hoja de Datos de Seguridad (MSDS) para las pautas de
+      seguridad y manejo. Estos están disponibles bajo solicitud.
+    question: >-
+      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+      de Seguridad (MSDS) para el Ácido Cítrico Anhidro?
+  - answer: >-
+      El tiempo estándar de entrega para pedidos al por mayor de Ácido Cítrico
+      Anhidro es típicamente de 7 a 15 días después de la confirmación del
+      pedido, dependiendo del tamaño del pedido y del programa de suministro
+      vigente. Nos esforzamos por una logística eficiente y entrega puntual
+      desde los principales puertos chinos.
+    question: >-
+      ¿Cuál es el tiempo de entrega para pedidos al por mayor de Ácido Cítrico
+      Anhidro desde su fábrica?
 featured: false
 hsCode: '2918140000'
 id: '8'
-image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 loading: 25MT/20GP
 name: Ácido Cítrico Anhidro
 nameCn: 无水柠檬酸
 packaging: 25KG/Sacos jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Ácido cítrico anhidro de alta pureza para compra al por mayor y
-  exportación desde China. Esencial para aplicaciones en la industria alimentaria
-  y de bebidas, farmacéutica e industrial. Proveedor confiable con precios competitivos.
+shortDescription: >-
+  Ácido cítrico anhidro de alta pureza para compra al por mayor y exportación
+  desde China. Esencial para aplicaciones en la industria alimentaria y de
+  bebidas, farmacéutica e industrial. Proveedor confiable con precios
+  competitivos.
 slug: citric-acid-anhydrous
 specs:
-- label: Fórmula química
-  value: C₆H₈O₇
-- label: Número CAS
-  value: 77-92-9 / 5949-29-1
-- label: Código HS
-  value: '2918140000'
-- label: Pureza
-  value: ≥99.5%
-- label: Apariencia
-  value: Polvo cristalino blanco
-- label: Embalaje
-  value: Bolsas tejidas de polipropileno de 25KG con forro de PE, sacos jumbo de 1000KG.
-    Embalaje personalizado disponible.
-- label: Carga
-  value: 25MT por contenedor 20GP (FCL)
-- label: Puertos disponibles
-  value: Qingdao, Tianjin, Dalian (principales puertos de China)
+  - label: Fórmula química
+    value: C₆H₈O₇
+  - label: Número CAS
+    value: 77-92-9 / 5949-29-1
+  - label: Código HS
+    value: '2918140000'
+  - label: Pureza
+    value: ≥99.5%
+  - label: Apariencia
+    value: Polvo cristalino blanco
+  - label: Embalaje
+    value: >-
+      Bolsas tejidas de polipropileno de 25KG con forro de PE, sacos jumbo de
+      1000KG. Embalaje personalizado disponible.
+  - label: Carga
+    value: 25MT por contenedor 20GP (FCL)
+  - label: Puertos disponibles
+    value: 'Qingdao, Tianjin, Dalian (principales puertos de China)'
 ---
 
 ## Ácido Cítrico Anhidro (CAS 77-92-9): Su proveedor confiable en China para C₆H₈O₇ de alta pureza

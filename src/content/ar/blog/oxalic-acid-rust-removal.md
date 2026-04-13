@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
-  الحديد من الخشب، مع نصائح حول التركيز والسلامة وأفضل الممارسات.
 Id: SP-3fngo1cu0g
-Keywords: null
 Origin_Slug: oxalic-acid-rust-removal
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rust-removal
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: تطبيقات صناعية
-description: تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
+Excerpt: >-
+  تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
+  الحديد من الخشب، مع نصائح حول التركيز والسلامة وأفضل الممارسات.
+title: 'كيفية استخدام حمض الأكساليك لإزالة الصدأ: دليل خطوة بخطوة'
+description: >-
+  تعلم الطريقة الصحيحة لاستخدام حمض الأكساليك لإزالة الصدأ من المعادن وبقع
   الحديد من الخشب، مع نصائح حول التركيز والسلامة وأفضل الممارسات.
 image: /images/blog/oxalic-acid-rust-removal.webp
 imageAlt: 'قبل وبعد: أدوات معدنية مصدأة تم تنظيفها باستخدام حمض الأكساليك'
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
 tag: null
-title: 'كيفية استخدام حمض الأكساليك لإزالة الصدأ: دليل خطوة بخطوة'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## قوة حمض الأكساليك في إزالة الصدأ

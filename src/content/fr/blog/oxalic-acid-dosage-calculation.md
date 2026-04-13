@@ -1,25 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Maîtrisez l'art du calcul de la dose d'acide oxalique pour diverses applications
-  industrielles et domestiques. Ce guide couvre les formules essentielles, des exemples
-  pratiques et des considérations de sécurité pour une utilisation précise et efficace.
 Id: SP-j1lz88tfwp
-Keywords: null
 Origin_Slug: oxalic-acid-dosage-calculation
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-dosage-calculation
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Maîtrisez l'art du calcul de la dose d'acide oxalique pour diverses
+  applications industrielles et domestiques. Ce guide couvre les formules
+  essentielles, des exemples pratiques et des considérations de sécurité pour
+  une utilisation précise et efficace.
+title: 'Calcul de la Dose d''Acide Oxalique : Un Guide Complet'
+description: >-
+  Maîtrisez l'art du calcul de la dose d'acide oxalique pour diverses
+  applications industrielles et domestiques. Ce guide couvre les formules
+  essentielles, des exemples pratiques et des considérations de sécurité pour
+  une utilisation précise et efficace.
+image: /images/blog/oxalic-acid-dosage-calculation.webp
+imageAlt: >-
+  Une personne calculant la dose d'acide oxalique sur un ordinateur portable
+  avec un bécher et une balance sur le côté
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
-description: Maîtrisez l'art du calcul de la dose d'acide oxalique pour diverses applications
-  industrielles et domestiques. Ce guide couvre les formules essentielles, des exemples
-  pratiques et des considérations de sécurité pour une utilisation précise et efficace.
-image: /images/blog/oxalic-acid-dosage-calculation.webp
-imageAlt: Une personne calculant la dose d'acide oxalique sur un ordinateur portable
-  avec un bécher et une balance sur le côté
 tag: null
-title: 'Calcul de la Dose d''Acide Oxalique : Un Guide Complet'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Calcul de la Dose d'Acide Oxalique : Un Guide Complet

@@ -1,20 +1,31 @@
 ---
-Id: 'SP-3hhgbygzno'
-Origin_Slug: 'oxalic-acid-aluminum-anodizing'
-Slug: 'oxalic-acid-aluminum-anodizing'
-Excerpt: 'Discover the crucial role of oxalic acid in aluminum anodizing, a process that enhances the durability, corrosion resistance, and aesthetic appeal of aluminum. Learn about its mechanism, advantages, and applications in various industries.'
+Id: SP-3hhgbygzno
+Origin_Slug: oxalic-acid-aluminum-anodizing
+Slug: oxalic-acid-aluminum-anodizing
+Excerpt: >-
+  Discover the crucial role of oxalic acid in aluminum anodizing, a process that
+  enhances the durability, corrosion resistance, and aesthetic appeal of
+  aluminum. Learn about its mechanism, advantages, and applications in various
+  industries.
 title: 'Oxalic Acid for Aluminum Anodizing: Process & Benefits'
-description: 'Discover the crucial role of oxalic acid in aluminum anodizing, a process that enhances the durability, corrosion resistance, and aesthetic appeal of aluminum. Learn about its mechanism, advantages, and applications in various industries.'
-image: '/images/blog/oxalic-acid-aluminum-anodizing.webp'
-imageAlt: 'A professional and clean image depicting the aluminum anodizing process. Show aluminum parts submerged in an electrolytic bath, or a close-up of beautifully anodized aluminum products with vibrant colors.'
+description: >-
+  Discover the crucial role of oxalic acid in aluminum anodizing, a process that
+  enhances the durability, corrosion resistance, and aesthetic appeal of
+  aluminum. Learn about its mechanism, advantages, and applications in various
+  industries.
+image: /images/blog/oxalic-acid-aluminum-anodizing.webp
+imageAlt: >-
+  A professional and clean image depicting the aluminum anodizing process. Show
+  aluminum parts submerged in an electrolytic bath, or a close-up of beautifully
+  anodized aluminum products with vibrant colors.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Industrial Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Industrial Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Aluminum Anodizing: Process & Benefits
 

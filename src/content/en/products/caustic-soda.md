@@ -1,53 +1,84 @@
 ---
-id: "2"
-name: "Caustic Soda"
-nameCn: "片碱"
-cas: "1310-73-2"
-hsCode: "2815110000"
-slug: "caustic-soda"
-shortDescription: "High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk purchase and export from China. Leading supplier for industrial applications including paper, textile, and water treatment. 99% purity available."
-image: "/images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"NaOH"},
-  {"label":"CAS Number","value":"1310-73-2"},
-  {"label":"HS Code","value":"2815110000"},
-  {"label":"Purity","value":"≥96% / ≥99% (Flakes/Pearls)"},
-  {"label":"Appearance","value":"White flakes or pearls"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner / Jumbo bags. Custom packaging available for bulk orders."},
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Paper and pulp industry (pulping, bleaching)",
-  "Textile industry (mercerizing, dyeing)",
-  "Water treatment (pH adjustment, heavy metal removal)",
-  "Soap and detergent supply",
-  "Alumina supply",
-  "Petroleum refining",
-  "Chemical intermediates supply"
-]
-faqs: [
-  {"question":"What forms of Caustic Soda do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Caustic Soda, offering both high-purity flakes and pearls (micro-pearls) with ≥99% purity. Both forms are ideal for various industrial applications and available for bulk purchase and export."},{
-    "question":"What is the typical purity of your Caustic Soda products?",
-    "answer":"Our Caustic Soda (Sodium Hydroxide) is available in both 96% and 99% purity grades. We ensure strict quality control to meet international standards for all industrial applications."
-  },{
-    "question":"How is Caustic Soda packaged for international shipping from China?",
-    "answer":"For export, our Caustic Soda is typically packaged in 25KG PP woven bags with inner PE liners, designed to withstand the rigors of international transport and protect against moisture. Custom packaging solutions can be arranged for large volume orders."
-  },{
-    "question":"What are the main applications of your industrial grade Caustic Soda?",
-    "answer":"Our industrial grade Caustic Soda is widely used in the paper and pulp industry, textile mercerizing, water treatment for pH adjustment, soap and detergent supply, alumina supply, and petroleum refining. Its versatility makes it a key chemical intermediate."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Caustic Soda?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Caustic Soda orders from your factory?",
-    "answer":"Standard lead time for bulk Caustic Soda orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Alkali Products"
+image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
+category: Alkali Products
+id: '2'
+name: Caustic Soda
+nameCn: 片碱
+cas: 1310-73-2
+hsCode: '2815110000'
+slug: caustic-soda
+shortDescription: >-
+  High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk
+  purchase and export from China. Leading supplier for industrial applications
+  including paper, textile, and water treatment. 99% purity available.
+specs:
+  - label: Chemical Formula
+    value: NaOH
+  - label: CAS Number
+    value: 1310-73-2
+  - label: HS Code
+    value: '2815110000'
+  - label: Purity
+    value: ≥96% / ≥99% (Flakes/Pearls)
+  - label: Appearance
+    value: White flakes or pearls
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner / Jumbo bags. Custom packaging available
+      for bulk orders.
+  - label: Loading
+    value: 25-27MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'Paper and pulp industry (pulping, bleaching)'
+  - 'Textile industry (mercerizing, dyeing)'
+  - 'Water treatment (pH adjustment, heavy metal removal)'
+  - Soap and detergent supply
+  - Alumina supply
+  - Petroleum refining
+  - Chemical intermediates supply
+faqs:
+  - question: What forms of Caustic Soda do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Caustic Soda, offering
+      both high-purity flakes and pearls (micro-pearls) with ≥99% purity. Both
+      forms are ideal for various industrial applications and available for bulk
+      purchase and export.
+  - question: What is the typical purity of your Caustic Soda products?
+    answer: >-
+      Our Caustic Soda (Sodium Hydroxide) is available in both 96% and 99%
+      purity grades. We ensure strict quality control to meet international
+      standards for all industrial applications.
+  - question: How is Caustic Soda packaged for international shipping from China?
+    answer: >-
+      For export, our Caustic Soda is typically packaged in 25KG PP woven bags
+      with inner PE liners, designed to withstand the rigors of international
+      transport and protect against moisture. Custom packaging solutions can be
+      arranged for large volume orders.
+  - question: What are the main applications of your industrial grade Caustic Soda?
+    answer: >-
+      Our industrial grade Caustic Soda is widely used in the paper and pulp
+      industry, textile mercerizing, water treatment for pH adjustment, soap and
+      detergent supply, alumina supply, and petroleum refining. Its versatility
+      makes it a key chemical intermediate.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Caustic Soda?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Caustic Soda orders from your factory?
+    answer: >-
+      Standard lead time for bulk Caustic Soda orders is typically 7-15 days
+      after order confirmation, depending on the order size and current supply
+      schedule. We strive for efficient logistics and timely delivery from major
+      Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25-27MT/20GP
+packaging: 25KG/Jumbo bags
 featured: true
 ---
 

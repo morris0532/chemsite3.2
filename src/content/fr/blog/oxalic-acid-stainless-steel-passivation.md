@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez le rôle critique de l'acide oxalique dans la passivation de l'acier
-  inoxydable, améliorant la résistance à la corrosion et la qualité de surface. Ce
-  guide couvre le processus, les avantages et les considérations techniques pour une
-  application efficace.
 Id: SP-qyul89zykk
-Keywords: null
 Origin_Slug: oxalic-acid-stainless-steel-passivation
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-stainless-steel-passivation
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez le rôle critique de l'acide oxalique dans la passivation de l'acier
+  inoxydable, améliorant la résistance à la corrosion et la qualité de surface.
+  Ce guide couvre le processus, les avantages et les considérations techniques
+  pour une application efficace.
+title: 'Acide Oxalique dans la Passivation de l''Acier Inoxydable : Un Aperçu Technique'
+description: >-
+  Explorez le rôle critique de l'acide oxalique dans la passivation de l'acier
+  inoxydable, améliorant la résistance à la corrosion et la qualité de surface.
+  Ce guide couvre le processus, les avantages et les considérations techniques
+  pour une application efficace.
+image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
+imageAlt: >-
+  Composant industriel en acier inoxydable subissant un traitement de
+  passivation dans un bain chimique
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Overview
-description: Explorez le rôle critique de l'acide oxalique dans la passivation de
-  l'acier inoxydable, améliorant la résistance à la corrosion et la qualité de surface.
-  Ce guide couvre le processus, les avantages et les considérations techniques pour
-  une application efficace.
-image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
-imageAlt: Composant industriel en acier inoxydable subissant un traitement de passivation
-  dans un bain chimique
 tag: null
-title: 'Acide Oxalique dans la Passivation de l''Acier Inoxydable : Un Aperçu Technique'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique dans la Passivation de l'Acier Inoxydable : Un Aperçu Technique

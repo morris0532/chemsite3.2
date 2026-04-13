@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
-  المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
 Id: SP-a9ygx18ur6
-Keywords: null
 Origin_Slug: oxalic-acid-stainless-steel-passivation
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-stainless-steel-passivation
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: معالجة المعادن
-description: اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل
-  الفولاذ المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
+Excerpt: >-
+  اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
+  المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
+title: 'تخميل الفولاذ المقاوم للصدأ بحمض الأكساليك: بديل أكثر أمانًا وفعالية'
+description: >-
+  اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
+  المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
 image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
 imageAlt: سطح لامع ومقاوم للتآكل لجزء من الفولاذ المقاوم للصدأ بعد عملية التخميل
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: معالجة المعادن
 tag: null
-title: 'تخميل الفولاذ المقاوم للصدأ بحمض الأكساليك: بديل أكثر أمانًا وفعالية'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## ما هو تخميل الفولاذ المقاوم للصدأ ولماذا هو ضروري؟

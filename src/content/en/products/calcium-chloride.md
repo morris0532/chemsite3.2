@@ -1,54 +1,84 @@
 ---
-id: "4"
-name: "Calcium Chloride"
-nameCn: "氯化钙"
-cas: "10043-52-4 / 10035-04-8"
-hsCode: "2827200000"
-slug: "calcium-chloride"
-shortDescription: "High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk purchase and export from China. Essential for de-icing, oil & gas, and food applications. Trusted supplier with competitive pricing."
-image: "/images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"CaCl₂"},
-  {"label":"CAS Number","value":"10043-52-4 / 10035-04-8"},
-  {"label":"HS Code","value":"2827200000"},
-  {"label":"Purity","value":"≥74% / ≥94% (Anhydrous)"},
-  {"label":"Appearance","value":"White flakes, pellets, or powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25-27MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "De-icing agent (roads, sidewalks)",
-  "Oil and gas drilling fluids",
-  "Dust control (unpaved roads)",
-  "Food additive (firming agent, electrolyte)",
-  "Refrigeration brines",
-  "Concrete accelerator",
-  "Desiccant (drying agent)"
-]
-faqs: [
-  {"question":"What forms of Calcium Chloride do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of Calcium Chloride, offering flakes, pellets, and powder forms with purities ranging from ≥74% to ≥94% (anhydrous). All forms are available for bulk purchase and export, catering to diverse industrial needs."},{
-    "question":"What is the typical purity of your Calcium Chloride products?",
-    "answer":"Our Calcium Chloride (CaCl₂) is available in various purities, including ≥74% (dihydrate) and ≥94% (anhydrous). We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is Calcium Chloride packaged for international shipping from China?",
-    "answer":"For export, our Calcium Chloride is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade Calcium Chloride?",
-    "answer":"Our industrial grade Calcium Chloride is widely used as a de-icing agent for roads, in oil and gas drilling fluids, for dust control on unpaved roads, as a food additive, and as a desiccant. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for Calcium Chloride?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk Calcium Chloride orders from your factory?",
-    "answer":"Standard lead time for bulk Calcium Chloride orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Chloride Compounds"
+image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
+category: Chloride Compounds
+id: '4'
+name: Calcium Chloride
+nameCn: 氯化钙
+cas: 10043-52-4 / 10035-04-8
+hsCode: '2827200000'
+slug: calcium-chloride
+shortDescription: >-
+  High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk
+  purchase and export from China. Essential for de-icing, oil & gas, and food
+  applications. Trusted supplier with competitive pricing.
+specs:
+  - label: Chemical Formula
+    value: CaCl₂
+  - label: CAS Number
+    value: 10043-52-4 / 10035-04-8
+  - label: HS Code
+    value: '2827200000'
+  - label: Purity
+    value: ≥74% / ≥94% (Anhydrous)
+  - label: Appearance
+    value: 'White flakes, pellets, or powder'
+  - label: Packaging
+    value: >-
+      25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging
+      available.
+  - label: Loading
+    value: 25-27MT per 20GP container (FCL)
+  - label: Available Ports
+    value: 'Qingdao, Tianjin, Dalian (China Main Ports)'
+applications:
+  - 'De-icing agent (roads, sidewalks)'
+  - Oil and gas drilling fluids
+  - Dust control (unpaved roads)
+  - 'Food additive (firming agent, electrolyte)'
+  - Refrigeration brines
+  - Concrete accelerator
+  - Desiccant (drying agent)
+faqs:
+  - question: What forms of Calcium Chloride do you supply for bulk orders?
+    answer: >-
+      We are a leading China supplier and supplier of Calcium Chloride, offering
+      flakes, pellets, and powder forms with purities ranging from ≥74% to ≥94%
+      (anhydrous). All forms are available for bulk purchase and export,
+      catering to diverse industrial needs.
+  - question: What is the typical purity of your Calcium Chloride products?
+    answer: >-
+      Our Calcium Chloride (CaCl₂) is available in various purities, including
+      ≥74% (dihydrate) and ≥94% (anhydrous). We ensure strict quality control to
+      meet international standards for all applications.
+  - question: How is Calcium Chloride packaged for international shipping from China?
+    answer: >-
+      For export, our Calcium Chloride is typically packaged in 25KG PP woven
+      bags with inner PE liners, designed to protect against moisture. 1000KG
+      (1MT) jumbo bags are also available for larger bulk shipments. Custom
+      packaging solutions can be arranged.
+  - question: What are the main applications of your industrial grade Calcium Chloride?
+    answer: >-
+      Our industrial grade Calcium Chloride is widely used as a de-icing agent
+      for roads, in oil and gas drilling fluids, for dust control on unpaved
+      roads, as a food additive, and as a desiccant. Its versatility makes it a
+      key chemical.
+  - question: >-
+      Can you provide a Certificate of Analysis (COA) and Material Safety Data
+      Sheet (MSDS) for Calcium Chloride?
+    answer: >-
+      Yes, we provide comprehensive documentation for every shipment, including
+      a Certificate of Analysis (COA) detailing product specifications and a
+      Material Safety Data Sheet (MSDS) for safety and handling guidelines.
+      These are available upon request.
+  - question: What is the lead time for bulk Calcium Chloride orders from your factory?
+    answer: >-
+      Standard lead time for bulk Calcium Chloride orders is typically 7-15 days
+      after order confirmation, depending on the order size and current supply
+      schedule. We strive for efficient logistics and timely delivery from major
+      Chinese ports.
+ports: Qingdao / Tianjin / Dalian
+loading: 25-27MT/20GP
+packaging: 25KG/Jumbo bags
 featured: false
 ---
 

@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة الصيدلانية،
-  وافهم مواصفاتها الفنية وتطبيقاتها ومعايير الصناعة.
 Id: SP-ud0fvvjtji
-Keywords: null
 Origin_Slug: oxalic-acid-grades-specifications
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-drjat-mwasfat
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: أدلة تقنية
-description: تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة
+Excerpt: >-
+  تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة
+  الصيدلانية، وافهم مواصفاتها الفنية وتطبيقاتها ومعايير الصناعة.
+title: 'درجات ومواصفات حمض الأكساليك: دليل شامل'
+description: >-
+  تعرف على الدرجات المختلفة لحمض الأكساليك، من الدرجة الصناعية إلى الدرجة
   الصيدلانية، وافهم مواصفاتها الفنية وتطبيقاتها ومعايير الصناعة.
 image: /images/blog/oxalic-acid-grades-specifications.webp
 imageAlt: صورة لمختبر كيميائي يظهر عينات مختلفة من حمض الأكساليك بدرجات نقاء متفاوتة
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: أدلة تقنية
 tag: null
-title: 'درجات ومواصفات حمض الأكساليك: دليل شامل'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## درجات ومواصفات حمض الأكساليك: دليل شامل

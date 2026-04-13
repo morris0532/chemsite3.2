@@ -1,8 +1,8 @@
 ---
-id: privacy-policy
 title: Privacy Policy
+id: privacy-policy
 slug: privacy-policy
-date: "2026-04-10"
+date: '2026-04-10'
 untranslated: true
 ---
 

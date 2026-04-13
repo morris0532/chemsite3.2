@@ -1,20 +1,30 @@
 ---
-Id: 'SP-dgikay2rwm'
-Origin_Slug: 'oxalic-acid-purchasing-faq'
-Slug: 'oxalic-acid-purchasing-faq'
-Excerpt: 'Navigate the complexities of bulk oxalic acid procurement with our comprehensive FAQ, covering everything from grades and packaging to shipping and payment terms.'
-title: 'Oxalic Acid Purchasing FAQ for Bulk Buyers'
-description: 'Navigate the complexities of bulk oxalic acid procurement with our comprehensive FAQ, covering everything from grades and packaging to shipping and payment terms.'
-image: '/images/blog/oxalic-acid-purchasing-faq.webp'
-imageAlt: 'A professional and clear image depicting a FAQ concept, purchasing process, or bulk chemical bags. Show elements like question marks, a checklist, a calculator, or neatly stacked industrial bags. Emphasize clarity, efficiency, and bulk purchasing. High quality, 4k resolution.'
+Id: SP-dgikay2rwm
+Origin_Slug: oxalic-acid-purchasing-faq
+Slug: oxalic-acid-purchasing-faq
+Excerpt: >-
+  Navigate the complexities of bulk oxalic acid procurement with our
+  comprehensive FAQ, covering everything from grades and packaging to shipping
+  and payment terms.
+title: Oxalic Acid Purchasing FAQ for Bulk Buyers
+description: >-
+  Navigate the complexities of bulk oxalic acid procurement with our
+  comprehensive FAQ, covering everything from grades and packaging to shipping
+  and payment terms.
+image: /images/blog/oxalic-acid-purchasing-faq.webp
+imageAlt: >-
+  A professional and clear image depicting a FAQ concept, purchasing process, or
+  bulk chemical bags. Show elements like question marks, a checklist, a
+  calculator, or neatly stacked industrial bags. Emphasize clarity, efficiency,
+  and bulk purchasing. High quality, 4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Purchasing Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Purchasing Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid Purchasing FAQ for Bulk Buyers
 

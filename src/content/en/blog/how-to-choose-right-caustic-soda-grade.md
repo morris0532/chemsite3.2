@@ -1,20 +1,26 @@
 ---
-Id: 'SP-tm1shrwqsr'
-Origin_Slug: 'how-to-choose-right-caustic-soda-grade'
-Slug: 'how-to-choose-right-caustic-soda-grade'
-Excerpt: 'Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the right Sodium Hydroxide grade for textiles, soap, and water treatment with our expert B2B guide.'
-title: 'How to Choose the Right Caustic Soda Grade for Your Industry'
-description: 'Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the right Sodium Hydroxide grade for textiles, soap, and water treatment with our expert B2B guide.'
-image: '/images/blog/how-to-choose-right-caustic-soda-grade.webp'
-imageAlt: 'Different grades of Caustic Soda pearls and flakes'
+Id: SP-tm1shrwqsr
+Origin_Slug: how-to-choose-right-caustic-soda-grade
+Slug: how-to-choose-right-caustic-soda-grade
+Excerpt: >-
+  Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the
+  right Sodium Hydroxide grade for textiles, soap, and water treatment with our
+  expert B2B guide.
+title: How to Choose the Right Caustic Soda Grade for Your Industry
+description: >-
+  Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the
+  right Sodium Hydroxide grade for textiles, soap, and water treatment with our
+  expert B2B guide.
+image: /images/blog/how-to-choose-right-caustic-soda-grade.webp
+imageAlt: Different grades of Caustic Soda pearls and flakes
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Guide'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Guide
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 # How to Choose the Right Caustic Soda Grade for Your Industry
 

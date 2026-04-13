@@ -1,26 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
-  les fournisseurs chinois, à vérifier les certifications de qualité et à assurer
-  une chaîne d'approvisionnement stable pour vos besoins industriels.
 Id: SP-yq771riug9
-Keywords: null
 Origin_Slug: oxalic-acid-supplier-china
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-fournisseur-chine
-Target_Region: Francophone Africa & EU (FR)
-author: Sinopeakchem Technical Team
-category: Guide d'Achat
-description: La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à
-  évaluer les fournisseurs chinois, à vérifier les certifications de qualité et à
+Excerpt: >-
+  La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
+  les fournisseurs chinois, à vérifier les certifications de qualité et à
+  assurer une chaîne d'approvisionnement stable pour vos besoins industriels.
+title: >-
+  Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine : Un Guide
+  Complet de l'Acheteur
+description: >-
+  La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
+  les fournisseurs chinois, à vérifier les certifications de qualité et à
   assurer une chaîne d'approvisionnement stable pour vos besoins industriels.
 image: /images/blog/oxalic-acid-supplier-china.webp
-imageAlt: Entrepôt industriel d'acide oxalique et logistique d'expédition, représentant
+imageAlt: >-
+  Entrepôt industriel d'acide oxalique et logistique d'expédition, représentant
   une chaîne d'approvisionnement fiable en provenance de Chine.
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Guide d'Achat
 tag: null
-title: 'Comment Choisir un Fournisseur d''Acide Oxalique Fiable en Chine : Un Guide
-  Complet de l''Acheteur'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine

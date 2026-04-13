@@ -1,25 +1,28 @@
 ---
-Date: '2026-04-10'
-Excerpt: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
-  guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas
-  de tanino, con instrucciones paso a paso y consejos de seguridad.
 Id: SP-q9t4bvuihp
-Keywords: null
 Origin_Slug: oxalic-acid-wood-bleaching
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-wood-bleaching
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía
+  detalla su uso para blanquear, eliminar manchas de agua, manchas negras y
+  manchas de tanino, con instrucciones paso a paso y consejos de seguridad.
+title: 'Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional'
+description: >-
+  Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía
+  detalla su uso para blanquear, eliminar manchas de agua, manchas negras y
+  manchas de tanino, con instrucciones paso a paso y consejos de seguridad.
+image: /images/blog/oxalic-acid-wood-bleaching.webp
+imageAlt: >-
+  Imagen dividida que muestra una superficie de madera antes y después del
+  tratamiento con ácido oxálico, demostrando un blanqueo y limpieza efectivos.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
-description: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
-  guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas
-  de tanino, con instrucciones paso a paso y consejos de seguridad.
-image: /images/blog/oxalic-acid-wood-bleaching.webp
-imageAlt: Imagen dividida que muestra una superficie de madera antes y después del
-  tratamiento con ácido oxálico, demostrando un blanqueo y limpieza efectivos.
 tag: null
-title: 'Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional

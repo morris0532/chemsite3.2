@@ -1,27 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra las múltiples aplicaciones del ácido oxálico en la industria papelera,
-  desde su papel crucial en el blanqueo de la pulpa hasta su uso en diversas etapas
-  de procesamiento. Esta guía explora sus funciones químicas, beneficios ambientales
-  y su impacto en la calidad del papel.
 Id: SP-sbq8xij8zh
-Keywords: null
 Origin_Slug: oxalic-acid-paper-industry
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-paper-industry
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra las múltiples aplicaciones del ácido oxálico en la industria
+  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en
+  diversas etapas de procesamiento. Esta guía explora sus funciones químicas,
+  beneficios ambientales y su impacto en la calidad del papel.
+title: 'Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá'
+description: >-
+  Descubra las múltiples aplicaciones del ácido oxálico en la industria
+  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en
+  diversas etapas de procesamiento. Esta guía explora sus funciones químicas,
+  beneficios ambientales y su impacto en la calidad del papel.
+image: /images/blog/oxalic-acid-paper-industry.webp
+imageAlt: >-
+  Gran fábrica de papel industrial con pulpa de papel siendo procesada y grandes
+  rollos de papel blanco
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Overview
-description: Descubra las múltiples aplicaciones del ácido oxálico en la industria
-  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en diversas
-  etapas de procesamiento. Esta guía explora sus funciones químicas, beneficios ambientales
-  y su impacto en la calidad del papel.
-image: /images/blog/oxalic-acid-paper-industry.webp
-imageAlt: Gran fábrica de papel industrial con pulpa de papel siendo procesada y grandes
-  rollos de papel blanco
 tag: null
-title: 'Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá

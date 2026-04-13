@@ -1,28 +1,35 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore el papel crítico del ácido oxálico en la industria minera, particularmente
-  en la extracción y purificación eficientes de elementos de tierras raras (ETR).
-  Esta visión técnica profundiza en sus mecanismos químicos, ventajas sobre los métodos
-  tradicionales y consideraciones ambientales.
 Id: SP-54gcckj8rr
-Keywords: null
 Origin_Slug: oxalic-acid-mining-rare-earth
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-mining-rare-earth
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explore el papel crítico del ácido oxálico en la industria minera,
+  particularmente en la extracción y purificación eficientes de elementos de
+  tierras raras (ETR). Esta visión técnica profundiza en sus mecanismos
+  químicos, ventajas sobre los métodos tradicionales y consideraciones
+  ambientales.
+title: >-
+  Ácido Oxálico en la Minería: Extracción y Purificación de Elementos de Tierras
+  Raras
+description: >-
+  Explore el papel crítico del ácido oxálico en la industria minera,
+  particularmente en la extracción y purificación eficientes de elementos de
+  tierras raras (ETR). Esta visión técnica profundiza en sus mecanismos
+  químicos, ventajas sobre los métodos tradicionales y consideraciones
+  ambientales.
+image: /images/blog/oxalic-acid-mining-rare-earth.webp
+imageAlt: >-
+  Escena profesional de minería industrial y procesamiento químico con
+  ingenieros y grandes cubas, centrándose en la extracción de elementos de
+  tierras raras
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Overview
-description: Explore el papel crítico del ácido oxálico en la industria minera, particularmente
-  en la extracción y purificación eficientes de elementos de tierras raras (ETR).
-  Esta visión técnica profundiza en sus mecanismos químicos, ventajas sobre los métodos
-  tradicionales y consideraciones ambientales.
-image: /images/blog/oxalic-acid-mining-rare-earth.webp
-imageAlt: Escena profesional de minería industrial y procesamiento químico con ingenieros
-  y grandes cubas, centrándose en la extracción de elementos de tierras raras
 tag: null
-title: 'Ácido Oxálico en la Minería: Extracción y Purificación de Elementos de Tierras
-  Raras'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico en la Minería: Extracción y Purificación de Elementos de Tierras Raras

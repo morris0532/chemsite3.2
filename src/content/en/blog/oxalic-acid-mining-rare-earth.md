@@ -1,20 +1,30 @@
 ---
-Id: 'SP-9pmnw75895'
-Origin_Slug: 'oxalic-acid-mining-rare-earth'
-Slug: 'oxalic-acid-mining-rare-earth'
-Excerpt: 'Explore the critical role of oxalic acid in the mining industry, particularly in the efficient extraction and purification of rare earth elements (REEs). This technical overview delves into its chemical mechanisms, advantages over traditional methods, and environmental considerations.'
+Id: SP-9pmnw75895
+Origin_Slug: oxalic-acid-mining-rare-earth
+Slug: oxalic-acid-mining-rare-earth
+Excerpt: >-
+  Explore the critical role of oxalic acid in the mining industry, particularly
+  in the efficient extraction and purification of rare earth elements (REEs).
+  This technical overview delves into its chemical mechanisms, advantages over
+  traditional methods, and environmental considerations.
 title: 'Oxalic Acid in Mining: Extraction and Purification of Rare Earth Elements'
-description: 'Explore the critical role of oxalic acid in the mining industry, particularly in the efficient extraction and purification of rare earth elements (REEs). This technical overview delves into its chemical mechanisms, advantages over traditional methods, and environmental considerations.'
-image: '/images/blog/oxalic-acid-mining-rare-earth.webp'
-imageAlt: 'Professional industrial mining and chemical processing scene with engineers and large vats, focusing on rare earth element extraction'
+description: >-
+  Explore the critical role of oxalic acid in the mining industry, particularly
+  in the efficient extraction and purification of rare earth elements (REEs).
+  This technical overview delves into its chemical mechanisms, advantages over
+  traditional methods, and environmental considerations.
+image: /images/blog/oxalic-acid-mining-rare-earth.webp
+imageAlt: >-
+  Professional industrial mining and chemical processing scene with engineers
+  and large vats, focusing on rare earth element extraction
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Technical Overview'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Technical Overview
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Mining: Extraction and Purification of Rare Earth Elements
 

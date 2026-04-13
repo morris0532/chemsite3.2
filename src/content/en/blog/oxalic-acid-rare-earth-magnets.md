@@ -1,20 +1,30 @@
 ---
-Id: 'SP-praiqpx7ci'
-Origin_Slug: 'oxalic-acid-rare-earth-magnets'
-Slug: 'oxalic-acid-rare-earth-magnets'
-Excerpt: 'Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials.'
+Id: SP-praiqpx7ci
+Origin_Slug: oxalic-acid-rare-earth-magnets
+Slug: oxalic-acid-rare-earth-magnets
+Excerpt: >-
+  Discover the vital role of oxalic acid in the production of rare earth
+  magnets, particularly in the separation and purification of rare earth
+  elements, which are essential for high-performance magnetic materials.
 title: 'Oxalic Acid in Rare Earth Magnets: A Critical Component'
-description: 'Discover the vital role of oxalic acid in the production of rare earth magnets, particularly in the separation and purification of rare earth elements, which are essential for high-performance magnetic materials.'
-image: '/images/blog/oxalic-acid-rare-earth-magnets.webp'
-imageAlt: 'A professional and high-tech image depicting the production of rare earth magnets. Show elements like rare earth minerals, a chemical precipitation process (e.g., using oxalic acid), and finished powerful magnets. Emphasize precision, advanced technology, and the critical role of chemistry.'
+description: >-
+  Discover the vital role of oxalic acid in the production of rare earth
+  magnets, particularly in the separation and purification of rare earth
+  elements, which are essential for high-performance magnetic materials.
+image: /images/blog/oxalic-acid-rare-earth-magnets.webp
+imageAlt: >-
+  A professional and high-tech image depicting the production of rare earth
+  magnets. Show elements like rare earth minerals, a chemical precipitation
+  process (e.g., using oxalic acid), and finished powerful magnets. Emphasize
+  precision, advanced technology, and the critical role of chemistry.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Industrial Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Industrial Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid in Rare Earth Magnets: A Critical Component
 

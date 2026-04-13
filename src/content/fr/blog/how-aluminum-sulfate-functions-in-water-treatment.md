@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
-  l'eau, de l'eau potable au traitement des eaux usées industrielles.
 Id: SP-00v89vrkka
-Keywords: null
 Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: how-aluminum-sulfate-functions-in-water-treatment
-Target_Region: Francophone Africa & EU (FR)
-author: Sinopeakchem Technical Team
-category: Water Treatment
-description: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification
-  de l'eau, de l'eau potable au traitement des eaux usées industrielles.
+Excerpt: >-
+  Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
+  l'eau, de l'eau potable au traitement des eaux usées industrielles.
+title: Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau
+description: >-
+  Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
+  l'eau, de l'eau potable au traitement des eaux usées industrielles.
 image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
 imageAlt: Aluminum Sulfate used in water treatment process
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Water Treatment
 tag: null
-title: Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 # Le rôle essentiel du sulfate d'aluminium dans le traitement moderne de l'eau

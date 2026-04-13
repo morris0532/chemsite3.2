@@ -1,20 +1,26 @@
 ---
-Id: 'SP-j8wuy46izk'
-Origin_Slug: 'oxalic-acid-vs-edta'
-Slug: 'oxalic-acid-vs-edta'
-Excerpt: 'Compare oxalic acid and EDTA as chelating agents. Discover their differences in properties, applications, environmental impact, and cost to choose the right solution for your industrial needs.'
+Id: SP-j8wuy46izk
+Origin_Slug: oxalic-acid-vs-edta
+Slug: oxalic-acid-vs-edta
+Excerpt: >-
+  Compare oxalic acid and EDTA as chelating agents. Discover their differences
+  in properties, applications, environmental impact, and cost to choose the
+  right solution for your industrial needs.
 title: 'Oxalic Acid vs EDTA: Which Chelating Agent Is Better for Your Application?'
-description: 'Compare oxalic acid and EDTA as chelating agents. Discover their differences in properties, applications, environmental impact, and cost to choose the right solution for your industrial needs.'
-image: '/images/blog/oxalic-acid-vs-edta.webp'
-imageAlt: 'Comparison of oxalic acid and EDTA chemical structures and properties'
+description: >-
+  Compare oxalic acid and EDTA as chelating agents. Discover their differences
+  in properties, applications, environmental impact, and cost to choose the
+  right solution for your industrial needs.
+image: /images/blog/oxalic-acid-vs-edta.webp
+imageAlt: Comparison of oxalic acid and EDTA chemical structures and properties
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Technical Article'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Technical Article
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid vs EDTA: Which Chelating Agent Is Better for Your Application?
 

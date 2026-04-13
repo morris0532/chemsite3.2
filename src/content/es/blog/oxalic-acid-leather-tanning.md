@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
-  desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas
-  para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones
-  de seguridad.
 Id: SP-t0bhtv7159
-Keywords: null
 Origin_Slug: oxalic-acid-leather-tanning
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-leather-tanning
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
+  desde su uso histórico en métodos tradicionales hasta sus aplicaciones
+  modernas para mejorar la calidad y el color del cuero. Conozca sus funciones
+  químicas y consideraciones de seguridad.
+title: 'Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos'
+description: >-
+  Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
+  desde su uso histórico en métodos tradicionales hasta sus aplicaciones
+  modernas para mejorar la calidad y el color del cuero. Conozca sus funciones
+  químicas y consideraciones de seguridad.
+image: /images/blog/oxalic-acid-leather-tanning.webp
+imageAlt: >-
+  Una imagen profesional y artística que muestra el proceso de curtido y teñido
+  de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una
+  exhibición de productos de cuero de varios colores.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
-description: Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
-  desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas
-  para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones
-  de seguridad.
-image: /images/blog/oxalic-acid-leather-tanning.webp
-imageAlt: Una imagen profesional y artística que muestra el proceso de curtido y teñido
-  de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una exhibición
-  de productos de cuero de varios colores.
 tag: null
-title: 'Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos

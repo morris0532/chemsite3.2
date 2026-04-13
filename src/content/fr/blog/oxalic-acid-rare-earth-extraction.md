@@ -1,28 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez le rôle critique de l'acide oxalique dans l'extraction, la séparation
-  et la purification des éléments de terres rares. Découvrez ses principes chimiques
-  et son importance dans les industries de haute technologie comme l'électronique,
-  l'énergie verte et la défense.
 Id: SP-i9iv2z3o99
-Keywords: null
 Origin_Slug: oxalic-acid-rare-earth-extraction
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rare-earth-extraction
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez le rôle critique de l'acide oxalique dans l'extraction, la séparation
+  et la purification des éléments de terres rares. Découvrez ses principes
+  chimiques et son importance dans les industries de haute technologie comme
+  l'électronique, l'énergie verte et la défense.
+title: >-
+  Acide Oxalique pour l'Extraction des Terres Rares : Un Produit Chimique Clé
+  dans l'Industrie Moderne
+description: >-
+  Explorez le rôle critique de l'acide oxalique dans l'extraction, la séparation
+  et la purification des éléments de terres rares. Découvrez ses principes
+  chimiques et son importance dans les industries de haute technologie comme
+  l'électronique, l'énergie verte et la défense.
+image: /images/blog/oxalic-acid-rare-earth-extraction.webp
+imageAlt: >-
+  Un laboratoire sophistiqué axé sur l'extraction des éléments de terres rares,
+  avec des équipements spécialisés et des solutions colorées.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
-description: Explorez le rôle critique de l'acide oxalique dans l'extraction, la séparation
-  et la purification des éléments de terres rares. Découvrez ses principes chimiques
-  et son importance dans les industries de haute technologie comme l'électronique,
-  l'énergie verte et la défense.
-image: /images/blog/oxalic-acid-rare-earth-extraction.webp
-imageAlt: Un laboratoire sophistiqué axé sur l'extraction des éléments de terres rares,
-  avec des équipements spécialisés et des solutions colorées.
 tag: null
-title: 'Acide Oxalique pour l''Extraction des Terres Rares : Un Produit Chimique Clé
-  dans l''Industrie Moderne'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour l'Extraction des Terres Rares : Un Produit Chimique Clé dans l'Industrie Moderne

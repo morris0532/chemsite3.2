@@ -1,27 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
-  guide détaille son utilisation pour le blanchiment, l'élimination des taches d'eau,
-  des taches noires et des taches de tanin, avec des instructions étape par étape
-  et des conseils de sécurité.
 Id: SP-3ig0dqk97w
-Keywords: null
 Origin_Slug: oxalic-acid-wood-bleaching
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-wood-bleaching
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
+  guide détaille son utilisation pour le blanchiment, l'élimination des taches
+  d'eau, des taches noires et des taches de tanin, avec des instructions étape
+  par étape et des conseils de sécurité.
+title: >-
+  Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide
+  Professionnel
+description: >-
+  Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
+  guide détaille son utilisation pour le blanchiment, l'élimination des taches
+  d'eau, des taches noires et des taches de tanin, avec des instructions étape
+  par étape et des conseils de sécurité.
+image: /images/blog/oxalic-acid-wood-bleaching.webp
+imageAlt: >-
+  Une image divisée montrant une surface en bois avant et après traitement à
+  l'acide oxalique, démontrant un blanchiment et un nettoyage efficaces.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
-description: Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique.
-  Ce guide détaille son utilisation pour le blanchiment, l'élimination des taches
-  d'eau, des taches noires et des taches de tanin, avec des instructions étape par
-  étape et des conseils de sécurité.
-image: /images/blog/oxalic-acid-wood-bleaching.webp
-imageAlt: Une image divisée montrant une surface en bois avant et après traitement
-  à l'acide oxalique, démontrant un blanchiment et un nettoyage efficaces.
 tag: null
-title: 'Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel

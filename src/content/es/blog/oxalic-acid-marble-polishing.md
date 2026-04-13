@@ -1,25 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Descubra las técnicas profesionales para usar ácido oxálico en el pulido
-  de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química,
-  métodos de aplicación, precauciones de seguridad y cómo lograr un brillo brillante.
 Id: SP-9q9zjwo3yn
-Keywords: null
 Origin_Slug: oxalic-acid-marble-polishing
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-marble-polishing
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Descubra las técnicas profesionales para usar ácido oxálico en el pulido de
+  mármol y el cuidado de diversas superficies de piedra. Conozca su acción
+  química, métodos de aplicación, precauciones de seguridad y cómo lograr un
+  brillo brillante.
+title: 'Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas'
+description: >-
+  Descubra las técnicas profesionales para usar ácido oxálico en el pulido de
+  mármol y el cuidado de diversas superficies de piedra. Conozca su acción
+  química, métodos de aplicación, precauciones de seguridad y cómo lograr un
+  brillo brillante.
+image: /images/blog/oxalic-acid-marble-polishing.webp
+imageAlt: >-
+  Un primer plano de una superficie de mármol altamente pulida, reflejando la
+  luz, con una sutil indicación del proceso de pulido.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
-description: Descubra las técnicas profesionales para usar ácido oxálico en el pulido
-  de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química,
-  métodos de aplicación, precauciones de seguridad y cómo lograr un brillo brillante.
-image: /images/blog/oxalic-acid-marble-polishing.webp
-imageAlt: Un primer plano de una superficie de mármol altamente pulida, reflejando
-  la luz, con una sutil indicación del proceso de pulido.
 tag: null
-title: 'Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas

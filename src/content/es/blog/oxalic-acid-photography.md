@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
-  desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas
-  en el virado y la impresión artística. Comprende su función química y consideraciones
-  de seguridad.
 Id: SP-fmx197yelf
-Keywords: null
 Origin_Slug: oxalic-acid-photography
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-photography
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explora el papel histórico del ácido oxálico en los procesos fotográficos,
+  desde las primeras impresiones en platino y paladio hasta sus aplicaciones
+  modernas en el virado y la impresión artística. Comprende su función química y
+  consideraciones de seguridad.
+title: 'Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna'
+description: >-
+  Explora el papel histórico del ácido oxálico en los procesos fotográficos,
+  desde las primeras impresiones en platino y paladio hasta sus aplicaciones
+  modernas en el virado y la impresión artística. Comprende su función química y
+  consideraciones de seguridad.
+image: /images/blog/oxalic-acid-photography.webp
+imageAlt: >-
+  Una escena de un cuarto oscuro fotográfico vintage, con equipo fotográfico
+  antiguo, bandejas de revelado e impresiones, mostrando tanto el uso histórico
+  como la relevancia moderna en la química fotográfica.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Especializadas
-description: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
-  desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas
-  en el virado y la impresión artística. Comprende su función química y consideraciones
-  de seguridad.
-image: /images/blog/oxalic-acid-photography.webp
-imageAlt: Una escena de un cuarto oscuro fotográfico vintage, con equipo fotográfico
-  antiguo, bandejas de revelado e impresiones, mostrando tanto el uso histórico como
-  la relevancia moderna en la química fotográfica.
 tag: null
-title: 'Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna

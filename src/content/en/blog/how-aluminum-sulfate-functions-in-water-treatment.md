@@ -1,20 +1,24 @@
 ---
-Id: 'SP-tfpaqatyca'
-Origin_Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
-Slug: 'how-aluminum-sulfate-functions-in-water-treatment'
-Excerpt: 'Discover the essential role of aluminum sulfate in water purification, from drinking water to industrial wastewater treatment.'
-title: 'How Aluminum Sulfate Functions in Water Treatment'
-description: 'Discover the essential role of aluminum sulfate in water purification, from drinking water to industrial wastewater treatment.'
-image: '/images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp'
-imageAlt: 'Aluminum Sulfate used in water treatment process'
+Id: SP-tfpaqatyca
+Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
+Slug: how-aluminum-sulfate-functions-in-water-treatment
+Excerpt: >-
+  Discover the essential role of aluminum sulfate in water purification, from
+  drinking water to industrial wastewater treatment.
+title: How Aluminum Sulfate Functions in Water Treatment
+description: >-
+  Discover the essential role of aluminum sulfate in water purification, from
+  drinking water to industrial wastewater treatment.
+image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
+imageAlt: Aluminum Sulfate used in water treatment process
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Water Treatment'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Water Treatment
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 # The Essential Role of Aluminum Sulfate in Modern Water Treatment
 

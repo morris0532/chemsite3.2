@@ -1,20 +1,28 @@
 ---
-Id: 'SP-r256kysuln'
-Origin_Slug: 'oxalic-acid-uses'
-Slug: 'oxalic-acid-uses'
-Excerpt: 'Explore the diverse industrial applications of oxalic acid, from rust removal and wood bleaching to rare earth extraction and pharmaceutical synthesis. Discover its versatility across various sectors.'
-title: 'Top 15 Industrial Uses of Oxalic Acid You Should Know'
-description: 'Explore the diverse industrial applications of oxalic acid, from rust removal and wood bleaching to rare earth extraction and pharmaceutical synthesis. Discover its versatility across various sectors.'
-image: '/images/blog/oxalic-acid-uses.webp'
-imageAlt: 'Diverse industrial applications of oxalic acid, showing various processes like rust removal, wood treatment, and chemical synthesis.'
+Id: SP-r256kysuln
+Origin_Slug: oxalic-acid-uses
+Slug: oxalic-acid-uses
+Excerpt: >-
+  Explore the diverse industrial applications of oxalic acid, from rust removal
+  and wood bleaching to rare earth extraction and pharmaceutical synthesis.
+  Discover its versatility across various sectors.
+title: Top 15 Industrial Uses of Oxalic Acid You Should Know
+description: >-
+  Explore the diverse industrial applications of oxalic acid, from rust removal
+  and wood bleaching to rare earth extraction and pharmaceutical synthesis.
+  Discover its versatility across various sectors.
+image: /images/blog/oxalic-acid-uses.webp
+imageAlt: >-
+  Diverse industrial applications of oxalic acid, showing various processes like
+  rust removal, wood treatment, and chemical synthesis.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Application'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Application
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Top 15 Industrial Uses of Oxalic Acid You Should Know
 

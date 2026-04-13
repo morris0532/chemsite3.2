@@ -1,29 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de l'aluminium,
-  un processus qui améliore la durabilité, la résistance à la corrosion et l'attrait
-  esthétique de l'aluminium. Apprenez son mécanisme, ses avantages et ses applications
-  dans diverses industries.
 Id: SP-bqtf8rv6cw
-Keywords: null
 Origin_Slug: oxalic-acid-aluminum-anodizing
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-aluminum-anodizing
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de
+  l'aluminium, un processus qui améliore la durabilité, la résistance à la
+  corrosion et l'attrait esthétique de l'aluminium. Apprenez son mécanisme, ses
+  avantages et ses applications dans diverses industries.
+title: 'Acide Oxalique pour l''Anodisation de l''Aluminium : Processus et Avantages'
+description: >-
+  Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de
+  l'aluminium, un processus qui améliore la durabilité, la résistance à la
+  corrosion et l'attrait esthétique de l'aluminium. Apprenez son mécanisme, ses
+  avantages et ses applications dans diverses industries.
+image: /images/blog/oxalic-acid-aluminum-anodizing.webp
+imageAlt: >-
+  Une image professionnelle et propre représentant le processus d'anodisation de
+  l'aluminium. Montrez des pièces en aluminium immergées dans un bain
+  électrolytique, ou un gros plan de produits en aluminium magnifiquement
+  anodisés avec des couleurs vives.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Industrielles
-description: Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de l'aluminium,
-  un processus qui améliore la durabilité, la résistance à la corrosion et l'attrait
-  esthétique de l'aluminium. Apprenez son mécanisme, ses avantages et ses applications
-  dans diverses industries.
-image: /images/blog/oxalic-acid-aluminum-anodizing.webp
-imageAlt: Une image professionnelle et propre représentant le processus d'anodisation
-  de l'aluminium. Montrez des pièces en aluminium immergées dans un bain électrolytique,
-  ou un gros plan de produits en aluminium magnifiquement anodisés avec des couleurs
-  vives.
 tag: null
-title: 'Acide Oxalique pour l''Anodisation de l''Aluminium : Processus et Avantages'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour l'Anodisation de l'Aluminium : Processus et Avantages

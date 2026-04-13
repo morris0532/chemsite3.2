@@ -1,25 +1,30 @@
 ---
-Date: '2026-04-10'
-Excerpt: Comparez les coagulants de traitement de l'eau les plus populaires, notamment
-  le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure ferrique,
-  pour trouver la meilleure solution pour vos besoins de traitement de l'eau.
 Id: SP-a3sdfsosmu
-Keywords: null
 Origin_Slug: water-treatment-chemicals-comparison
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: water-treatment-chemicals-comparison
-Target_Region: Francophone Africa & EU (FR)
-author: Sinopeakchem Technical Team
-category: Article Technique
-description: Comparez les coagulants de traitement de l'eau les plus populaires, notamment
-  le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure ferrique,
-  pour trouver la meilleure solution pour vos besoins de traitement de l'eau.
+Excerpt: >-
+  Comparez les coagulants de traitement de l'eau les plus populaires, notamment
+  le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure
+  ferrique, pour trouver la meilleure solution pour vos besoins de traitement de
+  l'eau.
+title: >-
+  Comparaison des produits chimiques de traitement de l'eau : PAC vs Sulfate
+  d'aluminium vs Chlorure ferrique
+description: >-
+  Comparez les coagulants de traitement de l'eau les plus populaires, notamment
+  le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure
+  ferrique, pour trouver la meilleure solution pour vos besoins de traitement de
+  l'eau.
 image: /images/blog/water-treatment-chemicals-comparison.webp
 imageAlt: Comparison of water treatment chemicals PAC and Aluminum Sulfate
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: Article Technique
 tag: null
-title: 'Comparaison des produits chimiques de traitement de l''eau : PAC vs Sulfate
-  d''aluminium vs Chlorure ferrique'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Introduction

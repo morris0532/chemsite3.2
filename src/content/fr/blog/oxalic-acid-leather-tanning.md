@@ -1,29 +1,33 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture
-  du cuir, de son utilisation historique dans les méthodes traditionnelles à ses applications
-  modernes pour améliorer la qualité et la couleur du cuir. Découvrez ses fonctions
-  chimiques et les considérations de sécurité.
 Id: SP-knxgnl4aoz
-Keywords: null
 Origin_Slug: oxalic-acid-leather-tanning
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-leather-tanning
-Target_Region: Francophone Africa & EU (FR)
+Excerpt: >-
+  Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture du
+  cuir, de son utilisation historique dans les méthodes traditionnelles à ses
+  applications modernes pour améliorer la qualité et la couleur du cuir.
+  Découvrez ses fonctions chimiques et les considérations de sécurité.
+title: >-
+  Acide Oxalique pour le Tannage et la Teinture du Cuir : Méthodes
+  Traditionnelles et Modernes
+description: >-
+  Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture du
+  cuir, de son utilisation historique dans les méthodes traditionnelles à ses
+  applications modernes pour améliorer la qualité et la couleur du cuir.
+  Découvrez ses fonctions chimiques et les considérations de sécurité.
+image: /images/blog/oxalic-acid-leather-tanning.webp
+imageAlt: >-
+  Une image professionnelle et artistique représentant le processus de tannage
+  et de teinture du cuir. Montrez des cuves avec du cuir, des mains travaillant
+  avec du cuir teint, ou une exposition de divers produits en cuir colorés.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Industrielles
-description: Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture
-  du cuir, de son utilisation historique dans les méthodes traditionnelles à ses applications
-  modernes pour améliorer la qualité et la couleur du cuir. Découvrez ses fonctions
-  chimiques et les considérations de sécurité.
-image: /images/blog/oxalic-acid-leather-tanning.webp
-imageAlt: Une image professionnelle et artistique représentant le processus de tannage
-  et de teinture du cuir. Montrez des cuves avec du cuir, des mains travaillant avec
-  du cuir teint, ou une exposition de divers produits en cuir colorés.
 tag: null
-title: 'Acide Oxalique pour le Tannage et la Teinture du Cuir : Méthodes Traditionnelles
-  et Modernes'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Francophone Africa & EU (FR)
 ---
 
 ## Acide Oxalique pour le Tannage et la Teinture du Cuir : Méthodes Traditionnelles et Modernes

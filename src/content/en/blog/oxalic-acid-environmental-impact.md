@@ -1,20 +1,31 @@
 ---
-Id: 'SP-9tgzvnsevm'
-Origin_Slug: 'oxalic-acid-environmental-impact'
-Slug: 'oxalic-acid-environmental-impact'
-Excerpt: 'Explore the environmental footprint of oxalic acid, its natural occurrence, biodegradability, and safe disposal practices to ensure sustainable use in various applications.'
-title: 'Oxalic Acid''s Environmental Impact & Biodegradability'
-description: 'Explore the environmental footprint of oxalic acid, its natural occurrence, biodegradability, and safe disposal practices to ensure sustainable use in various applications.'
-image: '/images/blog/oxalic-acid-environmental-impact.webp'
-imageAlt: 'A professional and clean image depicting environmental science. Show a laboratory setting with scientists analyzing water or soil samples, or a serene natural ecosystem with lush greenery and clear water, subtly integrating elements that suggest biodegradability or environmental research. Emphasize sustainability and scientific rigor. High quality, 4k resolution.'
+Id: SP-9tgzvnsevm
+Origin_Slug: oxalic-acid-environmental-impact
+Slug: oxalic-acid-environmental-impact
+Excerpt: >-
+  Explore the environmental footprint of oxalic acid, its natural occurrence,
+  biodegradability, and safe disposal practices to ensure sustainable use in
+  various applications.
+title: Oxalic Acid's Environmental Impact & Biodegradability
+description: >-
+  Explore the environmental footprint of oxalic acid, its natural occurrence,
+  biodegradability, and safe disposal practices to ensure sustainable use in
+  various applications.
+image: /images/blog/oxalic-acid-environmental-impact.webp
+imageAlt: >-
+  A professional and clean image depicting environmental science. Show a
+  laboratory setting with scientists analyzing water or soil samples, or a
+  serene natural ecosystem with lush greenery and clear water, subtly
+  integrating elements that suggest biodegradability or environmental research.
+  Emphasize sustainability and scientific rigor. High quality, 4k resolution.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Sustainability & Safety'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Sustainability & Safety
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid's Environmental Impact & Biodegradability
 

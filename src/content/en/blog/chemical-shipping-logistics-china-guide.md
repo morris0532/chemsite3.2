@@ -1,20 +1,26 @@
 ---
-Id: 'SP-d29giundp5'
-Origin_Slug: 'chemical-shipping-logistics-china-guide'
-Slug: 'chemical-shipping-logistics-china-guide'
-Excerpt: 'Navigate the complexities of international chemical shipping from China. Learn about regulations, packaging requirements, and choosing the right logistics partner.'
+Id: SP-d29giundp5
+Origin_Slug: chemical-shipping-logistics-china-guide
+Slug: chemical-shipping-logistics-china-guide
+Excerpt: >-
+  Navigate the complexities of international chemical shipping from China. Learn
+  about regulations, packaging requirements, and choosing the right logistics
+  partner.
 title: 'Chemical Shipping and Logistics from China: What You Need to Know'
-description: 'Navigate the complexities of international chemical shipping from China. Learn about regulations, packaging requirements, and choosing the right logistics partner.'
-image: '/images/blog/chemical-shipping-logistics-china-guide.webp'
-imageAlt: 'International chemical shipping and logistics from China port'
+description: >-
+  Navigate the complexities of international chemical shipping from China. Learn
+  about regulations, packaging requirements, and choosing the right logistics
+  partner.
+image: /images/blog/chemical-shipping-logistics-china-guide.webp
+imageAlt: International chemical shipping and logistics from China port
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Shipping & Logistics'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Shipping & Logistics
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Navigating Chemical Logistics
 Shipping chemicals internationally requires specialized knowledge and careful planning. Here's what you need to consider when importing from China.

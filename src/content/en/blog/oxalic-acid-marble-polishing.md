@@ -1,20 +1,28 @@
 ---
-Id: 'SP-9iznt1u24v'
-Origin_Slug: 'oxalic-acid-marble-polishing'
-Slug: 'oxalic-acid-marble-polishing'
-Excerpt: 'Discover the professional techniques for using oxalic acid to polish marble and care for various stone surfaces. Learn about its chemical action, application methods, safety precautions, and how to achieve a brilliant shine.'
+Id: SP-9iznt1u24v
+Origin_Slug: oxalic-acid-marble-polishing
+Slug: oxalic-acid-marble-polishing
+Excerpt: >-
+  Discover the professional techniques for using oxalic acid to polish marble
+  and care for various stone surfaces. Learn about its chemical action,
+  application methods, safety precautions, and how to achieve a brilliant shine.
 title: 'Oxalic Acid for Marble Polishing & Stone Care: Best Practices'
-description: 'Discover the professional techniques for using oxalic acid to polish marble and care for various stone surfaces. Learn about its chemical action, application methods, safety precautions, and how to achieve a brilliant shine.'
-image: '/images/blog/oxalic-acid-marble-polishing.webp'
-imageAlt: 'A close-up of a highly polished marble surface, reflecting light, with a subtle hint of the polishing process.'
+description: >-
+  Discover the professional techniques for using oxalic acid to polish marble
+  and care for various stone surfaces. Learn about its chemical action,
+  application methods, safety precautions, and how to achieve a brilliant shine.
+image: /images/blog/oxalic-acid-marble-polishing.webp
+imageAlt: >-
+  A close-up of a highly polished marble surface, reflecting light, with a
+  subtle hint of the polishing process.
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Product Application'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Product Application
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 ## Oxalic Acid for Marble Polishing & Stone Care: Best Practices
 

@@ -1,20 +1,30 @@
 ---
-Id: 'SP-jv0n0fwobc'
-Origin_Slug: 'caustic-soda-petroleum-refining'
-Slug: 'caustic-soda-petroleum-refining'
-Excerpt: 'Explore the vital role of caustic soda (sodium hydroxide) in petroleum refining, focusing on its applications in desulfurization, neutralization of acidic components, and overall process optimization.'
-title: 'Caustic Soda in Petroleum Refining: Essential for Desulfurization & Neutralization'
-description: 'Explore the vital role of caustic soda (sodium hydroxide) in petroleum refining, focusing on its applications in desulfurization, neutralization of acidic components, and overall process optimization.'
-image: '/images/blog/caustic-soda-petroleum-refining.webp'
-imageAlt: 'Petroleum refinery with distillation columns, storage tanks, and chemical processing units, highlighting the use of caustic soda'
+Id: SP-jv0n0fwobc
+Origin_Slug: caustic-soda-petroleum-refining
+Slug: caustic-soda-petroleum-refining
+Excerpt: >-
+  Explore the vital role of caustic soda (sodium hydroxide) in petroleum
+  refining, focusing on its applications in desulfurization, neutralization of
+  acidic components, and overall process optimization.
+title: >-
+  Caustic Soda in Petroleum Refining: Essential for Desulfurization &
+  Neutralization
+description: >-
+  Explore the vital role of caustic soda (sodium hydroxide) in petroleum
+  refining, focusing on its applications in desulfurization, neutralization of
+  acidic components, and overall process optimization.
+image: /images/blog/caustic-soda-petroleum-refining.webp
+imageAlt: >-
+  Petroleum refinery with distillation columns, storage tanks, and chemical
+  processing units, highlighting the use of caustic soda
 Date: '2026-04-12'
-author: 'Sinopeakchem Technical Team'
-category: 'Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 The **petroleum refining industry** is a cornerstone of global energy, transforming crude oil into a wide array of valuable products like gasoline, diesel, jet fuel, and petrochemical feedstocks. This complex process involves numerous chemical and physical transformations, many of which rely on the precise application of specialized chemicals. Among these, **caustic soda (sodium hydroxide, NaOH)** stands out as a critical reagent, playing an indispensable role in enhancing product quality, preventing corrosion, and ensuring environmental compliance.
 

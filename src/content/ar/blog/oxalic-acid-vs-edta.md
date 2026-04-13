@@ -1,22 +1,24 @@
 ---
-Date: '2026-04-10'
-Excerpt: مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على
-  كفاءة ربط المعادن، والتكلفة، والأثر البيئي.
 Id: SP-ljzwljs7ga
-Keywords: null
 Origin_Slug: oxalic-acid-vs-edta
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-vs-edta
-Target_Region: MENA Region (AR)
-author: Sinopeakchem Technical Team
-category: مقارنة المنتجات
-description: مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز
-  على كفاءة ربط المعادن، والتكلفة، والأثر البيئي.
+Excerpt: >-
+  مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على
+  كفاءة ربط المعادن، والتكلفة، والأثر البيئي.
+title: 'حمض الأكساليك مقابل EDTA: أيهما أفضل كعامل مخلبي؟'
+description: >-
+  مقارنة تقنية بين حمض الأكساليك و EDTA في التطبيقات الصناعية، مع التركيز على
+  كفاءة ربط المعادن، والتكلفة، والأثر البيئي.
 image: /images/blog/oxalic-acid-vs-edta.webp
 imageAlt: مقارنة بين حمض الأكساليك و EDTA في المختبر
+Date: '2026-04-10'
+author: Sinopeakchem Technical Team
+category: مقارنة المنتجات
 tag: null
-title: 'حمض الأكساليك مقابل EDTA: أيهما أفضل كعامل مخلبي؟'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: MENA Region (AR)
 ---
 
 ## حمض الأكساليك و EDTA كعوامل مخلبية

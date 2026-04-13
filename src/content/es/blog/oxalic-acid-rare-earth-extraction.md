@@ -1,27 +1,32 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore el papel crítico del ácido oxálico en la extracción, separación y
-  purificación de elementos de tierras raras. Conozca sus principios químicos y su
-  importancia en industrias de alta tecnología como electrónica, energía verde y defensa.
 Id: SP-od1j418aun
-Keywords: null
 Origin_Slug: oxalic-acid-rare-earth-extraction
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-rare-earth-extraction
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explore el papel crítico del ácido oxálico en la extracción, separación y
+  purificación de elementos de tierras raras. Conozca sus principios químicos y
+  su importancia en industrias de alta tecnología como electrónica, energía
+  verde y defensa.
+title: >-
+  Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la
+  Industria Moderna
+description: >-
+  Explore el papel crítico del ácido oxálico en la extracción, separación y
+  purificación de elementos de tierras raras. Conozca sus principios químicos y
+  su importancia en industrias de alta tecnología como electrónica, energía
+  verde y defensa.
+image: /images/blog/oxalic-acid-rare-earth-extraction.webp
+imageAlt: >-
+  Un laboratorio sofisticado enfocado en la extracción de elementos de tierras
+  raras, con equipos especializados y soluciones coloridas.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
-description: Explore el papel crítico del ácido oxálico en la extracción, separación
-  y purificación de elementos de tierras raras. Conozca sus principios químicos y
-  su importancia en industrias de alta tecnología como electrónica, energía verde
-  y defensa.
-image: /images/blog/oxalic-acid-rare-earth-extraction.webp
-imageAlt: Un laboratorio sofisticado enfocado en la extracción de elementos de tierras
-  raras, con equipos especializados y soluciones coloridas.
 tag: null
-title: 'Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la
-  Industria Moderna'
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la Industria Moderna

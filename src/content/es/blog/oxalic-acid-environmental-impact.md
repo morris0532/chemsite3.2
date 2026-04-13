@@ -1,28 +1,31 @@
 ---
-Date: '2026-04-10'
-Excerpt: Explore la huella ambiental del ácido oxálico, su presencia natural, biodegradabilidad
-  y prácticas seguras de eliminación para garantizar un uso sostenible en diversas
-  aplicaciones.
 Id: SP-i1xp44t4oa
-Keywords: null
 Origin_Slug: oxalic-acid-environmental-impact
-Primary_Keyword: Industrial Chemicals
-Schema_Type: TechArticle
 Slug: oxalic-acid-environmental-impact
-Target_Region: Latin America & Spain (ES)
+Excerpt: >-
+  Explore la huella ambiental del ácido oxálico, su presencia natural,
+  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso
+  sostenible en diversas aplicaciones.
+title: Impacto Ambiental y Biodegradabilidad del Ácido Oxálico
+description: >-
+  Explore la huella ambiental del ácido oxálico, su presencia natural,
+  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso
+  sostenible en diversas aplicaciones.
+image: /images/blog/oxalic-acid-environmental-impact.webp
+imageAlt: >-
+  Una imagen profesional y limpia que representa la ciencia ambiental. Muestra
+  un laboratorio con científicos analizando muestras de agua o suelo, o un
+  ecosistema natural sereno con vegetación exuberante y agua clara, integrando
+  sutilmente elementos que sugieren biodegradabilidad o investigación ambiental.
+  Enfatiza la sostenibilidad y el rigor científico. Alta calidad, resolución 4k.
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Sostenibilidad y Seguridad
-description: Explore la huella ambiental del ácido oxálico, su presencia natural,
-  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso sostenible
-  en diversas aplicaciones.
-image: /images/blog/oxalic-acid-environmental-impact.webp
-imageAlt: Una imagen profesional y limpia que representa la ciencia ambiental. Muestra
-  un laboratorio con científicos analizando muestras de agua o suelo, o un ecosistema
-  natural sereno con vegetación exuberante y agua clara, integrando sutilmente elementos
-  que sugieren biodegradabilidad o investigación ambiental. Enfatiza la sostenibilidad
-  y el rigor científico. Alta calidad, resolución 4k.
 tag: null
-title: Impacto Ambiental y Biodegradabilidad del Ácido Oxálico
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Latin America & Spain (ES)
 ---
 
 ## Impacto Ambiental y Biodegradabilidad del Ácido Oxálico

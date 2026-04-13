@@ -1,53 +1,57 @@
 ---
 Origin_Slug: ammonium-sulphate
-applications:
-- Fertilizante agrícola
-- Aditivo retardante de llama
-- Tratamiento de agua
-- Aditivo alimentario (nutriente para levaduras)
-- Industria textil
-- Suministro farmacéutico
-cas: 7783-20-2
+image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 category: Compuestos de Sulfato
+applications:
+  - Fertilizante agrícola
+  - Aditivo retardante de llama
+  - Tratamiento de agua
+  - Aditivo alimentario (nutriente para levaduras)
+  - Industria textil
+  - Suministro farmacéutico
+cas: 7783-20-2
 faqs:
-- answer: Recomendamos un contenedor completo de 20 pies (27MT) para obtener los mejores
-    precios y economía en el transporte.
-  question: ¿Cuál es la cantidad mínima de pedido?
-- answer: Ofrecemos sulfato de amonio grado agrícola (grado caprolactama, grado acero)
-    y grado industrial, cada uno adecuado para diferentes aplicaciones.
-  question: ¿Qué grados están disponibles?
-- answer: Sí, proporciona nutrientes de nitrógeno (21%) y azufre (24%), lo que lo
-    hace excelente para suelos deficientes en azufre y cultivos que requieren nutrición
-    de azufre.
-  question: ¿Es el sulfato de amonio un buen fertilizante?
+  - answer: >-
+      Recomendamos un contenedor completo de 20 pies (27MT) para obtener los
+      mejores precios y economía en el transporte.
+    question: ¿Cuál es la cantidad mínima de pedido?
+  - answer: >-
+      Ofrecemos sulfato de amonio grado agrícola (grado caprolactama, grado
+      acero) y grado industrial, cada uno adecuado para diferentes aplicaciones.
+    question: ¿Qué grados están disponibles?
+  - answer: >-
+      Sí, proporciona nutrientes de nitrógeno (21%) y azufre (24%), lo que lo
+      hace excelente para suelos deficientes en azufre y cultivos que requieren
+      nutrición de azufre.
+    question: ¿Es el sulfato de amonio un buen fertilizante?
 hsCode: '3102210000'
 id: '12'
-image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 loading: 27MT/20GP
 name: Sulfato de Amonio
 nameCn: 硫酸铵
 packaging: 25/50KG/Jumbo bags
 ports: Tianjin / Qingdao
-shortDescription: Fertilizante de sulfato de amonio para uso agrícola e industrial
-  y químico intermedio.
+shortDescription: >-
+  Fertilizante de sulfato de amonio para uso agrícola e industrial y químico
+  intermedio.
 slug: sulfato-de-amonio
 specs:
-- label: Fórmula Química
-  value: (NH₄)₂SO₄
-- label: Número CAS
-  value: 7783-20-2
-- label: Código HS
-  value: '3102210000'
-- label: Contenido de Nitrógeno
-  value: ≥21%
-- label: Apariencia
-  value: Polvo/granulado cristalino blanco
-- label: Embalaje
-  value: Bolsas de 25/50KG / Bolsas jumbo
-- label: Carga
-  value: 27MT por contenedor 20GP
-- label: Puertos Disponibles
-  value: Tianjin / Qingdao
+  - label: Fórmula Química
+    value: (NH₄)₂SO₄
+  - label: Número CAS
+    value: 7783-20-2
+  - label: Código HS
+    value: '3102210000'
+  - label: Contenido de Nitrógeno
+    value: ≥21%
+  - label: Apariencia
+    value: Polvo/granulado cristalino blanco
+  - label: Embalaje
+    value: Bolsas de 25/50KG / Bolsas jumbo
+  - label: Carga
+    value: 27MT por contenedor 20GP
+  - label: Puertos Disponibles
+    value: Tianjin / Qingdao
 ---
 
 El Sulfato de Amonio ((NH₄)₂SO₄) es una sal inorgánica de alto rendimiento ampliamente reconocida por su contenido excepcional de nitrógeno y azufre. Es un ingrediente vital en la provisión de fertilizantes, productos químicos industriales y diversos otros productos. Nuestro Sulfato de Amonio se suministra con altos estándares de pureza y consistencia, garantizando un rendimiento óptimo tanto en aplicaciones agrícolas como industriales.

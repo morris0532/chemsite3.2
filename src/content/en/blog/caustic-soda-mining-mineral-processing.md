@@ -1,20 +1,31 @@
 ---
-Id: 'SP-kmkrvh58jy'
-Origin_Slug: 'caustic-soda-mining-mineral-processing'
-Slug: 'caustic-soda-mining-mineral-processing'
-Excerpt: 'Explore the vital role of caustic soda (sodium hydroxide) in the mining and mineral processing industry, from ore extraction and flotation to pH control and wastewater treatment.'
-title: 'Caustic Soda in Mining & Mineral Processing: Essential for Extraction & pH Control'
-description: 'Explore the vital role of caustic soda (sodium hydroxide) in the mining and mineral processing industry, from ore extraction and flotation to pH control and wastewater treatment.'
-image: '/images/blog/caustic-soda-mining-mineral-processing.webp'
-imageAlt: 'Mining and mineral processing facility with large machinery, ore crushers, flotation cells, and wastewater treatment ponds, highlighting the use of caustic soda'
+Id: SP-kmkrvh58jy
+Origin_Slug: caustic-soda-mining-mineral-processing
+Slug: caustic-soda-mining-mineral-processing
+Excerpt: >-
+  Explore the vital role of caustic soda (sodium hydroxide) in the mining and
+  mineral processing industry, from ore extraction and flotation to pH control
+  and wastewater treatment.
+title: >-
+  Caustic Soda in Mining & Mineral Processing: Essential for Extraction & pH
+  Control
+description: >-
+  Explore the vital role of caustic soda (sodium hydroxide) in the mining and
+  mineral processing industry, from ore extraction and flotation to pH control
+  and wastewater treatment.
+image: /images/blog/caustic-soda-mining-mineral-processing.webp
+imageAlt: >-
+  Mining and mineral processing facility with large machinery, ore crushers,
+  flotation cells, and wastewater treatment ponds, highlighting the use of
+  caustic soda
 Date: '2026-04-12'
-author: 'Sinopeakchem Technical Team'
-category: 'Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Global (EN)'
+author: Sinopeakchem Technical Team
+category: Applications
+tag: null
+Primary_Keyword: Industrial Chemicals
+Keywords: null
+Schema_Type: TechArticle
+Target_Region: Global (EN)
 ---
 The **mining and mineral processing industry** is fundamental to modern society, providing the raw materials essential for everything from construction and electronics to renewable energy technologies. This industry relies heavily on a range of chemical reagents to efficiently extract valuable minerals from ore. Among these, **caustic soda (sodium hydroxide, NaOH)** is a versatile and indispensable chemical, playing a critical role in various stages of mineral extraction and processing.
 
