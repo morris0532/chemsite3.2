@@ -1,0 +1,35 @@
+name: Auto Format YAML Order
+
+on:
+  push:
+    paths:
+      - 'src/content/**/*.md'
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install gray-matter
+
+      - name: Run YAML Fixer
+        run: node scripts/fix-md-order.mjs
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-format YAML order in Markdown files"
+          file_pattern: 'src/content/**/*.md'
