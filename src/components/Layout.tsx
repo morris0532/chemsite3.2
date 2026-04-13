@@ -148,8 +148,11 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     if (location.pathname.includes('/blog/')) {
       const currentSlug = location.pathname.split('/blog/')[1];
       const currentPost = currentContent.posts.find((p: any) => p.slug === currentSlug);
-      if (currentPost && currentPost.id) {
-        const targetPost = targetContent.posts.find((p: any) => p.id === currentPost.id);
+      if (currentPost) {
+        const targetPost = targetContent.posts.find((p: any) => 
+          (p.id && p.id === currentPost.id) || 
+          (p.originSlug && p.originSlug === currentPost.originSlug)
+        );
         if (targetPost) {
           navigate(`${targetPrefix}/blog/${targetPost.slug}`);
           return;
@@ -160,8 +163,11 @@ export default function Layout({ children, title, description, image, jsonLd }: 
     if (location.pathname.includes('/products/')) {
       const currentSlug = location.pathname.split('/products/')[1];
       const currentProduct = currentContent.products.find((p: any) => p.slug === currentSlug);
-      if (currentProduct && currentProduct.id) {
-        const targetProduct = targetContent.products.find((p: any) => p.id === currentProduct.id);
+      if (currentProduct) {
+        const targetProduct = targetContent.products.find((p: any) => 
+          (p.id && p.id === currentProduct.id) || 
+          (p.originSlug && p.originSlug === currentProduct.originSlug)
+        );
         if (targetProduct) {
           navigate(`${targetPrefix}/products/${targetProduct.slug}`);
           return;

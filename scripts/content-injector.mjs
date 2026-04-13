@@ -68,6 +68,7 @@ const contentMetadata = {
           contentMetadata[locale][type].push({
             title: data.title || data.name || '',
             slug: data.slug || data.Slug || file.replace('.md', ''),
+            originSlug: data.origin_slug || data.Origin_Slug || data.slug || data.Slug || file.replace('.md', ''),
             date: data.date || '',
             cas: data.cas || '',
             image: data.image || ''

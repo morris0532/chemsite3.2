@@ -35,6 +35,7 @@ export default function markdownPlugin() {
                 const { data: frontmatter, content } = matter(fileContent);
                 posts.push({
                   id: frontmatter.id || frontmatter.Id || file.replace('.md', ''),
+                  originSlug: frontmatter.origin_slug || frontmatter.Origin_Slug || frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   slug: frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   title: frontmatter.title || '',
                   excerpt: frontmatter.excerpt || '',
@@ -58,6 +59,7 @@ export default function markdownPlugin() {
                 const { data: frontmatter, content } = matter(fileContent);
                 products.push({
                   id: frontmatter.id || frontmatter.Id || file.replace('.md', ''),
+                  originSlug: frontmatter.origin_slug || frontmatter.Origin_Slug || frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   slug: frontmatter.slug || frontmatter.Slug || file.replace('.md', ''),
                   name: frontmatter.name || '',
                   category: frontmatter.category || 'Chemicals',
