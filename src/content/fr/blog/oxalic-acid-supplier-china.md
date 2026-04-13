@@ -20,7 +20,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)---
+Target_Region: Francophone Africa & EU (FR)
+---
+
 ## Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine
 
 La Chine est le leader mondial de la production d'[acide oxalique](https://www.sinopeakchem.com/fr/products/oxalic-acid), représentant plus de 70 % de la capacité totale mondiale. Pour les acheteurs internationaux, s'approvisionner en Chine offre des avantages de coûts significatifs et une stabilité d'approvisionnement. Cependant, le grand nombre de fabricants et d'exportateurs peut rendre difficile l'identification d'un partenaire véritablement fiable.

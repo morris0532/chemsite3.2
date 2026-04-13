@@ -47,7 +47,9 @@ specs:
 - label: Chargement
   value: 27 MT par conteneur 20GP
 - label: Ports disponibles
-  value: Tianjin / Qingdao---
+  value: Tianjin / Qingdao
+---
+
 Le sulfate d'ammonium ((NH₄)₂SO₄) est un sel inorganique de haute performance largement reconnu pour sa teneur exceptionnelle en azote et en soufre. C'est un ingrédient essentiel dans la supply d'engrais, de produits chimiques industriels et de divers autres produits. Notre sulfate d'ammonium est fabriqué selon des normes élevées de pureté et de cohérence, garantissant des performances optimales dans les applications agricoles et industrielles.
 
 Dans l'**industrie agricole**, le sulfate d'ammonium est un « engrais azote-soufre » primaire. Il fournit une source d'azote (21 %) et de soufre (24 %) facilement disponible pour les cultures, favorisant une croissance saine et augmentant les rendements. Sa teneur élevée en soufre le rend particulièrement efficace pour les sols déficients en soufre et pour les cultures qui nécessitent des niveaux élevés de soufre, telles que les oléagineux, les légumineuses et les légumes. Sa nature acide aide également à abaisser le pH des sols alcalins, améliorant ainsi la disponibilité d'autres nutriments.

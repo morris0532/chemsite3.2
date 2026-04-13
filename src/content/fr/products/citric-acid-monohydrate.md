@@ -78,7 +78,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Acide citrique monohydraté (CAS 5949-29-1) : Votre fabricant et fournisseur de confiance en Chine pour le C₆H₈O₇·H₂O de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide citrique monohydraté (C₆H₈O₇·H₂O)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,5 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide citrique monohydraté est produit par des processus de fermentation avancés, garantissant une qualité constante qui répond aux normes internationales les plus strictes pour les applications alimentaires, pharmaceutiques et industrielles (Code SH : 2918140000).

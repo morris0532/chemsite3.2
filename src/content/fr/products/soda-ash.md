@@ -57,7 +57,9 @@ specs:
 - label: Chargement
   value: 27-28 MT/20GP (dense) / 22-23 MT/20GP (léger)
 - label: Ports disponibles
-  value: Lianyungang / Qingdao / Tianjin---
+value: Lianyungang / Qingdao / Tianjin
+---
+
 ## Carbonate de sodium (CAS 497-19-8) : Votre premier fournisseur en Chine pour le carbonate de sodium léger et dense
 
 En tant que **fournisseur et fabricant leader en Chine** de **carbonate de sodium (Na₂CO₃)**, également connu sous le nom de **soude**, nous proposons du **carbonate de sodium léger** et du **carbonate de sodium dense** avec une **pureté ≥99,2 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre carbonate de sodium est produit à l'aide de processus avancés, garantissant une qualité constante qui répond aux divers besoins de diverses applications industrielles (Code SH : 2836200000).

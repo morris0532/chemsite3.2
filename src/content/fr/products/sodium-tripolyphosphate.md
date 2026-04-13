@@ -76,7 +76,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Tripolyphosphate de sodium (CAS 7758-29-4) : Votre fabricant et fournisseur de confiance en Chine pour le STPP de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **tripolyphosphate de sodium (STPP)**, nous proposons un produit de **haute pureté** avec une **teneur en P₂O₅ ≥57%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre STPP est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de détergents, alimentaires et industrielles (Code SH : 2835319000).

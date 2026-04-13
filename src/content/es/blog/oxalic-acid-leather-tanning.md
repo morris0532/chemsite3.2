@@ -22,7 +22,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)---
+Target_Region: Latin America & Spain (ES)
+---
+
 ## Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos
 
 La producción de cuero es un oficio antiguo que se ha evolucionado hasta convertirse en un proceso industrial sofisticado, que depende en gran medida de la química para transformar las pieles crudas en materiales duraderos, flexibles y estéticamente atractivos. Entre la variedad de productos químicos empleados, el ácido oxálico (C₂H₂O₄) desempeña un papel significativo, aunque a menudo tras bambalinas, en varias etapas del curtido y teñido del cuero. Sus propiedades como ácido, agente quelante y agente reductor lo hacen valioso tanto en el procesamiento tradicional como en el moderno del cuero.
@@ -61,8 +63,8 @@ Como con todos los productos químicos industriales, el manejo adecuado y los pr
 El ácido oxálico, con sus multifacéticas propiedades químicas, sigue siendo un componente valioso en el complejo mundo del curtido y teñido del cuero. Desde preparar las pieles para el curtido hasta mejorar la viveza y solidez de los tintes, sus aplicaciones abarcan tanto la artesanía tradicional como la eficiencia industrial moderna. Su capacidad para actuar como agente desencalante, regulador de pH y agente limpiador subraya su versatilidad. SinoPeakChem es un proveedor confiable de ácido oxálico de alta calidad, apoyando la industria del cuero con químicos esenciales para la producción de productos de cuero superiores.
 
 **Para ácido oxálico de alta calidad que optimice sus procesos de curtido y teñido de cuero, [contacte a SinoPeakChem para soluciones expertas →](/en/contact)**
-
 ---
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 Innove con SinoPeakChem: ¡Su socio para soluciones sostenibles de ácido oxálico!

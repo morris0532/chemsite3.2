@@ -78,7 +78,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Sulfite de sodium anhydre (CAS 7757-83-7) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂SO₃ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfite de sodium anhydre (Na₂SO₃)**, nous proposons un produit de **haute pureté** avec une **pureté ≥96%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre sulfite de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de traitement de l'eau, de photographie et industrielles (Code SH : 2832100000).

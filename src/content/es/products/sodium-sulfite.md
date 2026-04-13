@@ -72,7 +72,9 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Principales puertos de China)---
+value: Qingdao, Tianjin, Dalian (Principales puertos de China)
+---
+
 ## Sulfito de Sodio Anhidro (CAS 7757-83-7): Su proveedor confiable en China para Na₂SO₃ de alta pureza
 
 Como proveedor premier en **China** de **Sulfito de Sodio Anhidro (Na₂SO₃)**, ofrecemos un producto de **alta pureza** con **≥96% de pureza** para **compra a granel** y **exportación** a nivel mundial. Nuestro Sulfito de Sodio Anhidro cumple con estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de tratamientos de agua, fotografía y aplicaciones industriales (Código HS: 2832100000).

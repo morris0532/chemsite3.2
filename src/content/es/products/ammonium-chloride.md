@@ -75,7 +75,9 @@ specs:
 - label: Carga
   value: 25-27MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Puertos principales de China)---
+value: Qingdao, Tianjin, Dalian (Puertos principales de China)
+---
+
 ## Cloruro de Amonio (CAS 12125-02-9): Su Proveedor y Exportador de Confianza en China para NH₄Cl de Alta Calidad
 
 Como **proveedor y exportador líder en China** de **Cloruro de Amonio (NH₄Cl)**, ofrecemos un producto de **alta calidad** con **≥99.5% de pureza** para **compra al por mayor** y **exportación** a todo el mundo. Nuestro Cloruro de Amonio se suministra para cumplir con los estrictos estándares internacionales de calidad, lo que lo hace ideal para una amplia gama de aplicaciones industriales, agrícolas y de alimentación animal (Código HS: 2827101000).

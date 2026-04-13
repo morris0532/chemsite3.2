@@ -18,7 +18,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)---
+Target_Region: Latin America & Spain (ES)
+---
+
 ## Navegando la Logística de Productos Químicos
 El envío internacional de productos químicos requiere conocimiento especializado y una planificación cuidadosa. Esto es lo que debe considerar al importar desde China.
 

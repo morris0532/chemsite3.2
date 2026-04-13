@@ -26,6 +26,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid in the Paper Industry: Bleaching and Beyond
 
 The paper industry is a complex and resource-intensive sector, constantly seeking efficient and environmentally friendly methods for pulp processing and paper manufacturing. Among the various chemicals employed, **oxalic acid** (H₂C₂O₄) has emerged as a versatile and valuable agent, playing a crucial role not only in pulp bleaching but also in other stages of paper production. Its unique chemical properties, including its chelating ability and mild acidity, make it an attractive option for enhancing paper quality and reducing environmental impact.

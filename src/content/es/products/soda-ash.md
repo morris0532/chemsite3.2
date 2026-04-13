@@ -54,7 +54,9 @@ specs:
 - label: Carga
   value: 27-28MT/20GP (denso) / 22-23MT/20GP (ligero)
 - label: Puertos Disponibles
-  value: Lianyungang / Qingdao / Tianjin---
+value: Lianyungang / Qingdao / Tianjin
+---
+
 ## Carbonato de Sodio (CAS 497-19-8): Su Proveedor Principal en China de Carbonato de Sodio Ligero y Denso
 
 Como un proveedor líder en **China** de **Carbonato de Sodio (Na₂CO₃)**, también conocido como **Soda Ash**, ofrecemos tanto **carbonato de sodio ligero** como **carbonato de sodio denso** con una **pureza ≥99.2%** para **compras al por mayor** y **exportación** a nivel mundial. Nuestro Carbonato de Sodio se suministra mediante procesos avanzados, garantizando una calidad constante que satisface las diversas necesidades de múltiples aplicaciones industriales (Código HS: 2836200000).

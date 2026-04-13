@@ -105,4 +105,3 @@ As a leading **China supplier and supplier** of **Caustic Soda (NaOH)**, also kn
 We offer flexible **packaging solutions** for our Caustic Soda, including robust 25KG PP woven bags with PE inner liners, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We provide reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Caustic Soda supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-

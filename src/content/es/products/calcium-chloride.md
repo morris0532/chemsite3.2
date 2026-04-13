@@ -75,7 +75,9 @@ specs:
 - label: Carga
   value: 25-27MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (principales puertos de China)---
+value: Qingdao, Tianjin, Dalian (principales puertos de China)
+---
+
 ## Cloruro de Calcio (CAS 10043-52-4): Su proveedor confiable en China de CaCl₂ de alta pureza
 
 Como proveedor principal en **China** de **Cloruro de Calcio (CaCl₂)**, ofrecemos **escamas, gránulos y polvo de alta pureza** con una **pureza de ≥74% a ≥94% (anhidro)** para **compras al por mayor** y **exportación** a nivel mundial. Nuestro Cloruro de Calcio cumple con rigurosos estándares internacionales de calidad, convirtiéndolo en una materia prima esencial para una amplia variedad de aplicaciones industriales, alimentarias y ambientales (Código HS: 2827200000).

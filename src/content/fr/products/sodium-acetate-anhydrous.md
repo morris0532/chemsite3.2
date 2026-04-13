@@ -77,7 +77,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Acétate de sodium anhydre (CAS 127-09-3) : Votre fabricant et fournisseur de confiance en Chine pour le CH₃COONa de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acétate de sodium anhydre (CH₃COONa)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,0 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acétate de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles, pharmaceutiques et alimentaires (Code SH : 2915291000).

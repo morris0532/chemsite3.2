@@ -77,7 +77,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Bisulfite de sodium (CAS 7631-90-5) : Votre fabricant et fournisseur de confiance en Chine pour le NaHSO₃ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **bisulfite de sodium (NaHSO₃)**, nous proposons un produit de **haute pureté** avec une **pureté ≥97%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre bisulfite de sodium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de traitement de l'eau, de conservation des aliments et industrielles (Code SH : 2832100000).

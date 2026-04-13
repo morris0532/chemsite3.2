@@ -19,7 +19,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)---
+Target_Region: Francophone Africa & EU (FR)
+---
+
 ## Introduction
 Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet article compare trois options populaires : le PAC, le sulfate d'aluminium et le chlorure ferrique.
 

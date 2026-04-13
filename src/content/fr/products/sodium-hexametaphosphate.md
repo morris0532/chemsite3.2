@@ -76,7 +76,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Hexamétaphosphate de sodium (CAS 10124-56-8) : Votre fabricant et fournisseur de confiance en Chine pour le SHMP de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**hexamétaphosphate de sodium (SHMP)**, nous proposons un produit de **haute pureté** avec une **teneur en P₂O₅ ≥68%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre SHMP est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de traitement de l'eau, alimentaires et industrielles (Code SH : 2835391900).

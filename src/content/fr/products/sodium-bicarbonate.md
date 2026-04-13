@@ -78,7 +78,9 @@ specs:
 - label: Chargement
   value: 25-27 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Bicarbonate de sodium (CAS 144-55-8) : Votre fabricant et fournisseur de confiance en Chine pour le bicarbonate de soude de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **bicarbonate de sodium (NaHCO₃)**, communément appelé **bicarbonate de soude**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,0%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre bicarbonate de sodium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications alimentaires, animales, pharmaceutiques et industrielles (Code SH : 2836300000).

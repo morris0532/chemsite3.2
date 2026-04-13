@@ -27,6 +27,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## How to Safely Dilute Oxalic Acid: Concentration Calculation & Handling Guide
 
 Oxalic acid is a powerful organic acid widely used in various industrial and household applications, including rust removal, wood bleaching, and metal cleaning. While highly effective, it is also corrosive and can be toxic if mishandled. Proper dilution is crucial not only for achieving the desired results but, more importantly, for ensuring safety and preventing damage to surfaces. This guide provides essential safety precautions, step-by-step dilution procedures, and concentration calculation methods for safely working with oxalic acid.

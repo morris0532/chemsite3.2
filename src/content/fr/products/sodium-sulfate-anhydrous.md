@@ -76,7 +76,9 @@ specs:
 - label: Chargement
   value: 25-27 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Sulfate de sodium anhydre (CAS 7757-82-6) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂SO₄ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfate de sodium anhydre (Na₂SO₄)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre sulfate de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de fabrication de détergents, de textiles et de verre (Code SH : 2833110000).

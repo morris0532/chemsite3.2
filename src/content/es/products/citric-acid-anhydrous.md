@@ -74,7 +74,9 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos disponibles
-  value: Qingdao, Tianjin, Dalian (principales puertos de China)---
+value: Qingdao, Tianjin, Dalian (principales puertos de China)
+---
+
 ## Ácido Cítrico Anhidro (CAS 77-92-9): Su proveedor confiable en China para C₆H₈O₇ de alta pureza
 
 Como un proveedor líder en **China** de **Ácido Cítrico Anhidro (C₆H₈O₇)**, ofrecemos un producto de **alta pureza** con **≥99.5% de pureza** para **compras al por mayor** y **exportación** a nivel mundial. Nuestro Ácido Cítrico Anhidro es producido mediante procesos avanzados de fermentación, garantizando una calidad constante que cumple con los estándares internacionales más exigentes para aplicaciones alimentarias, farmacéuticas e industriales (Código HS: 2918140000).

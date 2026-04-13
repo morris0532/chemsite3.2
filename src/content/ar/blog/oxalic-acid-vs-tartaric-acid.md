@@ -16,6 +16,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 ---
+
 ## مقارنة الأحماض العضوية المتخصصة
 يُستخدم كل من حمض الأكساليك وحمض الطرطريك في صناعات مماثلة ولكن لأغراض مختلفة.
 

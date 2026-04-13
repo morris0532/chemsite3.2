@@ -26,6 +26,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid in Rare Earth Magnets: A Critical Component
 
 Rare earth magnets, such as Neodymium-Iron-Boron (NdFeB) magnets, are at the heart of many modern technologies, from electric vehicles and wind turbines to smartphones and medical devices. These powerful magnets rely on **rare earth elements (REEs)**, a group of 17 chemically similar metallic elements. The efficient and pure extraction of these elements from their ores is a complex process, and **oxalic acid** plays a critical and often indispensable role in this sophisticated supply chain [1].

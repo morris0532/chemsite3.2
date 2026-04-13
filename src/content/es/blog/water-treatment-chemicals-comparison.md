@@ -19,7 +19,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)---
+Target_Region: Latin America & Spain (ES)
+---
+
 ## Introducción
 Elegir el coagulante adecuado es crucial para un tratamiento efectivo del agua. Este artículo compara tres opciones populares: PAC, Sulfato de Aluminio y Cloruro Férrico.
 

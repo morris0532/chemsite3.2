@@ -107,4 +107,3 @@ As a premier **China supplier and supplier** of **Calcium Chloride (CaCl₂)**, 
 We provide flexible **packaging solutions** for our Calcium Chloride, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25-27 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Calcium Chloride supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-

@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid in Stainless Steel Passivation: A Technical Overview
 
 Stainless steel is renowned for its corrosion resistance, a property primarily attributed to a thin, self-repairing passive film of chromium oxide that forms on its surface. However, during manufacturing processes such as machining, welding, and grinding, this passive layer can be damaged or contaminated with free iron, scale, or other foreign materials. To restore and enhance this protective layer, a process called **passivation** is employed. Among the various chemical agents used for passivation, **oxalic acid** plays a significant and increasingly recognized role, particularly for its effectiveness and environmental advantages.

@@ -47,7 +47,9 @@ specs:
 - label: Carga
   value: 27MT por contenedor 20GP
 - label: Puertos Disponibles
-  value: Tianjin / Qingdao---
+  value: Tianjin / Qingdao
+---
+
 El Sulfato de Amonio ((NH₄)₂SO₄) es una sal inorgánica de alto rendimiento ampliamente reconocida por su contenido excepcional de nitrógeno y azufre. Es un ingrediente vital en la provisión de fertilizantes, productos químicos industriales y diversos otros productos. Nuestro Sulfato de Amonio se suministra con altos estándares de pureza y consistencia, garantizando un rendimiento óptimo tanto en aplicaciones agrícolas como industriales.
 
 En la **industria agrícola**, el Sulfato de Amonio es un fertilizante primario "nitrógeno-azufre". Proporciona una fuente fácilmente disponible de nitrógeno (21%) y azufre (24%) para los cultivos, promoviendo un crecimiento saludable y aumentando los rendimientos. Su alto contenido de azufre lo hace especialmente efectivo para suelos deficientes en azufre y para cultivos que requieren altos niveles de azufre, como oleaginosas, leguminosas y hortalizas. Su naturaleza ácida también ayuda a reducir el pH de suelos alcalinos, mejorando la disponibilidad de otros nutrientes.

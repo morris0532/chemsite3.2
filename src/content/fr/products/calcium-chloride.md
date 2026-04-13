@@ -79,7 +79,9 @@ specs:
 - label: Chargement
   value: 25-27 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Chlorure de calcium (CAS 10043-52-4) : Votre fabricant et fournisseur de confiance en Chine pour le CaCl₂ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure de calcium (CaCl₂)**, nous proposons des **écailles, des granulés et de la poudre de haute pureté** avec une **pureté de ≥74 % à ≥94 % (anhydre)** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure de calcium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles, alimentaires et environnementales (Code SH : 2827200000).

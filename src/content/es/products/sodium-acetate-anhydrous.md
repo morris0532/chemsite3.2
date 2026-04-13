@@ -73,7 +73,9 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (principales puertos de China)---
+value: Qingdao, Tianjin, Dalian (principales puertos de China)
+---
+
 ## Acetato de Sodio Anhidro (CAS 127-09-3): Su proveedor confiable de China para CH₃COONa de alta pureza
 
 Como un proveedor líder en **China** de **Acetato de Sodio Anhidro (CH₃COONa)**, ofrecemos un producto de **alta pureza** con una **pureza ≥99.0%** para **compra al por mayor** y **exportación** mundial. Nuestro Acetato de Sodio Anhidro se suministra cumpliendo con estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones industriales, farmacéuticas y alimentarias (Código HS: 2915291000).

@@ -76,7 +76,9 @@ specs:
 - label: Carga
   value: 25-27 TM por contenedor de 20 pies (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Puertos principales de China)---
+value: Qingdao, Tianjin, Dalian (Puertos principales de China)
+---
+
 ## Soda Cáustica (CAS 1310-73-2): Su Proveedor de Confianza en China para Hidróxido de Sodio de Alta Pureza
 
 Como **proveedor líder en China** de **Soda Cáustica (NaOH)**, también conocida como **Hidróxido de Sodio**, ofrecemos **escamas y perlas de alta pureza** con **≥99% de pureza** para **compra al por mayor** y **exportación** a todo el mundo. Nuestra Soda Cáustica se suministra utilizando tecnología avanzada de celdas de membrana, lo que garantiza una calidad constante que cumple con las aplicaciones industriales más exigentes (Código SA: 2815110000).

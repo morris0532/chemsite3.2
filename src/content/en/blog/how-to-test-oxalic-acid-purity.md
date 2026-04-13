@@ -26,6 +26,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## How to Test Oxalic Acid Purity: A Comprehensive Guide
 
 Oxalic acid is a fundamental organic compound with diverse applications in industries ranging from pharmaceuticals and textiles to metal cleaning and [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction). The purity of oxalic acid is paramount, as impurities can significantly impact its performance, safety, and the quality of end products. Ensuring the purity of oxalic acid through reliable testing methods is a critical aspect of quality control. This guide will delve into the most common and effective techniques for assessing oxalic acid purity, providing a comprehensive overview for industrial professionals.

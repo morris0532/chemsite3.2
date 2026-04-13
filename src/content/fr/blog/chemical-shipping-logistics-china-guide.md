@@ -19,7 +19,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)---
+Target_Region: Francophone Africa & EU (FR)
+---
+
 ## Naviguer dans la logistique des produits chimiques
 L'expédition internationale de produits chimiques nécessite des connaissances spécialisées et une planification minutieuse. Voici ce que vous devez prendre en compte lors de l'importation depuis la Chine.
 

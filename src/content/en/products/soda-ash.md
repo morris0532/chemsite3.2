@@ -81,4 +81,3 @@ As a leading **China supplier and supplier** of **Soda Ash (Na₂CO₃)**, also 
 We provide flexible **packaging solutions** for our Soda Ash, including robust 40KG PP woven bags and 1000KG jumbo bags, designed for safe international transport. For **bulk orders**, we ensure efficient **loading** of up to 28 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao and Lianyungang, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Soda Ash supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-

@@ -14,7 +14,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
+
 ## اختيار المخثر الصحيح
 يعد اختيار المخثر المناسب أمراً حيوياً لمعالجة المياه بفعالية. يقارن هذا المقال بين PAC وكبريتات الألومنيوم وكلوريد الحديديك.
 

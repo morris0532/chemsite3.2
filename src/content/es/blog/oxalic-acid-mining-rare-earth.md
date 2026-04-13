@@ -22,7 +22,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)---
+Target_Region: Latin America & Spain (ES)
+---
+
 ## Ácido Oxálico en la Minería: Extracción y Purificación de Elementos de Tierras Raras
 
 La demanda global de **elementos de tierras raras (ETR)**, componentes críticos en industrias de alta tecnología que van desde la electrónica hasta la energía renovable, ha impulsado avances significativos en sus tecnologías de extracción y purificación. Entre los diversos agentes químicos empleados, el **ácido oxálico** (H₂C₂O₄) ha surgido como un reactivo altamente efectivo y ambientalmente ventajoso, particularmente en el procesamiento hidrometalúrgico de ETR. Sus propiedades quelantes y precipitantes únicas lo hacen indispensable para separar y refinar estos valiosos metales de cuerpos de mineral complejos.

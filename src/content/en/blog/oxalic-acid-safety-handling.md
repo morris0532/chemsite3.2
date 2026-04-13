@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid Safety & Handling: A Comprehensive Guide
 
 Oxalic acid is a versatile organic compound widely used in various industries, from rust removal and wood bleaching to textile processing and rare earth extraction. While highly effective, it is also a corrosive substance that requires careful handling to prevent accidents and ensure a safe working environment. This comprehensive guide provides essential information on the properties of oxalic acid, potential hazards, necessary personal protective equipment (PPE), proper storage, first aid measures, and safe waste disposal.

@@ -21,7 +21,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)---
+Target_Region: Latin America & Spain (ES)
+---
+
 ## Ácido Oxálico en la Pasivación del Acero Inoxidable: Una Visión Técnica
 
 El acero inoxidable es conocido por su resistencia a la corrosión, una propiedad atribuida principalmente a una delgada capa pasiva de óxido de cromo que se repara a sí misma y que se forma en su superficie. Sin embargo, durante los procesos de fabricación como el mecanizado, la soldadura y el esmerilado, esta capa pasiva puede dañarse o contaminarse con hierro libre, cascarilla u otros materiales extraños. Para restaurar y mejorar esta capa protectora, se emplea un proceso llamado **pasivación**. Entre los diversos agentes químicos utilizados para la pasivación, el **ácido oxálico** desempeña un papel significativo y cada vez más reconocido, particularmente por su eficacia y ventajas ambientales.

@@ -20,6 +20,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## What is Oxalic Acid?
 Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid supplier](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is supplied industrially for numerous applications.
 

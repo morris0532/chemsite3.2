@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid for Water Treatment: Removing Iron & Manganese
 
 Access to clean, safe water is fundamental for both human consumption and industrial processes. However, water sources often contain dissolved minerals, such as iron and manganese, which can cause numerous problems. These metals can lead to discoloration, unpleasant tastes and odors, staining of fixtures and laundry, and even interfere with industrial equipment and processes. While various methods exist for water treatment, oxalic acid offers an effective and often preferred solution for the removal of iron and manganese.

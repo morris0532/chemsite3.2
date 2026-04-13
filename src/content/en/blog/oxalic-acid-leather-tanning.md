@@ -27,6 +27,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid for Leather Tanning & Dyeing: Traditional & Modern Methods
 
 Leather production is an ancient craft that has evolved into a sophisticated industrial process, relying heavily on chemistry to transform raw hides into durable, flexible, and aesthetically pleasing materials. Among the array of chemicals employed, oxalic acid (C₂H₂O₄) plays a significant, albeit often behind-the-scenes, role in various stages of leather tanning and dyeing. Its properties as an acid, chelating agent, and reducing agent make it valuable in both traditional and modern leather processing.

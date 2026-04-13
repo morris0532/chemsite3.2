@@ -16,7 +16,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)---
+Target_Region: MENA Region (AR)
+---
+
 ## حمض الأكساليك و EDTA كعوامل مخلبية
 تعد العوامل المخلبية ضرورية في العديد من الصناعات لربط أيونات المعادن ومنع تداخلها. حمض الأكساليك و EDTA (حمض إيثيلين ديامين رباعي الخليك) هما من أكثر الخيارات شيوعاً، لكنهما يعملان بشكل مختلف تماماً.
 

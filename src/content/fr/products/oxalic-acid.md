@@ -76,7 +76,9 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Acide oxalique (CAS 144-62-7 / 6153-56-6) : Votre fabricant et fournisseur de confiance en Chine pour l'acide éthanedioïque de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide oxalique (H₂C₂O₄·2H₂O)**, également connu sous le nom d'**acide éthanedioïque**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,6 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide oxalique est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles (Code SH : 2917111000).

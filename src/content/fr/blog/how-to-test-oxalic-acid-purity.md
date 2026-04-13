@@ -21,7 +21,9 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)---
+Target_Region: Francophone Africa & EU (FR)
+---
+
 ## Comment Tester la Pureté de l'Acide Oxalique : Un Guide Complet
 
 L'acide oxalique est un composé organique fondamental avec diverses applications dans des industries allant des produits pharmaceutiques et textiles au nettoyage des métaux et à l'[extraction des terres rares](/fr/blog/oxalic-acid-rare-earth-extraction). La pureté de l'acide oxalique est primordiale, car les impuretés peuvent avoir un impact significatif sur ses performances, sa sécurité et la qualité des produits finis. Assurer la pureté de l'acide oxalique par des méthodes de test fiables est un aspect critique du contrôle qualité. Ce guide explorera les techniques les plus courantes et efficaces pour évaluer la pureté de l'acide oxalique, offrant un aperçu complet aux professionnels de l'industrie.

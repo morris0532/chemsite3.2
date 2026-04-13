@@ -24,6 +24,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Introduction
 Choosing the right coagulant is crucial for effective water treatment. This article compares three popular options: PAC, Aluminum Sulfate, and Ferric Chloride.
 ## Polyaluminum Chloride (PAC)

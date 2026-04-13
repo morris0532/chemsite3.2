@@ -26,6 +26,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## Oxalic Acid Grades & Specifications: An In-depth Look
 
 Oxalic acid (C₂H₂O₄) is a dicarboxylic acid with a wide range of applications across various industries, from rust removal and textile processing to rare earth extraction and pharmaceutical synthesis. However, not all oxalic acid is created equal. Different applications demand specific purity levels and physical-chemical properties, leading to the classification of oxalic acid into various grades. Understanding these grades and their specifications is crucial for ensuring product performance, safety, and compliance.

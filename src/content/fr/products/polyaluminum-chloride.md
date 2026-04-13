@@ -78,7 +78,9 @@ specs:
 - label: Chargement
   value: 20-22 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
+value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+---
+
 ## Polychlorure d'aluminium (CAS 1327-41-9) : Votre fabricant et fournisseur de confiance en Chine pour le PAC à haute efficacité
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **polychlorure d'aluminium (PAC)**, nous proposons un produit à **haute efficacité** avec une **teneur en Al₂O₃ de ≥28 % et ≥30 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre PAC est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait un coagulant et un floculant essentiel pour une large gamme d'applications de traitement de l'eau (Code SH : 2827320000).

@@ -26,6 +26,7 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 ---
+
 ## How to Choose a Reliable Oxalic Acid Supplier in China
 
 China is the global powerhouse for [oxalic acid](https://www.sinopeakchem.com/en/blog/what-is-oxalic-acid) production, accounting for more than 70% of the world's total capacity. For international buyers, sourcing from China offers significant cost advantages and supply stability. However, the vast number of manufacturers and exporters can make it challenging to identify a truly reliable partner.
