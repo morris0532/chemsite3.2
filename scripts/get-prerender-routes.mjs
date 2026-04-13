@@ -5,6 +5,7 @@ import matter from 'gray-matter';
 export function getPrerenderRoutes() {
   const contentDir = path.resolve('src/content');
   const locales = ['en', 'ru', 'fr', 'es', 'ar'];
+  const POSTS_PER_PAGE = 12;
   const basePages = [
     '',
     '/products',
@@ -29,16 +30,24 @@ export function getPrerenderRoutes() {
   locales.forEach(locale => {
     const blogDir = path.join(contentDir, locale, 'blog');
     if (fs.existsSync(blogDir)) {
-      fs.readdirSync(blogDir).forEach(file => {
-        if (file.endsWith('.md')) {
-          const fileContent = fs.readFileSync(path.join(blogDir, file), 'utf-8');
-          const { data } = matter(fileContent);
-          if (data.draft !== true) {
-            const slug = data.slug || data.Slug || file.replace('.md', '');
-            routes.push(`/${locale}/blog/${slug}`);
-          }
+      const blogFiles = fs.readdirSync(blogDir).filter(f => f.endsWith('.md'));
+      let activeBlogCount = 0;
+
+      blogFiles.forEach(file => {
+        const fileContent = fs.readFileSync(path.join(blogDir, file), 'utf-8');
+        const { data } = matter(fileContent);
+        if (data.draft !== true) {
+          activeBlogCount++;
+          const slug = data.slug || data.Slug || file.replace('.md', '');
+          routes.push(`/${locale}/blog/${slug}`);
         }
       });
+
+      // Add pagination routes
+      const totalPages = Math.ceil(activeBlogCount / POSTS_PER_PAGE);
+      for (let i = 2; i <= totalPages; i++) {
+        routes.push(`/${locale}/blog/page/${i}`);
+      }
     }
   });
 

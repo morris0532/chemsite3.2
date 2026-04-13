@@ -9,6 +9,7 @@ const distDir = path.resolve('dist');
 const contentDir = path.resolve('src/content');
 const siteConfig = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-config.json'), 'utf-8'));
 const BASE_URL = 'https://www.sinopeakchem.com';
+const POSTS_PER_PAGE = 12;
 
 // Find the main CSS file and its content
 const assetsDir = path.join(distDir, 'assets');
@@ -83,7 +84,8 @@ routes.forEach(route => {
   const routePath = route.startsWith('/') ? route.slice(1) : route;
   const targetFile = path.join(distDir, routePath, 'index.html');
 
-  if (!fs.existsSync(targetFile)) {
+  // Skip if target file doesn't exist (except for pagination pages which we'll create)
+  if (!fs.existsSync(targetFile) && !route.includes('/blog/page/')) {
     console.warn(`Target file not found: ${targetFile}`);
     return;
   }
@@ -192,7 +194,7 @@ routes.forEach(route => {
       }
     }
   } 
-  else if (parts.length === 2) {
+  else if (parts.length === 2 || (parts.length === 4 && parts[1] === 'blog' && parts[2] === 'page')) {
     const page = parts[1];
     if (page === 'products') {
       title = `Industrial Chemical Products | Oxalic Acid, Caustic Soda & More`;
@@ -217,10 +219,17 @@ routes.forEach(route => {
         </section>
       `;
     } else if (page === 'blog') {
-      title = `Blog - Chemical Industry Insights and Product Guides`;
-      description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team.`;
+      const allBlogPosts = contentMetadata[locale].blog.sort((a, b) => new Date(b.date) - new Date(a.date));
+      const totalPages = Math.ceil(allBlogPosts.length / POSTS_PER_PAGE);
       
-      const blogHtml = contentMetadata[locale].blog.map(b => `
+      // Handle both /blog and /blog/page/N
+      const currentPage = parts.length === 4 ? parseInt(parts[3]) : 1;
+      
+      const start = (currentPage - 1) * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      const currentPosts = allBlogPosts.slice(start, end);
+
+      const blogHtml = currentPosts.map(b => `
         <div class="blog-post-card">
           <h3>${b.title}</h3>
           <p>${b.date}</p>
@@ -228,6 +237,17 @@ routes.forEach(route => {
         </div>
       `).join('');
 
+      const paginationHtml = `
+        <div class="pagination" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
+          ${currentPage > 1 ? `<a href="/${locale}/blog/${currentPage === 2 ? '' : 'page/' + (currentPage - 1)}">← Previous</a>` : ''}
+          <span>Page ${currentPage} of ${totalPages}</span>
+          ${currentPage < totalPages ? `<a href="/${locale}/blog/page/${currentPage + 1}">Next →</a>` : ''}
+        </div>
+      `;
+
+      title = `Blog - Chemical Industry Insights (Page ${currentPage})`;
+      description = `Read the latest industry news, product guides, and technical articles about industrial chemicals from Sinopeakchem's expert team. Page ${currentPage}.`;
+      
       contentHtml = `
         <section class="blog-header">
           <h1>${title}</h1>
@@ -235,10 +255,10 @@ routes.forEach(route => {
         </section>
         <section class="blog-list">
           <div class="blog-grid">${blogHtml}</div>
+          ${paginationHtml}
         </section>
       `;
     } else if (page === 'about' || page === 'contact') {
-      // Simplified for brevity, same logic as original
       title = page === 'about' ? 'About Us' : 'Contact Us';
       description = 'Contact Sinopeakchem for high-quality chemical products.';
       contentHtml = `<section><h1>${title}</h1><p>${description}</p></section>`;
@@ -270,14 +290,30 @@ routes.forEach(route => {
   }
 
   if (title || description) {
-    let html = fs.readFileSync(targetFile, 'utf-8');
-
-    const rootPlaceholder = '<div id="root"></div>';
-    if (contentHtml && html.includes(rootPlaceholder)) {
-      html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
+    // For pagination pages, we might need to use the base blog/index.html as template
+    const templateFile = route.includes('/blog/page/') 
+      ? path.join(distDir, locale, 'blog', 'index.html')
+      : targetFile;
+      
+    if (!fs.existsSync(templateFile)) {
+      console.warn(`Template file not found: ${templateFile}`);
+      return;
     }
 
-    // Inject LCP Preload (only if not already in template)
+    let html = fs.readFileSync(templateFile, 'utf-8');
+
+    const rootPlaceholder = '<div id="root"></div>';
+    const loadedPlaceholder = /<div id="root" class="loaded">[\s\S]*?<\/div>/i;
+    
+    if (contentHtml) {
+      if (html.includes(rootPlaceholder)) {
+        html = html.replace(rootPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
+      } else if (loadedPlaceholder.test(html)) {
+        html = html.replace(loadedPlaceholder, `<div id="root" class="loaded">${contentHtml}</div>`);
+      }
+    }
+
+    // Inject LCP Preload
     if (lcpImage && !html.includes(lcpImage)) {
       const preloadTag = `\n    <link rel="preload" as="image" href="${lcpImage}" fetchpriority="high">`;
       html = html.replace(/<\/head>/i, `${preloadTag}\n  </head>`);
@@ -293,7 +329,6 @@ routes.forEach(route => {
     const availableLocales = ['en', 'ru', 'fr', 'es', 'ar'];
     let hreflangTags = '\n';
     
-    // Determine the path without locale
     const pathWithoutLocale = parts.slice(1).join('/');
     const suffix = pathWithoutLocale ? `/${pathWithoutLocale}` : '';
 
@@ -301,9 +336,10 @@ routes.forEach(route => {
       const href = `${BASE_URL}/${l}${suffix}`;
       hreflangTags += `    <link rel="alternate" hreflang="${l}" href="${href}" />\n`;
     });
-    // Add x-default (usually English for B2B)
     hreflangTags += `    <link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${suffix}" />`;
     
+    // Remove existing hreflang tags to avoid duplication
+    html = html.replace(/<link rel="alternate" hreflang=".*?" href=".*?" \/>/g, '');
     html = html.replace(/<\/head>/i, `${hreflangTags}\n  </head>`);
 
     // Inject JSON-LD
@@ -322,6 +358,14 @@ routes.forEach(route => {
           html = html.replace(jsTag, '');
           html = html.replace('</body>', `  ${jsTag}\n  </body>`);
         }
+      }
+    }
+
+    // Ensure directory exists for pagination
+    if (route.includes('/blog/page/')) {
+      const targetDir = path.dirname(targetFile);
+      if (!fs.existsSync(targetDir)) {
+        fs.mkdirSync(targetDir, { recursive: true });
       }
     }
 
