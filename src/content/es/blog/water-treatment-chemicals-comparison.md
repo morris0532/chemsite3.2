@@ -23,8 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
-rootnotouch: comparacion-quimicos-para-tratamiento-de-agua
-slug: comparacion-quimicos-para-tratamiento-de-agua
+rootnotouch: water-treatment-chemicals-comparison
+slug: water-treatment-chemicals-comparison
 ---
 
 ## Introducción
