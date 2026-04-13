@@ -1,5 +1,4 @@
 ---
-
 Id: SP-af3e9tcu7c
 rootnotouch: caustic-soda-alumina-production-deep-dive
 slug: caustic-soda-alumina-production-deep-dive

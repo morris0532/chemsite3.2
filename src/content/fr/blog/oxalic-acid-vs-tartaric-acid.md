@@ -1,5 +1,4 @@
 ---
-
 Id: SP-0indihyteg
 rootnotouch: oxalic-acid-vs-tartaric-acid
 slug: oxalic-acid-vs-tartaric-acid

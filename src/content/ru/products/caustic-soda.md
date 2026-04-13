@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: caustic-soda
 image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: Щелочные продукты
@@ -43,7 +42,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Премиальные хлопья и гранулы каустической соды для химической переработки,
   очистки воды и производственных отраслей.
-slug: kausticheskaya-soda
+slug: caustic-soda
 specs:
 - label: Химическая формула
   value: NaOH

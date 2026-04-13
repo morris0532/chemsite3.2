@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sodium-metabisulphite
 image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
 category: Compuestos de Azufre

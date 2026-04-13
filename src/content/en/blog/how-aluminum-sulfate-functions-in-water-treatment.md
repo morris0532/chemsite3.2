@@ -1,5 +1,4 @@
 ---
-
 Id: SP-tfpaqatyca
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
 slug: how-aluminum-sulfate-functions-in-water-treatment

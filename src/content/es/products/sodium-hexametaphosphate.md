@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sodium-hexametaphosphate
 image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
 category: Fosfatos

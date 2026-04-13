@@ -1,5 +1,4 @@
 ---
-
 Id: SP-h15hb12n4s
 rootnotouch: what-is-caustic-soda
 slug: what-is-caustic-soda

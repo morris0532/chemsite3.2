@@ -1,5 +1,4 @@
 ---
-
 Id: SP-praiqpx7ci
 rootnotouch: oxalic-acid-rare-earth-magnets
 slug: oxalic-acid-rare-earth-magnets

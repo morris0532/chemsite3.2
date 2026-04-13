@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: oxalic-acid
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: الأحماض العضوية
@@ -47,7 +46,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: حمض الأكساليك (حمض الإيثانيدويك) عالي النقاء للشراء بالجملة والتصدير
   من الصين. ضروري لاستخراج العناصر الأرضية النادرة، وصباغة المنسوجات، وتنظيف المعادن.
   مورد موثوق بأسعار تنافسية.
-slug: حمض-الأكساليك
+slug: oxalic-acid
 specs:
 - label: الصيغة الكيميائية
   value: H₂C₂O₄·2H₂O

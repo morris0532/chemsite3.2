@@ -1,5 +1,4 @@
 ---
-
 Id: SP-lbwtwkegcz
 rootnotouch: caustic-soda-textile-industry-deep-dive
 slug: caustic-soda-textile-industry-deep-dive

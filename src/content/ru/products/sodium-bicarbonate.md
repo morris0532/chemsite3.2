@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sodium-bicarbonate
 image: /images/products/sodium-bicarbonate-cas-144-55-8-sinopeakchem.webp
 category: Щелочные продукты

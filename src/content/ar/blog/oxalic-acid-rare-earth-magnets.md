@@ -1,5 +1,4 @@
 ---
-
 Id: SP-7hiyfxiowe
 rootnotouch: oxalic-acid-rare-earth-magnets
 slug: oxalic-acid-rare-earth-magnets

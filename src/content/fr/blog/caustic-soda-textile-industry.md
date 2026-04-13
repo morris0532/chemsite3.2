@@ -1,5 +1,4 @@
 ---
-
 Id: SP-y98mkysql3
 rootnotouch: caustic-soda-textile-industry
 slug: caustic-soda-textile-industry

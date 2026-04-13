@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: caustic-soda
 image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: Productos Alcalinos
@@ -59,7 +58,7 @@ shortDescription: Escamas y perlas de Soda Cáustica (Hidróxido de Sodio) de al
   para compra al por mayor y exportación desde China. Proveedor líder para aplicaciones
   industriales que incluyen papel, textiles y tratamiento de agua. Pureza del 99%
   disponible.
-slug: soda-caustica
+slug: caustic-soda
 specs:
 - label: Fórmula Química
   value: NaOH

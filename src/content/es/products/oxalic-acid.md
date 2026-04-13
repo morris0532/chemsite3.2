@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: oxalic-acid
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: Ácidos Orgánicos
@@ -55,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido Oxálico (Ácido Etanodioico) de alta pureza para compra al
   por mayor y exportación desde China. Esencial para la extracción de tierras raras,
   teñido textil y limpieza de metales. Proveedor confiable con precios competitivos.
-slug: acido-oxalico
+slug: oxalic-acid
 specs:
 - label: Fórmula Química
   value: H₂C₂O₄·2H₂O

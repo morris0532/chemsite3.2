@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sodium-tripolyphosphate
 image: /images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp
 category: Фосфатные соединения

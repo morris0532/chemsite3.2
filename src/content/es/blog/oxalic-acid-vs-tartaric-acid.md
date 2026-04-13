@@ -1,5 +1,4 @@
 ---
-
 Id: SP-a77a0aoads
 rootnotouch: oxalic-acid-vs-tartaric-acid
 slug: oxalic-acid-vs-tartaric-acid

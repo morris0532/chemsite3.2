@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: caustic-soda
 image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: المنتجات القلوية
@@ -48,7 +47,7 @@ ports: تشينغداو / تيانجين / داليان
 shortDescription: الصودا الكاوية عالية النقاء (هيدروكسيد الصوديوم) في شكل رقائق وحبيبات
   للشراء بالجملة والتصدير من الصين. مورد رائد للتطبيقات الصناعية بما في ذلك الورق
   والمنسوجات ومعالجة المياه. يتوفر نقاء 99%.
-slug: الصودا-الكاوية
+slug: caustic-soda
 specs:
 - label: الصيغة الكيميائية
   value: NaOH

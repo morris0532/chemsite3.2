@@ -1,5 +1,4 @@
 ---
-
 Id: SP-hbuh4ad1fs
 rootnotouch: caustic-soda-textile-industry-deep-dive
 slug: caustic-soda-textile-industry-deep-dive

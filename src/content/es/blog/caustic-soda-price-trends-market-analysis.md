@@ -1,5 +1,4 @@
 ---
-
 Id: SP-qd1o3pmork
 rootnotouch: caustic-soda-price-trends-market-analysis
 slug: caustic-soda-price-trends-market-analysis

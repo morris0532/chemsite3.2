@@ -1,5 +1,4 @@
 ---
-
 Id: SP-yyp680hw8g
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
 slug: how-aluminum-sulfate-functions-in-water-treatment

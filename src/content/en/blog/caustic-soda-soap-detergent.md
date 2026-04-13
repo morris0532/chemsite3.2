@@ -1,5 +1,4 @@
 ---
-
 Id: SP-h6viaw1385
 rootnotouch: caustic-soda-soap-detergent
 slug: caustic-soda-soap-detergent

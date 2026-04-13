@@ -1,5 +1,4 @@
 ---
-
 Id: SP-9pmnw75895
 rootnotouch: oxalic-acid-mining-rare-earth
 slug: oxalic-acid-mining-rare-earth

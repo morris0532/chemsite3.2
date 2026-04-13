@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sodium-thiosulphate
 image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 category: Compuestos de Azufre

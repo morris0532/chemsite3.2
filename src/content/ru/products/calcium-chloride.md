@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: calcium-chloride
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: Соединения хлора

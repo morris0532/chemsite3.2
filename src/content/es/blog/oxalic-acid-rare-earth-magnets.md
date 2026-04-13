@@ -1,5 +1,4 @@
 ---
-
 Id: SP-kkx16df0kb
 rootnotouch: oxalic-acid-rare-earth-magnets
 slug: oxalic-acid-rare-earth-magnets

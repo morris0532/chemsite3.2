@@ -1,5 +1,4 @@
 ---
-
 Id: SP-echgx05dp3
 rootnotouch: caustic-soda-alumina-production
 slug: caustic-soda-alumina-production

@@ -1,5 +1,4 @@
 ---
-
 Id: SP-fmx197yelf
 rootnotouch: oxalic-acid-photography
 slug: oxalic-acid-photography

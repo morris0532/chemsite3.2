@@ -1,8 +1,7 @@
 ---
-
 Id: SP-k7y5qyl0s9-ar
 rootnotouch: caustic-soda-applications
-slug: استخدامات-الصودا-الكاوية
+slug: caustic-soda-applications
 title: 'استخدامات الصودا الكاوية: دليل الصناعة الشامل للمشترين B2B'
 description: استكشف الاستخدامات الصناعية المتنوعة للصودا الكاوية (هيدروكسيد الصوديوم) في معالجة المياه، وبطاريات الليثيوم، والمنسوجات، والمزيد.
 image: /images/blog/caustic-soda-applications.webp

@@ -1,5 +1,4 @@
 ---
-
 Id: SP-zwmewjv47n
 rootnotouch: caustic-soda-textile-industry
 slug: caustic-soda-textile-industry

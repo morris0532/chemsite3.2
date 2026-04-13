@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: citric-acid-monohydrate
 image: /images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp
 category: Acides organiques

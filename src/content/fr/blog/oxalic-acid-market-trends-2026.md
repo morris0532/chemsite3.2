@@ -1,5 +1,4 @@
 ---
-
 Id: SP-25is5g7f4d
 rootnotouch: oxalic-acid-market-trends-2026
 slug: oxalic-acid-market-trends-2026

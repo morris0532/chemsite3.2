@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: polyaluminum-chloride
 image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
 category: معالجة المياه

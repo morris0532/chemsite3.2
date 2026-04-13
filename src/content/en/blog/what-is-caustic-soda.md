@@ -1,5 +1,4 @@
 ---
-
 Id: SP-97f8w8j7fj
 rootnotouch: what-is-caustic-soda
 slug: what-is-caustic-soda

@@ -1,5 +1,4 @@
 ---
-
 Id: SP-yy1gbtzfc5
 rootnotouch: oxalic-acid-photography
 slug: oxalic-acid-photography

@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: oxalic-acid
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: Органические кислоты
@@ -43,7 +42,7 @@ packaging: 25 кг/джамбо-мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Высококачественная щавелевая кислота для очистки, отбеливания, удаления
   ржавчины и промышленных химических процессов.
-slug: shchavelevaya-kislota
+slug: oxalic-acid
 specs:
 - label: Химическая формула
   value: C₂H₂O₄·2H₂O

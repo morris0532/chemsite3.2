@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: ammonium-sulphate
 image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 category: Сульфатные соединения

@@ -1,5 +1,4 @@
 ---
-
 Id: SP-a3sdfsosmu
 rootnotouch: water-treatment-chemicals-comparison
 slug: water-treatment-chemicals-comparison

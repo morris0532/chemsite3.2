@@ -1,5 +1,4 @@
 ---
-
 Id: SP-bdtf54qu1m
 rootnotouch: caustic-soda-textile-industry
 slug: caustic-soda-textile-industry

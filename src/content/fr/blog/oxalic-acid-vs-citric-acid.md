@@ -1,5 +1,4 @@
 ---
-
 Id: SP-4s6rvqg3gm
 rootnotouch: oxalic-acid-vs-citric-acid
 slug: oxalic-acid-vs-citric-acid

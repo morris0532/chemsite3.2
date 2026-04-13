@@ -1,5 +1,4 @@
 ---
-
 rootnotouch: sulfamic-acid
 image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
 category: Acides
