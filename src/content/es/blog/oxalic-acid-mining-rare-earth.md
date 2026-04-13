@@ -1,7 +1,7 @@
 ---
 Id: SP-54gcckj8rr
 rootnotouch: oxalic-acid-mining-rare-earth
-Slug: cido-ox-lico-en-la-miner-a-extracci-n-y-purificaci-n-de-elementos-de-tierras
+slug: oxalic-acid-mining-rare-earth
 Excerpt: Explore el papel crítico del ácido oxálico en la industria minera, particularmente
   en la extracción y purificación eficientes de elementos de tierras raras (ETR).
   Esta visión técnica profundiza en sus mecanismos químicos, ventajas sobre los métodos
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Ácido Oxálico en la Minería: Extracción y Purificación de Elementos de Tierras Raras
 
 La demanda global de **elementos de tierras raras (ETR)**, componentes críticos en industrias de alta tecnología que van desde la electrónica hasta la energía renovable, ha impulsado avances significativos en sus tecnologías de extracción y purificación. Entre los diversos agentes químicos empleados, el **ácido oxálico** (H₂C₂O₄) ha surgido como un reactivo altamente efectivo y ambientalmente ventajoso, particularmente en el procesamiento hidrometalúrgico de ETR. Sus propiedades quelantes y precipitantes únicas lo hacen indispensable para separar y refinar estos valiosos metales de cuerpos de mineral complejos.

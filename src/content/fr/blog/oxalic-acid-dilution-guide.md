@@ -1,7 +1,7 @@
 ---
 Id: SP-gzij94szzs
 rootnotouch: oxalic-acid-dilution-guide
-Slug: comment-diluer-l-acide-oxalique-en-toute-s-curit-calcul-de-concentration
+slug: oxalic-acid-dilution-guide
 Excerpt: Un guide complet sur la dilution sécurisée de l'acide oxalique, incluant
   les précautions de sécurité essentielles, les procédures de dilution étape par étape
   et les méthodes de calcul de concentration pour diverses applications. Assurez une
@@ -26,9 +26,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Comment Diluer l'Acide Oxalique en Toute Sécurité : Calcul de Concentration et Guide de Manipulation
 
 L'acide oxalique est un acide organique puissant largement utilisé dans diverses applications industrielles et domestiques, notamment l'élimination de la rouille, le blanchiment du bois et le nettoyage des métaux. Bien que très efficace, il est également corrosif et peut être toxique s'il est mal manipulé. Une dilution appropriée est cruciale non seulement pour obtenir les résultats souhaités, mais, plus important encore, pour assurer la sécurité et prévenir les dommages aux surfaces. Ce guide fournit les précautions de sécurité essentielles, les procédures de dilution étape par étape et les méthodes de calcul de concentration pour travailler en toute sécurité avec l'acide oxalique.

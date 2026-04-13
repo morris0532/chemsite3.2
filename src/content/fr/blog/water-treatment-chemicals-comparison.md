@@ -1,7 +1,7 @@
 ---
 Id: SP-a3sdfsosmu
 rootnotouch: water-treatment-chemicals-comparison
-Slug: comparaison-des-produits-chimiques-de-traitement-de-l-eau-pac-vs-sulfate
+slug: water-treatment-chemicals-comparison
 Excerpt: Comparez les coagulants de traitement de l'eau les plus populaires, notamment
   le polychlorure d'aluminium (PAC), le sulfate d'aluminium et le chlorure ferrique,
   pour trouver la meilleure solution pour vos besoins de traitement de l'eau.
@@ -19,9 +19,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Introduction
 Choisir le bon coagulant est crucial pour un traitement efficace de l'eau. Cet article compare trois options populaires : le PAC, le sulfate d'aluminium et le chlorure ferrique.
 

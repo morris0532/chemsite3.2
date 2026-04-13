@@ -1,7 +1,7 @@
 ---
 Id: SP-3l8j4wbhma
 rootnotouch: oxalic-acid-analytical-chemistry
-Slug: cido-ox-lico-en-la-qu-mica-anal-tica-de-laboratorio-reactivo-esencial
+slug: oxalic-acid-analytical-chemistry
 Excerpt: Descubra el papel fundamental del ácido oxálico como patrón primario y agente
   reductor en diversas técnicas de química analítica, desde la valoración hasta la
   complejometría.
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Ácido Oxálico en la Química Analítica de Laboratorio: Reactivo Esencial
 
 En el ámbito de la química analítica, la precisión y exactitud son primordiales. El **ácido oxálico** (H₂C₂O₄) destaca como un reactivo versátil e indispensable, ampliamente utilizado en diversos análisis cuantitativos y cualitativos. Sus propiedades químicas bien definidas, especialmente su capacidad para actuar como patrón primario y agente reductor, lo convierten en una piedra angular en muchos procedimientos de laboratorio [1].

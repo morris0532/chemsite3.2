@@ -52,7 +52,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido Sulfámico de alta pureza (H3NSO3) para compra al por mayor
   y exportación desde China. Esencial para limpieza, galvanoplastia y aplicaciones
   textiles. Proveedor confiable con precios competitivos.
-Slug: cido-sulf-mico-industrial
+slug: sulfamic-acid
 specs:
 - label: Fórmula química
   value: H₃NSO₃
@@ -70,9 +70,7 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos disponibles
-  value: Qingdao, Tianjin, Dalian (principales puertos de China)
----
-
+  value: Qingdao, Tianjin, Dalian (principales puertos de China)---
 ## Ácido Sulfámico (CAS 5329-14-6): Su proveedor confiable de China para H₃NSO₃ de alta pureza
 
 Como un proveedor líder de **Ácido Sulfámico (H₃NSO₃)** en **China**, ofrecemos un producto de **alta pureza** con **≥99.5% de pureza** para **compra al por mayor** y **exportación** a nivel mundial. Nuestro Ácido Sulfámico cumple con estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones en limpieza, galvanoplastia e industria (Código HS: 2811199090).

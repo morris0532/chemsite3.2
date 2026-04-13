@@ -1,7 +1,7 @@
 ---
 Id: SP-9ejaywq8f7
 rootnotouch: oxalic-acid-environmental-impact
-Slug: impact-environnemental-et-biod-gradabilit-de-l-acide-oxalique
+slug: oxalic-acid-environmental-impact
 Excerpt: Explorez l'empreinte environnementale de l'acide oxalique, sa présence naturelle,
   sa biodégradabilité et les pratiques d'élimination sûres pour garantir une utilisation
   durable dans diverses applications.
@@ -23,9 +23,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Impact Environnemental et Biodégradabilité de l'Acide Oxalique
 
 L'acide oxalique (H₂C₂O₄) est un composé organique naturellement présent dans de nombreuses plantes, notamment les épinards, la rhubarbe et l'oseille. Il est également produit par les champignons et les bactéries, et est un sous-produit métabolique chez les animaux et les humains. Industriellement, il est largement utilisé dans diverses applications, du décapage de la rouille et du blanchiment du bois à l'extraction des terres rares et à la synthèse pharmaceutique. Compte tenu de sa présence généralisée et de ses utilisations diverses, comprendre son **impact environnemental et sa biodégradabilité** est crucial pour les pratiques durables et la gestion responsable des déchets [1].

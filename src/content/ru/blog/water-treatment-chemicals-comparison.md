@@ -1,7 +1,7 @@
 ---
 Id: SP-nmob19fbfp
 rootnotouch: water-treatment-chemicals-comparison
-Slug: pac
+slug: water-treatment-chemicals-comparison
 Excerpt: Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид
   (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд
   водоподготовки.
@@ -19,9 +19,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: CIS & Russia (RU)
----
-
+Target_Region: CIS & Russia (RU)---
 ## Введение
 Выбор правильного коагулянта имеет решающее значение для эффективной водоподготовки. В этой статье сравниваются три популярных варианта: PAC, сульфат алюминия и хлорид железа.
 

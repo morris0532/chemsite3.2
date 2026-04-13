@@ -1,7 +1,7 @@
 ---
 Id: SP-8dpmq1er2c
 rootnotouch: oxalic-acid-marble-polishing
-Slug: acide-oxalique-pour-le-polissage-du-marbre-et-l-entretien-de-la-pierre
+slug: oxalic-acid-marble-polishing
 Excerpt: Découvrez les techniques professionnelles d'utilisation de l'acide oxalique
   pour polir le marbre et entretenir diverses surfaces en pierre. Apprenez-en davantage
   sur son action chimique, ses méthodes d'application, ses précautions de sécurité
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Acide Oxalique pour le Polissage du Marbre et l'Entretien de la Pierre : Meilleures Pratiques
 
 Le marbre et d'autres surfaces en pierre naturelle sont prisés pour leur élégance et leur durabilité, mais ils peuvent perdre de leur éclat avec le temps en raison de la gravure, des rayures et de l'usure générale. L'acide oxalique, un composé organique polyvalent, joue un rôle crucial dans l'entretien professionnel de la pierre, en particulier dans le polissage du marbre pour restaurer son éclat brillant. Ce guide explore les principes chimiques, les techniques d'application et les meilleures pratiques d'utilisation de l'acide oxalique dans le polissage du marbre et l'entretien général de la pierre.

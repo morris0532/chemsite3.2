@@ -1,7 +1,7 @@
 ---
 Id: SP-kkx16df0kb
 rootnotouch: oxalic-acid-rare-earth-magnets
-Slug: cido-ox-lico-en-im-nes-de-tierras-raras-un-componente-cr-tico
+slug: oxalic-acid-rare-earth-magnets
 Excerpt: Descubra el papel vital del ácido oxálico en la producción de imanes de tierras
   raras, particularmente en la separación y purificación de elementos de tierras raras,
   que son esenciales para materiales magnéticos de alto rendimiento.
@@ -21,9 +21,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico
 
 Los imanes de tierras raras, como los imanes de Neodimio-Hierro-Boro (NdFeB), están en el corazón de muchas tecnologías modernas, desde vehículos eléctricos y turbinas eólicas hasta teléfonos inteligentes y dispositivos médicos. Estos potentes imanes dependen de los **elementos de tierras raras (ETR)**, un grupo de 17 elementos metálicos químicamente similares. La extracción eficiente y pura de estos elementos de sus menas es un proceso complejo, y el **ácido oxálico** desempeña un papel crítico y a menudo indispensable en esta sofisticada cadena de suministro [1].

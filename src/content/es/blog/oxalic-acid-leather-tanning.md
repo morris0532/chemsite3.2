@@ -1,7 +1,7 @@
 ---
 Id: SP-t0bhtv7159
 rootnotouch: oxalic-acid-leather-tanning
-Slug: cido-ox-lico-para-curtido-y-te-ido-de-cuero-m-todos-tradicionales-y-modernos
+slug: oxalic-acid-leather-tanning
 Excerpt: Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
   desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas
   para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos
 
 La producción de cuero es un oficio antiguo que se ha evolucionado hasta convertirse en un proceso industrial sofisticado, que depende en gran medida de la química para transformar las pieles crudas en materiales duraderos, flexibles y estéticamente atractivos. Entre la variedad de productos químicos empleados, el ácido oxálico (C₂H₂O₄) desempeña un papel significativo, aunque a menudo tras bambalinas, en varias etapas del curtido y teñido del cuero. Sus propiedades como ácido, agente quelante y agente reductor lo hacen valioso tanto en el procesamiento tradicional como en el moderno del cuero.

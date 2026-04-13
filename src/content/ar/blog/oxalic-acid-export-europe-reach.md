@@ -1,7 +1,7 @@
 ---
 Id: SP-4c51y9hn3u
 rootnotouch: oxalic-acid-export-europe-reach
-Slug: reach
+slug: oxalic-acid-export-europe-reach
 Excerpt: دليل شامل حول تصدير حمض الأكساليك إلى السوق الأوروبية، مع التركيز على لوائح
   REACH، ومعايير الجودة، والوثائق المطلوبة، والخدمات اللوجستية المتوافقة.
 title: 'تصدير حمض الأكساليك إلى أوروبا: الامتثال للوائح REACH والجودة'
@@ -17,9 +17,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## تصدير حمض الأكساليك إلى أوروبا: الامتثال للوائح REACH والجودة
 
 تعد أوروبا سوقاً حيوياً لحمض الأكساليك (H₂C₂O₄)، مع وجود طلب كبير في قطاعات تتراوح من معالجة المعادن والأدوية إلى التنظيف والمنسوجات. ومع ذلك، فإن دخول هذا السوق يتطلب التزاماً صارماً بالمعايير التنظيمية والجودة، وأهمها لائحة **REACH** (تسجيل وتقييم وترخيص وتقييد المواد الكيميائية).

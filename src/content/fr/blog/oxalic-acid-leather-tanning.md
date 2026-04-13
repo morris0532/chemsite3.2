@@ -1,7 +1,7 @@
 ---
 Id: SP-knxgnl4aoz
 rootnotouch: oxalic-acid-leather-tanning
-Slug: acide-oxalique-pour-le-tannage-et-la-teinture-du-cuir-m-thodes-traditionnelles
+slug: oxalic-acid-leather-tanning
 Excerpt: Explorez le rôle vital de l'acide oxalique dans le tannage et la teinture
   du cuir, de son utilisation historique dans les méthodes traditionnelles à ses applications
   modernes pour améliorer la qualité et la couleur du cuir. Découvrez ses fonctions
@@ -23,9 +23,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Acide Oxalique pour le Tannage et la Teinture du Cuir : Méthodes Traditionnelles et Modernes
 
 La production de cuir est un artisanat ancien qui a évolué en un processus industriel sophistiqué, s'appuyant fortement sur la chimie pour transformer les peaux brutes en matériaux durables, flexibles et esthétiques. Parmi l'éventail des produits chimiques employés, l'acide oxalique (C₂H₂O₄) joue un rôle significatif, bien que souvent en coulisses, à diverses étapes du tannage et de la teinture du cuir. Ses propriétés en tant qu'acide, agent chélatant et agent réducteur le rendent précieux dans les processus de traitement du cuir traditionnels et modernes.

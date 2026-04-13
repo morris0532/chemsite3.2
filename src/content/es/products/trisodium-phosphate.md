@@ -54,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Fosfato Trisódico (TSP) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para limpieza, aditivo alimentario y tratamiento
   de aguas. Proveedor confiable con precios competitivos.
-Slug: fosfato-tris-dico-tsp-industrial
+slug: trisodium-phosphate
 specs:
 - label: Fórmula Química
   value: Na₃PO₄
@@ -72,9 +72,7 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
----
-
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)---
 ## Fosfato Trisódico (CAS 7601-54-9): Su proveedor confiable de China para TSP de alta pureza
 
 Como proveedor líder en **China** de **Fosfato Trisódico (TSP)**, ofrecemos un producto de **alta pureza** con **≥98% de pureza** para **compra al por mayor** y **exportación** a nivel mundial. Nuestro TSP se suministra cumpliendo estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia variedad de aplicaciones en limpieza, aditivos alimentarios e industriales (Código HS: 2835299000).

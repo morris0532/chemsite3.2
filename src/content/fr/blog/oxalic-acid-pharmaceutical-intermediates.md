@@ -1,7 +1,7 @@
 ---
 Id: SP-ruxjr7lsw0
 rootnotouch: oxalic-acid-pharmaceutical-intermediates
-Slug: acide-oxalique-dans-les-interm-diaires-pharmaceutiques-un-r-le-cl
+slug: oxalic-acid-pharmaceutical-intermediates
 Excerpt: Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
   et réactif polyvalent dans la synthèse de divers intermédiaires pharmaceutiques,
   soulignant ses propriétés chimiques et ses applications dans la fabrication de médicaments.
@@ -21,9 +21,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Acide Oxalique dans les Intermédiaires Pharmaceutiques : Un Rôle Clé
 
 L'acide oxalique (C₂H₂O₄) est un acide dicarboxylique simple mais puissant qui joue un rôle étonnamment important dans l'industrie pharmaceutique, en particulier dans la synthèse de divers **intermédiaires pharmaceutiques**. Ces intermédiaires sont des blocs de construction cruciaux dans le processus en plusieurs étapes de fabrication de médicaments, et les propriétés chimiques uniques de l'acide oxalique en font un réactif inestimable pour des réactions spécifiques et des étapes de purification.

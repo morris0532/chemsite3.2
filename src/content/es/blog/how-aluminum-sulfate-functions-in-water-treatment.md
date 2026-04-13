@@ -1,7 +1,7 @@
 ---
 Id: SP-yyp680hw8g
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
-Slug: c-mo-funciona-el-sulfato-de-aluminio-en-el-tratamiento-de-agua
+slug: how-aluminum-sulfate-functions-in-water-treatment
 Excerpt: Descubra el papel esencial del sulfato de aluminio en la purificación del
   agua, desde el agua potable hasta el tratamiento de aguas residuales industriales.
 title: Cómo Funciona el Sulfato de Aluminio en el Tratamiento de Agua
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 # El Papel Esencial del Sulfato de Aluminio en el Tratamiento Moderno de Agua
 
 **[Sulfato de aluminio](https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, con la fórmula química Al₂(SO₄)₃ y un peso molecular de 342.15, es un compuesto inorgánico ampliamente reconocido que se presenta como un sólido cristalino blanco. Como un agente químico crítico, su función principal en el tratamiento de agua involucra la generación de partículas coloidales mediante reacciones de hidrólisis. Estas partículas adsorben y precipitan eficazmente sólidos suspendidos, coloides y diversas impurezas disueltas, lo que conduce a una purificación completa del agua. Sus aplicaciones son diversas, abarcando el tratamiento de agua potable, la gestión de aguas residuales industriales, la preparación de agentes de engrase de colofonia en la industria papelera y la descoloración de petróleo.

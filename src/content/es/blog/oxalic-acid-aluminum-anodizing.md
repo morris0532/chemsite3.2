@@ -1,7 +1,7 @@
 ---
 Id: SP-ez9sbyu923
 rootnotouch: oxalic-acid-aluminum-anodizing
-Slug: cido-ox-lico-para-anodizado-de-aluminio-proceso-y-beneficios
+slug: oxalic-acid-aluminum-anodizing
 Excerpt: Descubra el papel crucial del ácido oxálico en el anodizado de aluminio,
   un proceso que mejora la durabilidad, la resistencia a la corrosión y el atractivo
   estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones en diversas
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Ácido Oxálico para Anodizado de Aluminio: Proceso y Beneficios
 
 El anodizado de aluminio es un proceso electroquímico que convierte la superficie del metal en un acabado de óxido anódico decorativo, duradero y resistente a la corrosión. Este proceso se utiliza ampliamente en diversas industrias, desde aeroespacial y automotriz hasta electrónica de consumo y arquitectura, debido a las propiedades mejoradas que aporta al aluminio. Entre los distintos tipos de anodizado, el ácido oxálico juega un papel significativo, especialmente en la producción de recubrimientos duros y resistentes al desgaste con excelentes cualidades estéticas.

@@ -1,7 +1,7 @@
 ---
 Id: SP-bqtf8rv6cw
 rootnotouch: oxalic-acid-aluminum-anodizing
-Slug: acide-oxalique-pour-l-anodisation-de-l-aluminium-processus-et-avantages
+slug: oxalic-acid-aluminum-anodizing
 Excerpt: Découvrez le rôle crucial de l'acide oxalique dans l'anodisation de l'aluminium,
   un processus qui améliore la durabilité, la résistance à la corrosion et l'attrait
   esthétique de l'aluminium. Apprenez son mécanisme, ses avantages et ses applications
@@ -23,9 +23,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Acide Oxalique pour l'Anodisation de l'Aluminium : Processus et Avantages
 
 L'anodisation de l'aluminium est un processus électrochimique qui convertit la surface métallique en une finition d'oxyde anodique décorative, durable et résistante à la corrosion. Ce processus est largement utilisé dans diverses industries, de l'aérospatiale et de l'automobile à l'électronique grand public et à l'architecture, en raison des propriétés améliorées qu'il confère à l'aluminium. Parmi les différents types d'anodisation, l'acide oxalique joue un rôle important, en particulier dans la production de revêtements durs, résistants à l'usure et dotés d'excellentes qualités esthétiques.

@@ -54,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido Oxálico (Ácido Etanodioico) de alta pureza para compra al
   por mayor y exportación desde China. Esencial para la extracción de tierras raras,
   teñido textil y limpieza de metales. Proveedor confiable con precios competitivos.
-Slug: cido-ox-lico-industrial
+slug: oxalic-acid
 specs:
 - label: Fórmula Química
   value: H₂C₂O₄·2H₂O
@@ -72,9 +72,7 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos Disponibles
-  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
----
-
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)---
 ## Ácido Oxálico (CAS 144-62-7 / 6153-56-6): Su proveedor confiable de China para Ácido Etanodioico de alta pureza
 
 Como un proveedor **líder en China** de **Ácido Oxálico (H₂C₂O₄·2H₂O)**, también conocido como **Ácido Etanodioico**, ofrecemos un producto de **alta pureza** con **≥99.6% de pureza** para **compras al por mayor** y **exportación** a todo el mundo. Nuestro Ácido Oxálico se suministra cumpliendo con estrictos estándares internacionales de calidad, convirtiéndolo en una materia prima esencial para una amplia variedad de aplicaciones industriales (Código HS: 2917111000).

@@ -28,7 +28,7 @@ packaging: 25KG/50KG bags
 ports: Dalian
 shortDescription: Borax industriel pour la fabrication du verre, la céramique, les
   détergents et les applications métallurgiques.
-Slug: borax-industrial
+slug: borax
 specs:
 - label: Formule chimique
   value: Na₂B₄O₇·10H₂O
@@ -45,9 +45,7 @@ specs:
 - label: Chargement
   value: 27 MT par conteneur 20GP
 - label: Ports disponibles
-  value: Dalian
----
-
+  value: Dalian---
 Le borax (Na₂B₄O₇·10H₂O), également connu sous le nom de borate de sodium, est un sel inorganique de haute performance largement reconnu pour ses capacités exceptionnelles de nettoyage, de tamponnage et de fluxage. C'est un ingrédient vital dans la supply d'agents de nettoyage, de produits chimiques industriels et de divers autres produits. Notre borax est fabriqué selon des normes élevées de pureté et de cohérence, garantissant des performances optimales dans les applications industrielles et domestiques.
 
 Dans l'**industrie du nettoyage et des détergents**, le borax est un « booster de nettoyage » et un « adoucisseur d'eau » primaire. Il agit en séquestrant les ions calcium et magnésium dans l'eau dure, les empêchant d'interférer avec l'action des tensioactifs. Cela garantit que les détergents peuvent fonctionner efficacement même dans des conditions d'eau difficiles, améliorant ainsi le pouvoir de nettoyage global. Il est également utilisé comme **agent tampon** pour contrôler le pH de diverses formulations de nettoyage et comme **agent désodorisant** pour éliminer les odeurs de diverses surfaces.

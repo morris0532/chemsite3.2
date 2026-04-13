@@ -1,7 +1,7 @@
 ---
 Id: SP-4s6rvqg3gm
 rootnotouch: oxalic-acid-vs-citric-acid
-Slug: acide-oxalique-vs-acide-citrique-une-analyse-comparative
+slug: oxalic-acid-vs-citric-acid
 Excerpt: Une analyse comparative de l'acide oxalique et de l'acide citrique, mettant
   en évidence leurs propriétés chimiques, leurs applications industrielles et domestiques,
   leurs profils de sécurité et leurs considérations environnementales. Comprenez quel
@@ -25,9 +25,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Acide Oxalique vs Acide Citrique : Une Analyse Comparative
 
 L'acide oxalique et l'acide citrique sont deux acides organiques largement utilisés dans diverses applications industrielles et domestiques. Bien qu'ils partagent certaines similitudes en tant qu'acides carboxyliques, leurs structures chimiques et propriétés distinctes conduisent à des utilisations primaires, une efficacité et des considérations de sécurité différentes. Comprendre ces différences est crucial pour choisir l'acide approprié pour une tâche spécifique, qu'il s'agisse de nettoyage, de transformation alimentaire ou d'applications industrielles.

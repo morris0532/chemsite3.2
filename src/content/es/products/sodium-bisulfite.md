@@ -54,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Bisulfito de sodio (NaHSO3) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para el tratamiento de agua, conservación de
   alimentos y procesamiento textil. Proveedor confiable con precios competitivos.
-Slug: bisulfito-de-sodio-industrial
+slug: sodium-bisulfite
 specs:
 - label: Fórmula química
   value: NaHSO₃
@@ -72,9 +72,7 @@ specs:
 - label: Carga
   value: 25MT por contenedor 20GP (FCL)
 - label: Puertos disponibles
-  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
----
-
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)---
 ## Bisulfito de sodio (CAS 7631-90-5): Su proveedor confiable de China para NaHSO₃ de alta pureza
 
 Como proveedor líder en **China** de **bisulfito de sodio (NaHSO₃)**, ofrecemos un producto de **alta pureza** con **≥97% de pureza** para **compra al por mayor** y **exportación** a nivel mundial. Nuestro bisulfito de sodio cumple con estrictos estándares internacionales de calidad, siendo una materia prima esencial en una amplia gama de aplicaciones en tratamiento de agua, conservación de alimentos e industrias diversas (Código HS: 2832100000).

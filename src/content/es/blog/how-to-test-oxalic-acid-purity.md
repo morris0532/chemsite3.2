@@ -1,7 +1,7 @@
 ---
 Id: SP-x6yumk43er
 rootnotouch: how-to-test-oxalic-acid-purity
-Slug: c-mo-probar-la-pureza-del-cido-ox-lico-una-gu-a-completa
+slug: how-to-test-oxalic-acid-purity
 Excerpt: Descubra los métodos esenciales para probar la pureza del ácido oxálico,
   incluyendo la titulación con permanganato de potasio, la determinación del punto
   de fusión y el análisis espectroscópico. Asegure la calidad y seguridad para sus
@@ -21,9 +21,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Cómo Probar la Pureza del Ácido Oxálico: Una Guía Completa
 
 El ácido oxálico es un compuesto orgánico fundamental con diversas aplicaciones en industrias que van desde productos farmacéuticos y textiles hasta la limpieza de metales y la [extracción de tierras raras](/es/blog/oxalic-acid-rare-earth-extraction). La pureza del ácido oxálico es primordial, ya que las impurezas pueden afectar significativamente su rendimiento, seguridad y la calidad de los productos finales. Asegurar la pureza del ácido oxálico a través de métodos de prueba confiables es un aspecto crítico del control de calidad. Esta guía profundizará en las técnicas más comunes y efectivas para evaluar la pureza del ácido oxálico, proporcionando una visión general completa para los profesionales de la industria.

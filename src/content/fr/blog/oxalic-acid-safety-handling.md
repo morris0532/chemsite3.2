@@ -1,7 +1,7 @@
 ---
 Id: SP-xkuygkxk3q
 rootnotouch: oxalic-acid-safety-handling
-Slug: s-curit-et-manipulation-de-l-acide-oxalique-un-guide-complet
+slug: oxalic-acid-safety-handling
 Excerpt: Un guide complet pour manipuler l'acide oxalique en toute sécurité. Apprenez-en
   davantage sur ses propriétés, ses dangers potentiels, l'EPI essentiel, le stockage
   approprié, les premiers secours et les procédures d'élimination des déchets pour
@@ -21,9 +21,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Francophone Africa & EU (FR)
----
-
+Target_Region: Francophone Africa & EU (FR)---
 ## Sécurité et Manipulation de l'Acide Oxalique : Un Guide Complet
 
 L'acide oxalique est un composé organique polyvalent largement utilisé dans diverses industries, de l'élimination de la rouille et du blanchiment du bois au traitement des textiles et à l'extraction des terres rares. Bien que très efficace, c'est aussi une substance corrosive qui nécessite une manipulation soigneuse pour prévenir les accidents et garantir un environnement de travail sûr. Ce guide complet fournit des informations essentielles sur les propriétés de l'acide oxalique, les dangers potentiels, l'équipement de protection individuelle (EPI) nécessaire, le stockage approprié, les mesures de premiers secours et l'élimination sûre des déchets.

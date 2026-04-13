@@ -1,7 +1,7 @@
 ---
 Id: SP-azrispxqgm
 rootnotouch: oxalic-acid-uses
-Slug: 15
+slug: oxalic-acid-uses
 Excerpt: اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
   واستخراج العناصر الأرضية النادرة، والأدوية، وتربية النحل، والمزيد.
 title: 'أهم 15 استخداماً صناعياً لحمض الأكساليك: دليل شامل'
@@ -16,9 +16,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: MENA Region (AR)
----
-
+Target_Region: MENA Region (AR)---
 ## تنوع استخدامات حمض الأكساليك
 
 يعد حمض الأكساليك (H₂C₂O₄) حمضاً عضوياً بسيطاً ولكنه قوي، وله تطبيقات واسعة في مختلف الصناعات العالمية. من التنظيف المنزلي إلى استخراج المعادن المتقدمة، تلعب خصائصه الكيميائية دوراً حيوياً.

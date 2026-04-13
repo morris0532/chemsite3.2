@@ -1,7 +1,7 @@
 ---
 Id: SP-i1xp44t4oa
 rootnotouch: oxalic-acid-environmental-impact
-Slug: impacto-ambiental-y-biodegradabilidad-del-cido-ox-lico
+slug: oxalic-acid-environmental-impact
 Excerpt: Explore la huella ambiental del ácido oxálico, su presencia natural, biodegradabilidad
   y prácticas seguras de eliminación para garantizar un uso sostenible en diversas
   aplicaciones.
@@ -22,9 +22,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Impacto Ambiental y Biodegradabilidad del Ácido Oxálico
 
 El ácido oxálico (H₂C₂O₄) es un compuesto orgánico de origen natural que se encuentra en muchas plantas, incluyendo espinaca, ruibarbo y acedera. También es producido por hongos y bacterias, y es un subproducto metabólico en animales y humanos. Industrialmente, se utiliza ampliamente en diversas aplicaciones, desde la eliminación de óxido y blanqueo de madera hasta la extracción de tierras raras y la síntesis farmacéutica. Dada su presencia generalizada y variados usos, entender su **impacto ambiental y biodegradabilidad** es crucial para prácticas sostenibles y una gestión responsable de residuos [1].

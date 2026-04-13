@@ -59,7 +59,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros
   et l'exportation depuis la Chine. Essentiel pour les engrais, les additifs alimentaires
   et les applications industrielles. Fabricant de confiance avec des prix compétitifs.
-Slug: chlorure-d-ammonium-industrial
+slug: ammonium-chloride
 specs:
 - label: Formule chimique
   value: NH₄Cl
@@ -77,9 +77,7 @@ specs:
 - label: Chargement
   value: 25-27 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
----
-
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
 ## Chlorure d'ammonium (CAS 12125-02-9) : Votre fabricant et fournisseur de confiance en Chine pour le NH₄Cl de haute qualité
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure d'ammonium (NH₄Cl)**, nous proposons un produit de **haute qualité** avec une **pureté ≥99,5 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure d'ammonium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui le rend idéal pour une large gamme d'applications industrielles, agricoles et alimentaires (Code SH : 2827101000).

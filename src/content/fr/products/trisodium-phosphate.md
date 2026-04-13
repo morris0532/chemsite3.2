@@ -58,7 +58,7 @@ shortDescription: Phosphate de trisodium (TSP) de haute pureté pour l'achat en 
   et l'exportation depuis la Chine. Essentiel pour le nettoyage, les additifs alimentaires
   et les applications de traitement de l'eau. Fabricant de confiance avec des prix
   compétitifs.
-Slug: phosphate-de-trisodium-tsp-industrial
+slug: trisodium-phosphate
 specs:
 - label: Formule chimique
   value: Na₃PO₄
@@ -76,9 +76,7 @@ specs:
 - label: Chargement
   value: 25 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
----
-
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
 ## Phosphate de trisodium (CAS 7601-54-9) : Votre fabricant et fournisseur de confiance en Chine pour le TSP de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **phosphate de trisodium (TSP)**, nous proposons un produit de **haute pureté** avec une **pureté ≥98%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre TSP est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de nettoyage, d'additifs alimentaires et industrielles (Code SH : 2835299000).

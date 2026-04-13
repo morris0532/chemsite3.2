@@ -61,7 +61,7 @@ shortDescription: Soude caustique (hydroxyde de sodium) de haute pureté en éca
   et en perles pour l'achat en gros et l'exportation depuis la Chine. Fabricant leader
   pour les applications industrielles, notamment le papier, le textile et le traitement
   de l'eau. Pureté de 99 % disponible.
-Slug: soude-caustique-industrial
+slug: caustic-soda
 specs:
 - label: Formule chimique
   value: NaOH
@@ -79,9 +79,7 @@ specs:
 - label: Chargement
   value: 25-27 MT par conteneur 20GP (FCL)
 - label: Ports disponibles
-  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
----
-
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)---
 ## Soude caustique (CAS 1310-73-2) : Votre fabricant et fournisseur de confiance en Chine pour l'hydroxyde de sodium de haute pureté
 
 En tant que **fabricant et fournisseur leader en Chine** de **soude caustique (NaOH)**, également connue sous le nom d'**hydroxyde de sodium**, nous fournissons des **écailles et des perles de haute pureté** avec une **pureté ≥99 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre soude caustique est produite à l'aide d'une technologie avancée de cellules à membrane, garantissant une qualité constante qui répond aux applications industrielles les plus exigeantes (Code SH : 2815110000).

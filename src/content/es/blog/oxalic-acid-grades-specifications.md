@@ -1,7 +1,7 @@
 ---
 Id: SP-5nnt9k7crj
 rootnotouch: oxalic-acid-grades-specifications
-Slug: grados-y-especificaciones-del-cido-ox-lico-una-revisi-n-profunda
+slug: oxalic-acid-grades-specifications
 Excerpt: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
   grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,
   los indicadores físico-químicos y las normas internacionales relevantes para elegir
@@ -21,9 +21,7 @@ tag: null
 Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
-Target_Region: Latin America & Spain (ES)
----
-
+Target_Region: Latin America & Spain (ES)---
 ## Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda
 
 El ácido oxálico (C₂H₂O₄) es un ácido dicarboxílico con una amplia gama de aplicaciones en diversas industrias, desde la eliminación de óxido y el procesamiento textil hasta la extracción de tierras raras y la síntesis farmacéutica. Sin embargo, no todo el ácido oxálico es igual. Diferentes aplicaciones requieren niveles específicos de pureza y propiedades físico-químicas, lo que conduce a la clasificación del ácido oxálico en varios grados. Comprender estos grados y sus especificaciones es crucial para garantizar el desempeño del producto, la seguridad y el cumplimiento normativo.
