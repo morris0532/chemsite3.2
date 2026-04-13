@@ -1,7 +1,5 @@
 ---
 Id: SP-yuax5oc0ll
-rootnotouch: caustic-soda-alumina-production-deep-dive
-slug: caustic-soda-alumina-production-deep-dive
 title: >-
   Caustic Soda in Alumina Production: The Bayer Process Explained for Industrial
   Buyers
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-alumina-production-deep-dive
+slug: caustic-soda-alumina-production-deep-dive
 ---
 
 The **Bayer process** is the primary industrial method for refining bauxite ore into alumina (aluminum oxide), which is then used to produce aluminum metal. This complex hydrometallurgical process relies heavily on **caustic soda (sodium hydroxide, NaOH)** as its main chemical reagent. Understanding the intricate role of caustic soda in each stage of the Bayer process is crucial for B2B buyers and alumina producers aiming for optimal efficiency, cost-effectiveness, and environmental compliance.

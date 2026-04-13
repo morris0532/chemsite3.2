@@ -1,84 +1,97 @@
 ---
-rootnotouch: sodium-thiosulphate
+name: Thiosulfate de sodium (Hypo)
+cas: 7772-98-7 / 10102-17-7
+hsCode: '2832300000'
 image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 category: Composés du soufre
+rootnotouch: sodium-thiosulphate
 applications:
-- Traitement de l'eau (déchloration, élimination des métaux lourds)
-- Photographie (agent de fixage)
-- Médical (antidote pour l'empoisonnement au cyanure)
-- Industrie textile (agent réducteur, blanchiment)
-- Analyse chimique (titrant)
-- Tannage du cuir
-cas: 7772-98-7 / 10102-17-7
+  - 'Traitement de l''eau (déchloration, élimination des métaux lourds)'
+  - Photographie (agent de fixage)
+  - Médical (antidote pour l'empoisonnement au cyanure)
+  - 'Industrie textile (agent réducteur, blanchiment)'
+  - Analyse chimique (titrant)
+  - Tannage du cuir
 faqs:
-- answer: Nous sommes un fabricant et fournisseur leader de thiosulfate de sodium
-    en Chine, proposant les formes anhydre et pentahydratée avec une pureté ≥99%.
-    Les deux qualités sont disponibles pour l'achat en gros et l'exportation, répondant
-    aux divers besoins de l'industrie.
-  question: Quelles qualités de thiosulfate de sodium fournissez-vous pour les commandes
-    en gros ?
-- answer: Notre thiosulfate de sodium (Na₂S₂O₃) est disponible avec une pureté minimale
-    de 99% pour les formes anhydre et pentahydratée. Nous assurons un contrôle qualité
-    strict pour répondre aux normes internationales pour toutes les applications.
-  question: Quelle est la pureté typique de vos produits de thiosulfate de sodium
-    ?
-- answer: Pour l'exportation, notre thiosulfate de sodium est généralement emballé
-    dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus
-    pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également
-    disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage
-    personnalisées peuvent être organisées.
-  question: Comment le thiosulfate de sodium est-il emballé pour l'expédition internationale
-    depuis la Chine ?
-- answer: Notre thiosulfate de sodium de qualité industrielle est largement utilisé
-    dans le traitement de l'eau comme agent de déchloration, dans la photographie
-    comme agent de fixage et dans l'industrie textile comme agent réducteur. Sa polyvalence
-    en fait un produit chimique clé.
-  question: Quelles sont les principales applications de votre thiosulfate de sodium
-    de qualité industrielle ?
-- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
-    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
-    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
-    de manipulation. Ceux-ci sont disponibles sur demande.
-  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-    de sécurité (MSDS) pour le thiosulfate de sodium ?
-- answer: Le délai de livraison standard pour les commandes en gros de thiosulfate
-    de sodium est généralement de 7 à 15 jours après la confirmation de la commande,
-    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
-    d'assurer une logistique efficace et une livraison rapide depuis les principaux
-    ports chinois.
-  question: Quel est le délai de livraison pour les commandes en gros de thiosulfate
-    de sodium de votre usine ?
+  - answer: >-
+      Nous sommes un fabricant et fournisseur leader de thiosulfate de sodium en
+      Chine, proposant les formes anhydre et pentahydratée avec une pureté ≥99%.
+      Les deux qualités sont disponibles pour l'achat en gros et l'exportation,
+      répondant aux divers besoins de l'industrie.
+    question: >-
+      Quelles qualités de thiosulfate de sodium fournissez-vous pour les
+      commandes en gros ?
+  - answer: >-
+      Notre thiosulfate de sodium (Na₂S₂O₃) est disponible avec une pureté
+      minimale de 99% pour les formes anhydre et pentahydratée. Nous assurons un
+      contrôle qualité strict pour répondre aux normes internationales pour
+      toutes les applications.
+    question: Quelle est la pureté typique de vos produits de thiosulfate de sodium ?
+  - answer: >-
+      Pour l'exportation, notre thiosulfate de sodium est généralement emballé
+      dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE,
+      conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT)
+      sont également disponibles pour les expéditions en vrac plus importantes.
+      Des solutions d'emballage personnalisées peuvent être organisées.
+    question: >-
+      Comment le thiosulfate de sodium est-il emballé pour l'expédition
+      internationale depuis la Chine ?
+  - answer: >-
+      Notre thiosulfate de sodium de qualité industrielle est largement utilisé
+      dans le traitement de l'eau comme agent de déchloration, dans la
+      photographie comme agent de fixage et dans l'industrie textile comme agent
+      réducteur. Sa polyvalence en fait un produit chimique clé.
+    question: >-
+      Quelles sont les principales applications de votre thiosulfate de sodium
+      de qualité industrielle ?
+  - answer: >-
+      Oui, nous fournissons une documentation complète pour chaque expédition, y
+      compris un certificat d'analyse (COA) détaillant les spécifications du
+      produit et une fiche de données de sécurité (MSDS) pour les directives de
+      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
+    question: >-
+      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+      de sécurité (MSDS) pour le thiosulfate de sodium ?
+  - answer: >-
+      Le délai de livraison standard pour les commandes en gros de thiosulfate
+      de sodium est généralement de 7 à 15 jours après la confirmation de la
+      commande, selon la taille de la commande et le calendrier de supply
+      actuel. Nous nous efforçons d'assurer une logistique efficace et une
+      livraison rapide depuis les principaux ports chinois.
+    question: >-
+      Quel est le délai de livraison pour les commandes en gros de thiosulfate
+      de sodium de votre usine ?
 featured: false
-hsCode: '2832300000'
 id: '1'
 loading: 25MT/20GP
-name: Thiosulfate de sodium (Hypo)
 nameCn: 硫代硫酸钠
 packaging: Sacs de 25KG/Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Thiosulfate de sodium (Na2S2O3) de haute pureté pour l'achat en
-  gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la
-  photographie et les applications médicales. Fabricant de confiance avec des prix
-  compétitifs.
+shortDescription: >-
+  Thiosulfate de sodium (Na2S2O3) de haute pureté pour l'achat en gros et
+  l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la
+  photographie et les applications médicales. Fabricant de confiance avec des
+  prix compétitifs.
 slug: sodium-thiosulphate
 specs:
-- label: Formule chimique
-  value: Na₂S₂O₃·5H₂O
-- label: Numéro CAS
-  value: 7772-98-7 / 10102-17-7
-- label: Code SH
-  value: '2832300000'
-- label: Pureté
-  value: ≥99% (Anhydre/Pentahydraté)
-- label: Apparence
-  value: Poudre cristalline blanche/cristaux
-- label: Emballage
-  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
-    personnalisé disponible.
-- label: Chargement
-  value: 25 MT par conteneur 20GP (FCL)
-- label: Ports disponibles
-value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+  - label: Formule chimique
+    value: Na₂S₂O₃·5H₂O
+  - label: Numéro CAS
+    value: 7772-98-7 / 10102-17-7
+  - label: Code SH
+    value: '2832300000'
+  - label: Pureté
+    value: ≥99% (Anhydre/Pentahydraté)
+  - label: Apparence
+    value: Poudre cristalline blanche/cristaux
+  - label: Emballage
+    value: >-
+      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
+      Emballage personnalisé disponible.
+  - label: Chargement
+    value: 25 MT par conteneur 20GP (FCL)
+  - label: Ports disponibles
+value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
 ---
 
 ## Thiosulfate de sodium (CAS 7772-98-7 / 10102-17-7) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂S₂O₃ de haute pureté

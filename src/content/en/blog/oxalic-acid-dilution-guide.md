@@ -1,7 +1,5 @@
 ---
 Id: SP-0k2yz1qfw7
-rootnotouch: oxalic-acid-dilution-guide
-slug: oxalic-acid-dilution-guide
 Excerpt: >-
   A comprehensive guide on safely diluting oxalic acid, including essential
   safety precautions, step-by-step dilution procedures, and concentration
@@ -26,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-dilution-guide
+slug: oxalic-acid-dilution-guide
 ---
 
 ## How to Safely Dilute Oxalic Acid: Concentration Calculation & Handling Guide

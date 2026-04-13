@@ -1,7 +1,5 @@
 ---
 Id: SP-jv0n0fwobc
-rootnotouch: caustic-soda-petroleum-refining
-slug: caustic-soda-petroleum-refining
 title: >-
   Caustic Soda in Petroleum Refining: Essential for Desulfurization &
   Neutralization
@@ -21,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-petroleum-refining
+slug: caustic-soda-petroleum-refining
 ---
 
 The **petroleum refining industry** is a cornerstone of global energy, transforming crude oil into a wide array of valuable products like gasoline, diesel, jet fuel, and petrochemical feedstocks. This complex process involves numerous chemical and physical transformations, many of which rely on the precise application of specialized chemicals. Among these, **caustic soda (sodium hydroxide, NaOH)** stands out as a critical reagent, playing an indispensable role in enhancing product quality, preventing corrosion, and ensuring environmental compliance.

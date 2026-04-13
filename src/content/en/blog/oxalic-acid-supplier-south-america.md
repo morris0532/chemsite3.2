@@ -1,7 +1,5 @@
 ---
 Id: SP-ex01qgtg6n
-rootnotouch: oxalic-acid-supplier-south-america
-slug: oxalic-acid-supplier-south-america
 Excerpt: >-
   SinoPeakChem is your reliable oxalic acid supplier for the dynamic South
   American market, serving key nations like Brazil, Chile, and Colombia with
@@ -26,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-supplier-south-america
+slug: oxalic-acid-supplier-south-america
 ---
 
 ## Oxalic Acid Supplier for South America Market: Brazil, Chile & Colombia

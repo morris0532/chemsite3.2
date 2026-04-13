@@ -1,18 +1,19 @@
 ---
 Id: SP-5nnt9k7crj
-rootnotouch: oxalic-acid-grades-specifications
-slug: oxalic-acid-grades-specifications
-Excerpt: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
-  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,
-  los indicadores físico-químicos y las normas internacionales relevantes para elegir
-  el producto adecuado para su aplicación.
+Excerpt: >-
+  Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
+  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de
+  pureza, los indicadores físico-químicos y las normas internacionales
+  relevantes para elegir el producto adecuado para su aplicación.
 title: 'Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda'
-description: Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
-  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de pureza,
-  los indicadores físico-químicos y las normas internacionales relevantes para elegir
-  el producto adecuado para su aplicación.
+description: >-
+  Explore los diferentes grados y especificaciones del ácido oxálico, incluyendo
+  grados industriales, alimentarios y farmacéuticos. Comprenda los requisitos de
+  pureza, los indicadores físico-químicos y las normas internacionales
+  relevantes para elegir el producto adecuado para su aplicación.
 image: /images/blog/oxalic-acid-grades-specifications.webp
-imageAlt: Un laboratorio profesional con vasos de precipitados que contienen diferentes
+imageAlt: >-
+  Un laboratorio profesional con vasos de precipitados que contienen diferentes
   grados de muestras de ácido oxálico y un Certificado de Análisis.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -22,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-grades-specifications
+slug: oxalic-acid-grades-specifications
 ---
 
 ## Grados y Especificaciones del Ácido Oxálico: Una Revisión Profunda

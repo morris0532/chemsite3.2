@@ -1,7 +1,5 @@
 ---
 Id: SP-2rs39es16n
-rootnotouch: caustic-soda-pharmaceutical-manufacturing
-slug: caustic-soda-pharmaceutical-manufacturing
 title: >-
   Caustic Soda in Pharmaceutical Manufacturing: Synthesis, Purification &
   Cleaning
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-pharmaceutical-manufacturing
+slug: caustic-soda-pharmaceutical-manufacturing
 ---
 
 The **pharmaceutical manufacturing industry** operates under the most rigorous standards of purity, precision, and regulatory compliance. Every chemical used in this sector, from active pharmaceutical ingredients (APIs) to processing aids, must meet exceptionally high specifications. Within this demanding environment, **pharmaceutical-grade caustic soda (sodium hydroxide, NaOH)** plays a crucial, multifaceted role, contributing to various stages of drug production and facility maintenance.

@@ -1,11 +1,11 @@
 ---
+name: Tri-Sodium Citrate (TSC)
+cas: 68-04-2
+hsCode: '2918150000'
 image: /images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp
 category: Citrates
 id: '10'
-name: Tri-Sodium Citrate (TSC)
 nameCn: 柠檬酸三钠
-cas: 68-04-2
-hsCode: '2918150000'
 slug: tri-sodium-citrate-tsc
 shortDescription: >-
   High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China.

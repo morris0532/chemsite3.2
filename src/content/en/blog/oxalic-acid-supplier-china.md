@@ -1,7 +1,5 @@
 ---
 Id: SP-8voqp9xxl2
-rootnotouch: oxalic-acid-supplier-china
-slug: oxalic-acid-supplier-china
 title: >-
   How to Choose a Reliable Oxalic Acid Supplier in China: A Complete Buyer's
   Guide
@@ -21,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-supplier-china
+slug: oxalic-acid-supplier-china
 ---
 
 ## How to Choose a Reliable Oxalic Acid Supplier in China

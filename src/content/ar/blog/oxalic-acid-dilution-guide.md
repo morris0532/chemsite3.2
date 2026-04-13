@@ -1,12 +1,12 @@
 ---
 Id: SP-g7vy437j22
-rootnotouch: oxalic-acid-dilution-guide
-slug: oxalic-acid-dilution-guide
-Excerpt: تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل
+Excerpt: >-
+  تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل
   احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.
 title: 'دليل تخفيف حمض الأكساليك: إرشادات الأمان والتركيز'
-description: تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا
-  الدليل احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.
+description: >-
+  تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل
+  احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.
 image: /images/blog/oxalic-acid-dilution-guide.webp
 imageAlt: صورة توضح عملية تخفيف مادة كيميائية في مخبار مدرج مع ارتداء قفازات واقية
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-dilution-guide
+slug: oxalic-acid-dilution-guide
 ---
 
 ## دليل تخفيف حمض الأكساليك: إرشادات الأمان والتركيز

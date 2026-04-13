@@ -1,7 +1,5 @@
 ---
 Id: SP-zlooorcsc2
-rootnotouch: how-to-test-oxalic-acid-purity
-slug: how-to-test-oxalic-acid-purity
 Excerpt: >-
   Discover the essential methods for testing oxalic acid purity, including
   titration with potassium permanganate, melting point determination, and
@@ -25,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: how-to-test-oxalic-acid-purity
+slug: how-to-test-oxalic-acid-purity
 ---
 
 ## How to Test Oxalic Acid Purity: A Comprehensive Guide

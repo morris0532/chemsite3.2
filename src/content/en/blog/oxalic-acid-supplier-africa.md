@@ -1,7 +1,5 @@
 ---
 Id: SP-bwm0z03g5d
-rootnotouch: oxalic-acid-supplier-africa
-slug: oxalic-acid-supplier-africa
 Excerpt: >-
   SinoPeakChem is your dedicated oxalic acid supplier for the African market,
   serving key nations like South Africa, Egypt, and Nigeria with quality
@@ -26,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-supplier-africa
+slug: oxalic-acid-supplier-africa
 ---
 
 ## Oxalic Acid Supplier for Africa Market: South Africa, Egypt & Nigeria

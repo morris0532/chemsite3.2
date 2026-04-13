@@ -1,11 +1,11 @@
 ---
+name: Borax
+cas: 1303-96-4
+hsCode: '2840190000'
 image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
 category: Boron Compounds
 id: '21'
-name: Borax
 nameCn: 硼砂
-cas: 1303-96-4
-hsCode: '2840190000'
 slug: borax
 shortDescription: >-
   Industrial borax for glass supply, ceramics, detergents, and metallurgical

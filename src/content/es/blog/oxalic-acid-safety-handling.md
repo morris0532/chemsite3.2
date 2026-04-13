@@ -1,19 +1,20 @@
 ---
 Id: SP-jzusrelx6t
-rootnotouch: oxalic-acid-safety-handling
-slug: oxalic-acid-safety-handling
-Excerpt: Una guía completa para manejar el ácido oxálico de forma segura. Conozca
-  sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento
-  adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar
-  un entorno de trabajo seguro.
+Excerpt: >-
+  Una guía completa para manejar el ácido oxálico de forma segura. Conozca sus
+  propiedades, riesgos potenciales, equipo de protección personal esencial,
+  almacenamiento adecuado, primeros auxilios y procedimientos de eliminación de
+  desechos para garantizar un entorno de trabajo seguro.
 title: 'Seguridad y Manejo del Ácido Oxálico: Una Guía Completa'
-description: Una guía completa para manejar el ácido oxálico de forma segura. Conozca
-  sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento
-  adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar
-  un entorno de trabajo seguro.
+description: >-
+  Una guía completa para manejar el ácido oxálico de forma segura. Conozca sus
+  propiedades, riesgos potenciales, equipo de protección personal esencial,
+  almacenamiento adecuado, primeros auxilios y procedimientos de eliminación de
+  desechos para garantizar un entorno de trabajo seguro.
 image: /images/blog/oxalic-acid-safety-handling.webp
-imageAlt: Una persona usando EPP adecuado (gafas, guantes, bata de laboratorio) manipulando
-  productos químicos en un laboratorio, enfatizando la seguridad.
+imageAlt: >-
+  Una persona usando EPP adecuado (gafas, guantes, bata de laboratorio)
+  manipulando productos químicos en un laboratorio, enfatizando la seguridad.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Seguridad y Cumplimiento
@@ -22,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-safety-handling
+slug: oxalic-acid-safety-handling
 ---
 
 ## Seguridad y Manejo del Ácido Oxálico: Una Guía Completa

@@ -1,15 +1,16 @@
 ---
 Id: SP-m0pe79vqo9
-rootnotouch: oxalic-acid-comprehensive-guide
-slug: oxalic-acid-comprehensive-guide
-Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, ses
-  processus de production, la gestion de la sécurité, les stratégies environnementales
-  et les perspectives du marché.
-title: 'Acide Oxalique : Guide Complet sur les Applications Industrielles, la Production
-  et les Tendances du Marché'
-description: Explorez les diverses applications industrielles de l'acide oxalique,
-  ses processus de production, la gestion de la sécurité, les stratégies environnementales
-  et les perspectives du marché.
+Excerpt: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, ses
+  processus de production, la gestion de la sécurité, les stratégies
+  environnementales et les perspectives du marché.
+title: >-
+  Acide Oxalique : Guide Complet sur les Applications Industrielles, la
+  Production et les Tendances du Marché
+description: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, ses
+  processus de production, la gestion de la sécurité, les stratégies
+  environnementales et les perspectives du marché.
 image: /images/blog/oxalic-acid-industrial-guide.webp
 imageAlt: Cristaux d'acide oxalique de haute pureté dans un cadre industriel
 Date: '2026-04-10'
@@ -20,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-comprehensive-guide
+slug: oxalic-acid-comprehensive-guide
 ---
 
 ## Acide Oxalique : Une Analyse Complète et Perspectives d'Avenir

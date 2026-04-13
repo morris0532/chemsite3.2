@@ -1,7 +1,5 @@
 ---
 Id: SP-h6viaw1385
-rootnotouch: caustic-soda-soap-detergent
-slug: caustic-soda-soap-detergent
 Excerpt: >-
   Discover the fundamental role of caustic soda (sodium hydroxide) in the
   production of soaps and detergents, from the saponification process to its use
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-soap-detergent
+slug: caustic-soda-soap-detergent
 ---
 
 The **soap and detergent industry** is a cornerstone of modern hygiene and cleanliness, providing essential products for personal care, household cleaning, and industrial applications. At the heart of many of these formulations, particularly in traditional soap making, lies **caustic soda (sodium hydroxide, NaOH)**. This powerful alkali is fundamental to the chemical reaction that transforms fats and oils into soap, a process known as saponification. Beyond traditional soaps, caustic soda also plays a significant role in the formulation of various detergents and cleaning agents.

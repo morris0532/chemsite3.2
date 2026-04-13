@@ -1,20 +1,21 @@
 ---
 Id: SP-qgejftkici
-rootnotouch: oxalic-acid-photography
-slug: oxalic-acid-photography
-Excerpt: Explorez le rôle historique de l'acide oxalique dans les processus photographiques,
-  des premières impressions au platine et au palladium à ses applications modernes
-  en virage et en gravure. Comprenez sa fonction chimique et les considérations de
-  sécurité.
+Excerpt: >-
+  Explorez le rôle historique de l'acide oxalique dans les processus
+  photographiques, des premières impressions au platine et au palladium à ses
+  applications modernes en virage et en gravure. Comprenez sa fonction chimique
+  et les considérations de sécurité.
 title: 'Acide Oxalique en Photographie : Usage Historique et Pertinence Moderne'
-description: Explorez le rôle historique de l'acide oxalique dans les processus photographiques,
-  des premières impressions au platine et au palladium à ses applications modernes
-  en virage et en gravure. Comprenez sa fonction chimique et les considérations de
-  sécurité.
+description: >-
+  Explorez le rôle historique de l'acide oxalique dans les processus
+  photographiques, des premières impressions au platine et au palladium à ses
+  applications modernes en virage et en gravure. Comprenez sa fonction chimique
+  et les considérations de sécurité.
 image: /images/blog/oxalic-acid-photography.webp
-imageAlt: Une scène de chambre noire photographique vintage, avec du vieux matériel
-  photographique, des bacs de développement et des tirages, transmettant à la fois
-  l'usage historique et la pertinence moderne en chimie photographique.
+imageAlt: >-
+  Une scène de chambre noire photographique vintage, avec du vieux matériel
+  photographique, des bacs de développement et des tirages, transmettant à la
+  fois l'usage historique et la pertinence moderne en chimie photographique.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Spécialisées
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-photography
+slug: oxalic-acid-photography
 ---
 
 ## Acide Oxalique en Photographie : Usage Historique et Pertinence Moderne

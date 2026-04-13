@@ -1,11 +1,11 @@
 ---
+name: Sodium Sulfate Anhydrous (SSA)
+cas: 7757-82-6
+hsCode: '2833110000'
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: Sulfates
 id: '6'
-name: Sodium Sulfate Anhydrous (SSA)
 nameCn: 元明粉
-cas: 7757-82-6
-hsCode: '2833110000'
 slug: sodium-sulfate-anhydrous-ssa
 shortDescription: >-
   High-purity Sodium Sulfate Anhydrous (Na2SO4) for bulk purchase and export

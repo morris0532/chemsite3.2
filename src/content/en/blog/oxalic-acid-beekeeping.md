@@ -1,7 +1,5 @@
 ---
 Id: SP-mwm26zlvpt
-rootnotouch: oxalic-acid-beekeeping
-slug: oxalic-acid-beekeeping
 Excerpt: >-
   A comprehensive guide to using oxalic acid for varroa mite control in
   beekeeping. Learn about application methods, dosage, timing, effectiveness,
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-beekeeping
+slug: oxalic-acid-beekeeping
 ---
 
 ## Oxalic Acid in Beekeeping: Uses, Benefits & Precautions

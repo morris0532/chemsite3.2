@@ -1,20 +1,22 @@
 ---
 Id: SP-vu8f7lth01
-rootnotouch: oxalic-acid-comprehensive-guide
-slug: oxalic-acid-comprehensive-guide
-Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
-  de producción, gestión de seguridad, estrategias ambientales y perspectivas futuras
-  del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta pureza para
-  distintas industrias.
-title: 'Ácido Oxálico: Una Guía Integral sobre Aplicaciones Industriales, Producción
-  y Tendencias del Mercado'
-description: Explore las diversas aplicaciones industriales del ácido oxálico, sus
-  procesos de producción, gestión de seguridad, estrategias ambientales y perspectivas
-  futuras del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta pureza
-  para distintas industrias.
+Excerpt: >-
+  Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
+  de producción, gestión de seguridad, estrategias ambientales y perspectivas
+  futuras del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta
+  pureza para distintas industrias.
+title: >-
+  Ácido Oxálico: Una Guía Integral sobre Aplicaciones Industriales, Producción y
+  Tendencias del Mercado
+description: >-
+  Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
+  de producción, gestión de seguridad, estrategias ambientales y perspectivas
+  futuras del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta
+  pureza para distintas industrias.
 image: /images/blog/oxalic-acid-industrial-guide.webp
-imageAlt: Cristales de ácido oxálico de alta pureza en un entorno industrial, simbolizando
-  sus diversas aplicaciones y producción.
+imageAlt: >-
+  Cristales de ácido oxálico de alta pureza en un entorno industrial,
+  simbolizando sus diversas aplicaciones y producción.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Guía de Producto
@@ -23,6 +25,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-comprehensive-guide
+slug: oxalic-acid-comprehensive-guide
 ---
 
 ## Ácido Oxálico: Un Análisis Integral y Perspectivas Futuras

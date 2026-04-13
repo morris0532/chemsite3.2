@@ -1,11 +1,11 @@
 ---
 Id: SP-5f86k9wx2a
-rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: how-to-choose-right-caustic-soda-grade
-Excerpt: مقارنة بين قشور الصودا الكاوية وحبيباتها (نقاء 99%). تعرف على كيفية اختيار
+Excerpt: >-
+  مقارنة بين قشور الصودا الكاوية وحبيباتها (نقاء 99%). تعرف على كيفية اختيار
   الدرجة الصحيحة لهيدروكسيد الصوديوم للمنسوجات والصابون ومعالجة المياه.
 title: كيفية اختيار درجة الصودا الكاوية المناسبة لصناعتك
-description: مقارنة بين قشور الصودا الكاوية وحبيباتها (نقاء 99%). تعرف على كيفية اختيار
+description: >-
+  مقارنة بين قشور الصودا الكاوية وحبيباتها (نقاء 99%). تعرف على كيفية اختيار
   الدرجة الصحيحة لهيدروكسيد الصوديوم للمنسوجات والصابون ومعالجة المياه.
 image: /images/blog/how-to-choose-right-caustic-soda-grade.webp
 imageAlt: درجات مختلفة من حبيبات وقشور الصودا الكاوية
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: how-to-choose-right-caustic-soda-grade
+slug: how-to-choose-right-caustic-soda-grade
 ---
 
 # كيفية اختيار درجة الصودا الكاوية المناسبة لصناعتك

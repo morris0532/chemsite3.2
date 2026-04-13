@@ -1,20 +1,21 @@
 ---
 Id: SP-i1xp44t4oa
-rootnotouch: oxalic-acid-environmental-impact
-slug: oxalic-acid-environmental-impact
-Excerpt: Explore la huella ambiental del ácido oxálico, su presencia natural, biodegradabilidad
-  y prácticas seguras de eliminación para garantizar un uso sostenible en diversas
-  aplicaciones.
+Excerpt: >-
+  Explore la huella ambiental del ácido oxálico, su presencia natural,
+  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso
+  sostenible en diversas aplicaciones.
 title: Impacto Ambiental y Biodegradabilidad del Ácido Oxálico
-description: Explore la huella ambiental del ácido oxálico, su presencia natural,
-  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso sostenible
-  en diversas aplicaciones.
+description: >-
+  Explore la huella ambiental del ácido oxálico, su presencia natural,
+  biodegradabilidad y prácticas seguras de eliminación para garantizar un uso
+  sostenible en diversas aplicaciones.
 image: /images/blog/oxalic-acid-environmental-impact.webp
-imageAlt: Una imagen profesional y limpia que representa la ciencia ambiental. Muestra
-  un laboratorio con científicos analizando muestras de agua o suelo, o un ecosistema
-  natural sereno con vegetación exuberante y agua clara, integrando sutilmente elementos
-  que sugieren biodegradabilidad o investigación ambiental. Enfatiza la sostenibilidad
-  y el rigor científico. Alta calidad, resolución 4k.
+imageAlt: >-
+  Una imagen profesional y limpia que representa la ciencia ambiental. Muestra
+  un laboratorio con científicos analizando muestras de agua o suelo, o un
+  ecosistema natural sereno con vegetación exuberante y agua clara, integrando
+  sutilmente elementos que sugieren biodegradabilidad o investigación ambiental.
+  Enfatiza la sostenibilidad y el rigor científico. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Sostenibilidad y Seguridad
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-environmental-impact
+slug: oxalic-acid-environmental-impact
 ---
 
 ## Impacto Ambiental y Biodegradabilidad del Ácido Oxálico

@@ -1,11 +1,11 @@
 ---
+name: Sodium Tripolyphosphate (STPP)
+cas: 7758-29-4
+hsCode: '2835319000'
 image: /images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp
 category: Phosphates
 id: '5'
-name: Sodium Tripolyphosphate (STPP)
 nameCn: 三聚磷酸钠
-cas: 7758-29-4
-hsCode: '2835319000'
 slug: sodium-tripolyphosphate-stpp
 shortDescription: >-
   High-purity Sodium Tripolyphosphate (STPP) for bulk purchase and export from

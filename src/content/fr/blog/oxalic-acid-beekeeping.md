@@ -1,16 +1,17 @@
 ---
 Id: SP-h2qjeeorwb
-rootnotouch: oxalic-acid-beekeeping
-slug: oxalic-acid-beekeeping
-Excerpt: Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
-  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le calendrier,
-  l'efficacité et la sécurité pour les abeilles et le miel.
+Excerpt: >-
+  Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
+  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le
+  calendrier, l'efficacité et la sécurité pour les abeilles et le miel.
 title: 'Acide Oxalique en Apiculture : Utilisations, Avantages et Précautions'
-description: Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle
-  du varroa en apiculture. Découvrez les méthodes d'application, le dosage, le calendrier,
-  l'efficacité et la sécurité pour les abeilles et le miel.
+description: >-
+  Un guide complet sur l'utilisation de l'acide oxalique pour le contrôle du
+  varroa en apiculture. Découvrez les méthodes d'application, le dosage, le
+  calendrier, l'efficacité et la sécurité pour les abeilles et le miel.
 image: /images/blog/oxalic-acid-beekeeping.webp
-imageAlt: Une image professionnelle et claire d'un apiculteur en tenue de protection
+imageAlt: >-
+  Une image professionnelle et claire d'un apiculteur en tenue de protection
   appliquant soigneusement un traitement à l'acide oxalique à une ruche.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -20,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-beekeeping
+slug: oxalic-acid-beekeeping
 ---
 
 ## Acide Oxalique en Apiculture : Utilisations, Avantages et Précautions

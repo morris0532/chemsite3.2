@@ -1,23 +1,25 @@
 ---
 Id: SP-n0fsqle00e
-rootnotouch: oxalic-acid-supplier-south-asia
-slug: oxalic-acid-supplier-south-asia
-Excerpt: SinoPeakChem es un proveedor líder de ácido oxálico para el mercado de Asia
-  Meridional, atendiendo a países clave como India, Pakistán y Bangladesh con productos
-  de calidad para el teñido textil, la industria del cuero y diversas aplicaciones
-  químicas.
-title: 'Proveedor de Ácido Oxálico para el Mercado de Asia Meridional: India, Pakistán
-  y Bangladesh'
-description: SinoPeakChem es un proveedor líder de ácido oxálico para el mercado de
-  Asia Meridional, atendiendo a países clave como India, Pakistán y Bangladesh con
-  productos de calidad para el teñido textil, la industria del cuero y diversas aplicaciones
-  químicas.
+Excerpt: >-
+  SinoPeakChem es un proveedor líder de ácido oxálico para el mercado de Asia
+  Meridional, atendiendo a países clave como India, Pakistán y Bangladesh con
+  productos de calidad para el teñido textil, la industria del cuero y diversas
+  aplicaciones químicas.
+title: >-
+  Proveedor de Ácido Oxálico para el Mercado de Asia Meridional: India, Pakistán
+  y Bangladesh
+description: >-
+  SinoPeakChem es un proveedor líder de ácido oxálico para el mercado de Asia
+  Meridional, atendiendo a países clave como India, Pakistán y Bangladesh con
+  productos de calidad para el teñido textil, la industria del cuero y diversas
+  aplicaciones químicas.
 image: /images/blog/oxalic-acid-supplier-south-asia.webp
-imageAlt: Una imagen profesional y clara que muestra un mapa de Asia Meridional, destacando
-  países como India, Pakistán y Bangladesh, con sutiles superposiciones de rutas comerciales
-  químicas, paisajes industriales o actividades portuarias. Se enfatiza la importancia
-  económica de la región y la importación/exportación de productos químicos. Alta
-  calidad, resolución 4k.
+imageAlt: >-
+  Una imagen profesional y clara que muestra un mapa de Asia Meridional,
+  destacando países como India, Pakistán y Bangladesh, con sutiles
+  superposiciones de rutas comerciales químicas, paisajes industriales o
+  actividades portuarias. Se enfatiza la importancia económica de la región y la
+  importación/exportación de productos químicos. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
@@ -26,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-supplier-south-asia
+slug: oxalic-acid-supplier-south-asia
 ---
 
 ## Proveedor de Ácido Oxálico para el Mercado de Asia Meridional: India, Pakistán y Bangladesh

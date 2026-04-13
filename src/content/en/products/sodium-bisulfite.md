@@ -1,11 +1,11 @@
 ---
+name: Sodium Bisulfite
+cas: 7631-90-5
+hsCode: '2832100000'
 image: /images/products/sodium-bisulfite-cas-7631-90-5-sinopeakchem.webp
 category: Sulfur Compounds
 id: '20'
-name: Sodium Bisulfite
 nameCn: 亚硫酸氢钠
-cas: 7631-90-5
-hsCode: '2832100000'
 slug: sodium-bisulfite
 shortDescription: >-
   High-purity Sodium Bisulfite (NaHSO3) for bulk purchase and export from China.

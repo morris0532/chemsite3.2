@@ -1,7 +1,5 @@
 ---
 Id: SP-6logp2mqqj
-rootnotouch: oxalic-acid-vs-tartaric-acid
-slug: oxalic-acid-vs-tartaric-acid
 Excerpt: >-
   Delve into the distinctions between oxalic acid and tartaric acid, two
   naturally occurring organic acids. This article compares their chemical
@@ -30,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-vs-tartaric-acid
+slug: oxalic-acid-vs-tartaric-acid
 ---
 
 # Oxalic Acid vs. Tartaric Acid: Understanding the Differences

@@ -1,12 +1,12 @@
 ---
 Id: SP-tm6c3p8vvx
-rootnotouch: oxalic-acid-packaging-storage
-slug: oxalic-acid-packaging-storage
-Excerpt: دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك
-  لضمان طول عمر المنتج وسلامة التعامل معه.
+Excerpt: >-
+  دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك لضمان
+  طول عمر المنتج وسلامة التعامل معه.
 title: 'تعبئة وتخزين حمض الأكساليك: أفضل الممارسات للجودة والسلامة'
-description: دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك
-  لضمان طول عمر المنتج وسلامة التعامل معه.
+description: >-
+  دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك لضمان
+  طول عمر المنتج وسلامة التعامل معه.
 image: /images/blog/oxalic-acid-packaging-storage.webp
 imageAlt: مستودع كيميائي منظم جيداً مع أكياس حمض الأكساليك المخزنة على منصات نقالة
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-packaging-storage
+slug: oxalic-acid-packaging-storage
 ---
 
 ## تعبئة وتخزين حمض الأكساليك: ضمان الجودة والسلامة

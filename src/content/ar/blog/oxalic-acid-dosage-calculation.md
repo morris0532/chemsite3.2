@@ -1,14 +1,15 @@
 ---
 Id: SP-0a35zaiuw5
-rootnotouch: oxalic-acid-dosage-calculation
-slug: oxalic-acid-dosage-calculation
-Excerpt: دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف
+Excerpt: >-
+  دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف
   التطبيقات الصناعية والمنزلية، بما في ذلك الملارية والتخفيف.
 title: 'حساب جرعة حمض الأكساليك: الصيغ والأمثلة العملية'
-description: دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف
+description: >-
+  دليل تقني حول كيفية حساب الجرعات والتراكيز الصحيحة لحمض الأكساليك لمختلف
   التطبيقات الصناعية والمنزلية، بما في ذلك الملارية والتخفيف.
 image: /images/blog/oxalic-acid-dosage-calculation.webp
-imageAlt: صورة لميزان رقمي دقيق وأدوات زجاجية مخبرية تستخدم في حساب وقياس الجرعات
+imageAlt: >-
+  صورة لميزان رقمي دقيق وأدوات زجاجية مخبرية تستخدم في حساب وقياس الجرعات
   الكيميائية
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-dosage-calculation
+slug: oxalic-acid-dosage-calculation
 ---
 
 ## حساب جرعة حمض الأكساليك: الصيغ والأمثلة العملية

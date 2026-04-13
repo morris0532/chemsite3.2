@@ -1,7 +1,5 @@
 ---
 Id: SP-wr9gpmzt57
-rootnotouch: caustic-soda-food-processing
-slug: caustic-soda-food-processing
 Excerpt: >-
   Explore the critical role of caustic soda (sodium hydroxide) in the food
   industry, from cleaning and sanitization to pH adjustment and peeling,
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-food-processing
+slug: caustic-soda-food-processing
 ---
 
 The **food processing industry** is a complex and highly regulated sector, demanding stringent standards for hygiene, quality, and safety. Within this environment, **caustic soda (sodium hydroxide, NaOH)** plays a surprisingly versatile and critical role. While often associated with industrial applications, food-grade caustic soda is indispensable for tasks ranging from the thorough cleaning and sanitization of equipment to precise pH adjustment in various food products and even the efficient peeling of fruits and vegetables.

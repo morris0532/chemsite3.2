@@ -1,11 +1,11 @@
 ---
+name: Soda Ash (Sodium Carbonate)
+cas: 497-19-8
+hsCode: '2836200000'
 image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
 category: Alkali Products
 id: '7'
-name: Soda Ash (Sodium Carbonate)
 nameCn: 纯碱
-cas: 497-19-8
-hsCode: '2836200000'
 slug: soda-ash-sodium-carbonate
 shortDescription: >-
   High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and

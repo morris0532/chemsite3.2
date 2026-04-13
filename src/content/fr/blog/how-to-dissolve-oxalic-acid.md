@@ -1,19 +1,20 @@
 ---
 Id: SP-vilfg06xq0
-rootnotouch: how-to-dissolve-oxalic-acid
-slug: how-to-dissolve-oxalic-acid
-Excerpt: Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
-  diverses applications industrielles et domestiques. Ce guide couvre les précautions
-  de sécurité essentielles, les matériaux requis, les instructions étape par étape
-  et des conseils d'experts pour des résultats optimaux.
+Excerpt: >-
+  Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
+  diverses applications industrielles et domestiques. Ce guide couvre les
+  précautions de sécurité essentielles, les matériaux requis, les instructions
+  étape par étape et des conseils d'experts pour des résultats optimaux.
 title: 'Comment Dissoudre Correctement l''Acide Oxalique : Un Guide Étape par Étape'
-description: Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique
-  pour diverses applications industrielles et domestiques. Ce guide couvre les précautions
-  de sécurité essentielles, les matériaux requis, les instructions étape par étape
-  et des conseils d'experts pour des résultats optimaux.
+description: >-
+  Apprenez la méthode correcte et sûre pour dissoudre l'acide oxalique pour
+  diverses applications industrielles et domestiques. Ce guide couvre les
+  précautions de sécurité essentielles, les matériaux requis, les instructions
+  étape par étape et des conseils d'experts pour des résultats optimaux.
 image: /images/blog/how-to-dissolve-oxalic-acid.webp
-imageAlt: Personne en blouse de laboratoire et gants bleus ajoutant soigneusement
-  des cristaux d'acide oxalique à de l'eau dans un bécher
+imageAlt: >-
+  Personne en blouse de laboratoire et gants bleus ajoutant soigneusement des
+  cristaux d'acide oxalique à de l'eau dans un bécher
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Guide
@@ -22,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: how-to-dissolve-oxalic-acid
+slug: how-to-dissolve-oxalic-acid
 ---
 
 ## Comment Dissoudre Correctement l'Acide Oxalique : Un Guide Étape par Étape

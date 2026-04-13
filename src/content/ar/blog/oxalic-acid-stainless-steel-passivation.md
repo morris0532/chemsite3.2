@@ -1,12 +1,12 @@
 ---
 Id: SP-a9ygx18ur6
-rootnotouch: oxalic-acid-stainless-steel-passivation
-slug: oxalic-acid-stainless-steel-passivation
-Excerpt: اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
+Excerpt: >-
+  اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
   المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
 title: 'تخميل الفولاذ المقاوم للصدأ بحمض الأكساليك: بديل أكثر أمانًا وفعالية'
-description: اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل
-  الفولاذ المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
+description: >-
+  اكتشف لماذا يعتبر حمض الأكساليك بديلاً متفوقًا للأحماض القوية في تخميل الفولاذ
+  المقاوم للصدأ، مما يعزز مقاومة التآكل مع فوائد بيئية وسلامة أفضل.
 image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
 imageAlt: سطح لامع ومقاوم للتآكل لجزء من الفولاذ المقاوم للصدأ بعد عملية التخميل
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-stainless-steel-passivation
+slug: oxalic-acid-stainless-steel-passivation
 ---
 
 ## ما هو تخميل الفولاذ المقاوم للصدأ ولماذا هو ضروري؟

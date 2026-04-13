@@ -1,51 +1,54 @@
 ---
-rootnotouch: borax
+name: Borax
+cas: 1303-96-4
+hsCode: '2840190000'
 image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
 category: Composés de bore
+rootnotouch: borax
 applications:
-- Fabrication de verre et de fibre de verre
-- supply de céramique et d'émail
-- Détergents et produits de nettoyage
-- Flux métallurgique
-- Insecticide et herbicide
-- Ignifuge
-cas: 1303-96-4
+  - Fabrication de verre et de fibre de verre
+  - supply de céramique et d'émail
+  - Détergents et produits de nettoyage
+  - Flux métallurgique
+  - Insecticide et herbicide
+  - Ignifuge
 faqs:
-- answer: Un conteneur complet de 20 pieds (27 MT) est recommandé pour une commande
-    rentable.
-  question: Quelle est la quantité minimale de commande ?
-- answer: Nous proposons du borax sous forme décahydratée (10-mol) et pentahydratée
-    (5-mol), ainsi que du borax anhydre pour des applications spécifiques.
-  question: Quelles formes de borax proposez-vous ?
-- answer: Le borax est principalement expédié depuis le port de Dalian.
-  question: Quel port est utilisé pour les expéditions de borax ?
-hsCode: '2840190000'
+  - answer: >-
+      Un conteneur complet de 20 pieds (27 MT) est recommandé pour une commande
+      rentable.
+    question: Quelle est la quantité minimale de commande ?
+  - answer: >-
+      Nous proposons du borax sous forme décahydratée (10-mol) et pentahydratée
+      (5-mol), ainsi que du borax anhydre pour des applications spécifiques.
+    question: Quelles formes de borax proposez-vous ?
+  - answer: Le borax est principalement expédié depuis le port de Dalian.
+    question: Quel port est utilisé pour les expéditions de borax ?
 id: '21'
 loading: 27MT/20GP
-name: Borax
 nameCn: 硼砂
 packaging: 25KG/50KG bags
 ports: Dalian
-shortDescription: Borax industriel pour la fabrication du verre, la céramique, les
-  détergents et les applications métallurgiques.
+shortDescription: >-
+  Borax industriel pour la fabrication du verre, la céramique, les détergents et
+  les applications métallurgiques.
 slug: borax
 specs:
-- label: Formule chimique
-  value: Na₂B₄O₇·10H₂O
-- label: Numéro CAS
-  value: 1303-96-4
-- label: Code SH
-  value: '2840190000'
-- label: Teneur en B₂O₃
-  value: ≥36 %
-- label: Apparence
-  value: Poudre cristalline blanche
-- label: Emballage
-  value: Sacs de 25 kg / 50 kg
-- label: Chargement
-  value: 27 MT par conteneur 20GP
-- label: Ports disponibles
-  value: Dalian
+  - label: Formule chimique
+    value: Na₂B₄O₇·10H₂O
+  - label: Numéro CAS
+    value: 1303-96-4
+  - label: Code SH
+    value: '2840190000'
+  - label: Teneur en B₂O₃
+    value: ≥36 %
+  - label: Apparence
+    value: Poudre cristalline blanche
+  - label: Emballage
+    value: Sacs de 25 kg / 50 kg
+  - label: Chargement
+    value: 27 MT par conteneur 20GP
+  - label: Ports disponibles
+    value: Dalian
 ---
 
 Le borax (Na₂B₄O₇·10H₂O), également connu sous le nom de borate de sodium, est un sel inorganique de haute performance largement reconnu pour ses capacités exceptionnelles de nettoyage, de tamponnage et de fluxage. C'est un ingrédient vital dans la supply d'agents de nettoyage, de produits chimiques industriels et de divers autres produits. Notre borax est fabriqué selon des normes élevées de pureté et de cohérence, garantissant des performances optimales dans les applications industrielles et domestiques.

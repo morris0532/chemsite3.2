@@ -1,19 +1,23 @@
 ---
 Id: SP-kkx16df0kb
-rootnotouch: oxalic-acid-rare-earth-magnets
-slug: oxalic-acid-rare-earth-magnets
-Excerpt: Descubra el papel vital del ácido oxálico en la producción de imanes de tierras
-  raras, particularmente en la separación y purificación de elementos de tierras raras,
-  que son esenciales para materiales magnéticos de alto rendimiento.
+Excerpt: >-
+  Descubra el papel vital del ácido oxálico en la producción de imanes de
+  tierras raras, particularmente en la separación y purificación de elementos de
+  tierras raras, que son esenciales para materiales magnéticos de alto
+  rendimiento.
 title: 'Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico'
-description: Descubra el papel vital del ácido oxálico en la producción de imanes
-  de tierras raras, particularmente en la separación y purificación de elementos de
-  tierras raras, que son esenciales para materiales magnéticos de alto rendimiento.
+description: >-
+  Descubra el papel vital del ácido oxálico en la producción de imanes de
+  tierras raras, particularmente en la separación y purificación de elementos de
+  tierras raras, que son esenciales para materiales magnéticos de alto
+  rendimiento.
 image: /images/blog/oxalic-acid-rare-earth-magnets.webp
-imageAlt: Una imagen profesional y de alta tecnología que representa la producción
-  de imanes de tierras raras. Mostrar elementos como minerales de tierras raras, un
-  proceso de precipitación química (por ejemplo, usando ácido oxálico) e imanes potentes
-  terminados. Enfatizar precisión, tecnología avanzada y el papel crítico de la química.
+imageAlt: >-
+  Una imagen profesional y de alta tecnología que representa la producción de
+  imanes de tierras raras. Mostrar elementos como minerales de tierras raras, un
+  proceso de precipitación química (por ejemplo, usando ácido oxálico) e imanes
+  potentes terminados. Enfatizar precisión, tecnología avanzada y el papel
+  crítico de la química.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
@@ -22,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-rare-earth-magnets
+slug: oxalic-acid-rare-earth-magnets
 ---
 
 ## Ácido Oxálico en Imánes de Tierras Raras: Un Componente Crítico

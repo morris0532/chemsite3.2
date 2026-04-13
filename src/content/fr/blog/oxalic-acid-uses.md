@@ -1,19 +1,23 @@
 ---
 Id: SP-gmg7vcyfpr
-rootnotouch: oxalic-acid-uses
-slug: oxalic-acid-uses
-Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille et du blanchiment du bois à l'extraction des terres
-  rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs.
-title: Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous
+Excerpt: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille et du blanchiment du bois à l'extraction des
+  terres rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans
+  divers secteurs.
+title: >-
+  Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous
   Devriez Connaître
-description: Explorez les diverses applications industrielles de l'acide oxalique,
-  de l'élimination de la rouille et du blanchiment du bois à l'extraction des terres
-  rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs.
+description: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille et du blanchiment du bois à l'extraction des
+  terres rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans
+  divers secteurs.
 image: /images/blog/oxalic-acid-uses.webp
-imageAlt: Diverses applications industrielles de l'acide oxalique, montrant divers
-  processus comme l'élimination de la rouille, le traitement du bois et la synthèse
-  chimique.
+imageAlt: >-
+  Diverses applications industrielles de l'acide oxalique, montrant divers
+  processus comme l'élimination de la rouille, le traitement du bois et la
+  synthèse chimique.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
@@ -22,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-uses
+slug: oxalic-acid-uses
 ---
 
 ## Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous Devriez Connaître

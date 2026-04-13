@@ -1,7 +1,5 @@
 ---
 Id: SP-17vcu1qcep
-rootnotouch: water-treatment-chemicals-comparison
-slug: water-treatment-chemicals-comparison
 Excerpt: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
 title: 'مقارنة مواد معالجة المياه: PAC مقابل كبريتات الألومنيوم مقابل كلوريد الحديديك'
 description: قارن بين أشهر المخثرات في معالجة المياه للعثور على الحل الأفضل لاحتياجاتك.
@@ -15,6 +13,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: water-treatment-chemicals-comparison
+slug: water-treatment-chemicals-comparison
 ---
 
 ## اختيار المخثر الصحيح

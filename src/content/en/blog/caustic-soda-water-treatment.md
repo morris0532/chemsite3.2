@@ -1,7 +1,5 @@
 ---
 Id: SP-uxonf8j153
-rootnotouch: caustic-soda-water-treatment
-slug: caustic-soda-water-treatment
 title: >-
   Caustic Soda in Water Treatment: Essential Applications & Benefits for
   Industrial Facilities
@@ -21,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-water-treatment
+slug: caustic-soda-water-treatment
 ---
 
 For industrial facilities, effective **water treatment** is not just about compliance; it's about operational efficiency, equipment longevity, and environmental responsibility. Among the myriad chemicals used in this vital process, **caustic soda (sodium hydroxide, NaOH)** stands out as a cornerstone. Its powerful alkaline properties make it indispensable for a range of applications, from adjusting pH levels in wastewater to facilitating the removal of heavy metals and controlling alkalinity in boiler feed water.

@@ -1,18 +1,22 @@
 ---
 Id: SP-lqijva8bxn
-rootnotouch: oxalic-acid-vs-edta
-slug: oxalic-acid-vs-edta
-Excerpt: Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
-  leurs différences en termes de propriétés, d'applications, d'impact environnemental
-  et de coût pour choisir la bonne solution pour vos besoins industriels.
-title: 'Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre Application
-  ?'
-description: Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
-  leurs différences en termes de propriétés, d'applications, d'impact environnemental
-  et de coût pour choisir la bonne solution pour vos besoins industriels.
+Excerpt: >-
+  Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
+  leurs différences en termes de propriétés, d'applications, d'impact
+  environnemental et de coût pour choisir la bonne solution pour vos besoins
+  industriels.
+title: >-
+  Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre
+  Application ?
+description: >-
+  Comparez l'acide oxalique et l'EDTA en tant qu'agents chélatants. Découvrez
+  leurs différences en termes de propriétés, d'applications, d'impact
+  environnemental et de coût pour choisir la bonne solution pour vos besoins
+  industriels.
 image: /images/blog/oxalic-acid-vs-edta.webp
-imageAlt: Comparaison des structures chimiques et des propriétés de l'acide oxalique
-  et de l'EDTA
+imageAlt: >-
+  Comparaison des structures chimiques et des propriétés de l'acide oxalique et
+  de l'EDTA
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Technical Article
@@ -21,6 +25,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-vs-edta
+slug: oxalic-acid-vs-edta
 ---
 
 ## Acide Oxalique vs EDTA : Quel Agent Chélatant Est le Meilleur pour Votre Application ?

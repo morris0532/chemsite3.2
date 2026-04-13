@@ -1,20 +1,21 @@
 ---
 Id: SP-0ajs6ny9c4
-rootnotouch: oxalic-acid-export-europe-reach
-slug: oxalic-acid-export-europe-reach
-Excerpt: Navegar las complejidades de la exportación de ácido oxálico a Europa requiere
-  una estricta adhesión a las regulaciones REACH. SinoPeakChem provee ácido oxálico
-  de alta calidad y conforme para el mercado europeo.
+Excerpt: >-
+  Navegar las complejidades de la exportación de ácido oxálico a Europa requiere
+  una estricta adhesión a las regulaciones REACH. SinoPeakChem provee ácido
+  oxálico de alta calidad y conforme para el mercado europeo.
 title: 'Exportación de Ácido Oxálico a Europa: Guía de Cumplimiento REACH'
-description: Navegar las complejidades de la exportación de ácido oxálico a Europa
-  requiere una estricta adhesión a las regulaciones REACH. SinoPeakChem provee ácido
+description: >-
+  Navegar las complejidades de la exportación de ácido oxálico a Europa requiere
+  una estricta adhesión a las regulaciones REACH. SinoPeakChem provee ácido
   oxálico de alta calidad y conforme para el mercado europeo.
 image: /images/blog/oxalic-acid-export-europe-reach.webp
-imageAlt: Una imagen profesional y clara que representa el concepto de exportación
-  química a Europa, con elementos como un mapa de Europa, un buque portacontenedores
-  y superposiciones sutiles que representan documentos o regulaciones de cumplimiento
-  REACH. Enfatiza seguridad, calidad y adhesión regulatoria. Alta calidad, resolución
-  4k.
+imageAlt: >-
+  Una imagen profesional y clara que representa el concepto de exportación
+  química a Europa, con elementos como un mapa de Europa, un buque
+  portacontenedores y superposiciones sutiles que representan documentos o
+  regulaciones de cumplimiento REACH. Enfatiza seguridad, calidad y adhesión
+  regulatoria. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-export-europe-reach
+slug: oxalic-acid-export-europe-reach
 ---
 
 ## Exportación de Ácido Oxálico a Europa: Guía de Cumplimiento REACH

@@ -1,64 +1,73 @@
 ---
-rootnotouch: sodium-sulfate-anhydrous
+name: Безводный сульфат натрия (SSA)
+cas: 7757-82-6
+hsCode: '2833110000'
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: Сульфатные соединения
+rootnotouch: sodium-sulfate-anhydrous
 applications:
-- Наполнитель для стирального порошка
-- Производство стекла
-- Текстильное окрашивание
-- Целлюлозно-бумажная промышленность
-- Химический синтез
-- Производство крахмала
-cas: 7757-82-6
+  - Наполнитель для стирального порошка
+  - Производство стекла
+  - Текстильное окрашивание
+  - Целлюлозно-бумажная промышленность
+  - Химический синтез
+  - Производство крахмала
 faqs:
-- answer: Полный 20-футовый контейнер (20GP) вмещает 27-28 метрических тонн и обеспечивает
-    наилучшую экономическую эффективность для международных перевозок.
-  question: Каково рекомендуемое количество заказа?
-- answer: Мы предлагаем SSA с чистотой ≥99%, подходящий для применения в моющих средствах,
-    стекольной и текстильной промышленности. Для специальных применений доступны сорта
-    с повышенной чистотой.
-  question: Какие уровни чистоты доступны?
-- answer: Мы осуществляем поставки из портов Янчжоу, Чжэньцзян, Чунцин и Луцзоу, предоставляя
-    гибкие логистические решения для различных направлений.
-  question: Каковы основные порты для отгрузки?
-- answer: SSA служит в качестве наполнителя и агента для улучшения текучести в порошках
-    для стирки. Он помогает контролировать плотность порошка, улучшает текучесть и
-    снижает производственные затраты при сохранении эффективности очистки.
-  question: SSA (Sodium Sulfamate, NaSO3NH2) is used in detergent supply primarily
-    as a **bleaching activator** and **stabilizer**. It enhances the effectiveness
-    of bleaching agents such as hydrogen peroxide by accelerating the bleaching process
-    at lower temperatures. This results in improved stain removal and whitening performance
-    in detergents. Additionally, SSA helps to stabilize the formulation, preventing
-    premature decomposition of bleaching agents, thereby extending the shelf life
-    and efficacy of the detergent product.
+  - answer: >-
+      Полный 20-футовый контейнер (20GP) вмещает 27-28 метрических тонн и
+      обеспечивает наилучшую экономическую эффективность для международных
+      перевозок.
+    question: Каково рекомендуемое количество заказа?
+  - answer: >-
+      Мы предлагаем SSA с чистотой ≥99%, подходящий для применения в моющих
+      средствах, стекольной и текстильной промышленности. Для специальных
+      применений доступны сорта с повышенной чистотой.
+    question: Какие уровни чистоты доступны?
+  - answer: >-
+      Мы осуществляем поставки из портов Янчжоу, Чжэньцзян, Чунцин и Луцзоу,
+      предоставляя гибкие логистические решения для различных направлений.
+    question: Каковы основные порты для отгрузки?
+  - answer: >-
+      SSA служит в качестве наполнителя и агента для улучшения текучести в
+      порошках для стирки. Он помогает контролировать плотность порошка,
+      улучшает текучесть и снижает производственные затраты при сохранении
+      эффективности очистки.
+    question: >-
+      SSA (Sodium Sulfamate, NaSO3NH2) is used in detergent supply primarily as
+      a **bleaching activator** and **stabilizer**. It enhances the
+      effectiveness of bleaching agents such as hydrogen peroxide by
+      accelerating the bleaching process at lower temperatures. This results in
+      improved stain removal and whitening performance in detergents.
+      Additionally, SSA helps to stabilize the formulation, preventing premature
+      decomposition of bleaching agents, thereby extending the shelf life and
+      efficacy of the detergent product.
 featured: true
-hsCode: '2833110000'
 id: '6'
 loading: 27-28 тонн/20-футовый контейнер
-name: Безводный сульфат натрия (SSA)
 nameCn: 元明粉
 packaging: 50 кг/джамбо-мешки
 ports: Янчжоу / Чжэньцзян / Чунцин / Луцзю
-shortDescription: Премиальный безводный сульфат натрия для производства моющих средств,
-  стекла, текстиля и бумажной промышленности.
+shortDescription: >-
+  Премиальный безводный сульфат натрия для производства моющих средств, стекла,
+  текстиля и бумажной промышленности.
 slug: sodium-sulfate-anhydrous
 specs:
-- label: Химическая формула
-  value: Na₂SO₄
-- label: Номер CAS
-  value: 7757-82-6
-- label: Код ТН ВЭД
-  value: '2833110000'
-- label: Чистота
-  value: ≥99%
-- label: Внешний вид
-  value: Белый кристаллический порошок
-- label: Упаковка
-  value: Мешки по 50 кг / Джамбо-мешки
-- label: Загрузка
-  value: 27-28 тонн на 20-футовый контейнер (20GP)
-- label: Доступные порты
-  value: Янчжоу / Чжэньцзян / Чунцин / Луджоу
+  - label: Химическая формула
+    value: Na₂SO₄
+  - label: Номер CAS
+    value: 7757-82-6
+  - label: Код ТН ВЭД
+    value: '2833110000'
+  - label: Чистота
+    value: ≥99%
+  - label: Внешний вид
+    value: Белый кристаллический порошок
+  - label: Упаковка
+    value: Мешки по 50 кг / Джамбо-мешки
+  - label: Загрузка
+    value: 27-28 тонн на 20-футовый контейнер (20GP)
+  - label: Доступные порты
+    value: Янчжоу / Чжэньцзян / Чунцин / Луджоу
 ---
 
 Безводный сульфат натрия (Na₂SO₄), также известный как тенардит или глауберова соль (в виде декагидрата), представляет собой универсальную и экономически эффективную неорганическую соль с широким спектром промышленных применений. Это стабильное, нетоксичное и высоко растворимое соединение, являющееся важным компонентом в производстве моющих средств, стекла, текстиля и различных химических продуктов. Наш безводный сульфат натрия производится с высоким уровнем чистоты (обычно ≥99%) и представлен в виде белого кристаллического порошка или гранул с отличной сыпучестью.

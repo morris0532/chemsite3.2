@@ -1,11 +1,11 @@
 ---
+name: Ammonium Chloride
+cas: 12125-02-9
+hsCode: '2827101000'
 image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
 category: Chloride Compounds
 id: '18'
-name: Ammonium Chloride
 nameCn: 氯化铵
-cas: 12125-02-9
-hsCode: '2827101000'
 slug: ammonium-chloride
 shortDescription: >-
   High-grade Ammonium Chloride (NH4Cl) for bulk purchase and export from China.

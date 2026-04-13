@@ -1,16 +1,17 @@
 ---
 Id: SP-bq0ob1xc96
-rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-slug: how-to-choose-the-right-chem-supplier-from-china
-Excerpt: Una guía detallada sobre cómo seleccionar un proveedor químico confiable
-  en China, abarcando la calificación del proveedor, control de calidad, cadena de
+Excerpt: >-
+  Una guía detallada sobre cómo seleccionar un proveedor químico confiable en
+  China, abarcando la calificación del proveedor, control de calidad, cadena de
   suministro, rentabilidad y comunicación.
 title: 'Cómo Elegir al Proveedor Químico Adecuado de China: Una Guía Completa'
-description: Una guía detallada sobre cómo seleccionar un proveedor químico confiable
-  en China, abarcando la calificación del proveedor, control de calidad, cadena de
+description: >-
+  Una guía detallada sobre cómo seleccionar un proveedor químico confiable en
+  China, abarcando la calificación del proveedor, control de calidad, cadena de
   suministro, rentabilidad y comunicación.
 image: /images/blog/how-to-choose-the-right-chem-supplier-from-china.webp
-imageAlt: Logística química moderna y configuración de cadena de suministro con tambores
+imageAlt: >-
+  Logística química moderna y configuración de cadena de suministro con tambores
   organizados y planta de manufactura de fondo
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -20,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: how-to-choose-the-right-chem-supplier-from-china
+slug: how-to-choose-the-right-chem-supplier-from-china
 ---
 
 ## Introducción

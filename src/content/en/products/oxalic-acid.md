@@ -1,11 +1,11 @@
 ---
+name: Oxalic Acid
+cas: 144-62-7 / 6153-56-6
+hsCode: '2917111000'
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: Organic Acids
 id: '3'
-name: Oxalic Acid
 nameCn: 草酸
-cas: 144-62-7 / 6153-56-6
-hsCode: '2917111000'
 slug: oxalic-acid
 shortDescription: >-
   High-purity Oxalic Acid (Ethanedioic Acid) for bulk purchase and export from

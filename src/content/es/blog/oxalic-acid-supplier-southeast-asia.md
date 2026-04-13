@@ -1,25 +1,27 @@
 ---
 Id: SP-b46mlmpcvv
-rootnotouch: oxalic-acid-supplier-southeast-asia
-slug: oxalic-acid-supplier-southeast-asia
-Excerpt: El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico,
-  impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem es
-  su socio confiable, ofreciendo ácido oxálico de alta calidad con logística eficiente
-  y soporte de cumplimiento para compradores en Tailandia, Vietnam, Indonesia, Filipinas
-  y Malasia.
-title: 'Proveedor de Ácido Oxálico para el Sudeste Asiático: Tailandia, Vietnam, Indonesia
-  y Más'
-description: El Sudeste Asiático es un mercado de rápido crecimiento para el ácido
-  oxálico, impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem
-  es su socio confiable, ofreciendo ácido oxálico de alta calidad con logística eficiente
-  y soporte de cumplimiento para compradores en Tailandia, Vietnam, Indonesia, Filipinas
-  y Malasia.
+Excerpt: >-
+  El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico,
+  impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem
+  es su socio confiable, ofreciendo ácido oxálico de alta calidad con logística
+  eficiente y soporte de cumplimiento para compradores en Tailandia, Vietnam,
+  Indonesia, Filipinas y Malasia.
+title: >-
+  Proveedor de Ácido Oxálico para el Sudeste Asiático: Tailandia, Vietnam,
+  Indonesia y Más
+description: >-
+  El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico,
+  impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem
+  es su socio confiable, ofreciendo ácido oxálico de alta calidad con logística
+  eficiente y soporte de cumplimiento para compradores en Tailandia, Vietnam,
+  Indonesia, Filipinas y Malasia.
 image: /images/blog/oxalic-acid-supplier-southeast-asia.webp
-imageAlt: Una imagen profesional y clara que muestra un mapa del Sudeste Asiático,
-  destacando países como Tailandia, Vietnam e Indonesia, con superposiciones sutiles
-  de rutas comerciales químicas, instalaciones industriales o actividades portuarias.
-  Enfatiza el crecimiento económico de la región y la importación/exportación de productos
-  químicos. Alta calidad, resolución 4k.
+imageAlt: >-
+  Una imagen profesional y clara que muestra un mapa del Sudeste Asiático,
+  destacando países como Tailandia, Vietnam e Indonesia, con superposiciones
+  sutiles de rutas comerciales químicas, instalaciones industriales o
+  actividades portuarias. Enfatiza el crecimiento económico de la región y la
+  importación/exportación de productos químicos. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
@@ -28,6 +30,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-supplier-southeast-asia
+slug: oxalic-acid-supplier-southeast-asia
 ---
 
 # Proveedor de Ácido Oxálico para el Sudeste Asiático: Tailandia, Vietnam, Indonesia y Más

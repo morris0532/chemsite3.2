@@ -1,11 +1,11 @@
 ---
 Id: SP-slqvccx9et
-rootnotouch: oxalic-acid-rare-earth-extraction
-slug: oxalic-acid-rare-earth-extraction
-Excerpt: اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
+Excerpt: >-
+  اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
   النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.
 title: دور حمض الأكساليك في استخراج العناصر الأرضية النادرة (REE)
-description: اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
+description: >-
+  اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
   النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.
 image: /images/blog/oxalic-acid-rare-earth-extraction.webp
 imageAlt: رسم توضيحي لعملية ميتالورجيا مائية تظهر ترسيب العناصر الأرضية النادرة
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-rare-earth-extraction
+slug: oxalic-acid-rare-earth-extraction
 ---
 
 ## أهمية العناصر الأرضية النادرة في التكنولوجيا الحديثة

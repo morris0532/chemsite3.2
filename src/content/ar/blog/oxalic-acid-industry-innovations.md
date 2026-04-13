@@ -1,14 +1,17 @@
 ---
 Id: SP-pfukee3vm9
-rootnotouch: oxalic-acid-industry-innovations
-slug: oxalic-acid-industry-innovations
-Excerpt: اكتشف أحدث التطورات في إنتاج حمض الأكساليك، من طرق الكيمياء الخضراء إلى مبادرات
-  الاقتصاد الدائري، وكيف تعمل هذه الابتكارات على تعزيز الاستدامة والكفاءة.
+Excerpt: >-
+  اكتشف أحدث التطورات في إنتاج حمض الأكساليك، من طرق الكيمياء الخضراء إلى
+  مبادرات الاقتصاد الدائري، وكيف تعمل هذه الابتكارات على تعزيز الاستدامة
+  والكفاءة.
 title: 'الابتكارات في صناعة حمض الأكساليك: الكيمياء الخضراء والاقتصاد الدائري'
-description: اكتشف أحدث التطورات في إنتاج حمض الأكساليك، من طرق الكيمياء الخضراء إلى
-  مبادرات الاقتصاد الدائري، وكيف تعمل هذه الابتكارات على تعزيز الاستدامة والكفاءة.
+description: >-
+  اكتشف أحدث التطورات في إنتاج حمض الأكساليك، من طرق الكيمياء الخضراء إلى
+  مبادرات الاقتصاد الدائري، وكيف تعمل هذه الابتكارات على تعزيز الاستدامة
+  والكفاءة.
 image: /images/blog/oxalic-acid-industry-innovations.webp
-imageAlt: تمثيل مرئي للكيمياء الخضراء يظهر جزيئات كيميائية مدمجة مع أوراق خضراء ورموز
+imageAlt: >-
+  تمثيل مرئي للكيمياء الخضراء يظهر جزيئات كيميائية مدمجة مع أوراق خضراء ورموز
   إعادة التدوير
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-industry-innovations
+slug: oxalic-acid-industry-innovations
 ---
 
 ## الابتكارات في صناعة حمض الأكساليك: الكيمياء الخضراء والاقتصاد الدائري

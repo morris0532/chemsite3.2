@@ -1,20 +1,21 @@
 ---
 Id: SP-458tta5ggr
-rootnotouch: oxalic-acid-price
-slug: oxalic-acid-price
-Excerpt: Manténgase informado sobre las últimas tendencias de precios del ácido oxálico
-  para 2025. Explore los factores clave que influyen en los costos, desde las materias
-  primas hasta los precios de la energía, y aprenda cómo obtener el mejor valor en
-  sus compras al por mayor.
+Excerpt: >-
+  Manténgase informado sobre las últimas tendencias de precios del ácido oxálico
+  para 2025. Explore los factores clave que influyen en los costos, desde las
+  materias primas hasta los precios de la energía, y aprenda cómo obtener el
+  mejor valor en sus compras al por mayor.
 title: 'Tendencia del Precio del Ácido Oxálico 2025: Factores que Afectan el Costo'
-description: Manténgase informado sobre las últimas tendencias de precios del ácido
-  oxálico para 2025. Explore los factores clave que influyen en los costos, desde
-  las materias primas hasta los precios de la energía, y aprenda cómo obtener el mejor
-  valor en sus compras al por mayor.
+description: >-
+  Manténgase informado sobre las últimas tendencias de precios del ácido oxálico
+  para 2025. Explore los factores clave que influyen en los costos, desde las
+  materias primas hasta los precios de la energía, y aprenda cómo obtener el
+  mejor valor en sus compras al por mayor.
 image: /images/blog/oxalic-acid-price.webp
-imageAlt: Imagen de estilo profesional empresarial que muestra un gráfico de línea
-  ascendente sobre sacos de productos químicos industriales, representando las tendencias
-  de precios del mercado del ácido oxálico.
+imageAlt: >-
+  Imagen de estilo profesional empresarial que muestra un gráfico de línea
+  ascendente sobre sacos de productos químicos industriales, representando las
+  tendencias de precios del mercado del ácido oxálico.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Análisis de Mercado
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-price
+slug: oxalic-acid-price
 ---
 
 ## Tendencia del Precio del Ácido Oxálico 2025: Factores que Afectan el Costo

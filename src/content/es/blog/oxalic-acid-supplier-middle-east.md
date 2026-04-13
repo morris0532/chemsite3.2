@@ -1,21 +1,25 @@
 ---
 Id: SP-g37rofvk3v
-rootnotouch: oxalic-acid-supplier-middle-east
-slug: oxalic-acid-supplier-middle-east
-Excerpt: SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente Medio,
-  atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos de alta
-  calidad para el cuidado de piedras, petróleo y gas, y aplicaciones industriales.
-title: 'Proveedor de Ácido Oxálico para el Mercado de Oriente Medio: EAU, Arabia Saudita
-  y Turquía'
-description: SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente
-  Medio, atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos
-  de alta calidad para el cuidado de piedras, petróleo y gas, y aplicaciones industriales.
+Excerpt: >-
+  SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente Medio,
+  atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos de
+  alta calidad para el cuidado de piedras, petróleo y gas, y aplicaciones
+  industriales.
+title: >-
+  Proveedor de Ácido Oxálico para el Mercado de Oriente Medio: EAU, Arabia
+  Saudita y Turquía
+description: >-
+  SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente Medio,
+  atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos de
+  alta calidad para el cuidado de piedras, petróleo y gas, y aplicaciones
+  industriales.
 image: /images/blog/oxalic-acid-supplier-middle-east.webp
-imageAlt: Una imagen profesional y clara que muestra un mapa de Oriente Medio, destacando
-  países como EAU, Arabia Saudita y Turquía, con superposiciones sutiles de rutas
-  comerciales químicas, refinerías de petróleo o instalaciones industriales modernas.
-  Se enfatiza la importancia económica de la región y la importación/exportación química.
-  Alta calidad, resolución 4k.
+imageAlt: >-
+  Una imagen profesional y clara que muestra un mapa de Oriente Medio,
+  destacando países como EAU, Arabia Saudita y Turquía, con superposiciones
+  sutiles de rutas comerciales químicas, refinerías de petróleo o instalaciones
+  industriales modernas. Se enfatiza la importancia económica de la región y la
+  importación/exportación química. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
@@ -24,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-supplier-middle-east
+slug: oxalic-acid-supplier-middle-east
 ---
 
 ## Proveedor de Ácido Oxálico para el Mercado de Oriente Medio: EAU, Arabia Saudita y Turquía

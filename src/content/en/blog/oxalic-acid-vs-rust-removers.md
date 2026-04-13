@@ -1,7 +1,5 @@
 ---
 Id: SP-b711557b1a
-rootnotouch: oxalic-acid-vs-rust-removers
-slug: oxalic-acid-vs-rust-removers
 Excerpt: >-
   Compare oxalic acid with other common rust removers like phosphoric acid,
   citric acid, and mechanical methods. Learn about their pros, cons,
@@ -25,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-vs-rust-removers
+slug: oxalic-acid-vs-rust-removers
 ---
 
 ## Oxalic Acid vs. Other Rust Removers: Which One Should You Choose?

@@ -1,19 +1,22 @@
 ---
 Id: SP-yvb9vz3cyw
-rootnotouch: oxalic-acid-grades-specifications
-slug: oxalic-acid-grades-specifications
-Excerpt: Explorez les différentes qualités et spécifications de l'acide oxalique,
-  y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
-  les exigences de pureté, les indicateurs physico-chimiques et les normes internationales
-  pertinentes pour choisir le bon produit pour votre application.
+Excerpt: >-
+  Explorez les différentes qualités et spécifications de l'acide oxalique, y
+  compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
+  les exigences de pureté, les indicateurs physico-chimiques et les normes
+  internationales pertinentes pour choisir le bon produit pour votre
+  application.
 title: 'Qualités et Spécifications de l''Acide Oxalique : Un Examen Approfondi'
-description: Explorez les différentes qualités et spécifications de l'acide oxalique,
-  y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
-  les exigences de pureté, les indicateurs physico-chimiques et les normes internationales
-  pertinentes pour choisir le bon produit pour votre application.
+description: >-
+  Explorez les différentes qualités et spécifications de l'acide oxalique, y
+  compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
+  les exigences de pureté, les indicateurs physico-chimiques et les normes
+  internationales pertinentes pour choisir le bon produit pour votre
+  application.
 image: /images/blog/oxalic-acid-grades-specifications.webp
-imageAlt: Un laboratoire professionnel avec des béchers contenant différents échantillons
-  d'acide oxalique et un certificat d'analyse.
+imageAlt: >-
+  Un laboratoire professionnel avec des béchers contenant différents
+  échantillons d'acide oxalique et un certificat d'analyse.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Informations sur les Produits
@@ -22,6 +25,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-grades-specifications
+slug: oxalic-acid-grades-specifications
 ---
 
 ## Qualités et Spécifications de l'Acide Oxalique : Un Examen Approfondi

@@ -1,11 +1,11 @@
 ---
+name: Sodium Metabisulphite (SMBS)
+cas: 7681-57-4
+hsCode: '2832100000'
 image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
 category: Sulfur Compounds
 id: '14'
-name: Sodium Metabisulphite (SMBS)
 nameCn: 焦亚硫酸钠
-cas: 7681-57-4
-hsCode: '2832100000'
 slug: sodium-metabisulphite-smbs
 shortDescription: >-
   High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from

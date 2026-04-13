@@ -1,11 +1,11 @@
 ---
+name: Citric Acid Monohydrate
+cas: 5949-29-1
+hsCode: '2918140000'
 image: /images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp
 category: Organic Acids
 id: '9'
-name: Citric Acid Monohydrate
 nameCn: 一水柠檬酸
-cas: 5949-29-1
-hsCode: '2918140000'
 slug: citric-acid-monohydrate
 shortDescription: >-
   High-purity Citric Acid Monohydrate for bulk purchase and export from China.

@@ -1,23 +1,26 @@
 ---
 Id: SP-2pma261q12
-rootnotouch: oxalic-acid-supplier-south-america
-slug: oxalic-acid-supplier-south-america
-Excerpt: SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché
-  sud-américain dynamique, desservant des nations clés comme le Brésil, le Chili et
-  la Colombie avec des produits de qualité pour l'agriculture, le traitement du cuir
-  et l'exploitation minière.
-title: 'Fournisseur d''Acide Oxalique pour le Marché Sud-Américain : Brésil, Chili
-  & Colombie'
-description: SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché
-  sud-américain dynamique, desservant des nations clés comme le Brésil, le Chili et
-  la Colombie avec des produits de qualité pour l'agriculture, le traitement du cuir
-  et l'exploitation minière.
+Excerpt: >-
+  SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché
+  sud-américain dynamique, desservant des nations clés comme le Brésil, le Chili
+  et la Colombie avec des produits de qualité pour l'agriculture, le traitement
+  du cuir et l'exploitation minière.
+title: >-
+  Fournisseur d'Acide Oxalique pour le Marché Sud-Américain : Brésil, Chili &
+  Colombie
+description: >-
+  SinoPeakChem est votre fournisseur fiable d'acide oxalique pour le marché
+  sud-américain dynamique, desservant des nations clés comme le Brésil, le Chili
+  et la Colombie avec des produits de qualité pour l'agriculture, le traitement
+  du cuir et l'exploitation minière.
 image: /images/blog/oxalic-acid-supplier-south-america.webp
-imageAlt: Une image professionnelle et claire représentant une carte de l'Amérique
-  du Sud, mettant en évidence des pays comme le Brésil, le Chili et la Colombie, avec
-  des superpositions subtiles de routes commerciales chimiques, de paysages agricoles
-  ou d'installations industrielles. Soulignez l'importance économique de la région
-  et l'import/export de produits chimiques. Haute qualité, résolution 4k.
+imageAlt: >-
+  Une image professionnelle et claire représentant une carte de l'Amérique du
+  Sud, mettant en évidence des pays comme le Brésil, le Chili et la Colombie,
+  avec des superpositions subtiles de routes commerciales chimiques, de paysages
+  agricoles ou d'installations industrielles. Soulignez l'importance économique
+  de la région et l'import/export de produits chimiques. Haute qualité,
+  résolution 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Marché Régional
@@ -26,6 +29,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-supplier-south-america
+slug: oxalic-acid-supplier-south-america
 ---
 
 ## Fournisseur d'Acide Oxalique pour le Marché Sud-Américain : Brésil, Chili & Colombie

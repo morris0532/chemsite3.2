@@ -1,17 +1,20 @@
 ---
 Id: SP-ia3pe48qcu
-rootnotouch: oxalic-acid-pharmaceutical-intermediates
-slug: oxalic-acid-pharmaceutical-intermediates
-Excerpt: Explora el papel crítico del ácido oxálico como un bloque de construcción
-  y reactivo versátil en la síntesis de diversos intermedios farmacéuticos, destacando
-  sus propiedades químicas y aplicaciones en la fabricación de medicamentos.
+Excerpt: >-
+  Explora el papel crítico del ácido oxálico como un bloque de construcción y
+  reactivo versátil en la síntesis de diversos intermedios farmacéuticos,
+  destacando sus propiedades químicas y aplicaciones en la fabricación de
+  medicamentos.
 title: 'Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave'
-description: Explora el papel crítico del ácido oxálico como un bloque de construcción
-  y reactivo versátil en la síntesis de diversos intermedios farmacéuticos, destacando
-  sus propiedades químicas y aplicaciones en la fabricación de medicamentos.
+description: >-
+  Explora el papel crítico del ácido oxálico como un bloque de construcción y
+  reactivo versátil en la síntesis de diversos intermedios farmacéuticos,
+  destacando sus propiedades químicas y aplicaciones en la fabricación de
+  medicamentos.
 image: /images/blog/oxalic-acid-pharmaceutical-intermediates.webp
-imageAlt: Una imagen profesional y limpia que muestra un laboratorio farmacéutico,
-  con material de vidrio, compuestos químicos y un enfoque en la síntesis o análisis
+imageAlt: >-
+  Una imagen profesional y limpia que muestra un laboratorio farmacéutico, con
+  material de vidrio, compuestos químicos y un enfoque en la síntesis o análisis
   de intermedios farmacéuticos. Destaca la precisión y el ambiente estéril.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -21,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-pharmaceutical-intermediates
+slug: oxalic-acid-pharmaceutical-intermediates
 ---
 
 ## Ácido Oxálico en Intermedios Farmacéuticos: Un Papel Clave

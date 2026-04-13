@@ -1,11 +1,11 @@
 ---
+name: Caustic Soda
+cas: 1310-73-2
+hsCode: '2815110000'
 image: /images/products/caustic-soda-cas-1310-73-2-sinopeakchem.webp
 category: Alkali Products
 id: '2'
-name: Caustic Soda
 nameCn: 片碱
-cas: 1310-73-2
-hsCode: '2815110000'
 slug: caustic-soda
 shortDescription: >-
   High-purity Caustic Soda (Sodium Hydroxide) flakes and pearls for bulk

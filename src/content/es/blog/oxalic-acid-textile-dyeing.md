@@ -1,18 +1,20 @@
 ---
 Id: SP-91te88mmva
-rootnotouch: oxalic-acid-textile-dyeing
-slug: oxalic-acid-textile-dyeing
-Excerpt: Explora el papel vital del ácido oxálico en la industria textil, desde su
-  uso como auxiliar de teñido y agente reductor en impresión hasta su eficacia en
-  la limpieza y el tratamiento de fibras. Descubre sus aplicaciones y beneficios industriales.
+Excerpt: >-
+  Explora el papel vital del ácido oxálico en la industria textil, desde su uso
+  como auxiliar de teñido y agente reductor en impresión hasta su eficacia en la
+  limpieza y el tratamiento de fibras. Descubre sus aplicaciones y beneficios
+  industriales.
 title: 'Ácido Oxálico para Teñido e Impresión Textil: Aplicaciones Industriales'
-description: Explora el papel vital del ácido oxálico en la industria textil, desde
-  su uso como auxiliar de teñido y agente reductor en impresión hasta su eficacia
-  en la limpieza y el tratamiento de fibras. Descubre sus aplicaciones y beneficios
+description: >-
+  Explora el papel vital del ácido oxálico en la industria textil, desde su uso
+  como auxiliar de teñido y agente reductor en impresión hasta su eficacia en la
+  limpieza y el tratamiento de fibras. Descubre sus aplicaciones y beneficios
   industriales.
 image: /images/blog/oxalic-acid-textile-dyeing.webp
-imageAlt: Una instalación vibrante de teñido e impresión textil, mostrando telas coloridas
-  siendo procesadas y maquinaria industrial.
+imageAlt: >-
+  Una instalación vibrante de teñido e impresión textil, mostrando telas
+  coloridas siendo procesadas y maquinaria industrial.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
@@ -21,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-textile-dyeing
+slug: oxalic-acid-textile-dyeing
 ---
 
 ## Ácido Oxálico para Teñido e Impresión Textil: Aplicaciones Industriales

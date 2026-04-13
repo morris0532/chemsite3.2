@@ -1,7 +1,5 @@
 ---
 Id: SP-d29giundp5
-rootnotouch: chemical-shipping-logistics-china-guide
-slug: chemical-shipping-logistics-china-guide
 Excerpt: >-
   Navigate the complexities of international chemical shipping from China. Learn
   about regulations, packaging requirements, and choosing the right logistics
@@ -21,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: chemical-shipping-logistics-china-guide
+slug: chemical-shipping-logistics-china-guide
 ---
 
 ## Navigating Chemical Logistics

@@ -1,11 +1,11 @@
 ---
+name: Polyaluminum Chloride (PAC)
+cas: 1327-41-9
+hsCode: '2827320000'
 image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
 category: Water Treatment
 id: '19'
-name: Polyaluminum Chloride (PAC)
 nameCn: 聚合氯化铝
-cas: 1327-41-9
-hsCode: '2827320000'
 slug: polyaluminum-chloride-pac
 shortDescription: >-
   High-efficiency Polyaluminum Chloride (PAC) for bulk purchase and export from

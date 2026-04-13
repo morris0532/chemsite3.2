@@ -1,20 +1,25 @@
 ---
 Id: SP-43zrqbz3qh
-rootnotouch: oxalic-acid-supplier-central-asia
-slug: oxalic-acid-supplier-central-asia
-Excerpt: SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado de
-  Asia Central, atendiendo a países clave como Kazajistán y Uzbekistán con productos
-  de calidad para minería, procesamiento industrial y diversas aplicaciones químicas.
-title: 'Proveedor de Ácido Oxálico para el Mercado de Asia Central: Kazajistán y Uzbekistán'
-description: SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado
-  de Asia Central, atendiendo a países clave como Kazajistán y Uzbekistán con productos
-  de calidad para minería, procesamiento industrial y diversas aplicaciones químicas.
+Excerpt: >-
+  SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado de
+  Asia Central, atendiendo a países clave como Kazajistán y Uzbekistán con
+  productos de calidad para minería, procesamiento industrial y diversas
+  aplicaciones químicas.
+title: >-
+  Proveedor de Ácido Oxálico para el Mercado de Asia Central: Kazajistán y
+  Uzbekistán
+description: >-
+  SinoPeakChem es su proveedor confiable de ácido oxálico para el mercado de
+  Asia Central, atendiendo a países clave como Kazajistán y Uzbekistán con
+  productos de calidad para minería, procesamiento industrial y diversas
+  aplicaciones químicas.
 image: /images/blog/oxalic-acid-supplier-central-asia.webp
-imageAlt: Una imagen profesional y clara que muestra un mapa de Asia Central, destacando
-  países como Kazajistán y Uzbekistán, con superposiciones sutiles de rutas comerciales
-  químicas, paisajes industriales o actividades portuarias. Enfatiza la importancia
-  económica de la región y la importación/exportación de productos químicos. Alta
-  calidad, resolución 4k.
+imageAlt: >-
+  Una imagen profesional y clara que muestra un mapa de Asia Central, destacando
+  países como Kazajistán y Uzbekistán, con superposiciones sutiles de rutas
+  comerciales químicas, paisajes industriales o actividades portuarias. Enfatiza
+  la importancia económica de la región y la importación/exportación de
+  productos químicos. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Mercado Regional
@@ -23,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-supplier-central-asia
+slug: oxalic-acid-supplier-central-asia
 ---
 
 ## Proveedor de Ácido Oxálico para el Mercado de Asia Central: Kazajistán y Uzbekistán

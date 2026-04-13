@@ -1,80 +1,96 @@
 ---
-rootnotouch: sulfamic-acid
+name: Acide sulfamique
+cas: 5329-14-6
+hsCode: '2811199090'
 image: /images/products/sulfamic-acid-cas-5329-14-6-sinopeakchem.webp
 category: Acides
+rootnotouch: sulfamic-acid
 applications:
-- Agent de nettoyage (détartrage, élimination de la rouille)
-- Galvanoplastie (régulateur de pH, additif)
-- Industrie textile (fixation de teinture, blanchiment)
-- Industrie du papier et de la pâte (stabilisateur de chlore)
-- Fabrication d'édulcorants
-- Synthèse chimique
-cas: 5329-14-6
+  - 'Agent de nettoyage (détartrage, élimination de la rouille)'
+  - 'Galvanoplastie (régulateur de pH, additif)'
+  - 'Industrie textile (fixation de teinture, blanchiment)'
+  - Industrie du papier et de la pâte (stabilisateur de chlore)
+  - Fabrication d'édulcorants
+  - Synthèse chimique
 faqs:
-- answer: Nous sommes un fabricant et fournisseur leader d'acide sulfamique en Chine,
-    proposant une qualité industrielle avec une pureté ≥99,5%. Il est disponible pour
-    l'achat en gros et l'exportation, idéal pour diverses applications industrielles.
-  question: Quelles qualités d'acide sulfamique fournissez-vous pour les commandes
-    en gros ?
-- answer: Notre acide sulfamique (H₃NSO₃) est disponible avec une pureté minimale
-    de 99,5%. Nous assurons un contrôle qualité strict pour répondre aux normes internationales
-    pour toutes les applications.
-  question: Quelle est la pureté typique de vos produits d'acide sulfamique ?
-- answer: Pour l'exportation, notre acide sulfamique est généralement emballé dans
-    des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour
-    protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles
-    pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées
-    peuvent être organisées.
-  question: Comment l'acide sulfamique est-il emballé pour l'expédition internationale
-    depuis la Chine ?
-- answer: Notre acide sulfamique de qualité industrielle est largement utilisé comme
-    agent de nettoyage pour le détartrage, en galvanoplastie comme régulateur de pH
-    et dans l'industrie textile pour la fixation des teintures. Sa polyvalence en
-    fait un produit chimique clé.
-  question: Quelles sont les principales applications de votre acide sulfamique de
-    qualité industrielle ?
-- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
-    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
-    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
-    de manipulation. Ceux-ci sont disponibles sur demande.
-  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-    de sécurité (MSDS) pour l'acide sulfamique ?
-- answer: Le délai de livraison standard pour les commandes en gros d'acide sulfamique
-    est généralement de 7 à 15 jours après la confirmation de la commande, selon la
-    taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer
-    une logistique efficace et une livraison rapide depuis les principaux ports chinois.
-  question: Quel est le délai de livraison pour les commandes en gros d'acide sulfamique
-    de votre usine ?
+  - answer: >-
+      Nous sommes un fabricant et fournisseur leader d'acide sulfamique en
+      Chine, proposant une qualité industrielle avec une pureté ≥99,5%. Il est
+      disponible pour l'achat en gros et l'exportation, idéal pour diverses
+      applications industrielles.
+    question: >-
+      Quelles qualités d'acide sulfamique fournissez-vous pour les commandes en
+      gros ?
+  - answer: >-
+      Notre acide sulfamique (H₃NSO₃) est disponible avec une pureté minimale de
+      99,5%. Nous assurons un contrôle qualité strict pour répondre aux normes
+      internationales pour toutes les applications.
+    question: Quelle est la pureté typique de vos produits d'acide sulfamique ?
+  - answer: >-
+      Pour l'exportation, notre acide sulfamique est généralement emballé dans
+      des sacs tissés en PP de 25 kg avec des doublures intérieures en PE,
+      conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT)
+      sont également disponibles pour les expéditions en vrac plus importantes.
+      Des solutions d'emballage personnalisées peuvent être organisées.
+    question: >-
+      Comment l'acide sulfamique est-il emballé pour l'expédition internationale
+      depuis la Chine ?
+  - answer: >-
+      Notre acide sulfamique de qualité industrielle est largement utilisé comme
+      agent de nettoyage pour le détartrage, en galvanoplastie comme régulateur
+      de pH et dans l'industrie textile pour la fixation des teintures. Sa
+      polyvalence en fait un produit chimique clé.
+    question: >-
+      Quelles sont les principales applications de votre acide sulfamique de
+      qualité industrielle ?
+  - answer: >-
+      Oui, nous fournissons une documentation complète pour chaque expédition, y
+      compris un certificat d'analyse (COA) détaillant les spécifications du
+      produit et une fiche de données de sécurité (MSDS) pour les directives de
+      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
+    question: >-
+      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+      de sécurité (MSDS) pour l'acide sulfamique ?
+  - answer: >-
+      Le délai de livraison standard pour les commandes en gros d'acide
+      sulfamique est généralement de 7 à 15 jours après la confirmation de la
+      commande, selon la taille de la commande et le calendrier de supply
+      actuel. Nous nous efforçons d'assurer une logistique efficace et une
+      livraison rapide depuis les principaux ports chinois.
+    question: >-
+      Quel est le délai de livraison pour les commandes en gros d'acide
+      sulfamique de votre usine ?
 featured: false
-hsCode: '2811199090'
 id: '22'
 loading: 25MT/20GP
-name: Acide sulfamique
 nameCn: 氨基磺酸
 packaging: Sacs de 25KG/Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et
-  l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie et
-  les applications textiles. Fabricant de confiance avec des prix compétitifs.
+shortDescription: >-
+  Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et
+  l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie
+  et les applications textiles. Fabricant de confiance avec des prix
+  compétitifs.
 slug: sulfamic-acid
 specs:
-- label: Formule chimique
-  value: H₃NSO₃
-- label: Numéro CAS
-  value: 5329-14-6
-- label: Code SH
-  value: '2811199090'
-- label: Pureté
-  value: ≥99,5%
-- label: Apparence
-  value: Poudre cristalline blanche
-- label: Emballage
-  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
-    personnalisé disponible.
-- label: Chargement
-  value: 25 MT par conteneur 20GP (FCL)
-- label: Ports disponibles
-value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
+  - label: Formule chimique
+    value: H₃NSO₃
+  - label: Numéro CAS
+    value: 5329-14-6
+  - label: Code SH
+    value: '2811199090'
+  - label: Pureté
+    value: '≥99,5%'
+  - label: Apparence
+    value: Poudre cristalline blanche
+  - label: Emballage
+    value: >-
+      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
+      Emballage personnalisé disponible.
+  - label: Chargement
+    value: 25 MT par conteneur 20GP (FCL)
+  - label: Ports disponibles
+value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
 ---
 
 ## Acide sulfamique (CAS 5329-14-6) : Votre fabricant et fournisseur de confiance en Chine pour le H₃NSO₃ de haute pureté

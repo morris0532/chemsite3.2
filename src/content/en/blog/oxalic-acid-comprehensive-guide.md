@@ -1,7 +1,5 @@
 ---
 Id: SP-yg9w5at4q8
-rootnotouch: oxalic-acid-comprehensive-guide
-slug: oxalic-acid-comprehensive-guide
 title: >-
   Oxalic Acid: A Comprehensive Guide to Industrial Applications, Production, and
   Market Trends
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-comprehensive-guide
+slug: oxalic-acid-comprehensive-guide
 ---
 
 ## Oxalic Acid: A Comprehensive Analysis and Future Outlook

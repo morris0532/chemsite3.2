@@ -1,7 +1,5 @@
 ---
 Id: SP-ketyg4i6lt
-rootnotouch: buy-oxalic-acid-bulk
-slug: buy-oxalic-acid-bulk
 Excerpt: >-
   A comprehensive guide to bulk purchasing oxalic acid. Learn about minimum
   order quantities, packaging options, shipping methods, payment terms, and the
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: buy-oxalic-acid-bulk
+slug: buy-oxalic-acid-bulk
 ---
 
 ## How to Buy Oxalic Acid in Bulk: MOQ, Packaging & Shipping Guide

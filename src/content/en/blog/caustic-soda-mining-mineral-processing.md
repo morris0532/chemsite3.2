@@ -1,7 +1,5 @@
 ---
 Id: SP-kmkrvh58jy
-rootnotouch: caustic-soda-mining-mineral-processing
-slug: caustic-soda-mining-mineral-processing
 title: >-
   Caustic Soda in Mining & Mineral Processing: Essential for Extraction & pH
   Control
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-mining-mineral-processing
+slug: caustic-soda-mining-mineral-processing
 ---
 
 The **mining and mineral processing industry** is fundamental to modern society, providing the raw materials essential for everything from construction and electronics to renewable energy technologies. This industry relies heavily on a range of chemical reagents to efficiently extract valuable minerals from ore. Among these, **caustic soda (sodium hydroxide, NaOH)** is a versatile and indispensable chemical, playing a critical role in various stages of mineral extraction and processing.

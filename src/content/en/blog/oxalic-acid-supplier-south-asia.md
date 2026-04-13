@@ -1,7 +1,5 @@
 ---
 Id: SP-8q7557lhj1
-rootnotouch: oxalic-acid-supplier-south-asia
-slug: oxalic-acid-supplier-south-asia
 Excerpt: >-
   SinoPeakChem is a leading oxalic acid supplier for the South Asian market,
   serving key countries like India, Pakistan, and Bangladesh with quality
@@ -28,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-supplier-south-asia
+slug: oxalic-acid-supplier-south-asia
 ---
 
 ## Oxalic Acid Supplier for South Asia Market: India, Pakistan & Bangladesh

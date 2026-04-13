@@ -1,14 +1,15 @@
 ---
 Id: SP-7h7njep6ts
-rootnotouch: oxalic-acid-safety-handling
-slug: oxalic-acid-safety-handling
-Excerpt: دليل شامل حول السلامة عند التعامل مع حمض الأكساليك، يغطي معدات الوقاية الشخصية
+Excerpt: >-
+  دليل شامل حول السلامة عند التعامل مع حمض الأكساليك، يغطي معدات الوقاية الشخصية
   (PPE)، وبروتوكولات التخزين، وإجراءات الطوارئ، والتخلص من النفايات.
 title: 'دليل سلامة وتداول حمض الأكساليك: أفضل الممارسات للمحترفين'
-description: دليل شامل حول السلامة عند التعامل مع حمض الأكساليك، يغطي معدات الوقاية
-  الشخصية (PPE)، وبروتوكولات التخزين، وإجراءات الطوارئ، والتخلص من النفايات.
+description: >-
+  دليل شامل حول السلامة عند التعامل مع حمض الأكساليك، يغطي معدات الوقاية الشخصية
+  (PPE)، وبروتوكولات التخزين، وإجراءات الطوارئ، والتخلص من النفايات.
 image: /images/blog/oxalic-acid-safety-handling.webp
-imageAlt: عامل صناعي يرتدي معدات الوقاية الشخصية الكاملة ويتعامل مع المواد الكيميائية
+imageAlt: >-
+  عامل صناعي يرتدي معدات الوقاية الشخصية الكاملة ويتعامل مع المواد الكيميائية
   بأمان
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-safety-handling
+slug: oxalic-acid-safety-handling
 ---
 
 ## فهم مخاطر حمض الأكساليك

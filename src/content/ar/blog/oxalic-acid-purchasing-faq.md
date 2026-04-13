@@ -1,11 +1,11 @@
 ---
 Id: SP-p8fo1o9cxc
-rootnotouch: oxalic-acid-purchasing-faq
-slug: oxalic-acid-purchasing-faq
-Excerpt: احصل على إجابات لأسئلتك حول شراء حمض الأكساليك بالجملة، من خيارات التعبئة
+Excerpt: >-
+  احصل على إجابات لأسئلتك حول شراء حمض الأكساليك بالجملة، من خيارات التعبئة
   وشروط الشحن إلى مراقبة الجودة والخدمات اللوجستية الدولية.
 title: 'الأسئلة الشائعة حول شراء حمض الأكساليك بالجملة: دليل المشتري الشامل'
-description: احصل على إجابات لأسئلتك حول شراء حمض الأكساليك بالجملة، من خيارات التعبئة
+description: >-
+  احصل على إجابات لأسئلتك حول شراء حمض الأكساليك بالجملة، من خيارات التعبئة
   وشروط الشحن إلى مراقبة الجودة والخدمات اللوجستية الدولية.
 image: /images/blog/oxalic-acid-purchasing-faq.webp
 imageAlt: فريق مبيعات محترف يناقش العقود الكيميائية مع خلفية لمستودع منظم
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-purchasing-faq
+slug: oxalic-acid-purchasing-faq
 ---
 
 ## الأسئلة الشائعة حول شراء حمض الأكساليك

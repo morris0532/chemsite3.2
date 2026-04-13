@@ -1,7 +1,5 @@
 ---
 Id: SP-ogywxm9z0y
-rootnotouch: oxalic-acid-price
-slug: oxalic-acid-price
 Excerpt: >-
   Stay informed about the latest oxalic acid price trends for 2025. Explore the
   key factors influencing costs, from raw materials to energy prices, and learn
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-price
+slug: oxalic-acid-price
 ---
 
 ## Oxalic Acid Price Trend 2025: Factors Affecting Cost

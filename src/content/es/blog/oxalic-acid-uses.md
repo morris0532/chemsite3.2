@@ -1,17 +1,22 @@
 ---
 Id: SP-wqfaeivtea
-rootnotouch: oxalic-acid-uses
-slug: oxalic-acid-uses
-Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, desde la
-  eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras raras
-  y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.
-title: Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer
-description: Explore las diversas aplicaciones industriales del ácido oxálico, desde
-  la eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras
-  raras y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.
+Excerpt: >-
+  Explore las diversas aplicaciones industriales del ácido oxálico, desde la
+  eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras
+  raras y la síntesis farmacéutica. Descubra su versatilidad en distintos
+  sectores.
+title: >-
+  Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe
+  Conocer
+description: >-
+  Explore las diversas aplicaciones industriales del ácido oxálico, desde la
+  eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras
+  raras y la síntesis farmacéutica. Descubra su versatilidad en distintos
+  sectores.
 image: /images/blog/oxalic-acid-uses.webp
-imageAlt: Diversas aplicaciones industriales del ácido oxálico, mostrando varios procesos
-  como eliminación de óxido, tratamiento de madera y síntesis química.
+imageAlt: >-
+  Diversas aplicaciones industriales del ácido oxálico, mostrando varios
+  procesos como eliminación de óxido, tratamiento de madera y síntesis química.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación del Producto
@@ -20,6 +25,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-uses
+slug: oxalic-acid-uses
 ---
 
 ## Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer

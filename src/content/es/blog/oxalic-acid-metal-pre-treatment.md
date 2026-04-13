@@ -1,21 +1,23 @@
 ---
 Id: SP-cu2x9leh56
-rootnotouch: oxalic-acid-metal-pre-treatment
-slug: oxalic-acid-metal-pre-treatment
-Excerpt: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
-  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión
-  de recubrimientos y la resistencia a la corrosión.
-title: 'Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la
-  Adhesión y la Resistencia a la Corrosión'
-description: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
-  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión
-  de recubrimientos y la resistencia a la corrosión.
+Excerpt: >-
+  Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
+  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la
+  adhesión de recubrimientos y la resistencia a la corrosión.
+title: >-
+  Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la
+  Adhesión y la Resistencia a la Corrosión
+description: >-
+  Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
+  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la
+  adhesión de recubrimientos y la resistencia a la corrosión.
 image: /images/blog/oxalic-acid-metal-pre-treatment.webp
-imageAlt: Una imagen industrial profesional y limpia que muestra el pretratamiento
-  de superficies metálicas. Se observan piezas metálicas sometidas a procesos de limpieza,
-  desengrasado o baño químico. Se enfatiza la preparación de superficies para el recubrimiento
-  o pintado, con enfoque en precisión y aplicación industrial. Alta calidad, resolución
-  4k.
+imageAlt: >-
+  Una imagen industrial profesional y limpia que muestra el pretratamiento de
+  superficies metálicas. Se observan piezas metálicas sometidas a procesos de
+  limpieza, desengrasado o baño químico. Se enfatiza la preparación de
+  superficies para el recubrimiento o pintado, con enfoque en precisión y
+  aplicación industrial. Alta calidad, resolución 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
@@ -24,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-metal-pre-treatment
+slug: oxalic-acid-metal-pre-treatment
 ---
 
 ## Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la Adhesión y la Resistencia a la Corrosión

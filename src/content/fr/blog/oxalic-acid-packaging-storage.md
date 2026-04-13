@@ -1,19 +1,20 @@
 ---
 Id: SP-8ize3gf9wf
-rootnotouch: oxalic-acid-packaging-storage
-slug: oxalic-acid-packaging-storage
-Excerpt: Un guide complet sur l'emballage et le stockage appropriés de l'acide oxalique.
-  Découvrez les types d'emballage courants, les conditions de stockage idéales et
-  les mesures de sécurité essentielles pour maintenir la qualité du produit et assurer
-  une manipulation sûre.
+Excerpt: >-
+  Un guide complet sur l'emballage et le stockage appropriés de l'acide
+  oxalique. Découvrez les types d'emballage courants, les conditions de stockage
+  idéales et les mesures de sécurité essentielles pour maintenir la qualité du
+  produit et assurer une manipulation sûre.
 title: 'Emballage et Stockage de l''Acide Oxalique : Assurer Qualité et Sécurité'
-description: Un guide complet sur l'emballage et le stockage appropriés de l'acide
-  oxalique. Découvrez les types d'emballage courants, les conditions de stockage idéales
-  et les mesures de sécurité essentielles pour maintenir la qualité du produit et
-  assurer une manipulation sûre.
+description: >-
+  Un guide complet sur l'emballage et le stockage appropriés de l'acide
+  oxalique. Découvrez les types d'emballage courants, les conditions de stockage
+  idéales et les mesures de sécurité essentielles pour maintenir la qualité du
+  produit et assurer une manipulation sûre.
 image: /images/blog/oxalic-acid-packaging-storage.webp
-imageAlt: Une scène d'entrepôt industriel propre et organisée avec des palettes de
-  sacs de produits chimiques soigneusement empilées, clairement étiquetées pour un
+imageAlt: >-
+  Une scène d'entrepôt industriel propre et organisée avec des palettes de sacs
+  de produits chimiques soigneusement empilées, clairement étiquetées pour un
   stockage sûr.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-packaging-storage
+slug: oxalic-acid-packaging-storage
 ---
 
 ## Emballage et Stockage de l'Acide Oxalique : Assurer Qualité et Sécurité

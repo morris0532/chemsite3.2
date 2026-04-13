@@ -1,20 +1,21 @@
 ---
 Id: SP-t0bhtv7159
-rootnotouch: oxalic-acid-leather-tanning
-slug: oxalic-acid-leather-tanning
-Excerpt: Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
-  desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas
-  para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones
-  de seguridad.
+Excerpt: >-
+  Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
+  desde su uso histórico en métodos tradicionales hasta sus aplicaciones
+  modernas para mejorar la calidad y el color del cuero. Conozca sus funciones
+  químicas y consideraciones de seguridad.
 title: 'Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos'
-description: Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
-  desde su uso histórico en métodos tradicionales hasta sus aplicaciones modernas
-  para mejorar la calidad y el color del cuero. Conozca sus funciones químicas y consideraciones
-  de seguridad.
+description: >-
+  Explore el papel vital del ácido oxálico en el curtido y teñido del cuero,
+  desde su uso histórico en métodos tradicionales hasta sus aplicaciones
+  modernas para mejorar la calidad y el color del cuero. Conozca sus funciones
+  químicas y consideraciones de seguridad.
 image: /images/blog/oxalic-acid-leather-tanning.webp
-imageAlt: Una imagen profesional y artística que muestra el proceso de curtido y teñido
-  de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una exhibición
-  de productos de cuero de varios colores.
+imageAlt: >-
+  Una imagen profesional y artística que muestra el proceso de curtido y teñido
+  de cuero. Muestra piletas con cuero, manos trabajando con cuero teñido o una
+  exhibición de productos de cuero de varios colores.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-leather-tanning
+slug: oxalic-acid-leather-tanning
 ---
 
 ## Ácido Oxálico para Curtido y Teñido de Cuero: Métodos Tradicionales y Modernos

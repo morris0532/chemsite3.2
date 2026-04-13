@@ -1,7 +1,5 @@
 ---
 Id: SP-e29imj9wf3
-rootnotouch: oxalic-acid-analytical-chemistry
-slug: oxalic-acid-analytical-chemistry
 Excerpt: >-
   Discover the fundamental role of oxalic acid as a primary standard and
   reducing agent in various analytical chemistry techniques, from titration to
@@ -25,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-analytical-chemistry
+slug: oxalic-acid-analytical-chemistry
 ---
 
 ## Oxalic Acid in Laboratory Analytical Chemistry: Essential Reagent

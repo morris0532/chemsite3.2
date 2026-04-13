@@ -1,14 +1,15 @@
 ---
 Id: SP-uhrgrbauwm
-rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-slug: how-to-choose-the-right-chem-supplier-from-china
-Excerpt: دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد، ومراقبة
+Excerpt: >-
+  دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد، ومراقبة
   الجودة، وسلسلة التوريد، وفعالية التكلفة، والتواصل.
 title: 'كيفية اختيار المورد الكيميائي المناسب من الصين: دليل شامل'
-description: دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد،
-  ومراقبة الجودة، وسلسلة التوريد، وفعالية التكلفة، والتواصل.
+description: >-
+  دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد، ومراقبة
+  الجودة، وسلسلة التوريد، وفعالية التكلفة، والتواصل.
 image: /images/blog/how-to-choose-the-right-chem-supplier-from-china.webp
-imageAlt: إعداد الخدمات اللوجستية الكيميائية وسلسلة التوريد الحديثة مع براميل منظمة
+imageAlt: >-
+  إعداد الخدمات اللوجستية الكيميائية وسلسلة التوريد الحديثة مع براميل منظمة
   وخلفية مصنع تصنيع
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: how-to-choose-the-right-chem-supplier-from-china
+slug: how-to-choose-the-right-chem-supplier-from-china
 ---
 
 ## مقدمة

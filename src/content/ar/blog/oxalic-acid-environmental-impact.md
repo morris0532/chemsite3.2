@@ -1,14 +1,15 @@
 ---
 Id: SP-0ram908w6j
-rootnotouch: oxalic-acid-environmental-impact
-slug: oxalic-acid-environmental-impact
-Excerpt: استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية
+Excerpt: >-
+  استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية
   للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.
 title: 'الأثر البيئي لحمض الأكساليك: التحلل الحيوي والاستدامة'
-description: استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته
-  العالية للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.
+description: >-
+  استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية
+  للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.
 image: /images/blog/oxalic-acid-environmental-impact.webp
-imageAlt: صورة طبيعية تظهر غابة خضراء ومياه صافية، ترمز إلى التحلل الحيوي والاستدامة
+imageAlt: >-
+  صورة طبيعية تظهر غابة خضراء ومياه صافية، ترمز إلى التحلل الحيوي والاستدامة
   البيئية للمواد العضوية
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-environmental-impact
+slug: oxalic-acid-environmental-impact
 ---
 
 ## الأثر البيئي لحمض الأكساليك: التحلل الحيوي والاستدامة

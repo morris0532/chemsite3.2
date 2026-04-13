@@ -1,7 +1,5 @@
 ---
 Id: SP-gsvfd5i0wz
-rootnotouch: caustic-soda-textile-industry-deep-dive
-slug: caustic-soda-textile-industry-deep-dive
 title: >-
   Caustic Soda in the Textile Industry: Deep Dive into Mercerization, Dyeing &
   Finishing Processes
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-textile-industry-deep-dive
+slug: caustic-soda-textile-industry-deep-dive
 ---
 
 The **textile industry** is a complex and diverse sector that transforms raw fibers into finished fabrics and garments. This transformation involves numerous chemical processes, many of which rely on the powerful alkaline properties of **caustic soda (sodium hydroxide, NaOH)**. From preparing raw fibers to enhancing the final product's appearance and durability, caustic soda plays an indispensable role.

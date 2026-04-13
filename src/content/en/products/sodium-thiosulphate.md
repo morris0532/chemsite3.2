@@ -1,11 +1,11 @@
 ---
+name: Sodium Thiosulphate (Hypo)
+cas: 7772-98-7 / 10102-17-7
+hsCode: '2832300000'
 image: /images/products/sodium-thiosulphate-hypo-cas-7772-98-7-sinopeakchem.webp
 category: Sulfur Compounds
 id: '1'
-name: Sodium Thiosulphate (Hypo)
 nameCn: 硫代硫酸钠
-cas: 7772-98-7 / 10102-17-7
-hsCode: '2832300000'
 slug: sodium-thiosulphate-hypo
 shortDescription: >-
   High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from

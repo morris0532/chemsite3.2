@@ -1,14 +1,14 @@
 ---
 Id: SP-qqruw4dqbw
-rootnotouch: oxalic-acid-industrial-applications
-slug: oxalic-acid-industrial-applications
-Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
-  ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
-  и обращения.
+Excerpt: >-
+  Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
+  ржавчины до извлечения редкоземельных элементов, а также важные правила
+  безопасности и обращения.
 title: 'Щавелевая кислота: Промышленное применение и правила безопасности'
-description: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
-  ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
-  и обращения.
+description: >-
+  Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
+  ржавчины до извлечения редкоземельных элементов, а также важные правила
+  безопасности и обращения.
 image: /images/blog/oxalic-acid-industrial-applications.webp
 imageAlt: Oxalic Acid used for industrial rust removal and cleaning
 Date: '2026-04-10'
@@ -19,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: CIS & Russia (RU)
+rootnotouch: oxalic-acid-industrial-applications
+slug: oxalic-acid-industrial-applications
 ---
 
 ## Что такое щавелевая кислота?

@@ -1,11 +1,11 @@
 ---
+name: Calcium Chloride
+cas: 10043-52-4 / 10035-04-8
+hsCode: '2827200000'
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: Chloride Compounds
 id: '4'
-name: Calcium Chloride
 nameCn: 氯化钙
-cas: 10043-52-4 / 10035-04-8
-hsCode: '2827200000'
 slug: calcium-chloride
 shortDescription: >-
   High-purity Calcium Chloride (CaCl2) flakes, pellets, and powder for bulk

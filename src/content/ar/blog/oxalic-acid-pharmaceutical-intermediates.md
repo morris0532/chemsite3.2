@@ -1,12 +1,12 @@
 ---
 Id: SP-16mvj6wej5
-rootnotouch: oxalic-acid-pharmaceutical-intermediates
-slug: oxalic-acid-pharmaceutical-intermediates
-Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية
+Excerpt: >-
+  اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية
   الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.
 title: 'حمض الأكساليك في صناعة الأدوية: الوسطيات الصيدلانية والتوليف'
-description: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح
-  لتنقية الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.
+description: >-
+  اكتشف الدور الحيوي لحمض الأكساليك في صناعة الأدوية، من تكوين الأملاح لتنقية
+  الأدوية إلى استخدامه ككاشف في التوليف العضوي المعقد.
 image: /images/blog/oxalic-acid-pharmaceutical-intermediates.webp
 imageAlt: مختبر صيدلاني حديث مع معدات توليف وتكرير متطورة
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-pharmaceutical-intermediates
+slug: oxalic-acid-pharmaceutical-intermediates
 ---
 
 ## حمض الأكساليك: كاشف حيوي في تصنيع الأدوية

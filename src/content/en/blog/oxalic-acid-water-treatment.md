@@ -1,7 +1,5 @@
 ---
 Id: SP-vr2tgx6vzm
-rootnotouch: oxalic-acid-water-treatment
-slug: oxalic-acid-water-treatment
 Excerpt: >-
   Discover how oxalic acid effectively removes iron and manganese from water,
   its chemical mechanism, application methods, benefits, and safety
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-water-treatment
+slug: oxalic-acid-water-treatment
 ---
 
 ## Oxalic Acid for Water Treatment: Removing Iron & Manganese

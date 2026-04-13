@@ -1,7 +1,5 @@
 ---
 Id: SP-oeq1r7h79a
-rootnotouch: water-treatment-chemicals-comparison
-slug: water-treatment-chemicals-comparison
 title: >-
   Water Treatment Chemicals Comparison: PAC vs Aluminum Sulfate vs Ferric
   Chloride
@@ -19,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: water-treatment-chemicals-comparison
+slug: water-treatment-chemicals-comparison
 ---
 
 ## Introduction

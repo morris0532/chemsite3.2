@@ -1,7 +1,5 @@
 ---
 Id: SP-dlo7slr2o2
-rootnotouch: oxalic-acid-paper-industry
-slug: oxalic-acid-paper-industry
 Excerpt: >-
   Discover the multifaceted applications of oxalic acid in the paper industry,
   from its crucial role in pulp bleaching to its use in various processing
@@ -25,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-paper-industry
+slug: oxalic-acid-paper-industry
 ---
 
 ## Oxalic Acid in the Paper Industry: Bleaching and Beyond

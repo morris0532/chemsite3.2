@@ -1,18 +1,21 @@
 ---
 Id: SP-sqx172ezln
-rootnotouch: oxalic-acid-textile-dyeing
-slug: oxalic-acid-textile-dyeing
-Excerpt: Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son
-  utilisation comme auxiliaire de teinture et agent réducteur dans l'impression à
-  son efficacité dans le nettoyage et le traitement des fibres. Découvrez ses applications
-  industrielles et ses avantages.
-title: 'Acide Oxalique pour la Teinture et l''Impression Textile : Applications Industrielles'
-description: Explorez le rôle vital de l'acide oxalique dans l'industrie textile,
-  de son utilisation comme auxiliaire de teinture et agent réducteur dans l'impression
-  à son efficacité dans le nettoyage et le traitement des fibres. Découvrez ses applications
-  industrielles et ses avantages.
+Excerpt: >-
+  Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son
+  utilisation comme auxiliaire de teinture et agent réducteur dans l'impression
+  à son efficacité dans le nettoyage et le traitement des fibres. Découvrez ses
+  applications industrielles et ses avantages.
+title: >-
+  Acide Oxalique pour la Teinture et l'Impression Textile : Applications
+  Industrielles
+description: >-
+  Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son
+  utilisation comme auxiliaire de teinture et agent réducteur dans l'impression
+  à son efficacité dans le nettoyage et le traitement des fibres. Découvrez ses
+  applications industrielles et ses avantages.
 image: /images/blog/oxalic-acid-textile-dyeing.webp
-imageAlt: Une usine de teinture et d'impression textile vibrante, présentant des tissus
+imageAlt: >-
+  Une usine de teinture et d'impression textile vibrante, présentant des tissus
   colorés en cours de traitement et des machines industrielles.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -22,6 +25,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-textile-dyeing
+slug: oxalic-acid-textile-dyeing
 ---
 
 ## Acide Oxalique pour la Teinture et l'Impression Textile : Applications Industrielles

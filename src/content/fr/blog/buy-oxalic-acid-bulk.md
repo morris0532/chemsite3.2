@@ -1,18 +1,23 @@
 ---
 Id: SP-7ftrv8sx54
-rootnotouch: buy-oxalic-acid-bulk
-slug: buy-oxalic-acid-bulk
-Excerpt: Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les quantités
-  minimales de commande, les options d'emballage, les méthodes d'expédition, les conditions
-  de paiement et l'ensemble du processus d'approvisionnement du devis à la livraison.
-title: 'Comment Acheter de l''Acide Oxalique en Gros : Guide MOQ, Emballage et Expédition'
-description: Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les
-  quantités minimales de commande, les options d'emballage, les méthodes d'expédition,
-  les conditions de paiement et l'ensemble du processus d'approvisionnement du devis
+Excerpt: >-
+  Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les quantités
+  minimales de commande, les options d'emballage, les méthodes d'expédition, les
+  conditions de paiement et l'ensemble du processus d'approvisionnement du devis
+  à la livraison.
+title: >-
+  Comment Acheter de l'Acide Oxalique en Gros : Guide MOQ, Emballage et
+  Expédition
+description: >-
+  Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les quantités
+  minimales de commande, les options d'emballage, les méthodes d'expédition, les
+  conditions de paiement et l'ensemble du processus d'approvisionnement du devis
   à la livraison.
 image: /images/blog/buy-oxalic-acid-bulk.webp
-imageAlt: Image de logistique industrielle montrant diverses tailles d'emballage de
-  produits chimiques avec un navire cargo et des conteneurs d'expédition en arrière-plan.
+imageAlt: >-
+  Image de logistique industrielle montrant diverses tailles d'emballage de
+  produits chimiques avec un navire cargo et des conteneurs d'expédition en
+  arrière-plan.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Guide d'Approvisionnement
@@ -21,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: buy-oxalic-acid-bulk
+slug: buy-oxalic-acid-bulk
 ---
 
 ## Comment Acheter de l'Acide Oxalique en Gros : Guide MOQ, Emballage et Expédition

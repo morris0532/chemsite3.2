@@ -1,14 +1,15 @@
 ---
 Id: SP-a8b5gyftm5
-rootnotouch: how-to-test-oxalic-acid-purity
-slug: how-to-test-oxalic-acid-purity
-Excerpt: دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل
+Excerpt: >-
+  دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل
   الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.
 title: 'كيفية اختبار نقاء حمض الأكساليك: طرق مخبرية وصناعية'
-description: دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس
-  الثقل الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.
+description: >-
+  دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل
+  الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.
 image: /images/blog/how-to-test-oxalic-acid-purity.webp
-imageAlt: كيميائي يقوم بإجراء معايرة دقيقة في مختبر مراقبة الجودة لاختبار نقاء حمض
+imageAlt: >-
+  كيميائي يقوم بإجراء معايرة دقيقة في مختبر مراقبة الجودة لاختبار نقاء حمض
   الأكساليك
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -18,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: how-to-test-oxalic-acid-purity
+slug: how-to-test-oxalic-acid-purity
 ---
 
 ## كيفية اختبار نقاء حمض الأكساليك: طرق مخبرية وصناعية

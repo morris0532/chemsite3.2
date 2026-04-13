@@ -1,11 +1,11 @@
 ---
 Id: SP-azrispxqgm
-rootnotouch: oxalic-acid-uses
-slug: oxalic-acid-uses
-Excerpt: اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
+Excerpt: >-
+  اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
   واستخراج العناصر الأرضية النادرة، والأدوية، وتربية النحل، والمزيد.
 title: 'أهم 15 استخداماً صناعياً لحمض الأكساليك: دليل شامل'
-description: اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
+description: >-
+  اكتشف الاستخدامات المتنوعة لحمض الأكساليك في المنسوجات، ومعالجة المعادن،
   واستخراج العناصر الأرضية النادرة، والأدوية، وتربية النحل، والمزيد.
 image: /images/blog/oxalic-acid-uses.webp
 imageAlt: تطبيقات صناعية متنوعة لحمض الأكساليك
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-uses
+slug: oxalic-acid-uses
 ---
 
 ## تنوع استخدامات حمض الأكساليك

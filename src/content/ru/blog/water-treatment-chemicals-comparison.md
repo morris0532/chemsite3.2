@@ -1,15 +1,16 @@
 ---
 Id: SP-nmob19fbfp
-rootnotouch: water-treatment-chemicals-comparison
-slug: water-treatment-chemicals-comparison
-Excerpt: Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид
-  (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд
-  водоподготовки.
-title: 'Сравнение химикатов для водоподготовки: PAC против сульфата алюминия против
-  хлорида железа'
-description: Сравните самые популярные коагулянты для водоподготовки, включая полиалюминийхлорид
-  (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее решение для ваших нужд
-  водоподготовки.
+Excerpt: >-
+  Сравните самые популярные коагулянты для водоподготовки, включая
+  полиалюминийхлорид (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее
+  решение для ваших нужд водоподготовки.
+title: >-
+  Сравнение химикатов для водоподготовки: PAC против сульфата алюминия против
+  хлорида железа
+description: >-
+  Сравните самые популярные коагулянты для водоподготовки, включая
+  полиалюминийхлорид (PAC), сульфат алюминия и хлорид железа, чтобы найти лучшее
+  решение для ваших нужд водоподготовки.
 image: /images/blog/water-treatment-chemicals-comparison.webp
 imageAlt: Comparison of water treatment chemicals PAC and Aluminum Sulfate
 Date: '2026-04-10'
@@ -20,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: CIS & Russia (RU)
+rootnotouch: water-treatment-chemicals-comparison
+slug: water-treatment-chemicals-comparison
 ---
 
 ## Введение

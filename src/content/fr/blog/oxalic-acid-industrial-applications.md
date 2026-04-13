@@ -1,14 +1,14 @@
 ---
 Id: SP-w9qhkuypge
-rootnotouch: oxalic-acid-industrial-applications
-slug: oxalic-acid-industrial-applications
-Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes
-  consignes de sécurité et de manipulation.
+Excerpt: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille à l'extraction de terres rares, ainsi que
+  d'importantes consignes de sécurité et de manipulation.
 title: 'Acide oxalique : applications industrielles et consignes de sécurité'
-description: Explorez les diverses applications industrielles de l'acide oxalique,
-  de l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes
-  consignes de sécurité et de manipulation.
+description: >-
+  Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille à l'extraction de terres rares, ainsi que
+  d'importantes consignes de sécurité et de manipulation.
 image: /images/blog/oxalic-acid-industrial-applications.webp
 imageAlt: Oxalic Acid used for industrial rust removal and cleaning
 Date: '2026-04-10'
@@ -19,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-industrial-applications
+slug: oxalic-acid-industrial-applications
 ---
 
 ## Qu'est-ce que l'acide oxalique ?

@@ -1,17 +1,19 @@
 ---
 Id: SP-yq771riug9
-rootnotouch: oxalic-acid-supplier-china
-slug: oxalic-acid-supplier-china
-Excerpt: La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
-  les fournisseurs chinois, à vérifier les certifications de qualité et à assurer
-  une chaîne d'approvisionnement stable pour vos besoins industriels.
-title: 'Comment Choisir un Fournisseur d''Acide Oxalique Fiable en Chine : Un Guide
-  Complet de l''Acheteur'
-description: La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à
-  évaluer les fournisseurs chinois, à vérifier les certifications de qualité et à
+Excerpt: >-
+  La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
+  les fournisseurs chinois, à vérifier les certifications de qualité et à
+  assurer une chaîne d'approvisionnement stable pour vos besoins industriels.
+title: >-
+  Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine : Un Guide
+  Complet de l'Acheteur
+description: >-
+  La Chine produit plus de 70 % de l'acide oxalique mondial. Apprenez à évaluer
+  les fournisseurs chinois, à vérifier les certifications de qualité et à
   assurer une chaîne d'approvisionnement stable pour vos besoins industriels.
 image: /images/blog/oxalic-acid-supplier-china.webp
-imageAlt: Entrepôt industriel d'acide oxalique et logistique d'expédition, représentant
+imageAlt: >-
+  Entrepôt industriel d'acide oxalique et logistique d'expédition, représentant
   une chaîne d'approvisionnement fiable en provenance de Chine.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -21,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-supplier-china
+slug: oxalic-acid-supplier-china
 ---
 
 ## Comment Choisir un Fournisseur d'Acide Oxalique Fiable en Chine

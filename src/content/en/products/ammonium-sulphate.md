@@ -1,11 +1,11 @@
 ---
+name: Ammonium Sulphate
+cas: 7783-20-2
+hsCode: '3102210000'
 image: /images/products/ammonium-sulphate-cas-7783-20-2-sinopeakchem.webp
 category: Sulfate Compounds
 id: '12'
-name: Ammonium Sulphate
 nameCn: 硫酸铵
-cas: 7783-20-2
-hsCode: '3102210000'
 slug: ammonium-sulphate
 shortDescription: >-
   Agricultural and industrial grade ammonium sulphate fertilizer and chemical

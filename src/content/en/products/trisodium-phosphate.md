@@ -1,11 +1,11 @@
 ---
+name: Trisodium Phosphate (TSP)
+cas: 7601-54-9
+hsCode: '2835291000'
 image: /images/products/trisodium-phosphate-tsp-cas-7601-54-9-sinopeakchem.webp
 category: Phosphates
 id: '11'
-name: Trisodium Phosphate (TSP)
 nameCn: 磷酸三钠
-cas: 7601-54-9
-hsCode: '2835291000'
 slug: trisodium-phosphate-tsp
 shortDescription: >-
   High-purity Trisodium Phosphate (TSP) for bulk purchase and export from China.

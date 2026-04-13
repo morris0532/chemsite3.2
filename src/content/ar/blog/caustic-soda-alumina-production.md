@@ -1,17 +1,19 @@
 ---
 Id: SP-echgx05dp3
-rootnotouch: caustic-soda-alumina-production
-slug: caustic-soda-alumina-production
-Excerpt: Understand the critical role of caustic soda (sodium hydroxide) in the Bayer
-  process for alumina production, from bauxite digestion to red mud management, and
-  its impact on the aluminum industry.
-title: 'Caustic Soda in Alumina Production: The Bayer Process Explained for Industrial
-  Buyers'
-description: Understand the critical role of caustic soda (sodium hydroxide) in the
-  Bayer process for alumina production, from bauxite digestion to red mud management,
+Excerpt: >-
+  Understand the critical role of caustic soda (sodium hydroxide) in the Bayer
+  process for alumina production, from bauxite digestion to red mud management,
+  and its impact on the aluminum industry.
+title: >-
+  Caustic Soda in Alumina Production: The Bayer Process Explained for Industrial
+  Buyers
+description: >-
+  Understand the critical role of caustic soda (sodium hydroxide) in the Bayer
+  process for alumina production, from bauxite digestion to red mud management,
   and its impact on the aluminum industry.
 image: /images/blog/caustic-soda-alumina-production.webp
-imageAlt: Industrial alumina production plant with bauxite, caustic soda, and aluminum
+imageAlt: >-
+  Industrial alumina production plant with bauxite, caustic soda, and aluminum
   ingots, illustrating the Bayer process
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
@@ -21,6 +23,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: caustic-soda-alumina-production
+slug: caustic-soda-alumina-production
 ---
 
 The **aluminum industry** is fundamental to modern manufacturing, from aerospace to construction. The journey to produce aluminum begins with **alumina (aluminum oxide)**, which is primarily extracted from bauxite ore using a highly specialized chemical process known as the **Bayer process**. At the very heart of this process, enabling the efficient extraction of alumina, is **caustic soda (sodium hydroxide, NaOH)**.

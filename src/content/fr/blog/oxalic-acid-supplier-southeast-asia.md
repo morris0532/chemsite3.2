@@ -1,25 +1,30 @@
 ---
 Id: SP-4ml8hwraan
-rootnotouch: oxalic-acid-supplier-southeast-asia
-slug: oxalic-acid-supplier-southeast-asia
-Excerpt: L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique,
-  tiré par des industries comme le textile, la céramique et le caoutchouc. SinoPeakChem
-  est votre partenaire de confiance, offrant de l'acide oxalique de haute qualité
-  avec une logistique efficace et un support de conformité pour les acheteurs en Thaïlande,
-  au Vietnam, en Indonésie, aux Philippines et en Malaisie.
-title: 'Fournisseur d''Acide Oxalique pour l''Asie du Sud-Est : Thaïlande, Vietnam,
-  Indonésie et Plus'
-description: L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique,
-  tiré par des industries comme le textile, la céramique et le caoutchouc. SinoPeakChem
-  est votre partenaire de confiance, offrant de l'acide oxalique de haute qualité
-  avec une logistique efficace et un support de conformité pour les acheteurs en Thaïlande,
-  au Vietnam, en Indonésie, aux Philippines et en Malaisie.
+Excerpt: >-
+  L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique,
+  tiré par des industries comme le textile, la céramique et le caoutchouc.
+  SinoPeakChem est votre partenaire de confiance, offrant de l'acide oxalique de
+  haute qualité avec une logistique efficace et un support de conformité pour
+  les acheteurs en Thaïlande, au Vietnam, en Indonésie, aux Philippines et en
+  Malaisie.
+title: >-
+  Fournisseur d'Acide Oxalique pour l'Asie du Sud-Est : Thaïlande, Vietnam,
+  Indonésie et Plus
+description: >-
+  L'Asie du Sud-Est est un marché en croissance rapide pour l'acide oxalique,
+  tiré par des industries comme le textile, la céramique et le caoutchouc.
+  SinoPeakChem est votre partenaire de confiance, offrant de l'acide oxalique de
+  haute qualité avec une logistique efficace et un support de conformité pour
+  les acheteurs en Thaïlande, au Vietnam, en Indonésie, aux Philippines et en
+  Malaisie.
 image: /images/blog/oxalic-acid-supplier-southeast-asia.webp
-imageAlt: Une image professionnelle et claire représentant une carte de l'Asie du
-  Sud-Est, mettant en évidence des pays comme la Thaïlande, le Vietnam et l'Indonésie,
-  avec des superpositions subtiles de routes commerciales chimiques, d'installations
-  industrielles ou d'activités portuaires. Souligne la croissance économique de la
-  région et l'import/export de produits chimiques. Haute qualité, résolution 4k.
+imageAlt: >-
+  Une image professionnelle et claire représentant une carte de l'Asie du
+  Sud-Est, mettant en évidence des pays comme la Thaïlande, le Vietnam et
+  l'Indonésie, avec des superpositions subtiles de routes commerciales
+  chimiques, d'installations industrielles ou d'activités portuaires. Souligne
+  la croissance économique de la région et l'import/export de produits
+  chimiques. Haute qualité, résolution 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Marché Régional
@@ -28,6 +33,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-supplier-southeast-asia
+slug: oxalic-acid-supplier-southeast-asia
 ---
 
 # Fournisseur d'Acide Oxalique pour l'Asie du Sud-Est : Thaïlande, Vietnam, Indonésie et Plus

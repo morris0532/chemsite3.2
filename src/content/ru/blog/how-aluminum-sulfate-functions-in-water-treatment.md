@@ -1,12 +1,12 @@
 ---
 Id: SP-z79auboewr
-rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
-slug: how-aluminum-sulfate-functions-in-water-treatment
-Excerpt: Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой
+Excerpt: >-
+  Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой
   воды до очистки промышленных сточных вод.
 title: Как сульфат алюминия функционирует в водоочистке
-description: Откройте для себя ключевую роль сульфата алюминия в очистке воды, от
-  питьевой воды до очистки промышленных сточных вод.
+description: >-
+  Откройте для себя ключевую роль сульфата алюминия в очистке воды, от питьевой
+  воды до очистки промышленных сточных вод.
 image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
 imageAlt: Aluminum Sulfate used in water treatment process
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: CIS & Russia (RU)
+rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
+slug: how-aluminum-sulfate-functions-in-water-treatment
 ---
 
 # Основная роль сульфата алюминия в современной водоочистке

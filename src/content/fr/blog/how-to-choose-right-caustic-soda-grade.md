@@ -1,13 +1,13 @@
 ---
 Id: SP-5sajjcvt2m
-rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: how-to-choose-right-caustic-soda-grade
-Excerpt: Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez à choisir
-  la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le traitement
-  de l'eau.
+Excerpt: >-
+  Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez à
+  choisir la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le
+  traitement de l'eau.
 title: Comment choisir la bonne qualité de soude caustique pour votre industrie
-description: Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez
-  à choisir la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le
+description: >-
+  Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez à
+  choisir la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le
   traitement de l'eau.
 image: /images/blog/how-to-choose-right-caustic-soda-grade.webp
 imageAlt: Différentes qualités de soude caustique en perles et en écailles
@@ -19,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: how-to-choose-right-caustic-soda-grade
+slug: how-to-choose-right-caustic-soda-grade
 ---
 
 # Comment choisir la bonne qualité de soude caustique pour votre industrie

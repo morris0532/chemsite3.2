@@ -1,7 +1,5 @@
 ---
 Id: SP-r256kysuln
-rootnotouch: oxalic-acid-uses
-slug: oxalic-acid-uses
 Excerpt: >-
   Explore the diverse industrial applications of oxalic acid, from rust removal
   and wood bleaching to rare earth extraction and pharmaceutical synthesis.
@@ -23,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-uses
+slug: oxalic-acid-uses
 ---
 
 ## Top 15 Industrial Uses of Oxalic Acid You Should Know

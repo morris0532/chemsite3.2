@@ -1,20 +1,21 @@
 ---
 Id: SP-02hvgpfig2
-rootnotouch: oxalic-acid-purchasing-faq
-slug: oxalic-acid-purchasing-faq
-Excerpt: Naviguez dans les complexités de l'approvisionnement en acide oxalique en
-  vrac grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux conditions
-  d'expédition et de paiement.
+Excerpt: >-
+  Naviguez dans les complexités de l'approvisionnement en acide oxalique en vrac
+  grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux
+  conditions d'expédition et de paiement.
 title: FAQ sur l'Achat d'Acide Oxalique pour les Acheteurs en Vrac
-description: Naviguez dans les complexités de l'approvisionnement en acide oxalique
-  en vrac grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux
+description: >-
+  Naviguez dans les complexités de l'approvisionnement en acide oxalique en vrac
+  grâce à notre FAQ complète, couvrant tout, des qualités et emballages aux
   conditions d'expédition et de paiement.
 image: /images/blog/oxalic-acid-purchasing-faq.webp
-imageAlt: Une image professionnelle et claire représentant un concept de FAQ, un processus
-  d'achat ou des sacs de produits chimiques en vrac. Montrez des éléments tels que
-  des points d'interrogation, une liste de contrôle, une calculatrice ou des sacs
-  industriels soigneusement empilés. Mettez l'accent sur la clarté, l'efficacité et
-  l'achat en vrac. Haute qualité, résolution 4k.
+imageAlt: >-
+  Une image professionnelle et claire représentant un concept de FAQ, un
+  processus d'achat ou des sacs de produits chimiques en vrac. Montrez des
+  éléments tels que des points d'interrogation, une liste de contrôle, une
+  calculatrice ou des sacs industriels soigneusement empilés. Mettez l'accent
+  sur la clarté, l'efficacité et l'achat en vrac. Haute qualité, résolution 4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Guide d'Achat
@@ -23,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
+rootnotouch: oxalic-acid-purchasing-faq
+slug: oxalic-acid-purchasing-faq
 ---
 
 ## FAQ sur l'Achat d'Acide Oxalique pour les Acheteurs en Vrac

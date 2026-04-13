@@ -1,7 +1,5 @@
 ---
 Id: SP-sze5gj16ry
-rootnotouch: oxalic-acid-market-trends-2026
-slug: oxalic-acid-market-trends-2026
 Excerpt: >-
   Explore the dynamic global oxalic acid market in 2026, driven by key sectors
   like EV batteries, sustainable textiles, and advanced metal cleaning. This
@@ -30,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-market-trends-2026
+slug: oxalic-acid-market-trends-2026
 ---
 
 # Oxalic Acid Market Trends 2026: Growth Drivers and Future Outlook

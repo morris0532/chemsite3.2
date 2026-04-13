@@ -1,16 +1,17 @@
 ---
 Id: SP-q9t4bvuihp
-rootnotouch: oxalic-acid-wood-bleaching
-slug: oxalic-acid-wood-bleaching
-Excerpt: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
-  guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas
-  de tanino, con instrucciones paso a paso y consejos de seguridad.
+Excerpt: >-
+  Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía
+  detalla su uso para blanquear, eliminar manchas de agua, manchas negras y
+  manchas de tanino, con instrucciones paso a paso y consejos de seguridad.
 title: 'Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional'
-description: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
-  guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas
-  de tanino, con instrucciones paso a paso y consejos de seguridad.
+description: >-
+  Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta guía
+  detalla su uso para blanquear, eliminar manchas de agua, manchas negras y
+  manchas de tanino, con instrucciones paso a paso y consejos de seguridad.
 image: /images/blog/oxalic-acid-wood-bleaching.webp
-imageAlt: Imagen dividida que muestra una superficie de madera antes y después del
+imageAlt: >-
+  Imagen dividida que muestra una superficie de madera antes y después del
   tratamiento con ácido oxálico, demostrando un blanqueo y limpieza efectivos.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -20,6 +21,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-wood-bleaching
+slug: oxalic-acid-wood-bleaching
 ---
 
 ## Ácido Oxálico para el Blanqueo y Limpieza de Madera: Una Guía Profesional

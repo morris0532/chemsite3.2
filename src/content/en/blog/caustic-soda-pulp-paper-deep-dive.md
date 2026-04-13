@@ -1,7 +1,5 @@
 ---
 Id: SP-fnicr9yvmj
-rootnotouch: caustic-soda-pulp-paper-deep-dive
-slug: caustic-soda-pulp-paper-deep-dive
 title: >-
   Caustic Soda in Pulp & Paper Industry: Deep Dive into Cooking, Bleaching &
   Environmental Impact
@@ -22,6 +20,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-pulp-paper-deep-dive
+slug: caustic-soda-pulp-paper-deep-dive
 ---
 
 The **pulp and paper industry** is a cornerstone of modern life, producing a vast array of products from packaging and printing paper to hygiene products. This industry is highly chemical-intensive, and **caustic soda (sodium hydroxide, NaOH)** stands out as one of the most critical reagents. Its strong alkaline properties are fundamental to various stages of pulp production, paper manufacturing, and even environmental management within the mills.

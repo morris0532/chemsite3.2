@@ -1,7 +1,5 @@
 ---
 Id: SP-8ym0nm4unq
-rootnotouch: oxalic-acid-metal-pre-treatment
-slug: oxalic-acid-metal-pre-treatment
 title: >-
   Oxalic Acid in Metal Surface Pre-treatment: Enhancing Adhesion & Corrosion
   Resistance
@@ -24,6 +22,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-metal-pre-treatment
+slug: oxalic-acid-metal-pre-treatment
 ---
 
 ## Oxalic Acid in Metal Surface Pre-treatment: Enhancing Adhesion & Corrosion Resistance

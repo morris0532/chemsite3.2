@@ -1,7 +1,5 @@
 ---
 Id: SP-21zzlpf2x4
-rootnotouch: caustic-soda-alumina-production
-slug: caustic-soda-alumina-production
 title: >-
   Caustic Soda in Alumina Production: The Bayer Process Explained for Industrial
   Buyers
@@ -21,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: caustic-soda-alumina-production
+slug: caustic-soda-alumina-production
 ---
 
 The **aluminum industry** is fundamental to modern manufacturing, from aerospace to construction. The journey to produce aluminum begins with **alumina (aluminum oxide)**, which is primarily extracted from bauxite ore using a highly specialized chemical process known as the **Bayer process**. At the very heart of this process, enabling the efficient extraction of alumina, is **caustic soda (sodium hydroxide, NaOH)**.

@@ -1,11 +1,11 @@
 ---
+name: Citric Acid Anhydrous
+cas: 77-92-9 / 5949-29-1
+hsCode: '2918140000'
 image: /images/products/citric-acid-anhydrous-cas-77-92-9-sinopeakchem.webp
 category: Organic Acids
 id: '8'
-name: Citric Acid Anhydrous
 nameCn: 无水柠檬酸
-cas: 77-92-9 / 5949-29-1
-hsCode: '2918140000'
 slug: citric-acid-anhydrous
 shortDescription: >-
   High-purity Citric Acid Anhydrous for bulk purchase and export from China.

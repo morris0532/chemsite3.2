@@ -1,11 +1,11 @@
 ---
+name: Sodium Acetate Anhydrous
+cas: 127-09-3 / 6131-90-4
+hsCode: '2915291000'
 image: /images/products/sodium-acetate-anhydrous-cas-127-09-3-sinopeakchem.webp
 category: Organic Salts
 id: '17'
-name: Sodium Acetate Anhydrous
 nameCn: 无水醋酸钠
-cas: 127-09-3 / 6131-90-4
-hsCode: '2915291000'
 slug: sodium-acetate-anhydrous
 shortDescription: >-
   High-purity Sodium Acetate Anhydrous (CH3COONa) for bulk purchase and export

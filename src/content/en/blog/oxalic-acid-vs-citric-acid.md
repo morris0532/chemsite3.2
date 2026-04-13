@@ -1,7 +1,5 @@
 ---
 Id: SP-ustshjtrc3
-rootnotouch: oxalic-acid-vs-citric-acid
-slug: oxalic-acid-vs-citric-acid
 Excerpt: >-
   A comparative analysis of oxalic acid and citric acid, highlighting their
   chemical properties, industrial and household applications, safety profiles,
@@ -28,6 +26,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-vs-citric-acid
+slug: oxalic-acid-vs-citric-acid
 ---
 
 ## Oxalic Acid vs. Citric Acid: A Comparative Analysis

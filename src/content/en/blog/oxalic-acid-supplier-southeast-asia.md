@@ -1,7 +1,5 @@
 ---
 Id: SP-mg5p2e9vsz
-rootnotouch: oxalic-acid-supplier-southeast-asia
-slug: oxalic-acid-supplier-southeast-asia
 Excerpt: >-
   Southeast Asia is a rapidly growing market for oxalic acid, driven by
   industries like textiles, ceramics, and rubber. SinoPeakChem is your trusted
@@ -30,6 +28,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Global (EN)
+rootnotouch: oxalic-acid-supplier-southeast-asia
+slug: oxalic-acid-supplier-southeast-asia
 ---
 
 # Oxalic Acid Supplier for Southeast Asia: Thailand, Vietnam, Indonesia & More

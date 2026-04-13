@@ -1,19 +1,21 @@
 ---
 Id: SP-aut89jjd5q
-rootnotouch: oxalic-acid-packaging-storage
-slug: oxalic-acid-packaging-storage
-Excerpt: Una guía integral sobre el embalaje y almacenamiento adecuado del ácido oxálico.
-  Conozca los tipos comunes de envases, las condiciones ideales de almacenamiento
-  y las medidas de seguridad esenciales para mantener la calidad del producto y asegurar
-  un manejo seguro.
+Excerpt: >-
+  Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
+  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de
+  almacenamiento y las medidas de seguridad esenciales para mantener la calidad
+  del producto y asegurar un manejo seguro.
 title: 'Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad'
-description: Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
-  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de almacenamiento
-  y las medidas de seguridad esenciales para mantener la calidad del producto y asegurar
-  un manejo seguro.
+description: >-
+  Una guía integral sobre el embalaje y almacenamiento adecuado del ácido
+  oxálico. Conozca los tipos comunes de envases, las condiciones ideales de
+  almacenamiento y las medidas de seguridad esenciales para mantener la calidad
+  del producto y asegurar un manejo seguro.
 image: /images/blog/oxalic-acid-packaging-storage.webp
-imageAlt: Una escena limpia y organizada de un almacén industrial con palets apilados
-  ordenadamente de sacos químicos, claramente etiquetados para almacenamiento seguro.
+imageAlt: >-
+  Una escena limpia y organizada de un almacén industrial con palets apilados
+  ordenadamente de sacos químicos, claramente etiquetados para almacenamiento
+  seguro.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Logística y Seguridad
@@ -22,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-packaging-storage
+slug: oxalic-acid-packaging-storage
 ---
 
 ## Embalaje y Almacenamiento del Ácido Oxálico: Garantizando Calidad y Seguridad

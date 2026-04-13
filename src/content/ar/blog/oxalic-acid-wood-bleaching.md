@@ -1,12 +1,12 @@
 ---
 Id: SP-ta8sjh5r69
-rootnotouch: oxalic-acid-wood-bleaching
-slug: oxalic-acid-wood-bleaching
-Excerpt: تعلم كيفية استخدام حمض الأكساليك لإزالة بقع الماء والصدأ من الخشب وإعادة
-  اللون الطبيعي للأخشاب القديمة.
+Excerpt: >-
+  تعلم كيفية استخدام حمض الأكساليك لإزالة بقع الماء والصدأ من الخشب وإعادة اللون
+  الطبيعي للأخشاب القديمة.
 title: 'تبييض وترميم الخشب بحمض الأكساليك: دليل المحترفين'
-description: تعلم كيفية استخدام حمض الأكساليك لإزالة بقع الماء والصدأ من الخشب وإعادة
-  اللون الطبيعي للأخشاب القديمة.
+description: >-
+  تعلم كيفية استخدام حمض الأكساليك لإزالة بقع الماء والصدأ من الخشب وإعادة اللون
+  الطبيعي للأخشاب القديمة.
 image: /images/blog/oxalic-acid-wood-bleaching.webp
 imageAlt: ترميم الخشب باستخدام حمض الأكساليك
 Date: '2026-04-10'
@@ -17,6 +17,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-wood-bleaching
+slug: oxalic-acid-wood-bleaching
 ---
 
 ## إعادة الحياة للخشب القديم

@@ -1,19 +1,21 @@
 ---
 Id: SP-rxbanmqyqr
-rootnotouch: oxalic-acid-rust-removal
-slug: oxalic-acid-rust-removal
-Excerpt: Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies
-  metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación
-  paso a paso, precauciones de seguridad y comparación con otros removedores de óxido.
+Excerpt: >-
+  Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas
+  superficies metálicas. Esta guía completa cubre sus principios químicos, el
+  proceso de aplicación paso a paso, precauciones de seguridad y comparación con
+  otros removedores de óxido.
 title: 'Ácido Oxálico para la Eliminación de Óxido: La Guía Completa'
-description: Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas
-  superficies metálicas. Esta guía completa cubre sus principios químicos, el proceso
-  de aplicación paso a paso, precauciones de seguridad y comparación con otros removedores
-  de óxido.
+description: >-
+  Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas
+  superficies metálicas. Esta guía completa cubre sus principios químicos, el
+  proceso de aplicación paso a paso, precauciones de seguridad y comparación con
+  otros removedores de óxido.
 image: /images/blog/oxalic-acid-rust-removal.webp
-imageAlt: Una imagen ilustrativa que muestra un objeto metálico oxidado parcialmente
-  sumergido en una solución de ácido oxálico, con una clara distinción entre las partes
-  oxidadas y limpias.
+imageAlt: >-
+  Una imagen ilustrativa que muestra un objeto metálico oxidado parcialmente
+  sumergido en una solución de ácido oxálico, con una clara distinción entre las
+  partes oxidadas y limpias.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
@@ -22,6 +24,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
+rootnotouch: oxalic-acid-rust-removal
+slug: oxalic-acid-rust-removal
 ---
 
 ## Ácido Oxálico para la Eliminación de Óxido: La Guía Completa

@@ -1,12 +1,14 @@
 ---
 Id: SP-5afdixya40
-rootnotouch: oxalic-acid-supplier-north-america
-slug: oxalic-acid-supplier-north-america
-Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض
-  أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.
+Excerpt: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة
+  المعادن.
 title: 'مورد حمض الأكساليك الموثوق في أمريكا الشمالية: الولايات المتحدة وكندا والمكسيك'
-description: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير
-  حمض أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.
+description: >-
+  اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة
+  المعادن.
 image: /images/blog/oxalic-acid-supplier-north-america.webp
 imageAlt: اللوجستيات الكيميائية وسلسلة التوريد عبر أمريكا الشمالية
 Date: '2026-04-10'
@@ -17,6 +19,8 @@ Primary_Keyword: Industrial Chemicals
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
+rootnotouch: oxalic-acid-supplier-north-america
+slug: oxalic-acid-supplier-north-america
 ---
 
 ## تلبية الاحتياجات الصناعية في أمريكا الشمالية
