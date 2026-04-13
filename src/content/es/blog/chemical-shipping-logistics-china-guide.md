@@ -1,7 +1,7 @@
 ---
 Id: SP-lklqj8jr6e
 rootnotouch: chemical-shipping-logistics-china-guide
-slug: envío-y-logística-de-productos-químicos
+slug: envio-y-logistica-de-productos
 Excerpt: Navegue las complejidades del envío internacional de productos químicos desde
   China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el socio
   logístico adecuado.

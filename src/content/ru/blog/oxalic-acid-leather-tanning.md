@@ -1,7 +1,7 @@
 ---
 Id: SP-sk074jxpit
 rootnotouch: oxalic-acid-leather-tanning
-slug: shchavelevaya-kislota-dlya-dubileнiya-i-okrashivaнiya
+slug: shchavelevaya-kislota-dlya-dubileniya-i
 Excerpt: Исследуйте жизненно важную роль щавелевой кислоты в дублении и окрашивании
   кожи, от ее исторического использования в традиционных методах до ее современного
   применения для улучшения качества и цвета кожи. Узнайте о ее химических функциях

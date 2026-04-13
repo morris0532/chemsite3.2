@@ -1,7 +1,7 @@
 ---
 Id: SP-kzfiauctjp
 rootnotouch: oxalic-acid-market-trends-2026
-slug: tendencias-del-mercado-del-ácido-oxálico
+slug: tendencias-del-mercado-del-acido
 Excerpt: Explore el dinámico mercado global del ácido oxálico en 2026, impulsado por
   sectores clave como las baterías de vehículos eléctricos, los textiles sostenibles
   y la limpieza avanzada de metales. Este artículo analiza el crecimiento del mercado,

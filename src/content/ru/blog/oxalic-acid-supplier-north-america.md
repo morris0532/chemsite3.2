@@ -1,7 +1,7 @@
 ---
 Id: SP-y5dnwkg80v
 rootnotouch: oxalic-acid-supplier-north-america
-slug: postavshchik-shchavelevoy-kisloty-dlya-severoamerikaнskogo-ryнka
+slug: postavshchik-shchavelevoy-kisloty-dlya-severoamerikanskogo
 Excerpt: SinoPeakChem — ваш надежный поставщик щавелевой кислоты для североамериканского
   рынка, обслуживающий ключевые страны, такие как США, Канада и Мексика, качественной
   продукцией для промышленной очистки, обработки древесины и различных химических

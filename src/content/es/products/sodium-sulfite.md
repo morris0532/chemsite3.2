@@ -54,7 +54,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfito de Sodio Anhidro (Na2SO3) de alta pureza para compra a granel
   y exportación desde China. Esencial para tratamiento de agua, fotografía y aplicaciones
   textiles. Proveedor confiable con precios competitivos.
-slug: sulfito-de-sodio-anhidro
+slug: sulfito-de-sodio
 specs:
 - label: Fórmula Química
   value: Na₂SO₃

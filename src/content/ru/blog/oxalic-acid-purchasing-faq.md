@@ -1,7 +1,7 @@
 ---
 Id: SP-hr2ru4bl1i
 rootnotouch: oxalic-acid-purchasing-faq
-slug: chasto-zadavaemye-voprosy-po-zakupke-shchavelevoy
+slug: chasto-zadavaemye-voprosy-po-zakupke
 Excerpt: Разберитесь в сложностях оптовой закупки щавелевой кислоты с нашим всеобъемлющим
   разделом часто задаваемых вопросов, охватывающим все, от сортов и упаковки до условий
   доставки и оплаты.

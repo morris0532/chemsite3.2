@@ -60,7 +60,7 @@ shortDescription: Acide citrique monohydraté de haute pureté pour l'achat en g
   et l'exportation depuis la Chine. Essentiel pour les applications alimentaires,
   les boissons, pharmaceutiques et industrielles. Fabricant de confiance avec des
   prix compétitifs.
-slug: acide-citrique-monohydraté
+slug: acide-citrique-monohydrate
 specs:
 - label: Formule chimique
   value: C₆H₈O₇·H₂O

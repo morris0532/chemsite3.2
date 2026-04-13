@@ -1,7 +1,7 @@
 ---
 Id: SP-qgw0aw9j0f
 rootnotouch: oxalic-acid-grades-specifications
-slug: marki-i-spetsifikatsii-shchavelevoy-kisloty-podrobнyy-obzor
+slug: marki-i-spetsifikatsii-shchavelevoy-kisloty
 Excerpt: Изучите различные марки и спецификации щавелевой кислоты, включая промышленные,
   пищевые и фармацевтические марки. Поймите требования к чистоте, физико-химические
   показатели и соответствующие международные стандарты, чтобы выбрать правильный продукт

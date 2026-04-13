@@ -57,7 +57,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Tiosulfato de Sodio (Na2S2O3) de alta pureza para compra al por
   mayor y exportación desde China. Esencial para el tratamiento de agua, fotografía
   y aplicaciones médicas. Proveedor de confianza con precios competitivos.
-slug: tiosulfato-de-sodio-hypo
+slug: tiosulfato-de-sodio
 specs:
 - label: Fórmula Química
   value: Na₂S₂O₃·5H₂O

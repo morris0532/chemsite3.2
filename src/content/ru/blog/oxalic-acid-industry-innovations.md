@@ -1,7 +1,7 @@
 ---
 Id: SP-xtx4yypgg9
 rootnotouch: oxalic-acid-industry-innovations
-slug: iннovatsii-v-proizvodstve-shchavelevoy-kisloty-dvizheнie
+slug: innovatsii-v-proizvodstve-shchavelevoy-kisloty
 Excerpt: Изучите последние инновации в производстве щавелевой кислоты, сосредоточившись
   на достижениях в области зеленой химии, передовых методах очистки и инициативах
   циркулярной экономики. Узнайте, как эти разработки повышают устойчивость и эффективность

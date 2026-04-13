@@ -1,7 +1,7 @@
 ---
 Id: SP-lp0rjl0wr9
 rootnotouch: oxalic-acid-rare-earth-extraction
-slug: shchavelevaya-kislota-dlya-izvlecheнiya-redkozemelнykh-elemeнtov
+slug: shchavelevaya-kislota-dlya-izvlecheniya-redkozemelnykh
 Excerpt: Изучите критическую роль щавелевой кислоты в извлечении, разделении и очистке
   редкоземельных элементов. Узнайте о ее химических принципах и ее значении в высокотехнологичных
   отраслях, таких как электроника, зеленая энергетика и оборона.

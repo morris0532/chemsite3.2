@@ -58,7 +58,7 @@ shortDescription: Tripolyphosphate de sodium (STPP) de haute pureté pour l'acha
   gros et l'exportation depuis la Chine. Essentiel pour les détergents, les additifs
   alimentaires et les applications industrielles. Fabricant de confiance avec des
   prix compétitifs.
-slug: tripolyphosphate-de-sodium-stpp
+slug: tripolyphosphate-de-sodium
 specs:
 - label: Formule chimique
   value: Na₅P₃O₁₀

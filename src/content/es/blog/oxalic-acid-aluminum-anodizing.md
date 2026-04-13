@@ -1,7 +1,7 @@
 ---
 Id: SP-ez9sbyu923
 rootnotouch: oxalic-acid-aluminum-anodizing
-slug: ácido-oxálico-para-anodizado-de-aluminio
+slug: acido-oxalico-para-anodizado-de
 Excerpt: Descubra el papel crucial del ácido oxálico en el anodizado de aluminio,
   un proceso que mejora la durabilidad, la resistencia a la corrosión y el atractivo
   estético del aluminio. Conozca su mecanismo, ventajas y aplicaciones en diversas

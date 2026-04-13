@@ -1,7 +1,7 @@
 ---
 Id: SP-2ndt4q8cx0
 rootnotouch: oxalic-acid-supplier-south-asia
-slug: fournisseur-dacide-oxalique-pour-le-marché
+slug: fournisseur-d-acide-oxalique-pour-le
 Excerpt: SinoPeakChem est un fournisseur d'acide oxalique de premier plan pour le
   marché de l'Asie du Sud, desservant des pays clés comme l'Inde, le Pakistan et le
   Bangladesh avec des produits de qualité pour la teinture textile, l'industrie du

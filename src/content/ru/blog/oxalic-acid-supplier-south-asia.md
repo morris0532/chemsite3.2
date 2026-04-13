@@ -1,7 +1,7 @@
 ---
 Id: SP-o6b3el1kuu
 rootnotouch: oxalic-acid-supplier-south-asia
-slug: postavshchik-shchavelevoy-kisloty-dlya-ryнka-yuzhнoy
+slug: postavshchik-shchavelevoy-kisloty-dlya-rynka
 Excerpt: SinoPeakChem — ведущий поставщик щавелевой кислоты для рынка Южной Азии,
   обслуживающий ключевые страны, такие как Индия, Пакистан и Бангладеш, качественной
   продукцией для текстильного крашения, кожевенной промышленности и различных химических

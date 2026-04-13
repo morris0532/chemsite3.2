@@ -58,7 +58,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Sulfate de sodium anhydre (Na2SO4) de haute pureté pour l'achat
   en gros et l'exportation depuis la Chine. Essentiel pour la fabrication de détergents,
   de textiles et de verre. Fabricant de confiance avec des prix compétitifs.
-slug: sulfate-de-sodium-anhydre-ssa
+slug: sulfate-de-sodium-anhydre
 specs:
 - label: Formule chimique
   value: Na₂SO₄

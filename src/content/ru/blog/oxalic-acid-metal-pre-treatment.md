@@ -1,7 +1,7 @@
 ---
 Id: SP-b9dodh19tr
 rootnotouch: oxalic-acid-metal-pre-treatment
-slug: shchavelevaya-kislota-v-predvaritelнoy-obrabotke-metallicheskikh
+slug: shchavelevaya-kislota-v-predvaritelnoy-obrabotke
 Excerpt: Изучите решающую роль щавелевой кислоты в предварительной обработке металлических
   поверхностей, от очистки и обезжиривания до пассивации, повышая адгезию покрытий
   и улучшая коррозионную стойкость.

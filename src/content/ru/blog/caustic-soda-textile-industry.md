@@ -1,7 +1,7 @@
 ---
 Id: SP-zwmewjv47n
 rootnotouch: caustic-soda-textile-industry
-slug: caustic-soda-in-the-textile-industry
+slug: caustic-soda-textile-industry
 Excerpt: Explore the indispensable role of caustic soda (sodium hydroxide) in textile
   manufacturing, from mercerization and dyeing to scouring and finishing, enhancing
   fabric quality and performance.

@@ -1,7 +1,7 @@
 ---
 Id: SP-str4f9qd4r
 rootnotouch: oxalic-acid-safety-handling
-slug: bezopasнost-i-obrashcheнie-s-shchavelevoy-kislotoy
+slug: bezopasnost-i-obrashchenie-s-shchavelevoy
 Excerpt: Полное руководство по безопасному обращению с щавелевой кислотой. Узнайте
   о ее свойствах, потенциальных опасностях, необходимом СИЗ, правильном хранении,
   первой помощи и процедурах утилизации отходов для обеспечения безопасной рабочей

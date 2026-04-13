@@ -1,7 +1,7 @@
 ---
 Id: SP-q9t4bvuihp
 rootnotouch: oxalic-acid-wood-bleaching
-slug: ácido-oxálico-para-el-blanqueo-y
+slug: acido-oxalico-para-el-blanqueo
 Excerpt: Restaure y rejuvenezca las superficies de madera con ácido oxálico. Esta
   guía detalla su uso para blanquear, eliminar manchas de agua, manchas negras y manchas
   de tanino, con instrucciones paso a paso y consejos de seguridad.

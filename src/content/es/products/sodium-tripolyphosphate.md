@@ -51,7 +51,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Trifosfato de Sodio (STPP) de alta pureza para compra al por mayor
   y exportación desde China. Esencial para detergentes, aditivos alimentarios y aplicaciones
   industriales. Proveedor confiable con precios competitivos.
-slug: trifosfato-de-sodio-stpp
+slug: tripolifosfato-de-sodio
 specs:
 - label: Fórmula Química
   value: Na₅P₃O₁₀

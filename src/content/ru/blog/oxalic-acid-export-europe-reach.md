@@ -1,7 +1,7 @@
 ---
 Id: SP-yak7t4qjlh
 rootnotouch: oxalic-acid-export-europe-reach
-slug: eksport-shchavelevoy-kisloty-v-evropu-rukovodstvo
+slug: eksport-shchavelevoy-kisloty-v-evropu
 Excerpt: Навигация по сложностям экспорта щавелевой кислоты в Европу требует строгого
   соблюдения регламента REACH. SinoPeakChem поставляет высококачественную, соответствующую
   требованиям щавелевую кислоту для европейского рынка.

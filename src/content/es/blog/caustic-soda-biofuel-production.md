@@ -1,7 +1,7 @@
 ---
 Id: SP-8h2s9z6xrs
 rootnotouch: caustic-soda-biofuel-production
-slug: caustic-soda-in-biofuel-production-essential
+slug: caustic-soda-in-biofuel-production
 Excerpt: Explore the critical role of caustic soda (sodium hydroxide) as a catalyst
   in biodiesel production through transesterification, optimizing yield and process
   efficiency.

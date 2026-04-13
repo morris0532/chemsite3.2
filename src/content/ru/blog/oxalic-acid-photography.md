@@ -1,7 +1,7 @@
 ---
 Id: SP-5vszt1jc45
 rootnotouch: oxalic-acid-photography
-slug: shchavelevaya-kislota-v-fotografii-istoricheskoe-primeнeнie
+slug: shchavelevaya-kislota-v-fotografii-istoricheskoe
 Excerpt: Исследуйте историческую роль щавелевой кислоты в фотографических процессах,
   от ранних платиновых и палладиевых отпечатков до ее современного применения в тонировании
   и гравюре. Поймите ее химическую функцию и соображения безопасности.

@@ -1,7 +1,7 @@
 ---
 Id: SP-1op0j395lw
 rootnotouch: how-to-test-oxalic-acid-purity
-slug: kak-proverit-chistotu-shchavelevoy-kisloty-podrobнoe
+slug: kak-proverit-chistotu-shchavelevoy-kisloty
 Excerpt: Откройте для себя основные методы проверки чистоты щавелевой кислоты, включая
   титрование перманганатом калия, определение температуры плавления и спектроскопический
   анализ. Обеспечьте качество и безопасность для ваших промышленных применений.

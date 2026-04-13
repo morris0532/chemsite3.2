@@ -1,7 +1,7 @@
 ---
 Id: SP-6inm99ugwr
 rootnotouch: chemical-shipping-logistics-china-guide
-slug: expédition-et-logistique-des-produits-chimiques
+slug: expedition-et-logistique-des-produits
 Excerpt: Naviguez dans les complexités de l'expédition internationale de produits
   chimiques depuis la Chine. Découvrez les réglementations, les exigences d'emballage
   et comment choisir le bon partenaire logistique.

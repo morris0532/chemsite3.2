@@ -1,7 +1,7 @@
 ---
 Id: SP-3llr97mc39
 rootnotouch: oxalic-acid-beekeeping
-slug: shchavelevaya-kislota-v-pchelovodstve-primeнeнie-preimushchestva
+slug: shchavelevaya-kislota-v-pchelovodstve-primenenie
 Excerpt: Полное руководство по использованию щавелевой кислоты для борьбы с клещом
   варроа в пчеловодстве. Узнайте о методах применения, дозировке, сроках, эффективности
   и безопасности для пчел и меда.

@@ -1,7 +1,7 @@
 ---
 Id: SP-g37rofvk3v
 rootnotouch: oxalic-acid-supplier-middle-east
-slug: proveedor-de-ácido-oxálico-para-el
+slug: proveedor-de-acido-oxalico-para
 Excerpt: SinoPeakChem es su proveedor confiable de ácido oxálico para Oriente Medio,
   atendiendo mercados clave como EAU, Arabia Saudita y Turquía con productos de alta
   calidad para el cuidado de piedras, petróleo y gas, y aplicaciones industriales.

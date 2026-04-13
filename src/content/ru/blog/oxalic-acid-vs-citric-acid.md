@@ -1,7 +1,7 @@
 ---
 Id: SP-1qis7187em
 rootnotouch: oxalic-acid-vs-citric-acid
-slug: shchavelevaya-kislota-protiv-limoннoy-kisloty-sravнitelнyy
+slug: shchavelevaya-kislota-protiv-limonnoy-kisloty
 Excerpt: Сравнительный анализ щавелевой и лимонной кислот, освещающий их химические
   свойства, промышленное и бытовое применение, профили безопасности и экологические
   соображения. Поймите, какая кислота лучше подходит для различных задач.

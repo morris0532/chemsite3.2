@@ -1,7 +1,7 @@
 ---
 Id: SP-bq0ob1xc96
 rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-slug: cómo-elegir-al-proveedor-químico-adecuado
+slug: como-elegir-al-proveedor-quimico
 Excerpt: Una guía detallada sobre cómo seleccionar un proveedor químico confiable
   en China, abarcando la calificación del proveedor, control de calidad, cadena de
   suministro, rentabilidad y comunicación.

@@ -1,7 +1,7 @@
 ---
 Id: SP-gi1upein1p
 rootnotouch: oxalic-acid-supplier-africa
-slug: postavshchik-shchavelevoy-kisloty-dlya-afrikaнskogo-ryнka
+slug: postavshchik-shchavelevoy-kisloty-dlya-afrikanskogo
 Excerpt: SinoPeakChem — ваш надежный поставщик щавелевой кислоты для африканского
   рынка, обслуживающий ключевые страны, такие как Южная Африка, Египет и Нигерия,
   качественной продукцией для горнодобывающей промышленности, водоподготовки и промышленных

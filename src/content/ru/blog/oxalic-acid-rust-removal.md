@@ -1,7 +1,7 @@
 ---
 Id: SP-o3ibutqw4v
 rootnotouch: oxalic-acid-rust-removal
-slug: shchavelevaya-kislota-dlya-udaleнiya-rzhavchiнy-polнoe
+slug: shchavelevaya-kislota-dlya-udaleniya-rzhavchiny
 Excerpt: Узнайте, как щавелевая кислота эффективно удаляет ржавчину с различных металлических
   поверхностей. Это полное руководство охватывает ее химические принципы, пошаговое
   применение, меры предосторожности и сравнение с другими средствами для удаления

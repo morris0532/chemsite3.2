@@ -1,7 +1,7 @@
 ---
 Id: SP-1iquapuqlf
 rootnotouch: oxalic-acid-purchasing-faq
-slug: preguntas-frecuentes-sobre-la-compra-de
+slug: preguntas-frecuentes-sobre-la-compra
 Excerpt: Navegue por las complejidades de la adquisición a granel de ácido oxálico
   con nuestra completa sección de preguntas frecuentes, que abarca desde grados y
   embalajes hasta envío y condiciones de pago.

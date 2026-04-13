@@ -1,7 +1,7 @@
 ---
 Id: SP-oi9zbfhov9
 rootnotouch: oxalic-acid-market-trends-2026
-slug: teнdeнtsii-ryнka-shchavelevoy-kisloty-2026-drayvery
+slug: tendentsii-rynka-shchavelevoy-kisloty-2026
 Excerpt: Изучите динамичный мировой рынок щавелевой кислоты в 2026 году, движимый
   ключевыми секторами, такими как аккумуляторы для электромобилей, устойчивый текстиль
   и передовая очистка металлов. Эта статья анализирует рост рынка, региональные потребности

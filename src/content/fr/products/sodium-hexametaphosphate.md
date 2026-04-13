@@ -58,7 +58,7 @@ shortDescription: Hexamétaphosphate de sodium (SHMP) de haute pureté pour l'ac
   en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau,
   les additifs alimentaires et les applications industrielles. Fabricant de confiance
   avec des prix compétitifs.
-slug: hexamétaphosphate-de-sodium-shmp
+slug: hexametaphosphate-de-sodium
 specs:
 - label: Formule chimique
   value: (NaPO₃)₆

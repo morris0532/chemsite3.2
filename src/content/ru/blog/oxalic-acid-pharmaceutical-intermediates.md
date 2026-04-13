@@ -1,7 +1,7 @@
 ---
 Id: SP-jioxemkpcx
 rootnotouch: oxalic-acid-pharmaceutical-intermediates
-slug: shchavelevaya-kislota-v-farmatsevticheskikh-promezhutochнykh-produktakh
+slug: shchavelevaya-kislota-v-farmatsevticheskikh-promezhutochnykh
 Excerpt: Исследуйте критическую роль щавелевой кислоты как универсального строительного
   блока и реагента в синтезе различных фармацевтических промежуточных продуктов, подчеркивая
   ее химические свойства и применение в производстве лекарств.

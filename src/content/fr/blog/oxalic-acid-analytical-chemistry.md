@@ -1,7 +1,7 @@
 ---
 Id: SP-ywya8p0uub
 rootnotouch: oxalic-acid-analytical-chemistry
-slug: acide-oxalique-en-chimie-analytique-de
+slug: acide-oxalique-en-chimie-analytique
 Excerpt: Découvrez le rôle fondamental de l'acide oxalique en tant qu'étalon primaire
   et agent réducteur dans diverses techniques de chimie analytique, du titrage à la
   complexométrie.

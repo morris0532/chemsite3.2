@@ -1,7 +1,7 @@
 ---
 Id: SP-dla3p15y4x
 rootnotouch: oxalic-acid-market-analysis
-slug: análisis-del-mercado-global-del-ácido
+slug: analisis-del-mercado-global-del
 Excerpt: Profundice en el mercado global del ácido oxálico, analizando las principales
   regiones productoras, los principales flujos comerciales, los impulsores de la demanda
   y las tendencias futuras del mercado que dan forma a la industria.

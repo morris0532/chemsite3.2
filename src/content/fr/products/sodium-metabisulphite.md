@@ -49,7 +49,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export
   from China. Essential for water treatment, food preservation, and mining applications.
   Trusted supplier with competitive pricing.
-slug: sodium-metabisulphite-smbs
+slug: metabisulfite-de-sodium
 specs:
 - label: Chemical Formula
   value: Na₂S₂O₅

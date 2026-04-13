@@ -1,7 +1,7 @@
 ---
 Id: SP-c8rij9qidc
 rootnotouch: oxalic-acid-industry-innovations
-slug: innovations-dans-lindustrie-de-lacide-oxalique
+slug: innovations-dans-l-industrie-de-l-acide
 Excerpt: Explorez les dernières innovations dans l'industrie de l'acide oxalique,
   en mettant l'accent sur les avancées en chimie verte, les techniques de purification
   avancées et les initiatives d'économie circulaire. Découvrez comment ces développements

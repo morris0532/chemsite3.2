@@ -1,7 +1,7 @@
 ---
 Id: SP-na1x2xsm1c
 rootnotouch: oxalic-acid-manufacturer-china
-slug: kitayskiy-proizvoditel-i-eksporter-shchavelevoy-kisloty
+slug: kitayskiy-proizvoditel-i-eksporter-shchavelevoy
 Excerpt: Узнайте, почему Китай доминирует на мировом рынке щавелевой кислоты. Подробнее
   о контроле качества, международных сертификациях, эффективных экспортных процессах
   и о том, как SinoPeakChem обеспечивает надежные поставки по всему миру.

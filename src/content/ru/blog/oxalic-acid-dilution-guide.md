@@ -1,7 +1,7 @@
 ---
 Id: SP-l7rdn4sdey
 rootnotouch: oxalic-acid-dilution-guide
-slug: kak-bezopasнo-razbavlyat-shchavelevuyu-kislotu-raschet
+slug: kak-bezopasno-razbavlyat-shchavelevuyu-kislotu
 Excerpt: Полное руководство по безопасному разбавлению щавелевой кислоты, включая
   основные меры предосторожности, пошаговые процедуры разбавления и методы расчета
   концентрации для различных применений. Обеспечьте безопасное и эффективное использование.

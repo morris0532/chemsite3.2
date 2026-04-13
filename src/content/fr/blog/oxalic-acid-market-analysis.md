@@ -1,7 +1,7 @@
 ---
 Id: SP-52bjyyb22a
 rootnotouch: oxalic-acid-market-analysis
-slug: analyse-du-marché-mondial-de-lacide
+slug: analyse-du-marche-mondial-de
 Excerpt: Plongez dans le marché mondial de l'acide oxalique, en analysant les principales
   régions productrices, les flux commerciaux majeurs, les moteurs de la demande et
   les futures tendances du marché qui façonnent l'industrie.

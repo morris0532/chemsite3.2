@@ -58,7 +58,7 @@ shortDescription: Citrate de trisodium (TSC) de haute pureté pour l'achat en gr
   et l'exportation depuis la Chine. Essentiel pour les additifs alimentaires, les
   produits pharmaceutiques et les applications de détergents. Fabricant de confiance
   avec des prix compétitifs.
-slug: citrate-de-trisodium-tsc
+slug: citrate-de-sodium
 specs:
 - label: Formule chimique
   value: Na₃C₆H₅O₇·2H₂O

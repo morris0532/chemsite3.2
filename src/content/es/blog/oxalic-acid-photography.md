@@ -1,7 +1,7 @@
 ---
 Id: SP-fmx197yelf
 rootnotouch: oxalic-acid-photography
-slug: ácido-oxálico-en-la-fotografía-uso
+slug: acido-oxalico-en-la-fotografia
 Excerpt: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
   desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas
   en el virado y la impresión artística. Comprende su función química y consideraciones

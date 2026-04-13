@@ -1,7 +1,7 @@
 ---
 Id: SP-vu8f7lth01
 rootnotouch: oxalic-acid-comprehensive-guide
-slug: ácido-oxálico-una-guía-integral-sobre
+slug: acido-oxalico-una-guia-integral
 Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, sus procesos
   de producción, gestión de seguridad, estrategias ambientales y perspectivas futuras
   del mercado. Descubra cómo Sinopeakchem provee ácido oxálico de alta pureza para

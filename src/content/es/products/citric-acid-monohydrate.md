@@ -56,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido Cítrico Monohidratado de alta pureza para compra a granel
   y exportación desde China. Esencial para las industrias de alimentos y bebidas,
   farmacéutica e industrial. Proveedor confiable con precios competitivos.
-slug: ácido-cítrico-monohidratado
+slug: acido-citrico-monohidratado
 specs:
 - label: Fórmula Química
   value: C₆H₈O₇·H₂O

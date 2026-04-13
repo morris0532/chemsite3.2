@@ -59,7 +59,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros
   et l'exportation depuis la Chine. Essentiel pour les engrais, les additifs alimentaires
   et les applications industrielles. Fabricant de confiance avec des prix compétitifs.
-slug: chlorure-dammonium
+slug: chlorure-d-ammonium
 specs:
 - label: Formule chimique
   value: NH₄Cl

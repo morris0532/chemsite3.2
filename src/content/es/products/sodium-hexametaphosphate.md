@@ -52,7 +52,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Hexametafosfato de sodio (SHMP) de alta pureza para compra a granel
   y exportación desde China. Esencial para tratamiento de agua, aditivo alimentario
   y aplicaciones industriales. Proveedor confiable con precios competitivos.
-slug: hexametafosfato-de-sodio-shmp
+slug: hexametafosfato-de-sodio
 specs:
 - label: Fórmula Química
   value: (NaPO₃)₆

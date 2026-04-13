@@ -59,7 +59,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acétate de sodium anhydre (CH3COONa) de haute pureté pour l'achat
   en gros et l'exportation depuis la Chine. Essentiel pour les applications textiles,
   pharmaceutiques et alimentaires. Fabricant de confiance avec des prix compétitifs.
-slug: acétate-de-sodium-anhydre
+slug: acetate-de-sodium-anhydre
 specs:
 - label: Formule chimique
   value: CH₃COONa

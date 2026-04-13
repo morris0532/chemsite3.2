@@ -1,7 +1,7 @@
 ---
 Id: SP-f0tgosnzg8
 rootnotouch: oxalic-acid-textile-dyeing
-slug: shchavelevaya-kislota-dlya-krasheнiya-i-pechati
+slug: shchavelevaya-kislota-dlya-krasheniya-i
 Excerpt: Изучите жизненно важную роль щавелевой кислоты в текстильной промышленности,
   от ее использования в качестве вспомогательного средства для крашения и восстановителя
   при печати до ее эффективности в очистке и обработке волокон. Откройте для себя

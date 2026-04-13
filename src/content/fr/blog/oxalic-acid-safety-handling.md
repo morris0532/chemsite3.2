@@ -1,7 +1,7 @@
 ---
 Id: SP-xkuygkxk3q
 rootnotouch: oxalic-acid-safety-handling
-slug: sécurité-et-manipulation-de-lacide-oxalique-un-guide-complet
+slug: securite-et-manipulation-de-l-acide
 Excerpt: Un guide complet pour manipuler l'acide oxalique en toute sécurité. Apprenez-en
   davantage sur ses propriétés, ses dangers potentiels, l'EPI essentiel, le stockage
   approprié, les premiers secours et les procédures d'élimination des déchets pour
