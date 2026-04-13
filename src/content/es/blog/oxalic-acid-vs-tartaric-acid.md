@@ -1,7 +1,7 @@
 ---
 Id: SP-a77a0aoads
 rootnotouch: oxalic-acid-vs-tartaric-acid
-slug: oxalic-acid-vs-tartaric-acid
+slug: ácido-oxálico-vs-ácido-tartárico-entendiendo-las-diferencias
 Excerpt: Profundice en las diferencias entre el ácido oxálico y el ácido tartárico,
   dos ácidos orgánicos que ocurren naturalmente. Este artículo compara sus estructuras
   químicas, fuentes naturales, diversas aplicaciones en industrias desde la limpieza

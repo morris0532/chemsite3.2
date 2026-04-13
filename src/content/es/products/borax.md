@@ -27,7 +27,7 @@ packaging: Bolsas de 25KG/50KG
 ports: Dalian
 shortDescription: Bórax industrial para suministro de vidrio, cerámica, detergentes
   y aplicaciones metalúrgicas.
-slug: borax
+slug: bórax
 specs:
 - label: Fórmula química
   value: Na₂B₄O₇·10H₂O

@@ -40,7 +40,7 @@ shortDescription: Carbonate de sodium (soude) léger et dense de haute qualité 
   l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication
   du verre, des détergents et des produits chimiques. Fournisseur de confiance avec
   des prix compétitifs.
-slug: soda-ash
+slug: carbonate-de-sodium-soude
 specs:
 - label: Formule chimique
   value: Na₂CO₃

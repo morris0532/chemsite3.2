@@ -30,7 +30,7 @@ packaging: Мешки по 50 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Аммоний хлорид промышленного и сельскохозяйственного класса для
   использования в удобрениях, гальванотехнике и в качестве флюса.
-slug: ammonium-chloride
+slug: khlorid-ammoнiya
 specs:
 - label: Химическая формула
   value: NH₄Cl (хлорид аммония)

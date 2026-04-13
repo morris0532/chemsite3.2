@@ -1,7 +1,7 @@
 ---
 Id: SP-fvmpf15dlz
 rootnotouch: caustic-soda-grades-specifications
-Slug: caustic-soda-grades-specifications
+slug: caustic-soda-grades-specifications-a-technical
 Excerpt: >-
   A comprehensive technical guide for industrial buyers on caustic soda (sodium
   hydroxide) grades, specifications, purity levels, and testing methods for

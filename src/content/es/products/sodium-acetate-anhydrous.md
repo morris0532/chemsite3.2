@@ -55,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acetato de Sodio Anhidro (CH3COONa) de alta pureza para compra al
   por mayor y exportación desde China. Esencial para aplicaciones en textil, farmacéutica
   y alimentaria. Proveedor confiable con precios competitivos.
-slug: sodium-acetate-anhydrous
+slug: acetato-de-sodio-anhidro
 specs:
 - label: Fórmula Química
   value: CH₃COONa

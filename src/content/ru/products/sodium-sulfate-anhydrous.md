@@ -41,7 +41,7 @@ packaging: 50 кг/джамбо-мешки
 ports: Янчжоу / Чжэньцзян / Чунцин / Луцзю
 shortDescription: Премиальный безводный сульфат натрия для производства моющих средств,
   стекла, текстиля и бумажной промышленности.
-slug: sodium-sulfate-anhydrous
+slug: bezvodнyy-sulfat-нatriya-ssa
 specs:
 - label: Химическая формула
   value: Na₂SO₄

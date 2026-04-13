@@ -1,7 +1,7 @@
 ---
 Id: SP-gc5kcdclps
 rootnotouch: oxalic-acid-safety-handling
-Slug: oxalic-acid-safety-handling
+slug: oxalic-acid-safety-handling-a-comprehensive-guide
 Excerpt: >-
   A comprehensive guide to safely handling oxalic acid. Learn about its
   properties, potential hazards, essential PPE, proper storage, first aid, and

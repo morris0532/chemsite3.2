@@ -1,7 +1,7 @@
 ---
 Id: SP-cdd165pvux
 rootnotouch: oxalic-acid-vs-tartaric-acid
-Slug: oxalic-acid-vs-tartaric-acid
+slug: shchavelevaya-kislota-protiv-viннoy-kisloty-poнimaнie
 Excerpt: Изучите различия между щавелевой кислотой и винной кислотой, двумя природными
   органическими кислотами. Эта статья сравнивает их химические структуры, природные
   источники, разнообразные области применения в отраслях от очистки до пищевой промышленности,

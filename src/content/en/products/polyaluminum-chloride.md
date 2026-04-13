@@ -6,7 +6,7 @@ name: Polyaluminum Chloride (PAC)
 nameCn: 聚合氯化铝
 cas: 1327-41-9
 hsCode: '2827320000'
-slug: polyaluminum-chloride
+slug: polyaluminum-chloride-pac
 shortDescription: >-
   High-efficiency Polyaluminum Chloride (PAC) for bulk purchase and export from
   China. Essential for water treatment, wastewater purification, and industrial

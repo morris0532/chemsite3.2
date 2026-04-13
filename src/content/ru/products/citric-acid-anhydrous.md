@@ -43,7 +43,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Пищевой и промышленный безводный лимонная кислота для пищевой, напитков
   и фармацевтической промышленности.
-slug: citric-acid-anhydrous
+slug: limoннaya-kislota-bezvodнaya
 specs:
 - label: Химическая формула
   value: C₆H₈O₇

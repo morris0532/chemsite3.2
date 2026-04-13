@@ -1,7 +1,7 @@
 ---
 Id: SP-cu2x9leh56
 rootnotouch: oxalic-acid-metal-pre-treatment
-slug: oxalic-acid-metal-pre-treatment
+slug: ácido-oxálico-en-el-pretratamiento-de
 Excerpt: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
   metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión
   de recubrimientos y la resistencia a la corrosión.

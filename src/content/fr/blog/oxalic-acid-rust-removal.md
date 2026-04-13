@@ -1,7 +1,7 @@
 ---
 Id: SP-6mq6dy8go8
 rootnotouch: oxalic-acid-rust-removal
-slug: oxalic-acid-rust-removal
+slug: acide-oxalique-pour-lélimination-de-la
 Excerpt: Découvrez comment l'acide oxalique élimine efficacement la rouille de diverses
   surfaces métalliques. Ce guide complet couvre ses principes chimiques, son application
   étape par étape, les précautions de sécurité et la comparaison avec d'autres décapants

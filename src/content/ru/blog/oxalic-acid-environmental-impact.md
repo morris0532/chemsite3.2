@@ -1,7 +1,7 @@
 ---
 Id: SP-owfo63unnr
 rootnotouch: oxalic-acid-environmental-impact
-Slug: oxalic-acid-environmental-impact
+slug: vozdeystvie-shchavelevoy-kisloty-нa-okruzhayushchuyu-sredu
 Excerpt: Изучите экологический след щавелевой кислоты, ее естественное присутствие,
   биоразлагаемость и безопасные методы утилизации для обеспечения устойчивого использования
   в различных областях.

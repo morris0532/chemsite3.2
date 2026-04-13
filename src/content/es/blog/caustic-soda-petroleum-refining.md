@@ -1,7 +1,7 @@
 ---
 Id: SP-q84m3p00bz
 rootnotouch: caustic-soda-petroleum-refining
-slug: caustic-soda-petroleum-refining
+slug: caustic-soda-in-petroleum-refining-essential
 Excerpt: Explore the vital role of caustic soda (sodium hydroxide) in petroleum refining,
   focusing on its applications in desulfurization, neutralization of acidic components,
   and overall process optimization.

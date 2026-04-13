@@ -60,7 +60,7 @@ shortDescription: Bicarbonate de sodium (bicarbonate de soude) de haute pureté 
   l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications
   alimentaires, animales, pharmaceutiques et industrielles. Fabricant de confiance
   avec des prix compétitifs.
-slug: sodium-bicarbonate
+slug: bicarbonate-de-sodium-bicarbonate-de-soude
 specs:
 - label: Formule chimique
   value: NaHCO₃

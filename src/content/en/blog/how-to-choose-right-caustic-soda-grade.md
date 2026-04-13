@@ -1,7 +1,7 @@
 ---
 Id: SP-tm1shrwqsr
 rootnotouch: how-to-choose-right-caustic-soda-grade
-Slug: how-to-choose-right-caustic-soda-grade
+slug: how-to-choose-the-right-caustic-soda-grade-for-your-industry
 Excerpt: >-
   Compare Caustic Soda Flakes vs. Pearls (99% Purity). Learn how to choose the
   right Sodium Hydroxide grade for textiles, soap, and water treatment with our

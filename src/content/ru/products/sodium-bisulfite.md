@@ -41,7 +41,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Промышленный бисульфит натрия для очистки воды, консервации пищевых
   продуктов и химической переработки.
-slug: sodium-bisulfite
+slug: нatriy-gidrosulfit
 specs:
 - label: Химическая формула
   value: NaHSO₃

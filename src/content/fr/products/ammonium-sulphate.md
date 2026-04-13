@@ -30,7 +30,7 @@ packaging: 25/50KG/Jumbo bags
 ports: Tianjin / Qingdao
 shortDescription: Engrais au sulfate d'ammonium de qualité agricole et industrielle
   et intermédiaire chimique.
-slug: ammonium-sulphate
+slug: sulfate-dammonium
 specs:
 - label: Formule chimique
   value: (NH₄)₂SO₄

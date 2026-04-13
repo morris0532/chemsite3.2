@@ -42,7 +42,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Премиальные хлопья и гранулы каустической соды для химической переработки,
   очистки воды и производственных отраслей.
-slug: caustic-soda
+slug: kausticheskaya-soda
 specs:
 - label: Химическая формула
   value: NaOH

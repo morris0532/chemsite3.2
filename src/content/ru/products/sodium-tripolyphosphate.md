@@ -41,7 +41,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь / Хуанпу
 shortDescription: Высококачественный STPP для производства моющих средств, керамики
   и водоочистки.
-slug: sodium-tripolyphosphate
+slug: tripolifosfat-нatriya-stpp
 specs:
 - label: Химическая формула
   value: Na₅P₃O₁₀

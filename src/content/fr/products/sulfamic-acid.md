@@ -56,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acide sulfamique (H3NSO3) de haute pureté pour l'achat en gros et
   l'exportation depuis la Chine. Essentiel pour le nettoyage, la galvanoplastie et
   les applications textiles. Fabricant de confiance avec des prix compétitifs.
-slug: sulfamic-acid
+slug: acide-sulfamique
 specs:
 - label: Formule chimique
   value: H₃NSO₃

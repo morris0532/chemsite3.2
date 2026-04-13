@@ -1,7 +1,7 @@
 ---
 Id: SP-82k6h532kp
 rootnotouch: oxalic-acid-packaging-storage
-Slug: oxalic-acid-packaging-storage
+slug: oxalic-acid-packaging-storage-ensuring-quality-safety
 Excerpt: >-
   A comprehensive guide to the proper packaging and storage of oxalic acid.
   Learn about common packaging types, ideal storage conditions, and essential

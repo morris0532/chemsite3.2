@@ -1,7 +1,7 @@
 ---
 Id: SP-jcq69v1bdl
 rootnotouch: oxalic-acid-supplier-south-america
-Slug: oxalic-acid-supplier-south-america
+slug: مورد-حمض-الأكساليك-الموثوق-في-أمريكا
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الجنوبية من خلال توفير حمض
   أكساليك عالي الجودة ولوجستيات فعالة لدباغة الجلود والتعدين والمنسوجات.
 title: 'مورد حمض الأكساليك الموثوق في أمريكا الجنوبية: البرازيل وتشيلي وكولومبيا'

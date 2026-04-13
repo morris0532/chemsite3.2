@@ -29,7 +29,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь / Ухань
 shortDescription: Пищевая и промышленная сода (бикарбонат натрия) для выпечки, очистки
   и фармацевтических применений.
-slug: sodium-bicarbonate
+slug: нatriy-gidrokarboнat-pishchevaya-soda
 specs:
 - label: Химическая формула
   value: NaHCO₃

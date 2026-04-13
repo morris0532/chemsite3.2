@@ -1,7 +1,7 @@
 ---
 Id: SP-bkyesroatu
 rootnotouch: oxalic-acid-comprehensive-guide
-Slug: oxalic-acid-comprehensive-guide
+slug: shchavelevaya-kislota-polнoe-rukovodstvo-po-promyshleннomu
 Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, процессы
   ее производства, управление безопасностью, экологические стратегии и перспективы
   рынка. Узнайте, как Sinopeakchem поставляет высокочистую щавелевую кислоту для различных

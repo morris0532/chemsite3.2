@@ -1,7 +1,7 @@
 ---
 Id: SP-e9qowx5mo1
 rootnotouch: oxalic-acid-pharmaceutical-intermediates
-Slug: oxalic-acid-pharmaceutical-intermediates
+slug: oxalic-acid-in-pharmaceutical-intermediates-a-key-role
 Excerpt: >-
   Explore the critical role of oxalic acid as a versatile building block and
   reagent in the synthesis of various pharmaceutical intermediates, highlighting

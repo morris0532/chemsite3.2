@@ -1,7 +1,7 @@
 ---
 Id: SP-7ftrv8sx54
 rootnotouch: buy-oxalic-acid-bulk
-slug: buy-oxalic-acid-bulk
+slug: comment-acheter-de-lacide-oxalique-en
 Excerpt: Un guide complet pour l'achat en gros d'acide oxalique. Apprenez les quantités
   minimales de commande, les options d'emballage, les méthodes d'expédition, les conditions
   de paiement et l'ensemble du processus d'approvisionnement du devis à la livraison.

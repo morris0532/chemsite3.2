@@ -1,7 +1,7 @@
 ---
 Id: SP-f4buva9c7i
 rootnotouch: oxalic-acid-marble-polishing
-Slug: oxalic-acid-marble-polishing
+slug: shchavelevaya-kislota-dlya-polirovki-mramora-i
 Excerpt: Откройте для себя профессиональные методы использования щавелевой кислоты
   для полировки мрамора и ухода за различными каменными поверхностями. Узнайте о ее
   химическом действии, методах применения, мерах предосторожности и о том, как добиться

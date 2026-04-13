@@ -1,7 +1,7 @@
 ---
 Id: SP-praiqpx7ci
 rootnotouch: oxalic-acid-rare-earth-magnets
-Slug: oxalic-acid-rare-earth-magnets
+slug: oxalic-acid-in-rare-earth-magnets-a-critical-component
 Excerpt: >-
   Discover the vital role of oxalic acid in the production of rare earth
   magnets, particularly in the separation and purification of rare earth

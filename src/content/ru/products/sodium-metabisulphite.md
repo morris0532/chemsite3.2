@@ -30,7 +30,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Пищевая и промышленная марки метабисульфита натрия для консервации,
   отбеливания и очистки воды.
-slug: sodium-metabisulphite
+slug: нatriy-metabisulfit
 specs:
 - label: Химическая формула
   value: Na₂S₂O₅

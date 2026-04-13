@@ -6,7 +6,7 @@ name: Sodium Metabisulphite (SMBS)
 nameCn: 焦亚硫酸钠
 cas: 7681-57-4
 hsCode: '2832100000'
-slug: sodium-metabisulphite
+slug: sodium-metabisulphite-smbs
 shortDescription: >-
   High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from
   China. Essential for water treatment, food preservation, and mining

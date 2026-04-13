@@ -1,7 +1,7 @@
 ---
 Id: SP-xth4m9c4c3
 rootnotouch: oxalic-acid-vs-edta
-Slug: oxalic-acid-vs-edta
+slug: shchavelevaya-kislota-protiv-edta-kakoy-khelatiruyushchiy
 Excerpt: Сравните щавелевую кислоту и ЭДТА как хелатирующие агенты. Узнайте об их
   различиях в свойствах, применении, воздействии на окружающую среду и стоимости,
   чтобы выбрать правильное решение для ваших промышленных нужд.

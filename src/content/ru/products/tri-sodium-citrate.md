@@ -28,7 +28,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Трисодиум цитрат пищевого и фармацевтического качества для использования
   в качестве буфера, эмульгатора и ароматизатора.
-slug: tri-sodium-citrate
+slug: tri-нatrievaya-sol-limoннoy-kisloty-tri-нatrievyy-tsitrat
 specs:
 - label: Химическая формула
   value: Na₃C₆H₅O₇·2H₂O

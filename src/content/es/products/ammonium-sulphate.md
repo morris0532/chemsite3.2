@@ -30,7 +30,7 @@ packaging: 25/50KG/Jumbo bags
 ports: Tianjin / Qingdao
 shortDescription: Fertilizante de sulfato de amonio para uso agrícola e industrial
   y químico intermedio.
-slug: ammonium-sulphate
+slug: sulfato-de-amonio
 specs:
 - label: Fórmula Química
   value: (NH₄)₂SO₄

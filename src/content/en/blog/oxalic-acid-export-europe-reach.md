@@ -1,7 +1,7 @@
 ---
 Id: SP-7o7p11em81
 rootnotouch: oxalic-acid-export-europe-reach
-Slug: oxalic-acid-export-europe-reach
+slug: oxalic-acid-export-to-europe-reach-compliance-guide
 Excerpt: >-
   Navigating the complexities of oxalic acid export to Europe requires strict
   adherence to REACH regulations. SinoPeakChem provides high-quality, compliant

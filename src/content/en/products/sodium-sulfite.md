@@ -6,7 +6,7 @@ name: Sodium Sulfite Anhydrous
 nameCn: 无水亚硫酸钠
 cas: 7757-83-7
 hsCode: '2832100000'
-slug: sodium-sulfite
+slug: sodium-sulfite-anhydrous
 shortDescription: >-
   High-purity Sodium Sulfite Anhydrous (Na2SO3) for bulk purchase and export
   from China. Essential for water treatment, photography, and textile

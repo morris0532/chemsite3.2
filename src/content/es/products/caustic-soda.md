@@ -58,7 +58,7 @@ shortDescription: Escamas y perlas de Soda Cáustica (Hidróxido de Sodio) de al
   para compra al por mayor y exportación desde China. Proveedor líder para aplicaciones
   industriales que incluyen papel, textiles y tratamiento de agua. Pureza del 99%
   disponible.
-slug: caustic-soda
+slug: soda-cáustica
 specs:
 - label: Fórmula Química
   value: NaOH

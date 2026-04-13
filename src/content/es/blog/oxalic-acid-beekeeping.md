@@ -1,7 +1,7 @@
 ---
 Id: SP-usfy8sep47
 rootnotouch: oxalic-acid-beekeeping
-slug: oxalic-acid-beekeeping
+slug: ácido-oxálico-en-la-apicultura-usos
 Excerpt: Una guía completa sobre el uso del ácido oxálico para el control de ácaros
   varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia
   y seguridad para las abejas y la miel.

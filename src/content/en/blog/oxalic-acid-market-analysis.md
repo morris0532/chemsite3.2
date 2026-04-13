@@ -1,7 +1,7 @@
 ---
 Id: SP-pilr90q2h2
 rootnotouch: oxalic-acid-market-analysis
-Slug: oxalic-acid-market-analysis
+slug: global-oxalic-acid-market-analysis-key-producers-trade-flows
 Excerpt: >-
   Dive into the global oxalic acid market, analyzing key producing regions,
   major trade flows, demand drivers, and future market trends shaping the

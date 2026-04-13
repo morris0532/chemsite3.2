@@ -28,7 +28,7 @@ nameCn: 硫酸铵
 packaging: 25/50 كجم/أكياس جامبو
 ports: تيانجين / تشينغداو
 shortDescription: سماد كبريتات الأمونيوم من الدرجة الزراعية والصناعية ووسيط كيميائي.
-slug: ammonium-sulphate
+slug: كبريتات-الأمونيوم
 specs:
 - label: الصيغة الكيميائية
   value: (NH₄)₂SO₄

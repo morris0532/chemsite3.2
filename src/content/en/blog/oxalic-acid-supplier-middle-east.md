@@ -1,7 +1,7 @@
 ---
 Id: SP-geusbjis90
 rootnotouch: oxalic-acid-supplier-middle-east
-Slug: oxalic-acid-supplier-middle-east
+slug: oxalic-acid-supplier-for-middle-east
 Excerpt: >-
   SinoPeakChem is your trusted oxalic acid supplier for the Middle East, serving
   key markets like UAE, Saudi Arabia, and Turkey with high-quality products for

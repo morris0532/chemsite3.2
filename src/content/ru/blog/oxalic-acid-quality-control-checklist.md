@@ -1,7 +1,7 @@
 ---
 Id: SP-kxnopcpci2
 rootnotouch: oxalic-acid-quality-control-checklist
-Slug: oxalic-acid-quality-control-checklist
+slug: koнtrolнyy-spisok-kachestva-shchavelevoy-kisloty-obespecheнie
 Excerpt: Обеспечение чистоты и качества щавелевой кислоты имеет первостепенное значение
   для ее разнообразных промышленных применений. Этот всеобъемлющий контрольный список
   помогает производителям и покупателям пройти через основные меры контроля качества,

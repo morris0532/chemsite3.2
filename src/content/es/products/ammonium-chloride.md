@@ -57,7 +57,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Cloruro de Amonio (NH4Cl) de alta calidad para compra al por mayor
   y exportación desde China. Esencial para fertilizantes, aditivos para piensos y
   aplicaciones industriales. Proveedor de confianza con precios competitivos.
-slug: ammonium-chloride
+slug: cloruro-de-amonio
 specs:
 - label: Fórmula Química
   value: NH₄Cl

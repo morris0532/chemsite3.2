@@ -1,7 +1,7 @@
 ---
 Id: SP-71shxf1jkr
 rootnotouch: oxalic-acid-supplier-central-asia
-Slug: oxalic-acid-supplier-central-asia
+slug: oxalic-acid-supplier-for-central-asia
 Excerpt: >-
   SinoPeakChem is your trusted oxalic acid supplier for the Central Asian
   market, serving key countries like Kazakhstan and Uzbekistan with quality

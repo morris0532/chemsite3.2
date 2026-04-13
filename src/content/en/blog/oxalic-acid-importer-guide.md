@@ -1,7 +1,7 @@
 ---
 Id: SP-4j4q70nj8o
 rootnotouch: oxalic-acid-importer-guide
-Slug: oxalic-acid-importer-guide
+slug: first-time-importers-guide-to-oxalic
 Excerpt: >-
   Navigating the complexities of international trade can be daunting, especially
   for chemical compounds like oxalic acid. This comprehensive guide provides

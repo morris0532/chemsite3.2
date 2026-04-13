@@ -1,7 +1,7 @@
 ---
 Id: SP-v2wq13ya89
 rootnotouch: oxalic-acid-supplier-middle-east
-slug: oxalic-acid-supplier-middle-east
+slug: fournisseur-dacide-oxalique-pour-le-marché
 Excerpt: Le Moyen-Orient est un marché dynamique pour l'acide oxalique, stimulé par
   des industries comme l'entretien de la pierre, le pétrole et le gaz, et le textile.
   SinoPeakChem est votre partenaire de confiance, offrant de l'acide oxalique de haute

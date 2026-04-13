@@ -30,7 +30,7 @@ packaging: 25/50 кг/Джамбо мешки
 ports: Тяньцзинь / Циндао
 shortDescription: Аммоний сернокислый удобрительный и химический промежуточный продукт
   сельскохозяйственного и промышленного класса.
-slug: ammonium-sulphate
+slug: sulfat-ammoнiya
 specs:
 - label: Химическая формула
   value: (NH₄)₂SO₄

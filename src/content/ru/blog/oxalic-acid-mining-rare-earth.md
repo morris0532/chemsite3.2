@@ -1,7 +1,7 @@
 ---
 Id: SP-i7ja9qjnns
 rootnotouch: oxalic-acid-mining-rare-earth
-Slug: oxalic-acid-mining-rare-earth
+slug: shchavelevaya-kislota-v-gorнodobyvayushchey-promyshleннosti-izvlecheнie
 Excerpt: Изучите критическую роль щавелевой кислоты в горнодобывающей промышленности,
   особенно в эффективном извлечении и очистке редкоземельных элементов (РЗЭ). Этот
   технический обзор углубляется в ее химические механизмы, преимущества перед традиционными

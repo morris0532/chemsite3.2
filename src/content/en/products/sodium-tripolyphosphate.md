@@ -6,7 +6,7 @@ name: Sodium Tripolyphosphate (STPP)
 nameCn: 三聚磷酸钠
 cas: 7758-29-4
 hsCode: '2835319000'
-slug: sodium-tripolyphosphate
+slug: sodium-tripolyphosphate-stpp
 shortDescription: >-
   High-purity Sodium Tripolyphosphate (STPP) for bulk purchase and export from
   China. Essential for detergent, food additive, and industrial applications.

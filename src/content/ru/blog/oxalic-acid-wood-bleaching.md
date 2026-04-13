@@ -1,7 +1,7 @@
 ---
 Id: SP-1elx4csd7d
 rootnotouch: oxalic-acid-wood-bleaching
-Slug: oxalic-acid-wood-bleaching
+slug: shchavelevaya-kislota-dlya-otbelivaнiya-i-ochistki
 Excerpt: Восстановите и омолодите деревянные поверхности с помощью щавелевой кислоты.
   Это руководство подробно описывает ее использование для отбеливания, удаления водяных
   пятен, черных пятен и пятен от танинов, с пошаговыми инструкциями и советами по

@@ -30,7 +30,7 @@ packaging: 25 кг/джамбо мешки
 ports: Тяньцзинь / Циндао
 shortDescription: Промышленный триполифосфат натрия для очистки, обработки воды и
   пищевой промышленности.
-slug: trisodium-phosphate
+slug: trisodium-fosfat
 specs:
 - label: Химическая формула
   value: Na₃PO₄·12H₂O

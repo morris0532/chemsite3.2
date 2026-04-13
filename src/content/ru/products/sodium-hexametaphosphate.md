@@ -30,7 +30,7 @@ packaging: 25 кг/джамбо мешки
 ports: Чунцин / Ухань / Циндао
 shortDescription: Высококачественный гексаметафосфат натрия для водоочистки, пищевой
   промышленности и промышленных применений.
-slug: sodium-hexametaphosphate
+slug: geksametafosfat-нatriya
 specs:
 - label: Химическая формула
   value: (NaPO₃)₆

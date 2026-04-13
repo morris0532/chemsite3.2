@@ -1,7 +1,7 @@
 ---
 Id: SP-l2o22milj3
 rootnotouch: caustic-soda-price-trends-market-analysis
-Slug: caustic-soda-price-trends-market-analysis
+slug: caustic-soda-price-trends-market-analysis
 Excerpt: >-
   An in-depth analysis of global caustic soda price trends, market drivers,
   supply-demand dynamics, and future outlook for industrial B2B buyers in

@@ -56,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Ácido cítrico anhidro de alta pureza para compra al por mayor y
   exportación desde China. Esencial para aplicaciones en la industria alimentaria
   y de bebidas, farmacéutica e industrial. Proveedor confiable con precios competitivos.
-slug: citric-acid-anhydrous
+slug: ácido-cítrico-anhidro
 specs:
 - label: Fórmula química
   value: C₆H₈O₇

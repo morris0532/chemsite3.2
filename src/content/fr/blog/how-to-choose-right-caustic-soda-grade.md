@@ -1,7 +1,7 @@
 ---
 Id: SP-5sajjcvt2m
 rootnotouch: how-to-choose-right-caustic-soda-grade
-slug: how-to-choose-right-caustic-soda-grade
+slug: comment-choisir-la-bonne-qualité-de
 Excerpt: Comparez Soude Caustique en Écailles vs Perles (Pureté 99%). Apprenez à choisir
   la bonne qualité d'hydroxyde de sodium pour le textile, le savon et le traitement
   de l'eau.

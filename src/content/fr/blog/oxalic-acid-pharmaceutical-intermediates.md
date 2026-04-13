@@ -1,7 +1,7 @@
 ---
 Id: SP-ruxjr7lsw0
 rootnotouch: oxalic-acid-pharmaceutical-intermediates
-slug: oxalic-acid-pharmaceutical-intermediates
+slug: acide-oxalique-dans-les-intermédiaires-pharmaceutiques
 Excerpt: Explorez le rôle critique de l'acide oxalique en tant que bloc de construction
   et réactif polyvalent dans la synthèse de divers intermédiaires pharmaceutiques,
   soulignant ses propriétés chimiques et ses applications dans la fabrication de médicaments.

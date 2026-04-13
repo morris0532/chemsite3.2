@@ -1,7 +1,7 @@
 ---
 Id: SP-4fdcrz52hi
 rootnotouch: oxalic-acid-quality-control-checklist
-Slug: oxalic-acid-quality-control-checklist
+slug: oxalic-acid-quality-control-checklist-ensuring
 Excerpt: >-
   Ensuring the purity and quality of oxalic acid is paramount for its diverse
   industrial applications. This comprehensive checklist guides manufacturers and

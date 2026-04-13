@@ -6,7 +6,7 @@ name: Soda Ash (Sodium Carbonate)
 nameCn: 纯碱
 cas: 497-19-8
 hsCode: '2836200000'
-slug: soda-ash
+slug: soda-ash-sodium-carbonate
 shortDescription: >-
   High-quality Soda Ash (Sodium Carbonate) Light and Dense for bulk purchase and
   export from China. Essential for glass, detergent, and chemical supply.

@@ -58,7 +58,7 @@ shortDescription: Acide oxalique (acide éthanedioïque) de haute pureté pour l
   en gros et l'exportation depuis la Chine. Essentiel pour l'extraction des terres
   rares, la teinture textile et le nettoyage des métaux. Fabricant de confiance avec
   des prix compétitifs.
-slug: oxalic-acid
+slug: acide-oxalique
 specs:
 - label: Formule chimique
   value: H₂C₂O₄·2H₂O

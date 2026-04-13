@@ -32,7 +32,7 @@ packaging: 25 кг/джамбо мешки
 ports: Тяньцзинь
 shortDescription: Сульфаминовая кислота высокой чистоты для удаления накипи, очистки
   и гальванических процессов.
-slug: sulfamic-acid
+slug: sulfamiнovaya-kislota
 specs:
 - label: Химическая формула
   value: NH₂SO₃H

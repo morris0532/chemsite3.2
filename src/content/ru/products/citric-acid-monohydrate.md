@@ -27,7 +27,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Высокочистая лимонная кислота моногидрат для пищевой промышленности,
   производства напитков и очистительных применений.
-slug: citric-acid-monohydrate
+slug: limoннaya-kislota-moнogidrat
 specs:
 - label: Химическая формула
   value: C₆H₈O₇·H₂O

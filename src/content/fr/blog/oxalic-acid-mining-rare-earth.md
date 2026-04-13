@@ -1,7 +1,7 @@
 ---
 Id: SP-lc5zd4gxlp
 rootnotouch: oxalic-acid-mining-rare-earth
-slug: oxalic-acid-mining-rare-earth
+slug: acide-oxalique-dans-lexploitation-minière-extraction
 Excerpt: Explorez le rôle critique de l'acide oxalique dans l'industrie minière, en
   particulier dans l'extraction et la purification efficaces des éléments de terres
   rares (ETR). Cet aperçu technique explore ses mécanismes chimiques, ses avantages

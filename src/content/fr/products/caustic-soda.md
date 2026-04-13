@@ -61,7 +61,7 @@ shortDescription: Soude caustique (hydroxyde de sodium) de haute pureté en éca
   et en perles pour l'achat en gros et l'exportation depuis la Chine. Fabricant leader
   pour les applications industrielles, notamment le papier, le textile et le traitement
   de l'eau. Pureté de 99 % disponible.
-slug: caustic-soda
+slug: soude-caustique
 specs:
 - label: Formule chimique
   value: NaOH

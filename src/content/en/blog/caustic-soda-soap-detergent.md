@@ -1,7 +1,7 @@
 ---
 Id: SP-h6viaw1385
 rootnotouch: caustic-soda-soap-detergent
-Slug: caustic-soda-soap-detergent
+slug: caustic-soda-in-soap-detergent-manufacturing
 Excerpt: >-
   Discover the fundamental role of caustic soda (sodium hydroxide) in the
   production of soaps and detergents, from the saponification process to its use

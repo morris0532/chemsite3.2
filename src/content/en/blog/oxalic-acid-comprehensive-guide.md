@@ -1,7 +1,7 @@
 ---
 Id: SP-yg9w5at4q8
 rootnotouch: oxalic-acid-comprehensive-guide
-Slug: oxalic-acid-comprehensive-guide
+slug: 
 Excerpt: >-
   Explore the diverse industrial applications of oxalic acid, its production
   processes, safety management, environmental strategies, and future market

@@ -30,7 +30,7 @@ packaging: Мешки 25 кг / 50 кг
 ports: Далянь
 shortDescription: Промышленный бура для производства стекла, керамики, моющих средств
   и металлургических применений.
-slug: borax
+slug: bura
 specs:
 - label: Химическая формула
   value: Na₂B₄O₇·10H₂O

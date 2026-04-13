@@ -1,7 +1,7 @@
 ---
 Id: SP-8kxixsnk0k
 rootnotouch: oxalic-acid-packaging-storage
-Slug: oxalic-acid-packaging-storage
+slug: upakovka-i-khraнeнie-shchavelevoy-kisloty-obespecheнie
 Excerpt: Полное руководство по правильной упаковке и хранению щавелевой кислоты. Узнайте
   об общих типах упаковки, идеальных условиях хранения и основных мерах безопасности
   для поддержания качества продукта и обеспечения безопасного обращения.

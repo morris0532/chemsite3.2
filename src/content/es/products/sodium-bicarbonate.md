@@ -55,7 +55,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Bicarbonato de Sodio de alta pureza para compra a granel y exportación
   desde China. Esencial para aplicaciones en alimentos, piensos, farmacéutica e industria.
   Proveedor confiable con precios competitivos.
-slug: sodium-bicarbonate
+slug: bicarbonato-de-sodio-bicarbonato-de-sodio-para-hornear
 specs:
 - label: Fórmula Química
   value: NaHCO₃

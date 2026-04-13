@@ -30,7 +30,7 @@ packaging: Мешки по 25 кг
 ports: Циндао / Тяньцзинь
 shortDescription: Эффективный коагулянт полиалюминий хлорид для очистки воды и очистки
   сточных вод.
-slug: polyaluminum-chloride
+slug: polialyumiнiy-khlorid-pac
 specs:
 - label: Химическая формула
   value: Al₂(OH)ₙCl₆₋ₙ

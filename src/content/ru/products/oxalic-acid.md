@@ -42,7 +42,7 @@ packaging: 25 кг/джамбо-мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Высококачественная щавелевая кислота для очистки, отбеливания, удаления
   ржавчины и промышленных химических процессов.
-slug: oxalic-acid
+slug: shchavelevaya-kislota
 specs:
 - label: Химическая формула
   value: C₂H₂O₄·2H₂O

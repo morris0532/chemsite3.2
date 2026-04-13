@@ -1,7 +1,7 @@
 ---
 Id: SP-nf9ofwzqlk
 rootnotouch: oxalic-acid-manufacturer-china
-Slug: oxalic-acid-manufacturer-china
+slug: china-oxalic-acid-manufacturer-exporter-quality
 Excerpt: >-
   Discover why China dominates the global oxalic acid market. Learn about
   quality control, international certifications, efficient export processes, and

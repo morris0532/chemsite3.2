@@ -1,7 +1,7 @@
 ---
 Id: SP-lfv3r40mq7
 rootnotouch: oxalic-acid-rust-removal
-Slug: oxalic-acid-rust-removal
+slug: oxalic-acid-for-rust-removal-the-complete-guide
 Excerpt: >-
   Discover how oxalic acid effectively removes rust from various metal surfaces.
   This comprehensive guide covers its chemical principles, step-by-step

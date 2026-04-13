@@ -1,7 +1,7 @@
 ---
 Id: SP-dgikay2rwm
 rootnotouch: oxalic-acid-purchasing-faq
-Slug: oxalic-acid-purchasing-faq
+slug: oxalic-acid-purchasing-faq-for-bulk-buyers
 Excerpt: >-
   Navigate the complexities of bulk oxalic acid procurement with our
   comprehensive FAQ, covering everything from grades and packaging to shipping

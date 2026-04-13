@@ -1,7 +1,7 @@
 ---
 Id: SP-gve1jn8im3
 rootnotouch: oxalic-acid-aluminum-anodizing
-Slug: oxalic-acid-aluminum-anodizing
+slug: shchavelevaya-kislota-dlya-aнodirovaнiya-alyumiнiya-protsess
 Excerpt: Откройте для себя ключевую роль щавелевой кислоты в анодировании алюминия
   — процессе, который повышает долговечность, коррозионную стойкость и эстетическую
   привлекательность алюминия. Узнайте о ее механизме, преимуществах и применении в

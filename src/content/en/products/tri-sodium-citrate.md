@@ -6,7 +6,7 @@ name: Tri-Sodium Citrate (TSC)
 nameCn: 柠檬酸三钠
 cas: 68-04-2
 hsCode: '2918150000'
-slug: tri-sodium-citrate
+slug: tri-sodium-citrate-tsc
 shortDescription: >-
   High-purity Tri-Sodium Citrate (TSC) for bulk purchase and export from China.
   Essential for food additive, pharmaceutical, and detergent applications.

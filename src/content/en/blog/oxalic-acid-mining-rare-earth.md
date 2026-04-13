@@ -1,7 +1,7 @@
 ---
 Id: SP-9pmnw75895
 rootnotouch: oxalic-acid-mining-rare-earth
-Slug: oxalic-acid-mining-rare-earth
+slug: oxalic-acid-in-mining-extraction-and
 Excerpt: >-
   Explore the critical role of oxalic acid in the mining industry, particularly
   in the efficient extraction and purification of rare earth elements (REEs).

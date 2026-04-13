@@ -1,7 +1,7 @@
 ---
 Id: SP-uhrgrbauwm
 rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-Slug: how-to-choose-the-right-chem-supplier-from-china
+slug: كيفية-اختيار-المورد-الكيميائي-المناسب-من-الصين-دليل-شامل
 Excerpt: دليل متعمق حول اختيار مورد كيميائي موثوق في الصين، يغطي مؤهلات المورد، ومراقبة
   الجودة، وسلسلة التوريد، وفعالية التكلفة، والتواصل.
 title: 'كيفية اختيار المورد الكيميائي المناسب من الصين: دليل شامل'

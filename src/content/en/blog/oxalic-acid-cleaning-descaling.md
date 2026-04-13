@@ -1,7 +1,7 @@
 ---
 Id: SP-gecqc6qd6s
 rootnotouch: oxalic-acid-cleaning-descaling
-Slug: oxalic-acid-cleaning-descaling
+slug: oxalic-acid-for-cleaning-descaling-household-industrial-uses
 Excerpt: >-
   Explore the versatile applications of oxalic acid in cleaning and descaling,
   from removing tough stains in households to industrial equipment maintenance.

@@ -60,7 +60,7 @@ shortDescription: Sulfite de sodium anhydre (Na2SO3) de haute pureté pour l'ach
   en gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau,
   la photographie et les applications textiles. Fabricant de confiance avec des prix
   compétitifs.
-slug: sodium-sulfite
+slug: sulfite-de-sodium-anhydre
 specs:
 - label: Formule chimique
   value: Na₂SO₃

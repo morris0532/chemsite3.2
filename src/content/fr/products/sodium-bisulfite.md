@@ -59,7 +59,7 @@ shortDescription: Bisulfite de sodium (NaHSO3) de haute pureté pour l'achat en 
   et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la conservation
   des aliments et le traitement des textiles. Fabricant de confiance avec des prix
   compétitifs.
-slug: sodium-bisulfite
+slug: bisulfite-de-sodium
 specs:
 - label: Formule chimique
   value: NaHSO₃

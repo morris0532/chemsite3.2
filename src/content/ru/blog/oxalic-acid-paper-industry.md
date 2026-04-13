@@ -1,7 +1,7 @@
 ---
 Id: SP-xetq1iuvla
 rootnotouch: oxalic-acid-paper-industry
-Slug: oxalic-acid-paper-industry
+slug: shchavelevaya-kislota-v-bumazhнoy-promyshleннosti-otbelivaнie
 Excerpt: Откройте для себя многогранное применение щавелевой кислоты в бумажной промышленности,
   от ее решающей роли в отбеливании целлюлозы до использования на различных этапах
   обработки. Это руководство исследует ее химические функции, экологические преимущества

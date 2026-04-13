@@ -1,7 +1,7 @@
 ---
 Id: SP-0indihyteg
 rootnotouch: oxalic-acid-vs-tartaric-acid
-slug: oxalic-acid-vs-tartaric-acid
+slug: acide-oxalique-vs-acide-tartrique-comprendre-les-différences
 Excerpt: Plongez dans les distinctions entre l'acide oxalique et l'acide tartrique,
   deux acides organiques naturels. Cet article compare leurs structures chimiques,
   leurs sources naturelles, leurs diverses applications dans des industries allant

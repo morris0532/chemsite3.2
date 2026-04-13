@@ -1,7 +1,7 @@
 ---
 Id: SP-5cyskeofcg
 rootnotouch: oxalic-acid-supplier-south-asia
-Slug: oxalic-acid-supplier-south-asia
+slug: مورد-حمض-الأكساليك-الموثوق-في-جنوب
 Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في جنوب آسيا من خلال توفير حمض أكساليك
   عالي الجودة ولوجستيات فعالة للمنسوجات والجلود والمواد الصيدلانية.
 title: 'مورد حمض الأكساليك الموثوق في جنوب آسيا: الهند وباكستان وبنغلاديش'

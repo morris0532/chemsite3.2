@@ -56,7 +56,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Cloruro de Polialuminio (PAC) de alta eficiencia para compra al
   por mayor y exportación desde China. Esencial para tratamiento de agua, purificación
   de aguas residuales y floculación industrial. Proveedor confiable con precios competitivos.
-slug: polyaluminum-chloride
+slug: cloruro-de-polialuminio-pac
 specs:
 - label: Fórmula Química
   value: '[Al₂(OH)nCl₆-n]m'

@@ -1,7 +1,7 @@
 ---
 Id: SP-458tta5ggr
 rootnotouch: oxalic-acid-price
-slug: oxalic-acid-price
+slug: tendencia-del-precio-del-ácido-oxálico
 Excerpt: Manténgase informado sobre las últimas tendencias de precios del ácido oxálico
   para 2025. Explore los factores clave que influyen en los costos, desde las materias
   primas hasta los precios de la energía, y aprenda cómo obtener el mejor valor en

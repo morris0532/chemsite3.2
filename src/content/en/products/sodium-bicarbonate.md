@@ -6,7 +6,7 @@ name: Sodium Bicarbonate (Baking Soda)
 nameCn: 小苏打
 cas: 144-55-8
 hsCode: '2836300000'
-slug: sodium-bicarbonate
+slug: sodium-bicarbonate-baking-soda
 shortDescription: >-
   High-purity Sodium Bicarbonate (Baking Soda) for bulk purchase and export from
   China. Essential for food, feed, pharmaceutical, and industrial applications.

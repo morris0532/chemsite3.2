@@ -1,7 +1,7 @@
 ---
 Id: SP-b46mlmpcvv
 rootnotouch: oxalic-acid-supplier-southeast-asia
-slug: oxalic-acid-supplier-southeast-asia
+slug: proveedor-de-ácido-oxálico-para-el
 Excerpt: El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico,
   impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem es
   su socio confiable, ofreciendo ácido oxálico de alta calidad con logística eficiente

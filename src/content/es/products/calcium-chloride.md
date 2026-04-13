@@ -57,7 +57,7 @@ shortDescription: Cloruro de Calcio (CaCl2) de alta pureza en escamas, gránulos
   polvo para compra al por mayor y exportación desde China. Esencial para aplicaciones
   de descongelación, petróleo y gas, y alimentarias. Proveedor confiable con precios
   competitivos.
-slug: calcium-chloride
+slug: cloruro-de-calcio
 specs:
 - label: Fórmula Química
   value: CaCl₂

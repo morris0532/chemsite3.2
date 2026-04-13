@@ -53,7 +53,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Metabisulfito de Sodio (SMBS) de alta pureza para compra al por
   mayor y exportación desde China. Esencial para el tratamiento de agua, conservación
   de alimentos y aplicaciones mineras. Proveedor confiable con precios competitivos.
-slug: sodium-metabisulphite
+slug: metabisulfito-de-sodio-smbs
 specs:
 - label: Fórmula Química
   value: Na₂S₂O₅

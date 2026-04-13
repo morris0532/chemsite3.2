@@ -1,7 +1,7 @@
 ---
 Id: SP-sb332jt9tw
 rootnotouch: oxalic-acid-analytical-chemistry
-Slug: oxalic-acid-analytical-chemistry
+slug: shchavelevaya-kislota-v-laboratorнoy-aнaliticheskoy-khimii
 Excerpt: Откройте для себя фундаментальную роль щавелевой кислоты как первичного стандарта
   и восстановителя в различных методах аналитической химии, от титрования до комплексометрии.
 title: 'Щавелевая Кислота в Лабораторной Аналитической Химии: Незаменимый Реагент'

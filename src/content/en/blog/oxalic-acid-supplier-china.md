@@ -1,7 +1,7 @@
 ---
 Id: SP-8voqp9xxl2
 rootnotouch: oxalic-acid-supplier-china
-Slug: oxalic-acid-supplier-china
+slug: 
 Excerpt: >-
   China produces over 70% of the world's oxalic acid. Learn how to evaluate
   Chinese suppliers, verify quality certifications, and ensure a stable supply

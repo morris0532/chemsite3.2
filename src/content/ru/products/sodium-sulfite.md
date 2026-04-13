@@ -29,7 +29,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Промышленный сульфит натрия для очистки воды, целлюлозно-бумажной
   промышленности и химической переработки.
-slug: sodium-sulfite
+slug: sulfit-нatriya
 specs:
 - label: Химическая формула
   value: Na₂SO₃

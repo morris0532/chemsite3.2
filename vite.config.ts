@@ -32,6 +32,9 @@ export default defineConfig({
   optimizeDeps: {
     include: ["gray-matter"],
   },
+  preview: {
+    allowedHosts: true,
+  },
   build: {
     rollupOptions: {
       output: {

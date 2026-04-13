@@ -35,7 +35,7 @@ nameCn: 纯碱
 packaging: 40 кг/джамбо-мешки
 ports: Ляньюньган / Циндао
 shortDescription: Плотная и легкая сода для стекольной, моющей и химической промышленности.
-slug: soda-ash
+slug: soda-kaltsiнirovaннaya-karboнat-нatriya
 specs:
 - label: Химическая формула
   value: Na₂CO₃

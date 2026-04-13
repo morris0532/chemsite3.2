@@ -1,7 +1,7 @@
 ---
 Id: SP-tfpaqatyca
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
-Slug: how-aluminum-sulfate-functions-in-water-treatment
+slug: how-aluminum-sulfate-functions-in-water-treatment
 Excerpt: >-
   Discover the essential role of aluminum sulfate in water purification, from
   drinking water to industrial wastewater treatment.

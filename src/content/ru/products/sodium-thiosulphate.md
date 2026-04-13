@@ -48,7 +48,7 @@ packaging: 25 кг/джамбо мешки
 ports: Циндао / Тяньцзинь / Далянь
 shortDescription: Высокочистый тиосульфат натрия (гипосульфит натрия) для промышленного,
   фотографического и водоочистного применения.
-slug: sodium-thiosulphate
+slug: tiosulfat-нatriya
 specs:
 - label: Химическая формула
   value: Na₂S₂O₃·5H₂O

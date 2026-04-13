@@ -1,7 +1,7 @@
 ---
 Id: SP-rvq04h0o3h
 rootnotouch: oxalic-acid-textile-dyeing
-Slug: oxalic-acid-textile-dyeing
+slug: oxalic-acid-for-textile-dyeing-printing
 Excerpt: >-
   Explore the vital role of oxalic acid in the textile industry, from its use as
   a dyeing auxiliary and reducing agent in printing to its effectiveness in

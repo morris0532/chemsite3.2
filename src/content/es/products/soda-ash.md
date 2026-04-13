@@ -37,7 +37,7 @@ ports: Lianyungang / Qingdao
 shortDescription: Carbonato de sodio (Soda Ash) de alta calidad, en presentación ligera
   y densa, para compra al por mayor y exportación desde China. Esencial para la industria
   del vidrio, detergentes y suministro químico. Proveedor confiable con precios competitivos.
-slug: soda-ash
+slug: carbonato-de-sodio-soda-ash
 specs:
 - label: Fórmula Química
   value: Na₂CO₃

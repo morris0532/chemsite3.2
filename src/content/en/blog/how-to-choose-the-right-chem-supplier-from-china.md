@@ -1,7 +1,7 @@
 ---
 Id: SP-k5z4975jyk
 rootnotouch: how-to-choose-the-right-chem-supplier-from-china
-Slug: how-to-choose-the-right-chem-supplier-from-china
+slug: how-to-choose-the-right-chemical
 Excerpt: >-
   An in-depth guide on selecting a reliable chemical supplier in China, covering
   supplier qualification, quality control, supply chain, cost-effectiveness, and

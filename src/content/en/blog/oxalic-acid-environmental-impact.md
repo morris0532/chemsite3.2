@@ -1,7 +1,7 @@
 ---
 Id: SP-9tgzvnsevm
 rootnotouch: oxalic-acid-environmental-impact
-Slug: oxalic-acid-environmental-impact
+slug: oxalic-acids-environmental-impact-biodegradability
 Excerpt: >-
   Explore the environmental footprint of oxalic acid, its natural occurrence,
   biodegradability, and safe disposal practices to ensure sustainable use in

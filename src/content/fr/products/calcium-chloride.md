@@ -61,7 +61,7 @@ shortDescription: Chlorure de calcium (CaCl2) de haute pureté en écailles, gra
   et poudre pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour
   le déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant
   de confiance avec des prix compétitifs.
-slug: calcium-chloride
+slug: chlorure-de-calcium
 specs:
 - label: Formule chimique
   value: CaCl₂

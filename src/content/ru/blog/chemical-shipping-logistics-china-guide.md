@@ -1,7 +1,7 @@
 ---
 Id: SP-pscwqk2inw
 rootnotouch: chemical-shipping-logistics-china-guide
-Slug: chemical-shipping-logistics-china-guide
+slug: dostavka-khimikatov-i-logistika-iz-kitaya
 Excerpt: Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте
   о правилах, требованиях к упаковке и выборе правильного логистического партнера.
 title: 'Доставка химикатов и логистика из Китая: что вам нужно знать'

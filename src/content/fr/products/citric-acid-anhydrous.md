@@ -59,7 +59,7 @@ ports: Qingdao / Tianjin / Dalian
 shortDescription: Acide citrique anhydre de haute pureté pour l'achat en gros et l'exportation
   depuis la Chine. Essentiel pour les applications alimentaires, les boissons, pharmaceutiques
   et industrielles. Fabricant de confiance avec des prix compétitifs.
-slug: citric-acid-anhydrous
+slug: acide-citrique-anhydre
 specs:
 - label: Formule chimique
   value: C₆H₈O₇

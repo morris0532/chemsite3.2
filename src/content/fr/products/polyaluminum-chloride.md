@@ -60,7 +60,7 @@ shortDescription: Polychlorure d'aluminium (PAC) à haute efficacité pour l'ach
   gros et l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la
   purification des eaux usées et la floculation industrielle. Fabricant de confiance
   avec des prix compétitifs.
-slug: polyaluminum-chloride
+slug: polychlorure-daluminium-pac
 specs:
 - label: Formule chimique
   value: '[Al₂(OH)nCl₆-n]m'

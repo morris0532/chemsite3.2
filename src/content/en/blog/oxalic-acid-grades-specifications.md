@@ -1,7 +1,7 @@
 ---
 Id: SP-giprpr4izg
 rootnotouch: oxalic-acid-grades-specifications
-Slug: oxalic-acid-grades-specifications
+slug: oxalic-acid-grades-specifications-an-in-depth-look
 Excerpt: >-
   Explore the different grades and specifications of oxalic acid, including
   industrial, food, and pharmaceutical grades. Understand purity requirements,

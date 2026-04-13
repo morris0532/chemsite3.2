@@ -29,7 +29,7 @@ packaging: 25 кг мешки
 ports: Циндао / Тяньцзинь
 shortDescription: Ацетат натрия безводный высокой чистоты для текстильного крашения,
   пищевой промышленности и химического синтеза.
-slug: sodium-acetate-anhydrous
+slug: atsetat-нatriya-bezvodнyy
 specs:
 - label: Химическая формула
   value: CH₃COONa (ацетат натрия)

@@ -1,7 +1,7 @@
 ---
 Id: SP-fzptf2rbum
 rootnotouch: oxalic-acid-industry-innovations
-Slug: oxalic-acid-industry-innovations
+slug: oxalic-acid-industry-innovations-driving-sustainability
 Excerpt: >-
   Explore the latest innovations in the oxalic acid industry, focusing on
   advancements in green chemistry, advanced purification techniques, and

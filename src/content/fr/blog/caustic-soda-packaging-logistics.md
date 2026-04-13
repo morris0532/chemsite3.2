@@ -1,7 +1,7 @@
 ---
 Id: SP-ob7i2fol0v
 rootnotouch: caustic-soda-packaging-logistics
-slug: caustic-soda-packaging-logistics
+slug: caustic-soda-packaging-logistics-a-guide
 Excerpt: A comprehensive guide for B2B buyers on caustic soda packaging, international
   shipping regulations, dangerous goods handling, and essential documentation for
   global trade.

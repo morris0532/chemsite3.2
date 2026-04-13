@@ -1,7 +1,7 @@
 ---
 Id: SP-7uxi0ourdr
 rootnotouch: ma-hiya-as-suda-al-kawia-al-sinaia
-slug: ma-hiya-as-suda-al-kawia-al-sinaia
+slug: what-is-caustic-soda-a-complete-guide-for-industrial-buyers
 Excerpt: 'Comprehensive guide to caustic soda (sodium hydroxide): chemical properties,
   applications, grades, safety, and how to source it for your business.'
 title: What Is Caustic Soda? A Complete Guide for Industrial Buyers

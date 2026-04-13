@@ -6,7 +6,7 @@ name: Sodium Thiosulphate (Hypo)
 nameCn: 硫代硫酸钠
 cas: 7772-98-7 / 10102-17-7
 hsCode: '2832300000'
-Slug: sodium-thiosulphate-industrial
+slug: sodium-thiosulphate-hypo
 shortDescription: >-
   High-purity Sodium Thiosulphate (Na2S2O3) for bulk purchase and export from
   China. Essential for water treatment, photography, and medical applications.

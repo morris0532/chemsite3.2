@@ -1,7 +1,7 @@
 ---
 Id: SP-9ejaywq8f7
 rootnotouch: oxalic-acid-environmental-impact
-slug: oxalic-acid-environmental-impact
+slug: impact-environnemental-et-biodégradabilité-de-lacide
 Excerpt: Explorez l'empreinte environnementale de l'acide oxalique, sa présence naturelle,
   sa biodégradabilité et les pratiques d'élimination sûres pour garantir une utilisation
   durable dans diverses applications.
