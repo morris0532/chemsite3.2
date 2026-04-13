@@ -1,31 +1,63 @@
 ---
-id: "7"
-name: "Carbonate de sodium (Soude)"
-nameCn: "纯碱"
-cas: "497-19-8"
-hsCode: "2836200000"
-slug: "soda-ash"
-shortDescription: "Carbonate de sodium (soude) léger et dense de haute qualité pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication du verre, des détergents et des produits chimiques. Fournisseur de confiance avec des prix compétitifs."
-image: "/images/products/soda-ash-cas-497-19-8-sinopeakchem.webp"
-specs: [
-  {"label":"Formule chimique","value":"Na₂CO₃"},
-  {"label":"Numéro CAS","value":"497-19-8"},
-  {"label":"Code SH","value":"2836200000"},
-  {"label":"Pureté","value":"≥99,2 % (Léger/Dense)"},
-  {"label":"Apparence","value":"Poudre blanche (dense/légère)"},
-  {"label":"Emballage","value":"Sacs de 40 kg / Sacs Jumbo. Emballage personnalisé disponible."
-  },
-  {"label":"Chargement","value":"27-28 MT/20GP (dense) / 22-23 MT/20GP (léger)"},
-  {"label":"Ports disponibles","value":"Lianyungang / Qingdao / Tianjin"}
-]
-applications: ["Fabrication de verre et de verre plat","supply de détergents et de savons","Traitement de l'eau","Métallurgie et fusion","Fabrication de papier","Synthèse chimique"]
-faqs: [
-  {"question":"Quelle est la différence entre le carbonate de sodium dense et léger ?","answer":"Le carbonate de sodium dense a une densité apparente plus élevée (environ 1000 kg/m³) et est préféré pour la fabrication du verre. Le carbonate de sodium léger a une densité apparente plus faible (environ 500 kg/m³) et est couramment utilisé dans la supply de détergents et la synthèse chimique."},{"question":"Quelle est la quantité minimale de commande pour un achat en gros ?","answer":"Nous recommandons un conteneur complet de 20 pieds pour obtenir les meilleurs prix. En tant que fournisseur leader en Chine, nous pouvons charger 27 à 28 MT de carbonate de sodium dense ou 22 à 23 MT de carbonate de sodium léger par 20GP."},{"question":"Depuis quels ports chinois exportez-vous le carbonate de sodium ?","answer":"Nous expédions principalement depuis les ports de Lianyungang et de Qingdao, qui offrent tous deux une excellente connectivité vers les destinations mondiales pour vos commandes en gros."},{"question":"Pouvez-vous fournir des échantillons avant que je ne passe une commande en gros ?","answer":"Oui, en tant que fabricant de confiance, nous pouvons fournir des échantillons pour des tests de qualité. Veuillez contacter notre équipe commerciale avec vos besoins et votre adresse de livraison."}
-]
-ports: "Lianyungang / Qingdao"
-loading: "27-28MT/20GP (dense) / 22-23MT/20GP (light)"
-packaging: "40KG/Jumbo bags"
-category: "Produits alcalins"
+Origin_Slug: soda-ash
+applications:
+- Fabrication de verre et de verre plat
+- supply de détergents et de savons
+- Traitement de l'eau
+- Métallurgie et fusion
+- Fabrication de papier
+- Synthèse chimique
+cas: 497-19-8
+category: Produits alcalins
+faqs:
+- answer: Le carbonate de sodium dense a une densité apparente plus élevée (environ
+    1000 kg/m³) et est préféré pour la fabrication du verre. Le carbonate de sodium
+    léger a une densité apparente plus faible (environ 500 kg/m³) et est couramment
+    utilisé dans la supply de détergents et la synthèse chimique.
+  question: Quelle est la différence entre le carbonate de sodium dense et léger ?
+- answer: Nous recommandons un conteneur complet de 20 pieds pour obtenir les meilleurs
+    prix. En tant que fournisseur leader en Chine, nous pouvons charger 27 à 28 MT
+    de carbonate de sodium dense ou 22 à 23 MT de carbonate de sodium léger par 20GP.
+  question: Quelle est la quantité minimale de commande pour un achat en gros ?
+- answer: Nous expédions principalement depuis les ports de Lianyungang et de Qingdao,
+    qui offrent tous deux une excellente connectivité vers les destinations mondiales
+    pour vos commandes en gros.
+  question: Depuis quels ports chinois exportez-vous le carbonate de sodium ?
+- answer: Oui, en tant que fabricant de confiance, nous pouvons fournir des échantillons
+    pour des tests de qualité. Veuillez contacter notre équipe commerciale avec vos
+    besoins et votre adresse de livraison.
+  question: Pouvez-vous fournir des échantillons avant que je ne passe une commande
+    en gros ?
+hsCode: '2836200000'
+id: '7'
+image: /images/products/soda-ash-cas-497-19-8-sinopeakchem.webp
+loading: 27-28MT/20GP (dense) / 22-23MT/20GP (light)
+name: Carbonate de sodium (Soude)
+nameCn: 纯碱
+packaging: 40KG/Jumbo bags
+ports: Lianyungang / Qingdao
+shortDescription: Carbonate de sodium (soude) léger et dense de haute qualité pour
+  l'achat en gros et l'exportation depuis la Chine. Essentiel pour la fabrication
+  du verre, des détergents et des produits chimiques. Fournisseur de confiance avec
+  des prix compétitifs.
+slug: soda-ash
+specs:
+- label: Formule chimique
+  value: Na₂CO₃
+- label: Numéro CAS
+  value: 497-19-8
+- label: Code SH
+  value: '2836200000'
+- label: Pureté
+  value: ≥99,2 % (Léger/Dense)
+- label: Apparence
+  value: Poudre blanche (dense/légère)
+- label: Emballage
+  value: Sacs de 40 kg / Sacs Jumbo. Emballage personnalisé disponible.
+- label: Chargement
+  value: 27-28 MT/20GP (dense) / 22-23 MT/20GP (léger)
+- label: Ports disponibles
+  value: Lianyungang / Qingdao / Tianjin
 ---
 
 ## Carbonate de sodium (CAS 497-19-8) : Votre premier fournisseur en Chine pour le carbonate de sodium léger et dense

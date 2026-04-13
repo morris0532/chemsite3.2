@@ -1,54 +1,78 @@
 ---
-id: "3"
-name: "Ácido Oxálico"
-nameCn: "草酸"
-cas: "144-62-7 / 6153-56-6"
-hsCode: "2917111000"
-slug: "oxalic-acid"
-shortDescription: "Ácido Oxálico (Ácido Etanodioico) de alta pureza para compra al por mayor y exportación desde China. Esencial para la extracción de tierras raras, teñido textil y limpieza de metales. Proveedor confiable con precios competitivos."
-image: "/images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp"
-specs: [
-  {"label":"Fórmula Química","value":"H₂C₂O₄·2H₂O"},
-  {"label":"Número CAS","value":"144-62-7 / 6153-56-6"},
-  {"label":"Código HS","value":"2917111000"},
-  {"label":"Pureza","value":"≥99.6%"},
-  {"label":"Apariencia","value":"Polvo cristalino blanco"},
-  {"label":"Embalaje","value":"Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje personalizado disponible."
-  },
-  {"label":"Carga","value":"25MT por contenedor 20GP (FCL)"},
-  {"label":"Puertos Disponibles","value":"Qingdao, Tianjin, Dalian (Principales puertos de China)"}
-]
-applications: [
-  "Extracción y purificación de elementos de tierras raras",
-  "Teñido e impresión textil (mordiente, agente reductor)",
-  "Limpieza de metales y eliminación de óxido",
-  "Curtido de cuero",
-  "Intermedios farmacéuticos",
-  "Agente blanqueador (madera, corcho)"
-]
-faqs: [
-  {"question":"¿Qué grados de Ácido Oxálico suministran para pedidos al por mayor?","answer":"Somos un proveedor líder en China de Ácido Oxálico, ofreciendo grado industrial con una pureza ≥99.6%. Está disponible para compra al por mayor y exportación, ideal para diversas aplicaciones industriales, incluyendo el procesamiento de tierras raras y limpieza de metales."},{
-    "question":"¿Cuál es la pureza típica de sus productos de Ácido Oxálico?",
-    "answer":"Nuestro Ácido Oxálico (H₂C₂O₄·2H₂O) está disponible con una pureza mínima del 99.6%. Aseguramos un estricto control de calidad para cumplir con los estándares internacionales en todas las aplicaciones."
-  },{
-    "question":"¿Cómo se embala el Ácido Oxálico para el envío internacional desde China?",
-    "answer":"Para exportación, nuestro Ácido Oxálico se embala típicamente en bolsas tejidas de PP de 25KG con forros interiores de PE, diseñadas para proteger contra la humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para envíos al por mayor más grandes. Se pueden organizar soluciones de embalaje personalizadas."
-  },{
-    "question":"¿Cuáles son las principales aplicaciones de su Ácido Oxálico de grado industrial?",
-    "answer":"Nuestro Ácido Oxálico de grado industrial se usa ampliamente en la extracción de elementos de tierras raras, teñido e impresión textil, limpieza de metales y eliminación de óxido, y curtido de cuero. Sus fuertes propiedades reductoras y quelantes lo hacen altamente versátil."
-  },{
-    "question":"¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos de Seguridad (MSDS) para el Ácido Oxálico?",
-    "answer":"Sí, proporcionamos documentación completa para cada envío, incluyendo un Certificado de Análisis (COA) con especificaciones del producto y una Hoja de Datos de Seguridad (MSDS) con pautas de seguridad y manejo. Estas están disponibles bajo solicitud."
-  },{
-    "question":"¿Cuál es el tiempo de entrega para pedidos al por mayor de Ácido Oxálico desde su fábrica?",
-    "answer":"El tiempo estándar de entrega para pedidos al por mayor de Ácido Oxálico suele ser de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del pedido y la programación actual de suministro. Nos esforzamos por una logística eficiente y entregas puntuales desde los principales puertos chinos."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG / Bolsas Jumbo"
-category: "Ácidos Orgánicos"
+Origin_Slug: oxalic-acid
+applications:
+- Extracción y purificación de elementos de tierras raras
+- Teñido e impresión textil (mordiente, agente reductor)
+- Limpieza de metales y eliminación de óxido
+- Curtido de cuero
+- Intermedios farmacéuticos
+- Agente blanqueador (madera, corcho)
+cas: 144-62-7 / 6153-56-6
+category: Ácidos Orgánicos
+faqs:
+- answer: Somos un proveedor líder en China de Ácido Oxálico, ofreciendo grado industrial
+    con una pureza ≥99.6%. Está disponible para compra al por mayor y exportación,
+    ideal para diversas aplicaciones industriales, incluyendo el procesamiento de
+    tierras raras y limpieza de metales.
+  question: ¿Qué grados de Ácido Oxálico suministran para pedidos al por mayor?
+- answer: Nuestro Ácido Oxálico (H₂C₂O₄·2H₂O) está disponible con una pureza mínima
+    del 99.6%. Aseguramos un estricto control de calidad para cumplir con los estándares
+    internacionales en todas las aplicaciones.
+  question: ¿Cuál es la pureza típica de sus productos de Ácido Oxálico?
+- answer: Para exportación, nuestro Ácido Oxálico se embala típicamente en bolsas
+    tejidas de PP de 25KG con forros interiores de PE, diseñadas para proteger contra
+    la humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para envíos
+    al por mayor más grandes. Se pueden organizar soluciones de embalaje personalizadas.
+  question: ¿Cómo se embala el Ácido Oxálico para el envío internacional desde China?
+- answer: Nuestro Ácido Oxálico de grado industrial se usa ampliamente en la extracción
+    de elementos de tierras raras, teñido e impresión textil, limpieza de metales
+    y eliminación de óxido, y curtido de cuero. Sus fuertes propiedades reductoras
+    y quelantes lo hacen altamente versátil.
+  question: ¿Cuáles son las principales aplicaciones de su Ácido Oxálico de grado
+    industrial?
+- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
+    Certificado de Análisis (COA) con especificaciones del producto y una Hoja de
+    Datos de Seguridad (MSDS) con pautas de seguridad y manejo. Estas están disponibles
+    bajo solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+    de Seguridad (MSDS) para el Ácido Oxálico?
+- answer: El tiempo estándar de entrega para pedidos al por mayor de Ácido Oxálico
+    suele ser de 7 a 15 días después de la confirmación del pedido, dependiendo del
+    tamaño del pedido y la programación actual de suministro. Nos esforzamos por una
+    logística eficiente y entregas puntuales desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de Ácido Oxálico
+    desde su fábrica?
 featured: true
+hsCode: '2917111000'
+id: '3'
+image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
+loading: 25MT/20GP
+name: Ácido Oxálico
+nameCn: 草酸
+packaging: 25KG / Bolsas Jumbo
+ports: Qingdao / Tianjin / Dalian
+shortDescription: Ácido Oxálico (Ácido Etanodioico) de alta pureza para compra al
+  por mayor y exportación desde China. Esencial para la extracción de tierras raras,
+  teñido textil y limpieza de metales. Proveedor confiable con precios competitivos.
+slug: acido-oxalico
+specs:
+- label: Fórmula Química
+  value: H₂C₂O₄·2H₂O
+- label: Número CAS
+  value: 144-62-7 / 6153-56-6
+- label: Código HS
+  value: '2917111000'
+- label: Pureza
+  value: ≥99.6%
+- label: Apariencia
+  value: Polvo cristalino blanco
+- label: Embalaje
+  value: Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje
+    personalizado disponible.
+- label: Carga
+  value: 25MT por contenedor 20GP (FCL)
+- label: Puertos Disponibles
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
 ---
 
 ## Ácido Oxálico (CAS 144-62-7 / 6153-56-6): Su proveedor confiable de China para Ácido Etanodioico de alta pureza

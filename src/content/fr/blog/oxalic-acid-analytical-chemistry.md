@@ -1,21 +1,30 @@
 ---
-Id: 'SP-ywya8p0uub'
-Origin_Slug: 'oxalic-acid-analytical-chemistry'
-Slug: 'oxalic-acid-analytical-chemistry'
-Excerpt: 'Découvrez le rôle fondamental de l''acide oxalique en tant qu''étalon primaire et agent réducteur dans diverses techniques de chimie analytique, du titrage à la complexométrie.'
-title: 'Acide Oxalique en Chimie Analytique de Laboratoire : Réactif Essentiel'
-description: 'Découvrez le rôle fondamental de l''acide oxalique en tant qu''étalon primaire et agent réducteur dans diverses techniques de chimie analytique, du titrage à la complexométrie.'
-image: '/images/blog/oxalic-acid-analytical-chemistry.webp'
-imageAlt: 'Une image professionnelle et propre représentant un laboratoire de chimie analytique moderne. Montrez de la verrerie, des montages de titrage, des instruments analytiques (par exemple, spectrophotomètre, chromatographe) et des réactifs chimiques. Mettez l''accent sur la précision, la recherche scientifique et le travail de laboratoire. Haute qualité, résolution 4k.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Applications de Laboratoire'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Francophone Africa & EU (FR)'
+Excerpt: Découvrez le rôle fondamental de l'acide oxalique en tant qu'étalon primaire
+  et agent réducteur dans diverses techniques de chimie analytique, du titrage à la
+  complexométrie.
+Id: SP-ywya8p0uub
+Keywords: null
+Origin_Slug: oxalic-acid-analytical-chemistry
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-analytical-chemistry
+Target_Region: Francophone Africa & EU (FR)
+author: Sinopeakchem Technical Team
+category: Applications de Laboratoire
+description: Découvrez le rôle fondamental de l'acide oxalique en tant qu'étalon primaire
+  et agent réducteur dans diverses techniques de chimie analytique, du titrage à la
+  complexométrie.
+image: /images/blog/oxalic-acid-analytical-chemistry.webp
+imageAlt: Une image professionnelle et propre représentant un laboratoire de chimie
+  analytique moderne. Montrez de la verrerie, des montages de titrage, des instruments
+  analytiques (par exemple, spectrophotomètre, chromatographe) et des réactifs chimiques.
+  Mettez l'accent sur la précision, la recherche scientifique et le travail de laboratoire.
+  Haute qualité, résolution 4k.
+tag: null
+title: 'Acide Oxalique en Chimie Analytique de Laboratoire : Réactif Essentiel'
 ---
+
 ## Acide Oxalique en Chimie Analytique de Laboratoire : Réactif Essentiel
 
 Dans le domaine de la chimie analytique, la précision et l'exactitude sont primordiales. L'**acide oxalique** (H₂C₂O₄) se distingue comme un réactif polyvalent et indispensable, largement employé dans diverses analyses quantitatives et qualitatives. Ses propriétés chimiques bien définies, en particulier sa capacité à agir comme étalon primaire et agent réducteur, en font une pierre angulaire de nombreuses procédures de laboratoire [1].

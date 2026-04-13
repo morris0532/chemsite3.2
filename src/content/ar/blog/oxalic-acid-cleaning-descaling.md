@@ -1,21 +1,27 @@
 ---
-Id: 'SP-h4h16tdi1p'
-Origin_Slug: 'oxalic-acid-cleaning-descaling'
-Slug: 'oxalic-acid-cleaning-descaling'
-Excerpt: 'اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات الكلسية.'
-title: 'حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل'
-description: 'اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات الكلسية.'
-image: '/images/blog/oxalic-acid-cleaning-descaling.webp'
-imageAlt: 'صورة احترافية توضح فعالية حمض الأكساليك في إزالة الصدأ من سطح معدني، تظهر الفرق قبل وبعد التنظيف'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'حلول التنظيف'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف على
+  تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات
+  الكلسية.
+Id: SP-h4h16tdi1p
+Keywords: null
+Origin_Slug: oxalic-acid-cleaning-descaling
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-cleaning-descaling
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: حلول التنظيف
+description: اكتشف القوة الاستثنائية لحمض الأكساليك في التنظيف وإزالة الترسبات. تعرف
+  على تطبيقاته في إزالة الصدأ، وتبييض الخشب، وصيانة المعدات الصناعية، وإزالة الترسبات
+  الكلسية.
+image: /images/blog/oxalic-acid-cleaning-descaling.webp
+imageAlt: صورة احترافية توضح فعالية حمض الأكساليك في إزالة الصدأ من سطح معدني، تظهر
+  الفرق قبل وبعد التنظيف
+tag: null
+title: 'حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل'
 ---
+
 ## حمض الأكساليك للتنظيف وإزالة الترسبات: دليل شامل
 
 حمض الأكساليك (H₂C₂O₄) هو حمض عضوي قوي ومتعدد الاستخدامات بشكل ملحوظ، ويستخدم على نطاق واسع في كل من التطبيقات المنزلية والصناعية لقدراته الاستثنائية في التنظيف وإزالة الترسبات. بفضل خصائصه الكيميائية الفريدة كعامل مخلبي (Chelating Agent) وحمض خفيف، فإنه فعال بشكل خاص في معالجة البقع الصعبة، والصدأ، والترسبات المعدنية التي تقاوم المنظفات التقليدية.

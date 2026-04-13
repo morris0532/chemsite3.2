@@ -1,21 +1,25 @@
 ---
-Id: 'SP-7hiyfxiowe'
-Origin_Slug: 'oxalic-acid-rare-earth-magnets'
-Slug: 'oxalic-acid-rare-earth-magnets'
-Excerpt: 'تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا الخضراء.'
-title: 'حمض الأكساليك في إنتاج مغناطيسات الأتربة النادرة'
-description: 'تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا الخضراء.'
-image: '/images/blog/oxalic-acid-rare-earth-magnets.webp'
-imageAlt: 'مغناطيسات نيوديميوم قوية تظهر تطبيقاتها في المحركات عالية التقنية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تطبيقات صناعية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة اللازمة
+  لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا الخضراء.
+Id: SP-7hiyfxiowe
+Keywords: null
+Origin_Slug: oxalic-acid-rare-earth-magnets
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-rare-earth-magnets
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
+description: تعرف على الدور الحيوي لحمض الأكساليك في تنقية العناصر الأرضية النادرة
+  اللازمة لإنتاج المغناطيسات عالية الأداء المستخدمة في السيارات الكهربائية والتكنولوجيا
+  الخضراء.
+image: /images/blog/oxalic-acid-rare-earth-magnets.webp
+imageAlt: مغناطيسات نيوديميوم قوية تظهر تطبيقاتها في المحركات عالية التقنية
+tag: null
+title: حمض الأكساليك في إنتاج مغناطيسات الأتربة النادرة
 ---
+
 ## أهمية مغناطيسات الأتربة النادرة في العالم الحديث
 
 تعد مغناطيسات الأتربة النادرة، وخاصة مغناطيسات النيوديميوم (NdFeB)، أقوى أنواع المغناطيسات الدائمة المتاحة اليوم. وهي ضرورية لمجموعة واسعة من التطبيقات عالية التقنية، من محركات السيارات الكهربائية وتوربينات الرياح إلى الأجهزة الطبية والإلكترونيات الاستهلاكية. يتطلب إنتاج هذه المغناطيسات عناصر أرضية نادرة عالية النقاء، وهنا يلعب **حمض الأكساليك** دوراً محورياً.

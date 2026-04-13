@@ -1,21 +1,24 @@
 ---
-Id: 'SP-g7vy437j22'
-Origin_Slug: 'oxalic-acid-dilution-guide'
-Slug: 'oxalic-acid-dilution-guide'
-Excerpt: 'تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.'
-title: 'دليل تخفيف حمض الأكساليك: إرشادات الأمان والتركيز'
-description: 'تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.'
-image: '/images/blog/oxalic-acid-dilution-guide.webp'
-imageAlt: 'صورة توضح عملية تخفيف مادة كيميائية في مخبار مدرج مع ارتداء قفازات واقية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'أدلة تقنية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا الدليل
+  احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.
+Id: SP-g7vy437j22
+Keywords: null
+Origin_Slug: oxalic-acid-dilution-guide
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-dilution-dlyl
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: أدلة تقنية
+description: تعلم كيفية تخفيف حمض الأكساليك بأمان ودقة لمختلف التطبيقات. يغطي هذا
+  الدليل احتياطات السلامة، وحسابات التركيز، وإجراءات الخلط خطوة بخطوة.
+image: /images/blog/oxalic-acid-dilution-guide.webp
+imageAlt: صورة توضح عملية تخفيف مادة كيميائية في مخبار مدرج مع ارتداء قفازات واقية
+tag: null
+title: 'دليل تخفيف حمض الأكساليك: إرشادات الأمان والتركيز'
 ---
+
 ## دليل تخفيف حمض الأكساليك: إرشادات الأمان والتركيز
 
 يعد حمض الأكساليك (H₂C₂O₄) مادة كيميائية قوية وفعالة للغاية، ولكن استخدامه الآمن والفعال يتطلب تخفيفاً دقيقاً ومناسباً للتطبيق المحدد. سواء كنت تستخدمه لإزالة الصدأ أو تبييض الخشب أو العمليات الصناعية، فإن فهم كيفية حساب التراكيز والتعامل مع المادة بأمان أمر بالغ الأهمية.

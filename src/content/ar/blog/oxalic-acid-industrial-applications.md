@@ -1,21 +1,24 @@
 ---
-Id: 'SP-ymhifh1bi1'
-Origin_Slug: 'oxalic-acid-industrial-applications'
-Slug: 'oxalic-acid-industrial-applications'
-Excerpt: 'استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.'
-title: 'حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة'
-description: 'استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.'
-image: '/images/blog/oxalic-acid-industrial-applications.webp'
-imageAlt: 'حمض الأكساليك المستخدم في إزالة الصدأ والتنظيف الصناعي'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'دليل المنتج'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى استخراج
+  العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
+Id: SP-ymhifh1bi1
+Keywords: null
+Origin_Slug: oxalic-acid-industrial-applications
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-industrial-tatbyqat
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: دليل المنتج
+description: استكشف التطبيقات الصناعية المتنوعة لحمض الأكساليك من إزالة الصدأ إلى
+  استخراج العناصر الأرضية النادرة، إلى جانب إرشادات السلامة والتداول المهمة.
+image: /images/blog/oxalic-acid-industrial-applications.webp
+imageAlt: حمض الأكساليك المستخدم في إزالة الصدأ والتنظيف الصناعي
+tag: null
+title: 'حمض الأكساليك: التطبيقات الصناعية وإرشادات السلامة'
 ---
+
 ## ما هو حمض الأكساليك؟
 حمض الأكساليك (C₂H₂O₄) هو أبسط حمض ثنائي الكربوكسيل وأحد أقوى الأحماض العضوية. بصفتها [مورداً رائعاً لحمض الأكساليك عالي النقاء](https://www.sinopeakchem.com/ar/products/oxalic-acid)، تضمن Sinopeakchem أن تلبي هذه المادة الكيميائية متعددة الاستخدامات المتطلبات الصارمة للمشترين الصناعيين العالميين. يوجد بشكل طبيعي في العديد من النباتات ويتم توفيره صناعياً للعديد من التطبيقات.
 

@@ -1,21 +1,24 @@
 ---
-Id: 'SP-pscwqk2inw'
-Origin_Slug: 'chemical-shipping-logistics-china-guide'
-Slug: 'chemical-shipping-logistics-china-guide'
-Excerpt: 'Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте о правилах, требованиях к упаковке и выборе правильного логистического партнера.'
-title: 'Доставка химикатов и логистика из Китая: что вам нужно знать'
-description: 'Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте о правилах, требованиях к упаковке и выборе правильного логистического партнера.'
-image: '/images/blog/chemical-shipping-logistics-china-guide.webp'
-imageAlt: 'International chemical shipping and logistics from China port'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Доставка и логистика'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'CIS & Russia (RU)'
+Excerpt: Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте
+  о правилах, требованиях к упаковке и выборе правильного логистического партнера.
+Id: SP-pscwqk2inw
+Keywords: null
+Origin_Slug: chemical-shipping-logistics-china-guide
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: chemical-shipping-logistika-kitay-rukovodstvo
+Target_Region: CIS & Russia (RU)
+author: Sinopeakchem Technical Team
+category: Доставка и логистика
+description: Разберитесь в сложностях международной доставки химикатов из Китая. Узнайте
+  о правилах, требованиях к упаковке и выборе правильного логистического партнера.
+image: /images/blog/chemical-shipping-logistics-china-guide.webp
+imageAlt: International chemical shipping and logistics from China port
+tag: null
+title: 'Доставка химикатов и логистика из Китая: что вам нужно знать'
 ---
+
 ## Навигация по химической логистике
 Международная доставка химикатов требует специальных знаний и тщательного планирования. Вот что вам нужно учитывать при импорте из Китая.
 ## Ключевые соображения

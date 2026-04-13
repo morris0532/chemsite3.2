@@ -1,21 +1,29 @@
 ---
-Id: 'SP-rxbanmqyqr'
-Origin_Slug: 'oxalic-acid-rust-removal'
-Slug: 'oxalic-acid-rust-removal'
-Excerpt: 'Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación paso a paso, precauciones de seguridad y comparación con otros removedores de óxido.'
-title: 'Ácido Oxálico para la Eliminación de Óxido: La Guía Completa'
-description: 'Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación paso a paso, precauciones de seguridad y comparación con otros removedores de óxido.'
-image: '/images/blog/oxalic-acid-rust-removal.webp'
-imageAlt: 'Una imagen ilustrativa que muestra un objeto metálico oxidado parcialmente sumergido en una solución de ácido oxálico, con una clara distinción entre las partes oxidadas y limpias.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Aplicación de Producto'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas superficies
+  metálicas. Esta guía completa cubre sus principios químicos, el proceso de aplicación
+  paso a paso, precauciones de seguridad y comparación con otros removedores de óxido.
+Id: SP-rxbanmqyqr
+Keywords: null
+Origin_Slug: oxalic-acid-rust-removal
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-rust-removal
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Aplicación de Producto
+description: Descubra cómo el ácido oxálico elimina eficazmente el óxido de diversas
+  superficies metálicas. Esta guía completa cubre sus principios químicos, el proceso
+  de aplicación paso a paso, precauciones de seguridad y comparación con otros removedores
+  de óxido.
+image: /images/blog/oxalic-acid-rust-removal.webp
+imageAlt: Una imagen ilustrativa que muestra un objeto metálico oxidado parcialmente
+  sumergido en una solución de ácido oxálico, con una clara distinción entre las partes
+  oxidadas y limpias.
+tag: null
+title: 'Ácido Oxálico para la Eliminación de Óxido: La Guía Completa'
 ---
+
 ## Ácido Oxálico para la Eliminación de Óxido: La Guía Completa
 
 El óxido, el enemigo común del metal, puede degradar la integridad y apariencia de herramientas, maquinaria y diversas estructuras metálicas. Aunque existen numerosos removedores de óxido, el ácido oxálico destaca como una solución altamente eficaz y relativamente suave. Esta guía completa explora la ciencia detrás de la eliminación del óxido con ácido oxálico, proporciona un proceso de aplicación paso a paso, describe las precauciones de seguridad esenciales y compara su eficacia con otros agentes comunes para eliminar óxido.

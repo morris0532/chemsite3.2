@@ -1,21 +1,24 @@
 ---
-Id: 'SP-zpocr410m2'
-Origin_Slug: 'oxalic-acid-supplier-middle-east'
-Slug: 'oxalic-acid-supplier-middle-east'
-Excerpt: 'اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.'
-title: 'مورد حمض الأكساليك الموثوق في الشرق الأوسط: الإمارات والسعودية وتركيا'
-description: 'اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.'
-image: '/images/blog/oxalic-acid-supplier-middle-east.webp'
-imageAlt: 'الموانئ الاستراتيجية واللوجستيات الكيميائية في منطقة الشرق الأوسط'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'سلسلة التوريد'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض أكساليك
+  عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
+Id: SP-zpocr410m2
+Keywords: null
+Origin_Slug: oxalic-acid-supplier-middle-east
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-mwrd-middle-east
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
+description: اكتشف كيف تدعم SinoPeakChem الصناعات في الشرق الأوسط من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة عبر قناة السويس لتلميع الرخام وصناعة النفط والغاز.
+image: /images/blog/oxalic-acid-supplier-middle-east.webp
+imageAlt: الموانئ الاستراتيجية واللوجستيات الكيميائية في منطقة الشرق الأوسط
+tag: null
+title: 'مورد حمض الأكساليك الموثوق في الشرق الأوسط: الإمارات والسعودية وتركيا'
 ---
+
 ## تلبية الطلب المتزايد في الشرق الأوسط
 
 يعد الشرق الأوسط سوقاً حيوياً للمواد الكيميائية الصناعية، حيث تقود الإمارات والسعودية وتركيا الطلب على حمض الأكساليك (H₂C₂O₄). تلتزم **SinoPeakChem** بكونها الشريك المفضل للشركات في المنطقة، من خلال توفير منتجات عالية الجودة وخدمات لوجستية موثوقة.

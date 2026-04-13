@@ -1,21 +1,24 @@
 ---
-Id: 'SP-slqvccx9et'
-Origin_Slug: 'oxalic-acid-rare-earth-extraction'
-Slug: 'oxalic-acid-rare-earth-extraction'
-Excerpt: 'اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.'
-title: 'دور حمض الأكساليك في استخراج العناصر الأرضية النادرة (REE)'
-description: 'اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.'
-image: '/images/blog/oxalic-acid-rare-earth-extraction.webp'
-imageAlt: 'رسم توضيحي لعملية ميتالورجيا مائية تظهر ترسيب العناصر الأرضية النادرة'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تطبيقات صناعية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
+  النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.
+Id: SP-slqvccx9et
+Keywords: null
+Origin_Slug: oxalic-acid-rare-earth-extraction
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-rare-earth-extraction
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
+description: اكتشف كيف يلعب حمض الأكساليك دوراً حيوياً في ترسيب وتكرير العناصر الأرضية
+  النادرة، وهي عملية أساسية لإنتاج التكنولوجيا المتقدمة والطاقة المتجددة.
+image: /images/blog/oxalic-acid-rare-earth-extraction.webp
+imageAlt: رسم توضيحي لعملية ميتالورجيا مائية تظهر ترسيب العناصر الأرضية النادرة
+tag: null
+title: دور حمض الأكساليك في استخراج العناصر الأرضية النادرة (REE)
 ---
+
 ## أهمية العناصر الأرضية النادرة في التكنولوجيا الحديثة
 
 تعد العناصر الأرضية النادرة (REEs) مجموعة من 17 عنصراً كيميائياً ضرورياً للعديد من التقنيات الحديثة، بما في ذلك الهواتف الذكية، والمحركات الكهربائية، وتوربينات الرياح، وأنظمة الدفاع المتقدمة. ونظراً لخصائصها الكيميائية المتشابهة، فإن استخراجها وفصلها يمثل تحدياً تقنياً كبيراً، وهنا يأتي دور **حمض الأكساليك** كعامل ترسيب رئيسي.

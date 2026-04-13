@@ -1,21 +1,25 @@
 ---
-Id: 'SP-notus8wjs9'
-Origin_Slug: 'oxalic-acid-market-analysis'
-Slug: 'oxalic-acid-market-analysis'
-Excerpt: 'نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.'
-title: 'تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة'
-description: 'نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.'
-image: '/images/blog/oxalic-acid-market-analysis.webp'
-imageAlt: 'رسم بياني عالمي يظهر تدفقات تجارة المواد الكيميائية بين القارات، مع التركيز على الصادرات من آسيا'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تحليل السوق'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
+  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.
+Id: SP-notus8wjs9
+Keywords: null
+Origin_Slug: oxalic-acid-market-analysis
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-swq-analysis
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تحليل السوق
+description: نظرة متعمقة على سوق حمض الأكساليك العالمي، تغطي المحركات الرئيسية، ومناطق
+  الإنتاج الرائدة (مع التركيز على الصين)، واتجاهات التجارة الدولية للمشترين والمستوردين.
+image: /images/blog/oxalic-acid-market-analysis.webp
+imageAlt: رسم بياني عالمي يظهر تدفقات تجارة المواد الكيميائية بين القارات، مع التركيز
+  على الصادرات من آسيا
+tag: null
+title: 'تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة'
 ---
+
 ## تحليل سوق حمض الأكساليك العالمي: مراكز الإنتاج وتدفقات التجارة
 
 يعد حمض الأكساليك (H₂C₂O₄) مادة كيميائية صناعية حيوية مع مجموعة واسعة من التطبيقات التي تدفع نمو سوقه العالمي. من استخراج العناصر الأرضية النادرة إلى التنظيف الصناعي، يستمر الطلب على هذا الحمض العضوي في التوسع، مما يجعل فهم ديناميكيات السوق أمراً ضرورياً للمشترين والمستوردين.

@@ -1,54 +1,72 @@
 ---
-id: "14"
-name: "Sodium Metabisulphite (SMBS)"
-nameCn: "焦亚硫酸钠"
-cas: "7681-57-4"
-hsCode: "2832100000"
-slug: "sodium-metabisulphite"
-shortDescription: "High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export from China. Essential for water treatment, food preservation, and mining applications. Trusted supplier with competitive pricing."
-image: "/images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp"
-specs: [
-  {"label":"Chemical Formula","value":"Na₂S₂O₅"},
-  {"label":"CAS Number","value":"7681-57-4"},
-  {"label":"HS Code","value":"2832100000"},
-  {"label":"Purity","value":"≥97%"},
-  {"label":"Appearance","value":"White crystalline powder"},
-  {"label":"Packaging","value":"25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available."
-  },
-  {"label":"Loading","value":"25MT per 20GP container (FCL)"},
-  {"label":"Available Ports","value":"Qingdao, Tianjin, Dalian (China Main Ports)"}
-]
-applications: [
-  "Water treatment (dechlorination, oxygen scavenger)",
-  "Food preservation (antioxidant, antimicrobial)",
-  "Mining (flotation agent, depressant)",
-  "Textile industry (bleaching, dyeing, reducing agent)",
-  "Pulp and paper industry (bleaching agent)",
-  "Photography (fixing agent)"
-]
-faqs: [
-  {"question":"What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?","answer":"We are a leading China supplier and supplier of SMBS, offering food grade and industrial grade with ≥97% purity. Both grades are available for bulk purchase and export, catering to diverse industry needs."},{
-    "question":"What is the typical purity of your SMBS products?",
-    "answer":"Our Sodium Metabisulphite (Na₂S₂O₅) is available with a minimum purity of 97%. We ensure strict quality control to meet international standards for all applications."
-  },{
-    "question":"How is SMBS packaged for international shipping from China?",
-    "answer":"For export, our SMBS is typically packaged in 25KG PP woven bags with inner PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also available for larger bulk shipments. Custom packaging solutions can be arranged."
-  },{
-    "question":"What are the main applications of your industrial grade SMBS?",
-    "answer":"Our industrial grade SMBS is widely used in water treatment as a dechlorination agent, in food preservation as an antioxidant, in mining as a flotation agent, and in the textile industry as a reducing agent. Its versatility makes it a key chemical."
-  },{
-    "question":"Can you provide a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS) for SMBS?",
-    "answer":"Yes, we provide comprehensive documentation for every shipment, including a Certificate of Analysis (COA) detailing product specifications and a Material Safety Data Sheet (MSDS) for safety and handling guidelines. These are available upon request."
-  },{
-    "question":"What is the lead time for bulk SMBS orders from your factory?",
-    "answer":"Standard lead time for bulk SMBS orders is typically 7-15 days after order confirmation, depending on the order size and current supply schedule. We strive for efficient logistics and timely delivery from major Chinese ports."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Sulfur Compounds"
+Origin_Slug: sodium-metabisulphite
+applications:
+- Water treatment (dechlorination, oxygen scavenger)
+- Food preservation (antioxidant, antimicrobial)
+- Mining (flotation agent, depressant)
+- Textile industry (bleaching, dyeing, reducing agent)
+- Pulp and paper industry (bleaching agent)
+- Photography (fixing agent)
+cas: 7681-57-4
+category: Sulfur Compounds
+faqs:
+- answer: We are a leading China supplier and supplier of SMBS, offering food grade
+    and industrial grade with ≥97% purity. Both grades are available for bulk purchase
+    and export, catering to diverse industry needs.
+  question: What grades of Sodium Metabisulphite (SMBS) do you supply for bulk orders?
+- answer: Our Sodium Metabisulphite (Na₂S₂O₅) is available with a minimum purity of
+    97%. We ensure strict quality control to meet international standards for all
+    applications.
+  question: What is the typical purity of your SMBS products?
+- answer: For export, our SMBS is typically packaged in 25KG PP woven bags with inner
+    PE liners, designed to protect against moisture. 1000KG (1MT) jumbo bags are also
+    available for larger bulk shipments. Custom packaging solutions can be arranged.
+  question: How is SMBS packaged for international shipping from China?
+- answer: Our industrial grade SMBS is widely used in water treatment as a dechlorination
+    agent, in food preservation as an antioxidant, in mining as a flotation agent,
+    and in the textile industry as a reducing agent. Its versatility makes it a key
+    chemical.
+  question: What are the main applications of your industrial grade SMBS?
+- answer: Yes, we provide comprehensive documentation for every shipment, including
+    a Certificate of Analysis (COA) detailing product specifications and a Material
+    Safety Data Sheet (MSDS) for safety and handling guidelines. These are available
+    upon request.
+  question: Can you provide a Certificate of Analysis (COA) and Material Safety Data
+    Sheet (MSDS) for SMBS?
+- answer: Standard lead time for bulk SMBS orders is typically 7-15 days after order
+    confirmation, depending on the order size and current supply schedule. We strive
+    for efficient logistics and timely delivery from major Chinese ports.
+  question: What is the lead time for bulk SMBS orders from your factory?
 featured: false
+hsCode: '2832100000'
+id: '14'
+image: /images/products/sodium-metabisulphite-smbs-cas-7681-57-4-sinopeakchem.webp
+loading: 25MT/20GP
+name: Sodium Metabisulphite (SMBS)
+nameCn: 焦亚硫酸钠
+packaging: 25KG/Jumbo bags
+ports: Qingdao / Tianjin / Dalian
+shortDescription: High-purity Sodium Metabisulphite (SMBS) for bulk purchase and export
+  from China. Essential for water treatment, food preservation, and mining applications.
+  Trusted supplier with competitive pricing.
+slug: metabisulfite-de-sodium
+specs:
+- label: Chemical Formula
+  value: Na₂S₂O₅
+- label: CAS Number
+  value: 7681-57-4
+- label: HS Code
+  value: '2832100000'
+- label: Purity
+  value: ≥97%
+- label: Appearance
+  value: White crystalline powder
+- label: Packaging
+  value: 25KG PP woven bags with PE liner, 1000KG Jumbo bags. Custom packaging available.
+- label: Loading
+  value: 25MT per 20GP container (FCL)
+- label: Available Ports
+  value: Qingdao, Tianjin, Dalian (China Main Ports)
 ---
 
 ## Sodium Metabisulphite (CAS 7681-57-4): Your Trusted China supplier & Supplier for High-Purity SMBS
@@ -74,4 +92,3 @@ As a premier **China supplier and supplier** of **Sodium Metabisulphite (SMBS)**
 We provide flexible **packaging solutions** for our SMBS, including robust 25KG PP woven bags with PE inner liners, designed to protect against moisture during international transport. For **bulk orders**, 1000KG (1MT) jumbo bags are also available. We ensure efficient **loading** of 25 metric tons per 20GP container (FCL). We offer reliable **export** services from major Chinese ports: Qingdao, Tianjin, and Dalian, ensuring competitive logistics and timely delivery.
 
 Every shipment is accompanied by a comprehensive **Certificate of Analysis (COA)** and **Material Safety Data Sheet (MSDS)**, guaranteeing transparency, product quality, and safety compliance. Partner with us as your trusted **Sodium Metabisulphite supplier and supplier** for consistent quality, competitive pricing, and reliable global supply.
-

@@ -1,21 +1,25 @@
 ---
-Id: 'SP-3ejxs3rz5w'
-Origin_Slug: 'oxalic-acid-manufacturer-china'
-Slug: 'oxalic-acid-manufacturer-china'
-Excerpt: 'دليل شامل لاختيار أفضل مصنعي حمض الأكساليك في الصين، يغطي معايير الجودة والشهادات والعمليات اللوجستية والأسئلة الشائعة للمشترين الدوليين.'
-title: 'أفضل مصنعي ومصدري حمض الأكساليك في الصين: دليل المشتري لعام 2026'
-description: 'دليل شامل لاختيار أفضل مصنعي حمض الأكساليك في الصين، يغطي معايير الجودة والشهادات والعمليات اللوجستية والأسئلة الشائعة للمشترين الدوليين.'
-image: '/images/blog/oxalic-acid-manufacturer-china.webp'
-imageAlt: 'صورة لمصنع كيميائي حديث في الصين يظهر خزانات التخزين الكبيرة ومرافق الإنتاج المتطورة'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'دليل المشتري'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: دليل شامل لاختيار أفضل مصنعي حمض الأكساليك في الصين، يغطي معايير الجودة والشهادات
+  والعمليات اللوجستية والأسئلة الشائعة للمشترين الدوليين.
+Id: SP-3ejxs3rz5w
+Keywords: null
+Origin_Slug: oxalic-acid-manufacturer-china
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-manufacturer-alsyn
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: دليل المشتري
+description: دليل شامل لاختيار أفضل مصنعي حمض الأكساليك في الصين، يغطي معايير الجودة
+  والشهادات والعمليات اللوجستية والأسئلة الشائعة للمشترين الدوليين.
+image: /images/blog/oxalic-acid-manufacturer-china.webp
+imageAlt: صورة لمصنع كيميائي حديث في الصين يظهر خزانات التخزين الكبيرة ومرافق الإنتاج
+  المتطورة
+tag: null
+title: 'أفضل مصنعي ومصدري حمض الأكساليك في الصين: دليل المشتري لعام 2026'
 ---
+
 ## أفضل مصنعي ومصدري حمض الأكساليك في الصين: دليل المشتري لعام 2026
 
 تعد الصين أكبر منتج ومصدر لحمض الأكساليك (H₂C₂O₄) في العالم، حيث تساهم بجزء كبير من الإمداد العالمي. بالنسبة للمشترين الدوليين، يعد اختيار المصنع والمصدر المناسب أمراً بالغ الأهمية لضمان جودة المنتج وتنافسية الأسعار وموثوقية التوريد.

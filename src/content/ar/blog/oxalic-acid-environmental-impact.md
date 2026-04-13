@@ -1,21 +1,25 @@
 ---
-Id: 'SP-0ram908w6j'
-Origin_Slug: 'oxalic-acid-environmental-impact'
-Slug: 'oxalic-acid-environmental-impact'
-Excerpt: 'استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.'
-title: 'الأثر البيئي لحمض الأكساليك: التحلل الحيوي والاستدامة'
-description: 'استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.'
-image: '/images/blog/oxalic-acid-environmental-impact.webp'
-imageAlt: 'صورة طبيعية تظهر غابة خضراء ومياه صافية، ترمز إلى التحلل الحيوي والاستدامة البيئية للمواد العضوية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'البيئة والاستدامة'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته العالية
+  للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.
+Id: SP-0ram908w6j
+Keywords: null
+Origin_Slug: oxalic-acid-environmental-impact
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-environmental-impact
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: البيئة والاستدامة
+description: استكشف الملف البيئي لحمض الأكساليك، بما في ذلك حدوثه الطبيعي، وقابليته
+  العالية للتحلل الحيوي في التربة والمياه، وأفضل الممارسات للتخلص الآمن.
+image: /images/blog/oxalic-acid-environmental-impact.webp
+imageAlt: صورة طبيعية تظهر غابة خضراء ومياه صافية، ترمز إلى التحلل الحيوي والاستدامة
+  البيئية للمواد العضوية
+tag: null
+title: 'الأثر البيئي لحمض الأكساليك: التحلل الحيوي والاستدامة'
 ---
+
 ## الأثر البيئي لحمض الأكساليك: التحلل الحيوي والاستدامة
 
 يعد حمض الأكساليك (H₂C₂O₄) مرقباً عضوياً طبيعياً يوجد في العديد من النباتات والفطريات والكائنات الحية الأخرى. نظراً لانتشاره الواسع في الطبيعة، فإن له ملفاً بيئياً فريداً يتميز بقابليته العالية للتحلل الحيوي، مما يجعله خياراً أكثر استدامة في العديد من التطبيقات الصناعية مقارنة بالعديد من الأحماض الاصطناعية أو العوامل المخلبية الأخرى.

@@ -1,19 +1,50 @@
 ---
-id: "21"
-name: "Bórax"
-nameCn: "硼砂"
-cas: "1303-96-4"
-hsCode: "2840190000"
-slug: "borax"
-shortDescription: "Bórax industrial para suministro de vidrio, cerámica, detergentes y aplicaciones metalúrgicas."
-image: "/images/products/borax-cas-1303-96-4-sinopeakchem.webp"
-specs: [{"label":"Fórmula química","value":"Na₂B₄O₇·10H₂O"},{"label":"Número CAS","value":"1303-96-4"},{"label":"Código HS","value":"2840190000"},{"label":"Contenido de B₂O₃","value":"≥36%"},{"label":"Apariencia","value":"Polvo cristalino blanco"},{"label":"Empaque","value":"Bolsas de 25KG / 50KG"},{"label":"Carga","value":"27MT por contenedor 20GP"},{"label":"Puertos disponibles","value":"Dalian"}]
-applications: ["Suministro para vidrio y fibra de vidrio","Suministro para cerámica y esmalte","Detergentes y productos de limpieza","Fundente metalúrgico","Insecticida y herbicida","Retardante de llama"]
-faqs: [{"question":"¿Cuál es la cantidad mínima de pedido?","answer":"Se recomienda un contenedor completo de 20 pies (27MT) para un pedido rentable."},{"question":"¿Qué formas de bórax ofrecen?","answer":"Ofrecemos bórax en formas decahidratada (10 moléculas de agua) y pentahidratada (5 moléculas de agua), así como bórax anhidro para aplicaciones específicas."},{"question":"¿Desde qué puerto se realizan los envíos de bórax?","answer":"El bórax se envía principalmente desde el puerto de Dalian."}]
-ports: "Dalian"
-loading: "27MT/20GP"
-packaging: "Bolsas de 25KG/50KG"
-category: "Compuestos de Boro"
+Origin_Slug: borax
+applications:
+- Suministro para vidrio y fibra de vidrio
+- Suministro para cerámica y esmalte
+- Detergentes y productos de limpieza
+- Fundente metalúrgico
+- Insecticida y herbicida
+- Retardante de llama
+cas: 1303-96-4
+category: Compuestos de Boro
+faqs:
+- answer: Se recomienda un contenedor completo de 20 pies (27MT) para un pedido rentable.
+  question: ¿Cuál es la cantidad mínima de pedido?
+- answer: Ofrecemos bórax en formas decahidratada (10 moléculas de agua) y pentahidratada
+    (5 moléculas de agua), así como bórax anhidro para aplicaciones específicas.
+  question: ¿Qué formas de bórax ofrecen?
+- answer: El bórax se envía principalmente desde el puerto de Dalian.
+  question: ¿Desde qué puerto se realizan los envíos de bórax?
+hsCode: '2840190000'
+id: '21'
+image: /images/products/borax-cas-1303-96-4-sinopeakchem.webp
+loading: 27MT/20GP
+name: Bórax
+nameCn: 硼砂
+packaging: Bolsas de 25KG/50KG
+ports: Dalian
+shortDescription: Bórax industrial para suministro de vidrio, cerámica, detergentes
+  y aplicaciones metalúrgicas.
+slug: borax
+specs:
+- label: Fórmula química
+  value: Na₂B₄O₇·10H₂O
+- label: Número CAS
+  value: 1303-96-4
+- label: Código HS
+  value: '2840190000'
+- label: Contenido de B₂O₃
+  value: ≥36%
+- label: Apariencia
+  value: Polvo cristalino blanco
+- label: Empaque
+  value: Bolsas de 25KG / 50KG
+- label: Carga
+  value: 27MT por contenedor 20GP
+- label: Puertos disponibles
+  value: Dalian
 ---
 
 El bórax (Na₂B₄O₇·10H₂O), también conocido como borato de sodio, es una sal inorgánica de alto rendimiento ampliamente reconocida por sus excepcionales capacidades de limpieza, amortiguación y fundente. Es un ingrediente vital en el suministro de agentes limpiadores, productos químicos industriales y diversos otros productos. Nuestro bórax se suministra con altos estándares de pureza y consistencia, garantizando un rendimiento óptimo tanto en aplicaciones industriales como domésticas.

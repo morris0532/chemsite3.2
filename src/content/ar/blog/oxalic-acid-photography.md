@@ -1,21 +1,28 @@
 ---
-Id: 'SP-om5dtcbwfq'
-Origin_Slug: 'oxalic-acid-photography'
-Slug: 'oxalic-acid-photography'
-Excerpt: 'Explore the historical role of oxalic acid in photographic processes, from early platinum and palladium prints to its modern applications in toning and printmaking. Understand its chemical function and safety considerations.'
-title: 'Oxalic Acid in Photography: Historical Use & Modern Relevance'
-description: 'Explore the historical role of oxalic acid in photographic processes, from early platinum and palladium prints to its modern applications in toning and printmaking. Understand its chemical function and safety considerations.'
-image: '/images/blog/oxalic-acid-photography.webp'
-imageAlt: 'A vintage photography darkroom scene, with old photographic equipment, developing trays, and prints, conveying both historical use and modern relevance in photographic chemistry.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Specialty Applications'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: Explore the historical role of oxalic acid in photographic processes, from
+  early platinum and palladium prints to its modern applications in toning and printmaking.
+  Understand its chemical function and safety considerations.
+Id: SP-om5dtcbwfq
+Keywords: null
+Origin_Slug: oxalic-acid-photography
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-photography
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: Specialty Applications
+description: Explore the historical role of oxalic acid in photographic processes,
+  from early platinum and palladium prints to its modern applications in toning and
+  printmaking. Understand its chemical function and safety considerations.
+image: /images/blog/oxalic-acid-photography.webp
+imageAlt: A vintage photography darkroom scene, with old photographic equipment, developing
+  trays, and prints, conveying both historical use and modern relevance in photographic
+  chemistry.
+tag: null
+title: 'Oxalic Acid in Photography: Historical Use & Modern Relevance'
 ---
+
 ## Oxalic Acid in Photography: Historical Use & Modern Relevance
 
 Photography, at its heart, is a chemical process. From the earliest daguerreotypes to modern digital imaging, chemistry has played an indispensable role in capturing and preserving images. Among the myriad chemicals used, oxalic acid (C₂H₂O₄) holds a unique place, particularly in historical photographic processes and niche modern applications. Its properties as a reducing agent, chelating agent, and acid have made it valuable in various stages of image creation and manipulation.

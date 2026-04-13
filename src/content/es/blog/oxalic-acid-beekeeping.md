@@ -1,21 +1,27 @@
 ---
-Id: 'SP-usfy8sep47'
-Origin_Slug: 'oxalic-acid-beekeeping'
-Slug: 'oxalic-acid-beekeeping'
-Excerpt: 'Una guía completa sobre el uso del ácido oxálico para el control de ácaros varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia y seguridad para las abejas y la miel.'
-title: 'Ácido oxálico en la apicultura: usos, beneficios y precauciones'
-description: 'Una guía completa sobre el uso del ácido oxálico para el control de ácaros varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia y seguridad para las abejas y la miel.'
-image: '/images/blog/oxalic-acid-beekeeping.webp'
-imageAlt: 'Una imagen profesional y clara de un apicultor con equipo de protección aplicando cuidadosamente un tratamiento con ácido oxálico en una colmena.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Aplicaciones en Apicultura'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Una guía completa sobre el uso del ácido oxálico para el control de ácaros
+  varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia
+  y seguridad para las abejas y la miel.
+Id: SP-usfy8sep47
+Keywords: null
+Origin_Slug: oxalic-acid-beekeeping
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-beekeeping
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Aplicaciones en Apicultura
+description: Una guía completa sobre el uso del ácido oxálico para el control de ácaros
+  varroa en la apicultura. Aprende sobre métodos de aplicación, dosis, tiempos, eficacia
+  y seguridad para las abejas y la miel.
+image: /images/blog/oxalic-acid-beekeeping.webp
+imageAlt: Una imagen profesional y clara de un apicultor con equipo de protección
+  aplicando cuidadosamente un tratamiento con ácido oxálico en una colmena.
+tag: null
+title: 'Ácido oxálico en la apicultura: usos, beneficios y precauciones'
 ---
+
 ## Ácido oxálico en la apicultura: usos, beneficios y precauciones
 
 La apicultura es una práctica vital para la agricultura y la salud de los ecosistemas, pero enfrenta numerosos desafíos, siendo los ácaros varroa (Varroa destructor) una de las plagas más devastadoras. Estos ácaros parásitos debilitan las colonias de abejas, transmiten enfermedades y pueden provocar el colapso de la colonia si no se tratan. Entre los diversos tratamientos disponibles, el ácido oxálico ha emergido como una opción orgánica popular y eficaz para el control del ácaro varroa. Esta guía explora los usos, beneficios y precauciones esenciales al utilizar ácido oxálico en la apicultura.

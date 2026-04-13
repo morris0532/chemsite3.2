@@ -1,21 +1,25 @@
 ---
-Id: 'SP-a8b5gyftm5'
-Origin_Slug: 'how-to-test-oxalic-acid-purity'
-Slug: 'how-to-test-oxalic-acid-purity'
-Excerpt: 'دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.'
-title: 'كيفية اختبار نقاء حمض الأكساليك: طرق مخبرية وصناعية'
-description: 'دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.'
-image: '/images/blog/how-to-test-oxalic-acid-purity.webp'
-imageAlt: 'كيميائي يقوم بإجراء معايرة دقيقة في مختبر مراقبة الجودة لاختبار نقاء حمض الأكساليك'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'مراقبة الجودة'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس الثقل
+  الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.
+Id: SP-a8b5gyftm5
+Keywords: null
+Origin_Slug: how-to-test-oxalic-acid-purity
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: how-to-test-oxalic-acid-purity
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: مراقبة الجودة
+description: دليل تقني حول طرق اختبار نقاء حمض الأكساليك، بما في ذلك المعايرة، وقياس
+  الثقل الحراري، والتقنيات التحليلية المتقدمة لضمان جودة المنتج.
+image: /images/blog/how-to-test-oxalic-acid-purity.webp
+imageAlt: كيميائي يقوم بإجراء معايرة دقيقة في مختبر مراقبة الجودة لاختبار نقاء حمض
+  الأكساليك
+tag: null
+title: 'كيفية اختبار نقاء حمض الأكساليك: طرق مخبرية وصناعية'
 ---
+
 ## كيفية اختبار نقاء حمض الأكساليك: طرق مخبرية وصناعية
 
 يعد نقاء حمض الأكساليك (H₂C₂O₄) عاملاً حاسماً في فعاليته عبر مختلف التطبيقات، من أنودة الألومنيوم إلى تلميع الرخام واستخراج الأتربة النادرة. يمكن أن تؤدي الشوائب إلى تفاعلات غير مرغوب فيها، وتقليل الكفاءة، وحتى تدهور جودة المنتج النهائي. يستعرض هذا الدليل الطرق الأساسية المستخدمة لاختبار وتأكيد نقاء حمض الأكساليك في كل من البيئات المخبرية والصناعية.

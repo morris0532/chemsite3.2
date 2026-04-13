@@ -1,21 +1,24 @@
 ---
-Id: 'SP-5afdixya40'
-Origin_Slug: 'oxalic-acid-supplier-north-america'
-Slug: 'oxalic-acid-supplier-north-america'
-Excerpt: 'اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.'
-title: 'مورد حمض الأكساليك الموثوق في أمريكا الشمالية: الولايات المتحدة وكندا والمكسيك'
-description: 'اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.'
-image: '/images/blog/oxalic-acid-supplier-north-america.webp'
-imageAlt: 'اللوجستيات الكيميائية وسلسلة التوريد عبر أمريكا الشمالية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'سلسلة التوريد'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.
+Id: SP-5afdixya40
+Keywords: null
+Origin_Slug: oxalic-acid-supplier-north-america
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-mwrd-north-america
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
+description: اكتشف كيف تدعم SinoPeakChem الصناعات في أمريكا الشمالية من خلال توفير
+  حمض أكساليك عالي الجودة ولوجستيات فعالة للتنظيف الصناعي وتبييض الخشب ومعالجة المعادن.
+image: /images/blog/oxalic-acid-supplier-north-america.webp
+imageAlt: اللوجستيات الكيميائية وسلسلة التوريد عبر أمريكا الشمالية
+tag: null
+title: 'مورد حمض الأكساليك الموثوق في أمريكا الشمالية: الولايات المتحدة وكندا والمكسيك'
 ---
+
 ## تلبية الاحتياجات الصناعية في أمريكا الشمالية
 
 تعد أمريكا الشمالية سوقاً متطوراً للغاية للمواد الكيميائية الصناعية، حيث تقود الولايات المتحدة وكندا والمكسيك الطلب على حمض الأكساليك (H₂C₂O₄). تلتزم **SinoPeakChem** بكونها الشريك الموثوق للشركات في القارة، من خلال توفير منتجات عالية الجودة وخدمات لوجستية متميزة.

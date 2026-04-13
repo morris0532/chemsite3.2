@@ -1,21 +1,25 @@
 ---
-Id: 'SP-r0o5xh7dbl'
-Origin_Slug: 'oxalic-acid-marble-polishing'
-Slug: 'oxalic-acid-marble-polishing'
-Excerpt: 'تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي. يغطي هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة.'
-title: 'تلميع الرخام بحمض الأكساليك: الدليل المهني للعناية بالحجر'
-description: 'تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي. يغطي هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة.'
-image: '/images/blog/oxalic-acid-marble-polishing.webp'
-imageAlt: 'صورة مقربة لأرضية رخامية لامعة تعكس الضوء، تظهر نتائج عملية التلميع الاحترافية بحمض الأكساليك'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تطبيقات صناعية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي. يغطي
+  هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة.
+Id: SP-r0o5xh7dbl
+Keywords: null
+Origin_Slug: oxalic-acid-marble-polishing
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-marble-polishing
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
+description: تعلم كيفية استخدام حمض الأكساليك لتلميع الرخام واستعادة بريقه الطبيعي.
+  يغطي هذا الدليل العمل الكيميائي، والخطوات التفصيلية للتطبيق، واحتياطات السلامة الهامة.
+image: /images/blog/oxalic-acid-marble-polishing.webp
+imageAlt: صورة مقربة لأرضية رخامية لامعة تعكس الضوء، تظهر نتائج عملية التلميع الاحترافية
+  بحمض الأكساليك
+tag: null
+title: 'تلميع الرخام بحمض الأكساليك: الدليل المهني للعناية بالحجر'
 ---
+
 ## تلميع الرخام بحمض الأكساليك: الدليل المهني للعناية بالحجر
 
 يعد الرخام من أجمل مواد البناء الطبيعية، ولكن بريقه قد يخفت بمرور الوقت بسبب التآكل والخدوش. يعد حمض الأكساليك (H₂C₂O₄) أداة لا غنى عنها للمحترفين في استعادة اللمعان الطبيعي للرخام والأحجار الكلسية الأخرى من خلال عملية كيميائية وميكانيكية فريدة.

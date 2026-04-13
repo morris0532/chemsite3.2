@@ -1,21 +1,29 @@
 ---
-Id: 'SP-jzusrelx6t'
-Origin_Slug: 'oxalic-acid-safety-handling'
-Slug: 'oxalic-acid-safety-handling'
-Excerpt: 'Una guía completa para manejar el ácido oxálico de forma segura. Conozca sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar un entorno de trabajo seguro.'
-title: 'Seguridad y Manejo del Ácido Oxálico: Una Guía Completa'
-description: 'Una guía completa para manejar el ácido oxálico de forma segura. Conozca sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar un entorno de trabajo seguro.'
-image: '/images/blog/oxalic-acid-safety-handling.webp'
-imageAlt: 'Una persona usando EPP adecuado (gafas, guantes, bata de laboratorio) manipulando productos químicos en un laboratorio, enfatizando la seguridad.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Seguridad y Cumplimiento'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Una guía completa para manejar el ácido oxálico de forma segura. Conozca
+  sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento
+  adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar
+  un entorno de trabajo seguro.
+Id: SP-jzusrelx6t
+Keywords: null
+Origin_Slug: oxalic-acid-safety-handling
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-seguridad-manipulacion
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Seguridad y Cumplimiento
+description: Una guía completa para manejar el ácido oxálico de forma segura. Conozca
+  sus propiedades, riesgos potenciales, equipo de protección personal esencial, almacenamiento
+  adecuado, primeros auxilios y procedimientos de eliminación de desechos para garantizar
+  un entorno de trabajo seguro.
+image: /images/blog/oxalic-acid-safety-handling.webp
+imageAlt: Una persona usando EPP adecuado (gafas, guantes, bata de laboratorio) manipulando
+  productos químicos en un laboratorio, enfatizando la seguridad.
+tag: null
+title: 'Seguridad y Manejo del Ácido Oxálico: Una Guía Completa'
 ---
+
 ## Seguridad y Manejo del Ácido Oxálico: Una Guía Completa
 
 El ácido oxálico es un compuesto orgánico versátil, ampliamente utilizado en diversas industrias, desde la eliminación de óxido y el blanqueo de madera hasta el procesamiento textil y la extracción de tierras raras. Aunque es altamente efectivo, también es una sustancia corrosiva que requiere un manejo cuidadoso para prevenir accidentes y garantizar un entorno de trabajo seguro. Esta guía completa proporciona información esencial sobre las propiedades del ácido oxálico, sus riesgos potenciales, el equipo de protección personal (EPP) necesario, el almacenamiento adecuado, las medidas de primeros auxilios y la eliminación segura de residuos.

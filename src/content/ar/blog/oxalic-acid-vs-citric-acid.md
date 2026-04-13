@@ -1,21 +1,24 @@
 ---
-Id: 'SP-9lsvbk0lt0'
-Origin_Slug: 'oxalic-acid-vs-citric-acid'
-Slug: 'oxalic-acid-vs-citric-acid'
-Excerpt: 'مقارنة مفصلة بين حمض الأكساليك وحمض الستريك، تغطي الخصائص الكيميائية، وقوة إزالة الصدأ، وسلامة الاستخدام، والتطبيقات الصناعية المثالية.'
-title: 'حمض الأكساليك مقابل حمض الستريك: أيهما تختار لتطبيقك؟'
-description: 'مقارنة مفصلة بين حمض الأكساليك وحمض الستريك، تغطي الخصائص الكيميائية، وقوة إزالة الصدأ، وسلامة الاستخدام، والتطبيقات الصناعية المثالية.'
-image: '/images/blog/oxalic-acid-vs-citric-acid.webp'
-imageAlt: 'مقارنة مخبرية بين حمض الأكساليك وحمض الستريك'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'مقارنة المنتجات'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: مقارنة مفصلة بين حمض الأكساليك وحمض الستريك، تغطي الخصائص الكيميائية، وقوة
+  إزالة الصدأ، وسلامة الاستخدام، والتطبيقات الصناعية المثالية.
+Id: SP-9lsvbk0lt0
+Keywords: null
+Origin_Slug: oxalic-acid-vs-citric-acid
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-vs-citric-acid
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: مقارنة المنتجات
+description: مقارنة مفصلة بين حمض الأكساليك وحمض الستريك، تغطي الخصائص الكيميائية،
+  وقوة إزالة الصدأ، وسلامة الاستخدام، والتطبيقات الصناعية المثالية.
+image: /images/blog/oxalic-acid-vs-citric-acid.webp
+imageAlt: مقارنة مخبرية بين حمض الأكساليك وحمض الستريك
+tag: null
+title: 'حمض الأكساليك مقابل حمض الستريك: أيهما تختار لتطبيقك؟'
 ---
+
 ## فهم الفرق بين حمض الأكساليك وحمض الستريك
 
 يعد كل من حمض الأكساليك وحمض الستريك من الأحماض العضوية الشائعة المستخدمة في التنظيف والصناعة، لكنهما يمتلكان خصائص كيميائية ومستويات قوة مختلفة تماماً. اختيار الحمض الصحيح يعتمد على المهمة المطلوبة.

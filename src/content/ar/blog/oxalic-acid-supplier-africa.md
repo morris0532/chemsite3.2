@@ -1,21 +1,24 @@
 ---
-Id: 'SP-qwaqua3rq0'
-Origin_Slug: 'oxalic-acid-supplier-africa'
-Slug: 'oxalic-acid-supplier-africa'
-Excerpt: 'اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.'
-title: 'مورد حمض الأكساليك الموثوق في أفريقيا: جنوب أفريقيا ومصر ونيجيريا'
-description: 'اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.'
-image: '/images/blog/oxalic-acid-supplier-africa.webp'
-imageAlt: 'خريطة أفريقيا تبرز المراكز الصناعية الرئيسية واللوجستيات الكيميائية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'سلسلة التوريد'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير حمض
+  أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.
+Id: SP-qwaqua3rq0
+Keywords: null
+Origin_Slug: oxalic-acid-supplier-africa
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-mwrd-africa
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: سلسلة التوريد
+description: اكتشف كيف تدعم SinoPeakChem الصناعات المتنامية في أفريقيا من خلال توفير
+  حمض أكساليك عالي الجودة ولوجستيات فعالة وحلول مخصصة للتعدين ومعالجة المياه والمنسوجات.
+image: /images/blog/oxalic-acid-supplier-africa.webp
+imageAlt: خريطة أفريقيا تبرز المراكز الصناعية الرئيسية واللوجستيات الكيميائية
+tag: null
+title: 'مورد حمض الأكساليك الموثوق في أفريقيا: جنوب أفريقيا ومصر ونيجيريا'
 ---
+
 ## تلبية الطلب المتزايد على حمض الأكساليك في أفريقيا
 
 تشهد القارة الأفريقية نمواً صناعياً سريعاً، مما أدى إلى زيادة الطلب على المواد الكيميائية الأساسية مثل حمض الأكساليك (H₂C₂O₄). تلتزم **SinoPeakChem** بكونها الشريك الموثوق للشركات في جنوب أفريقيا ومصر ونيجيريا وجميع أنحاء القارة، من خلال توفير منتجات عالية الجودة وخدمات لوجستية متميزة.

@@ -1,21 +1,32 @@
 ---
-Id: 'SP-azoi0vgc6k'
-Origin_Slug: 'oxalic-acid-vs-citric-acid'
-Slug: 'oxalic-acid-vs-citric-acid'
-Excerpt: 'Un análisis comparativo del ácido oxálico y el ácido cítrico, destacando sus propiedades químicas, aplicaciones industriales y domésticas, perfiles de seguridad y consideraciones ambientales. Entienda cuál ácido es el más adecuado para diversas tareas.'
-title: 'Ácido Oxálico vs. Ácido Cítrico: Un Análisis Comparativo'
-description: 'Un análisis comparativo del ácido oxálico y el ácido cítrico, destacando sus propiedades químicas, aplicaciones industriales y domésticas, perfiles de seguridad y consideraciones ambientales. Entienda cuál ácido es el más adecuado para diversas tareas.'
-image: '/images/blog/oxalic-acid-vs-citric-acid.webp'
-imageAlt: 'Una imagen comparativa profesional y clara. En un lado, represente ácido oxálico con su estructura química (C2H2O4) y aplicaciones industriales/de limpieza (p.ej., eliminación de óxido, blanqueo de madera). En el otro lado, represente ácido cítrico con su estructura química (C6H8O7) y aplicaciones en alimentos/bebidas/cosméticos (p.ej., limón, fruta). Use un divisor visual claro o elemento ''versus''.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Comparaciones Químicas'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Un análisis comparativo del ácido oxálico y el ácido cítrico, destacando
+  sus propiedades químicas, aplicaciones industriales y domésticas, perfiles de seguridad
+  y consideraciones ambientales. Entienda cuál ácido es el más adecuado para diversas
+  tareas.
+Id: SP-azoi0vgc6k
+Keywords: null
+Origin_Slug: oxalic-acid-vs-citric-acid
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-vs-citric-acid
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Comparaciones Químicas
+description: Un análisis comparativo del ácido oxálico y el ácido cítrico, destacando
+  sus propiedades químicas, aplicaciones industriales y domésticas, perfiles de seguridad
+  y consideraciones ambientales. Entienda cuál ácido es el más adecuado para diversas
+  tareas.
+image: /images/blog/oxalic-acid-vs-citric-acid.webp
+imageAlt: Una imagen comparativa profesional y clara. En un lado, represente ácido
+  oxálico con su estructura química (C2H2O4) y aplicaciones industriales/de limpieza
+  (p.ej., eliminación de óxido, blanqueo de madera). En el otro lado, represente ácido
+  cítrico con su estructura química (C6H8O7) y aplicaciones en alimentos/bebidas/cosméticos
+  (p.ej., limón, fruta). Use un divisor visual claro o elemento 'versus'.
+tag: null
+title: 'Ácido Oxálico vs. Ácido Cítrico: Un Análisis Comparativo'
 ---
+
 ## Ácido Oxálico vs. Ácido Cítrico: Un Análisis Comparativo
 
 El ácido oxálico y el ácido cítrico son ambos ácidos orgánicos ampliamente utilizados en diversas aplicaciones industriales y domésticas. Aunque comparten ciertas similitudes como ácidos carboxílicos, sus distintas estructuras químicas y propiedades derivan en usos principales, eficacia y consideraciones de seguridad diferentes. Comprender estas diferencias es crucial para seleccionar el ácido adecuado para una tarea específica, ya sea para limpieza, procesamiento de alimentos o aplicaciones industriales.

@@ -1,21 +1,29 @@
 ---
-Id: 'SP-qyul89zykk'
-Origin_Slug: 'oxalic-acid-stainless-steel-passivation'
-Slug: 'oxalic-acid-stainless-steel-passivation'
-Excerpt: 'Explorez le rôle critique de l''acide oxalique dans la passivation de l''acier inoxydable, améliorant la résistance à la corrosion et la qualité de surface. Ce guide couvre le processus, les avantages et les considérations techniques pour une application efficace.'
-title: 'Acide Oxalique dans la Passivation de l''Acier Inoxydable : Un Aperçu Technique'
-description: 'Explorez le rôle critique de l''acide oxalique dans la passivation de l''acier inoxydable, améliorant la résistance à la corrosion et la qualité de surface. Ce guide couvre le processus, les avantages et les considérations techniques pour une application efficace.'
-image: '/images/blog/oxalic-acid-stainless-steel-passivation.webp'
-imageAlt: 'Composant industriel en acier inoxydable subissant un traitement de passivation dans un bain chimique'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Technical Overview'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Francophone Africa & EU (FR)'
+Excerpt: Explorez le rôle critique de l'acide oxalique dans la passivation de l'acier
+  inoxydable, améliorant la résistance à la corrosion et la qualité de surface. Ce
+  guide couvre le processus, les avantages et les considérations techniques pour une
+  application efficace.
+Id: SP-qyul89zykk
+Keywords: null
+Origin_Slug: oxalic-acid-stainless-steel-passivation
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-stainless-steel-passivation
+Target_Region: Francophone Africa & EU (FR)
+author: Sinopeakchem Technical Team
+category: Technical Overview
+description: Explorez le rôle critique de l'acide oxalique dans la passivation de
+  l'acier inoxydable, améliorant la résistance à la corrosion et la qualité de surface.
+  Ce guide couvre le processus, les avantages et les considérations techniques pour
+  une application efficace.
+image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
+imageAlt: Composant industriel en acier inoxydable subissant un traitement de passivation
+  dans un bain chimique
+tag: null
+title: 'Acide Oxalique dans la Passivation de l''Acier Inoxydable : Un Aperçu Technique'
 ---
+
 ## Acide Oxalique dans la Passivation de l'Acier Inoxydable : Un Aperçu Technique
 
 L'acier inoxydable est réputé pour sa résistance à la corrosion, une propriété principalement attribuée à un film passif mince et auto-réparateur d'oxyde de chrome qui se forme à sa surface. Cependant, pendant les processus de fabrication tels que l'usinage, le soudage et le meulage, cette couche passive peut être endommagée ou contaminée par du fer libre, de la calamine ou d'autres matériaux étrangers. Pour restaurer et améliorer cette couche protectrice, un processus appelé **passivation** est employé. Parmi les divers agents chimiques utilisés pour la passivation, l'**acide oxalique** joue un rôle significatif et de plus en plus reconnu, en particulier pour son efficacité et ses avantages environnementaux.

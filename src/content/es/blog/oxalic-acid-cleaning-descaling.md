@@ -1,21 +1,28 @@
 ---
-Id: 'SP-ep3arv0hvz'
-Origin_Slug: 'oxalic-acid-cleaning-descaling'
-Slug: 'oxalic-acid-cleaning-descaling'
-Excerpt: 'Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación, desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales. Conozca su acción química, usos efectivos y pautas de seguridad.'
-title: 'Ácido Oxálico para Limpieza y Desincrustación: Usos Domésticos e Industriales'
-description: 'Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación, desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales. Conozca su acción química, usos efectivos y pautas de seguridad.'
-image: '/images/blog/oxalic-acid-cleaning-descaling.webp'
-imageAlt: 'Una imagen limpia y profesional que muestra tanto limpieza doméstica (por ejemplo, un accesorio de baño reluciente) como desincrustación industrial (por ejemplo, una tubería o equipo industrial limpio).'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Aplicaciones de Limpieza'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación,
+  desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales.
+  Conozca su acción química, usos efectivos y pautas de seguridad.
+Id: SP-ep3arv0hvz
+Keywords: null
+Origin_Slug: oxalic-acid-cleaning-descaling
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-cleaning-descaling
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Aplicaciones de Limpieza
+description: Explore las aplicaciones versátiles del ácido oxálico en limpieza y desincrustación,
+  desde remover manchas difíciles en hogares hasta el mantenimiento de equipos industriales.
+  Conozca su acción química, usos efectivos y pautas de seguridad.
+image: /images/blog/oxalic-acid-cleaning-descaling.webp
+imageAlt: Una imagen limpia y profesional que muestra tanto limpieza doméstica (por
+  ejemplo, un accesorio de baño reluciente) como desincrustación industrial (por ejemplo,
+  una tubería o equipo industrial limpio).
+tag: null
+title: 'Ácido Oxálico para Limpieza y Desincrustación: Usos Domésticos e Industriales'
 ---
+
 ## Ácido Oxálico para Limpieza y Desincrustación: Usos Domésticos e Industriales
 
 El ácido oxálico (C₂H₂O₄) es un poderoso ácido orgánico ampliamente reconocido por sus excepcionales propiedades de limpieza y desincrustación. Su capacidad para reaccionar con óxidos metálicos y depósitos minerales lo convierte en un agente invaluable tanto en las rutinas de limpieza domésticas como en el mantenimiento industrial exigente. Desde enfrentar manchas de óxido persistentes hasta restaurar la eficiencia de maquinaria industrial, el ácido oxálico ofrece una solución versátil y efectiva.

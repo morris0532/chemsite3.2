@@ -1,21 +1,29 @@
 ---
-Id: 'SP-yvb9vz3cyw'
-Origin_Slug: 'oxalic-acid-grades-specifications'
-Slug: 'oxalic-acid-grades-specifications'
-Excerpt: 'Explorez les différentes qualités et spécifications de l''acide oxalique, y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez les exigences de pureté, les indicateurs physico-chimiques et les normes internationales pertinentes pour choisir le bon produit pour votre application.'
-title: 'Qualités et Spécifications de l''Acide Oxalique : Un Examen Approfondi'
-description: 'Explorez les différentes qualités et spécifications de l''acide oxalique, y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez les exigences de pureté, les indicateurs physico-chimiques et les normes internationales pertinentes pour choisir le bon produit pour votre application.'
-image: '/images/blog/oxalic-acid-grades-specifications.webp'
-imageAlt: 'Un laboratoire professionnel avec des béchers contenant différents échantillons d''acide oxalique et un certificat d''analyse.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Informations sur les Produits'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Francophone Africa & EU (FR)'
+Excerpt: Explorez les différentes qualités et spécifications de l'acide oxalique,
+  y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
+  les exigences de pureté, les indicateurs physico-chimiques et les normes internationales
+  pertinentes pour choisir le bon produit pour votre application.
+Id: SP-yvb9vz3cyw
+Keywords: null
+Origin_Slug: oxalic-acid-grades-specifications
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-grades-specifications
+Target_Region: Francophone Africa & EU (FR)
+author: Sinopeakchem Technical Team
+category: Informations sur les Produits
+description: Explorez les différentes qualités et spécifications de l'acide oxalique,
+  y compris les qualités industrielles, alimentaires et pharmaceutiques. Comprenez
+  les exigences de pureté, les indicateurs physico-chimiques et les normes internationales
+  pertinentes pour choisir le bon produit pour votre application.
+image: /images/blog/oxalic-acid-grades-specifications.webp
+imageAlt: Un laboratoire professionnel avec des béchers contenant différents échantillons
+  d'acide oxalique et un certificat d'analyse.
+tag: null
+title: 'Qualités et Spécifications de l''Acide Oxalique : Un Examen Approfondi'
 ---
+
 ## Qualités et Spécifications de l'Acide Oxalique : Un Examen Approfondi
 
 L'acide oxalique (C₂H₂O₄) est un acide dicarboxylique avec un large éventail d'applications dans diverses industries, de l'élimination de la rouille et du traitement textile à l'extraction des terres rares et la synthèse pharmaceutique. Cependant, tout l'acide oxalique n'est pas égal. Différentes applications exigent des niveaux de pureté et des propriétés physico-chimiques spécifiques, ce qui conduit à la classification de l'acide oxalique en différentes qualités. Comprendre ces qualités et leurs spécifications est crucial pour garantir la performance, la sécurité et la conformité du produit.

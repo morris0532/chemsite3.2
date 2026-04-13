@@ -1,21 +1,24 @@
 ---
-Id: 'SP-tm6c3p8vvx'
-Origin_Slug: 'oxalic-acid-packaging-storage'
-Slug: 'oxalic-acid-packaging-storage'
-Excerpt: 'دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك لضمان طول عمر المنتج وسلامة التعامل معه.'
-title: 'تعبئة وتخزين حمض الأكساليك: أفضل الممارسات للجودة والسلامة'
-description: 'دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك لضمان طول عمر المنتج وسلامة التعامل معه.'
-image: '/images/blog/oxalic-acid-packaging-storage.webp'
-imageAlt: 'مستودع كيميائي منظم جيداً مع أكياس حمض الأكساليك المخزنة على منصات نقالة'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'إدارة المواد'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك
+  لضمان طول عمر المنتج وسلامة التعامل معه.
+Id: SP-tm6c3p8vvx
+Keywords: null
+Origin_Slug: oxalic-acid-packaging-storage
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-tabyh-storage
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: إدارة المواد
+description: دليل شامل حول حلول التعبئة الفعالة وظروف التخزين المثالية لحمض الأكساليك
+  لضمان طول عمر المنتج وسلامة التعامل معه.
+image: /images/blog/oxalic-acid-packaging-storage.webp
+imageAlt: مستودع كيميائي منظم جيداً مع أكياس حمض الأكساليك المخزنة على منصات نقالة
+tag: null
+title: 'تعبئة وتخزين حمض الأكساليك: أفضل الممارسات للجودة والسلامة'
 ---
+
 ## تعبئة وتخزين حمض الأكساليك: ضمان الجودة والسلامة
 
 حمض الأكساليك (H₂C₂O₄) هو مادة كيميائية صناعية قيمة تتطلب تعبئة دقيقة وظروف تخزين صارمة للحفاظ على نقائها وفعاليتها وسلامتها. يهدف هذا الدليل إلى تقديم أفضل الممارسات لتعبئة وتخزين حمض الأكساليك للمصنعين والموزعين والمستخدمين النهائيين.

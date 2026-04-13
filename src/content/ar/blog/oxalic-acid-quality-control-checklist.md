@@ -1,21 +1,24 @@
 ---
-Id: 'SP-hbwvg7pmnw'
-Origin_Slug: 'oxalic-acid-quality-control-checklist'
-Slug: 'oxalic-acid-quality-control-checklist'
-Excerpt: 'دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.'
-title: 'قائمة فحص مراقبة جودة حمض الأكساليك: ضمان النقاء والامتثال'
-description: 'دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.'
-image: '/images/blog/oxalic-acid-quality-control-checklist.webp'
-imageAlt: 'كيميائي يقوم بإجراء تحليل دقيق في مختبر مراقبة جودة حديث'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'مراقبة الجودة'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم في
+  العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
+Id: SP-hbwvg7pmnw
+Keywords: null
+Origin_Slug: oxalic-acid-quality-control-checklist
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-quality-control-checklist
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: مراقبة الجودة
+description: دليل شامل لمراقبة جودة حمض الأكساليك، يغطي تحليل المواد الخام، والتحكم
+  في العمليات، واختبار المنتج النهائي، والامتثال التنظيمي للمشترين والمصنعين.
+image: /images/blog/oxalic-acid-quality-control-checklist.webp
+imageAlt: كيميائي يقوم بإجراء تحليل دقيق في مختبر مراقبة جودة حديث
+tag: null
+title: 'قائمة فحص مراقبة جودة حمض الأكساليك: ضمان النقاء والامتثال'
 ---
+
 ## أهمية مراقبة الجودة في إنتاج حمض الأكساليك
 
 في الصناعة الكيميائية، يعد الحفاظ على أعلى معايير الجودة أمراً غير قابل للتفاوض. بالنسبة لحمض الأكساليك (H₂C₂O₄)، فإن النقاء والاتساق والامتثال للوائح الدولية هي عوامل حاسمة لسلامة التطبيقات الصناعية ورضا العملاء. توضح قائمة الفحص هذه الإجراءات الصارمة التي تتبعها SinoPeakChem لضمان التميز.

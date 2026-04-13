@@ -1,54 +1,76 @@
 ---
-id: "13"
-name: "Hexametafosfato de Sodio (SHMP)"
-nameCn: "六偏磷酸钠"
-cas: "10124-56-8"
-hsCode: "2835391900"
-slug: "sodium-hexametaphosphate"
-shortDescription: "Hexametafosfato de sodio (SHMP) de alta pureza para compra a granel y exportación desde China. Esencial para tratamiento de agua, aditivo alimentario y aplicaciones industriales. Proveedor confiable con precios competitivos."
-image: "/images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp"
-specs: [
-  {"label":"Fórmula Química","value":"(NaPO₃)₆"},
-  {"label":"Número CAS","value":"10124-56-8"},
-  {"label":"Código HS","value":"2835391900"},
-  {"label":"Contenido de P₂O₅","value":"≥68%"},
-  {"label":"Apariencia","value":"Polvo/granulado blanco"},
-  {"label":"Embalaje","value":"Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje personalizado disponible."
-  },
-  {"label":"Carga","value":"25MT por contenedor 20GP (FCL)"},
-  {"label":"Puertos disponibles","value":"Qingdao, Tianjin, Dalian (Principales puertos de China)"}
-]
-applications: [
-  "Tratamiento de agua (secuestrante, inhibidor de incrustaciones, dispersante)",
-  "Aditivo alimentario (emulsionante, espesante, conservante)",
-  "Detergentes y productos de limpieza (ablandador de agua)",
-  "Minería (agente de flotación)",
-  "Perforación petrolera (dispersante de lodos)",
-  "Tintura textil"
-]
-faqs: [
-  {"question":"¿Qué grados de Hexametafosfato de Sodio (SHMP) suministran para pedidos a granel?","answer":"Somos un proveedor líder en China de SHMP, ofreciendo grado alimenticio y grado industrial con contenido de P₂O₅ ≥68%. Ambos grados están disponibles para compra a granel y exportación, atendiendo diversas necesidades industriales."},{
-    "question":"¿Cuál es el contenido típico de P₂O₅ en sus productos SHMP?",
-    "answer":"Nuestro SHMP ((NaPO₃)₆) está disponible con un contenido mínimo de P₂O₅ del 68%. Aseguramos un estricto control de calidad para cumplir con los estándares internacionales en todas las aplicaciones."
-  },{
-    "question":"¿Cómo se empaca el SHMP para envío internacional desde China?",
-    "answer":"Para exportación, nuestro SHMP se empaca habitualmente en bolsas tejidas de PP de 25KG con forro interior de PE, diseñadas para proteger contra la humedad. También se ofrecen bolsas jumbo de 1000KG (1MT) para envíos a granel más grandes. Se pueden arreglar soluciones de embalaje personalizadas."
-  },{
-    "question":"¿Cuáles son las principales aplicaciones de su SHMP de grado industrial?",
-    "answer":"Nuestro SHMP de grado industrial se usa ampliamente en el tratamiento de agua como secuestrante e inhibidor de incrustaciones, en alimentos como emulsionante y en detergentes como ablandador de agua. Su versatilidad lo convierte en un químico clave."
-  },{
-    "question":"¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Seguridad (MSDS) para el SHMP?",
-    "answer":"Sí, proporcionamos documentación completa para cada envío, incluyendo un Certificado de Análisis (COA) detallando las especificaciones del producto y una Hoja de Seguridad (MSDS) con pautas de seguridad y manejo. Estos están disponibles a solicitud."
-  },{
-    "question":"¿Cuál es el tiempo de entrega para pedidos a granel de SHMP desde su fábrica?",
-    "answer":"El tiempo estándar de entrega para pedidos a granel de SHMP es típicamente de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del pedido y el calendario de suministro actual. Nos esforzamos por una logística eficiente y entrega puntual desde los principales puertos chinos."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG / Bolsas Jumbo"
-category: "Fosfatos"
+Origin_Slug: sodium-hexametaphosphate
+applications:
+- Tratamiento de agua (secuestrante, inhibidor de incrustaciones, dispersante)
+- Aditivo alimentario (emulsionante, espesante, conservante)
+- Detergentes y productos de limpieza (ablandador de agua)
+- Minería (agente de flotación)
+- Perforación petrolera (dispersante de lodos)
+- Tintura textil
+cas: 10124-56-8
+category: Fosfatos
+faqs:
+- answer: Somos un proveedor líder en China de SHMP, ofreciendo grado alimenticio
+    y grado industrial con contenido de P₂O₅ ≥68%. Ambos grados están disponibles
+    para compra a granel y exportación, atendiendo diversas necesidades industriales.
+  question: ¿Qué grados de Hexametafosfato de Sodio (SHMP) suministran para pedidos
+    a granel?
+- answer: Nuestro SHMP ((NaPO₃)₆) está disponible con un contenido mínimo de P₂O₅
+    del 68%. Aseguramos un estricto control de calidad para cumplir con los estándares
+    internacionales en todas las aplicaciones.
+  question: ¿Cuál es el contenido típico de P₂O₅ en sus productos SHMP?
+- answer: Para exportación, nuestro SHMP se empaca habitualmente en bolsas tejidas
+    de PP de 25KG con forro interior de PE, diseñadas para proteger contra la humedad.
+    También se ofrecen bolsas jumbo de 1000KG (1MT) para envíos a granel más grandes.
+    Se pueden arreglar soluciones de embalaje personalizadas.
+  question: ¿Cómo se empaca el SHMP para envío internacional desde China?
+- answer: Nuestro SHMP de grado industrial se usa ampliamente en el tratamiento de
+    agua como secuestrante e inhibidor de incrustaciones, en alimentos como emulsionante
+    y en detergentes como ablandador de agua. Su versatilidad lo convierte en un químico
+    clave.
+  question: ¿Cuáles son las principales aplicaciones de su SHMP de grado industrial?
+- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
+    Certificado de Análisis (COA) detallando las especificaciones del producto y una
+    Hoja de Seguridad (MSDS) con pautas de seguridad y manejo. Estos están disponibles
+    a solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Seguridad
+    (MSDS) para el SHMP?
+- answer: El tiempo estándar de entrega para pedidos a granel de SHMP es típicamente
+    de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del
+    pedido y el calendario de suministro actual. Nos esforzamos por una logística
+    eficiente y entrega puntual desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos a granel de SHMP desde su fábrica?
 featured: false
+hsCode: '2835391900'
+id: '13'
+image: /images/products/sodium-hexametaphosphate-shmp-cas-10124-56-8-sinopeakchem.webp
+loading: 25MT/20GP
+name: Hexametafosfato de Sodio (SHMP)
+nameCn: 六偏磷酸钠
+packaging: 25KG / Bolsas Jumbo
+ports: Qingdao / Tianjin / Dalian
+shortDescription: Hexametafosfato de sodio (SHMP) de alta pureza para compra a granel
+  y exportación desde China. Esencial para tratamiento de agua, aditivo alimentario
+  y aplicaciones industriales. Proveedor confiable con precios competitivos.
+slug: sodium-hexametaphosphate
+specs:
+- label: Fórmula Química
+  value: (NaPO₃)₆
+- label: Número CAS
+  value: 10124-56-8
+- label: Código HS
+  value: '2835391900'
+- label: Contenido de P₂O₅
+  value: ≥68%
+- label: Apariencia
+  value: Polvo/granulado blanco
+- label: Embalaje
+  value: Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje
+    personalizado disponible.
+- label: Carga
+  value: 25MT por contenedor 20GP (FCL)
+- label: Puertos disponibles
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
 ---
 
 ## Hexametafosfato de Sodio (CAS 10124-56-8): Su proveedor confiable en China para SHMP de alta pureza

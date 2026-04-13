@@ -1,54 +1,84 @@
 ---
-id: "9"
-name: "Acide citrique monohydraté"
-nameCn: "一水柠檬酸"
-cas: "5949-29-1"
-hsCode: "2918140000"
-slug: "citric-acid-monohydrate"
-shortDescription: "Acide citrique monohydraté de haute pureté pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour les applications alimentaires, les boissons, pharmaceutiques et industrielles. Fabricant de confiance avec des prix compétitifs."
-image: "/images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp"
-specs: [
-  {"label":"Formule chimique","value":"C₆H₈O₇·H₂O"},
-  {"label":"Numéro CAS","value":"5949-29-1"},
-  {"label":"Code SH","value":"2918140000"},
-  {"label":"Pureté","value":"≥99,5 %"},
-  {"label":"Apparence","value":"Poudre cristalline blanche"},
-  {"label":"Emballage","value":"Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage personnalisé disponible."
-  },
-  {"label":"Chargement","value":"25 MT par conteneur 20GP (FCL)"},
-  {"label":"Ports disponibles","value":"Qingdao, Tianjin, Dalian (principaux ports de Chine)"}
-]
-applications: [
-  "Industrie alimentaire et des boissons (acidulant, conservateur, exhausteur de goût)",
-  "Industrie pharmaceutique (excipient, régulateur de pH)",
-  "Détergents et produits de nettoyage (agent chélatant)",
-  "Cosmétiques et produits de soins personnels",
-  "Nettoyage industriel et détartrage",
-  "Teinture textile"
-]
-faqs: [
-  {"question":"Quelles qualités d'acide citrique monohydraté fournissez-vous pour les commandes en gros ?","answer":"Nous sommes un fabricant et fournisseur leader en Chine d'acide citrique monohydraté, proposant des qualités alimentaire, pharmaceutique et industrielle avec une pureté ≥99,5 %. Toutes les qualités sont disponibles pour l'achat en gros et l'exportation, répondant aux divers besoins de l'industrie."},{
-    "question":"Quelle est la pureté typique de vos produits d'acide citrique monohydraté ?",
-    "answer":"Notre acide citrique monohydraté (C₆H₈O₇·H₂O) est disponible avec une pureté minimale de 99,5 %. Nous assurons un contrôle qualité strict pour répondre aux normes internationales pour toutes les applications."
-  },{
-    "question":"Comment l'acide citrique monohydraté est-il emballé pour l'expédition internationale depuis la Chine ?",
-    "answer":"Pour l'exportation, notre acide citrique monohydraté est généralement emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées peuvent être organisées."
-  },{
-    "question":"Quelles sont les principales applications de votre acide citrique monohydraté de qualité industrielle ?",
-    "answer":"Notre acide citrique monohydraté de qualité industrielle est largement utilisé dans l'industrie alimentaire et des boissons comme acidulant, dans les produits pharmaceutiques comme excipient, dans les détergents comme agent chélatant et dans les cosmétiques. Sa polyvalence en fait un produit chimique clé."
-  },{
-    "question":"Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de sécurité (MSDS) pour l'acide citrique monohydraté ?",
-    "answer":"Oui, nous fournissons une documentation complète pour chaque expédition, y compris un certificat d'analyse (COA) détaillant les spécifications du produit et une fiche de données de sécurité (MSDS) pour les directives de sécurité et de manipulation. Ceux-ci sont disponibles sur demande."
-  },{
-    "question":"Quel est le délai de livraison pour les commandes d'acide citrique monohydraté en gros de votre usine ?",
-    "answer":"Le délai de livraison standard pour les commandes d'acide citrique monohydraté en gros est généralement de 7 à 15 jours après la confirmation de la commande, selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer une logistique efficace et une livraison rapide depuis les principaux ports chinois."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25MT/20GP"
-packaging: "25KG/Jumbo bags"
-category: "Acides organiques"
+Origin_Slug: citric-acid-monohydrate
+applications:
+- Industrie alimentaire et des boissons (acidulant, conservateur, exhausteur de goût)
+- Industrie pharmaceutique (excipient, régulateur de pH)
+- Détergents et produits de nettoyage (agent chélatant)
+- Cosmétiques et produits de soins personnels
+- Nettoyage industriel et détartrage
+- Teinture textile
+cas: 5949-29-1
+category: Acides organiques
+faqs:
+- answer: Nous sommes un fabricant et fournisseur leader en Chine d'acide citrique
+    monohydraté, proposant des qualités alimentaire, pharmaceutique et industrielle
+    avec une pureté ≥99,5 %. Toutes les qualités sont disponibles pour l'achat en
+    gros et l'exportation, répondant aux divers besoins de l'industrie.
+  question: Quelles qualités d'acide citrique monohydraté fournissez-vous pour les
+    commandes en gros ?
+- answer: Notre acide citrique monohydraté (C₆H₈O₇·H₂O) est disponible avec une pureté
+    minimale de 99,5 %. Nous assurons un contrôle qualité strict pour répondre aux
+    normes internationales pour toutes les applications.
+  question: Quelle est la pureté typique de vos produits d'acide citrique monohydraté
+    ?
+- answer: Pour l'exportation, notre acide citrique monohydraté est généralement emballé
+    dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus
+    pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également
+    disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage
+    personnalisées peuvent être organisées.
+  question: Comment l'acide citrique monohydraté est-il emballé pour l'expédition
+    internationale depuis la Chine ?
+- answer: Notre acide citrique monohydraté de qualité industrielle est largement utilisé
+    dans l'industrie alimentaire et des boissons comme acidulant, dans les produits
+    pharmaceutiques comme excipient, dans les détergents comme agent chélatant et
+    dans les cosmétiques. Sa polyvalence en fait un produit chimique clé.
+  question: Quelles sont les principales applications de votre acide citrique monohydraté
+    de qualité industrielle ?
+- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
+    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
+    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
+    de manipulation. Ceux-ci sont disponibles sur demande.
+  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+    de sécurité (MSDS) pour l'acide citrique monohydraté ?
+- answer: Le délai de livraison standard pour les commandes d'acide citrique monohydraté
+    en gros est généralement de 7 à 15 jours après la confirmation de la commande,
+    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
+    d'assurer une logistique efficace et une livraison rapide depuis les principaux
+    ports chinois.
+  question: Quel est le délai de livraison pour les commandes d'acide citrique monohydraté
+    en gros de votre usine ?
 featured: false
+hsCode: '2918140000'
+id: '9'
+image: /images/products/citric-acid-monohydrate-cas-5949-29-1-sinopeakchem.webp
+loading: 25MT/20GP
+name: Acide citrique monohydraté
+nameCn: 一水柠檬酸
+packaging: 25KG/Jumbo bags
+ports: Qingdao / Tianjin / Dalian
+shortDescription: Acide citrique monohydraté de haute pureté pour l'achat en gros
+  et l'exportation depuis la Chine. Essentiel pour les applications alimentaires,
+  les boissons, pharmaceutiques et industrielles. Fabricant de confiance avec des
+  prix compétitifs.
+slug: citric-acid-monohydrate
+specs:
+- label: Formule chimique
+  value: C₆H₈O₇·H₂O
+- label: Numéro CAS
+  value: 5949-29-1
+- label: Code SH
+  value: '2918140000'
+- label: Pureté
+  value: ≥99,5 %
+- label: Apparence
+  value: Poudre cristalline blanche
+- label: Emballage
+  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
+    personnalisé disponible.
+- label: Chargement
+  value: 25 MT par conteneur 20GP (FCL)
+- label: Ports disponibles
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
 
 ## Acide citrique monohydraté (CAS 5949-29-1) : Votre fabricant et fournisseur de confiance en Chine pour le C₆H₈O₇·H₂O de haute pureté

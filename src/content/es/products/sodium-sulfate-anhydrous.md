@@ -1,54 +1,78 @@
 ---
-id: "6"
-name: "Sulfato de Sodio Anhidro (SSA)"
-nameCn: "元明粉"
-cas: "7757-82-6"
-hsCode: "2833110000"
-slug: "sodium-sulfate-anhydrous"
-shortDescription: "Sulfato de Sodio Anhidro (Na2SO4) de alta pureza para compra a granel y exportación desde China. Esencial para suministro de detergentes, textiles y vidrio. Proveedor confiable con precios competitivos."
-image: "/images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp"
-specs: [
-  {"label":"Fórmula química","value":"Na₂SO₄"},
-  {"label":"Número CAS","value":"7757-82-6"},
-  {"label":"Código SA","value":"2833110000"},
-  {"label":"Pureza","value":"≥99%"},
-  {"label":"Apariencia","value":"Polvo cristalino blanco"},
-  {"label":"Empaque","value":"Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Empaques personalizados disponibles."
-  },
-  {"label":"Carga","value":"25-27MT por contenedor 20GP (FCL)"},
-  {"label":"Puertos Disponibles","value":"Qingdao, Tianjin, Dalian (Principales puertos de China)"}
-]
-applications: [
-  "Suministro de detergentes y jabones (relleno, activador)",
-  "Tinción e impresión textil (agente nivelador)",
-  "Suministro de vidrio (agente clarificante)",
-  "Industria de pulpa y papel (proceso Kraft)",
-  "Síntesis química",
-  "Aditivo en alimentos para animales"
-]
-faqs: [
-  {"question":"¿Qué grados de Sulfato de Sodio Anhidro suministran para pedidos a granel?","answer":"Somos un proveedor líder en China de Sulfato de Sodio Anhidro, ofreciendo grado industrial con pureza ≥99%. Está disponible para compra a granel y exportación, ideal para diversas aplicaciones industriales."},{
-    "question":"¿Cuál es la pureza típica de sus productos de Sulfato de Sodio Anhidro?",
-    "answer":"Nuestro Sulfato de Sodio Anhidro (Na₂SO₄) está disponible con una pureza mínima del 99%. Aseguramos un estricto control de calidad para cumplir con los estándares internacionales en todas las aplicaciones."
-  },{
-    "question":"¿Cómo se empaca el Sulfato de Sodio Anhidro para envíos internacionales desde China?",
-    "answer":"Para exportación, nuestro Sulfato de Sodio Anhidro se empaca típicamente en bolsas tejidas de PP de 25KG con forros interiores de PE, diseñadas para proteger contra la humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para envíos a granel más grandes. Se pueden organizar soluciones de empaque personalizadas."
-  },{
-    "question":"¿Cuáles son las principales aplicaciones de su Sulfato de Sodio Anhidro de grado industrial?",
-    "answer":"Nuestro Sulfato de Sodio Anhidro de grado industrial se utiliza ampliamente en el suministro de detergentes como relleno, en la tintura textil como agente nivelador y en el suministro de vidrio como agente clarificante. Su versatilidad lo convierte en un químico clave."
-  },{
-    "question":"¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos de Seguridad (MSDS) para el Sulfato de Sodio Anhidro?",
-    "answer":"Sí, proporcionamos documentación completa para cada envío, incluyendo un Certificado de Análisis (COA) que detalla las especificaciones del producto y una Hoja de Datos de Seguridad (MSDS) con pautas de seguridad y manejo. Estos están disponibles bajo solicitud."
-  },{
-    "question":"¿Cuál es el tiempo de entrega para pedidos a granel de Sulfato de Sodio Anhidro desde su fábrica?",
-    "answer":"El tiempo estándar de entrega para pedidos a granel de Sulfato de Sodio Anhidro suele ser de 7-15 días después de la confirmación del pedido, dependiendo del tamaño del pedido y la programación actual de suministro. Nos esforzamos por una logística eficiente y entrega puntual desde los principales puertos chinos."
-  }
-]
-ports: "Qingdao / Tianjin / Dalian"
-loading: "25-27MT/20GP"
-packaging: "Bolsas de 25KG/Jumbo"
-category: "Sulfatos"
+Origin_Slug: sodium-sulfate-anhydrous
+applications:
+- Suministro de detergentes y jabones (relleno, activador)
+- Tinción e impresión textil (agente nivelador)
+- Suministro de vidrio (agente clarificante)
+- Industria de pulpa y papel (proceso Kraft)
+- Síntesis química
+- Aditivo en alimentos para animales
+cas: 7757-82-6
+category: Sulfatos
+faqs:
+- answer: Somos un proveedor líder en China de Sulfato de Sodio Anhidro, ofreciendo
+    grado industrial con pureza ≥99%. Está disponible para compra a granel y exportación,
+    ideal para diversas aplicaciones industriales.
+  question: ¿Qué grados de Sulfato de Sodio Anhidro suministran para pedidos a granel?
+- answer: Nuestro Sulfato de Sodio Anhidro (Na₂SO₄) está disponible con una pureza
+    mínima del 99%. Aseguramos un estricto control de calidad para cumplir con los
+    estándares internacionales en todas las aplicaciones.
+  question: ¿Cuál es la pureza típica de sus productos de Sulfato de Sodio Anhidro?
+- answer: Para exportación, nuestro Sulfato de Sodio Anhidro se empaca típicamente
+    en bolsas tejidas de PP de 25KG con forros interiores de PE, diseñadas para proteger
+    contra la humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para
+    envíos a granel más grandes. Se pueden organizar soluciones de empaque personalizadas.
+  question: ¿Cómo se empaca el Sulfato de Sodio Anhidro para envíos internacionales
+    desde China?
+- answer: Nuestro Sulfato de Sodio Anhidro de grado industrial se utiliza ampliamente
+    en el suministro de detergentes como relleno, en la tintura textil como agente
+    nivelador y en el suministro de vidrio como agente clarificante. Su versatilidad
+    lo convierte en un químico clave.
+  question: ¿Cuáles son las principales aplicaciones de su Sulfato de Sodio Anhidro
+    de grado industrial?
+- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
+    Certificado de Análisis (COA) que detalla las especificaciones del producto y
+    una Hoja de Datos de Seguridad (MSDS) con pautas de seguridad y manejo. Estos
+    están disponibles bajo solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+    de Seguridad (MSDS) para el Sulfato de Sodio Anhidro?
+- answer: El tiempo estándar de entrega para pedidos a granel de Sulfato de Sodio
+    Anhidro suele ser de 7-15 días después de la confirmación del pedido, dependiendo
+    del tamaño del pedido y la programación actual de suministro. Nos esforzamos por
+    una logística eficiente y entrega puntual desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos a granel de Sulfato de Sodio
+    Anhidro desde su fábrica?
 featured: true
+hsCode: '2833110000'
+id: '6'
+image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
+loading: 25-27MT/20GP
+name: Sulfato de Sodio Anhidro (SSA)
+nameCn: 元明粉
+packaging: Bolsas de 25KG/Jumbo
+ports: Qingdao / Tianjin / Dalian
+shortDescription: Sulfato de Sodio Anhidro (Na2SO4) de alta pureza para compra a granel
+  y exportación desde China. Esencial para suministro de detergentes, textiles y vidrio.
+  Proveedor confiable con precios competitivos.
+slug: sodium-sulfate-anhydrous
+specs:
+- label: Fórmula química
+  value: Na₂SO₄
+- label: Número CAS
+  value: 7757-82-6
+- label: Código SA
+  value: '2833110000'
+- label: Pureza
+  value: ≥99%
+- label: Apariencia
+  value: Polvo cristalino blanco
+- label: Empaque
+  value: Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Empaques
+    personalizados disponibles.
+- label: Carga
+  value: 25-27MT por contenedor 20GP (FCL)
+- label: Puertos Disponibles
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
 ---
 
 ## Sulfato de Sodio Anhidro (CAS 7757-82-6): Su proveedor confiable en China de Na₂SO₄ de alta pureza

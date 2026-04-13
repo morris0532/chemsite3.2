@@ -1,21 +1,26 @@
 ---
-Id: 'SP-19fvos2er3'
-Origin_Slug: 'oxalic-acid-industrial-applications'
-Slug: 'oxalic-acid-industrial-applications'
-Excerpt: 'Explore las diversas aplicaciones industriales del ácido oxálico, desde la eliminación de óxido hasta la extracción de tierras raras, junto con importantes pautas de seguridad y manejo.'
-title: 'Ácido Oxálico: Aplicaciones Industriales y Guías de Seguridad'
-description: 'Explore las diversas aplicaciones industriales del ácido oxálico, desde la eliminación de óxido hasta la extracción de tierras raras, junto con importantes pautas de seguridad y manejo.'
-image: '/images/blog/oxalic-acid-industrial-applications.webp'
-imageAlt: 'Ácido oxálico utilizado para la eliminación industrial de óxido y limpieza'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Guía de Producto'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, desde la
+  eliminación de óxido hasta la extracción de tierras raras, junto con importantes
+  pautas de seguridad y manejo.
+Id: SP-19fvos2er3
+Keywords: null
+Origin_Slug: oxalic-acid-industrial-applications
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-industrial-aplicaciones
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Guía de Producto
+description: Explore las diversas aplicaciones industriales del ácido oxálico, desde
+  la eliminación de óxido hasta la extracción de tierras raras, junto con importantes
+  pautas de seguridad y manejo.
+image: /images/blog/oxalic-acid-industrial-applications.webp
+imageAlt: Ácido oxálico utilizado para la eliminación industrial de óxido y limpieza
+tag: null
+title: 'Ácido Oxálico: Aplicaciones Industriales y Guías de Seguridad'
 ---
+
 ## ¿Qué es el Ácido Oxálico?
 El ácido oxálico (C₂H₂O₄) es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más fuertes. Como un [proveedor líder de ácido oxálico de alta pureza](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem garantiza que este químico versátil cumpla con los estrictos requisitos de los compradores industriales globales. Se encuentra de forma natural en muchas plantas y se suministra industrialmente para numerosas aplicaciones.
 

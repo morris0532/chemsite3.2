@@ -1,21 +1,27 @@
 ---
-Id: 'SP-pmrmcqtctx'
-Origin_Slug: 'oxalic-acid-leather-tanning'
-Slug: 'oxalic-acid-leather-tanning'
-Excerpt: 'اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية والحديثة.'
-title: 'حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة'
-description: 'اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية والحديثة.'
-image: '/images/blog/oxalic-acid-leather-tanning.webp'
-imageAlt: 'صورة لجلود مدبوغة ملونة معروضة في ورشة عمل، تظهر نتائج عملية الدباغة والصباغة الاحترافية'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تطبيقات صناعية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم
+  في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية
+  والحديثة.
+Id: SP-pmrmcqtctx
+Keywords: null
+Origin_Slug: oxalic-acid-leather-tanning
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-leather-tanning
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
+description: اكتشف الدور الحيوي لحمض الأكساليك في صناعة الجلود، من إزالة الكلس والتحكم
+  في درجة الحموضة إلى العمل كعامل مساعد في الصباغة، مع مقارنة بين الأساليب التقليدية
+  والحديثة.
+image: /images/blog/oxalic-acid-leather-tanning.webp
+imageAlt: صورة لجلود مدبوغة ملونة معروضة في ورشة عمل، تظهر نتائج عملية الدباغة والصباغة
+  الاحترافية
+tag: null
+title: 'حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة'
 ---
+
 ## حمض الأكساليك في دباغة وصباغة الجلود: التقليد مقابل الحداثة
 
 تعد صناعة الجلود واحدة من أقدم الصناعات التحويلية، وقد لعب حمض الأكساليك (H₂C₂O₄) دوراً ثابتاً ومهماً فيها. بفضل خصائصه الكيميائية الفريدة كحمض عضوي قوي وعامل مخلبي، يساهم حمض الأكساليك في تحويل الجلود الخام إلى منتجات جلدية متينة وجميلة.

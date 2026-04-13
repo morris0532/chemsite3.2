@@ -1,21 +1,27 @@
 ---
-Id: 'SP-wqfaeivtea'
-Origin_Slug: 'oxalic-acid-uses'
-Slug: 'oxalic-acid-uses'
-Excerpt: 'Explore las diversas aplicaciones industriales del ácido oxálico, desde la eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras raras y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.'
-title: 'Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer'
-description: 'Explore las diversas aplicaciones industriales del ácido oxálico, desde la eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras raras y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.'
-image: '/images/blog/oxalic-acid-uses.webp'
-imageAlt: 'Diversas aplicaciones industriales del ácido oxálico, mostrando varios procesos como eliminación de óxido, tratamiento de madera y síntesis química.'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Aplicación del Producto'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'Latin America & Spain (ES)'
+Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, desde la
+  eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras raras
+  y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.
+Id: SP-wqfaeivtea
+Keywords: null
+Origin_Slug: oxalic-acid-uses
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-uses
+Target_Region: Latin America & Spain (ES)
+author: Sinopeakchem Technical Team
+category: Aplicación del Producto
+description: Explore las diversas aplicaciones industriales del ácido oxálico, desde
+  la eliminación de óxido y el blanqueo de la madera hasta la extracción de tierras
+  raras y la síntesis farmacéutica. Descubra su versatilidad en distintos sectores.
+image: /images/blog/oxalic-acid-uses.webp
+imageAlt: Diversas aplicaciones industriales del ácido oxálico, mostrando varios procesos
+  como eliminación de óxido, tratamiento de madera y síntesis química.
+tag: null
+title: Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer
 ---
+
 ## Las 15 Principales Aplicaciones Industriales del Ácido Oxálico que Debe Conocer
 
 El ácido oxálico, químicamente conocido como ácido etanodioico, es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más versátiles, ampliamente utilizado en numerosas industrias. Sus propiedades químicas únicas — incluyendo su fuerte acidez, capacidad quelante y poder reductor — lo hacen indispensable en aplicaciones que van desde el tratamiento de metales y teñido textil hasta la extracción de tierras raras y la síntesis farmacéutica.

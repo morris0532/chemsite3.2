@@ -1,21 +1,24 @@
 ---
-Id: 'SP-ih63t6rbss'
-Origin_Slug: 'oxalic-acid-metal-pre-treatment'
-Slug: 'oxalic-acid-metal-pre-treatment'
-Excerpt: 'استكشف كيف يعمل حمض الأكساليك كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل في المعالجة المسبقة للمعادن، مما يحسن من التصاق الطلاء ومقاومة التآكل.'
-title: 'دور حمض الأكساليك في المعالجة المسبقة لأسطح المعادن'
-description: 'استكشف كيف يعمل حمض الأكساليك كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل في المعالجة المسبقة للمعادن، مما يحسن من التصاق الطلاء ومقاومة التآكل.'
-image: '/images/blog/oxalic-acid-metal-pre-treatment.webp'
-imageAlt: 'لقطة مقربة لسطح معدني يتم معالجته كيميائياً، تظهر فقاعات وتغير في الملمس'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'تطبيقات صناعية'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'MENA Region (AR)'
+Excerpt: استكشف كيف يعمل حمض الأكساليك كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل
+  في المعالجة المسبقة للمعادن، مما يحسن من التصاق الطلاء ومقاومة التآكل.
+Id: SP-ih63t6rbss
+Keywords: null
+Origin_Slug: oxalic-acid-metal-pre-treatment
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-metal-pre-treatment
+Target_Region: MENA Region (AR)
+author: Sinopeakchem Technical Team
+category: تطبيقات صناعية
+description: استكشف كيف يعمل حمض الأكساليك كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل
+  في المعالجة المسبقة للمعادن، مما يحسن من التصاق الطلاء ومقاومة التآكل.
+image: /images/blog/oxalic-acid-metal-pre-treatment.webp
+imageAlt: لقطة مقربة لسطح معدني يتم معالجته كيميائياً، تظهر فقاعات وتغير في الملمس
+tag: null
+title: دور حمض الأكساليك في المعالجة المسبقة لأسطح المعادن
 ---
+
 ## الدور الحاسم لحمض الأكساليك في المعالجة المسبقة لأسطح المعادن
 
 تعد المعالجة المسبقة للأسطح المعدنية خطوة حاسمة لضمان متانة وجودة الطلاءات والتشطيبات النهائية. يلعب حمض الأكساليك (H₂C₂O₄) دوراً محورياً في هذه العملية بفضل خصائصه الكيميائية الفريدة، حيث يعمل كعامل فعال لإزالة الصدأ، والتنظيف، والتخميل.

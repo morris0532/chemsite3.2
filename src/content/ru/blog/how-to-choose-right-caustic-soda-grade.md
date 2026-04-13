@@ -1,21 +1,25 @@
 ---
-Id: 'SP-9isk13cgnu'
-Origin_Slug: 'how-to-choose-right-caustic-soda-grade'
-Slug: 'how-to-choose-right-caustic-soda-grade'
-Excerpt: 'Сравнение чешуированной и гранулированной каустической соды (чистота 99%). Узнайте, как выбрать правильный сорт гидроксида натрия для текстиля, мыла и водоочистки.'
-title: 'Как выбрать подходящий сорт каустической соды для вашей отрасли'
-description: 'Сравнение чешуированной и гранулированной каустической соды (чистота 99%). Узнайте, как выбрать правильный сорт гидроксида натрия для текстиля, мыла и водоочистки.'
-image: '/images/blog/how-to-choose-right-caustic-soda-grade.webp'
-imageAlt: 'Различные сорта каустической соды в гранулах и чешуйках'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Руководство по продукту'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'CIS & Russia (RU)'
+Excerpt: Сравнение чешуированной и гранулированной каустической соды (чистота 99%).
+  Узнайте, как выбрать правильный сорт гидроксида натрия для текстиля, мыла и водоочистки.
+Id: SP-9isk13cgnu
+Keywords: null
+Origin_Slug: how-to-choose-right-caustic-soda-grade
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: how-to-choose-right-caustic-soda-grade
+Target_Region: CIS & Russia (RU)
+author: Sinopeakchem Technical Team
+category: Руководство по продукту
+description: Сравнение чешуированной и гранулированной каустической соды (чистота
+  99%). Узнайте, как выбрать правильный сорт гидроксида натрия для текстиля, мыла
+  и водоочистки.
+image: /images/blog/how-to-choose-right-caustic-soda-grade.webp
+imageAlt: Различные сорта каустической соды в гранулах и чешуйках
+tag: null
+title: Как выбрать подходящий сорт каустической соды для вашей отрасли
 ---
+
 # Как выбрать подходящий сорт каустической соды для вашей отрасли
 
 **Каустическая сода (гидроксид натрия, NaOH)** является одним из наиболее важных промышленных химикатов в мире. Однако для B2B-покупателей и руководителей заводов выбор правильной формы — **каустической соды в чешуйках** или **каустической соды в гранулах** — может существенно повлиять на эффективность производства, затраты на хранение и безопасность.

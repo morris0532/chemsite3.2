@@ -1,21 +1,26 @@
 ---
-Id: 'SP-qqruw4dqbw'
-Origin_Slug: 'oxalic-acid-industrial-applications'
-Slug: 'oxalic-acid-industrial-applications'
-Excerpt: 'Изучите разнообразные промышленные применения щавелевой кислоты, от удаления ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности и обращения.'
-title: 'Щавелевая кислота: Промышленное применение и правила безопасности'
-description: 'Изучите разнообразные промышленные применения щавелевой кислоты, от удаления ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности и обращения.'
-image: '/images/blog/oxalic-acid-industrial-applications.webp'
-imageAlt: 'Oxalic Acid used for industrial rust removal and cleaning'
 Date: '2026-04-10'
-author: 'Sinopeakchem Technical Team'
-category: 'Руководство по продукту'
-tag:
-Primary_Keyword: 'Industrial Chemicals'
-Keywords:
-Schema_Type: 'TechArticle'
-Target_Region: 'CIS & Russia (RU)'
+Excerpt: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
+  ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
+  и обращения.
+Id: SP-qqruw4dqbw
+Keywords: null
+Origin_Slug: oxalic-acid-industrial-applications
+Primary_Keyword: Industrial Chemicals
+Schema_Type: TechArticle
+Slug: oxalic-acid-industrial-primenenie
+Target_Region: CIS & Russia (RU)
+author: Sinopeakchem Technical Team
+category: Руководство по продукту
+description: Изучите разнообразные промышленные применения щавелевой кислоты, от удаления
+  ржавчины до извлечения редкоземельных элементов, а также важные правила безопасности
+  и обращения.
+image: /images/blog/oxalic-acid-industrial-applications.webp
+imageAlt: Oxalic Acid used for industrial rust removal and cleaning
+tag: null
+title: 'Щавелевая кислота: Промышленное применение и правила безопасности'
 ---
+
 ## Что такое щавелевая кислота?
 Щавелевая кислота (C₂H₂O₄) — простейшая дикарбоновая кислота и одна из сильнейших органических кислот. Она встречается в природе во многих растениях и производится в промышленных масштабах для многочисленных применений.
 ## Ключевые промышленные применения
