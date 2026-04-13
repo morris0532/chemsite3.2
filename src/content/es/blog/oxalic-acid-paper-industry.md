@@ -1,21 +1,18 @@
 ---
 Id: SP-sbq8xij8zh
 Origin_Slug: oxalic-acid-paper-industry
-Slug: oxalic-acid-paper-industry
-Excerpt: >-
-  Descubra las múltiples aplicaciones del ácido oxálico en la industria
-  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en
-  diversas etapas de procesamiento. Esta guía explora sus funciones químicas,
-  beneficios ambientales y su impacto en la calidad del papel.
+Slug: cido-ox-lico-en-la-industria-papelera-blanqueo-y-m-s-all
+Excerpt: Descubra las múltiples aplicaciones del ácido oxálico en la industria papelera,
+  desde su papel crucial en el blanqueo de la pulpa hasta su uso en diversas etapas
+  de procesamiento. Esta guía explora sus funciones químicas, beneficios ambientales
+  y su impacto en la calidad del papel.
 title: 'Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá'
-description: >-
-  Descubra las múltiples aplicaciones del ácido oxálico en la industria
-  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en
-  diversas etapas de procesamiento. Esta guía explora sus funciones químicas,
-  beneficios ambientales y su impacto en la calidad del papel.
+description: Descubra las múltiples aplicaciones del ácido oxálico en la industria
+  papelera, desde su papel crucial en el blanqueo de la pulpa hasta su uso en diversas
+  etapas de procesamiento. Esta guía explora sus funciones químicas, beneficios ambientales
+  y su impacto en la calidad del papel.
 image: /images/blog/oxalic-acid-paper-industry.webp
-imageAlt: >-
-  Gran fábrica de papel industrial con pulpa de papel siendo procesada y grandes
+imageAlt: Gran fábrica de papel industrial con pulpa de papel siendo procesada y grandes
   rollos de papel blanco
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -26,7 +23,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico en la Industria Papelera: Blanqueo y Más Allá
 
 La industria papelera es un sector complejo y que consume muchos recursos, buscando constantemente métodos eficientes y respetuosos con el medio ambiente para el procesamiento de la pulpa y la fabricación de papel. Entre los diversos productos químicos empleados, el **ácido oxálico** (H₂C₂O₄) ha surgido como un agente versátil y valioso, desempeñando un papel crucial no solo en el blanqueo de la pulpa, sino también en otras etapas de la producción de papel. Sus propiedades químicas únicas, incluida su capacidad quelante y su acidez suave, lo convierten en una opción atractiva para mejorar la calidad del papel y reducir el impacto ambiental.

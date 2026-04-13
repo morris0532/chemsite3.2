@@ -1,16 +1,14 @@
 ---
 Id: SP-w9qhkuypge
 Origin_Slug: oxalic-acid-industrial-applications
-Slug: oxalic-acid-industrial-applications
-Excerpt: >-
-  Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille à l'extraction de terres rares, ainsi que
-  d'importantes consignes de sécurité et de manipulation.
+Slug: acide-oxalique-applications-industrielles-et-consignes-de-s-curit
+Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes
+  consignes de sécurité et de manipulation.
 title: 'Acide oxalique : applications industrielles et consignes de sécurité'
-description: >-
-  Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille à l'extraction de terres rares, ainsi que
-  d'importantes consignes de sécurité et de manipulation.
+description: Explorez les diverses applications industrielles de l'acide oxalique,
+  de l'élimination de la rouille à l'extraction de terres rares, ainsi que d'importantes
+  consignes de sécurité et de manipulation.
 image: /images/blog/oxalic-acid-industrial-applications.webp
 imageAlt: Oxalic Acid used for industrial rust removal and cleaning
 Date: '2026-04-10'
@@ -22,7 +20,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 ## Qu'est-ce que l'acide oxalique ?
 L'acide oxalique (C₂H₂O₄) est l'acide dicarboxylique le plus simple et l'un des acides organiques les plus forts. En tant que [fabricant leader d'acide oxalique de haute pureté](https://www.sinopeakchem.com/fr/products/oxalic-acid), Sinopeakchem s'assure que ce produit chimique polyvalent répond aux exigences strictes des acheteurs industriels mondiaux. Il est présent naturellement dans de nombreuses plantes et est produit industriellement pour de nombreuses applications.
 

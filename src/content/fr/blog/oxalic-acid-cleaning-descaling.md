@@ -1,26 +1,21 @@
 ---
 Id: SP-rgx89t1xln
 Origin_Slug: oxalic-acid-cleaning-descaling
-Slug: oxalic-acid-cleaning-descaling
-Excerpt: >-
-  Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
-  et le détartrage, de l'élimination des taches tenaces dans les foyers à
-  l'entretien des équipements industriels. Découvrez son action chimique, ses
-  utilisations efficaces et les consignes de sécurité.
-title: >-
-  Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et
-  Industriels
-description: >-
-  Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
-  et le détartrage, de l'élimination des taches tenaces dans les foyers à
-  l'entretien des équipements industriels. Découvrez son action chimique, ses
-  utilisations efficaces et les consignes de sécurité.
+Slug: acide-oxalique-pour-le-nettoyage-et-le-d-tartrage-usages-domestiques-et-industriels
+Excerpt: Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
+  et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien
+  des équipements industriels. Découvrez son action chimique, ses utilisations efficaces
+  et les consignes de sécurité.
+title: 'Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et
+  Industriels'
+description: Explorez les applications polyvalentes de l'acide oxalique dans le nettoyage
+  et le détartrage, de l'élimination des taches tenaces dans les foyers à l'entretien
+  des équipements industriels. Découvrez son action chimique, ses utilisations efficaces
+  et les consignes de sécurité.
 image: /images/blog/oxalic-acid-cleaning-descaling.webp
-imageAlt: >-
-  Une image propre et professionnelle représentant à la fois le nettoyage
-  domestique (par exemple, un robinet de salle de bain étincelant) et le
-  détartrage industriel (par exemple, un tuyau propre ou un équipement
-  industriel).
+imageAlt: Une image propre et professionnelle représentant à la fois le nettoyage
+  domestique (par exemple, un robinet de salle de bain étincelant) et le détartrage
+  industriel (par exemple, un tuyau propre ou un équipement industriel).
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications de Nettoyage
@@ -30,7 +25,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 ## Acide Oxalique pour le Nettoyage et le Détartrage : Usages Domestiques et Industriels
 
 L'acide oxalique (C₂H₂O₄) est un acide organique puissant largement reconnu pour ses propriétés exceptionnelles de nettoyage et de détartrage. Sa capacité à réagir avec les oxydes métalliques et les dépôts minéraux en fait un agent inestimable à la fois dans les routines de nettoyage domestique et dans l'entretien industriel exigeant. De l'élimination des taches de rouille tenaces à la restauration de l'efficacité des machines industrielles, l'acide oxalique offre une solution polyvalente et efficace.

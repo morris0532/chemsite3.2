@@ -1,21 +1,18 @@
 ---
 Id: SP-codivua1pu
 Origin_Slug: oxalic-acid-stainless-steel-passivation
-Slug: oxalic-acid-stainless-steel-passivation
-Excerpt: >-
-  Explore el papel crítico del ácido oxálico en la pasivación del acero
-  inoxidable, mejorando la resistencia a la corrosión y la calidad de la
-  superficie. Esta guía cubre el proceso, los beneficios y las consideraciones
-  técnicas para una aplicación efectiva.
+Slug: cido-ox-lico-en-la-pasivaci-n-del-acero-inoxidable-una-visi-n-t-cnica
+Excerpt: Explore el papel crítico del ácido oxálico en la pasivación del acero inoxidable,
+  mejorando la resistencia a la corrosión y la calidad de la superficie. Esta guía
+  cubre el proceso, los beneficios y las consideraciones técnicas para una aplicación
+  efectiva.
 title: 'Ácido Oxálico en la Pasivación del Acero Inoxidable: Una Visión Técnica'
-description: >-
-  Explore el papel crítico del ácido oxálico en la pasivación del acero
-  inoxidable, mejorando la resistencia a la corrosión y la calidad de la
-  superficie. Esta guía cubre el proceso, los beneficios y las consideraciones
-  técnicas para una aplicación efectiva.
+description: Explore el papel crítico del ácido oxálico en la pasivación del acero
+  inoxidable, mejorando la resistencia a la corrosión y la calidad de la superficie.
+  Esta guía cubre el proceso, los beneficios y las consideraciones técnicas para una
+  aplicación efectiva.
 image: /images/blog/oxalic-acid-stainless-steel-passivation.webp
-imageAlt: >-
-  Componente industrial de acero inoxidable sometido a tratamiento de pasivación
+imageAlt: Componente industrial de acero inoxidable sometido a tratamiento de pasivación
   en un baño químico
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -26,7 +23,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico en la Pasivación del Acero Inoxidable: Una Visión Técnica
 
 El acero inoxidable es conocido por su resistencia a la corrosión, una propiedad atribuida principalmente a una delgada capa pasiva de óxido de cromo que se repara a sí misma y que se forma en su superficie. Sin embargo, durante los procesos de fabricación como el mecanizado, la soldadura y el esmerilado, esta capa pasiva puede dañarse o contaminarse con hierro libre, cascarilla u otros materiales extraños. Para restaurar y mejorar esta capa protectora, se emplea un proceso llamado **pasivación**. Entre los diversos agentes químicos utilizados para la pasivación, el **ácido oxálico** desempeña un papel significativo y cada vez más reconocido, particularmente por su eficacia y ventajas ambientales.

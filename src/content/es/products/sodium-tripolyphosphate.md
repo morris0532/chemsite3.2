@@ -3,55 +3,43 @@ Origin_Slug: sodium-tripolyphosphate
 image: /images/products/sodium-tripolyphosphate-stpp-cas-7758-29-4-sinopeakchem.webp
 category: Fosfatos
 applications:
-  - 'Detergentes y productos de limpieza (constructores, suavizantes de agua)'
-  - 'Aditivo alimentario (emulsionante, espesante, conservante)'
-  - 'Tratamiento de aguas (secuestrante, dispersante)'
-  - Cerámica y azulejos (dispersante)
-  - Perforación petrolera (dispersante de lodos)
-  - Tintura textil
+- Detergentes y productos de limpieza (constructores, suavizantes de agua)
+- Aditivo alimentario (emulsionante, espesante, conservante)
+- Tratamiento de aguas (secuestrante, dispersante)
+- Cerámica y azulejos (dispersante)
+- Perforación petrolera (dispersante de lodos)
+- Tintura textil
 cas: 7758-29-4
 faqs:
-  - answer: >-
-      Somos un proveedor líder en China de STPP, ofreciendo grado alimenticio e
-      industrial con contenido de P₂O₅ ≥57%. Ambos grados están disponibles para
-      compra a granel y exportación, satisfaciendo diversas necesidades
-      industriales.
-    question: >-
-      ¿Qué grados de Trifosfato de Sodio (STPP) suministran para pedidos al por
-      mayor?
-  - answer: >-
-      Nuestro STPP (Na₅P₃O₁₀) está disponible con un contenido mínimo de P₂O₅
-      del 57%. Garantizamos un estricto control de calidad para cumplir con los
-      estándares internacionales en todas las aplicaciones.
-    question: ¿Cuál es el contenido típico de P₂O₅ en sus productos de STPP?
-  - answer: >-
-      Para exportación, nuestro STPP se empaca típicamente en bolsas tejidas de
-      PP de 25KG con forro interior de PE, diseñadas para proteger contra la
-      humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para
-      envíos mayores. Se pueden organizar soluciones de embalaje personalizadas.
-    question: ¿Cómo se empaqueta el STPP para su envío internacional desde China?
-  - answer: >-
-      Nuestro STPP grado industrial es ampliamente utilizado como constructor en
-      detergentes, como emulsionante en alimentos y como secuestrante en el
-      tratamiento de aguas. Su versatilidad lo convierte en un químico clave.
-    question: ¿Cuáles son las principales aplicaciones de su STPP grado industrial?
-  - answer: >-
-      Sí, proporcionamos documentación completa para cada envío, incluyendo un
-      Certificado de Análisis (COA) que detalla las especificaciones del
-      producto y una Hoja de Seguridad (MSDS) con pautas de seguridad y manejo.
-      Estos documentos están disponibles bajo solicitud.
-    question: >-
-      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de
-      Seguridad (MSDS) para el STPP?
-  - answer: >-
-      El tiempo estándar de entrega para pedidos a granel de STPP es típicamente
-      de 7 a 15 días después de la confirmación del pedido, dependiendo del
-      tamaño del pedido y el calendario de suministro actual. Nos esforzamos por
-      una logística eficiente y entregas puntuales desde los principales puertos
-      chinos.
-    question: >-
-      ¿Cuál es el tiempo de entrega para pedidos a granel de STPP desde su
-      fábrica?
+- answer: Somos un proveedor líder en China de STPP, ofreciendo grado alimenticio
+    e industrial con contenido de P₂O₅ ≥57%. Ambos grados están disponibles para compra
+    a granel y exportación, satisfaciendo diversas necesidades industriales.
+  question: ¿Qué grados de Trifosfato de Sodio (STPP) suministran para pedidos al
+    por mayor?
+- answer: Nuestro STPP (Na₅P₃O₁₀) está disponible con un contenido mínimo de P₂O₅
+    del 57%. Garantizamos un estricto control de calidad para cumplir con los estándares
+    internacionales en todas las aplicaciones.
+  question: ¿Cuál es el contenido típico de P₂O₅ en sus productos de STPP?
+- answer: Para exportación, nuestro STPP se empaca típicamente en bolsas tejidas de
+    PP de 25KG con forro interior de PE, diseñadas para proteger contra la humedad.
+    También están disponibles bolsas jumbo de 1000KG (1MT) para envíos mayores. Se
+    pueden organizar soluciones de embalaje personalizadas.
+  question: ¿Cómo se empaqueta el STPP para su envío internacional desde China?
+- answer: Nuestro STPP grado industrial es ampliamente utilizado como constructor
+    en detergentes, como emulsionante en alimentos y como secuestrante en el tratamiento
+    de aguas. Su versatilidad lo convierte en un químico clave.
+  question: ¿Cuáles son las principales aplicaciones de su STPP grado industrial?
+- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
+    Certificado de Análisis (COA) que detalla las especificaciones del producto y
+    una Hoja de Seguridad (MSDS) con pautas de seguridad y manejo. Estos documentos
+    están disponibles bajo solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Seguridad
+    (MSDS) para el STPP?
+- answer: El tiempo estándar de entrega para pedidos a granel de STPP es típicamente
+    de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del
+    pedido y el calendario de suministro actual. Nos esforzamos por una logística
+    eficiente y entregas puntuales desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos a granel de STPP desde su fábrica?
 featured: false
 hsCode: '2835319000'
 id: '5'
@@ -60,32 +48,29 @@ name: Trifosfato de Sodio (STPP)
 nameCn: 三聚磷酸钠
 packaging: 25KG/Bolsas Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Trifosfato de Sodio (STPP) de alta pureza para compra al por mayor y
-  exportación desde China. Esencial para detergentes, aditivos alimentarios y
-  aplicaciones industriales. Proveedor confiable con precios competitivos.
-slug: sodium-tripolyphosphate
+shortDescription: Trifosfato de Sodio (STPP) de alta pureza para compra al por mayor
+  y exportación desde China. Esencial para detergentes, aditivos alimentarios y aplicaciones
+  industriales. Proveedor confiable con precios competitivos.
+slug: trifosfato-de-sodio-stpp-industrial
 specs:
-  - label: Fórmula Química
-    value: Na₅P₃O₁₀
-  - label: Número CAS
-    value: 7758-29-4
-  - label: Código HS
-    value: '2835319000'
-  - label: Contenido de P₂O₅
-    value: ≥57%
-  - label: Apariencia
-    value: Polvo/granulado blanco
-  - label: Embalaje
-    value: >-
-      Bolsas tejidas PP de 25KG con forro de PE, bolsas Jumbo de 1000KG.
-      Embalaje personalizado disponible.
-  - label: Carga
-    value: 25MT por contenedor 20GP (FCL)
-  - label: Puertos Disponibles
-    value: 'Qingdao, Tianjin, Dalian (Principales puertos de China)'
+- label: Fórmula Química
+  value: Na₅P₃O₁₀
+- label: Número CAS
+  value: 7758-29-4
+- label: Código HS
+  value: '2835319000'
+- label: Contenido de P₂O₅
+  value: ≥57%
+- label: Apariencia
+  value: Polvo/granulado blanco
+- label: Embalaje
+  value: Bolsas tejidas PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje
+    personalizado disponible.
+- label: Carga
+  value: 25MT por contenedor 20GP (FCL)
+- label: Puertos Disponibles
+  value: Qingdao, Tianjin, Dalian (Principales puertos de China)
 ---
-
 ## Trifosfato de Sodio (CAS 7758-29-4): Su proveedor confiable de China para STPP de alta pureza
 
 Como un proveedor premier **de China de Trifosfato de Sodio (STPP)**, ofrecemos un producto de **alta pureza** con **contenido de P₂O₅ ≥57%** para **compra a granel** y **exportación** mundial. Nuestro STPP se suministra cumpliendo rigurosos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones en detergentes, alimentos e industrias (Código HS: 2835319000).

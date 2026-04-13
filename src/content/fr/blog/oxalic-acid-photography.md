@@ -1,23 +1,20 @@
 ---
 Id: SP-qgejftkici
 Origin_Slug: oxalic-acid-photography
-Slug: oxalic-acid-photography
-Excerpt: >-
-  Explorez le rôle historique de l'acide oxalique dans les processus
-  photographiques, des premières impressions au platine et au palladium à ses
-  applications modernes en virage et en gravure. Comprenez sa fonction chimique
-  et les considérations de sécurité.
+Slug: acide-oxalique-en-photographie-usage-historique-et-pertinence-moderne
+Excerpt: Explorez le rôle historique de l'acide oxalique dans les processus photographiques,
+  des premières impressions au platine et au palladium à ses applications modernes
+  en virage et en gravure. Comprenez sa fonction chimique et les considérations de
+  sécurité.
 title: 'Acide Oxalique en Photographie : Usage Historique et Pertinence Moderne'
-description: >-
-  Explorez le rôle historique de l'acide oxalique dans les processus
-  photographiques, des premières impressions au platine et au palladium à ses
-  applications modernes en virage et en gravure. Comprenez sa fonction chimique
-  et les considérations de sécurité.
+description: Explorez le rôle historique de l'acide oxalique dans les processus photographiques,
+  des premières impressions au platine et au palladium à ses applications modernes
+  en virage et en gravure. Comprenez sa fonction chimique et les considérations de
+  sécurité.
 image: /images/blog/oxalic-acid-photography.webp
-imageAlt: >-
-  Une scène de chambre noire photographique vintage, avec du vieux matériel
-  photographique, des bacs de développement et des tirages, transmettant à la
-  fois l'usage historique et la pertinence moderne en chimie photographique.
+imageAlt: Une scène de chambre noire photographique vintage, avec du vieux matériel
+  photographique, des bacs de développement et des tirages, transmettant à la fois
+  l'usage historique et la pertinence moderne en chimie photographique.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Applications Spécialisées
@@ -27,7 +24,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 ## Acide Oxalique en Photographie : Usage Historique et Pertinence Moderne
 
 La photographie, au fond, est un processus chimique. Des premiers daguerréotypes à l'imagerie numérique moderne, la chimie a joué un rôle indispensable dans la capture et la conservation des images. Parmi la myriade de produits chimiques utilisés, l'acide oxalique (C₂H₂O₄) occupe une place unique, en particulier dans les processus photographiques historiques et les applications modernes de niche. Ses propriétés en tant qu'agent réducteur, agent chélatant et acide l'ont rendu précieux à diverses étapes de la création et de la manipulation d'images.

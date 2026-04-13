@@ -1,25 +1,21 @@
 ---
 Id: SP-cu2x9leh56
 Origin_Slug: oxalic-acid-metal-pre-treatment
-Slug: oxalic-acid-metal-pre-treatment
-Excerpt: >-
-  Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
-  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la
-  adhesión de recubrimientos y la resistencia a la corrosión.
-title: >-
-  Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la
-  Adhesión y la Resistencia a la Corrosión
-description: >-
-  Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
-  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la
-  adhesión de recubrimientos y la resistencia a la corrosión.
+Slug: cido-ox-lico-en-el-pretratamiento-de-superficies-met-licas-mejorando-la-adhesi-n-y-la-resistencia-a-la-corrosi-n
+Excerpt: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
+  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión
+  de recubrimientos y la resistencia a la corrosión.
+title: 'Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la
+  Adhesión y la Resistencia a la Corrosión'
+description: Explora el papel crucial del ácido oxálico en el pretratamiento de superficies
+  metálicas, desde la limpieza y desengrasado hasta la pasivación, mejorando la adhesión
+  de recubrimientos y la resistencia a la corrosión.
 image: /images/blog/oxalic-acid-metal-pre-treatment.webp
-imageAlt: >-
-  Una imagen industrial profesional y limpia que muestra el pretratamiento de
-  superficies metálicas. Se observan piezas metálicas sometidas a procesos de
-  limpieza, desengrasado o baño químico. Se enfatiza la preparación de
-  superficies para el recubrimiento o pintado, con enfoque en precisión y
-  aplicación industrial. Alta calidad, resolución 4k.
+imageAlt: Una imagen industrial profesional y limpia que muestra el pretratamiento
+  de superficies metálicas. Se observan piezas metálicas sometidas a procesos de limpieza,
+  desengrasado o baño químico. Se enfatiza la preparación de superficies para el recubrimiento
+  o pintado, con enfoque en precisión y aplicación industrial. Alta calidad, resolución
+  4k.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Industriales
@@ -29,7 +25,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico en el Pretratamiento de Superficies Metálicas: Mejorando la Adhesión y la Resistencia a la Corrosión
 
 El pretratamiento de superficies metálicas es un paso crítico en diversos procesos industriales, incluyendo pintura, recubrimiento, galvanizado y unión. Su objetivo principal es preparar la superficie metálica para asegurar una adhesión óptima de las capas posteriores y mejorar la resistencia general del material a la corrosión. El **ácido oxálico** (H₂C₂O₄), un ácido orgánico versátil, juega un papel significativo en estas aplicaciones de pretratamiento debido a sus propiedades quelantes, reductoras y de acidez moderada [1].

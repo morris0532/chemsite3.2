@@ -1,15 +1,13 @@
 ---
 Id: SP-lklqj8jr6e
 Origin_Slug: chemical-shipping-logistics-china-guide
-Slug: chemical-shipping-logistica-china-guia
-Excerpt: >-
-  Navegue las complejidades del envío internacional de productos químicos desde
-  China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el
-  socio logístico adecuado.
+Slug: env-o-y-log-stica-de-productos-qu-micos-desde-china-lo-que-necesita-saber
+Excerpt: Navegue las complejidades del envío internacional de productos químicos desde
+  China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el socio
+  logístico adecuado.
 title: 'Envío y Logística de Productos Químicos desde China: Lo Que Necesita Saber'
-description: >-
-  Navegue las complejidades del envío internacional de productos químicos desde
-  China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el
+description: Navegue las complejidades del envío internacional de productos químicos
+  desde China. Conozca sobre regulaciones, requisitos de embalaje y cómo elegir el
   socio logístico adecuado.
 image: /images/blog/chemical-shipping-logistics-china-guide.webp
 imageAlt: Envío y logística internacional de productos químicos desde puerto en China
@@ -22,7 +20,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Navegando la Logística de Productos Químicos
 El envío internacional de productos químicos requiere conocimiento especializado y una planificación cuidadosa. Esto es lo que debe considerar al importar desde China.
 

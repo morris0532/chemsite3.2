@@ -1,25 +1,19 @@
 ---
 Id: SP-gmg7vcyfpr
 Origin_Slug: oxalic-acid-uses
-Slug: oxalic-acid-uses
-Excerpt: >-
-  Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille et du blanchiment du bois à l'extraction des
-  terres rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans
-  divers secteurs.
-title: >-
-  Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous
+Slug: les-15-principales-utilisations-industrielles-de-l-acide-oxalique-que-vous-devriez-conna-tre
+Excerpt: Explorez les diverses applications industrielles de l'acide oxalique, de
+  l'élimination de la rouille et du blanchiment du bois à l'extraction des terres
+  rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs.
+title: Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous
   Devriez Connaître
-description: >-
-  Explorez les diverses applications industrielles de l'acide oxalique, de
-  l'élimination de la rouille et du blanchiment du bois à l'extraction des
-  terres rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans
-  divers secteurs.
+description: Explorez les diverses applications industrielles de l'acide oxalique,
+  de l'élimination de la rouille et du blanchiment du bois à l'extraction des terres
+  rares et la synthèse pharmaceutique. Découvrez sa polyvalence dans divers secteurs.
 image: /images/blog/oxalic-acid-uses.webp
-imageAlt: >-
-  Diverses applications industrielles de l'acide oxalique, montrant divers
-  processus comme l'élimination de la rouille, le traitement du bois et la
-  synthèse chimique.
+imageAlt: Diverses applications industrielles de l'acide oxalique, montrant divers
+  processus comme l'élimination de la rouille, le traitement du bois et la synthèse
+  chimique.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
@@ -29,7 +23,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 ## Les 15 Principales Utilisations Industrielles de l'Acide Oxalique que Vous Devriez Connaître
 
 L'acide oxalique, chimiquement connu sous le nom d'acide éthanedioïque, est le plus simple des acides dicarboxyliques et l'un des acides organiques les plus polyvalents, largement utilisé dans de nombreuses industries. Ses propriétés chimiques uniques – y compris une forte acidité, une capacité de chélation et un pouvoir réducteur – le rendent indispensable dans des applications allant du traitement des métaux et de la teinture textile à l'extraction des terres rares et à la synthèse pharmaceutique.

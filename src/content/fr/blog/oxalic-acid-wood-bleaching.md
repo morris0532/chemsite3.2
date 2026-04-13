@@ -1,24 +1,19 @@
 ---
 Id: SP-3ig0dqk97w
 Origin_Slug: oxalic-acid-wood-bleaching
-Slug: oxalic-acid-wood-bleaching
-Excerpt: >-
-  Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
-  guide détaille son utilisation pour le blanchiment, l'élimination des taches
-  d'eau, des taches noires et des taches de tanin, avec des instructions étape
-  par étape et des conseils de sécurité.
-title: >-
-  Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide
-  Professionnel
-description: >-
-  Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
-  guide détaille son utilisation pour le blanchiment, l'élimination des taches
-  d'eau, des taches noires et des taches de tanin, avec des instructions étape
-  par étape et des conseils de sécurité.
+Slug: acide-oxalique-pour-le-blanchiment-et-le-nettoyage-du-bois-un-guide-professionnel
+Excerpt: Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique. Ce
+  guide détaille son utilisation pour le blanchiment, l'élimination des taches d'eau,
+  des taches noires et des taches de tanin, avec des instructions étape par étape
+  et des conseils de sécurité.
+title: 'Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel'
+description: Restaurez et rajeunissez les surfaces en bois avec de l'acide oxalique.
+  Ce guide détaille son utilisation pour le blanchiment, l'élimination des taches
+  d'eau, des taches noires et des taches de tanin, avec des instructions étape par
+  étape et des conseils de sécurité.
 image: /images/blog/oxalic-acid-wood-bleaching.webp
-imageAlt: >-
-  Une image divisée montrant une surface en bois avant et après traitement à
-  l'acide oxalique, démontrant un blanchiment et un nettoyage efficaces.
+imageAlt: Une image divisée montrant une surface en bois avant et après traitement
+  à l'acide oxalique, démontrant un blanchiment et un nettoyage efficaces.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Application Produit
@@ -28,7 +23,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 ## Acide Oxalique pour le Blanchiment et le Nettoyage du Bois : Un Guide Professionnel
 
 Le bois, matériau intemporel et polyvalent, peut souvent perdre de son éclat en raison de l'exposition à l'humidité, au soleil et aux taches à base de fer. Le grisonnement, les taches noires, les cernes d'eau et les taches de tanin sont des problèmes courants qui peuvent diminuer la beauté naturelle du bois. L'acide oxalique, un acide organique puissant mais doux, est une solution de choix pour les ébénistes et les restaurateurs professionnels afin de blanchir, nettoyer et rajeunir efficacement diverses surfaces en bois. Ce guide explore la science, l'application et les protocoles de sécurité pour l'utilisation de l'acide oxalique dans le traitement du bois.

@@ -3,65 +3,52 @@ Origin_Slug: calcium-chloride
 image: /images/products/calcium-chloride-cas-10043-52-4-sinopeakchem.webp
 category: Composés de chlorure
 applications:
-  - 'Agent de déglaçage (routes, trottoirs)'
-  - Fluides de forage pétrolier et gazier
-  - Contrôle de la poussière (routes non pavées)
-  - 'Additif alimentaire (agent de raffermissement, électrolyte)'
-  - Saumures de réfrigération
-  - Accélérateur de béton
-  - Déshydratant (agent de séchage)
+- Agent de déglaçage (routes, trottoirs)
+- Fluides de forage pétrolier et gazier
+- Contrôle de la poussière (routes non pavées)
+- Additif alimentaire (agent de raffermissement, électrolyte)
+- Saumures de réfrigération
+- Accélérateur de béton
+- Déshydratant (agent de séchage)
 cas: 10043-52-4 / 10035-04-8
 faqs:
-  - answer: >-
-      Nous sommes un fabricant et fournisseur leader en Chine de chlorure de
-      calcium, proposant des formes en écailles, en granulés et en poudre avec
-      des puretés allant de ≥74 % à ≥94 % (anhydre). Toutes les formes sont
-      disponibles pour l'achat en gros et l'exportation, répondant à divers
-      besoins industriels.
-    question: >-
-      Quelles formes de chlorure de calcium fournissez-vous pour les commandes
-      en gros ?
-  - answer: >-
-      Notre chlorure de calcium (CaCl₂) est disponible en diverses puretés,
-      notamment ≥74 % (dihydraté) et ≥94 % (anhydre). Nous assurons un contrôle
-      qualité strict pour répondre aux normes internationales pour toutes les
-      applications.
-    question: Quelle est la pureté typique de vos produits de chlorure de calcium ?
-  - answer: >-
-      Pour l'exportation, notre chlorure de calcium est généralement emballé
-      dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE,
-      conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT)
-      sont également disponibles pour les expéditions en vrac plus importantes.
-      Des solutions d'emballage personnalisées peuvent être organisées.
-    question: >-
-      Comment le chlorure de calcium est-il emballé pour l'expédition
-      internationale depuis la Chine ?
-  - answer: >-
-      Notre chlorure de calcium de qualité industrielle est largement utilisé
-      comme agent de déglaçage pour les routes, dans les fluides de forage
-      pétrolier et gazier, pour le contrôle de la poussière sur les routes non
-      pavées, comme additif alimentaire et comme déshydratant. Sa polyvalence en
-      fait un produit chimique clé.
-    question: >-
-      Quelles sont les principales applications de votre chlorure de calcium de
-      qualité industrielle ?
-  - answer: >-
-      Oui, nous fournissons une documentation complète pour chaque expédition, y
-      compris un certificat d'analyse (COA) détaillant les spécifications du
-      produit et une fiche de données de sécurité (MSDS) pour les directives de
-      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
-    question: >-
-      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-      de sécurité (MSDS) pour le chlorure de calcium ?
-  - answer: >-
-      Le délai de livraison standard pour les commandes de chlorure de calcium
-      en gros est généralement de 7 à 15 jours après la confirmation de la
-      commande, selon la taille de la commande et le calendrier de supply
-      actuel. Nous nous efforçons d'assurer une logistique efficace et une
-      livraison rapide depuis les principaux ports chinois.
-    question: >-
-      Quel est le délai de livraison pour les commandes de chlorure de calcium
-      en gros de votre usine ?
+- answer: Nous sommes un fabricant et fournisseur leader en Chine de chlorure de calcium,
+    proposant des formes en écailles, en granulés et en poudre avec des puretés allant
+    de ≥74 % à ≥94 % (anhydre). Toutes les formes sont disponibles pour l'achat en
+    gros et l'exportation, répondant à divers besoins industriels.
+  question: Quelles formes de chlorure de calcium fournissez-vous pour les commandes
+    en gros ?
+- answer: Notre chlorure de calcium (CaCl₂) est disponible en diverses puretés, notamment
+    ≥74 % (dihydraté) et ≥94 % (anhydre). Nous assurons un contrôle qualité strict
+    pour répondre aux normes internationales pour toutes les applications.
+  question: Quelle est la pureté typique de vos produits de chlorure de calcium ?
+- answer: Pour l'exportation, notre chlorure de calcium est généralement emballé dans
+    des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour
+    protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles
+    pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées
+    peuvent être organisées.
+  question: Comment le chlorure de calcium est-il emballé pour l'expédition internationale
+    depuis la Chine ?
+- answer: Notre chlorure de calcium de qualité industrielle est largement utilisé
+    comme agent de déglaçage pour les routes, dans les fluides de forage pétrolier
+    et gazier, pour le contrôle de la poussière sur les routes non pavées, comme additif
+    alimentaire et comme déshydratant. Sa polyvalence en fait un produit chimique
+    clé.
+  question: Quelles sont les principales applications de votre chlorure de calcium
+    de qualité industrielle ?
+- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
+    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
+    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
+    de manipulation. Ceux-ci sont disponibles sur demande.
+  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+    de sécurité (MSDS) pour le chlorure de calcium ?
+- answer: Le délai de livraison standard pour les commandes de chlorure de calcium
+    en gros est généralement de 7 à 15 jours après la confirmation de la commande,
+    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
+    d'assurer une logistique efficace et une livraison rapide depuis les principaux
+    ports chinois.
+  question: Quel est le délai de livraison pour les commandes de chlorure de calcium
+    en gros de votre usine ?
 featured: false
 hsCode: '2827200000'
 id: '4'
@@ -70,33 +57,30 @@ name: Chlorure de calcium
 nameCn: 氯化钙
 packaging: 25KG/Jumbo bags
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Chlorure de calcium (CaCl2) de haute pureté en écailles, granulés et poudre
-  pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour le
-  déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant
+shortDescription: Chlorure de calcium (CaCl2) de haute pureté en écailles, granulés
+  et poudre pour l'achat en gros et l'exportation depuis la Chine. Essentiel pour
+  le déglaçage, le pétrole et le gaz, et les applications alimentaires. Fabricant
   de confiance avec des prix compétitifs.
-slug: chlorure-de-calcium
+slug: chlorure-de-calcium-industrial
 specs:
-  - label: Formule chimique
-    value: CaCl₂
-  - label: Numéro CAS
-    value: 10043-52-4 / 10035-04-8
-  - label: Code SH
-    value: '2827200000'
-  - label: Pureté
-    value: ≥74 % / ≥94 % (Anhydre)
-  - label: Apparence
-    value: 'Écailles, granulés ou poudre blancs'
-  - label: Emballage
-    value: >-
-      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
-      Emballage personnalisé disponible.
-  - label: Chargement
-    value: 25-27 MT par conteneur 20GP (FCL)
-  - label: Ports disponibles
-    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
+- label: Formule chimique
+  value: CaCl₂
+- label: Numéro CAS
+  value: 10043-52-4 / 10035-04-8
+- label: Code SH
+  value: '2827200000'
+- label: Pureté
+  value: ≥74 % / ≥94 % (Anhydre)
+- label: Apparence
+  value: Écailles, granulés ou poudre blancs
+- label: Emballage
+  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
+    personnalisé disponible.
+- label: Chargement
+  value: 25-27 MT par conteneur 20GP (FCL)
+- label: Ports disponibles
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
-
 ## Chlorure de calcium (CAS 10043-52-4) : Votre fabricant et fournisseur de confiance en Chine pour le CaCl₂ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure de calcium (CaCl₂)**, nous proposons des **écailles, des granulés et de la poudre de haute pureté** avec une **pureté de ≥74 % à ≥94 % (anhydre)** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure de calcium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles, alimentaires et environnementales (Code SH : 2827200000).

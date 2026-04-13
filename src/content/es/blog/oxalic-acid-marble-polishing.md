@@ -1,22 +1,17 @@
 ---
 Id: SP-9q9zjwo3yn
 Origin_Slug: oxalic-acid-marble-polishing
-Slug: oxalic-acid-marble-polishing
-Excerpt: >-
-  Descubra las técnicas profesionales para usar ácido oxálico en el pulido de
-  mármol y el cuidado de diversas superficies de piedra. Conozca su acción
-  química, métodos de aplicación, precauciones de seguridad y cómo lograr un
-  brillo brillante.
+Slug: cido-ox-lico-para-pulido-de-m-rmol-y-cuidado-de-piedras-mejores-pr-cticas
+Excerpt: Descubra las técnicas profesionales para usar ácido oxálico en el pulido
+  de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química,
+  métodos de aplicación, precauciones de seguridad y cómo lograr un brillo brillante.
 title: 'Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas'
-description: >-
-  Descubra las técnicas profesionales para usar ácido oxálico en el pulido de
-  mármol y el cuidado de diversas superficies de piedra. Conozca su acción
-  química, métodos de aplicación, precauciones de seguridad y cómo lograr un
-  brillo brillante.
+description: Descubra las técnicas profesionales para usar ácido oxálico en el pulido
+  de mármol y el cuidado de diversas superficies de piedra. Conozca su acción química,
+  métodos de aplicación, precauciones de seguridad y cómo lograr un brillo brillante.
 image: /images/blog/oxalic-acid-marble-polishing.webp
-imageAlt: >-
-  Un primer plano de una superficie de mármol altamente pulida, reflejando la
-  luz, con una sutil indicación del proceso de pulido.
+imageAlt: Un primer plano de una superficie de mármol altamente pulida, reflejando
+  la luz, con una sutil indicación del proceso de pulido.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicación de Producto
@@ -26,7 +21,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras: Mejores Prácticas
 
 Las superficies de mármol y otras piedras naturales son apreciadas por su elegancia y durabilidad, pero pueden perder su brillo con el tiempo debido a grabados, rayaduras y desgaste general. El ácido oxálico, un compuesto orgánico versátil, desempeña un papel crucial en el cuidado profesional de la piedra, especialmente en el pulido del mármol para restaurar su brillo brillante. Esta guía explora los principios químicos, técnicas de aplicación y mejores prácticas para usar ácido oxálico en el pulido de mármol y el mantenimiento general de piedras.

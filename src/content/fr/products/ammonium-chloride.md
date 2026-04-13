@@ -3,62 +3,51 @@ Origin_Slug: ammonium-chloride
 image: /images/products/ammonium-chloride-cas-12125-02-9-sinopeakchem.webp
 category: Composés de chlorure
 applications:
-  - Engrais (source d'azote pour les cultures)
-  - 'Additif alimentaire (ruminants, volaille)'
-  - Piles sèches
-  - Travail des métaux (flux pour le soudage)
-  - Industrie textile et du cuir
-  - Intermédiaires pharmaceutiques
-  - Additif alimentaire (E510)
+- Engrais (source d'azote pour les cultures)
+- Additif alimentaire (ruminants, volaille)
+- Piles sèches
+- Travail des métaux (flux pour le soudage)
+- Industrie textile et du cuir
+- Intermédiaires pharmaceutiques
+- Additif alimentaire (E510)
 cas: 12125-02-9
 faqs:
-  - answer: >-
-      Nous sommes un fabricant et fournisseur leader en Chine de chlorure
-      d'ammonium, proposant une qualité industrielle (pureté ≥99,5 %) et une
-      qualité alimentaire. Les deux sont disponibles pour l'achat en gros et
-      l'exportation, répondant à diverses exigences industrielles et agricoles.
-    question: >-
-      Quelles qualités de chlorure d'ammonium fournissez-vous pour les commandes
-      en gros ?
-  - answer: >-
-      Notre chlorure d'ammonium (NH₄Cl) est disponible avec une pureté minimale
-      de 99,5 % pour les applications industrielles. Nous assurons un contrôle
-      qualité strict pour répondre aux normes internationales.
-    question: Quelle est la pureté typique de vos produits de chlorure d'ammonium ?
-  - answer: >-
-      Pour l'exportation, notre chlorure d'ammonium est généralement emballé
-      dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE,
-      conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT)
-      sont également disponibles pour les expéditions en vrac plus importantes.
-      Des solutions d'emballage personnalisées peuvent être organisées.
-    question: >-
-      Comment le chlorure d'ammonium est-il emballé pour l'expédition
-      internationale depuis la Chine ?
-  - answer: >-
-      Notre chlorure d'ammonium de qualité industrielle est largement utilisé
-      comme engrais azoté, additif alimentaire pour le bétail, dans les piles
-      sèches, comme flux dans le travail des métaux, et dans les industries du
-      textile et du cuir. Sa polyvalence en fait un produit chimique clé.
-    question: >-
-      Quelles sont les principales applications de votre chlorure d'ammonium de
-      qualité industrielle ?
-  - answer: >-
-      Oui, nous fournissons une documentation complète pour chaque expédition, y
-      compris un certificat d'analyse (COA) détaillant les spécifications du
-      produit et une fiche de données de sécurité (MSDS) pour les directives de
-      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
-    question: >-
-      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-      de sécurité (MSDS) pour le chlorure d'ammonium ?
-  - answer: >-
-      Le délai de livraison standard pour les commandes de chlorure d'ammonium
-      en gros est généralement de 7 à 15 jours après la confirmation de la
-      commande, selon la taille de la commande et le calendrier de supply
-      actuel. Nous nous efforçons d'assurer une logistique efficace et une
-      livraison rapide depuis les principaux ports chinois.
-    question: >-
-      Quel est le délai de livraison pour les commandes de chlorure d'ammonium
-      en gros de votre usine ?
+- answer: Nous sommes un fabricant et fournisseur leader en Chine de chlorure d'ammonium,
+    proposant une qualité industrielle (pureté ≥99,5 %) et une qualité alimentaire.
+    Les deux sont disponibles pour l'achat en gros et l'exportation, répondant à diverses
+    exigences industrielles et agricoles.
+  question: Quelles qualités de chlorure d'ammonium fournissez-vous pour les commandes
+    en gros ?
+- answer: Notre chlorure d'ammonium (NH₄Cl) est disponible avec une pureté minimale
+    de 99,5 % pour les applications industrielles. Nous assurons un contrôle qualité
+    strict pour répondre aux normes internationales.
+  question: Quelle est la pureté typique de vos produits de chlorure d'ammonium ?
+- answer: Pour l'exportation, notre chlorure d'ammonium est généralement emballé dans
+    des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour
+    protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles
+    pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées
+    peuvent être organisées.
+  question: Comment le chlorure d'ammonium est-il emballé pour l'expédition internationale
+    depuis la Chine ?
+- answer: Notre chlorure d'ammonium de qualité industrielle est largement utilisé
+    comme engrais azoté, additif alimentaire pour le bétail, dans les piles sèches,
+    comme flux dans le travail des métaux, et dans les industries du textile et du
+    cuir. Sa polyvalence en fait un produit chimique clé.
+  question: Quelles sont les principales applications de votre chlorure d'ammonium
+    de qualité industrielle ?
+- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
+    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
+    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
+    de manipulation. Ceux-ci sont disponibles sur demande.
+  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+    de sécurité (MSDS) pour le chlorure d'ammonium ?
+- answer: Le délai de livraison standard pour les commandes de chlorure d'ammonium
+    en gros est généralement de 7 à 15 jours après la confirmation de la commande,
+    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
+    d'assurer une logistique efficace et une livraison rapide depuis les principaux
+    ports chinois.
+  question: Quel est le délai de livraison pour les commandes de chlorure d'ammonium
+    en gros de votre usine ?
 featured: false
 hsCode: '2827101000'
 id: '18'
@@ -67,33 +56,29 @@ name: Chlorure d'ammonium
 nameCn: 氯化铵
 packaging: 25KG/Jumbo bags
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros et
-  l'exportation depuis la Chine. Essentiel pour les engrais, les additifs
-  alimentaires et les applications industrielles. Fabricant de confiance avec
-  des prix compétitifs.
-slug: chlorure-dammonium
+shortDescription: Chlorure d'ammonium (NH4Cl) de haute qualité pour l'achat en gros
+  et l'exportation depuis la Chine. Essentiel pour les engrais, les additifs alimentaires
+  et les applications industrielles. Fabricant de confiance avec des prix compétitifs.
+slug: chlorure-d-ammonium-industrial
 specs:
-  - label: Formule chimique
-    value: NH₄Cl
-  - label: Numéro CAS
-    value: 12125-02-9
-  - label: Code SH
-    value: '2827101000'
-  - label: Pureté
-    value: '≥99,5 % (Qualité industrielle)'
-  - label: Apparence
-    value: Poudre cristalline blanche
-  - label: Emballage
-    value: >-
-      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
-      Emballage personnalisé disponible.
-  - label: Chargement
-    value: 25-27 MT par conteneur 20GP (FCL)
-  - label: Ports disponibles
-    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
+- label: Formule chimique
+  value: NH₄Cl
+- label: Numéro CAS
+  value: 12125-02-9
+- label: Code SH
+  value: '2827101000'
+- label: Pureté
+  value: ≥99,5 % (Qualité industrielle)
+- label: Apparence
+  value: Poudre cristalline blanche
+- label: Emballage
+  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
+    personnalisé disponible.
+- label: Chargement
+  value: 25-27 MT par conteneur 20GP (FCL)
+- label: Ports disponibles
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
-
 ## Chlorure d'ammonium (CAS 12125-02-9) : Votre fabricant et fournisseur de confiance en Chine pour le NH₄Cl de haute qualité
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **chlorure d'ammonium (NH₄Cl)**, nous proposons un produit de **haute qualité** avec une **pureté ≥99,5 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre chlorure d'ammonium est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui le rend idéal pour une large gamme d'applications industrielles, agricoles et alimentaires (Code SH : 2827101000).

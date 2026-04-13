@@ -1,23 +1,18 @@
 ---
 Id: SP-od1j418aun
 Origin_Slug: oxalic-acid-rare-earth-extraction
-Slug: oxalic-acid-rare-earth-extraction
-Excerpt: >-
-  Explore el papel crítico del ácido oxálico en la extracción, separación y
-  purificación de elementos de tierras raras. Conozca sus principios químicos y
-  su importancia en industrias de alta tecnología como electrónica, energía
-  verde y defensa.
-title: >-
-  Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la
-  Industria Moderna
-description: >-
-  Explore el papel crítico del ácido oxálico en la extracción, separación y
-  purificación de elementos de tierras raras. Conozca sus principios químicos y
-  su importancia en industrias de alta tecnología como electrónica, energía
-  verde y defensa.
+Slug: cido-ox-lico-para-la-extracci-n-de-tierras-raras-un-qu-mico-clave-en-la-industria-moderna
+Excerpt: Explore el papel crítico del ácido oxálico en la extracción, separación y
+  purificación de elementos de tierras raras. Conozca sus principios químicos y su
+  importancia en industrias de alta tecnología como electrónica, energía verde y defensa.
+title: 'Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la
+  Industria Moderna'
+description: Explore el papel crítico del ácido oxálico en la extracción, separación
+  y purificación de elementos de tierras raras. Conozca sus principios químicos y
+  su importancia en industrias de alta tecnología como electrónica, energía verde
+  y defensa.
 image: /images/blog/oxalic-acid-rare-earth-extraction.webp
-imageAlt: >-
-  Un laboratorio sofisticado enfocado en la extracción de elementos de tierras
+imageAlt: Un laboratorio sofisticado enfocado en la extracción de elementos de tierras
   raras, con equipos especializados y soluciones coloridas.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
@@ -28,7 +23,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico para la Extracción de Tierras Raras: Un Químico Clave en la Industria Moderna
 
 Los elementos de tierras raras (REE) son un grupo de 17 elementos metálicos químicamente similares, cruciales para numerosas aplicaciones de alta tecnología, incluyendo teléfonos inteligentes, vehículos eléctricos, turbinas eólicas y sistemas de defensa. Sus propiedades únicas magnéticas, luminiscentes y electroquímicas los hacen indispensables. Sin embargo, la extracción y separación de estos elementos de sus minerales es un proceso complejo y desafiante. El ácido oxálico juega un papel fundamental en este proceso intrincado, especialmente en las etapas de precipitación y purificación durante la extracción de tierras raras.

@@ -1,28 +1,23 @@
 ---
 Id: SP-87cio3w8b5
 Origin_Slug: oxalic-acid-dilution-guide
-Slug: oxalic-acid-dilution-guia
-Excerpt: >-
-  Una guía completa para diluir el ácido oxálico de forma segura, incluyendo
-  precauciones de seguridad esenciales, procedimientos paso a paso para la
-  dilución y métodos de cálculo de concentración para diversas aplicaciones.
-  Garantice un uso seguro y efectivo.
-title: >-
-  Cómo Diluir el Ácido Oxálico de Forma Segura: Cálculo de Concentración y Guía
-  de Manejo
-description: >-
-  Una guía completa para diluir el ácido oxálico de forma segura, incluyendo
-  precauciones de seguridad esenciales, procedimientos paso a paso para la
-  dilución y métodos de cálculo de concentración para diversas aplicaciones.
-  Garantice un uso seguro y efectivo.
+Slug: c-mo-diluir-el-cido-ox-lico-de-forma-segura-c-lculo-de-concentraci-n-y-gu-a-de-manejo
+Excerpt: Una guía completa para diluir el ácido oxálico de forma segura, incluyendo
+  precauciones de seguridad esenciales, procedimientos paso a paso para la dilución
+  y métodos de cálculo de concentración para diversas aplicaciones. Garantice un uso
+  seguro y efectivo.
+title: 'Cómo Diluir el Ácido Oxálico de Forma Segura: Cálculo de Concentración y Guía
+  de Manejo'
+description: Una guía completa para diluir el ácido oxálico de forma segura, incluyendo
+  precauciones de seguridad esenciales, procedimientos paso a paso para la dilución
+  y métodos de cálculo de concentración para diversas aplicaciones. Garantice un uso
+  seguro y efectivo.
 image: /images/blog/oxalic-acid-dilution-guide.webp
-imageAlt: >-
-  Una imagen profesional y clara que muestra la dilución segura del ácido
-  oxálico. Una persona usando el equipo de protección personal adecuado
-  (guantes, gafas de seguridad) vertiendo cuidadosamente una solución
-  concentrada en agua, con material de laboratorio (vasos de precipitados,
-  matraces aforados) y una calculadora o fórmula de concentración visible en el
-  fondo. Se enfatiza la seguridad y la precisión.
+imageAlt: Una imagen profesional y clara que muestra la dilución segura del ácido
+  oxálico. Una persona usando el equipo de protección personal adecuado (guantes,
+  gafas de seguridad) vertiendo cuidadosamente una solución concentrada en agua, con
+  material de laboratorio (vasos de precipitados, matraces aforados) y una calculadora
+  o fórmula de concentración visible en el fondo. Se enfatiza la seguridad y la precisión.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Seguridad y Manejo
@@ -32,7 +27,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Cómo Diluir el Ácido Oxálico de Forma Segura: Cálculo de Concentración y Guía de Manejo
 
 El ácido oxálico es un potente ácido orgánico ampliamente utilizado en diversas aplicaciones industriales y domésticas, incluyendo la eliminación de óxido, blanqueo de madera y limpieza de metales. Aunque es altamente efectivo, también es corrosivo y puede ser tóxico si se maneja incorrectamente. La dilución adecuada es crucial no solo para lograr los resultados deseados, sino, más importante, para garantizar la seguridad y evitar daños en las superficies. Esta guía proporciona precauciones de seguridad esenciales, procedimientos paso a paso para la dilución y métodos de cálculo de concentración para trabajar de forma segura con ácido oxálico.

@@ -3,59 +3,48 @@ Origin_Slug: polyaluminum-chloride
 image: /images/products/polyaluminum-chloride-pac-cas-1327-41-9-sinopeakchem.webp
 category: Tratamiento de Agua
 applications:
-  - 'Tratamiento de agua potable (coagulante, floculante)'
-  - 'Tratamiento de aguas residuales industriales (textil, papel, minería)'
-  - Tratamiento de aguas residuales municipales
-  - Deshidratación de lodos
-  - Separación agua-aceite
-  - Refinación de azúcar
+- Tratamiento de agua potable (coagulante, floculante)
+- Tratamiento de aguas residuales industriales (textil, papel, minería)
+- Tratamiento de aguas residuales municipales
+- Deshidratación de lodos
+- Separación agua-aceite
+- Refinación de azúcar
 cas: 1327-41-9
 faqs:
-  - answer: >-
-      Somos un proveedor líder de China de Cloruro de Polialuminio, ofreciendo
-      grado industrial con contenido de Al₂O₃ de ≥28% y ≥30%. Está disponible
-      para compra al por mayor y exportación, ideal para diversas aplicaciones
-      de tratamiento de agua.
-    question: >-
-      ¿Qué grados de Cloruro de Polialuminio (PAC) suministran para pedidos al
-      por mayor?
-  - answer: >-
-      Nuestro Cloruro de Polialuminio (PAC) está disponible con contenido de
-      Al₂O₃ de ≥28% y ≥30%, garantizando alta eficiencia en los procesos de
-      coagulación y floculación. Mantenemos un control de calidad estricto para
-      cumplir con los estándares internacionales.
-    question: ¿Cuál es el contenido típico de Al₂O₃ en sus productos PAC?
-  - answer: >-
-      Para la exportación, nuestro PAC se empaca típicamente en bolsas tejidas
-      de PP de 25KG con forros internos de PE, diseñadas para proteger contra la
-      humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para
-      envíos a granel más grandes. Se pueden organizar soluciones de embalaje
-      personalizadas.
-    question: ¿Cómo se embala el PAC para el envío internacional desde China?
-  - answer: >-
-      Nuestro PAC grado industrial se usa ampliamente en el tratamiento de agua
-      potable, tratamiento de aguas residuales industriales (textil, papel,
-      minería), tratamiento de aguas residuales municipales y deshidratación de
-      lodos. Su alta eficiencia para eliminar sólidos suspendidos y coloides lo
-      convierte en una opción preferida.
-    question: ¿Cuáles son las principales aplicaciones de su PAC grado industrial?
-  - answer: >-
-      Sí, proporcionamos documentación completa para cada envío, incluyendo un
-      Certificado de Análisis (COA) con las especificaciones del producto y una
-      Hoja de Seguridad (MSDS) con pautas para seguridad y manejo. Estos están
-      disponibles bajo solicitud.
-    question: >-
-      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de
-      Seguridad (MSDS) para el PAC?
-  - answer: >-
-      El tiempo estándar de entrega para pedidos al por mayor de PAC suele ser
-      de 7 a 15 días después de la confirmación del pedido, dependiendo del
-      tamaño del pedido y la programación de suministro actual. Nos esforzamos
-      por una logística eficiente y entregas puntuales desde los principales
-      puertos chinos.
-    question: >-
-      ¿Cuál es el tiempo de entrega para pedidos al por mayor de PAC desde su
-      fábrica?
+- answer: Somos un proveedor líder de China de Cloruro de Polialuminio, ofreciendo
+    grado industrial con contenido de Al₂O₃ de ≥28% y ≥30%. Está disponible para compra
+    al por mayor y exportación, ideal para diversas aplicaciones de tratamiento de
+    agua.
+  question: ¿Qué grados de Cloruro de Polialuminio (PAC) suministran para pedidos
+    al por mayor?
+- answer: Nuestro Cloruro de Polialuminio (PAC) está disponible con contenido de Al₂O₃
+    de ≥28% y ≥30%, garantizando alta eficiencia en los procesos de coagulación y
+    floculación. Mantenemos un control de calidad estricto para cumplir con los estándares
+    internacionales.
+  question: ¿Cuál es el contenido típico de Al₂O₃ en sus productos PAC?
+- answer: Para la exportación, nuestro PAC se empaca típicamente en bolsas tejidas
+    de PP de 25KG con forros internos de PE, diseñadas para proteger contra la humedad.
+    También están disponibles bolsas jumbo de 1000KG (1MT) para envíos a granel más
+    grandes. Se pueden organizar soluciones de embalaje personalizadas.
+  question: ¿Cómo se embala el PAC para el envío internacional desde China?
+- answer: Nuestro PAC grado industrial se usa ampliamente en el tratamiento de agua
+    potable, tratamiento de aguas residuales industriales (textil, papel, minería),
+    tratamiento de aguas residuales municipales y deshidratación de lodos. Su alta
+    eficiencia para eliminar sólidos suspendidos y coloides lo convierte en una opción
+    preferida.
+  question: ¿Cuáles son las principales aplicaciones de su PAC grado industrial?
+- answer: Sí, proporcionamos documentación completa para cada envío, incluyendo un
+    Certificado de Análisis (COA) con las especificaciones del producto y una Hoja
+    de Seguridad (MSDS) con pautas para seguridad y manejo. Estos están disponibles
+    bajo solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Seguridad
+    (MSDS) para el PAC?
+- answer: El tiempo estándar de entrega para pedidos al por mayor de PAC suele ser
+    de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del
+    pedido y la programación de suministro actual. Nos esforzamos por una logística
+    eficiente y entregas puntuales desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de PAC desde su
+    fábrica?
 featured: false
 hsCode: '2827320000'
 id: '19'
@@ -64,33 +53,29 @@ name: Cloruro de Polialuminio (PAC)
 nameCn: 聚合氯化铝
 packaging: 25KG/Bolsas jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Cloruro de Polialuminio (PAC) de alta eficiencia para compra al por mayor y
-  exportación desde China. Esencial para tratamiento de agua, purificación de
-  aguas residuales y floculación industrial. Proveedor confiable con precios
-  competitivos.
-slug: polyaluminum-chloride
+shortDescription: Cloruro de Polialuminio (PAC) de alta eficiencia para compra al
+  por mayor y exportación desde China. Esencial para tratamiento de agua, purificación
+  de aguas residuales y floculación industrial. Proveedor confiable con precios competitivos.
+slug: cloruro-de-polialuminio-pac-industrial
 specs:
-  - label: Fórmula Química
-    value: '[Al₂(OH)nCl₆-n]m'
-  - label: Número CAS
-    value: 1327-41-9
-  - label: Código HS
-    value: '2827320000'
-  - label: Contenido de Al₂O₃
-    value: ≥28% / ≥30% (Grado Industrial)
-  - label: Apariencia
-    value: Polvo amarillento
-  - label: Embalaje
-    value: >-
-      Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG.
-      Embalaje personalizado disponible.
-  - label: Carga
-    value: 20-22MT por contenedor 20GP (FCL)
-  - label: Puertos Disponibles
-    value: 'Qingdao, Tianjin, Dalian (Principales Puertos de China)'
+- label: Fórmula Química
+  value: '[Al₂(OH)nCl₆-n]m'
+- label: Número CAS
+  value: 1327-41-9
+- label: Código HS
+  value: '2827320000'
+- label: Contenido de Al₂O₃
+  value: ≥28% / ≥30% (Grado Industrial)
+- label: Apariencia
+  value: Polvo amarillento
+- label: Embalaje
+  value: Bolsas tejidas de PP de 25KG con forro de PE, bolsas Jumbo de 1000KG. Embalaje
+    personalizado disponible.
+- label: Carga
+  value: 20-22MT por contenedor 20GP (FCL)
+- label: Puertos Disponibles
+  value: Qingdao, Tianjin, Dalian (Principales Puertos de China)
 ---
-
 ## Cloruro de Polialuminio (CAS 1327-41-9): Su proveedor confiable en China para PAC de alta eficiencia
 
 Como proveedor líder de **Cloruro de Polialuminio (PAC)** en **China**, ofrecemos un producto de **alta eficiencia** con **contenido de Al₂O₃ ≥28% y ≥30%** para **compra al por mayor** y **exportación** a nivel mundial. Nuestro PAC cumple con estrictos estándares internacionales de calidad, siendo un coagulante y floculante esencial en una amplia gama de aplicaciones de tratamiento de agua (Código HS: 2827320000).

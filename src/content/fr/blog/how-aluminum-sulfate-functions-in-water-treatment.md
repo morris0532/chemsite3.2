@@ -1,14 +1,12 @@
 ---
 Id: SP-00v89vrkka
 Origin_Slug: how-aluminum-sulfate-functions-in-water-treatment
-Slug: how-aluminum-sulfate-functions-in-water-treatment
-Excerpt: >-
-  Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
+Slug: comment-le-sulfate-d-aluminium-fonctionne-dans-le-traitement-de-l-eau
+Excerpt: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
   l'eau, de l'eau potable au traitement des eaux usées industrielles.
 title: Comment le sulfate d'aluminium fonctionne dans le traitement de l'eau
-description: >-
-  Découvrez le rôle essentiel du sulfate d'aluminium dans la purification de
-  l'eau, de l'eau potable au traitement des eaux usées industrielles.
+description: Découvrez le rôle essentiel du sulfate d'aluminium dans la purification
+  de l'eau, de l'eau potable au traitement des eaux usées industrielles.
 image: /images/blog/how-aluminum-sulfate-functions-in-water-treatment.webp
 imageAlt: Aluminum Sulfate used in water treatment process
 Date: '2026-04-10'
@@ -20,7 +18,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Francophone Africa & EU (FR)
 ---
-
 # Le rôle essentiel du sulfate d'aluminium dans le traitement moderne de l'eau
 
 Le **[sulfate d'aluminium](https://www.sinopeakchem.com/fr/products/aluminum-sulfate)**, de formule chimique Al₂(SO₄)₃ et de masse moléculaire 342,15, est un composé inorganique largement reconnu, se présentant sous forme de solide cristallin blanc. En tant qu'agent chimique critique, sa fonction principale dans le traitement de l'eau implique la génération de particules colloïdales par des réactions d'hydrolyse. Ces particules adsorbent et précipitent efficacement les solides en suspension, les colloïdes et diverses impuretés dissoutes, conduisant à une purification complète de l'eau. Ses applications sont diverses, couvrant le traitement de l'eau potable, la gestion des eaux usées industrielles, la préparation d'agents d'encollage à la colophane dans l'industrie papetière et la décoloration du pétrole.

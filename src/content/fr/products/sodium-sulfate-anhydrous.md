@@ -3,64 +3,50 @@ Origin_Slug: sodium-sulfate-anhydrous
 image: /images/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6-sinopeakchem.webp
 category: Sulfates
 applications:
-  - 'Fabrication de détergents et de savons (charge, adjuvant)'
-  - Teinture et impression textile (agent d'égalisation)
-  - Fabrication du verre (agent d'affinage)
-  - Industrie des pâtes et papiers (procédé Kraft)
-  - Synthèse chimique
-  - Additif pour l'alimentation animale
+- Fabrication de détergents et de savons (charge, adjuvant)
+- Teinture et impression textile (agent d'égalisation)
+- Fabrication du verre (agent d'affinage)
+- Industrie des pâtes et papiers (procédé Kraft)
+- Synthèse chimique
+- Additif pour l'alimentation animale
 cas: 7757-82-6
 faqs:
-  - answer: >-
-      Nous sommes un fabricant et fournisseur leader de sulfate de sodium
-      anhydre en Chine, proposant une qualité industrielle avec une pureté ≥99%.
-      Il est disponible pour l'achat en gros et l'exportation, idéal pour
-      diverses applications industrielles.
-    question: >-
-      Quelles qualités de sulfate de sodium anhydre fournissez-vous pour les
-      commandes en gros ?
-  - answer: >-
-      Notre sulfate de sodium anhydre (Na₂SO₄) est disponible avec une pureté
-      minimale de 99%. Nous assurons un contrôle qualité strict pour répondre
-      aux normes internationales pour toutes les applications.
-    question: >-
-      Quelle est la pureté typique de vos produits de sulfate de sodium anhydre
-      ?
-  - answer: >-
-      Pour l'exportation, notre sulfate de sodium anhydre est généralement
-      emballé dans des sacs tissés en PP de 25 kg avec des doublures intérieures
-      en PE, conçus pour protéger contre l'humidité. Des sacs jumbo de 1000 kg
-      (1 MT) sont également disponibles pour les expéditions en vrac plus
-      importantes. Des solutions d'emballage personnalisées peuvent être
-      organisées.
-    question: >-
-      Comment le sulfate de sodium anhydre est-il emballé pour l'expédition
-      internationale depuis la Chine ?
-  - answer: >-
-      Notre sulfate de sodium anhydre de qualité industrielle est largement
-      utilisé dans la fabrication de détergents comme charge, dans la teinture
-      textile comme agent d'égalisation et dans la fabrication du verre comme
-      agent d'affinage. Sa polyvalence en fait un produit chimique clé.
-    question: >-
-      Quelles sont les principales applications de votre sulfate de sodium
-      anhydre de qualité industrielle ?
-  - answer: >-
-      Oui, nous fournissons une documentation complète pour chaque expédition, y
-      compris un certificat d'analyse (COA) détaillant les spécifications du
-      produit et une fiche de données de sécurité (MSDS) pour les directives de
-      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
-    question: >-
-      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-      de sécurité (MSDS) pour le sulfate de sodium anhydre ?
-  - answer: >-
-      Le délai de livraison standard pour les commandes en gros de sulfate de
-      sodium anhydre est généralement de 7 à 15 jours après la confirmation de
-      la commande, selon la taille de la commande et le calendrier de supply
-      actuel. Nous nous efforçons d'assurer une logistique efficace et une
-      livraison rapide depuis les principaux ports chinois.
-    question: >-
-      Quel est le délai de livraison pour les commandes en gros de sulfate de
-      sodium anhydre de votre usine ?
+- answer: Nous sommes un fabricant et fournisseur leader de sulfate de sodium anhydre
+    en Chine, proposant une qualité industrielle avec une pureté ≥99%. Il est disponible
+    pour l'achat en gros et l'exportation, idéal pour diverses applications industrielles.
+  question: Quelles qualités de sulfate de sodium anhydre fournissez-vous pour les
+    commandes en gros ?
+- answer: Notre sulfate de sodium anhydre (Na₂SO₄) est disponible avec une pureté
+    minimale de 99%. Nous assurons un contrôle qualité strict pour répondre aux normes
+    internationales pour toutes les applications.
+  question: Quelle est la pureté typique de vos produits de sulfate de sodium anhydre
+    ?
+- answer: Pour l'exportation, notre sulfate de sodium anhydre est généralement emballé
+    dans des sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus
+    pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également
+    disponibles pour les expéditions en vrac plus importantes. Des solutions d'emballage
+    personnalisées peuvent être organisées.
+  question: Comment le sulfate de sodium anhydre est-il emballé pour l'expédition
+    internationale depuis la Chine ?
+- answer: Notre sulfate de sodium anhydre de qualité industrielle est largement utilisé
+    dans la fabrication de détergents comme charge, dans la teinture textile comme
+    agent d'égalisation et dans la fabrication du verre comme agent d'affinage. Sa
+    polyvalence en fait un produit chimique clé.
+  question: Quelles sont les principales applications de votre sulfate de sodium anhydre
+    de qualité industrielle ?
+- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
+    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
+    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
+    de manipulation. Ceux-ci sont disponibles sur demande.
+  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+    de sécurité (MSDS) pour le sulfate de sodium anhydre ?
+- answer: Le délai de livraison standard pour les commandes en gros de sulfate de
+    sodium anhydre est généralement de 7 à 15 jours après la confirmation de la commande,
+    selon la taille de la commande et le calendrier de supply actuel. Nous nous efforçons
+    d'assurer une logistique efficace et une livraison rapide depuis les principaux
+    ports chinois.
+  question: Quel est le délai de livraison pour les commandes en gros de sulfate de
+    sodium anhydre de votre usine ?
 featured: true
 hsCode: '2833110000'
 id: '6'
@@ -69,32 +55,29 @@ name: Sulfate de sodium anhydre (SSA)
 nameCn: 元明粉
 packaging: Sacs de 25KG/Jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Sulfate de sodium anhydre (Na2SO4) de haute pureté pour l'achat en gros et
-  l'exportation depuis la Chine. Essentiel pour la fabrication de détergents, de
-  textiles et de verre. Fabricant de confiance avec des prix compétitifs.
-slug: sodium-sulfate-anhydrous
+shortDescription: Sulfate de sodium anhydre (Na2SO4) de haute pureté pour l'achat
+  en gros et l'exportation depuis la Chine. Essentiel pour la fabrication de détergents,
+  de textiles et de verre. Fabricant de confiance avec des prix compétitifs.
+slug: sulfate-de-sodium-anhydre-ssa-industrial
 specs:
-  - label: Formule chimique
-    value: Na₂SO₄
-  - label: Numéro CAS
-    value: 7757-82-6
-  - label: Code SH
-    value: '2833110000'
-  - label: Pureté
-    value: ≥99%
-  - label: Apparence
-    value: Poudre cristalline blanche
-  - label: Emballage
-    value: >-
-      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
-      Emballage personnalisé disponible.
-  - label: Chargement
-    value: 25-27 MT par conteneur 20GP (FCL)
-  - label: Ports disponibles
-    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
+- label: Formule chimique
+  value: Na₂SO₄
+- label: Numéro CAS
+  value: 7757-82-6
+- label: Code SH
+  value: '2833110000'
+- label: Pureté
+  value: ≥99%
+- label: Apparence
+  value: Poudre cristalline blanche
+- label: Emballage
+  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
+    personnalisé disponible.
+- label: Chargement
+  value: 25-27 MT par conteneur 20GP (FCL)
+- label: Ports disponibles
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
-
 ## Sulfate de sodium anhydre (CAS 7757-82-6) : Votre fabricant et fournisseur de confiance en Chine pour le Na₂SO₄ de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** de **sulfate de sodium anhydre (Na₂SO₄)**, nous proposons un produit de **haute pureté** avec une **pureté ≥99%** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre sulfate de sodium anhydre est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications de fabrication de détergents, de textiles et de verre (Code SH : 2833110000).

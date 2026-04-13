@@ -1,16 +1,14 @@
 ---
 Id: SP-19fvos2er3
 Origin_Slug: oxalic-acid-industrial-applications
-Slug: oxalic-acid-industrial-aplicaciones
-Excerpt: >-
-  Explore las diversas aplicaciones industriales del ácido oxálico, desde la
-  eliminación de óxido hasta la extracción de tierras raras, junto con
-  importantes pautas de seguridad y manejo.
+Slug: cido-ox-lico-aplicaciones-industriales-y-gu-as-de-seguridad
+Excerpt: Explore las diversas aplicaciones industriales del ácido oxálico, desde la
+  eliminación de óxido hasta la extracción de tierras raras, junto con importantes
+  pautas de seguridad y manejo.
 title: 'Ácido Oxálico: Aplicaciones Industriales y Guías de Seguridad'
-description: >-
-  Explore las diversas aplicaciones industriales del ácido oxálico, desde la
-  eliminación de óxido hasta la extracción de tierras raras, junto con
-  importantes pautas de seguridad y manejo.
+description: Explore las diversas aplicaciones industriales del ácido oxálico, desde
+  la eliminación de óxido hasta la extracción de tierras raras, junto con importantes
+  pautas de seguridad y manejo.
 image: /images/blog/oxalic-acid-industrial-applications.webp
 imageAlt: Ácido oxálico utilizado para la eliminación industrial de óxido y limpieza
 Date: '2026-04-10'
@@ -22,7 +20,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## ¿Qué es el Ácido Oxálico?
 El ácido oxálico (C₂H₂O₄) es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más fuertes. Como un [proveedor líder de ácido oxálico de alta pureza](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem garantiza que este químico versátil cumpla con los estrictos requisitos de los compradores industriales globales. Se encuentra de forma natural en muchas plantas y se suministra industrialmente para numerosas aplicaciones.
 

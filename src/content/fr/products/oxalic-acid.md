@@ -3,63 +3,49 @@ Origin_Slug: oxalic-acid
 image: /images/products/oxalic-acid-cas-144-62-7-sinopeakchem.webp
 category: Acides organiques
 applications:
-  - Extraction et purification d'éléments de terres rares
-  - 'Teinture et impression textile (mordant, agent réducteur)'
-  - Nettoyage des métaux et élimination de la rouille
-  - Tannage du cuir
-  - Intermédiaires pharmaceutiques
-  - 'Agent de blanchiment (bois, liège)'
+- Extraction et purification d'éléments de terres rares
+- Teinture et impression textile (mordant, agent réducteur)
+- Nettoyage des métaux et élimination de la rouille
+- Tannage du cuir
+- Intermédiaires pharmaceutiques
+- Agent de blanchiment (bois, liège)
 cas: 144-62-7 / 6153-56-6
 faqs:
-  - answer: >-
-      Nous sommes un fabricant et fournisseur leader en Chine d'acide oxalique,
-      proposant une qualité industrielle avec une pureté ≥99,6 %. Il est
-      disponible pour l'achat en gros et l'exportation, idéal pour diverses
-      applications industrielles, notamment le traitement des terres rares et le
-      nettoyage des métaux.
-    question: >-
-      Quelles qualités d'acide oxalique fournissez-vous pour les commandes en
-      gros ?
-  - answer: >-
-      Notre acide oxalique (H₂C₂O₄·2H₂O) est disponible avec une pureté minimale
-      de 99,6 %. Nous assurons un contrôle qualité strict pour répondre aux
-      normes internationales pour toutes les applications.
-    question: Quelle est la pureté typique de vos produits d'acide oxalique ?
-  - answer: >-
-      Pour l'exportation, notre acide oxalique est généralement emballé dans des
-      sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus
-      pour protéger contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont
-      également disponibles pour les expéditions en vrac plus importantes. Des
-      solutions d'emballage personnalisées peuvent être organisées.
-    question: >-
-      Comment l'acide oxalique est-il emballé pour l'expédition internationale
-      depuis la Chine ?
-  - answer: >-
-      Notre acide oxalique de qualité industrielle est largement utilisé dans
-      l'extraction d'éléments de terres rares, la teinture et l'impression
-      textile, le nettoyage des métaux et l'élimination de la rouille, ainsi que
-      le tannage du cuir. Ses fortes propriétés réductrices et chélatantes le
-      rendent très polyvalent.
-    question: >-
-      Quelles sont les principales applications de votre acide oxalique de
-      qualité industrielle ?
-  - answer: >-
-      Oui, nous fournissons une documentation complète pour chaque expédition, y
-      compris un certificat d'analyse (COA) détaillant les spécifications du
-      produit et une fiche de données de sécurité (MSDS) pour les directives de
-      sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
-    question: >-
-      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
-      de sécurité (MSDS) pour l'acide oxalique ?
-  - answer: >-
-      Le délai de livraison standard pour les commandes d'acide oxalique en gros
-      est généralement de 7 à 15 jours après la confirmation de la commande,
-      selon la taille de la commande et le calendrier de supply actuel. Nous
-      nous efforçons d'assurer une logistique efficace et une livraison rapide
-      depuis les principaux ports chinois.
-    question: >-
-      Quel est le délai de livraison pour les commandes d'acide oxalique en gros
-      de votre usine ?
+- answer: Nous sommes un fabricant et fournisseur leader en Chine d'acide oxalique,
+    proposant une qualité industrielle avec une pureté ≥99,6 %. Il est disponible
+    pour l'achat en gros et l'exportation, idéal pour diverses applications industrielles,
+    notamment le traitement des terres rares et le nettoyage des métaux.
+  question: Quelles qualités d'acide oxalique fournissez-vous pour les commandes en
+    gros ?
+- answer: Notre acide oxalique (H₂C₂O₄·2H₂O) est disponible avec une pureté minimale
+    de 99,6 %. Nous assurons un contrôle qualité strict pour répondre aux normes internationales
+    pour toutes les applications.
+  question: Quelle est la pureté typique de vos produits d'acide oxalique ?
+- answer: Pour l'exportation, notre acide oxalique est généralement emballé dans des
+    sacs tissés en PP de 25 kg avec des doublures intérieures en PE, conçus pour protéger
+    contre l'humidité. Des sacs jumbo de 1000 kg (1 MT) sont également disponibles
+    pour les expéditions en vrac plus importantes. Des solutions d'emballage personnalisées
+    peuvent être organisées.
+  question: Comment l'acide oxalique est-il emballé pour l'expédition internationale
+    depuis la Chine ?
+- answer: Notre acide oxalique de qualité industrielle est largement utilisé dans
+    l'extraction d'éléments de terres rares, la teinture et l'impression textile,
+    le nettoyage des métaux et l'élimination de la rouille, ainsi que le tannage du
+    cuir. Ses fortes propriétés réductrices et chélatantes le rendent très polyvalent.
+  question: Quelles sont les principales applications de votre acide oxalique de qualité
+    industrielle ?
+- answer: Oui, nous fournissons une documentation complète pour chaque expédition,
+    y compris un certificat d'analyse (COA) détaillant les spécifications du produit
+    et une fiche de données de sécurité (MSDS) pour les directives de sécurité et
+    de manipulation. Ceux-ci sont disponibles sur demande.
+  question: Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+    de sécurité (MSDS) pour l'acide oxalique ?
+- answer: Le délai de livraison standard pour les commandes d'acide oxalique en gros
+    est généralement de 7 à 15 jours après la confirmation de la commande, selon la
+    taille de la commande et le calendrier de supply actuel. Nous nous efforçons d'assurer
+    une logistique efficace et une livraison rapide depuis les principaux ports chinois.
+  question: Quel est le délai de livraison pour les commandes d'acide oxalique en
+    gros de votre usine ?
 featured: true
 hsCode: '2917111000'
 id: '3'
@@ -68,33 +54,30 @@ name: Acide oxalique
 nameCn: 草酸
 packaging: 25KG/Jumbo bags
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Acide oxalique (acide éthanedioïque) de haute pureté pour l'achat en gros et
-  l'exportation depuis la Chine. Essentiel pour l'extraction des terres rares,
-  la teinture textile et le nettoyage des métaux. Fabricant de confiance avec
+shortDescription: Acide oxalique (acide éthanedioïque) de haute pureté pour l'achat
+  en gros et l'exportation depuis la Chine. Essentiel pour l'extraction des terres
+  rares, la teinture textile et le nettoyage des métaux. Fabricant de confiance avec
   des prix compétitifs.
-slug: acide-oxalique
+slug: acide-oxalique-industrial
 specs:
-  - label: Formule chimique
-    value: H₂C₂O₄·2H₂O
-  - label: Numéro CAS
-    value: 144-62-7 / 6153-56-6
-  - label: Code SH
-    value: '2917111000'
-  - label: Pureté
-    value: '≥99,6 %'
-  - label: Apparence
-    value: Poudre cristalline blanche
-  - label: Emballage
-    value: >-
-      Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg.
-      Emballage personnalisé disponible.
-  - label: Chargement
-    value: 25 MT par conteneur 20GP (FCL)
-  - label: Ports disponibles
-    value: 'Qingdao, Tianjin, Dalian (principaux ports de Chine)'
+- label: Formule chimique
+  value: H₂C₂O₄·2H₂O
+- label: Numéro CAS
+  value: 144-62-7 / 6153-56-6
+- label: Code SH
+  value: '2917111000'
+- label: Pureté
+  value: ≥99,6 %
+- label: Apparence
+  value: Poudre cristalline blanche
+- label: Emballage
+  value: Sacs tissés en PP de 25 kg avec doublure en PE, sacs Jumbo de 1000 kg. Emballage
+    personnalisé disponible.
+- label: Chargement
+  value: 25 MT par conteneur 20GP (FCL)
+- label: Ports disponibles
+  value: Qingdao, Tianjin, Dalian (principaux ports de Chine)
 ---
-
 ## Acide oxalique (CAS 144-62-7 / 6153-56-6) : Votre fabricant et fournisseur de confiance en Chine pour l'acide éthanedioïque de haute pureté
 
 En tant que **fabricant et fournisseur de premier plan en Chine** d'**acide oxalique (H₂C₂O₄·2H₂O)**, également connu sous le nom d'**acide éthanedioïque**, nous proposons un produit de **haute pureté** avec une **pureté ≥99,6 %** pour l'**achat en gros** et l'**exportation** dans le monde entier. Notre acide oxalique est produit pour répondre aux normes de qualité internationales les plus strictes, ce qui en fait une matière première essentielle pour une large gamme d'applications industrielles (Code SH : 2917111000).

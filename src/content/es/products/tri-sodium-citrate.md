@@ -3,60 +3,47 @@ Origin_Slug: tri-sodium-citrate
 image: /images/products/tri-sodium-citrate-tsc-cas-68-04-2-sinopeakchem.webp
 category: Citratos
 applications:
-  - 'Aditivo alimentario (regulador de acidez, emulsionante, estabilizador)'
-  - 'Industria farmacéutica (anticoagulante, agente alcalinizante)'
-  - 'Detergentes y productos de limpieza (potenciador, ablandador de agua)'
-  - Cosméticos y productos de cuidado personal
-  - Síntesis química
-  - Fotografía
+- Aditivo alimentario (regulador de acidez, emulsionante, estabilizador)
+- Industria farmacéutica (anticoagulante, agente alcalinizante)
+- Detergentes y productos de limpieza (potenciador, ablandador de agua)
+- Cosméticos y productos de cuidado personal
+- Síntesis química
+- Fotografía
 cas: 68-04-2
 faqs:
-  - answer: >-
-      Somos un proveedor líder en China de TSC, ofreciendo grado alimentario,
-      grado farmacéutico y grado industrial con pureza ≥99.0%. Todos los grados
-      están disponibles para compra al por mayor y exportación, atendiendo
-      diversas necesidades industriales.
-    question: >-
-      ¿Qué grados de Citrato de Trisodio (TSC) suministran para pedidos al por
-      mayor?
-  - answer: >-
-      Nuestro Citrato de Trisodio (Na₃C₆H₅O₇·2H₂O) está disponible con una
-      pureza mínima del 99.0%. Garantizamos un control de calidad estricto para
-      cumplir con los estándares internacionales para todas las aplicaciones.
-    question: ¿Cuál es la pureza típica de sus productos de Citrato de Trisodio?
-  - answer: >-
-      Para exportación, nuestro TSC se suele empaquetar en bolsas tejidas PP de
-      25KG con revestimiento interior de PE, diseñadas para proteger contra la
-      humedad. También están disponibles bolsas jumbo de 1000KG (1MT) para
-      envíos a gran escala. Se pueden organizar soluciones de empaque
-      personalizadas.
-    question: >-
-      ¿Cómo se empaqueta el Citrato de Trisodio para envíos internacionales
-      desde China?
-  - answer: >-
-      Nuestro TSC grado industrial se usa ampliamente en alimentos como
-      regulador de acidez, en farmacéutica como anticoagulante y en detergentes
-      como potenciador. Su versatilidad lo convierte en un químico clave.
-    question: >-
-      ¿Cuáles son las principales aplicaciones de su Citrato de Trisodio grado
-      industrial?
-  - answer: >-
-      Sí, proporcionamos documentación completa con cada envío, incluyendo un
-      Certificado de Análisis (COA) con las especificaciones del producto y una
-      Hoja de Datos de Seguridad (MSDS) para seguridad e instrucciones de
-      manejo. Están disponibles bajo solicitud.
-    question: >-
-      ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
-      de Seguridad (MSDS) para el Citrato de Trisodio?
-  - answer: >-
-      El tiempo de entrega estándar para pedidos al por mayor de TSC suele ser
-      de 7 a 15 días después de la confirmación del pedido, dependiendo del
-      tamaño del pedido y la agenda actual de suministros. Nos esforzamos por
-      una logística eficiente y entregas puntuales desde los principales puertos
-      chinos.
-    question: >-
-      ¿Cuál es el tiempo de entrega para pedidos al por mayor de Citrato de
-      Trisodio desde su fábrica?
+- answer: Somos un proveedor líder en China de TSC, ofreciendo grado alimentario,
+    grado farmacéutico y grado industrial con pureza ≥99.0%. Todos los grados están
+    disponibles para compra al por mayor y exportación, atendiendo diversas necesidades
+    industriales.
+  question: ¿Qué grados de Citrato de Trisodio (TSC) suministran para pedidos al por
+    mayor?
+- answer: Nuestro Citrato de Trisodio (Na₃C₆H₅O₇·2H₂O) está disponible con una pureza
+    mínima del 99.0%. Garantizamos un control de calidad estricto para cumplir con
+    los estándares internacionales para todas las aplicaciones.
+  question: ¿Cuál es la pureza típica de sus productos de Citrato de Trisodio?
+- answer: Para exportación, nuestro TSC se suele empaquetar en bolsas tejidas PP de
+    25KG con revestimiento interior de PE, diseñadas para proteger contra la humedad.
+    También están disponibles bolsas jumbo de 1000KG (1MT) para envíos a gran escala.
+    Se pueden organizar soluciones de empaque personalizadas.
+  question: ¿Cómo se empaqueta el Citrato de Trisodio para envíos internacionales
+    desde China?
+- answer: Nuestro TSC grado industrial se usa ampliamente en alimentos como regulador
+    de acidez, en farmacéutica como anticoagulante y en detergentes como potenciador.
+    Su versatilidad lo convierte en un químico clave.
+  question: ¿Cuáles son las principales aplicaciones de su Citrato de Trisodio grado
+    industrial?
+- answer: Sí, proporcionamos documentación completa con cada envío, incluyendo un
+    Certificado de Análisis (COA) con las especificaciones del producto y una Hoja
+    de Datos de Seguridad (MSDS) para seguridad e instrucciones de manejo. Están disponibles
+    bajo solicitud.
+  question: ¿Pueden proporcionar un Certificado de Análisis (COA) y una Hoja de Datos
+    de Seguridad (MSDS) para el Citrato de Trisodio?
+- answer: El tiempo de entrega estándar para pedidos al por mayor de TSC suele ser
+    de 7 a 15 días después de la confirmación del pedido, dependiendo del tamaño del
+    pedido y la agenda actual de suministros. Nos esforzamos por una logística eficiente
+    y entregas puntuales desde los principales puertos chinos.
+  question: ¿Cuál es el tiempo de entrega para pedidos al por mayor de Citrato de
+    Trisodio desde su fábrica?
 featured: false
 hsCode: '2918150000'
 id: '10'
@@ -65,32 +52,29 @@ name: Citrato de Trisodio (TSC)
 nameCn: 柠檬酸三钠
 packaging: 25KG/Bolsas jumbo
 ports: Qingdao / Tianjin / Dalian
-shortDescription: >-
-  Citrato de Trisodio (TSC) de alta pureza para compra al por mayor y
-  exportación desde China. Esencial para aplicaciones como aditivo alimentario,
+shortDescription: Citrato de Trisodio (TSC) de alta pureza para compra al por mayor
+  y exportación desde China. Esencial para aplicaciones como aditivo alimentario,
   farmacéutico y detergente. Proveedor confiable con precios competitivos.
-slug: tri-sodium-citrate
+slug: citrato-de-trisodio-tsc-industrial
 specs:
-  - label: Fórmula química
-    value: Na₃C₆H₅O₇·2H₂O
-  - label: Número CAS
-    value: 68-04-2
-  - label: Código HS
-    value: '2918150000'
-  - label: Pureza
-    value: ≥99.0%
-  - label: Apariencia
-    value: Polvo cristalino blanco
-  - label: Empaque
-    value: >-
-      Bolsas tejidas PP de 25KG con revestimiento interior de PE, bolsas jumbo
-      de 1000KG. Empaque personalizado disponible.
-  - label: Carga
-    value: 25MT por contenedor 20GP (FCL)
-  - label: Puertos disponibles
-    value: 'Qingdao, Tianjin, Dalian (principales puertos de China)'
+- label: Fórmula química
+  value: Na₃C₆H₅O₇·2H₂O
+- label: Número CAS
+  value: 68-04-2
+- label: Código HS
+  value: '2918150000'
+- label: Pureza
+  value: ≥99.0%
+- label: Apariencia
+  value: Polvo cristalino blanco
+- label: Empaque
+  value: Bolsas tejidas PP de 25KG con revestimiento interior de PE, bolsas jumbo
+    de 1000KG. Empaque personalizado disponible.
+- label: Carga
+  value: 25MT por contenedor 20GP (FCL)
+- label: Puertos disponibles
+  value: Qingdao, Tianjin, Dalian (principales puertos de China)
 ---
-
 ## Citrato de Trisodio (CAS 68-04-2): Su proveedor confiable en China y suministrador de TSC de alta pureza
 
 Como proveedor líder en **China** y suministrador de **Citrato de Trisodio (TSC)**, ofrecemos un producto de **alta pureza** con una **pureza ≥99.0%** para **compra al por mayor** y **exportación** mundial. Nuestro Citrato de Trisodio se suministra cumpliendo estrictos estándares internacionales de calidad, siendo una materia prima esencial para una amplia gama de aplicaciones en aditivos alimentarios, farmacéuticos e industriales (Código HS: 2918150000).

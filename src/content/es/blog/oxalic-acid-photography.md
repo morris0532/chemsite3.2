@@ -1,23 +1,20 @@
 ---
 Id: SP-fmx197yelf
 Origin_Slug: oxalic-acid-photography
-Slug: oxalic-acid-photography
-Excerpt: >-
-  Explora el papel histórico del ácido oxálico en los procesos fotográficos,
-  desde las primeras impresiones en platino y paladio hasta sus aplicaciones
-  modernas en el virado y la impresión artística. Comprende su función química y
-  consideraciones de seguridad.
+Slug: cido-ox-lico-en-la-fotograf-a-uso-hist-rico-y-relevancia-moderna
+Excerpt: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
+  desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas
+  en el virado y la impresión artística. Comprende su función química y consideraciones
+  de seguridad.
 title: 'Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna'
-description: >-
-  Explora el papel histórico del ácido oxálico en los procesos fotográficos,
-  desde las primeras impresiones en platino y paladio hasta sus aplicaciones
-  modernas en el virado y la impresión artística. Comprende su función química y
-  consideraciones de seguridad.
+description: Explora el papel histórico del ácido oxálico en los procesos fotográficos,
+  desde las primeras impresiones en platino y paladio hasta sus aplicaciones modernas
+  en el virado y la impresión artística. Comprende su función química y consideraciones
+  de seguridad.
 image: /images/blog/oxalic-acid-photography.webp
-imageAlt: >-
-  Una escena de un cuarto oscuro fotográfico vintage, con equipo fotográfico
-  antiguo, bandejas de revelado e impresiones, mostrando tanto el uso histórico
-  como la relevancia moderna en la química fotográfica.
+imageAlt: Una escena de un cuarto oscuro fotográfico vintage, con equipo fotográfico
+  antiguo, bandejas de revelado e impresiones, mostrando tanto el uso histórico como
+  la relevancia moderna en la química fotográfica.
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: Aplicaciones Especializadas
@@ -27,7 +24,6 @@ Keywords: null
 Schema_Type: TechArticle
 Target_Region: Latin America & Spain (ES)
 ---
-
 ## Ácido Oxálico en la Fotografía: Uso Histórico y Relevancia Moderna
 
 La fotografía, en su esencia, es un proceso químico. Desde los primeros daguerrotipos hasta la imagen digital moderna, la química ha desempeñado un papel indispensable en la captura y conservación de imágenes. Entre la multitud de productos químicos utilizados, el ácido oxálico (C₂H₂O₄) ocupa un lugar único, especialmente en los procesos fotográficos históricos y en aplicaciones modernas especializadas. Sus propiedades como agente reductor, agente quelante y ácido lo han hecho valioso en varias etapas de la creación y manipulación de imágenes.
