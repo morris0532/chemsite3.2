@@ -1,18 +1,13 @@
 ---
 Id: SP-ncongiqjms
 Excerpt: >-
-  Explore the critical role of caustic soda (sodium hydroxide) in the food
-  industry, from cleaning and sanitization to pH adjustment and peeling,
-  ensuring safety and compliance with regulations.
-title: 'Caustic Soda in Food Processing: Safety, Regulations & Essential Applications'
+  استكشف الدور الحاسم للصودا الكاوية (هيدروكسيد الصوديوم) في صناعة الأغذية، من التنظيف والتعقيم إلى ضبط درجة الحموضة والتقشير، مما يضمن السلامة والامتثال للوائح.
+title: 'الصودا الكاوية في تصنيع الأغذية: السلامة واللوائح والتطبيقات الأساسية'
 description: >-
-  Explore the critical role of caustic soda (sodium hydroxide) in the food
-  industry, from cleaning and sanitization to pH adjustment and peeling,
-  ensuring safety and compliance with regulations.
+  استكشف الدور الحاسم للصودا الكاوية (هيدروكسيد الصوديوم) في صناعة الأغذية، من التنظيف والتعقيم إلى ضبط درجة الحموضة والتقشير، مما يضمن السلامة والامتثال للوائح.
 image: /images/blog/caustic-soda-food-processing.webp
 imageAlt: >-
-  Food processing facility with stainless steel equipment, fruits being peeled,
-  and cleaning processes, highlighting the safe use of caustic soda
+  منشأة لتصنيع الأغذية مع معدات من الفولاذ المقاوم للصدأ، وفواكه يتم تقشيرها، وعمليات تنظيف، تسلط الضوء على الاستخدام الآمن للصودا الكاوية.
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
@@ -25,126 +20,125 @@ rootnotouch: caustic-soda-food-processing
 slug: caustic-soda-food-processing
 ---
 
-The **food processing industry** is a complex and highly regulated sector, demanding stringent standards for hygiene, quality, and safety. Within this environment, **caustic soda (sodium hydroxide, NaOH)** plays a surprisingly versatile and critical role. While often associated with industrial applications, food-grade caustic soda is indispensable for tasks ranging from the thorough cleaning and sanitization of equipment to precise pH adjustment in various food products and even the efficient peeling of fruits and vegetables.
+تعد **صناعة تصنيع الأغذية** قطاعاً معقداً ومنظماً للغاية، ويتطلب معايير صارمة للنظافة والجودة والسلامة. وفي هذه البيئة، تلعب **الصودا الكاوية (هيدروكسيد الصوديوم، NaOH)** دوراً متعدد الاستخدامات وحاسماً بشكل مدهش. وبينما ترتبط غالباً بالتطبيقات الصناعية، فإن الصودا الكاوية المخصصة للأغذية لا غنى عنها لمهام تتراوح من التنظيف الشامل وتعقيم المعدات إلى الضبط الدقيق لدرجة الحموضة (pH) في مختلف المنتجات الغذائية وحتى التقشير الفعال للفواكه والخضروات.
 
-This comprehensive guide will explore the **essential applications of caustic soda in food processing**, emphasizing the importance of using food-grade NaOH, adhering to strict safety protocols, and complying with relevant food safety regulations. Understanding its functions and proper handling is crucial for B2B buyers and food manufacturers to ensure product integrity, operational efficiency, and consumer safety.
+سيستكشف هذا الدليل الشامل **التطبيقات الأساسية للصودا الكاوية في تصنيع الأغذية**، مع التأكيد على أهمية استخدام NaOH المخصص للأغذية، والالتزام ببروتوكولات السلامة الصارمة، والامتثال للوائح سلامة الأغذية ذات الصلة. يعد فهم وظائفها والمناولة السليمة لها أمراً بالغ الأهمية لمشتري B2B ومصنعي الأغذية لضمان سلامة المنتج والكفاءة التشغيلية وسلامة المستهلك.
 
-## Essential Applications of Caustic Soda in Food Processing
+## التطبيقات الأساسية للصودا الكاوية في تصنيع الأغذية
 
-Food-grade caustic soda is utilized in several key areas within the food processing industry, leveraging its strong alkaline properties.
+تُستخدم الصودا الكاوية المخصصة للأغذية في عدة مجالات رئيسية داخل صناعة تصنيع الأغذية، مستفيدة من خصائصها القلوية القوية.
 
-### 1. Cleaning and Sanitization (CIP/COP)
+### 1. التنظيف والتعقيم (CIP/COP)
 
-*   **CIP (Clean-in-Place) and COP (Clean-out-of-Place):** Caustic soda is a primary component in many industrial cleaning solutions for food processing equipment, tanks, pipes, and surfaces. Its strong alkalinity effectively breaks down fats, oils, proteins, and other organic residues.
-*   **Saponification:** It saponifies fats, converting them into water-soluble soaps that can be easily rinsed away.
-*   **Protein Hydrolysis:** It hydrolyzes proteins, breaking them into smaller, more soluble components.
-*   **Sanitization:** While primarily a cleaner, its high pH also contributes to the sanitization process by inhibiting microbial growth.
-*   **Applications:** Widely used in dairies, breweries, beverage plants, meat processing facilities, and canning operations.
+*   **التنظيف في المكان (CIP) والتنظيف خارج المكان (COP):** تعد الصودا الكاوية مكوناً أساسياً في العديد من محاليل التنظيف الصناعية لمعدات تصنيع الأغذية والخزانات والأنابيب والأسطح. تعمل قلويتها القوية بفعالية على تفكيك الدهون والزيوت والبروتينات والبقايا العضوية الأخرى.
+*   **التصبن:** تقوم بتصبن الدهون، وتحويلها إلى صابون قابل للذوبان في الماء يمكن شطفه بسهولة.
+*   **التحلل المائي للبروتين:** تعمل على تحلل البروتينات مائياً، وتفكيكها إلى مكونات أصغر وأكثر قابلية للذوبان.
+*   **التعقيم:** بينما هي منظف في المقام الأول، فإن درجة حموضتها العالية تساهم أيضاً في عملية التعقيم عن طريق تثبيط النمو الميكروبي.
+*   **التطبيقات:** تُستخدم على نطاق واسع في مصانع الألبان، ومصانع الجعة، ومصانع المشروبات، ومنشآت تصنيع اللحوم، وعمليات التعليب.
 
-### 2. pH Adjustment and Neutralization
+### 2. ضبط درجة الحموضة والمعادلة
 
-*   **Acidity Control:** Caustic soda is used to adjust and control the pH levels of various food products and processing streams. For instance, it can neutralize excess acidity in certain food ingredients or waste streams.
-*   **Product Stability:** Maintaining optimal pH is crucial for product stability, texture, flavor, and shelf life.
-*   **Examples:** Used in the production of cocoa, olives, and some dairy products.
+*   **التحكم في الحموضة:** تُستخدم الصودا الكاوية لضبط والتحكم في مستويات درجة الحموضة (pH) لمختلف المنتجات الغذائية ومجاري التصنيع. على سبيل المثال، يمكنها معادلة الحموضة الزائدة في بعض المكونات الغذائية أو مجاري النفايات.
+*   **استقرار المنتج:** يعد الحفاظ على درجة الحموضة المثالية أمراً حاسماً لاستقرار المنتج وقوامه ونكهته ومدة صلاحيته.
+*   **أمثلة:** تُستخدم في إنتاج الكاكاو والزيتون وبعض منتجات الألبان.
 
-### 3. Fruit and Vegetable Peeling
+### 3. تقشير الفواكه والخضروات
 
-*   **Lye Peeling:** Caustic soda, often referred to as 
-"lye," is used for chemical peeling of fruits and vegetables such as potatoes, tomatoes, peaches, and citrus fruits. The caustic solution softens and loosens the skin, which can then be easily removed with water sprays.
-*   **Efficiency:** This method is highly efficient and reduces product loss compared to mechanical peeling.
-*   **Safety:** When used correctly and followed by thorough rinsing, it is a safe and approved method for food processing.
+*   **التقشير بالصودا:** تُستخدم الصودا الكاوية للتقشير الكيميائي للفواكه والخضروات مثل البطاطس والطماطم والخوخ والحمضيات. يعمل المحلول الكاوي على تليين القشرة وتفكيكها، والتي يمكن بعد ذلك إزالتها بسهولة باستخدام رشاشات الماء.
+*   **الكفاءة:** هذه الطريقة عالية الكفاءة وتقلل من فقدان المنتج مقارنة بالتقشير الميكانيكي.
+*   **السلامة:** عند استخدامها بشكل صحيح واتباعها بشطف شامل، فهي طريقة آمنة ومعتمدة لتصنيع الأغذية.
 
-### 4. Other Applications
+### 4. تطبيقات أخرى
 
-*   **Caramel Production:** Used in the production of caramel colors to control pH and facilitate the reaction.
-*   **Olive Curing:** In some traditional olive curing processes, dilute caustic soda solutions are used to remove bitterness.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🍎 **Ensure Food Safety & Efficiency with Food-Grade Caustic Soda.**
-Sinopeakchem provides high-purity, food-grade caustic soda, essential for stringent cleaning, precise pH control, and efficient peeling in your food processing operations.
-**[Request a Quote for Food-Grade Caustic Soda →](/en/contact)**
+*   **إنتاج الكراميل:** تُستخدم في إنتاج ألوان الكراميل للتحكم في درجة الحموضة وتسهيل التفاعل.
+*   **معالجة الزيتون:** في بعض عمليات معالجة الزيتون التقليدية، تُستخدم محاليل الصودا الكاوية المخففة لإزالة المرارة.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Safety, Regulations, and Food-Grade Standards
-
-The use of caustic soda in food processing is strictly regulated to ensure consumer safety. Only **food-grade caustic soda** should be used, which meets specific purity standards.
-
-### 1. Food-Grade Caustic Soda
-
-*   **Purity:** Food-grade NaOH must meet specifications outlined by regulatory bodies such as the Food Chemicals Codex (FCC) in the US or European Union regulations. This ensures minimal impurities that could contaminate food products.
-*   **Manufacturing Standards:** Produced under strict quality control to prevent contamination.
-
-### 2. Regulatory Compliance
-
-*   **FDA (U.S.):** The U.S. Food and Drug Administration (FDA) generally recognizes sodium hydroxide as safe (GRAS) when used in accordance with good manufacturing practices and at levels not exceeding those required to achieve the intended technical effect.
-*   **EU Regulations:** Similar regulations exist in the European Union, specifying purity criteria and usage limits.
-*   **Labeling:** Products containing caustic soda as an ingredient must be properly labeled.
-
-### 3. Safe Handling Practices
-
-*   **Personal Protective Equipment (PPE):** Mandatory use of chemical splash goggles or a face shield, chemical-resistant gloves (e.g., butyl rubber), protective clothing, and chemical-resistant footwear. This is crucial to prevent severe chemical burns.
-*   **Ventilation:** Ensure adequate ventilation in areas where caustic soda is stored or used to prevent inhalation of mists.
-*   **Emergency Showers/Eyewash:** Readily accessible and fully functional emergency showers and eyewash stations are critical near all handling points.
-*   **Controlled Addition:** Always add caustic soda slowly to water, never the other way around, to control the exothermic reaction and prevent splashing.
-*   **Training:** All personnel handling caustic soda must receive comprehensive training on its hazards, safe operating procedures, and emergency response protocols.
-
-### 4. Waste Management
-
-*   **Neutralization:** Wastewater containing caustic soda must be neutralized to a safe pH range before discharge to prevent environmental damage and comply with local regulations.
-*   **Environmental Impact:** Proper management is essential to minimize the environmental footprint of food processing operations.
+🍎 **اضمن سلامة الأغذية وكفاءتها باستخدام الصودا الكاوية المخصصة للأغذية.**
+توفر Sinopeakchem صودا كاوية عالية النقاء ومخصصة للأغذية، وهي ضرورية للتنظيف الصارم والتحكم الدقيق في درجة الحموضة والتقشير الفعال في عمليات تصنيع الأغذية لديك.
+**[اطلب عرض سعر لصودا كاوية مخصصة للأغذية ←](/ar/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🍎 **Ensure Food Safety & Efficiency with Food-Grade Caustic Soda.**
-Sinopeakchem provides high-purity, food-grade caustic soda, essential for stringent cleaning, precise pH control, and efficient peeling in your food processing operations.
-**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
+## السلامة واللوائح ومعايير درجة الغذاء
+
+يتم تنظيم استخدام الصودا الكاوية في تصنيع الأغذية بشكل صارم لضمان سلامة المستهلك. يجب استخدام **الصودا الكاوية المخصصة للأغذية** فقط، والتي تلبي معايير نقاء محددة.
+
+### 1. الصودا الكاوية المخصصة للأغذية
+
+*   **النقاء:** يجب أن تلبي NaOH المخصصة للأغذية المواصفات التي وضعتها الهيئات التنظيمية مثل دستور المواد الكيميائية الغذائية (FCC) في الولايات المتحدة أو لوائح الاتحاد الأوروبي. يضمن ذلك الحد الأدنى من الشوائب التي قد تلوث المنتجات الغذائية.
+*   **معايير التصنيع:** يتم إنتاجها تحت رقابة صارمة على الجودة لمنع التلوث.
+
+### 2. الامتثال التنظيمي
+
+*   **FDA (الولايات المتحدة):** تعترف إدارة الغذاء والدواء الأمريكية (FDA) عموماً بهيدروكسيد الصوديوم كمادة آمنة (GRAS) عند استخدامها وفقاً لممارسات التصنيع الجيدة وبمستويات لا تتجاوز تلك المطلوبة لتحقيق التأثير التقني المقصود.
+*   **لوائح الاتحاد الأوروبي:** توجد لوائح مماثلة في الاتحاد الأوروبي، تحدد معايير النقاء وحدود الاستخدام.
+*   **الملصقات:** يجب وضع ملصقات صحيحة على المنتجات التي تحتوي على الصودا الكاوية كمكون.
+
+### 3. ممارسات المناولة الآمنة
+
+*   **معدات الوقاية الشخصية (PPE):** الاستخدام الإلزامي لنظارات الوقاية من الرذاذ الكيميائي أو درع الوجه، والقفازات المقاومة للمواد الكيميائية (مثل مطاط البوتيل)، والملابس الواقية، والأحذية المقاومة للمواد الكيميائية. هذا أمر بالغ الأهمية لمنع الحروق الكيميائية الشديدة.
+*   **التهوية:** ضمان التهوية الكافية في المناطق التي يتم فيها تخزين أو استخدام الصودا الكاوية لمنع استنشاق الرذاذ.
+*   **دش الطوارئ/غسل العين:** تعد محطات دش الطوارئ وغسل العين التي يمكن الوصول إليها بسهولة وتعمل بكامل طاقتها أمراً حاسماً بالقرب من جميع نقاط المناولة.
+*   **الإضافة المحكومة:** أضف الصودا الكاوية دائماً ببطء إلى الماء، وليس العكس أبداً، للتحكم في التفاعل الطارد للحرارة ومنع التناثر.
+*   **التدريب:** يجب أن يتلقى جميع الموظفين الذين يتعاملون مع الصودا الكاوية تدريباً شاملاً على مخاطرها وإجراءات التشغيل الآمنة وبروتوكولات الاستجابة للطوارئ.
+
+### 4. إدارة النفايات
+
+*   **المعادلة:** يجب معادلة مياه الصرف الصحي التي تحتوي على الصودا الكاوية إلى نطاق درجة حموضة آمن قبل التصريف لمنع الضرر البيئي والامتثال لللوائح المحلية.
+*   **التأثير البيئي:** الإدارة السليمة ضرورية لتقليل البصمة البيئية لعمليات تصنيع الأغذية.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 **اضمن سلامة الأغذية وكفاءتها باستخدام الصودا الكاوية المخصصة للأغذية.**
+توفر Sinopeakchem صودا كاوية عالية النقاء ومخصصة للأغذية، وهي ضرورية للتنظيف الصارم والتحكم الدقيق في درجة الحموضة والتقشير الفعال في عمليات تصنيع الأغذية لديك.
+**[احصل على عرض سعر مجاني ←](/ar/contact)** **[اطلب عينة ←](/ar/contact)**
 📧 sales@sinopeakchem.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Frequently Asked Questions (FAQ)
+## الأسئلة الشائعة (FAQ)
 
-### 1. Is caustic soda safe to use in food processing?
+### 1. هل الصودا الكاوية آمنة للاستخدام في تصنيع الأغذية؟
 
-Yes, **food-grade caustic soda (sodium hydroxide) is safe to use in food processing** when handled correctly and used in accordance with good manufacturing practices and regulatory guidelines (e.g., FDA GRAS status). It is primarily used for cleaning, sanitization, pH adjustment, and peeling. After its intended use, any residual caustic soda is either consumed in the reaction or thoroughly rinsed away, ensuring the final food product is safe for consumption.
+نعم، **الصودا الكاوية المخصصة للأغذية (هيدروكسيد الصوديوم) آمنة للاستخدام في تصنيع الأغذية** عند التعامل معها بشكل صحيح واستخدامها وفقاً لممارسات التصنيع الجيدة والمبادئ التوجيهية التنظيمية (مثل حالة FDA GRAS). تُستخدم بشكل أساسي للتنظيف والتعقيم وضبط درجة الحموضة والتقشير. بعد استخدامها المقصود، يتم استهلاك أي بقايا من الصودا الكاوية في التفاعل أو شطفها تماماً، مما يضمن أن المنتج الغذائي النهائي آمن للاستهلاك.
 
-### 2. What is the difference between industrial-grade and food-grade caustic soda?
+### 2. ما هو الفرق بين الصودا الكاوية الصناعية والغذائية؟
 
-The primary difference lies in **purity and manufacturing standards**. **Food-grade caustic soda** is produced under much stricter quality control to minimize impurities and meet specific purity criteria (e.g., Food Chemicals Codex - FCC standards). **Industrial-grade caustic soda** has a broader range of acceptable impurities and is not suitable for direct contact with food products. Using the correct grade is crucial for food safety and regulatory compliance.
+يكمن الفرق الرئيسي في **النقاء ومعايير التصنيع**. يتم إنتاج **الصودا الكاوية المخصصة للأغذية** تحت رقابة صارمة على الجودة لتقليل الشوائب وتلبية معايير نقاء محددة (مثل معايير FCC). أما **الصودا الكاوية الصناعية** فلديها نطاق أوسع من الشوائب المقبولة وليست مناسبة للتلامس المباشر مع المنتجات الغذائية. يعد استخدام الدرجة الصحيحة أمراً حاسماً لسلامة الأغذية والامتثال التنظيمي.
 
-### 3. How is caustic soda used for peeling fruits and vegetables?
+### 3. كيف تُستخدم الصودا الكاوية لتقشير الفواكه والخضروات؟
 
-Caustic soda is used in a process called **lye peeling**. Fruits and vegetables (like potatoes, tomatoes, peaches) are briefly immersed in a hot, dilute solution of food-grade caustic soda. The alkali softens and loosens the outer skin, which can then be easily removed by high-pressure water sprays. This method is highly efficient, reduces product loss, and is a widely accepted practice in the food industry, followed by thorough rinsing to remove any lye residue.
+تُستخدم الصودا الكاوية في عملية تسمى **التقشير بالصودا**. يتم غمر الفواكه والخضروات (مثل البطاطس والطماطم والخوخ) لفترة وجيزة في محلول ساخن ومخفف من الصودا الكاوية المخصصة للأغذية. تعمل القلويات على تليين وتفكيك القشرة الخارجية، والتي يمكن بعد ذلك إزالتها بسهولة بواسطة رشاشات الماء عالية الضغط. هذه الطريقة عالية الكفاءة، وتقلل من فقدان المنتج، وهي ممارسة مقبولة على نطاق واسع في صناعة الأغذية، ويتبعها شطف شامل لإزالة أي بقايا للصودا.
 
-### 4. What are the main safety precautions for handling caustic soda in a food plant?
+### 4. ما هي احتياطات السلامة الرئيسية لمناولة الصودا الكاوية في مصنع أغذية؟
 
-Main safety precautions for handling caustic soda in a food plant include **mandatory use of Personal Protective Equipment (PPE)** such as chemical splash goggles/face shield, chemical-resistant gloves, and protective clothing. Ensuring **adequate ventilation**, having **readily accessible emergency showers and eyewash stations**, and following strict **controlled addition procedures** (always add caustic soda to water, never the reverse) are critical to prevent severe chemical burns and ensure worker safety.
+تشمل احتياطات السلامة الرئيسية لمناولة الصودا الكاوية في مصنع أغذية **الاستخدام الإلزامي لمعدات الوقاية الشخصية (PPE)** مثل نظارات الوقاية من الرذاذ الكيميائي/درع الوجه، والقفازات المقاومة للمواد الكيميائية، والملابس الواقية. يعد ضمان **التهوية الكافية**، وتوفير **محطات دش الطوارئ وغسل العين** بسهولة، واتباع **إجراءات إضافة محكومة** صارمة (أضف الصودا الكاوية دائماً إلى الماء، وليس العكس أبداً) أمراً حاسماً لمنع الحروق الكيميائية الشديدة وضمان سلامة العمال.
 
-### 5. How is wastewater containing caustic soda managed in food processing?
+### 5. كيف يتم التعامل مع مياه الصرف الصحي التي تحتوي على الصودا الكاوية في تصنيع الأغذية؟
 
-Wastewater containing caustic soda from food processing operations must be **properly managed and treated before discharge**. This typically involves **neutralization** to bring the pH to a safe, environmentally acceptable range. Depending on local regulations, further treatment steps may be required to remove other pollutants. Proper waste management is essential to prevent environmental damage and ensure compliance with local and national environmental protection laws.
+يجب **إدارة ومعالجة مياه الصرف الصحي التي تحتوي على الصودا الكاوية من عمليات تصنيع الأغذية بشكل صحيح قبل التصريف**. يتضمن ذلك عادةً **المعادلة** لإيصال درجة الحموضة إلى نطاق آمن ومقبول بيئياً. اعتماداً على اللوائح المحلية، قد تكون هناك حاجة لخطوات معالجة إضافية لإزالة الملوثات الأخرى. تعد الإدارة السليمة للنفايات ضرورية لمنع الضرر البيئي وضمان الامتثال لقوانين حماية البيئة المحلية والوطنية.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏭 **Ready to Source Your First Batch of Caustic Soda?**
-Sinopeakchem — Your trusted caustic soda partner.
-✅ 28+ years experience ✅ ISO certified ✅ Competitive pricing ✅ Free samples.
-**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
+🏭 **هل أنت مستعد لطلب دفعتك الأولى من الصودا الكاوية؟**
+Sinopeakchem — شريكك الموثوق في الصودا الكاوية.
+✅ خبرة تزيد عن 28 عاماً ✅ حاصلة على شهادة ISO ✅ أسعار تنافسية ✅ عينات مجانية.
+**[احصل على عرض سعر مجاني ←](/ar/contact)** **[اطلب عينة ←](/ar/contact)**
 📧 sales@sinopeakchem.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## References
+## المراجع
 
-1.  **Food Chemicals Codex (FCC).** "Sodium Hydroxide." *U.S. Pharmacopeial Convention*, latest edition.
-2.  **U.S. Food and Drug Administration (FDA).** "Substances Generally Recognized as Safe (GRAS)." *21 CFR Part 184.1763, Sodium Hydroxide.* [https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763)
-3.  **Fellows, P.J.** "Food Processing Technology: Principles and Practice." *Woodhead Publishing*, 2017.
+1.  **Food Chemicals Codex (FCC).** "Sodium Hydroxide."
+2.  **U.S. Food and Drug Administration (FDA).** "Substances Generally Recognized as Safe (GRAS)."
+3.  **Fellows, P.J.** "Food Processing Technology." *Woodhead Publishing*, 2017.
 4.  **Brennan, J.G., et al.** "Food Processing Handbook." *Wiley-VCH*, 2006.
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-6.  **European Food Safety Authority (EFSA).** "Scientific Opinion on the re-evaluation of sodium hydroxide (E 524) as a food additive." *EFSA Journal*, Vol. 13, No. 10, 2015.
-7.  **International Dairy Federation (IDF).** "Monograph on Cleaning and Disinfection in Dairy Plants." *IDF*, 2004.
-8.  **Journal of Food Science.** "Chemical Peeling of Fruits and Vegetables." various issues.
-9.  **World Health Organization (WHO).** "Guidelines for Drinking-water Quality." *WHO*, 2017.
-10. **Environmental Protection Agency (EPA).** "Effluent Guidelines for the Food Processing Industry." *EPA*, various publications.
+5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023.
+6.  **European Food Safety Authority (EFSA).** "Scientific Opinion on the re-evaluation of sodium hydroxide (E 524)."
+7.  **International Dairy Federation (IDF).** "Monograph on Cleaning and Disinfection in Dairy Plants."
+8.  **Journal of Food Science.** "Chemical Peeling of Fruits and Vegetables."
+9.  **World Health Organization (WHO).** "Guidelines for Drinking-water Quality."
+10. **Environmental Protection Agency (EPA).** "Effluent Guidelines for the Food Processing Industry."
