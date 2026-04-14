@@ -10,15 +10,17 @@ applications:
   - 'Conservation des aliments (antioxydant, antimicrobien)'
   - 'Industrie minière (agent de flottation, déprimant)'
   - 'Industrie textile (blanchiment, teinture, agent réducteur)'
-  - 'Industrie des pâtes et papiers (agent de blanchiment)'
-  - 'Photographie (agent fixateur)'
+  - Industrie des pâtes et papiers (agent de blanchiment)
+  - Photographie (agent fixateur)
 faqs:
   - answer: >-
-      Nous sommes un fournisseur et exportateur de premier plan de SMBS en Chine,
-      proposant des qualités alimentaire et industrielle avec une pureté ≥97 %.
-      Les deux qualités sont disponibles pour l'achat en gros et l'exportation,
-      répondant aux divers besoins de l'industrie.
-    question: Quelles qualités de métabisulfite de sodium (SMBS) fournissez-vous pour les commandes en gros ?
+      Nous sommes un fournisseur et exportateur de premier plan de SMBS en
+      Chine, proposant des qualités alimentaire et industrielle avec une pureté
+      ≥97 %. Les deux qualités sont disponibles pour l'achat en gros et
+      l'exportation, répondant aux divers besoins de l'industrie.
+    question: >-
+      Quelles qualités de métabisulfite de sodium (SMBS) fournissez-vous pour
+      les commandes en gros ?
   - answer: >-
       Notre métabisulfite de sodium (Na₂S₂O₅) est disponible avec une pureté
       minimale de 97 %. Nous assurons un contrôle qualité strict pour répondre
@@ -30,29 +32,35 @@ faqs:
       contre l'humidité. Des sacs jumbo de 1000 kg (1 tonne) sont également
       disponibles pour les expéditions en vrac plus importantes. Des solutions
       d'emballage personnalisées peuvent être organisées.
-    question: Comment le SMBS est-il emballé pour l'expédition internationale depuis la Chine ?
+    question: >-
+      Comment le SMBS est-il emballé pour l'expédition internationale depuis la
+      Chine ?
   - answer: >-
-      Notre SMBS de qualité industrielle est largement utilisé dans le traitement
-      de l'eau comme agent de déchloration, dans la conservation des aliments
-      comme antioxydant, dans l'exploitation minière comme agent de flottation et
-      dans l'industrie textile comme agent réducteur. Sa polyvalence en fait un
-      produit chimique clé.
-    question: Quelles sont les principales applications de votre SMBS de qualité industrielle ?
+      Notre SMBS de qualité industrielle est largement utilisé dans le
+      traitement de l'eau comme agent de déchloration, dans la conservation des
+      aliments comme antioxydant, dans l'exploitation minière comme agent de
+      flottation et dans l'industrie textile comme agent réducteur. Sa
+      polyvalence en fait un produit chimique clé.
+    question: >-
+      Quelles sont les principales applications de votre SMBS de qualité
+      industrielle ?
   - answer: >-
       Oui, nous fournissons une documentation complète pour chaque expédition, y
       compris un certificat d'analyse (COA) détaillant les spécifications du
       produit et une fiche de données de sécurité (MSDS) pour les directives de
       sécurité et de manipulation. Ceux-ci sont disponibles sur demande.
     question: >-
-      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données de
-      sécurité (MSDS) pour le SMBS ?
+      Pouvez-vous fournir un certificat d'analyse (COA) et une fiche de données
+      de sécurité (MSDS) pour le SMBS ?
   - answer: >-
       Le délai de livraison standard pour les commandes de SMBS en gros est
       généralement de 7 à 15 jours après la confirmation de la commande, selon
       la taille de la commande et le calendrier d'approvisionnement actuel. Nous
       nous efforçons d'assurer une logistique efficace et une livraison rapide
       depuis les principaux ports chinois.
-    question: Quel est le délai de livraison pour les commandes de SMBS en gros depuis votre usine ?
+    question: >-
+      Quel est le délai de livraison pour les commandes de SMBS en gros depuis
+      votre usine ?
 featured: false
 id: '14'
 loading: 25MT/20GP
@@ -60,9 +68,10 @@ nameCn: 焦亚硫酸钠
 packaging: 25KG/Sacs Jumbo
 ports: Qingdao / Tianjin / Dalian
 shortDescription: >-
-  Métabisulfite de sodium (SMBS) de haute pureté pour l'achat en gros et l'exportation
-  depuis la Chine. Essentiel pour le traitement de l'eau, la conservation des aliments
-  et les applications minières. Fournisseur de confiance avec des prix compétitifs.
+  Métabisulfite de sodium (SMBS) de haute pureté pour l'achat en gros et
+  l'exportation depuis la Chine. Essentiel pour le traitement de l'eau, la
+  conservation des aliments et les applications minières. Fournisseur de
+  confiance avec des prix compétitifs.
 slug: sodium-metabisulphite
 specs:
   - label: Formule Chimique
@@ -77,8 +86,8 @@ specs:
     value: Poudre cristalline blanche
   - label: Emballage
     value: >-
-      Sacs tissés en PP de 25 kg avec doublure PE, sacs jumbo de 1000 kg. Emballage
-      personnalisé disponible.
+      Sacs tissés en PP de 25 kg avec doublure PE, sacs jumbo de 1000 kg.
+      Emballage personnalisé disponible.
   - label: Chargement
     value: 25 tonnes par conteneur 20GP (FCL)
   - label: Ports Disponibles

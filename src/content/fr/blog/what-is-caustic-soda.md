@@ -4,7 +4,9 @@ Excerpt: >-
   Un guide complet sur la soude caustique (hydroxyde de sodium) : ses propriétés
   chimiques, applications, grades, sécurité et comment l'acquérir pour votre
   entreprise.
-title: Qu'est-ce que la Soude Caustique ? Un Guide Complet pour les Acheteurs Industriels
+title: >-
+  Qu'est-ce que la Soude Caustique ? Un Guide Complet pour les Acheteurs
+  Industriels
 description: >-
   Un guide complet sur la soude caustique (hydroxyde de sodium) : ses propriétés
   chimiques, applications, grades, sécurité et comment l'acquérir pour votre

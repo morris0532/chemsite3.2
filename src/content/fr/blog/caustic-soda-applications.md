@@ -4,7 +4,9 @@ Excerpt: >-
   Découvrez les diverses applications industrielles de la soude caustique
   (hydroxyde de sodium) dans le traitement de l'eau, les batteries au lithium,
   les textiles et plus encore. Un guide complet pour les achats B2B.
-title: 'Applications de la Soude Caustique: Guide Industriel Complet pour les Acheteurs B2B'
+title: >-
+  Applications de la Soude Caustique: Guide Industriel Complet pour les
+  Acheteurs B2B
 description: >-
   Découvrez les diverses applications industrielles de la soude caustique
   (hydroxyde de sodium) dans le traitement de l'eau, les batteries au lithium,

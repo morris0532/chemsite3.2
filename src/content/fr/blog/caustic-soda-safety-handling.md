@@ -1,13 +1,20 @@
 ---
 Id: SP-xcr3rd08e6
 Excerpt: >-
-  Guide complet sur la sécurité lors de la manipulation de la soude caustique (NaOH). Découvrez les équipements de protection individuelle (EPI), les premiers secours et les protocoles de stockage pour les installations industrielles.
+  Guide complet sur la sécurité lors de la manipulation de la soude caustique
+  (NaOH). Découvrez les équipements de protection individuelle (EPI), les
+  premiers secours et les protocoles de stockage pour les installations
+  industrielles.
 title: 'Sécurité et Manipulation de la Soude Caustique : Guide Industriel Complet'
 description: >-
-  Guide complet sur la sécurité lors de la manipulation de la soude caustique (NaOH). Découvrez les équipements de protection individuelle (EPI), les premiers secours et les protocoles de stockage pour les installations industrielles.
+  Guide complet sur la sécurité lors de la manipulation de la soude caustique
+  (NaOH). Découvrez les équipements de protection individuelle (EPI), les
+  premiers secours et les protocoles de stockage pour les installations
+  industrielles.
 image: /images/blog/caustic-soda-safety-handling.webp
 imageAlt: >-
-  Travailleur industriel portant un équipement de protection individuelle (EPI) complet manipulant des produits chimiques en toute sécurité
+  Travailleur industriel portant un équipement de protection individuelle (EPI)
+  complet manipulant des produits chimiques en toute sécurité
 Date: '2026-04-13'
 author: Sinopeakchem Technical Team
 category: Sécurité et Conformité

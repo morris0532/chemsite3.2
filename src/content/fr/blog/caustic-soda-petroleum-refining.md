@@ -1,14 +1,22 @@
 ---
 Id: SP-f4qwcru1yk
 Excerpt: >-
-  Découvrez le rôle vital de la soude caustique (hydroxyde de sodium) dans le raffinage du pétrole, en mettant l'accent sur ses applications dans la désulfuration, la neutralisation des composants acides et l'optimisation globale des processus.
+  Découvrez le rôle vital de la soude caustique (hydroxyde de sodium) dans le
+  raffinage du pétrole, en mettant l'accent sur ses applications dans la
+  désulfuration, la neutralisation des composants acides et l'optimisation
+  globale des processus.
 title: >-
-  La Soude Caustique dans le Raffinage du Pétrole : Essentielle pour la Désulfuration et la Neutralisation
+  La Soude Caustique dans le Raffinage du Pétrole : Essentielle pour la
+  Désulfuration et la Neutralisation
 description: >-
-  Découvrez le rôle vital de la soude caustique (hydroxyde de sodium) dans le raffinage du pétrole, en mettant l'accent sur ses applications dans la désulfuration, la neutralisation des composants acides et l'optimisation globale des processus.
+  Découvrez le rôle vital de la soude caustique (hydroxyde de sodium) dans le
+  raffinage du pétrole, en mettant l'accent sur ses applications dans la
+  désulfuration, la neutralisation des composants acides et l'optimisation
+  globale des processus.
 image: /images/blog/caustic-soda-petroleum-refining.webp
 imageAlt: >-
-  Raffinerie de pétrole avec colonnes de distillation, réservoirs de stockage et unités de traitement chimique, illustrant l'utilisation de la soude caustique.
+  Raffinerie de pétrole avec colonnes de distillation, réservoirs de stockage et
+  unités de traitement chimique, illustrant l'utilisation de la soude caustique.
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications

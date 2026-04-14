@@ -4,7 +4,8 @@ id: privacy-policy
 slug: privacy-policy
 date: '2026-04-13'
 untranslated: true
---- 
+---
+ 
 
 **Last updated: March 31, 2026**
 

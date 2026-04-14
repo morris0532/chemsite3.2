@@ -1,13 +1,18 @@
 ---
 Id: SP-vbn2qc07d5
 Excerpt: >-
-  Guía completa sobre seguridad en el manejo de soda cáustica (NaOH). Conozca el equipo de protección personal (EPP), primeros auxilios y protocolos de almacenamiento para instalaciones industriales.
+  Guía completa sobre seguridad en el manejo de soda cáustica (NaOH). Conozca el
+  equipo de protección personal (EPP), primeros auxilios y protocolos de
+  almacenamiento para instalaciones industriales.
 title: 'Seguridad y Manejo de la Soda Cáustica: Guía Industrial Completa'
 description: >-
-  Guía completa sobre seguridad en el manejo de soda cáustica (NaOH). Conozca el equipo de protección personal (EPP), primeros auxilios y protocolos de almacenamiento para instalaciones industriales.
+  Guía completa sobre seguridad en el manejo de soda cáustica (NaOH). Conozca el
+  equipo de protección personal (EPP), primeros auxilios y protocolos de
+  almacenamiento para instalaciones industriales.
 image: /images/blog/caustic-soda-safety-handling.webp
 imageAlt: >-
-  Trabajador industrial con equipo de protección personal (EPP) completo manejando químicos de forma segura
+  Trabajador industrial con equipo de protección personal (EPP) completo
+  manejando químicos de forma segura
 Date: '2026-04-13'
 author: Sinopeakchem Technical Team
 category: Seguridad y Cumplimiento

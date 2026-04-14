@@ -19,7 +19,8 @@ Schema_Type: TechArticle
 Target_Region: Global (EN)
 rootnotouch: how-aluminum-sulfate-functions-in-water-treatment
 slug: how-aluminum-sulfate-functions-in-water-treatment
---- 
+---
+ 
 
 **[Aluminum sulfate](https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, with the chemical formula Al₂(SO₄)₃ and a molecular weight of 342.15, is a widely recognized inorganic compound appearing as a white crystalline solid. As a critical chemical agent, its primary function in water treatment involves generating colloidal particles through hydrolysis reactions. These particles effectively adsorb and precipitate suspended solids, colloids, and various dissolved impurities, leading to comprehensive water purification. Its applications are diverse, spanning drinking water treatment, industrial wastewater management, the preparation of rosin sizing agents in the papermaking industry, and petroleum decolorization.
 

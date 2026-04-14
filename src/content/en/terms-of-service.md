@@ -4,7 +4,8 @@ id: terms-of-service
 slug: terms-of-service
 date: '2026-04-13'
 untranslated: true
---- 
+---
+ 
 
 **Last updated: March 31, 2026**
 
