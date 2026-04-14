@@ -14,7 +14,7 @@ author: Sinopeakchem Technical Team
 category: Анализ Рынка
 Primary_Keyword: цены на каустическую соду
 Schema_Type: TechArticle
-date: '2026-04-12'
+date: "2026-04-14"
 rootnotouch: caustic-soda-price-trends-market-analysis
 ---
 

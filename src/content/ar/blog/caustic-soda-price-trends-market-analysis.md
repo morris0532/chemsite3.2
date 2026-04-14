@@ -11,7 +11,7 @@ author: Sinopeakchem Technical Team
 category: تحليل السوق
 Primary_Keyword: أسعار الصودا الكاوية
 Schema_Type: TechArticle
-date: '2026-04-12'
+date: "2026-04-14"
 rootnotouch: caustic-soda-price-trends-market-analysis
 ---
 

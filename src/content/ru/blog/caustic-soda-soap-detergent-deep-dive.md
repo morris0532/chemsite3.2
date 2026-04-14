@@ -16,7 +16,7 @@ author: Sinopeakchem Cleaning Solutions
 category: Applications
 id: CS-X7rM5oO0P4
 slug: caustic-soda-soap-detergent-deep-dive
-date: 2026-04-12T00:00:00.000Z
+date: "2026-04-14"
 tags:
   - caustic soda soap
   - sodium hydroxide detergent

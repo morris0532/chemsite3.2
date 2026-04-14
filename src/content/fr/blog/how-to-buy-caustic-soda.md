@@ -13,7 +13,7 @@ author: Sinopeakchem Technical Team
 category: Guide de Sourcing
 Primary_Keyword: acheter soude caustique
 Schema_Type: TechArticle
-date: '2024-03-20'
+date: "2026-04-14"
 rootnotouch: how-to-buy-caustic-soda
 ---
 
