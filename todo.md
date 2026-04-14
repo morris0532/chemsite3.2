@@ -2,7 +2,7 @@
 
 ## Design Guidelines
 
-### Design References
+### Design References 
 - **BASF.com**: Professional chemical industry layout
 - **Dow.com**: Clean B2B product showcase
 - **Style**: Professional, Industrial, Blue Chemical Theme
