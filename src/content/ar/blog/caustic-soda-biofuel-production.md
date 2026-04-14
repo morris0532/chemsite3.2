@@ -12,9 +12,16 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - الوقود الحيوي
+  - الديزل الحيوي
+  - الأسترة التبادلية
+  - الطاقة المتجددة
+  - الصناعات الكيميائية
+Primary_Keyword: الصودا الكاوية لإنتاج الوقود الحيوي
+Keywords: >-
+  الصودا الكاوية لإنتاج الوقود الحيوي, هيدروكسيد الصوديوم الديزل الحيوي, حفاز الأسترة التبادلية, إنتاج الديزل الحيوي, SinoPeakChem, مورد الصودا الكاوية, الوقود المستدام
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-biofuel-production
