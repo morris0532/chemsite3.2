@@ -12,9 +12,16 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - الألومينا
+  - عملية باير
+  - البوكسيت
+  - الصناعات الكيميائية
+  - الشرق الأوسط وشمال إفريقيا
+Primary_Keyword: الصودا الكاوية لإنتاج الألومينا
+Keywords: >-
+  الصودا الكاوية لإنتاج الألومينا, عملية باير, هيدروكسيد الصوديوم الألومينا, تكرير البوكسيت, الطين الأحمر, ألومينات الصوديوم, SinoPeakChem, مورد الصودا الكاوية
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-alumina-production-deep-dive
