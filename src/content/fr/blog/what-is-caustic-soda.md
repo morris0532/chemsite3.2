@@ -25,7 +25,6 @@ rootnotouch: what-is-caustic-soda
 slug: what-is-caustic-soda
 ---
 
-# Qu'est-ce que la Soude Caustique ? Un Guide Complet pour les Acheteurs Industriels
 
 La **soude caustique**, connue chimiquement sous le nom d'**hydroxyde de sodium (NaOH)**, est l'un des produits chimiques industriels les plus importants au monde. Des stations de traitement de l'eau à la fabrication de batteries au lithium, la soude caustique joue un rôle indispensable dans l'industrie moderne. Ce guide complet explore tout ce que vous devez savoir sur **ce qu'est la soude caustique** : ses propriétés, ses applications, ses grades et comment l'acquérir efficacement pour votre entreprise. Cet article est votre ressource essentielle pour une compréhension approfondie de l'hydroxyde de sodium.
 
