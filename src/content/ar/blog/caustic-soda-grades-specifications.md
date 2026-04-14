@@ -9,9 +9,16 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Product Knowledge
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - درجات الصودا الكاوية
+  - مواصفات الصودا الكاوية
+  - نقاء الصودا الكاوية
+  - هيدروكسيد الصوديوم
+  - الصناعات الكيميائية
+Primary_Keyword: درجات ومواصفات الصودا الكاوية
+Keywords: >-
+  درجات الصودا الكاوية, مواصفات هيدروكسيد الصوديوم, نقاء الصودا الكاوية, الصودا الكاوية الصناعية, الصودا الكاوية الغذائية, الصودا الكاوية الدوائية, الصودا الكاوية الإلكترونية, SinoPeakChem, مورد الصودا الكاوية, شهادة التحليل COA
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-grades-specifications
