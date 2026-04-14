@@ -16,9 +16,16 @@ imageAlt: >-
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: دليل المشتريات
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - حمض الأكساليك
+  - شراء بالجملة
+  - الخدمات اللوجستية
+  - التجارة الدولية
+  - دليل المشتريات
+  - الصناعات الكيميائية
+Primary_Keyword: شراء حمض الأكساليك بالجملة
+Keywords: >-
+  شراء حمض الأكساليك بالجملة, مورد حمض الأكساليك, الحد الأدنى لكمية الطلب حمض الأكساليك, تعبئة حمض الأكساليك, شحن حمض الأكساليك, شروط الدفع حمض الأكساليك, حمض الأكساليك الصناعي, سلسلة توريد حمض الأكساليك
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: buy-oxalic-acid-bulk
