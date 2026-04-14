@@ -1,20 +1,12 @@
 ---
 Id: SP-wm0zduwtmb
-Excerpt: >-
-  A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃),
-  highlighting their chemical differences, applications, and helping industrial
-  buyers choose the right alkali for their processes.
 title: >-
-  Caustic Soda vs. Soda Ash: Key Differences & Selection Guide for Industrial
-  Buyers
+  الصودا الكاوية مقابل رماد الصودا: الاختلافات الرئيسية ودليل الاختيار للمشترين الصناعيين
 description: >-
-  A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃),
-  highlighting their chemical differences, applications, and helping industrial
-  buyers choose the right alkali for their processes.
+  مقارنة تفصيلية بين الصودا الكاوية (NaOH) ورماد الصودا (Na₂CO₃)، تسلط الضوء على الاختلافات الكيميائية والتطبيقات وتساعد المشترين الصناعيين على اختيار القلوي المناسب لعملياتهم.
 image: /images/blog/caustic-soda-vs-soda-ash.webp
 imageAlt: >-
-  Comparative illustration of caustic soda and soda ash with chemical structures
-  and industrial applications
+  رسم توضيحي مقارن للصودا الكاوية ورماد الصودا مع الهياكل الكيميائية والتطبيقات الصناعية
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Product Knowledge
@@ -27,156 +19,137 @@ rootnotouch: caustic-soda-vs-soda-ash
 slug: caustic-soda-vs-soda-ash
 ---
 
-For industrial buyers and process engineers, distinguishing between **caustic soda (sodium hydroxide, NaOH)** and **soda ash (sodium carbonate, Na₂CO₃)** is fundamental. Both are widely used alkali chemicals, playing crucial roles in numerous industrial processes. However, despite their shared alkalinity, their chemical properties, reactivity, and optimal applications differ significantly. Choosing the wrong one can lead to inefficient processes, product quality issues, or increased operational costs.
+بالنسبة للمشترين الصناعيين ومهندسي العمليات، يعد التمييز بين **الصودا الكاوية (هيدروكسيد الصوديوم، NaOH)** و **رماد الصودا (كربونات الصوديوم، Na₂CO₃)** أمراً أساسياً. كلاهما مواد كيميائية قلوية مستخدمة على نطاق واسع، وتلعب أدواراً حاسمة في العديد من العمليات الصناعية. ومع ذلك، على الرغم من قلويتهما المشتركة، فإن خصائصهما الكيميائية وتفاعليتهما وتطبيقاتهما المثالية تختلف بشكل كبير. يمكن أن يؤدي اختيار المادة الخاطئة إلى عمليات غير فعالة، أو مشاكل في جودة المنتج، أو زيادة تكاليف التشغيل.
 
-This comprehensive guide provides a detailed comparison of **caustic soda vs. soda ash**, outlining their key chemical and physical differences, primary industrial applications, and critical factors to consider when selecting the appropriate alkali for your specific needs. By understanding these distinctions, you can optimize your chemical procurement and process efficiency.
+يوفر هذا الدليل الشامل مقارنة تفصيلية بين **الصودا الكاوية مقابل رماد الصودا**، موضحاً الاختلافات الكيميائية والفيزيائية الرئيسية، والتطبيقات الصناعية الأساسية، والعوامل الحاسمة التي يجب مراعاتها عند اختيار القلوي المناسب لاحتياجاتك المحددة. من خلال فهم هذه الاختلافات، يمكنك تحسين شراء المواد الكيميائية وكفاءة العمليات لديك.
 
-## Caustic Soda (NaOH): The Strong Alkali
+## الصودا الكاوية (NaOH): القلوي القوي
 
-Caustic soda, or sodium hydroxide, is a strong, highly corrosive base. It is typically available in solid forms (flakes, pearls) or as an aqueous solution (e.g., 30%, 50%). Its strength and reactivity make it ideal for applications requiring aggressive pH adjustment or strong chemical reactions.
+الصودا الكاوية، أو هيدروكسيد الصوديوم، هي قاعدة قوية وشديدة التآكل. تتوفر عادة في أشكال صلبة (قشور، لؤلؤ) أو كمحلول مائي (مثل 30%، 50%). قوتها وتفاعليتها تجعلها مثالية للتطبيقات التي تتطلب ضبطاً قوياً لدرجة الحموضة أو تفاعلات كيميائية قوية.
 
-### Key Characteristics of Caustic Soda:
+### الخصائص الرئيسية للصودا الكاوية:
 
-*   **Chemical Formula:** NaOH
-*   **Nature:** Strong base (pH ~13-14 at typical concentrations)
-*   **Corrosivity:** Highly corrosive to organic tissues and certain metals.
-*   **Reactivity:** Highly reactive, especially with acids (exothermic reaction) and water (exothermic dissolution).
-*   **Forms:** Solid (flakes, pearls), Liquid (solution).
-*   **Production:** Primarily via the chlor-alkali process (electrolysis of brine).
+*   **الصيغة الكيميائية:** NaOH
+*   **الطبيعة:** قاعدة قوية (درجة الحموضة ~13-14 عند التركيزات النموذجية)
+*   **التآكل:** شديدة التآكل للأنسجة العضوية وبعض المعادن.
+*   **التفاعلية:** شديدة التفاعل، خاصة مع الأحماض (تفاعل طارد للحرارة) والماء (ذوبان طارد للحرارة).
+*   **الأشكال:** صلب (قشور، لؤلؤ)، سائل (محلول).
+*   **الإنتاج:** بشكل أساسي عبر عملية الكلور-قلوي (التحليل الكهربائي للمحلول الملحي).
 
-### Primary Applications of Caustic Soda:
+### التطبيقات الأساسية للصودا الكاوية:
 
-*   **Water Treatment:** pH adjustment, alkalinity control, heavy metal precipitation.
-*   **Pulp & Paper:** Kraft pulping, bleaching, de-inking.
-*   **Chemical Manufacturing:** Production of various organic and inorganic chemicals, detergents, soaps, dyes.
-*   **Alumina Production:** Bayer process for refining bauxite ore.
-*   **Textile Industry:** Mercerization of cotton.
-*   **Petroleum Refining:** Removal of acidic impurities.
+*   **معالجة المياه:** ضبط درجة الحموضة، التحكم في القلوية، ترسيب المعادن الثقيلة.
+*   **اللب والورق:** لب الكرافت، التبييض، إزالة الحبر.
+*   **التصنيع الكيميائي:** إنتاج مختلف المواد الكيميائية العضوية وغير العضوية، المنظفات، الصابون، الأصباغ.
+*   **إنتاج الألومينا:** عملية باير لتكرير خام البوكسيت.
+*   **صناعة المنسوجات:** مرسرة القطن.
+*   **تكرير البترول:** إزالة الشوائب الحمضية.
 
-## Soda Ash (Na₂CO₃): The Milder Alkali
+## رماد الصودا (Na₂CO₃): القلوي الأخف
 
-Soda ash, or sodium carbonate, is a milder alkali compared to caustic soda. It is typically available as a white, odorless powder (light or dense). Its milder alkalinity and buffering capacity make it suitable for applications where a less aggressive pH adjustment is required or where a buffering effect is desired.
+رماد الصودا، أو كربونات الصوديوم، هو قلوي أخف مقارنة بالصودا الكاوية. يتوفر عادة كمسحوق أبيض عديم الرائحة (خفيف أو كثيف). قلويته الأخف وقدرته على التخزين المؤقت تجعله مناسباً للتطبيقات التي تتطلب ضبطاً أقل حدة لدرجة الحموضة أو حيث يكون تأثير التخزين المؤقت مطلوباً.
 
-### Key Characteristics of Soda Ash:
+### الخصائص الرئيسية لرماد الصودا:
 
-*   **Chemical Formula:** Na₂CO₃
-*   **Nature:** Milder base (pH ~11-12 at typical concentrations)
-*   **Corrosivity:** Less corrosive than caustic soda, but still an irritant.
-*   **Reactivity:** Reacts with acids to release carbon dioxide gas. Dissolves in water with less heat generation than NaOH.
-*   **Forms:** Solid (light soda ash, dense soda ash).
-*   **Production:** Primarily via the Solvay process or from natural trona deposits.
+*   **الصيغة الكيميائية:** Na₂CO₃
+*   **الطبيعة:** قاعدة أخف (درجة الحموضة ~11-12 عند التركيزات النموذجية)
+*   **التآكل:** أقل تآكلاً من الصودا الكاوية، لكنه لا يزال مادة مهيجة.
+*   **التفاعلية:** يتفاعل مع الأحماض لإطلاق غاز ثاني أكسيد الكربون. يذوب في الماء مع توليد حرارة أقل من NaOH.
+*   **الأشكال:** صلب (رماد صودا خفيف، رماد صودا كثيف).
+*   **الإنتاج:** بشكل أساسي عبر عملية سولفاي أو من رواسب الترونا الطبيعية.
 
-### Primary Applications of Soda Ash:
+### التطبيقات الأساسية لرماد الصودا:
 
-*   **Glass Manufacturing:** Primary raw material for producing glass (flat glass, container glass, fiberglass).
-*   **Detergents & Soaps:** As a builder, water softener, and alkalinity source.
-*   **Water Treatment:** pH adjustment, water softening, alkalinity control (often in conjunction with lime).
-*   **Pulp & Paper:** De-inking, buffering agent.
-*   **Chemical Manufacturing:** Production of sodium bicarbonate, sodium silicates, chromates.
-*   **Metallurgy:** Flux in metal refining.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💡 **Unsure Which Alkali Suits Your Process Best?**
-Our technical experts can help you analyze your requirements and recommend the optimal chemical solution.
-**[Consult Our Technical Team →](/en/contact)**
+*   **تصنيع الزجاج:** مادة خام أساسية لإنتاج الزجاج (الزجاج المسطح، زجاج الحاويات، الألياف الزجاجية).
+*   **المنظفات والصابون:** كعامل بناء، ومنقي للمياه، ومصدر للقلوية.
+*   **معالجة المياه:** ضبط درجة الحموضة، تنقية المياه، التحكم في القلوية (غالباً بالاشتراك مع الجير).
+*   **اللب والورق:** إزالة الحبر، عامل تخزين مؤقت.
+*   **التصنيع الكيميائي:** إنتاج بيكربونات الصوديوم، سيليكات الصوديوم، الكرومات.
+*   **الميتالورجيا:** صهيرة في تكرير المعادن.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Key Differences: Caustic Soda vs. Soda Ash
-
-While both are sodium-based alkalis, their distinct properties dictate their suitability for different industrial applications. The table below summarizes their key differences:
-
-| Feature             | Caustic Soda (NaOH)                               | Soda Ash (Na₂CO₃)                                 |
-|---------------------|---------------------------------------------------|---------------------------------------------------|
-| **Chemical Strength** | Strong base                                       | Milder base                                       |
-| **pH (1% solution)**| ~13-14                                            | ~11-12                                            |
-| **Corrosivity**     | Highly corrosive                                  | Less corrosive, irritant                          |
-| **Reactivity**      | Highly reactive with acids (exothermic), water (exothermic dissolution), some metals. | Reacts with acids (releases CO₂), dissolves in water with less heat. |
-| **Forms Available** | Flakes, pearls, liquid solution                   | Light powder, dense powder                        |
-| **Primary Use**     | Aggressive pH adjustment, strong chemical reactions, refining. | Milder pH adjustment, buffering, raw material for glass/detergents. |
-| **Cost (per unit alkalinity)** | Generally higher                                  | Generally lower                                   |
-| **Handling**        | Requires stringent PPE, specialized storage/transport. | Requires careful handling, but less hazardous than NaOH. |
-| **Environmental Impact** | High pH if released untreated                     | High pH if released untreated, but less severe immediate impact. |
-
-## Choosing the Right Alkali: Selection Guide for Industrial Buyers
-
-Selecting between caustic soda and soda ash depends heavily on the specific requirements of your process. Consider the following factors:
-
-### 1. Required Alkalinity Strength and pH Control:
-
-*   **Caustic Soda:** Choose NaOH when you need a very strong base for rapid and significant pH elevation, or for processes requiring high alkalinity (e.g., strong acid neutralization, saponification).
-*   **Soda Ash:** Opt for Na₂CO₃ when a milder, more gradual pH adjustment is sufficient, or when a buffering effect is desired to maintain a stable pH range (e.g., water softening, certain textile processes).
-
-### 2. Reactivity and Process Conditions:
-
-*   **Caustic Soda:** Its high reactivity is beneficial for processes requiring strong chemical attack or where an exothermic reaction can be utilized. However, this also means careful control is needed.
-*   **Soda Ash:** Its milder reactivity is advantageous in processes where a less aggressive chemical is preferred, or where the release of CO₂ gas is acceptable or even desired (e.g., in some chemical syntheses).
-
-### 3. End-Use Application and Product Purity:
-
-*   **Specific Industry Needs:** For example, glass manufacturing relies heavily on soda ash as a raw material, while alumina refining primarily uses caustic soda.
-*   **Purity Requirements:** Both chemicals come in various grades. Ensure the chosen alkali meets the purity standards for your final product (e.g., food grade, technical grade).
-
-### 4. Cost-Effectiveness:
-
-*   **Price per Unit Alkalinity:** While soda ash often has a lower per-ton price, evaluate the cost per unit of effective alkalinity. Caustic soda, being a stronger base, might be more cost-effective for certain applications despite a higher initial price.
-*   **Handling Costs:** Factor in the costs associated with safe handling, storage, and disposal, which can be higher for caustic soda due to its corrosive nature.
-
-### 5. Safety and Environmental Considerations:
-
-*   **Hazard Profile:** Caustic soda is significantly more hazardous. Assess your facility's capabilities for safe handling, storage, and emergency response.
-*   **Waste Treatment:** Consider the environmental impact of waste streams and the ease of neutralization for each chemical.
+💡 **هل أنت غير متأكد من القلوي الذي يناسب عمليتك بشكل أفضل؟**
+يمكن لخبراءنا الفنيين مساعدتك في تحليل متطلباتك والتوصية بالحل الكيميائي الأمثل.
+**[استشر فريقنا الفني ←](/ar/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✅ **Optimize Your Chemical Procurement.**
-Sinopeakchem offers both high-quality Caustic Soda and Soda Ash, with expert technical support to guide your selection.
-**[Get a Tailored Solution →](/en/contact)**
+## الاختلافات الرئيسية: الصودا الكاوية مقابل رماد الصودا
+
+على الرغم من أن كلاهما قلويات تعتمد على الصوديوم، إلا أن خصائصهما المتميزة تملي ملاءمتهما لمختلف التطبيقات الصناعية. يلخص الجدول أدناه الاختلافات الرئيسية بينهما:
+
+| الميزة | الصودا الكاوية (NaOH) | رماد الصودا (Na₂CO₃) |
+| :--- | :--- | :--- |
+| **القوة الكيميائية** | قاعدة قوية | قاعدة أخف |
+| **درجة الحموضة (محلول 1%)** | ~13-14 | ~11-12 |
+| **التآكل** | شديدة التآكل | أقل تآكلاً، مهيجة |
+| **التفاعلية** | شديدة التفاعل مع الأحماض والماء وبعض المعادن | يتفاعل مع الأحماض (يطلق CO₂)، يذوب بحرارة أقل |
+| **الأشكال المتوفرة** | قشور، لؤلؤ، محلول سائل | مسحوق خفيف، مسحوق كثيف |
+| **الاستخدام الأساسي** | ضبط قوي لدرجة الحموضة، تكرير | ضبط أخف لدرجة الحموضة، مادة خام للزجاج |
+| **التكلفة (لكل وحدة قلوية)** | أعلى عموماً | أقل عموماً |
+| **المناولة** | تتطلب معدات وقاية صارمة وتخزيناً متخصصاً | تتطلب مناولة حذرة، لكنها أقل خطورة من NaOH |
+
+## اختيار القلوي المناسب: دليل للمشترين الصناعيين
+
+يعتمد الاختيار بين الصودا الكاوية ورماد الصودا بشكل كبير على المتطلبات المحددة لعمليتك. ضع في اعتبارك العوامل التالية:
+
+### 1. قوة القلوية المطلوبة والتحكم في درجة الحموضة:
+*   **الصودا الكاوية:** اختر NaOH عندما تحتاج إلى قاعدة قوية جداً لرفع درجة الحموضة بسرعة وبشكل كبير، أو للعمليات التي تتطلب قلوية عالية (مثل معادلة الأحماض القوية، التصبن).
+*   **رماد الصودا:** اختر Na₂CO₃ عندما يكون الضبط الأخف والأكثر تدرجاً لدرجة الحموضة كافياً، أو عندما يكون تأثير التخزين المؤقت مطلوباً للحفاظ على نطاق ثابت لدرجة الحموضة.
+
+### 2. التفاعلية وظروف العملية:
+*   **الصودا الكاوية:** تفاعليتها العالية مفيدة للعمليات التي تتطلب هجوماً كيميائياً قوياً. ومع ذلك، هذا يعني أيضاً الحاجة إلى تحكم دقيق.
+*   **رماد الصودا:** تفاعليتها الأخف ميزة في العمليات التي يُفضل فيها مادة كيميائية أقل حدة، أو حيث يكون إطلاق غاز CO₂ مقبولاً أو حتى مطلوباً.
+
+### 3. تطبيق الاستخدام النهائي ونقاء المنتج:
+*   **احتياجات الصناعة المحددة:** على سبيل المثال، يعتمد تصنيع الزجاج بشكل كبير على رماد الصودا كمادة خام، بينما يستخدم تكرير الألومينا الصودا الكاوية بشكل أساسي.
+*   **متطلبات النقاء:** تأكد من أن القلوي المختار يلبي معايير النقاء لمنتجك النهائي (مثل الدرجة الغذائية، الدرجة التقنية).
+
+### 4. فعالية التكلفة:
+*   **السعر لكل وحدة قلوية:** بينما يكون لرماد الصودا غالباً سعر أقل للطن، قم بتقييم التكلفة لكل وحدة من القلوية الفعالة. قد تكون الصودا الكاوية أكثر فعالية من حيث التكلفة لبعض التطبيقات رغم سعرها الأولي الأعلى.
+
+### 5. اعتبارات السلامة والبيئة:
+*   **ملف المخاطر:** الصودا الكاوية أكثر خطورة بكثير. قم بتقييم قدرات منشأتك على المناولة الآمنة والتخزين والاستجابة للطوارئ.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Frequently Asked Questions (FAQ)
-
-### 1. Can caustic soda and soda ash be used interchangeably?
-
-No, caustic soda and soda ash cannot be used interchangeably in most applications. While both are alkalis and can raise pH, caustic soda is a much stronger and more corrosive base, leading to more aggressive reactions. Soda ash is milder and often used for buffering or as a raw material in specific industries like glass manufacturing. Using the wrong chemical can lead to process inefficiencies, product damage, or safety hazards.
-
-### 2. Which is more corrosive, caustic soda or soda ash?
-
-**Caustic soda (NaOH) is significantly more corrosive than soda ash (Na₂CO₃).** Caustic soda is a strong base that can cause severe chemical burns to skin and eyes and corrode certain metals. Soda ash is a milder alkali and while it can be an irritant, its corrosive properties are much less severe than those of caustic soda.
-
-### 3. What are the main applications where soda ash is preferred over caustic soda?
-
-Soda ash is typically preferred over caustic soda in applications such as **glass manufacturing** (as a primary raw material), **detergent and soap production** (as a builder and water softener), and **water treatment** where a milder pH adjustment or buffering capacity is desired. It's also used in the production of sodium bicarbonate and sodium silicates.
-
-### 4. How does the production method differ for caustic soda and soda ash?
-
-Caustic soda is primarily produced via the **chlor-alkali process**, which involves the electrolysis of brine (sodium chloride solution), yielding caustic soda, chlorine, and hydrogen. Soda ash is mainly produced either through the **Solvay process** (a synthetic method using salt, limestone, and ammonia) or by **mining natural trona deposits** and refining them.
-
-### 5. When should an industrial buyer choose caustic soda for pH adjustment?
-
-An industrial buyer should choose caustic soda for pH adjustment when their process requires a **rapid and significant increase in pH**, or when dealing with strong acids that need aggressive neutralization. Its strong basicity makes it highly effective for applications demanding high alkalinity, such as in certain chemical reactions, alumina refining, or specific water treatment scenarios where a quick and powerful pH shift is necessary.
+✅ **حسن شراء المواد الكيميائية لديك.**
+تقدم Sinopeakchem كلاً من الصودا الكاوية ورماد الصودا عالي الجودة، مع دعم فني خبير لتوجيه اختيارك.
+**[احصل على حل مخصص ←](/ar/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏭 **Ready to Source Your First Batch of Caustic Soda?**
-Sinopeakchem — Your trusted caustic soda partner.
-✅ 28+ years experience ✅ ISO certified ✅ Competitive pricing ✅ Free samples.
-**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
+## الأسئلة الشائعة (FAQ)
+
+### 1. هل يمكن استخدام الصودا الكاوية ورماد الصودا بالتبادل؟
+لا، لا يمكن استخدامهما بالتبادل في معظم التطبيقات. الصودا الكاوية قاعدة أقوى بكثير وأكثر تآكلاً، مما يؤدي إلى تفاعلات أكثر حدة. رماد الصودا أخف ويستخدم غالباً للتخزين المؤقت أو كمادة خام في صناعات محددة مثل الزجاج.
+
+### 2. أيهما أكثر تآكلاً، الصودا الكاوية أم رماد الصودا؟
+**الصودا الكاوية (NaOH) أكثر تآكلاً بكثير من رماد الصودا (Na₂CO₃).** يمكن أن تسبب حروقاً كيميائية شديدة للجلد والعينين وتؤكل بعض المعادن.
+
+### 3. ما هي التطبيقات الرئيسية التي يُفضل فيها رماد الصودا؟
+يُفضل في **تصنيع الزجاج**، **إنتاج المنظفات والصابون**، و **معالجة المياه** حيث يكون الضبط الأخف لدرجة الحموضة مطلوباً.
+
+### 4. كيف تختلف طريقة الإنتاج بينهما؟
+تُنتج الصودا الكاوية عبر **عملية الكلور-قلوي** (التحليل الكهربائي للمحلول الملحي). يُنتج رماد الصودا بشكل أساسي عبر **عملية سولفاي** أو عن طريق **تعدين رواسب الترونا الطبيعية**.
+
+### 5. متى يجب على المشتري الصناعي اختيار الصودا الكاوية لضبط درجة الحموضة؟
+عندما تتطلب العملية **زيادة سريعة وكبيرة في درجة الحموضة**، أو عند التعامل مع أحماض قوية تحتاج إلى معادلة قوية.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏭 **هل أنت مستعد لطلب دفعتك الأولى؟**
+Sinopeakchem — شريكك الموثوق.
+✅ خبرة 28+ عاماً ✅ شهادة ISO ✅ أسعار تنافسية ✅ عينات مجانية.
+**[احصل على عرض سعر مجاني ←](/ar/contact)** **[اطلب عينة ←](/ar/contact)**
 📧 sales@sinopeakchem.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## References
-
-1.  **Euro Chlor.** "The Chlor-Alkali Industry." *Euro Chlor*, 2023. [https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/](https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/)
-2.  **American Chemical Society (ACS).** "Sodium Carbonate." *ACS*, 2023. [https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html](https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html)
-3.  **U.S. Environmental Protection Agency (EPA).** "Sodium Hydroxide Fact Sheet." *Chemical Safety Data Sheets*, 2023.
-4.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
-7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Hydroxide." *Wiley-VCH*, 2005.
-8.  **Water Quality Association (WQA).** "Water Softening with Soda Ash." *WQA*, 2023.
-9.  **Glass Manufacturing Industry Council (GMIC).** "Raw Materials for Glass Production." *GMIC*, 2024.
-10. **Chemical Engineering Journal.** "Comparative Study of Caustic Soda and Soda Ash in Industrial Applications." Vol. 150, 2023.
+## المراجع
+1. **Euro Chlor.** "The Chlor-Alkali Industry."
+2. **American Chemical Society.** "Sodium Carbonate."
+3. **EPA.** "Sodium Hydroxide Fact Sheet."
+4. **USGS.** "Soda Ash Statistics."
+5. **OSHA.** "Safety and Health Topics: Sodium Hydroxide."
