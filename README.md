@@ -7,7 +7,7 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
+- shadcn-ui 
 - Tailwind CSS
 
 All shadcn/ui components have been downloaded under `@/components/ui`.
