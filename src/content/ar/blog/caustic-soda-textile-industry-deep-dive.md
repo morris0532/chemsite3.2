@@ -12,9 +12,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - صناعة المنسوجات
+  - المرسرة
+  - الصباغة
+  - هيدروكسيد الصوديوم
+  - تشطيب الأقمشة
+  - تنظيف المنسوجات
+Primary_Keyword: الصودا الكاوية في صناعة المنسوجات
+Keywords: >-
+  الصودا الكاوية للمنسوجات, هيدروكسيد الصوديوم مرسرة, صباغة الأقمشة بالصودا الكاوية, تنظيف القطن, تشطيب المنسوجات, SinoPeakChem, مورد الصودا الكاوية للنسيج, معالجة الألياف
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-textile-industry-deep-dive
