@@ -12,9 +12,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - التعدين
+  - معالجة المعادن
+  - هيدروكسيد الصوديوم
+  - استخراج الذهب
+  - عملية باير
+  - التحكم في درجة الحموضة
+Primary_Keyword: الصودا الكاوية في التعدين
+Keywords: >-
+  الصودا الكاوية في التعدين, هيدروكسيد الصوديوم لمعالجة المعادن, الصودا الكاوية لاستخراج الذهب, عملية باير الصودا الكاوية, التحكم في درجة الحموضة التعدين, SinoPeakChem, مورد الصودا الكاوية للتعدين
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-mining-mineral-processing
