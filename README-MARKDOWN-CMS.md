@@ -35,7 +35,7 @@ src/content/
 
 ### 2. Markdown 文件
 每篇博客文章或产品都是一个独立的 `.md` 文件，包含：
-- **Frontmatter**（YAML 格式）：元数据（标题、日期、分类等）
+- **Frontmatter**（YAML 格式）：元数据（标题、日期、分类等） 
 - **内容**：Markdown 格式的正文
 
 **示例**：
