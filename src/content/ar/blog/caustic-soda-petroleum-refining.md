@@ -12,9 +12,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - تكرير البترول
+  - إزالة الكبريت
+  - هيدروكسيد الصوديوم
+  - عملية ميروكس
+  - معادلة الأحماض
+  - صناعة النفط
+Primary_Keyword: الصودا الكاوية في تكرير البترول
+Keywords: >-
+  الصودا الكاوية تكرير البترول, هيدروكسيد الصوديوم إزالة الكبريت, عملية ميروكس, معادلة الأحماض في المصافي, SinoPeakChem, مورد الصودا الكاوية للمصافي, معالجة النفط الخام, وقود أنظف
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-petroleum-refining
