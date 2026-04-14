@@ -12,9 +12,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - تصنيع الأدوية
+  - هيدروكسيد الصوديوم
+  - درجة الأدوية
+  - API
+  - GMP
+  - ضبط pH
+Primary_Keyword: الصودا الكاوية في تصنيع الأدوية
+Keywords: >-
+  الصودا الكاوية تصنيع الأدوية, هيدروكسيد الصوديوم درجة الأدوية, تخليق API, ضبط pH الأدوية, تنظيف CIP الأدوية, SinoPeakChem, مورد الصودا الكاوية الصيدلانية, GMP الأدوية
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-pharmaceutical-manufacturing
