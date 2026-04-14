@@ -1,23 +1,18 @@
 ---
-Id: SP-nps69fc320
+Id: SP-uvm1pbz6c4
 Excerpt: >-
-  A critical guide for industrial buyers on safe handling, storage, and
-  emergency procedures for caustic soda (sodium hydroxide), ensuring workplace
-  safety and regulatory compliance.
-title: 'Caustic Soda Safety & Handling: A Comprehensive Industrial Guide'
+  دليل شامل حول السلامة عند التعامل مع الصودا الكاوية (NaOH). تعرف على معدات الحماية الشخصية (PPE)، وإجراءات الإسعافات الأولية، وبروتوكولات التداول الآمن للمنشآت الصناعية.
+title: 'السلامة وطرق التعامل مع الصودا الكاوية: دليل صناعي شامل'
 description: >-
-  A critical guide for industrial buyers on safe handling, storage, and
-  emergency procedures for caustic soda (sodium hydroxide), ensuring workplace
-  safety and regulatory compliance.
+  دليل شامل حول السلامة عند التعامل مع الصودا الكاوية (NaOH). تعرف على معدات الحماية الشخصية (PPE)، وإجراءات الإسعافات الأولية، وبروتوكولات التداول الآمن للمنشآت الصناعية.
 image: /images/blog/caustic-soda-safety-handling.webp
 imageAlt: >-
-  Industrial worker in full PPE handling caustic soda, emphasizing safety and
-  caution
-Date: '2026-04-12'
+  عامل صناعي يرتدي معدات الحماية الشخصية الكاملة (PPE) ويتعامل بأمان مع المواد الكيميائية
+Date: '2026-04-13'
 author: Sinopeakchem Technical Team
-category: Safety & Compliance
+category: السلامة والامتثال
 tag: null
-Primary_Keyword: Industrial Chemicals
+Primary_Keyword: السلامة الصناعية
 Keywords: null
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
@@ -25,209 +20,106 @@ rootnotouch: caustic-soda-safety-handling
 slug: caustic-soda-safety-handling
 ---
 
-**Caustic soda (sodium hydroxide, NaOH)** is an indispensable chemical across numerous industries, from water treatment to manufacturing. However, its highly corrosive nature demands rigorous adherence to **safety and handling protocols**. For industrial buyers and plant managers, understanding and implementing these measures is not just a regulatory requirement but a critical aspect of protecting personnel, preventing environmental contamination, and ensuring operational continuity.
+تعتبر **الصودا الكاوية (هيدروكسيد الصوديوم، NaOH)** واحدة من أقوى المواد الكيميائية الصناعية وأكثرها استخداماً في العالم. ومع ذلك، فإن طبيعتها شديدة التآكل تشكل مخاطر جسيمة على صحة الإنسان وسلامة مكان العمل. بالنسبة للمنشآت التي تستخدم هذه المادة، فإن الالتزام الصارم ببروتوكولات السلامة ليس مجرد مطلب قانوني، بل هو ضرورة حيوية لحماية الموظفين ومنع الحوادث.
 
-This comprehensive guide provides essential information on the safe handling, storage, and emergency procedures for caustic soda. We will cover personal protective equipment (PPE), first aid, proper storage conditions, and key regulatory considerations, empowering your team to manage this powerful chemical responsibly and safely.
+في هذا الدليل، سنستعرض بالتفصيل كافة جوانب التعامل الآمن مع الصودا الكاوية، بدءاً من اختيار معدات الحماية الشخصية (PPE) وصولاً إلى إجراءات الإسعافات الأولية والرقابة البيئية.
 
-## Understanding Caustic Soda Hazards
+## فهم مخاطر الصودا الكاوية
 
-Before implementing safety measures, it's crucial to understand the specific hazards associated with caustic soda. NaOH is a strong base that can cause severe burns and damage upon contact.
+يُصنف هيدروكسيد الصوديوم كمادة **أكالة من الفئة 8 (UN 1823)**. وتكمن خطورته في قدرته على تدمير الأنسجة العضوية بسرعة.
 
-### 1. Corrosive Nature
+### المخاطر الصحية الرئيسية:
+*   **الحروق الكيميائية للجلد:** عند تلامس، تسبب الصودا حروقاً عميقة ومؤلمة قد لا يشعر بها المصاب فوراً بسبب عملية تصبن دهون الجلد.
+*   **تلف العين:** يمكن أن يؤدي دخول كمية صغيرة جداً من المحلول إلى العين إلى فقدان البصر الدائم.
+*   **مخاطر الاستنشاق:** يسبب غبار أو رذاذ الصودا الكاوية تهيجاً شديداً في الجهاز التنفسي، وذمة رئوية، وتلفاً في الأغشية المخاطية.
+*   **خطر الابتلاع:** يسبب أضراراً جسيمة للمريء والمعدة، مما قد يؤدي إلى الوفاة.
 
-Caustic soda is highly corrosive to organic tissues (skin, eyes, respiratory tract) and certain metals. Its reaction with water is exothermic, meaning it releases significant heat, which can intensify burns and cause splashing.
+## معدات الحماية الشخصية (PPE)
 
-*   **Skin Contact:** Causes severe chemical burns, deep tissue damage, and can lead to permanent scarring.
-*   **Eye Contact:** Can cause irreversible eye damage, including blindness, within seconds.
-*   **Inhalation:** Inhaling dust or mists can irritate the respiratory tract, causing coughing, shortness of breath, and pulmonary edema.
-*   **Ingestion:** Causes severe burns to the mouth, throat, esophagus, and stomach, leading to internal bleeding and potentially fatal damage.
+عند التعامل مع الصودا الكاوية (سواء كانت صلبة أو سائلة)، فإن استخدام معدات الحماية الشخصية المناسبة أمر إلزامي.
 
-### 2. Reactivity
+### 1. حماية العين والوجه
+نظارات السلامة العادية ليست كافية. المتطلبات هي:
+*   **نظارات كيميائية محكمة الإغلاق:** للحماية من الرذاذ والغبار.
+*   **واقي الوجه الكامل:** يجب ارتداؤه فوق النظارات لتوفير حماية كاملة للوجه.
 
-Caustic soda reacts vigorously with:
+### 2. حماية الجلد
+*   **قفازات مقاومة للكيميائيات:** مصنوعة من النيتريل أو النيوبرين أو PVC. لا ينصح باستخدام اللاتكس للتركيزات العالية.
+*   **بدلات واقية:** مآزر مقاومة للكيميائيات أو بدلات كاملة (من النوع 3 أو 4) لمنع التلامس مع الملابس.
+*   **أحذية واقية:** أحذية مطاطية مغلقة من الأعلى ومقاومة للمواد القلوية.
 
-*   **Acids:** Produces heat and can cause violent reactions.
-*   **Water:** Exothermic reaction, generating heat and potentially steam.
-*   **Metals:** Reacts with aluminum, zinc, tin, and lead to produce flammable hydrogen gas.
-*   **Organic Compounds:** Can react with certain organic compounds, especially halogenated ones, to form hazardous byproducts.
-
-### 3. Environmental Impact
-
-If released into the environment, caustic soda can significantly increase the pH of water bodies, harming aquatic life. Proper containment and neutralization procedures are essential to prevent ecological damage.
-
-## Personal Protective Equipment (PPE) for Caustic Soda Handling
-
-Appropriate PPE is the first line of defense against caustic soda exposure. All personnel handling NaOH must be trained in its proper use and maintenance.
-
-### Essential PPE Components:
-
-| PPE Item | Description | Specific Requirements |
-|----------|-------------|-----------------------|
-| **Eye Protection** | Protects eyes from splashes and mists. | Chemical splash goggles (not safety glasses), full face shield over goggles. |
-| **Hand Protection** | Prevents skin contact with liquid or solid NaOH. | Chemical-resistant gloves (e.g., neoprene, nitrile, butyl rubber, PVC) with sufficient cuff length. |
-| **Body Protection** | Protects skin and clothing from splashes. | Chemical-resistant apron, full-body chemical suit (e.g., Tychem, PVC) for high-risk tasks. |
-| **Foot Protection** | Prevents foot exposure to spills. | Chemical-resistant safety boots with steel toe and sole. |
-| **Respiratory Protection** | Protects lungs from dust or mists. | NIOSH-approved respirator with P100 cartridges for dust/mist, or supplied-air respirator for high concentrations. |
-
-**Note:** Always refer to the Safety Data Sheet (SDS) for the specific caustic soda product being used, as PPE requirements can vary based on concentration and form.
-
-## Safe Handling Procedures
-
-Strict adherence to safe handling procedures is crucial to minimize risks during all stages of caustic soda use.
-
-### 1. Receiving and Unloading:
-
-*   **Inspection:** Inspect containers for damage or leaks upon arrival. Do not accept damaged packages.
-*   **Ventilation:** Ensure adequate ventilation in the unloading area.
-*   **PPE:** All personnel involved must wear full PPE.
-*   **Spill Kit:** Have an appropriate spill kit readily available.
-
-### 2. Transferring and Mixing:
-
-*   **Add Caustic to Water:** **ALWAYS add caustic soda slowly to water, never the reverse.** Adding water to caustic soda can cause a violent, exothermic reaction, leading to boiling and splashing.
-*   **Slow Addition:** Add solid NaOH slowly to agitated water to control heat generation.
-*   **Ventilation:** Perform transfers in well-ventilated areas or under local exhaust ventilation.
-*   **Equipment:** Use dedicated, corrosion-resistant equipment (e.g., stainless steel, HDPE, PP) for transferring.
-
-### 3. Dilution:
-
-*   **Controlled Process:** Dilution should be a controlled process, preferably using automated systems or by trained personnel.
-*   **Cooling:** For large-scale dilutions, consider using cooling systems to manage the exothermic heat.
-*   **Concentration:** Be aware of the final desired concentration and the associated hazards.
-
-### 4. General Best Practices:
-
-*   **No Eating/Drinking:** Prohibit eating, drinking, or smoking in areas where caustic soda is handled.
-*   **Wash Hands:** Wash hands thoroughly after handling, even if gloves were worn.
-*   **Emergency Equipment:** Ensure eyewash stations and safety showers are easily accessible and functional.
-*   **Training:** All personnel must receive regular training on caustic soda hazards, safe handling, and emergency procedures.
+### 3. حماية الجهاز التنفسي
+*   في حالة وجود غبار أو رذاذ، يجب استخدام أجهزة التنفس المزودة بمرشحات من فئة P3 أو أقنعة الوجه الكاملة مع خراطيش كيميائية مناسبة.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⚠️ **Is Your Team Fully Prepared for Caustic Soda Handling?**
-Access our comprehensive safety training resources and expert consultation.
-**[Download Safety Checklist →](/en/contact)**
+🛡️ **سلامتكم هي أولويتنا.**
+توفر Sinopeakchem الصودا الكاوية مع مجموعة كاملة من أوراق بيانات السلامة (MSDS) وتوصيات الاستخدام الآمن.
+**[اطلب MSDS والاستشارة ←](/ar/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Caustic Soda Storage Requirements
+## إجراءات الإسعافات الأولية
 
-Proper storage is vital to maintain product quality, prevent accidental releases, and ensure safety. Caustic soda must be stored in designated areas that meet specific criteria.
+الاستجابة السريعة في الثواني الأولى بعد التلامس يمكن أن تمنع عواقب وخيمة.
 
-### 1. Storage Location:
+### عند تلامس العين:
+1.  **فوراً** اغسل العين بكميات كبيرة من الماء لمدة لا تقل عن 15-30 دقيقة.
+2.  أبقِ الجفون مفتوحة لضمان وصول الماء إلى جميع أسطح العين.
+3.  اطلب العناية الطبية العاجلة من طبيب العيون.
 
-*   **Cool, Dry, Well-Ventilated:** Store in a cool, dry, and well-ventilated area, away from direct sunlight and heat sources.
-*   **Segregation:** Store separately from incompatible materials, especially acids, aluminum, zinc, and organic compounds.
-*   **Secure Area:** Keep in a secure area to prevent unauthorized access.
-*   **Secondary Containment:** Implement secondary containment (e.g., dikes, berms) for liquid caustic soda tanks to contain potential spills.
+### عند تلامس الجلد:
+1.  انزع الملابس والأحذية الملوثة تحت الماء الجاري.
+2.  اغسل المنطقة المصابة بالماء لمدة 15 دقيقة على الأقل.
+3.  **هام:** لا تستخدم الأحماض المعادلة (مثل الخل) دون إشراف طبي، لأن التفاعل الحراري قد يؤدي إلى تفاقم الحرق.
 
-### 2. Container Requirements:
+### عند الاستنشاق:
+1.  انقل المصاب إلى الهواء الطلق.
+2.  إذا كان التنفس صعباً، وفر الأكسجين (بواسطة موظفين مدربين فقط).
+3.  اتصل بالطبيب فوراً.
 
-*   **Corrosion-Resistant:** Use containers made of compatible materials such as stainless steel (304, 316), polyethylene (PE), or polypropylene (PP).
-*   **Sealed:** Containers for solid caustic soda must be tightly sealed to prevent moisture absorption and reaction with atmospheric CO₂.
-*   **Labeling:** All containers must be clearly labeled with product identification, hazard warnings, and safety instructions.
+## قواعد التداول والتخزين الآمن
 
-### 3. Temperature Control:
+### الخلط الآمن (الإذابة)
+أخطر لحظة هي إضافة الماء إلى الصودا. هذا تفاعل طارد للحرارة يولد كمية هائلة من الحرارة.
+*   **القاعدة الذهبية:** دائماً أضف **الصودا إلى الماء**، وليس العكس. أضفها ببطء مع التحريك المستمر.
 
-*   **Liquid Caustic Soda:** For 50% liquid caustic soda, maintain temperatures above 12°C (54°F) to prevent crystallization. Heating coils may be necessary in colder climates.
-*   **Solid Caustic Soda:** Store at ambient temperatures, avoiding extreme heat which can degrade packaging.
+### متطلبات التخزين:
+*   **المواد:** استخدم حاويات مصنوعة من البولي إيثيلين عالي الكثافة (HDPE)، أو البولي بروبيلين (PP)، أو الفولاذ الخاص. تجنب الألومنيوم والزنك والقصدير، حيث تتفاعل الصودا معها وتنتج غاز الهيدروجين المتفجر.
+*   **الظروف:** تُخزن في مكان جاف وبارد وجيد التهوية، بعيداً عن المواد غير المتوافقة (الأحماض، المركبات العضوية).
+*   **الملصقات:** يجب أن تحمل جميع الحاويات ملصقات واضحة تشير إلى الخطورة.
 
-### 4. Inventory Management:
+## الرقابة البيئية والتخلص من التسربات
 
-*   **First-In, First-Out (FIFO):** Implement a FIFO system to ensure older stock is used first, minimizing degradation over time.
-*   **Regular Inspection:** Periodically inspect storage containers for signs of corrosion, leaks, or damage.
+يمكن أن يتسبب تسرب الصودا الكاوية في أضرار جسيمة للبيئة من خلال رفع درجة الحموضة (pH) للتربة والمياه بشكل حاد.
 
-## Emergency Procedures & First Aid
+1.  **الاحتواء:** حوط مكان التسرب بالرمل أو المواد الماصة.
+2.  **المعادلة:** للتسربات الصغيرة، يمكن استخدام محاليل حمضية ضعيفة تحت مراقبة صارمة لدرجة الحموضة.
+3.  **التخلص:** يجب التخلص من جميع النفايات كمواد خطرة وفقاً للتشريعات المحلية.
 
-Despite all precautions, accidents can happen. Having clear, well-rehearsed emergency procedures and readily available first aid is paramount.
+## الأسئلة الشائعة (FAQ)
 
-### 1. First Aid Measures:
+### 1. لماذا تعتبر الصودا الكاوية أخطر من الأحماض عند ملامستها للجلد؟
+تسبب الأحماض نخر التخثر، مما يخلق حاجزاً واقياً من البروتين المتخثر. أما الصودا الكاوية فتسبب **نخر التميع** (تصبن الدهون)، مما يسمح للقلويات بالتغلغل بعمق في الأنسجة والاستمرار في تدميرها حتى بعد الغسيل.
 
-*   **Eye Contact:** Immediately flush eyes with large amounts of lukewarm water for at least **30 minutes**, holding eyelids open. Seek immediate medical attention, even if symptoms are mild.
-*   **Skin Contact:** Immediately flush affected skin with large amounts of lukewarm water for at least **30 minutes**. Remove contaminated clothing while flushing. Seek medical attention.
-*   **Inhalation:** Move to fresh air. If breathing is difficult, administer oxygen. If not breathing, provide artificial respiration. Seek immediate medical attention.
-*   **Ingestion:** **DO NOT induce vomiting.** Rinse mouth with water. Give large amounts of water or milk to drink. Seek immediate medical attention.
+### 2. ما هي أفضل القفازات للتعامل مع محلول NaOH بتركيز 50%؟
+الخيار الأفضل هو القفازات المصنوعة من **النيتريل أو النيوبرين** ذات الأكمام الطويلة، فهي توفر مقاومة كيميائية ممتازة وقوة ميكانيكية.
 
-### 2. Spill & Leak Response:
+### 3. هل يمكن تخزين الصودا الكاوية في أوعية مجلفنة؟
+**بالتأكيد لا.** يتفاعل هيدروكسيد الصوديوم بنشاط مع الزنك (الجلفنة)، مما يؤدي إلى تدمير الطلاء وانبعاث غاز الهيدروجين القابل للاشتعال، مما قد يؤدي إلى انفجار.
 
-*   **Evacuate:** Evacuate non-essential personnel from the affected area.
-*   **PPE:** Only trained personnel wearing full PPE should handle spills.
-*   **Containment:** Contain liquid spills using absorbent materials (e.g., sand, earth, commercial spill absorbents). Do not use sawdust or other organic materials that may react.
-*   **Neutralization:** Neutralize small spills with a weak acid (e.g., vinegar, citric acid solution) while monitoring pH. For large spills, consult emergency response teams.
-*   **Disposal:** Collect neutralized material and contaminated absorbents for proper disposal according to local regulations.
+### 4. ماذا أفعل إذا انسكبت الصودا الجافة على الأرض؟
+لا تستخدم الماء فوراً لأن ذلك سيولد حرارة. اجمع المنتج الجاف ميكانيكياً (باستخدام معدات الحماية الشخصية) في حاوية جافة، ثم اغسل البقايا بكميات كبيرة من الماء.
 
-### 3. Fire Fighting:
+### 5. كم مرة يجب أن يتلقى الموظفون تدريباً على السلامة؟
+يوصى بإجراء تدريب كامل **مرة واحدة على الأقل سنوياً**، وكذلك عند تشغيل معدات جديدة أو تغيير العمليات التكنولوجية.
 
-*   Caustic soda is not flammable, but it can react with certain metals to produce flammable hydrogen gas. If involved in a fire, use extinguishing agents appropriate for the surrounding fire.
-*   **Cool Containers:** Cool fire-exposed containers with water spray to prevent rupture.
+## المراجع والمصادر
 
-## Regulatory Compliance & Documentation
-
-Compliance with local, national, and international regulations is essential for any company handling caustic soda. Proper documentation is key to demonstrating compliance.
-
-### Key Regulations & Standards:
-
-*   **OSHA (Occupational Safety and Health Administration):** Sets workplace safety standards in the U.S., including permissible exposure limits (PELs) for NaOH.
-*   **REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals):** European Union regulation governing chemical substances.
-*   **GHS (Globally Harmonized System of Classification and Labelling of Chemicals):** Provides a standardized approach to hazard communication through labels and Safety Data Sheets (SDS).
-*   **DOT (Department of Transportation):** Regulates the safe transport of hazardous materials, including caustic soda (Class 8 corrosive substance, UN 1823).
-
-### Essential Documentation:
-
-*   **Safety Data Sheets (SDS):** Must be readily available for all caustic soda products. Provides detailed information on hazards, safe handling, storage, and emergency procedures.
-*   **Chemical Inventory:** Maintain an accurate inventory of all chemicals, including caustic soda, on site.
-*   **Emergency Response Plan:** Develop and regularly update a comprehensive emergency response plan that includes procedures for caustic soda spills and exposures.
-*   **Training Records:** Keep records of all employee training on chemical safety and caustic soda handling.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅ **Need Expert Guidance on Caustic Soda Safety Compliance?**
-Sinopeakchem provides comprehensive safety data and regulatory support for all our products.
-**[Contact Our Compliance Team →](/en/contact)**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Frequently Asked Questions (FAQ)
-
-### 1. What is the most critical safety precaution when handling caustic soda?
-
-The most critical safety precaution is to **always add caustic soda slowly to water, never the reverse.** This prevents a violent exothermic reaction that can cause dangerous boiling and splashing. Additionally, wearing appropriate personal protective equipment (PPE), especially chemical splash goggles and a face shield, is paramount to protect eyes from irreversible damage.
-
-### 2. What kind of PPE is required for handling liquid caustic soda?
-
-When handling liquid caustic soda, essential PPE includes chemical splash goggles worn with a full face shield, chemical-resistant gloves (e.g., neoprene, nitrile, butyl rubber), a chemical-resistant apron or full-body suit, and chemical-resistant safety boots. Respiratory protection may be needed if there is a risk of inhaling mists or vapors.
-
-### 3. How should caustic soda be stored to ensure safety and prevent degradation?
-
-Caustic soda should be stored in a cool, dry, well-ventilated, and secure area, away from incompatible materials (especially acids, aluminum, zinc). Containers must be made of compatible, corrosion-resistant materials (e.g., stainless steel, HDPE, PP) and tightly sealed to prevent moisture absorption and reaction with atmospheric carbon dioxide. Liquid caustic soda tanks should have secondary containment.
-
-### 4. What are the immediate first aid steps for caustic soda skin contact?
-
-For caustic soda skin contact, immediately flush the affected area with large amounts of lukewarm water for at least **30 minutes**. While flushing, remove any contaminated clothing. Do not attempt to neutralize the burn with acid. Seek immediate medical attention, even if the burn appears minor, as caustic burns can be deep and progressive.
-
-### 5. What are the environmental concerns associated with caustic soda?
-
-Caustic soda is highly alkaline and can cause significant environmental damage if released untreated. It can drastically increase the pH of water bodies, harming aquatic life and disrupting ecosystems. Proper containment, neutralization, and wastewater treatment are crucial to prevent environmental contamination and comply with regulations like REACH and local environmental protection laws.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏭 **Ready to Source Your First Batch of Caustic Soda?**
-Sinopeakchem — Your trusted caustic soda partner.
-✅ 28+ years experience ✅ ISO certified ✅ Competitive pricing ✅ Free samples.
-**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
-📧 sales@sinopeakchem.com
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## References
-
-1.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-2.  **National Institute for Occupational Safety and Health (NIOSH).** "NIOSH Pocket Guide to Chemical Hazards: Sodium Hydroxide." *NIOSH*, 2023. [https://www.cdc.gov/niosh/npg/npgd0565.html](https://www.cdc.gov/niosh/npg/npgd0565.html)
-3.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928](https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928)
-4.  **U.S. Environmental Protection Agency (EPA).** "Sodium Hydroxide Fact Sheet." *Chemical Safety Data Sheets*, 2023.
-5.  **American Chemical Society (ACS).** "Chemical Safety: Sodium Hydroxide." *ACS*, 2023. [https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html](https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html)
-6.  **Department of Transportation (DOT).** "Hazardous Materials Regulations (49 CFR Parts 171-180)." *PHMSA*, 2023. [https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr](https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr)
-7.  **Global Harmonized System (GHS).** "A Guide to The Globally Harmonized System of Classification and Labelling of Chemicals (GHS)." *OSHA*, 2023. [https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf](https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf)
-8.  **Canadian Centre for Occupational Health and Safety (CCOHS).** "Sodium Hydroxide." *CCOHS*, 2023. [https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html](https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html)
-9.  **National Fire Protection Association (NFPA).** "NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response." *NFPA*, 2022.
-10. **World Health Organization (WHO).** "Environmental Health Criteria 100: Sodium Hydroxide." *WHO*, 1990.
+1.  **OSHA.** "Safety and Health Topics: Sodium Hydroxide." 2023.
+2.  **NIOSH.** "Pocket Guide to Chemical Hazards: Sodium Hydroxide." 2023.
+3.  **ECHA.** "REACH Dossier on Sodium Hydroxide." ECHA Database, 2023.
+4.  **U.S. EPA.** "Sodium Hydroxide Fact Sheet." 2023.
+5.  **American Chemical Society (ACS).** "Chemical Safety: Sodium Hydroxide." 2023.
+6.  **World Health Organization (WHO).** "Guidelines for Drinking-water Quality: Sodium Hydroxide." 2023.
+7.  **International Programme on Chemical Safety (IPCS).** "Health and Safety Guide No. 31: Sodium Hydroxide." 2023.
