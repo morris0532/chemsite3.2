@@ -11,9 +11,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - تصنيع الأغذية
+  - هيدروكسيد الصوديوم
+  - سلامة الأغذية
+  - CIP
+  - تقشير الفاكهة
+  - تنظيم pH
+Primary_Keyword: الصودا الكاوية في تصنيع الأغذية
+Keywords: >-
+  الصودا الكاوية في تصنيع الأغذية, هيدروكسيد الصوديوم للأغذية, تنظيف وتعقيم CIP, تقشير الفواكه والخضروات بالصودا الكاوية, منظم pH للأغذية, SinoPeakChem, مورد الصودا الكاوية الغذائية
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-food-processing
