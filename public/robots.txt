@@ -1,5 +1,28 @@
+# 禁止百度 (Baidu)
+User-agent: Baiduspider
+Disallow: /
+
+# 禁止搜狗 (Sogou)
+User-agent: Sogou spider
+User-agent: Sogou web spider
+Disallow: /
+
+# 禁止头条/抖音爬虫 (Bytespider)
+User-agent: Bytespider
+Disallow: /
+
+# 禁止 360 搜索 (Haosou)
+User-agent: 360Spider
+Disallow: /
+
+# 禁止有道 (Youdao)
+User-agent: YoudaoBot
+Disallow: /
+
+# 允许其他所有爬虫（如 Google, Bing, Yandex）
 User-agent: *
 Allow: /
+
 
 # Disallow specific paths that do not need to be indexed
 Disallow: /api/
