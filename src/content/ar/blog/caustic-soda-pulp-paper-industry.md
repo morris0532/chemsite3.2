@@ -12,9 +12,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Applications
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - صناعة اللب والورق
+  - هيدروكسيد الصوديوم
+  - عملية كرافت
+  - تبييض اللب
+  - إزالة الحبر
+  - معالجة المياه
+Primary_Keyword: الصودا الكاوية في صناعة اللب والورق
+Keywords: >-
+  الصودا الكاوية لب الورق, هيدروكسيد الصوديوم تبييض, إزالة الحبر الورق المعاد تدويره, عملية كرافت الصودا الكاوية, SinoPeakChem, مورد الصودا الكاوية للورق, استدامة اللب والورق, معالجة مياه الصرف الصحي
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-pulp-paper-industry
