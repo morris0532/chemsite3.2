@@ -10,9 +10,17 @@ imageAlt: >-
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
 category: Logistics & Sourcing
-tag: null
-Primary_Keyword: Industrial Chemicals
-Keywords: null
+tags:
+  - الصودا الكاوية
+  - التعبئة والتغليف
+  - اللوجستيات
+  - الشحن الدولي
+  - البضائع الخطرة
+  - UN 1823
+  - سلسلة التوريد
+Primary_Keyword: تعبئة ولوجستيات الصودا الكاوية
+Keywords: >-
+  تعبئة الصودا الكاوية, لوجستيات هيدروكسيد الصوديوم, شحن الصودا الكاوية, البضائع الخطرة UN 1823, أكياس الصودا الكاوية 25 كجم, حاويات IBC للصودا الكاوية, وثائق الشحن الكيميائي, SinoPeakChem, مورد الصودا الكاوية B2B
 Schema_Type: TechArticle
 Target_Region: MENA Region (AR)
 rootnotouch: caustic-soda-packaging-logistics
