@@ -1,5 +1,5 @@
 ---
-Id: SP-91te88mmva
+Id: SP-rvq04h0o3h
 Excerpt: >-
   Explora el papel vital del ácido oxálico en la industria textil, desde su uso
   como auxiliar de teñido y agente reductor en impresión hasta su eficacia en la

@@ -1,5 +1,5 @@
 ---
-Id: SP-psfi8xymd8
+Id: SP-wr9gpmzt57
 Excerpt: >-
   Explore el papel crítico de la soda cáustica (hidróxido de sodio) en la industria alimentaria, desde la limpieza y desinfección hasta el ajuste de pH y el pelado químico.
 title: 'Soda Cáustica en el Procesamiento de Alimentos: Seguridad, Regulaciones y Aplicaciones'

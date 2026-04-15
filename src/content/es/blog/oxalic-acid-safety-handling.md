@@ -1,5 +1,5 @@
 ---
-Id: SP-jzusrelx6t
+Id: SP-gc5kcdclps
 Excerpt: >-
   Guía completa para el manejo seguro del ácido oxálico: riesgos, equipo de protección personal (EPP), almacenamiento, primeros auxilios y eliminación de residuos.
 title: 'Seguridad y Manejo del Ácido Oxálico: Guía Completa para Profesionales'

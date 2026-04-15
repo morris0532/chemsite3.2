@@ -1,5 +1,5 @@
 ---
-Id: SP-q9t4bvuihp
+Id: SP-15ahcaygxd
 Excerpt: >-
   Restaure la belleza natural de la madera con ácido oxálico. Guía profesional para blanquear, eliminar manchas de agua, taninos y marcas negras de hierro.
 title: 'Ácido Oxálico para Madera: Guía de Blanqueo y Restauración Profesional'

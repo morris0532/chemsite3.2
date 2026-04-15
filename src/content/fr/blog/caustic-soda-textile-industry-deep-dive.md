@@ -1,5 +1,5 @@
 ---
-Id: SP-y1zf6dxifu
+Id: SP-gsvfd5i0wz
 Excerpt: >-
   Explorez les applications critiques de la soude caustique dans l'industrie textile : mercerisation, teinture, débouillissage et finitions haute performance.
 title: 'La Soude Caustique dans le Textile : Mercerisation et Teinture'

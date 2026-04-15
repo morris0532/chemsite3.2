@@ -1,5 +1,5 @@
 ---
-Id: SP-fmx197yelf
+Id: SP-yy1gbtzfc5
 Excerpt: >-
   Explora el papel histórico del ácido oxálico en los procesos fotográficos,
   desde las primeras impresiones en platino y paladio hasta sus aplicaciones

@@ -1,5 +1,5 @@
 ---
-Id: SP-sqx172ezln
+Id: SP-rvq04h0o3h
 Excerpt: >-
   Explorez le rôle vital de l'acide oxalique dans l'industrie textile, de son
   utilisation comme auxiliaire de teinture et agent réducteur dans l'impression

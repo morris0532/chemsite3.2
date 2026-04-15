@@ -1,5 +1,5 @@
 ---
-Id: SP-usfy8sep47
+Id: SP-mwm26zlvpt
 Excerpt: >-
   Guía completa sobre el uso del ácido oxálico para el control de ácaros varroa en la apicultura. Métodos de aplicación, dosis, tiempos y seguridad para las abejas.
 title: 'Ácido Oxálico en la Apicultura: Guía para el Control del Ácaro Varroa'

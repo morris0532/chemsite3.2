@@ -1,5 +1,5 @@
 ---
-Id: SP-25is5g7f4d
+Id: SP-sze5gj16ry
 Excerpt: >-
   Explorez le marché mondial dynamique de l'acide oxalique en 2026, tiré par des
   secteurs clés comme les batteries de véhicules électriques, les textiles

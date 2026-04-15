@@ -1,5 +1,5 @@
 ---
-Id: SP-k9i0wtx0gu
+Id: SP-e7s09r2rew
 Excerpt: >-
   A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃),
   highlighting their chemical differences, applications, and helping industrial

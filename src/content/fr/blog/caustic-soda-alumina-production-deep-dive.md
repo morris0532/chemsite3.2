@@ -1,5 +1,5 @@
 ---
-Id: SP-e3sq37fqgh
+Id: SP-yuax5oc0ll
 Excerpt: >-
   Analyse approfondie du rôle critique de la soude caustique dans le procédé Bayer pour la production d'alumine : digestion, clarification et précipitation.
 title: 'La Soude Caustique dans la Production d''Alumine : Le Procédé Bayer Expliqué'

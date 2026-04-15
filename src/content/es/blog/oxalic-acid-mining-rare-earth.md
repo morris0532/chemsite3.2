@@ -1,5 +1,5 @@
 ---
-Id: SP-54gcckj8rr
+Id: SP-9pmnw75895
 Excerpt: >-
   Explore el papel crítico del ácido oxálico en la industria minera,
   particularmente en la extracción y purificación eficientes de elementos de

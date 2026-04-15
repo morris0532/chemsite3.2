@@ -1,5 +1,5 @@
 ---
-Id: SP-7r6td1sgss
+Id: SP-yuax5oc0ll
 Excerpt: >-
   Un análisis profundo sobre el papel crítico de la soda cáustica (hidróxido de sodio) en el proceso Bayer para la producción de alúmina, cubriendo la digestión, clarificación, precipitación y consideraciones ambientales.
 title: >-

@@ -1,5 +1,5 @@
 ---
-Id: SP-8h2s9z6xrs
+Id: SP-99u3x9x380
 Excerpt: >-
   Explore el papel crítico de la soda cáustica (hidróxido de sodio) como catalizador en la producción de biodiesel a través de la transesterificación, optimizando el rendimiento y la eficiencia del proceso.
 title: >-

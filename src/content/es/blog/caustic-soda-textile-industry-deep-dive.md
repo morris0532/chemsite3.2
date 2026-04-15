@@ -1,5 +1,5 @@
 ---
-Id: SP-lbwtwkegcz
+Id: SP-gsvfd5i0wz
 Excerpt: >-
   Explore las aplicaciones críticas de la soda cáustica (hidróxido de sodio) en la industria textil, centrándose en la mercerización, el teñido, el descrudado y otros procesos de acabado.
 title: >-

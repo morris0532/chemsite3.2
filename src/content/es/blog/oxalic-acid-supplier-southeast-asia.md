@@ -1,5 +1,5 @@
 ---
-Id: SP-b46mlmpcvv
+Id: SP-mg5p2e9vsz
 Excerpt: >-
   El Sudeste Asiático es un mercado de rápido crecimiento para el ácido oxálico,
   impulsado por industrias como la textil, cerámica y del caucho. SinoPeakChem

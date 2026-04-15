@@ -1,5 +1,5 @@
 ---
-Id: SP-3l8j4wbhma
+Id: SP-e29imj9wf3
 Excerpt: >-
   Descubra el papel fundamental del ácido oxálico como patrón primario y agente reductor en diversas técnicas de química analítica, desde la valoración hasta la complejometría.
 title: 'Ácido Oxálico en la Química Analítica: Un Reactivo Esencial de Laboratorio'

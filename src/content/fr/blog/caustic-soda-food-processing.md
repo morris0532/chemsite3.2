@@ -1,5 +1,5 @@
 ---
-Id: SP-vpel4akrjh
+Id: SP-wr9gpmzt57
 Excerpt: >-
   Découvrez le rôle crucial de la soude caustique dans l'industrie alimentaire : nettoyage (CIP), ajustement du pH et pelage chimique, en toute sécurité.
 title: 'La Soude Caustique dans l''Industrie Alimentaire : Sécurité et Applications'

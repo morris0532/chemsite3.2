@@ -1,5 +1,5 @@
 ---
-Id: SP-vu8f7lth01
+Id: SP-yg9w5at4q8
 Excerpt: >-
   Guía integral sobre el ácido oxálico: aplicaciones industriales, procesos de producción, seguridad, medio ambiente y tendencias del mercado global.
 title: 'Ácido Oxálico: Guía Integral de Aplicaciones Industriales y Mercado'

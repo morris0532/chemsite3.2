@@ -1,5 +1,5 @@
 ---
-Id: SP-ia3pe48qcu
+Id: SP-e9qowx5mo1
 Excerpt: >-
   Explora el papel crítico del ácido oxálico como un bloque de construcción y
   reactivo versátil en la síntesis de diversos intermedios farmacéuticos,

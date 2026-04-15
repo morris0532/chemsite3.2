@@ -1,5 +1,5 @@
 ---
-Id: SP-egnjui3ey8
+Id: SP-b711557b1a
 Excerpt: >-
   Compara el ácido oxálico con otros removedores de óxido comunes como ácido
   fosfórico, ácido cítrico y métodos mecánicos. Aprende sobre sus ventajas,

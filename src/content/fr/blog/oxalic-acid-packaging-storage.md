@@ -1,5 +1,5 @@
 ---
-Id: SP-8ize3gf9wf
+Id: SP-82k6h532kp
 Excerpt: >-
   Un guide complet sur l'emballage et le stockage appropriés de l'acide
   oxalique. Découvrez les types d'emballage courants, les conditions de stockage

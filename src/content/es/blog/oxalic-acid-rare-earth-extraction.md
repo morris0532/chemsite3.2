@@ -1,5 +1,5 @@
 ---
-Id: SP-od1j418aun
+Id: SP-tgrcwyqtow
 Excerpt: >-
   Explore el papel crítico del ácido oxálico en la extracción, separación y purificación de elementos de tierras raras, fundamentales para la alta tecnología.
 title: 'Ácido Oxálico en la Extracción de Tierras Raras: Un Químico Clave'

@@ -1,5 +1,5 @@
 ---
-Id: SP-vhu3vif93c
+Id: SP-ogywxm9z0y
 Excerpt: >-
   Restez informé des dernières tendances des prix de l'acide oxalique pour 2025.
   Explorez les facteurs clés influençant les coûts, des matières premières aux
