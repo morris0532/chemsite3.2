@@ -7,7 +7,7 @@ title: >-
 description: >-
   Descubra el papel vital de la soda cáustica (hidróxido de sodio) en la industria de la pulpa y el papel, desde el pulpado y blanqueo hasta el destintado.
 image: /images/blog/caustic-soda-pulp-paper-industry.webp
-imageAlt: >-
+imageAlt: >- 
   Fábrica de pulpa y papel con maquinaria pesada y rollos de papel, destacando el uso de soda cáustica en varias etapas.
 Date: '2026-04-12'
 author: Sinopeakchem Technical Team
