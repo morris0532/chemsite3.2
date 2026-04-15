@@ -9,7 +9,8 @@ description: >-
   y el blanqueo hasta el destintado y el tratamiento de aguas residuales, con
   un enfoque en la optimización de procesos y la sostenibilidad.
 image: /images/blog/caustic-soda-pulp-paper-deep-dive.webp
-imageAlt: >-\n  Fábrica industrial de pulpa y papel con grandes digestores, torres de
+imageAlt: >-
+  Fábrica industrial de pulpa y papel con grandes digestores, torres de
   blanqueo y máquinas de papel, destacando los procesos químicos que involucran
   sosa cáustica y consideraciones ambientales.
 Date: '2026-04-12'
