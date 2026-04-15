@@ -33,14 +33,14 @@ faqs:
       улучшает текучесть и снижает производственные затраты при сохранении
       эффективности очистки.
     question: >-
-      SSA (Sodium Sulfamate, NaSO3NH2) is used in detergent supply primarily as
-      a **bleaching activator** and **stabilizer**. It enhances the
-      effectiveness of bleaching agents such as hydrogen peroxide by
-      accelerating the bleaching process at lower temperatures. This results in
-      improved stain removal and whitening performance in detergents.
-      Additionally, SSA helps to stabilize the formulation, preventing premature
-      decomposition of bleaching agents, thereby extending the shelf life and
-      efficacy of the detergent product.
+      SSA (сульфамат натрия, NaSO3NH2) используется в производстве моющих средств
+      в основном как **активатор отбеливания** и **стабилизатор**. Он повышает
+      эффективность отбеливающих агентов, таких как перекись водорода,
+      ускоряя процесс отбеливания при более низких температурах. Это приводит
+      к улучшению удаления пятен и отбеливающих свойств в моющих средствах.
+      Кроме того, SSA помогает стабилизировать состав, предотвращая
+      преждевременное разложение отбеливающих агентов, тем самым продлевая
+      срок годности и эффективность моющего средства.
 featured: true
 id: '6'
 loading: 27-28 тонн/20-футовый контейнер
