@@ -10,7 +10,7 @@ author: Sinopeakchem Cleaning Solutions
 category: Aplicaciones
 id: CS-X7rM5oO0P4
 slug: caustic-soda-soap-detergent-deep-dive
-date: "2026-04-14"
+date: "2026-04-15"
 Primary_Keyword: soda cáustica para jabón
 Keywords: >-
   soda cáustica para jabón, hidróxido de sodio detergentes, proceso de saponificación, fabricación de jabón artesanal, formulación de detergentes, surfactantes aniónicos, limpieza industrial, proveedor de soda cáustica

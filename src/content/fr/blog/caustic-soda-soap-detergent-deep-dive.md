@@ -7,7 +7,7 @@ author: Sinopeakchem Cleaning Solutions
 category: Applications Industrielles
 id: CS-X7rM5oO0P4
 slug: caustic-soda-soap-detergent-deep-dive
-date: "2026-04-14"
+date: "2026-04-15"
 Primary_Keyword: soude caustique savon détergent
 Keywords: >-
   soude caustique savon détergent, processus de saponification, fabrication savon artisanal industriel, formulation détergent synthétique, hydroxyde de sodium nettoyage, régulation pH détergent, tensioactifs anioniques, SinoPeakChem

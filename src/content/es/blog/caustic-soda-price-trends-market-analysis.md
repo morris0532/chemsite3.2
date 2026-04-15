@@ -14,7 +14,7 @@ author: Sinopeakchem Technical Team
 category: Análisis de Mercado
 Primary_Keyword: precios de soda cáustica
 Schema_Type: TechArticle
-date: "2026-04-14"
+date: "2026-04-15"
 rootnotouch: caustic-soda-price-trends-market-analysis
 ---
 
