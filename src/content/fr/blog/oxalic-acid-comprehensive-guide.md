@@ -154,33 +154,86 @@ La synthèse électrochimique de l'acide oxalique, notamment par la réduction �
 *   **Mécanisme** : Utilise l'énergie électrique pour entraîner la conversion du CO₂ en acide oxalique sur des surfaces catalytiques spécifiques.
 *   **Potentiel** : Offre la possibilité de valoriser le CO₂ et d'utiliser des sources d'énergie renouvelables, bien que des défis subsistent en termes d'efficacité énergétique et de stabilité du catalyseur pour une mise en œuvre industrielle.
 
-### 2.2 Propriétés Toxicologiques et Risques d'Exposition Professionnelle
+### 2.2 Caractéristiques Toxicologiques et Risques d'Exposition Professionnelle
 
-L'acide oxalique est classé comme une substance toxique. Sa toxicité se manifeste principalement par son action corrosive locale et ses effets systémiques après absorption.
+L'acide oxalique, en tant qu'importante matière première chimique organique, nécessite une attention particulière à ses caractéristiques toxicologiques significatives lors de sa production et de son application. Une compréhension approfondie de ses dangers est cruciale pour établir des stratégies efficaces de gestion de la sécurité et de protection de l'environnement [1].
 
-*   **Toxicité Aiguë** : L'ingestion d'acide oxalique peut provoquer une douleur intense, des vomissements, des brûlures gastro-intestinales et, dans les cas graves, un choc ou la mort. La dose létale estimée pour l'homme est de 5 à 15 grammes.
-*   **Risques d'Exposition Professionnelle** : Les travailleurs des industries de production et d'utilisation peuvent être exposés par inhalation de poussières ou de brouillards, ou par contact cutané. Une exposition chronique peut entraîner des lésions rénales (formation de cristaux d'oxalate de calcium), une irritation des voies respiratoires et des dermatites.
-*   **Mécanisme d'Action** : L'acide oxalique se combine avec le calcium dans le corps pour former de l'oxalate de calcium insoluble, entraînant une hypocalcémie et des dommages structurels et fonctionnels dans les reins.
+#### 2.2.1 Toxicité Aiguë
 
-### 2.3 Pratiques de Gestion de la Sécurité
+*   **Dose Létale** : Pour les adultes, la dose létale minimale d'acide oxalique est d'environ 71 mg/kg de poids corporel [1]. L'ingestion de 2 à 5 grammes d'acide oxalique peut potentiellement être fatale [1].
+*   **Études Animales** : Des études chez le rat ont montré une DL50 orale de 7500 mg/kg [1]. Pour la souris, la DL50 intrapéritonéale était de 270 mg/kg [1]. Chez le chien, la dose létale publiée la plus basse (DLlo) pour l'ingestion orale était de 1000 mg/kg [1].
 
-Une gestion rigoureuse de la sécurité est impérative pour minimiser les risques associés à l'acide oxalique.
+#### 2.2.2 Irritabilité et Corrosivité
 
-*   **Mesures de Contrôle Techniques** : Mettre en œuvre des systèmes de ventilation adéquats, des enceintes de confinement et d'autres mesures techniques pour réduire l'exposition.
-*   **Équipements de Protection Individuelle (EPI)** : Fournir aux travailleurs des EPI appropriés, tels que des gants, des lunettes de protection, des masques respiratoires et des vêtements de protection.
-*   **Procédures d'Urgence** : Établir des procédures d'urgence pour les déversements, les incendies et les expositions accidentelles, y compris les premiers secours et l'évacuation.
-*   **Formation** : Former les travailleurs sur les dangers de l'acide oxalique, les procédures de sécurité, l'utilisation des EPI et les mesures d'urgence.
+*   **Contact Cutané** : Le contact direct avec l'acide oxalique peut provoquer de graves brûlures [1]. Un contact prolongé avec une solution d'acide oxalique à 5 % - 10 % peut entraîner un engourdissement des doigts, une cyanose, un jaunissement des ongles et même une gangrène [1]. Des études expérimentales ont montré une légère irritation après 24 heures de contact cutané avec 500 mg d'acide oxalique chez le lapin [1].
+*   **Contact Oculaire** : L'acide oxalique est nocif pour les yeux, capable de provoquer une irritation sévère [1]. Les résultats expérimentaux de 24 heures de contact oculaire avec 0,25 mg d'acide oxalique chez le lapin ont montré une irritation sévère [1].
+*   **Tube Digestif** : En cas d'ingestion accidentelle, l'acide oxalique corrodera le tube digestif et irritera fortement la muqueuse gastro-intestinale, entraînant des symptômes tels que des douleurs abdominales, de la diarrhée, des nausées et des vomissements [1].
 
-### 2.4 Impacts Environnementaux et Stratégies de Traitement des Eaux Usées
+#### 2.2.3 Symptômes d'Empoisonnement et Mécanismes Physiologiques
 
-L'acide oxalique peut avoir des impacts environnementaux s'il est rejeté sans traitement. Les stratégies de traitement des eaux usées visent à minimiser ces impacts.
+*   **Système Digestif** : Après ingestion orale d'acide oxalique, les patients ressentiront immédiatement des brûlures et des douleurs dans la bouche, la gorge et derrière le sternum, accompagnées de dysphagie, de bouche sèche, de soif, de vomissements fréquents (le vomi peut parfois être sanglant), de fortes douleurs abdominales hautes et de selles sanglantes [1].
+*   **Système Respiratoire** : L'inhalation de vapeurs ou de poussières d'acide oxalique peut provoquer une irritation de la muqueuse des voies respiratoires [1]. Des concentrations élevées de substances volatiles acides peuvent également provoquer des brûlures des voies respiratoires, entraînant de la toux et une production de crachats [1].
+*   **Système Urinaire** : L'acide oxalique se combine facilement avec les ions calcium dans le corps humain pour former de l'oxalate de calcium insoluble [1], ce qui entraîne à son tour une hypocalcémie [1]. Les manifestations de l'hypocalcémie comprennent un engourdissement et des douleurs dans les membres, une mâchoire serrée, des contractions musculaires, un clonus de la cheville, des convulsions et même le coma [1]. Si des cristaux d'oxalate de calcium se déposent dans les tubules rénaux, cela peut provoquer une insuffisance rénale aiguë [1], entraînant une oligurie, une anurie et même la conséquence grave de l'urémie [1], avec des cristaux d'acide oxalique détectables dans l'urine [1]. De plus, l'insuffisance rénale aiguë (IRA) causée par un empoisonnement à l'oxalate de diméthyle est une autre caractéristique importante, les résultats de la biopsie rénale montrant généralement une maladie tubulo-interstitielle aiguë accompagnée d'un dépôt massif d'oxalate [1].
+*   **Système Nerveux** : L'empoisonnement peut provoquer une arythmie et une dépression du système nerveux central [1]. Une exposition prolongée à l'acide oxalique chez les enfants peut même affecter le développement du cerveau, entraînant une déficience intellectuelle [1].
+*   **Mécanismes Physiologiques** : L'acide oxalique est un puissant agent chélatant [1] qui peut se combiner avec les ions calcium pour former des complexes avec une biodisponibilité plus élevée [1]. De plus, l'acide oxalique peut provoquer un dysfonctionnement mitochondrial [1]. En cas d'empoisonnement à l'éthylène glycol, le produit métabolique de l'éthylène glycol dans le corps est l'acide oxalique, qui est l'un des facteurs clés menant à l'insuffisance rénale aiguë [1].
 
-*   **Impacts Environnementaux** : Le rejet d'acide oxalique dans l'environnement peut entraîner l'acidification des sols et des eaux, la toxicité pour les organismes aquatiques et la perturbation des écosystèmes.
-*   **Traitement des Eaux Usées** : Les eaux usées contenant de l'acide oxalique doivent être traitées avant le rejet. Les méthodes de traitement comprennent :
-    *   **Neutralisation** : Ajuster le pH des eaux usées pour neutraliser l'acide oxalique.
-    *   **Oxydation** : Utiliser des agents oxydants (par exemple, le peroxyde d'hydrogène, l'ozone) pour dégrader l'acide oxalique.
-    *   **Adsorption** : Utiliser des adsorbants (par exemple, le charbon actif) pour éliminer l'acide oxalique des eaux usées.
-    *   **Traitement Biologique** : Utiliser des micro-organismes pour dégrader l'acide oxalique.
+#### 2.2.4 Limites d'Exposition Professionnelle et Évaluation des Risques
+
+Pour assurer la santé et la sécurité des travailleurs, les pays et régions du monde entier ont établi des limites strictes et des directives d'évaluation des risques pour l'exposition professionnelle à l'acide oxalique.
+
+*   **Limite d'Exposition Admissible de l'OSHA (PEL)** : La valeur limite seuil pour l'acide éthanedioïque dans l'air du lieu de travail est de 1 mg/m³ (TLV-TWA, USA, 1980) [1].
+*   **Identification des Dangers** : Cela implique la collecte de données sur les processus de production, les mesures de protection, les propriétés des toxines chimiques et les situations d'exposition professionnelle pour identifier des caractéristiques telles que la toxicité aiguë, l'irritation, la corrosivité et la cancérogénicité [1].
+*   **Évaluation des Risques** : Quantifier la probabilité et la gravité des effets néfastes sur la santé dans des conditions d'exposition spécifiques, et proposer des mesures de contrôle [1].
+
+### 2.3 Stockage Sécurisé, Transport et Intervention d'Urgence
+
+Compte tenu de la forte corrosivité et de la toxicité de l'acide oxalique, des directives de sécurité strictes doivent être suivies pour son stockage, son transport et son intervention d'urgence afin de minimiser les dangers potentiels.
+
+#### 2.3.1 Stockage et Transport
+
+*   **Environnement de Stockage** : L'acide oxalique doit être stocké à l'abri de l'humidité et de la pluie, et isolé des agents oxydants et des substances alcalines pour éviter des réactions dangereuses. Le lieu de stockage doit être éloigné des zones résidentielles et de la nourriture pour assurer la sécurité.
+*   **Transport** : Lors du chargement de l'acide oxalique sur des navires, il ne doit pas être placé sur le pont mais plutôt dans des cales bien protégées. Pendant le transport routier et ferroviaire, il doit être emballé dans des conteneurs scellés, clairement étiquetés et fixés pour éviter tout déversement ou dommage.
+
+#### 2.3.2 Protection Individuelle
+
+*   **Équipement de Protection** : Les opérateurs manipulant l'acide oxalique doivent porter des gants de protection professionnels, des lunettes de sécurité, des écrans faciaux et des respirateurs, ainsi que d'autres équipements de protection individuelle.
+
+#### 2.3.3 Intervention d'Urgence
+
+*   **Traitement en Cas de Contact** : Si la peau ou les yeux entrent accidentellement en contact avec l'acide oxalique, rincer immédiatement la zone touchée avec de grandes quantités d'eau pendant au moins 15 minutes et consulter un médecin dès que possible.
+*   **Traitement en Cas d'Ingestion** : En cas d'ingestion accidentelle d'acide oxalique, le patient doit être immédiatement transporté à l'hôpital pour traitement. Pour ceux qui en ont ingéré, un lavage gastrique avec des substances contenant du calcium telles que le lactate de calcium, le gluconate de calcium, de l'eau de chaux diluée, de la poudre de craie ou du lait peut être envisagé pour précipiter l'acide éthanedioïque. Cependant, le lavage gastrique doit être effectué très prudemment [1]. L'injection intraveineuse de 10 ml de gluconate de calcium à 10 % peut servir d'antidote efficace, et elle peut être répétée si nécessaire [1]. En même temps, une attention particulière doit être portée à la correction de l'acidose et à la prévention active d'une éventuelle insuffisance rénale aiguë [1].
+*   **Traitement en Cas d'Incendie** : Bien que l'acide oxalique lui-même ne soit pas facilement combustible, si un incendie se déclare pour d'autres raisons, de l'eau et du sable peuvent être utilisés pour l'éteindre. Les extincteurs au dioxyde de carbone ou à poudre chimique sèche conviennent également pour les petits feux.
+*   **Élimination de la Pollution** : Un plan de pulvérisation d'agent de neutralisation dédié pour la pollution à l'acide oxalique doit être formulé à l'avance, permettant un traitement rapide et efficace en cas de déversement [1]. Les déversements doivent être contenus, absorbés avec un matériau inerte et éliminés conformément aux réglementations locales.
+
+### 2.4 Impact Environnemental de la Production et de l'Utilisation de l'Acide Oxalique et Traitement des Eaux Usées
+
+Les eaux usées générées lors de la production et de l'utilisation de l'acide oxalique, si elles sont rejetées directement sans traitement efficace, provoqueront une grave pollution environnementale. Répondre à ces préoccupations environnementales est primordial pour un développement industriel durable.
+
+#### 2.4.1 Impact Environnemental
+
+*   **Pollution de l'Eau** : Les eaux usées à l'acide oxalique présentent généralement une forte acidité (faible pH), contiennent des concentrations élevées de matières organiques (indiquées par une demande chimique en oxygène (DCO) élevée et une demande biochimique en oxygène (DBO) élevée), et ont une composition complexe, certaines matières organiques étant difficiles à biodégrader. Un rejet direct entraînera une acidification de l'eau, un épuisement important de l'oxygène dissous dans l'eau, de graves dommages à la vie aquatique et la destruction de tout l'écosystème aquatique.
+*   **Pollution Secondaire** : Lorsque l'acide oxalique est utilisé comme régulateur de pH, une utilisation excessive ou des produits de réaction avec d'autres substances peuvent causer une pollution secondaire pour l'environnement. Par exemple, la complexation avec des métaux lourds peut conduire à de nouveaux contaminants.
+*   **Bioaccumulation dans la Chaîne Alimentaire** : L'acide oxalique et ses dérivés peuvent pénétrer dans l'environnement par diffusion atmosphérique, adsorption par le sol et d'autres voies. De plus, les complexes formés entre l'acide oxalique et les métaux lourds peuvent subir des effets de bioaccumulation à travers les chaînes alimentaires aquatiques, entraînant un enrichissement en métaux lourds dans les cultures, posant des menaces potentielles pour les écosystèmes et la santé humaine [1].
+
+#### 2.4.2 Sources et Caractéristiques des Eaux Usées
+
+*   **Liqueur Mère d'Acide Oxalique** : Dans les méthodes d'oxydation et d'autres processus, après un certain nombre de cycles, la liqueur mère d'acide oxalique ne peut plus être réutilisée en raison d'une accumulation excessive d'impuretés, formant ainsi un liquide résiduel mixte de couleur noire pouvant contenir des substances huileuses ou des particules en suspension.
+*   **Eaux Usées Industrielles** : Les eaux usées industrielles des industries chimiques, pharmaceutiques, agroalimentaires, de la teinture textile et autres contiennent généralement des concentrations élevées d'acide oxalique, et peuvent être accompagnées d'autres matières premières n'ayant pas réagi, de produits intermédiaires, de sucres, de protéines, d'acides aminés, de sels inorganiques et d'autres composants complexes. La composition précise varie considérablement selon l'application spécifique.
+
+#### 2.4.3 Technologies de Traitement des Eaux Usées
+
+Compte tenu de la complexité et des caractéristiques de pollution des eaux usées à l'acide oxalique, leur traitement nécessite l'application complète de multiples technologies, comprenant généralement un prétraitement, un traitement biologique et un traitement avancé.
+
+*   **Prétraitement** :
+    *   **Séparation Physique** : Des installations telles que des grilles, des dessableurs et des bassins de sédimentation sont utilisées pour éliminer efficacement les matières en suspension et les impuretés particulaires des eaux usées.
+    *   **Neutralisation et Ajustement du pH** : En ajoutant des substances alcalines (par exemple, de la chaux, de la soude cáustique), le pH des eaux usées est ajusté dans une plage appropriée pour le traitement biologique ultérieur.
+*   **Traitement Biologique** :
+    *   **Traitement Anaérobie** : Utilise des micro-organismes anaérobies pour décomposer la majeure partie de la matière organique dans les eaux usées à forte concentration, réduisant ainsi la charge de DCO.
+    *   **Traitement Aérobie** : Élimine davantage la matière organique biodégradable par des processus tels que les boues activées ou les biofiltres.
+*   **Traitement Avancé** :
+    *   **Oxydation Chimique** : Utilise des oxydants puissants (par exemple, réactif de Fenton, ozone) pour décomposer la matière organique réfractaire.
+    *   **Adsorption** : Utilise du charbon actif ou d'autres adsorbants pour éliminer les traces de polluants organiques et de couleur.
+    *   **Technologie Membranaire** : Utilise l'ultrafiltration, l'osmose inverse et d'autres technologies membranaires pour une purification plus poussée et la récupération de l'eau.
 
 ## Chapitre 3 : Tendances du Marché et Perspectives Futures de l'Acide Oxalique
 
