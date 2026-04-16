@@ -61,12 +61,12 @@ Los diferentes perfiles químicos de estos dos ácidos conducen a aplicaciones p
 
 El ácido oxálico se utiliza predominantemente en aplicaciones industriales y de limpieza pesada:
 
--   **Eliminación de Óxido**: Su aplicación más conocida. El ácido oxálico reacciona con óxidos de hierro formando un complejo soluble, eliminando eficazmente las manchas de óxido en diversas superficies, incluyendo metales, concreto y telas [3] (ver también [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
--   **Blanqueo y Limpieza de Madera**: Excelente para remover manchas oscuras de agua, grisáceos y manchas de tanino en la madera, restaurando su color natural [4] (ver también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/en/blog/oxalic-acid-wood-bleaching)).
+-   **Eliminación de Óxido**: Su aplicación más conocida. El ácido oxálico reacciona con óxidos de hierro formando un complejo soluble, eliminando eficazmente las manchas de óxido en diversas superficies, incluyendo metales, concreto y telas [3] (ver también [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+-   **Blanqueo y Limpieza de Madera**: Excelente para remover manchas oscuras de agua, grisáceos y manchas de tanino en la madera, restaurando su color natural [4] (ver también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/es/blog/oxalic-acid-wood-bleaching)).
 -   **Limpieza y Pulido de Metales**: Usado para limpiar y dar brillo a varios metales, especialmente acero inoxidable y aluminio.
--   **Tratamiento de Agua**: Efectivo para remover hierro y manganeso del agua [5] (ver también [Ácido Oxálico para Tratamiento de Agua](/en/blog/oxalic-acid-water-treatment)).
--   **Extracción de Tierras Raras**: Reactivo crucial en la separación y purificación de elementos de tierras raras [6] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
--   **Industria Textil**: Usado como mordiente, auxiliar de teñido y para eliminar manchas de óxido en tejidos [7] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
+-   **Tratamiento de Agua**: Efectivo para remover hierro y manganeso del agua [5] (ver también [Ácido Oxálico para Tratamiento de Agua](/es/blog/oxalic-acid-water-treatment)).
+-   **Extracción de Tierras Raras**: Reactivo crucial en la separación y purificación de elementos de tierras raras [6] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
+-   **Industria Textil**: Usado como mordiente, auxiliar de teñido y para eliminar manchas de óxido en tejidos [7] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
 
 #### Aplicaciones del Ácido Cítrico
 
@@ -82,7 +82,7 @@ El ácido cítrico se usa ampliamente en las industrias alimentaria, farmacéuti
 
 Ambos ácidos requieren manejo cuidadoso, pero sus perfiles de seguridad difieren significativamente.
 
-**Ácido Oxálico**: Debido a su acidez y propiedades quelantes más fuertes, el ácido oxálico es corrosivo y moderadamente tóxico si se ingiere. Puede causar irritación en la piel y ojos y es dañino si se inhala. Es imprescindible usar equipo de protección personal (EPP) adecuado y buena ventilación al manipularlo [8] (ver también [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)). La disposición ambiental debe gestionarse cuidadosamente para evitar daños a la vida acuática.
+**Ácido Oxálico**: Debido a su acidez y propiedades quelantes más fuertes, el ácido oxálico es corrosivo y moderadamente tóxico si se ingiere. Puede causar irritación en la piel y ojos y es dañino si se inhala. Es imprescindible usar equipo de protección personal (EPP) adecuado y buena ventilación al manipularlo [8] (ver también [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)). La disposición ambiental debe gestionarse cuidadosamente para evitar daños a la vida acuática.
 
 **Ácido Cítrico**: Generalmente considerado seguro para el consumo y uso tópico en formas diluidas. Es un irritante leve para la piel y ojos en formas concentradas, pero mucho menos peligroso que el ácido oxálico. Es biodegradable y presenta menor riesgo ambiental [9].
 
@@ -99,7 +99,7 @@ Considere siempre la tarea específica, el material a tratar y las precauciones 
 
 Aunque tanto el ácido oxálico como el ácido cítrico son ácidos orgánicos versátiles, sus propiedades químicas y perfiles de seguridad distintos dictan sus aplicaciones óptimas. El ácido oxálico sobresale en limpiezas industriales exigentes y procesamiento de materiales, especialmente cuando se requiere una fuerte acción quelante contra hierro y calcio. El ácido cítrico, en cambio, es la elección preferida para aplicaciones que requieren un ácido más suave, seguro para alimentos y con buenas propiedades quelantes. SinoPeakChem ofrece ácido oxálico de alta calidad para aplicaciones industriales, asegurando eficacia y confiabilidad para sus necesidades específicas.
 
-**¿Necesita ácido oxálico de alto rendimiento para su limpieza industrial o procesamiento de materiales? [Contacte a SinoPeakChem para detalles del producto y asesoría experta →](/en/contact)**
+**¿Necesita ácido oxálico de alto rendimiento para su limpieza industrial o procesamiento de materiales? [Contacte a SinoPeakChem para detalles del producto y asesoría experta →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

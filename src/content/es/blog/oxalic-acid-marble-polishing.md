@@ -56,7 +56,7 @@ Generalmente **no debe** usarse en:
 
 #### Paso 1: Preparación y Seguridad
 
--   **Equipo de Protección Personal (EPP)**: Siempre use guantes resistentes a químicos, protección ocular (gafas) y respirador o máscara. Asegure buena ventilación en el área de trabajo. Para pautas detalladas de [seguridad](/en/blog/safety-guide), consulte nuestra guía completa.
+-   **Equipo de Protección Personal (EPP)**: Siempre use guantes resistentes a químicos, protección ocular (gafas) y respirador o máscara. Asegure buena ventilación en el área de trabajo. Para pautas detalladas de [seguridad](/es/blog/safety-guide), consulte nuestra guía completa.
 -   **Limpie la Superficie**: Limpie a fondo la superficie de mármol para eliminar toda suciedad, mugre y residuos sueltos. Use un limpiador de piedra con pH neutro. Cualquier partícula abrasiva restante puede causar rayaduras durante el pulido.
 -   **Proteja Áreas Circundantes**: Cubra con cinta protector las superficies adyacentes, muebles y pisos para protegerlos de salpicaduras.
 
@@ -73,7 +73,7 @@ Generalmente **no debe** usarse en:
 #### Paso 4: Enjuague y Neutralización
 
 -   **Enjuague Exhaustivo**: Inmediatamente después de pulir una sección, enjuague bien con agua limpia para eliminar todos los residuos de la pasta. Use una aspiradora húmeda o mopa para recoger la mezcla.
--   **Neutralice (Crucial)**: Aunque la capa de oxalato de calcio es estable, es buena práctica neutralizar cualquier residuo ácido. Aplique una solución alcalina suave (p. ej., bicarbonato de sodio y agua) sobre el área pulida, deje actuar unos minutos y luego enjuague nuevamente con agua limpia. Para más detalles sobre [cómo neutralizar ácido oxálico](/en/blog/how-to-neutralize-oxalic-acid), consulte nuestra guía específica.
+-   **Neutralice (Crucial)**: Aunque la capa de oxalato de calcio es estable, es buena práctica neutralizar cualquier residuo ácido. Aplique una solución alcalina suave (p. ej., bicarbonato de sodio y agua) sobre el área pulida, deje actuar unos minutos y luego enjuague nuevamente con agua limpia. Para más detalles sobre [cómo neutralizar ácido oxálico](/es/blog/how-to-neutralize-oxalic-acid), consulte nuestra guía específica.
 
 #### Paso 5: Secado e Inspección
 
@@ -92,7 +92,7 @@ Generalmente **no debe** usarse en:
 
 El ácido oxálico es una herramienta indispensable para el pulido profesional de mármol y el cuidado de piedras, ofreciendo un método eficaz para restaurar la belleza natural y el brillo de piedras calcáreas. Comprendiendo su acción química y siguiendo cuidadosamente las mejores prácticas de aplicación y seguridad, podrá lograr resultados impresionantes. Para ácido oxálico de alta calidad apto para todas sus necesidades de cuidado de piedras, SinoPeakChem es su socio confiable.
 
-**Logre un brillo brillante en sus superficies de mármol. Obtenga ácido oxálico de alta pureza de SinoPeakChem. [Contáctenos para una Cotización →](/en/contact)**
+**Logre un brillo brillante en sus superficies de mármol. Obtenga ácido oxálico de alta pureza de SinoPeakChem. [Contáctenos para una Cotización →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -73,7 +73,7 @@ Un proceso de exportación eficiente es vital para una entrega puntual. Los fabr
 
 **Principales Puertos de Exportación**: Shanghai, Qingdao, Tianjin y Ningbo son hubs principales para exportaciones químicas, ofreciendo rutas de envío globales extensas.
 
-**Documentos de Exportación**: Un juego completo incluye Factura Comercial, Lista de Empaque, Conocimiento de Embarque, COA, Ficha de Datos de Seguridad (MSDS) y Certificado de Origen. Para más detalles sobre [costos de envío](/en/blog/chemical-shipping-logistics-china-guide) y logística, consulte nuestra guía completa.
+**Documentos de Exportación**: Un juego completo incluye Factura Comercial, Lista de Empaque, Conocimiento de Embarque, COA, Ficha de Datos de Seguridad (MSDS) y Certificado de Origen. Para más detalles sobre [costos de envío](/es/blog/chemical-shipping-logistics-china-guide) y logística, consulte nuestra guía completa.
 
 ### Acerca de SinoPeakChem
 
@@ -82,7 +82,7 @@ SinoPeakChem ha sido un fabricante y exportador líder de ácido oxálico en Chi
 -   **Amplia Experiencia**: Décadas de pericia en producción de ácido oxálico y comercio internacional.
 -   **Calidad Garantizada**: Cumplimiento con estándares ISO 9001 y provisión de COAs detallados para cada lote.
 -   **Alcance Global**: Exportamos a más de 80 países, con profundo conocimiento de diversos requisitos de mercado.
--   **Precios Competitivos**: Como fabricante directo, ofrecemos [precios competitivos](/en/blog/oxalic-acid-price) sin intermediarios.
+-   **Precios Competitivos**: Como fabricante directo, ofrecemos [precios competitivos](/es/blog/oxalic-acid-price) sin intermediarios.
 -   **Logística Confiable**: Fuertes alianzas con líneas navieras principales garantizan entregas eficientes y puntuales en todo el mundo.
 
 ### Preguntas Frecuentes
@@ -91,7 +91,7 @@ SinoPeakChem ha sido un fabricante y exportador líder de ácido oxálico en Chi
 Nuestra capacidad anual de producción supera las 100,000 toneladas métricas, asegurando que podemos cubrir demandas a gran escala.
 
 **P2: ¿Pueden proporcionar muestras para pruebas?**  
-Sí, ofrecemos muestras gratuitas (típicamente entre 200-500 g) para evaluación de calidad. Por favor, [contáctenos](/en/contact) para coordinar el envío de una muestra.
+Sí, ofrecemos muestras gratuitas (típicamente entre 200-500 g) para evaluación de calidad. Por favor, [contáctenos](/es/contact) para coordinar el envío de una muestra.
 
 **P3: ¿Cuáles son sus condiciones de pago?**  
 Nuestras condiciones estándar son 30% T/T por adelantado y 70% T/T contra copia del conocimiento de embarque. También podemos discutir carta de crédito (L/C) para pedidos grandes.
@@ -106,7 +106,7 @@ Sí, contamos con registro completo REACH para ácido oxálico, facilitando expo
 
 Elegir el fabricante y exportador adecuado de ácido oxálico en China es una decisión estratégica que impacta la eficiencia de su cadena de suministro y la calidad del producto. Al asociarse con un proveedor experimentado y certificado como SinoPeakChem, accede a productos superiores, precios competitivos y logística global confiable. Estamos dedicados a ser su socio de confianza en la industria química.
 
-**¿Listo para abastecerse de ácido oxálico de alta calidad? [Contáctenos para una Cotización →](/en/contact)**
+**¿Listo para abastecerse de ácido oxálico de alta calidad? [Contáctenos para una Cotización →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -55,7 +55,7 @@ El teñido es crucial para impartir los colores deseados al cuero. El ácido ox�
 
 ### Consideraciones de Seguridad y Medioambientales
 
-Como con todos los productos químicos industriales, el manejo adecuado y los protocolos de seguridad son esenciales al utilizar ácido oxálico en el procesamiento del cuero (consulte [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+Como con todos los productos químicos industriales, el manejo adecuado y los protocolos de seguridad son esenciales al utilizar ácido oxálico en el procesamiento del cuero (consulte [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 
 -   **Equipo de Protección Personal (EPP)**: Los trabajadores deben usar el EPP adecuado, que incluya guantes resistentes a productos químicos, protección ocular y ropa protectora.
 -   **Ventilación**: Una ventilación adecuada en las áreas de procesamiento es crucial para evitar la inhalación de vapores o polvo.
@@ -65,7 +65,7 @@ Como con todos los productos químicos industriales, el manejo adecuado y los pr
 
 El ácido oxálico, con sus multifacéticas propiedades químicas, sigue siendo un componente valioso en el complejo mundo del curtido y teñido del cuero. Desde preparar las pieles para el curtido hasta mejorar la viveza y solidez de los tintes, sus aplicaciones abarcan tanto la artesanía tradicional como la eficiencia industrial moderna. Su capacidad para actuar como agente desencalante, regulador de pH y agente limpiador subraya su versatilidad. SinoPeakChem es un proveedor confiable de ácido oxálico de alta calidad, apoyando la industria del cuero con químicos esenciales para la producción de productos de cuero superiores.
 
-**Para ácido oxálico de alta calidad que optimice sus procesos de curtido y teñido de cuero, [contacte a SinoPeakChem para soluciones expertas →](/en/contact)**
+**Para ácido oxálico de alta calidad que optimice sus procesos de curtido y teñido de cuero, [contacte a SinoPeakChem para soluciones expertas →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

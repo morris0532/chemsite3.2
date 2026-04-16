@@ -54,11 +54,11 @@ El ácido oxálico generalmente está disponible en varios grados, cada uno dise
 **Pureza Típica**: 99.0% mínimo (a menudo 99.5% o 99.6% mínimo)
 
 **Aplicaciones Clave**:
--   **Eliminación de Óxido**: Efectivo para limpiar superficies metálicas, eliminar manchas de óxido de concreto y restaurar madera (ver [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
--   **Industria Textil**: Usado como agente blanqueador, mordiente y regulador de pH en procesos de teñido e impresión (ver [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
+-   **Eliminación de Óxido**: Efectivo para limpiar superficies metálicas, eliminar manchas de óxido de concreto y restaurar madera (ver [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+-   **Industria Textil**: Usado como agente blanqueador, mordiente y regulador de pH en procesos de teñido e impresión (ver [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
 -   **Curtido de Cuero**: Actúa como agente quelante para eliminar manchas de hierro y mejorar la calidad del cuero.
 -   **Tratamiento de Metales**: Utilizado en la limpieza, pulido de metales y como componente en algunos baños de electrochapado.
--   **Extracción de Tierras Raras**: Desempeña un papel crucial en la precipitación y separación de elementos de tierras raras (ver [Ácido Oxálico para la Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
+-   **Extracción de Tierras Raras**: Desempeña un papel crucial en la precipitación y separación de elementos de tierras raras (ver [Ácido Oxálico para la Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
 
 #### 2. Ácido Oxálico Grado Alimentario
 
@@ -103,7 +103,7 @@ Seleccionar el grado apropiado de ácido oxálico es crítico tanto para el rend
 
 La versatilidad del ácido oxálico se complementa con su disponibilidad en diversos grados, cada uno con especificaciones distintas diseñadas para aplicaciones particulares. Al comprender los niveles de pureza, los parámetros físico-químicos y las normas industriales relevantes, los usuarios pueden seleccionar con confianza el grado correcto de ácido oxálico para satisfacer sus necesidades específicas. SinoPeakChem es un proveedor líder de ácido oxálico de alta calidad en todos los grados, asegurando que nuestros clientes reciban productos que cumplen con los estándares industriales más exigentes.
 
-**¿Necesita grados específicos de ácido oxálico para sus aplicaciones industriales, alimentarias o farmacéuticas? [Contacte a SinoPeakChem para especificaciones detalladas y cotización →](/en/contact)**
+**¿Necesita grados específicos de ácido oxálico para sus aplicaciones industriales, alimentarias o farmacéuticas? [Contacte a SinoPeakChem para especificaciones detalladas y cotización →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

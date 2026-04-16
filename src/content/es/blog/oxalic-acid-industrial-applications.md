@@ -24,7 +24,7 @@ slug: oxalic-acid-industrial-applications
 ---
 
 ## ¿Qué es el Ácido Oxálico?
-El ácido oxálico (C₂H₂O₄) es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más fuertes. Como un [proveedor líder de ácido oxálico de alta pureza](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem garantiza que este químico versátil cumpla con los estrictos requisitos de los compradores industriales globales. Se encuentra de forma natural en muchas plantas y se suministra industrialmente para numerosas aplicaciones.
+El ácido oxálico (C₂H₂O₄) es el ácido dicarboxílico más simple y uno de los ácidos orgánicos más fuertes. Como un [proveedor líder de ácido oxálico de alta pureza](https://www.sinopeakchem.com/es/products/oxalic-acid), Sinopeakchem garantiza que este químico versátil cumpla con los estrictos requisitos de los compradores industriales globales. Se encuentra de forma natural en muchas plantas y se suministra industrialmente para numerosas aplicaciones.
 
 ## Principales Aplicaciones Industriales
 ### 1. Limpieza de Metales y Eliminación de Óxido
@@ -71,7 +71,7 @@ Se utiliza como intermedio en:
 - Mantener alejado de fuertes agentes oxidantes y bases
 
 ## Conclusión
-Como un [proveedor confiable de ácido oxálico de China](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem suministra ácido oxálico de alta pureza (≥99.6%) con documentación de seguridad completa y soporte logístico global. Ya sea que necesite cantidades a granel para la extracción de tierras raras o limpieza industrial especializada, contáctenos para precios y disponibilidad.
+Como un [proveedor confiable de ácido oxálico de China](https://www.sinopeakchem.com/es/products/oxalic-acid), Sinopeakchem suministra ácido oxálico de alta pureza (≥99.6%) con documentación de seguridad completa y soporte logístico global. Ya sea que necesite cantidades a granel para la extracción de tierras raras o limpieza industrial especializada, contáctenos para precios y disponibilidad.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -51,7 +51,7 @@ Cuando se añade ácido oxálico a una solución que contiene una mezcla de ione
 
 #### 2. Purificación de Tierras Raras Individuales
 
-Después de la separación inicial, los pasos de purificación adicionales a menudo implican la redisolución de los precipitados de oxalato crudo y la repetición del proceso de precipitación selectiva bajo condiciones aún más estrictas. Este proceso iterativo, a veces combinado con extracción por solventes, permite aislar ETR individuales con purezas superiores al 99.9% — un requisito para imanes de alto rendimiento como los imanes de neodimio [6] (ver también [Ácido oxálico para la extracción de tierras raras](/en/blog/oxalic-acid-rare-earth-extraction)).
+Después de la separación inicial, los pasos de purificación adicionales a menudo implican la redisolución de los precipitados de oxalato crudo y la repetición del proceso de precipitación selectiva bajo condiciones aún más estrictas. Este proceso iterativo, a veces combinado con extracción por solventes, permite aislar ETR individuales con purezas superiores al 99.9% — un requisito para imanes de alto rendimiento como los imanes de neodimio [6] (ver también [Ácido oxálico para la extracción de tierras raras](/es/blog/oxalic-acid-rare-earth-extraction)).
 
 ### Papel en la Producción de Imanes de Neodimio
 
@@ -65,13 +65,13 @@ La pureza del neodimio y otros elementos de tierras raras añadidos (como dispro
 
 ### Consideraciones Ambientales y de Seguridad
 
-Aunque altamente efectivo, el uso de ácido oxálico en procesos industriales a gran escala como la extracción de tierras raras requiere una gestión cuidadosa debido a su naturaleza corrosiva y tóxica. Se debe cumplir estrictamente con el manejo adecuado, el tratamiento de desechos y las regulaciones ambientales [8] (ver también [Seguridad y manejo del ácido oxálico](/en/blog/oxalic-acid-safety-handling)). Se realizan esfuerzos continuos para optimizar el proceso en términos de eficiencia y minimizar su impacto ambiental.
+Aunque altamente efectivo, el uso de ácido oxálico en procesos industriales a gran escala como la extracción de tierras raras requiere una gestión cuidadosa debido a su naturaleza corrosiva y tóxica. Se debe cumplir estrictamente con el manejo adecuado, el tratamiento de desechos y las regulaciones ambientales [8] (ver también [Seguridad y manejo del ácido oxálico](/es/blog/oxalic-acid-safety-handling)). Se realizan esfuerzos continuos para optimizar el proceso en términos de eficiencia y minimizar su impacto ambiental.
 
 ### Conclusión
 
 El ácido oxálico es mucho más que un ácido orgánico simple; es un reactivo químico crítico que sustenta la industria de materiales avanzados, particularmente en la producción de imanes de tierras raras. Su capacidad para precipitar y purificar selectivamente los elementos de tierras raras es fundamental para alcanzar los altos niveles de pureza requeridos por estos materiales magnéticos de alto rendimiento. A medida que el mundo depende cada vez más de tecnologías impulsadas por imanes de tierras raras, la importancia estratégica del ácido oxálico en su cadena de suministro solo seguirá creciendo. SinoPeakChem es un proveedor confiable de ácido oxálico de alta calidad, apoyando los exigentes requerimientos de la industria de tierras raras.
 
-**Para ácido oxálico de alta calidad para procesamiento de tierras raras y otras aplicaciones industriales, [contacte a SinoPeakChem para especificaciones de producto y pedidos al por mayor →](/en/contact)**
+**Para ácido oxálico de alta calidad para procesamiento de tierras raras y otras aplicaciones industriales, [contacte a SinoPeakChem para especificaciones de producto y pedidos al por mayor →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

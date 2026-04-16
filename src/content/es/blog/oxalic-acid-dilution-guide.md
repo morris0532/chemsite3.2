@@ -39,7 +39,7 @@ El ácido oxálico es un potente ácido orgánico ampliamente utilizado en diver
 
 ### 1. Precauciones de Seguridad Esenciales
 
-Antes de comenzar cualquier proceso de dilución, priorice la seguridad. El ácido oxálico, especialmente en su forma concentrada, puede causar quemaduras graves y es dañino si se ingiere o inhala. Siempre siga estas precauciones [1] (ver también [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)):
+Antes de comenzar cualquier proceso de dilución, priorice la seguridad. El ácido oxálico, especialmente en su forma concentrada, puede causar quemaduras graves y es dañino si se ingiere o inhala. Siempre siga estas precauciones [1] (ver también [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)):
 
 -   **Equipo de Protección Personal (EPP)**:
     *   **Guantes**: Use guantes resistentes a productos químicos (por ejemplo, nitrilo o neopreno).
@@ -50,7 +50,7 @@ Antes de comenzar cualquier proceso de dilución, priorice la seguridad. El áci
 -   **Primeros Auxilios**: Tenga acceso a un lavaojos y una ducha de seguridad. Conozca la ubicación de los contactos de emergencia y los procedimientos de primeros auxilios.
 -   **Regla “Siempre Añadir Ácido al Agua”**: Esta es una regla fundamental en química. Añadir agua al ácido concentrado puede causar una reacción exotérmica violenta, provocando salpicaduras y quemaduras potenciales. Siempre agregue el ácido lentamente al agua, nunca al revés.
 -   **Etiquetado**: Etiquete claramente todos los recipientes con el nombre químico, concentración, fecha y cualquier peligro relevante.
--   **Almacenamiento**: Guarde el ácido oxálico en un lugar fresco, seco y bien ventilado, lejos de materiales incompatibles como fuertes oxidantes y álcalis [2] (ver también [Empaque y Almacenamiento del Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+-   **Almacenamiento**: Guarde el ácido oxálico en un lugar fresco, seco y bien ventilado, lejos de materiales incompatibles como fuertes oxidantes y álcalis [2] (ver también [Empaque y Almacenamiento del Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 
 ### 2. Materiales Necesarios
 
@@ -114,9 +114,9 @@ Entonces, disolvería 50 gramos de polvo de ácido oxálico en suficiente agua p
 
 ### 5. Recomendaciones Específicas de Dilución para Aplicaciones Comunes
 
--   **Eliminación de Óxido**: Típicamente soluciones del 5-10% (p/v). Para óxido intenso, se puede usar hasta 15%, pero siempre pruebe primero en un área poco visible [3] (ver también [Ácido Oxálico para la Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
--   **Blanqueo de Madera**: Frecuentemente soluciones del 5-10% (p/v). Para manchas ligeras, 2-5% puede ser suficiente [4] (ver también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/en/blog/oxalic-acid-wood-bleaching)).
--   **Limpieza General / Desincrustado**: Soluciones del 2-5% (p/v) para tareas más suaves [5] (ver también [Ácido Oxálico para Limpieza y Desincrustado](/en/blog/oxalic-acid-cleaning-descaling)).
+-   **Eliminación de Óxido**: Típicamente soluciones del 5-10% (p/v). Para óxido intenso, se puede usar hasta 15%, pero siempre pruebe primero en un área poco visible [3] (ver también [Ácido Oxálico para la Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+-   **Blanqueo de Madera**: Frecuentemente soluciones del 5-10% (p/v). Para manchas ligeras, 2-5% puede ser suficiente [4] (ver también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/es/blog/oxalic-acid-wood-bleaching)).
+-   **Limpieza General / Desincrustado**: Soluciones del 2-5% (p/v) para tareas más suaves [5] (ver también [Ácido Oxálico para Limpieza y Desincrustado](/es/blog/oxalic-acid-cleaning-descaling)).
 
 Consulte siempre las pautas específicas para cada aplicación y comience con una concentración baja si no está seguro, aumentando gradualmente si es necesario.
 
@@ -124,7 +124,7 @@ Consulte siempre las pautas específicas para cada aplicación y comience con un
 
 Diluir el ácido oxálico de forma segura y precisa es fundamental tanto para la efectividad como para la seguridad personal. Al comprender las propiedades químicas, seguir protocolos de seguridad estrictos y aplicar cálculos correctos de concentración, puede aprovechar las poderosas capacidades de limpieza y procesamiento del ácido oxálico con total confianza. SinoPeakChem enfatiza el manejo seguro y provee ácido oxálico de alta calidad, garantizando un rendimiento confiable en todas sus aplicaciones.
 
-**Para ácido oxálico de alta calidad y asesoría experta sobre su uso seguro y dilución, [contacte a SinoPeakChem hoy →](/en/contact)**
+**Para ácido oxálico de alta calidad y asesoría experta sobre su uso seguro y dilución, [contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

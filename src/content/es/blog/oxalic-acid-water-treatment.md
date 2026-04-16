@@ -75,7 +75,7 @@ El ácido oxálico puede aplicarse en varias etapas del tratamiento de agua, seg
 
 ### Consideraciones de Seguridad
 
-Aunque es efectivo, el ácido oxálico es una sustancia corrosiva que requiere manejo cuidadoso (ver [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+Aunque es efectivo, el ácido oxálico es una sustancia corrosiva que requiere manejo cuidadoso (ver [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 
 -   **Equipos de Protección Personal (EPP)**: Siempre use guantes resistentes a químicos, protección ocular y ropa adecuada.
 -   **Ventilación**: Asegure una ventilación adecuada en las áreas de aplicación.
@@ -86,7 +86,7 @@ Aunque es efectivo, el ácido oxálico es una sustancia corrosiva que requiere m
 
 El ácido oxálico destaca como un químico poderoso y versátil para enfrentar los desafíos que presentan el hierro y el manganeso en el agua. Su capacidad para quelar y solubilizar estos metales lo convierte en una herramienta invaluable para prevenir manchas, proteger infraestructuras y garantizar la calidad del agua en diversas aplicaciones. Para industrias y municipios que buscan soluciones confiables para la remoción de metales en el tratamiento de agua, el ácido oxálico, cuando se usa correctamente, ofrece ventajas significativas. SinoPeakChem provee ácido oxálico de alta calidad adecuado para todas sus necesidades de tratamiento de agua, respaldado por asesoría experta.
 
-**¿Necesita soluciones efectivas para la eliminación de hierro y manganeso en sus procesos de tratamiento de agua? [Contacte a SinoPeakChem para ácido oxálico de alta calidad y soporte técnico →](/en/contact)**
+**¿Necesita soluciones efectivas para la eliminación de hierro y manganeso en sus procesos de tratamiento de agua? [Contacte a SinoPeakChem para ácido oxálico de alta calidad y soporte técnico →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -59,7 +59,7 @@ El almacenamiento adecuado es fundamental para mantener la calidad del ácido ox
 
 1.  **Ambiente Fresco y Seco**: Almacenar en un área fresca, seca y bien ventilada. La humedad debe mantenerse lo más baja posible para evitar la absorción de humedad.
 2.  **Control de Temperatura**: Evitar temperaturas extremas. Aunque el ácido oxálico es estable, la exposición prolongada a altas temperaturas puede llevar a su descomposición.
-3.  **Alejado de Materiales Incompatibles**: No almacenar cerca de agentes oxidantes fuertes (p. ej., peróxidos, nitratos), bases fuertes (p. ej., hidróxido de sodio) o ciertos metales (p. ej., hierro, aluminio), ya que pueden producirse reacciones peligrosas. Para más detalles sobre materiales incompatibles, consulte nuestra guía sobre [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling).
+3.  **Alejado de Materiales Incompatibles**: No almacenar cerca de agentes oxidantes fuertes (p. ej., peróxidos, nitratos), bases fuertes (p. ej., hidróxido de sodio) o ciertos metales (p. ej., hierro, aluminio), ya que pueden producirse reacciones peligrosas. Para más detalles sobre materiales incompatibles, consulte nuestra guía sobre [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling).
 4.  **Almacenamiento Seguro y Segregado**: Guardar en un área dedicada, preferiblemente en una instalación con acceso restringido, para prevenir accesos no autorizados. Segregar de alimentos, piensos y otros materiales sensibles.
 5.  **Almacenamiento Elevado**: Mantener los contenedores fuera del piso, sobre pallets o estantes, para protegerlos contra la humedad y posibles inundaciones.
 6.  **Ventilación Adecuada**: Asegurar una ventilación adecuada para evitar la acumulación de polvo o posibles vapores, especialmente si el embalaje está comprometido.
@@ -76,7 +76,7 @@ El almacenamiento adecuado es fundamental para mantener la calidad del ácido ox
 
 El embalaje efectivo y las prácticas estrictas de almacenamiento son fundamentales para preservar la calidad, pureza y seguridad del ácido oxálico. Al elegir materiales de embalaje adecuados y mantener condiciones ideales de almacenamiento, las industrias pueden garantizar que este valioso químico se mantenga efectivo para sus aplicaciones previstas minimizando riesgos. SinoPeakChem se compromete a proporcionar ácido oxálico de alta calidad con embalajes seguros y conformes, respaldados por asesoría experta sobre almacenamiento y manejo seguro.
 
-**Asegure la longevidad y seguridad de su suministro de ácido oxálico. [Contacte a SinoPeakChem para soluciones confiables de embalaje y almacenamiento →](/en/contact)**
+**Asegure la longevidad y seguridad de su suministro de ácido oxálico. [Contacte a SinoPeakChem para soluciones confiables de embalaje y almacenamiento →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

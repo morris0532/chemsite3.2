@@ -37,7 +37,7 @@ El óxido, científicamente conocido como óxido de hierro, se forma cuando el h
 
 ### Ácido Oxálico como Removedor de Óxido
 
-El ácido oxálico (C₂H₂O₄) es un ácido orgánico ampliamente utilizado para eliminar el óxido, particularmente en superficies delicadas como la madera, fibra de vidrio y ciertos metales. Su efectividad proviene de su capacidad para quelar (unir) iones de hierro, formando un complejo soluble que puede ser enjuagado. Para una guía detallada sobre su aplicación, consulta nuestro artículo sobre [Ácido Oxálico para la Eliminación del Óxido](/en/blog/oxalic-acid-rust-removal).
+El ácido oxálico (C₂H₂O₄) es un ácido orgánico ampliamente utilizado para eliminar el óxido, particularmente en superficies delicadas como la madera, fibra de vidrio y ciertos metales. Su efectividad proviene de su capacidad para quelar (unir) iones de hierro, formando un complejo soluble que puede ser enjuagado. Para una guía detallada sobre su aplicación, consulta nuestro artículo sobre [Ácido Oxálico para la Eliminación del Óxido](/es/blog/oxalic-acid-rust-removal).
 
 **Ventajas:**
 -   **Eficaz en diversas superficies**: Excelente para madera, fibra de vidrio, concreto y algunos metales.
@@ -46,7 +46,7 @@ El ácido oxálico (C₂H₂O₄) es un ácido orgánico ampliamente utilizado p
 -   **Efecto blanqueador**: También puede blanquear y dar brillo a las superficies, especialmente la madera.
 
 **Desventajas:**
--   **Corrosivo**: Sigue siendo un ácido; requiere equipo de protección personal adecuado y manejo cuidadoso (ver [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+-   **Corrosivo**: Sigue siendo un ácido; requiere equipo de protección personal adecuado y manejo cuidadoso (ver [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 -   **Acción más lenta**: Puede requerir tiempos de contacto más largos en comparación con ácidos más fuertes.
 -   **No ideal para óxido pesado**: Puede tener dificultad con óxidos extremadamente gruesos o muy picados sin aplicaciones múltiples.
 
@@ -147,7 +147,7 @@ El mejor removedor de óxido depende de varios factores:
 
 El ácido oxálico destaca como un removedor de óxido versátil y efectivo, especialmente por su capacidad para limpiar superficies delicadas sin causar daños excesivos. Aunque otros métodos ofrecen fortalezas diferentes, entender los requisitos específicos de tu proyecto y las propiedades de cada removedor de óxido es clave para elegir la solución más adecuada. SinoPeakChem ofrece ácido oxálico de alta calidad, proporcionando una opción confiable para muchas aplicaciones de eliminación de óxido.
 
-**¿Necesitas una solución confiable para eliminar óxido? Explora el ácido oxálico de alta pureza de SinoPeakChem. [Contáctanos para Asesoría Experta →](/en/contact)**
+**¿Necesitas una solución confiable para eliminar óxido? Explora el ácido oxálico de alta pureza de SinoPeakChem. [Contáctanos para Asesoría Experta →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

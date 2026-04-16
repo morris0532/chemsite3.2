@@ -37,7 +37,7 @@ El ácido oxálico (C₂H₂O₄) es un ácido dicarboxílico conocido por sus p
 
 -   **Auxiliar de Teñido**: Actúa como regulador de pH y agente quelante, controlando la acidez de los baños de teñido y evitando que los iones metálicos interfieran en la fijación del tinte. Esto asegura colores más uniformes y vibrantes, especialmente con tintes ácidos y tintes de cromo.
 -   **Agente reductor en impresión**: En ciertos procesos de impresión, el ácido oxálico puede usarse como agente reductor para conseguir efectos de color específicos o eliminar tintes excesivos de las telas impresas.
--   **Limpieza y eliminación de manchas**: Su capacidad para quelar iones metálicos lo hace muy efectivo en la eliminación de manchas de óxido (manchas de hierro) en telas, que pueden ocurrir durante el procesamiento o almacenamiento. Esto es similar a su aplicación en la [eliminación de óxido](/en/blog/oxalic-acid-rust-removal) de otras superficies.
+-   **Limpieza y eliminación de manchas**: Su capacidad para quelar iones metálicos lo hace muy efectivo en la eliminación de manchas de óxido (manchas de hierro) en telas, que pueden ocurrir durante el procesamiento o almacenamiento. Esto es similar a su aplicación en la [eliminación de óxido](/es/blog/oxalic-acid-rust-removal) de otras superficies.
 -   **Tratamiento de fibras**: Puede usarse en el pretratamiento de ciertas fibras para mejorar su receptividad a los tintes o para modificar sus propiedades.
 
 ### Aplicaciones Específicas en el Teñido Textil
@@ -75,13 +75,13 @@ Los materiales textiles pueden adquirir manchas de óxido provenientes de maquin
 
 ### Consideraciones de Seguridad
 
-Como con cualquier producto químico industrial, el manejo adecuado y las precauciones de seguridad son fundamentales al usar ácido oxálico en aplicaciones textiles. Consulte nuestra guía completa sobre [seguridad y manejo del ácido oxálico](/en/blog/oxalic-acid-safety-handling) para obtener información detallada sobre EPP, almacenamiento, primeros auxilios y eliminación.
+Como con cualquier producto químico industrial, el manejo adecuado y las precauciones de seguridad son fundamentales al usar ácido oxálico en aplicaciones textiles. Consulte nuestra guía completa sobre [seguridad y manejo del ácido oxálico](/es/blog/oxalic-acid-safety-handling) para obtener información detallada sobre EPP, almacenamiento, primeros auxilios y eliminación.
 
 ### Conclusión
 
 El ácido oxálico es una molécula pequeña con un impacto significativo en la industria textil. Sus diversas aplicaciones como auxiliar de teñido, agente reductor y agente de limpieza contribuyen a la producción de telas de alta calidad, vibrantes y libres de manchas. Comprender sus propiedades químicas y aplicarlo correctamente permite a los fabricantes textiles alcanzar resultados superiores. SinoPeakChem ofrece ácido oxálico de alta pureza, asegurando un rendimiento constante para todas sus necesidades de procesamiento textil.
 
-**Optimice sus procesos de teñido e impresión textil. Asóciese con SinoPeakChem para obtener ácido oxálico de alta calidad. [Contáctenos para una cotización →](/en/contact)**
+**Optimice sus procesos de teñido e impresión textil. Asóciese con SinoPeakChem para obtener ácido oxálico de alta calidad. [Contáctenos para una cotización →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

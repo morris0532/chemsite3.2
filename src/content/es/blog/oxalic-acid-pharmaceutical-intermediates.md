@@ -71,7 +71,7 @@ En ciertos pasos de reacción, el control preciso del pH es esencial. El ácido 
 
 #### 4. Limpieza y Mantenimiento de Equipos
 
-Más allá de la síntesis directa, el ácido oxálico también se usa para la limpieza y desincrustación de equipos farmacéuticos, asegurando un entorno estéril y libre de contaminación para la producción de medicamentos. Su capacidad para eliminar óxido y depósitos minerales es crucial para mantener la integridad de reactores y tuberías de acero inoxidable [6] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/en/blog/oxalic-acid-cleaning-descaling)).
+Más allá de la síntesis directa, el ácido oxálico también se usa para la limpieza y desincrustación de equipos farmacéuticos, asegurando un entorno estéril y libre de contaminación para la producción de medicamentos. Su capacidad para eliminar óxido y depósitos minerales es crucial para mantener la integridad de reactores y tuberías de acero inoxidable [6] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/es/blog/oxalic-acid-cleaning-descaling)).
 
 ### Seguridad y Manejo en Entornos Farmacéuticos
 
@@ -79,14 +79,14 @@ Dada su naturaleza corrosiva y toxicidad, los protocolos estrictos de seguridad 
 
 -   **Equipo de Protección Personal (EPP)**: Uso de guantes, protección ocular y ropa protectora.
 -   **Ventilación**: Asegurar ventilación local adecuada para evitar la inhalación de polvo o vapores.
--   **Almacenamiento**: Guardar en un lugar fresco, seco y bien ventilado, alejado de materiales incompatibles [7] (véase también [Seguridad y Manejo de Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+-   **Almacenamiento**: Guardar en un lugar fresco, seco y bien ventilado, alejado de materiales incompatibles [7] (véase también [Seguridad y Manejo de Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 -   **Gestión de Residuos**: Eliminación apropiada de desechos de ácido oxálico conforme a normativas ambientales.
 
 ### Conclusión
 
 El ácido oxálico, con su combinación única de acidez fuerte, estructura dicarboxílica y capacidad quelante, es un químico indispensable en la industria farmacéutica. Sus aplicaciones van desde la crucial purificación y aislamiento de intermedios farmacéuticos mediante la formación de sales, hasta su papel como reactivo versátil en síntesis orgánicas complejas. A medida que la demanda por medicamentos nuevos y efectivos sigue creciendo, el uso estratégico de compuestos como el ácido oxálico permanece fundamental para una fabricación farmacéutica eficiente y de alta calidad. SinoPeakChem provee ácido oxálico de alta pureza, cumpliendo con los estrictos requisitos de calidad del sector farmacéutico.
 
-**Para ácido oxálico de alta pureza adecuado para la síntesis de intermedios farmacéuticos, [contacte a SinoPeakChem para especificaciones de producto y pedidos al por mayor →](/en/contact)**
+**Para ácido oxálico de alta pureza adecuado para la síntesis de intermedios farmacéuticos, [contacte a SinoPeakChem para especificaciones de producto y pedidos al por mayor →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

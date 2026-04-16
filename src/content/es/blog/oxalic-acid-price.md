@@ -58,13 +58,13 @@ La fabricación de ácido oxálico es un proceso que consume mucha energía. Cam
 La demanda global de ácido oxálico está creciendo, impulsada por sectores como la extracción de tierras raras y el reciclaje de baterías de litio-ion. Cualquier desequilibrio entre esta demanda creciente y la capacidad de producción disponible puede provocar volatilidad en los precios.
 
 #### 4. Pureza y Grado del Producto
-Niveles más altos de pureza requieren procesos de refinación más rigurosos. Como se discute en nuestra guía sobre [ácido oxálico dihidrato vs anhidro](/en/blog/oxalic-acid-dihydrate-vs-anhydrous), elegir la [pureza y grado](/en/blog/oxalic-acid-dihydrate-vs-anhydrous) adecuados para su aplicación específica es esencial para evitar pagar de más por especificaciones innecesarias.
+Niveles más altos de pureza requieren procesos de refinación más rigurosos. Como se discute en nuestra guía sobre [ácido oxálico dihidrato vs anhidro](/es/blog/oxalic-acid-dihydrate-vs-anhydrous), elegir la [pureza y grado](/es/blog/oxalic-acid-dihydrate-vs-anhydrous) adecuados para su aplicación específica es esencial para evitar pagar de más por especificaciones innecesarias.
 
 #### 5. Cantidad del Pedido
-Las economías de escala aplican significativamente en la industria química. Las [compras al por mayor](/en/blog/buy-oxalic-acid-bulk) suelen gozar de precios unitarios más bajos en comparación con pedidos más pequeños y menos frecuentes.
+Las economías de escala aplican significativamente en la industria química. Las [compras al por mayor](/es/blog/buy-oxalic-acid-bulk) suelen gozar de precios unitarios más bajos en comparación con pedidos más pequeños y menos frecuentes.
 
 #### 6. Costos de Envío y Logística
-Los [costos globales de envío](/en/blog/chemical-shipping-logistics-china-guide) y tarifas portuarias pueden fluctuar según los precios del combustible y factores geopolíticos. La elección del puerto de destino y el modo de transporte (contenedor completo FCL vs carga menor LCL) también afectan el costo final.
+Los [costos globales de envío](/es/blog/chemical-shipping-logistics-china-guide) y tarifas portuarias pueden fluctuar según los precios del combustible y factores geopolíticos. La elección del puerto de destino y el modo de transporte (contenedor completo FCL vs carga menor LCL) también afectan el costo final.
 
 ### Análisis de la Tendencia de Precios 2023-2025
 
@@ -74,7 +74,7 @@ En los últimos años, el mercado del ácido oxálico ha experimentado fluctuaci
 
 Para optimizar los costos de adquisición, considere las siguientes estrategias:
 
-*   **Abastecimiento Directo:** Trabaje directamente con un [proveedor confiable](/en/blog/oxalic-acid-supplier-china) o fabricante como SinoPeakChem para eliminar márgenes de intermediarios.
+*   **Abastecimiento Directo:** Trabaje directamente con un [proveedor confiable](/es/blog/oxalic-acid-supplier-china) o fabricante como SinoPeakChem para eliminar márgenes de intermediarios.
 *   **Descuentos por Volumen:** Consolide sus requerimientos para realizar pedidos mayores y negociar mejores precios por volumen.
 *   **Contratos a Largo Plazo:** Asegure precios y suministros estables mediante acuerdos anuales o plurianuales.
 *   **Logística Optimizada:** Opte por envíos en Contenedor Completo (FCL) siempre que sea posible para minimizar costos unitarios de transporte.

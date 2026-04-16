@@ -72,11 +72,11 @@ Las propiedades químicas distintas del ácido oxálico y el ácido sulfúrico c
 
 La acidez moderada del ácido oxálico, sus propiedades reductor as y capacidad quelante lo hacen adecuado para aplicaciones especializadas:
 
-*   **Eliminación de óxido**: Uno de sus usos más conocidos. El ácido oxálico reacciona con óxidos de hierro (óxido) para formar un complejo soluble, eliminando eficazmente las manchas de óxido de diversas superficies sin dañar el material subyacente [3] (ver también [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
+*   **Eliminación de óxido**: Uno de sus usos más conocidos. El ácido oxálico reacciona con óxidos de hierro (óxido) para formar un complejo soluble, eliminando eficazmente las manchas de óxido de diversas superficies sin dañar el material subyacente [3] (ver también [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
 *   **Agente de limpieza**: Utilizado en muchos productos de limpieza domésticos e industriales, especialmente para blanqueo de madera, eliminación de manchas (ej., tinta, manchas de alimentos) y limpieza general de minerales.
-*   **Tratamiento de metales**: Empleado en procesos de limpieza, pulido y pasivación de metales, especialmente para acero inoxidable y aluminio [4] (ver también [Ácido Oxálico para Limpieza de Metales](/en/blog/oxalic-acid-metal-cleaning)).
-*   **Industria textil**: Actúa como mordiente en procesos de teñido y como agente blanqueador para textiles [5] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
-*   **Extracción de tierras raras**: Utilizado en procesos hidrometalúrgicos para la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles con estos metales [6] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
+*   **Tratamiento de metales**: Empleado en procesos de limpieza, pulido y pasivación de metales, especialmente para acero inoxidable y aluminio [4] (ver también [Ácido Oxálico para Limpieza de Metales](/es/blog/oxalic-acid-metal-cleaning)).
+*   **Industria textil**: Actúa como mordiente en procesos de teñido y como agente blanqueador para textiles [5] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
+*   **Extracción de tierras raras**: Utilizado en procesos hidrometalúrgicos para la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles con estos metales [6] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
 *   **Apicultura**: Usado como tratamiento contra ácaros Varroa en colmenas.
 
 ### Aplicaciones del Ácido Sulfúrico

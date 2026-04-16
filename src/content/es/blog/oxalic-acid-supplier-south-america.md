@@ -41,19 +41,19 @@ Sudamérica, un continente caracterizado por sus vastos recursos naturales y su 
 Los variados sectores industriales y agrícolas de Sudamérica utilizan ácido oxálico en varios procesos cruciales:
 
 *   **Agricultura**: En países como Brasil, el ácido oxálico se emplea en ciertas aplicaciones agrícolas, incluyendo el ajuste de pH y como agente quelante para micronutrientes, contribuyendo a la salud del suelo y al rendimiento de los cultivos.
-*   **Procesamiento del Cuero**: Sudamérica posee una destacada industria del cuero, especialmente en Brasil y Colombia. El ácido oxálico se utiliza en los procesos de curtido y teñido del cuero, contribuyendo a la calidad y acabado de los productos de cuero [1] (véase también [Ácido Oxálico para Curtido y Teñido de Cuero](/en/blog/oxalic-acid-leather-tanning)).
-*   **Industria Minera**: Chile, líder mundial en la producción de cobre, junto con otras naciones mineras de la región, utiliza ácido oxálico en procesos de extracción y purificación de minerales, especialmente para ciertos minerales metálicos [2] (véase también [Ácido Oxálico para la Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
-*   **Limpieza Industrial y Eliminación de Óxido**: En diversas industrias, el ácido oxálico es un agente eficaz para la limpieza de equipos, descalcificación y eliminación de óxido, asegurando la longevidad de la maquinaria y la eficiencia operativa [3] (véase también [Ácido Oxálico para la Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
-*   **Industria Textil**: En los sectores textiles en desarrollo, el ácido oxálico sirve como mordiente y agente reductor en procesos de teñido e impresión [4] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
+*   **Procesamiento del Cuero**: Sudamérica posee una destacada industria del cuero, especialmente en Brasil y Colombia. El ácido oxálico se utiliza en los procesos de curtido y teñido del cuero, contribuyendo a la calidad y acabado de los productos de cuero [1] (véase también [Ácido Oxálico para Curtido y Teñido de Cuero](/es/blog/oxalic-acid-leather-tanning)).
+*   **Industria Minera**: Chile, líder mundial en la producción de cobre, junto con otras naciones mineras de la región, utiliza ácido oxálico en procesos de extracción y purificación de minerales, especialmente para ciertos minerales metálicos [2] (véase también [Ácido Oxálico para la Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
+*   **Limpieza Industrial y Eliminación de Óxido**: En diversas industrias, el ácido oxálico es un agente eficaz para la limpieza de equipos, descalcificación y eliminación de óxido, asegurando la longevidad de la maquinaria y la eficiencia operativa [3] (véase también [Ácido Oxálico para la Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+*   **Industria Textil**: En los sectores textiles en desarrollo, el ácido oxálico sirve como mordiente y agente reductor en procesos de teñido e impresión [4] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
 
 ### SinoPeakChem: Su socio confiable para Sudamérica
 
 SinoPeakChem está dedicado a servir al mercado sudamericano con ácido oxálico de alta calidad y un servicio excepcional. Nuestras ventajas incluyen:
 
-1.  **Calidad Consistente**: Suministramos ácido oxálico con una pureza mínima del 99.6%, cumpliendo con estándares internacionales de calidad. Cada envío va acompañado de un Certificado de Análisis (CoA) para garantizar las especificaciones del producto [5] (véase también [Grados y Especificaciones del Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Calidad Consistente**: Suministramos ácido oxálico con una pureza mínima del 99.6%, cumpliendo con estándares internacionales de calidad. Cada envío va acompañado de un Certificado de Análisis (CoA) para garantizar las especificaciones del producto [5] (véase también [Grados y Especificaciones del Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 2.  **Logística Eficiente**: Aprovechamos rutas marítimas establecidas hacia los principales puertos sudamericanos como Santos (Brasil), Valparaíso (Chile) y Cartagena (Colombia), garantizando entregas oportunas y seguras. Nuestro equipo logístico cuenta con experiencia en la navegación de la complejidad del transporte internacional de productos químicos, incluyendo la adhesión a regulaciones locales.
-3.  **Precios Competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos a granel de ácido oxálico, proporcionando soluciones rentables sin comprometer la calidad [6] (véase también [Tendencia del Precio del Ácido Oxálico 2025](/en/blog/oxalic-acid-price)).
-4.  **Embalaje Flexible**: Ofrecemos diversas opciones de embalaje, desde bolsas tejidas de polipropileno de 25 kg hasta bolsas jumbo de 1 tonelada, para adaptarnos a las diversas necesidades de almacenamiento y manejo en todo el continente [7] (véase también [Embalaje y Almacenamiento de Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Precios Competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos a granel de ácido oxálico, proporcionando soluciones rentables sin comprometer la calidad [6] (véase también [Tendencia del Precio del Ácido Oxálico 2025](/es/blog/oxalic-acid-price)).
+4.  **Embalaje Flexible**: Ofrecemos diversas opciones de embalaje, desde bolsas tejidas de polipropileno de 25 kg hasta bolsas jumbo de 1 tonelada, para adaptarnos a las diversas necesidades de almacenamiento y manejo en todo el continente [7] (véase también [Embalaje y Almacenamiento de Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 5.  **Conocimiento del Mercado**: Entendemos los desafíos y oportunidades únicos del mercado químico sudamericano, lo que nos permite ofrecer soluciones personalizadas y apoyo para sus procesos de adquisición.
 
 ### Atendiendo a las principales naciones sudamericanas
@@ -66,7 +66,7 @@ SinoPeakChem está dedicado a servir al mercado sudamericano con ácido oxálico
 
 Para las empresas en Brasil, Chile, Colombia y en todo el continente sudamericano, SinoPeakChem es un proveedor de ácido oxálico confiable y experimentado. Nuestro compromiso con la calidad, una cadena de suministro eficiente y el entendimiento de la dinámica del mercado regional aseguran que su adquisición de productos químicos sea fluida y efectiva.
 
-**¿Busca un proveedor confiable de ácido oxálico en Sudamérica? [Contacte a SinoPeakChem hoy →](/en/contact)**
+**¿Busca un proveedor confiable de ácido oxálico en Sudamérica? [Contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

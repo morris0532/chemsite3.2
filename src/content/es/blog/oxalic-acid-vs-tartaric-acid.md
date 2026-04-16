@@ -90,11 +90,11 @@ Los perfiles químicos distintos llevan a aplicaciones variadas para cada ácido
 
 Las propiedades reductoras y quelantes del ácido oxálico se aprovechan en aplicaciones industriales y de limpieza:
 
-*   **Eliminación de óxido**: Altamente efectivo para disolver óxidos de hierro, siendo una elección popular para eliminar manchas de óxido en diversas superficies, incluidos metales, piedra y tejidos [5] (ver también [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
+*   **Eliminación de óxido**: Altamente efectivo para disolver óxidos de hierro, siendo una elección popular para eliminar manchas de óxido en diversas superficies, incluidos metales, piedra y tejidos [5] (ver también [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
 *   **Limpieza y blanqueo**: Usado como agente limpiador de minerales, blanqueador de madera para aclarar madera manchada o envejecida, y en algunos productos de limpieza domésticos.
-*   **Tratamiento de metales**: Empleado en el pulido, limpieza y pasivación de metales, especialmente acero inoxidable y aluminio [6] (ver también [Ácido Oxálico para Limpieza de Metales](/en/blog/oxalic-acid-metal-cleaning)).
-*   **Industria textil**: Utilizado como mordiente en el teñido e impresión textil, y como agente blanqueador [7] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
-*   **Extracción de tierras raras**: Utilizado en la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles [8] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
+*   **Tratamiento de metales**: Empleado en el pulido, limpieza y pasivación de metales, especialmente acero inoxidable y aluminio [6] (ver también [Ácido Oxálico para Limpieza de Metales](/es/blog/oxalic-acid-metal-cleaning)).
+*   **Industria textil**: Utilizado como mordiente en el teñido e impresión textil, y como agente blanqueador [7] (ver también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
+*   **Extracción de tierras raras**: Utilizado en la separación y purificación de elementos de tierras raras debido a su capacidad para formar oxalatos insolubles [8] (ver también [Ácido Oxálico para Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
 
 ### Aplicaciones del Ácido Tartárico
 

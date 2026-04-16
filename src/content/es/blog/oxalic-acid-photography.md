@@ -57,7 +57,7 @@ Aunque la fotografía tradicional con haluros de plata ha sido en gran medida re
 
 #### 3. Remoción de Manchas y Limpieza
 
--   **Limpieza en Cuartos Oscuros**: El ácido oxálico es un excelente removedor de óxido (como se discute en [Ácido Oxálico para la Remoción de Óxido](/en/blog/oxalic-acid-rust-removal)). En un entorno de cuarto oscuro, puede usarse para limpiar manchas de óxido en fregaderos de acero inoxidable, bandejas y otros equipos, asegurando un ambiente impecable para los procesos químicos.
+-   **Limpieza en Cuartos Oscuros**: El ácido oxálico es un excelente removedor de óxido (como se discute en [Ácido Oxálico para la Remoción de Óxido](/es/blog/oxalic-acid-rust-removal)). En un entorno de cuarto oscuro, puede usarse para limpiar manchas de óxido en fregaderos de acero inoxidable, bandejas y otros equipos, asegurando un ambiente impecable para los procesos químicos.
 -   **Lechado de Papel**: Para restaurar papeles fotográficos antiguos o documentos, una solución muy diluida de ácido oxálico puede usarse como un agente blanqueador suave para eliminar manchas, aunque se requiere extrema precaución para no dañar las fibras del papel.
 
 ### Función Química y Consideraciones de Seguridad
@@ -66,13 +66,13 @@ Aunque la fotografía tradicional con haluros de plata ha sido en gran medida re
 -   **Agente Quelante**: Forma complejos estables con iones metálicos, lo cual puede ser beneficioso para evitar reacciones no deseadas o para eliminar impurezas metálicas de soluciones o superficies.
 -   **Propiedades Ácidas**: Como ácido orgánico fuerte, puede ajustar el pH en soluciones, influyendo en las reacciones químicas y la solubilidad.
 
-**La seguridad es fundamental** al trabajar con ácido oxálico en cualquier contexto, incluida la fotografía. Es corrosivo y tóxico si se ingiere o absorbe por la piel. Es indispensable usar equipo de protección personal adecuado (EPP) como guantes y protección ocular. También es crucial una ventilación adecuada, especialmente al preparar soluciones o trabajar en un cuarto oscuro (consulte [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+**La seguridad es fundamental** al trabajar con ácido oxálico en cualquier contexto, incluida la fotografía. Es corrosivo y tóxico si se ingiere o absorbe por la piel. Es indispensable usar equipo de protección personal adecuado (EPP) como guantes y protección ocular. También es crucial una ventilación adecuada, especialmente al preparar soluciones o trabajar en un cuarto oscuro (consulte [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 
 ### Conclusión
 
 Desde su papel fundamental en los elegantes procesos de impresión en platino y paladio del pasado hasta su continua utilidad en el virado moderno y el mantenimiento de cuartos oscuros, el ácido oxálico ha dejado una huella indeleble en el mundo de la fotografía. Sus versátiles propiedades químicas lo convierten en un compuesto valioso para artistas y técnicos que aprecian el arte y la ciencia detrás de la creación de imágenes. SinoPeakChem ofrece ácido oxálico de alta calidad, apoyando tanto aplicaciones tradicionales como innovadoras en diversas industrias, incluido el campo especializado de la química fotográfica.
 
-**Para ácido oxálico de alta pureza adecuado para sus necesidades fotográficas o químicas industriales, [contacte a SinoPeakChem hoy →](/en/contact)**
+**Para ácido oxálico de alta pureza adecuado para sus necesidades fotográficas o químicas industriales, [contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

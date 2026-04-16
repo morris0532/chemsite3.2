@@ -51,7 +51,7 @@ Contacte al menos a 3-5 proveedores confiables para comparar precios y condicion
 - Condiciones de pago preferidas y plazo de entrega
 - Cualquier requisito especial (por ejemplo, empaque personalizado, certificaciones)
 
-Para un [proveedor confiable](/en/blog/oxalic-acid-supplier-china), asegúrese de que pueda proporcionar cotizaciones detalladas que incluyan precio unitario, MOQ y costo total entregado.
+Para un [proveedor confiable](/es/blog/oxalic-acid-supplier-china), asegúrese de que pueda proporcionar cotizaciones detalladas que incluyan precio unitario, MOQ y costo total entregado.
 
 #### Paso 3: Solicite y Pruebe Muestras
 
@@ -71,7 +71,7 @@ Una vez verificada la calidad de las muestras, negocie los términos comerciales
 - **Método de Pago**: Acepte T/T, L/C u otros términos
 - **Plazo de Entrega**: Establezca tiempos de entrega y cronogramas de envío
 
-Consulte las actuales [tendencias de precios del ácido oxálico](/en/blog/oxalic-acid-price) para asegurarse de obtener tarifas competitivas.
+Consulte las actuales [tendencias de precios del ácido oxálico](/es/blog/oxalic-acid-price) para asegurarse de obtener tarifas competitivas.
 
 #### Paso 5: Realice el Pedido y Organice el Envío
 

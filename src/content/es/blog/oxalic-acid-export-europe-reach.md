@@ -36,19 +36,19 @@ Exportar ácido oxálico al mercado europeo es una estrategia clave para proveed
 
 REACH es una regulación de la Unión Europea que tiene como objetivo mejorar la protección de la salud humana y del medio ambiente frente a los riesgos que pueden presentar los productos químicos. Se aplica a todas las sustancias químicas fabricadas o importadas a la UE en cantidades iguales o superiores a una tonelada por año. Para el ácido oxálico, los aspectos clave del cumplimiento REACH incluyen:
 
-*   **Registro**: Todas las sustancias, incluido el ácido oxálico, deben ser registradas ante la Agencia Europea de Sustancias y Mezclas Químicas (ECHA) si se fabrican o importan en cantidades superiores a una tonelada por año. Esto implica presentar un dossier completo con información sobre las propiedades, usos y manejo seguro de la sustancia [1] (ver también [Seguridad y Manipulación del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+*   **Registro**: Todas las sustancias, incluido el ácido oxálico, deben ser registradas ante la Agencia Europea de Sustancias y Mezclas Químicas (ECHA) si se fabrican o importan en cantidades superiores a una tonelada por año. Esto implica presentar un dossier completo con información sobre las propiedades, usos y manejo seguro de la sustancia [1] (ver también [Seguridad y Manipulación del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 *   **Hojas de Datos de Seguridad (HDS)**: Se debe acompañar todos los envíos con una HDS conforme en el idioma correcto para cada país de destino. Este documento proporciona información crítica sobre los peligros químicos, uso seguro y procedimientos de emergencia.
 *   **Autorización y Restricción**: Aunque el ácido oxálico no está actualmente en la Lista de Autorización (Anexo XIV) ni en la Lista de Sustancias Altamente Preocupantes (SVHC), es fundamental mantenerse actualizado sobre cualquier cambio en su estado regulatorio. Pueden aplicarse restricciones (Anexo XVII) a ciertos usos.
-*   **Clasificación, Etiquetado y Envasado (CLP)**: El ácido oxálico debe clasificarse, etiquetarse y envasarse de acuerdo con el Reglamento CLP, que se alinea con el Sistema Globalmente Armonizado (SGA) [2] (ver también [Envasado y Almacenamiento del Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+*   **Clasificación, Etiquetado y Envasado (CLP)**: El ácido oxálico debe clasificarse, etiquetarse y envasarse de acuerdo con el Reglamento CLP, que se alinea con el Sistema Globalmente Armonizado (SGA) [2] (ver también [Envasado y Almacenamiento del Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 
 ### Compromiso de SinoPeakChem con los Estándares Europeos
 
 SinoPeakChem prioriza el cumplimiento y la calidad en todas sus exportaciones, especialmente para el exigente mercado europeo. Nuestro compromiso incluye:
 
-1.  **Altos Estándares de Pureza**: Suministramos ácido oxálico con una pureza mínima del 99.6 %, cumpliendo los estrictos requerimientos de calidad de las industrias europeas. Nuestros productos son analizados y certificados de manera constante [3] (ver también [Grados y Especificaciones del Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Altos Estándares de Pureza**: Suministramos ácido oxálico con una pureza mínima del 99.6 %, cumpliendo los estrictos requerimientos de calidad de las industrias europeas. Nuestros productos son analizados y certificados de manera constante [3] (ver también [Grados y Especificaciones del Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 2.  **Documentación Preparada para REACH**: Proporcionamos documentación completa, incluyendo HDS actualizadas en varios idiomas europeos, Certificados de Análisis (CoA) y otros datos técnicos necesarios para facilitar el despacho aduanero y las verificaciones regulatorias.
-3.  **Prácticas Sostenibles**: Entendemos el énfasis de Europa en la protección ambiental. Nuestros procesos productivos están diseñados para minimizar el impacto ambiental y podemos proporcionar información sobre la biodegradabilidad del ácido oxálico cuando sea relevante [4] (ver también [Impacto Ambiental del Ácido Oxálico](/en/blog/oxalic-acid-environmental-impact)).
-4.  **Logística Robusta**: Nuestro experimentado equipo de logística gestiona las complejidades del envío hacia importantes puertos europeos como Hamburgo (Alemania), Róterdam (Países Bajos), Marsella (Francia) y Valencia (España), asegurando entregas eficientes y conformes [5] (ver también [Análisis del Mercado Global del Ácido Oxálico](/en/blog/oxalic-acid-market-analysis)).
+3.  **Prácticas Sostenibles**: Entendemos el énfasis de Europa en la protección ambiental. Nuestros procesos productivos están diseñados para minimizar el impacto ambiental y podemos proporcionar información sobre la biodegradabilidad del ácido oxálico cuando sea relevante [4] (ver también [Impacto Ambiental del Ácido Oxálico](/es/blog/oxalic-acid-environmental-impact)).
+4.  **Logística Robusta**: Nuestro experimentado equipo de logística gestiona las complejidades del envío hacia importantes puertos europeos como Hamburgo (Alemania), Róterdam (Países Bajos), Marsella (Francia) y Valencia (España), asegurando entregas eficientes y conformes [5] (ver también [Análisis del Mercado Global del Ácido Oxálico](/es/blog/oxalic-acid-market-analysis)).
 
 ### Mercados Europeos Clave para el Ácido Oxálico
 
@@ -61,7 +61,7 @@ SinoPeakChem prioriza el cumplimiento y la calidad en todas sus exportaciones, e
 
 Para las empresas europeas que buscan un proveedor confiable y conforme a REACH para ácido oxálico, SinoPeakChem ofrece una alianza basada en calidad, transparencia y experiencia regulatoria. Nuestra dedicación asegura que su proceso de compra sea eficiente y que sus operaciones cumplan con todos los estándares europeos.
 
-**¿Necesita ácido oxálico conforme a REACH para sus operaciones europeas? [Contacte a SinoPeakChem hoy →](/en/contact)**
+**¿Necesita ácido oxálico conforme a REACH para sus operaciones europeas? [Contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

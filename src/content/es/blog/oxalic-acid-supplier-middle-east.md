@@ -40,19 +40,19 @@ Oriente Medio, una región caracterizada por su robusto sector energético, ráp
 
 El diverso panorama industrial de Oriente Medio utiliza ácido oxálico en varias áreas críticas:
 
-*   **Cuidado y Pulido de Piedras**: Con el uso extensivo de mármol y piedra natural en la construcción y acabados de lujo, el ácido oxálico es muy valorado por su efectividad en el pulido, limpieza y eliminación de manchas de óxido sobre superficies pétreas [1] (véase también [Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras](/en/blog/oxalic-acid-marble-polishing)).
-*   **Industria de Petróleo y Gas**: El ácido oxálico tiene aplicaciones en el sector de petróleo y gas para la limpieza de equipos, desincrustación y como agente quelante en ciertos procesos [2] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/en/blog/oxalic-acid-cleaning-descaling)).
-*   **Limpieza Industrial**: Desde instalaciones a gran escala hasta equipos especializados, el ácido oxálico es un agente potente para la eliminación de óxido y limpieza industrial general, crucial para mantener la eficiencia operativa [3] (véase también [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
-*   **Tratamiento de Agua**: En una región donde la escasez de agua es una preocupación, el ácido oxálico puede emplearse en procesos de tratamiento para eliminar hierro y manganeso, mejorando la calidad del agua para uso industrial y municipal [4] (véase también [Ácido Oxálico para Tratamiento de Agua](/en/blog/oxalic-acid-water-treatment)).
+*   **Cuidado y Pulido de Piedras**: Con el uso extensivo de mármol y piedra natural en la construcción y acabados de lujo, el ácido oxálico es muy valorado por su efectividad en el pulido, limpieza y eliminación de manchas de óxido sobre superficies pétreas [1] (véase también [Ácido Oxálico para Pulido de Mármol y Cuidado de Piedras](/es/blog/oxalic-acid-marble-polishing)).
+*   **Industria de Petróleo y Gas**: El ácido oxálico tiene aplicaciones en el sector de petróleo y gas para la limpieza de equipos, desincrustación y como agente quelante en ciertos procesos [2] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/es/blog/oxalic-acid-cleaning-descaling)).
+*   **Limpieza Industrial**: Desde instalaciones a gran escala hasta equipos especializados, el ácido oxálico es un agente potente para la eliminación de óxido y limpieza industrial general, crucial para mantener la eficiencia operativa [3] (véase también [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+*   **Tratamiento de Agua**: En una región donde la escasez de agua es una preocupación, el ácido oxálico puede emplearse en procesos de tratamiento para eliminar hierro y manganeso, mejorando la calidad del agua para uso industrial y municipal [4] (véase también [Ácido Oxálico para Tratamiento de Agua](/es/blog/oxalic-acid-water-treatment)).
 
 ### SinoPeakChem: Su Socio Preferido en Oriente Medio
 
 SinoPeakChem se compromete a proveer un servicio y productos excepcionales a nuestros clientes en Oriente Medio. Nuestras ventajas incluyen:
 
-1.  **Calidad Garantizada**: Suministramos ácido oxálico con pureza consistente (mínimo 99.6%), cumpliendo con estrictos estándares internacionales de calidad. Cada envío se acompaña de un Certificado de Análisis (CoA) para asegurar transparencia y confiabilidad [5] (véase también [Grados y Especificaciones del Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Calidad Garantizada**: Suministramos ácido oxálico con pureza consistente (mínimo 99.6%), cumpliendo con estrictos estándares internacionales de calidad. Cada envío se acompaña de un Certificado de Análisis (CoA) para asegurar transparencia y confiabilidad [5] (véase también [Grados y Especificaciones del Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 2.  **Cadena de Suministro Robusta**: Aprovechamos rutas de envío eficientes a través del Canal de Suez y puertos principales como Jebel Ali (EAU), Yeda (Arabia Saudita) y Mersin (Turquía), garantizando entregas seguras y puntuales. Nuestro equipo logístico tiene experiencia en el manejo de envíos internacionales de productos químicos.
-3.  **Precios Competitivos**: Nuestras capacidades de fabricación directa nos permiten ofrecer precios altamente competitivos para ácido oxálico a granel, proporcionando ventajas significativas en costos a nuestros socios de Oriente Medio [6] (véase también [Tendencia de Precio del Ácido Oxálico 2025](/en/blog/oxalic-acid-price)).
-4.  **Soluciones Flexibles de Empaque**: Ofrecemos diversas opciones de embalaje, incluyendo bolsas tejidas de polipropileno de 25 kg y bolsas jumbo de 1 tonelada, para adaptarnos a diferentes requisitos de almacenamiento y manejo en la región [7] (véase también [Empaque y Almacenamiento de Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Precios Competitivos**: Nuestras capacidades de fabricación directa nos permiten ofrecer precios altamente competitivos para ácido oxálico a granel, proporcionando ventajas significativas en costos a nuestros socios de Oriente Medio [6] (véase también [Tendencia de Precio del Ácido Oxálico 2025](/es/blog/oxalic-acid-price)).
+4.  **Soluciones Flexibles de Empaque**: Ofrecemos diversas opciones de embalaje, incluyendo bolsas tejidas de polipropileno de 25 kg y bolsas jumbo de 1 tonelada, para adaptarnos a diferentes requisitos de almacenamiento y manejo en la región [7] (véase también [Empaque y Almacenamiento de Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 5.  **Conocimiento del Mercado**: Comprendemos la dinámica específica del mercado y los requisitos regulatorios de Oriente Medio, lo que nos permite brindar soluciones adaptadas y soporte para sus necesidades de adquisición.
 
 ### Atendiendo Países Clave en Oriente Medio
@@ -65,7 +65,7 @@ SinoPeakChem se compromete a proveer un servicio y productos excepcionales a nue
 
 Para empresas en EAU, Arabia Saudita, Turquía y la región más amplia de Oriente Medio, SinoPeakChem es su proveedor confiable y experimentado de ácido oxálico. Nuestra dedicación a la calidad, logística eficiente y profundo conocimiento del mercado asegura que su cadena de suministro química se mantenga sólida y rentable.
 
-**¿Busca un proveedor confiable de ácido oxálico en Oriente Medio? [Contacte a SinoPeakChem hoy →](/en/contact)**
+**¿Busca un proveedor confiable de ácido oxálico en Oriente Medio? [Contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

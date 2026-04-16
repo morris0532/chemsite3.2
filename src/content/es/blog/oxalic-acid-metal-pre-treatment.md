@@ -48,7 +48,7 @@ El ácido oxálico contribuye a varias de estas etapas, ofreciendo una opción e
 
 #### 1. Eliminación de Óxido y Herrumbre
 
-El ácido oxálico es un agente excelente para remover la herrumbre (óxidos de hierro) de diversas superficies metálicas, particularmente hierro y acero. Reacciona con los óxidos de hierro formando oxalatos de hierro solubles que pueden enjuagarse fácilmente. Este proceso es más suave que el uso de ácidos minerales fuertes, reduciendo el riesgo de fragilización por hidrógeno o pérdida excesiva de metal [3] (ver también [Ácido Oxálico para la Eliminación de Herrumbre](/en/blog/oxalic-acid-rust-removal)).
+El ácido oxálico es un agente excelente para remover la herrumbre (óxidos de hierro) de diversas superficies metálicas, particularmente hierro y acero. Reacciona con los óxidos de hierro formando oxalatos de hierro solubles que pueden enjuagarse fácilmente. Este proceso es más suave que el uso de ácidos minerales fuertes, reduciendo el riesgo de fragilización por hidrógeno o pérdida excesiva de metal [3] (ver también [Ácido Oxálico para la Eliminación de Herrumbre](/es/blog/oxalic-acid-rust-removal)).
 
 > "La capacidad quelante del ácido oxálico con los iones de hierro lo hace altamente efectivo para disolver la herrumbre sin atacar agresivamente el metal base, lo que lo convierte en la opción preferida para componentes metálicos delicados o de precisión." [4]
 
@@ -61,7 +61,7 @@ Aunque no es un desengrasante principal, las soluciones de ácido oxálico puede
 Para ciertos metales, el ácido oxálico puede actuar como agente de pasivación o activador de la superficie:
 
 *   **Pasivación de Acero Inoxidable**: El ácido oxálico puede usarse para pasivar acero inoxidable, eliminando el hierro libre de la superficie y formando una capa protectora de óxido de cromo que mejora la resistencia a la corrosión. Esto es particularmente útil cuando la pasivación con ácido nítrico no es factible o deseada [5].
-*   **Tratamiento de Superficies de Aluminio**: En el pretratamiento de aluminio, el ácido oxálico puede emplearse para grabar la superficie, creando un perfil micro-áspero que mejora el anclaje mecánico de los recubrimientos. También puede formar parte de procesos de anodizado, influyendo en la estructura de poros de la capa anódica (ver también [Ácido Oxálico para Anodizado de Aluminio](/en/blog/oxalic-acid-aluminum-anodizing)).
+*   **Tratamiento de Superficies de Aluminio**: En el pretratamiento de aluminio, el ácido oxálico puede emplearse para grabar la superficie, creando un perfil micro-áspero que mejora el anclaje mecánico de los recubrimientos. También puede formar parte de procesos de anodizado, influyendo en la estructura de poros de la capa anódica (ver también [Ácido Oxálico para Anodizado de Aluminio](/es/blog/oxalic-acid-aluminum-anodizing)).
 *   **Limpieza de Cobre y Latón**: Remueve eficazmente el deslustre y óxidos del cobre y el latón, restaurando su brillo original antes del galvanizado o la aplicación de recubrimientos protectores.
 
 #### 4. Mejorando la Adhesión de Recubrimientos y Pinturas
@@ -72,18 +72,18 @@ Al limpiar eficazmente, eliminar la herrumbre y a veces microazar la superficie 
 
 *   **Acción Más Suave**: Menos agresivo que los ácidos minerales fuertes, reduciendo daños al metal base.
 *   **Efectivo Quelante**: Forma complejos estables con iones metálicos, facilitando su remoción.
-*   **Biodegradable**: Generalmente considerado biodegradable, lo que simplifica el tratamiento de residuos en comparación con otros químicos (ver también [Impacto Ambiental y Biodegradabilidad del Ácido Oxálico](/en/blog/oxalic-acid-environmental-impact)).
+*   **Biodegradable**: Generalmente considerado biodegradable, lo que simplifica el tratamiento de residuos en comparación con otros químicos (ver también [Impacto Ambiental y Biodegradabilidad del Ácido Oxálico](/es/blog/oxalic-acid-environmental-impact)).
 *   **Versatilidad**: Aplicable a diversos metales y etapas de pretratamiento.
 
 ### Seguridad y Manejo
 
-A pesar de su naturaleza menos agresiva comparada con algunos ácidos, el ácido oxálico es corrosivo y tóxico. El uso de equipos de protección personal (EPP) adecuados y una ventilación adecuada son esenciales durante su manipulación. Las soluciones residuales deben tratarse conforme a las normativas ambientales, a menudo implicando la neutralización y precipitación de oxalatos metálicos [7] (ver también [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+A pesar de su naturaleza menos agresiva comparada con algunos ácidos, el ácido oxálico es corrosivo y tóxico. El uso de equipos de protección personal (EPP) adecuados y una ventilación adecuada son esenciales durante su manipulación. Las soluciones residuales deben tratarse conforme a las normativas ambientales, a menudo implicando la neutralización y precipitación de oxalatos metálicos [7] (ver también [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 
 ### Conclusión
 
 El ácido oxálico es un químico valioso en el arsenal del pretratamiento de superficies metálicas. Su capacidad para eliminar eficazmente la herrumbre, limpiar superficies y contribuir a procesos de pasivación lo hace indispensable para mejorar la adhesión de los recubrimientos y la resistencia a la corrosión de diversos productos metálicos. A medida que las industrias buscan prácticas de fabricación más eficientes y sostenibles, el papel del ácido oxálico en la preparación de superficies metálicas para un acabado durable continúa siendo significativo. SinoPeakChem ofrece ácido oxálico de alta calidad, adecuado para aplicaciones exigentes de pretratamiento metálico.
 
-**Para ácido oxálico de alta pureza para sus necesidades de pretratamiento de superficies metálicas, [contacte a SinoPeakChem para especificaciones del producto y pedidos al por mayor →](/en/contact)**
+**Para ácido oxálico de alta pureza para sus necesidades de pretratamiento de superficies metálicas, [contacte a SinoPeakChem para especificaciones del producto y pedidos al por mayor →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

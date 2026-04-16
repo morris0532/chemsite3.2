@@ -36,11 +36,11 @@ La adquisición de productos químicos industriales como el ácido oxálico a gr
 
 ### 1. ¿Qué grados de ácido oxálico ofrece SinoPeakChem?
 
-SinoPeakChem principalmente ofrece **ácido oxálico grado industrial**, típicamente con una pureza mínima del 99,6%. También suministramos ácido oxálico **grado farmacéutico** y **grado electrónico** para aplicaciones especializadas, cumpliendo con estrictos requerimientos de pureza. Por favor, especifique el grado requerido al realizar una consulta [1] (ver también [Grados y Especificaciones del Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+SinoPeakChem principalmente ofrece **ácido oxálico grado industrial**, típicamente con una pureza mínima del 99,6%. También suministramos ácido oxálico **grado farmacéutico** y **grado electrónico** para aplicaciones especializadas, cumpliendo con estrictos requerimientos de pureza. Por favor, especifique el grado requerido al realizar una consulta [1] (ver también [Grados y Especificaciones del Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 
 ### 2. ¿Cuál es la cantidad mínima de pedido (MOQ) para compras a granel?
 
-Nuestra **Cantidad Mínima de Pedido (MOQ)** estándar para ácido oxálico es generalmente de **20 toneladas métricas (un contenedor de 20 pies)**. Sin embargo, podemos discutir arreglos flexibles para proyectos específicos o asociaciones a largo plazo. Por favor, contacte a nuestro equipo de ventas para discutir sus requerimientos de volumen específicos [2] (ver también [Cómo Comprar Ácido Oxálico a Granel](/en/blog/buy-oxalic-acid-bulk)).
+Nuestra **Cantidad Mínima de Pedido (MOQ)** estándar para ácido oxálico es generalmente de **20 toneladas métricas (un contenedor de 20 pies)**. Sin embargo, podemos discutir arreglos flexibles para proyectos específicos o asociaciones a largo plazo. Por favor, contacte a nuestro equipo de ventas para discutir sus requerimientos de volumen específicos [2] (ver también [Cómo Comprar Ácido Oxálico a Granel](/es/blog/buy-oxalic-acid-bulk)).
 
 ### 3. ¿Qué opciones de embalaje están disponibles?
 
@@ -48,7 +48,7 @@ Ofrecemos varias opciones de embalaje para adaptarse a sus necesidades logístic
 
 *   **Sacos tejidos de polipropileno de 25 kg** con forro interior de PE.
 *   **Big bags de 1000 kg (1 tonelada métrica)** (sacos FIBC) con forro interior de PE.
-*   El embalaje personalizado puede organizarse bajo petición, sujeto al volumen del pedido [3] (ver también [Embalaje y Almacenamiento de Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+*   El embalaje personalizado puede organizarse bajo petición, sujeto al volumen del pedido [3] (ver también [Embalaje y Almacenamiento de Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 
 ### 4. ¿Cuáles son sus tiempos de entrega típicos para pedidos a granel?
 
@@ -87,7 +87,7 @@ SinoPeakChem se compromete a entregar ácido oxálico de alta calidad. Nuestras 
 *   Inspección y análisis **previos al envío** realizados por nuestro laboratorio interno.
 *   Provisión de **Certificado de Análisis (CoA)** con cada envío.
 
-Cumplimos con normas internacionales de calidad para asegurar la consistencia y confiabilidad del producto [4] (ver también [Fabricante y Exportador de Ácido Oxálico en China](/en/blog/oxalic-acid-manufacturer-china)).
+Cumplimos con normas internacionales de calidad para asegurar la consistencia y confiabilidad del producto [4] (ver también [Fabricante y Exportador de Ácido Oxálico en China](/es/blog/oxalic-acid-manufacturer-china)).
 
 ### 9. ¿Pueden manejar el despacho aduanero y la documentación de importación?
 
@@ -101,7 +101,7 @@ Nuestro compromiso va más allá de la entrega. Ofrecemos soporte técnico y asi
 
 Elegir el proveedor correcto para ácido oxálico a granel es crucial para sus operaciones. SinoPeakChem aspira a ser su socio confiable, ofreciendo productos de alta calidad, soluciones flexibles y servicio confiable. Le animamos a contactar a nuestro experimentado equipo de ventas si tiene más preguntas o para discutir sus requerimientos específicos.
 
-**¿Listo para realizar su pedido a granel o tiene más preguntas? [Contacte a SinoPeakChem hoy →](/en/contact)**
+**¿Listo para realizar su pedido a granel o tiene más preguntas? [Contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

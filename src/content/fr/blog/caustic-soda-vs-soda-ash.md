@@ -79,7 +79,7 @@ Soda ash, or sodium carbonate, is a milder alkali compared to caustic soda. It i
 
 💡 **Unsure Which Alkali Suits Your Process Best?**
 Our technical experts can help you analyze your requirements and recommend the optimal chemical solution.
-**[Consult Our Technical Team →](/en/contact)**
+**[Consult Our Technical Team →](/fr/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -132,7 +132,7 @@ Selecting between caustic soda and soda ash depends heavily on the specific requ
 
 ✅ **Optimize Your Chemical Procurement.**
 Sinopeakchem offers both high-quality Caustic Soda and Soda Ash, with expert technical support to guide your selection.
-**[Get a Tailored Solution →](/en/contact)**
+**[Get a Tailored Solution →](/fr/contact)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -163,7 +163,7 @@ An industrial buyer should choose caustic soda for pH adjustment when their proc
 🏭 **Ready to Source Your First Batch of Caustic Soda?**
 Sinopeakchem — Your trusted caustic soda partner.
 ✅ 28+ years experience ✅ ISO certified ✅ Competitive pricing ✅ Free samples.
-**[Get Free Quote →](/en/contact)** **[Request Sample →](/en/contact)**
+**[Get Free Quote →](/fr/contact)** **[Request Sample →](/fr/contact)**
 📧 sales@sinopeakchem.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

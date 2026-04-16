@@ -25,20 +25,20 @@ El mercado de Norteamérica, que abarca Estados Unidos, Canadá y México, repre
 
 En toda Norteamérica, el ácido oxálico se utiliza en varios procesos industriales y comerciales críticos:
 
-*   **Limpieza y Mantenimiento Industrial**: Ampliamente utilizado como agente limpiador para eliminar óxido, manchas y depósitos minerales de diversas superficies y equipos en industrias que van desde la automotriz hasta la construcción [1] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/en/blog/oxalic-acid-cleaning-descaling)).
-*   **Tratamiento y Restauración de la Madera**: Opción popular para el blanqueo y la restauración de la madera, eliminando eficazmente manchas de agua, manchas negras y manchas de tanino en terrazas, muebles y pavimentos [2] (véase también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/en/blog/oxalic-acid-wood-bleaching)).
-*   **Procesamiento de Metales**: Empleado en el pretratamiento de superficies metálicas para mejorar la adhesión y la resistencia a la corrosión, especialmente en las industrias automotriz y aeroespacial [3] (véase también [Ácido Oxálico en Pretratamiento de Superficies Metálicas](/en/blog/oxalic-acid-metal-pre-treatment)).
-*   **Industrias Textil y del Cuero**: Usado en el teñido e impresión textil como mordiente y agente reductor, y en procesos de curtido para obtener acabados deseados [4] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing) y [Ácido Oxálico para Curtido y Teñido de Cuero](/en/blog/oxalic-acid-leather-tanning)).
-*   **Extracción de Tierras Raras**: En regiones con minería de tierras raras, el ácido oxálico juega un papel fundamental en la precipitación y purificación de elementos de tierras raras [5] (véase también [Ácido Oxálico para Extracción de Tierras Raras](/en/blog/oxalic-acid-rare-earth-extraction)).
+*   **Limpieza y Mantenimiento Industrial**: Ampliamente utilizado como agente limpiador para eliminar óxido, manchas y depósitos minerales de diversas superficies y equipos en industrias que van desde la automotriz hasta la construcción [1] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/es/blog/oxalic-acid-cleaning-descaling)).
+*   **Tratamiento y Restauración de la Madera**: Opción popular para el blanqueo y la restauración de la madera, eliminando eficazmente manchas de agua, manchas negras y manchas de tanino en terrazas, muebles y pavimentos [2] (véase también [Ácido Oxálico para Blanqueo y Limpieza de Madera](/es/blog/oxalic-acid-wood-bleaching)).
+*   **Procesamiento de Metales**: Empleado en el pretratamiento de superficies metálicas para mejorar la adhesión y la resistencia a la corrosión, especialmente en las industrias automotriz y aeroespacial [3] (véase también [Ácido Oxálico en Pretratamiento de Superficies Metálicas](/es/blog/oxalic-acid-metal-pre-treatment)).
+*   **Industrias Textil y del Cuero**: Usado en el teñido e impresión textil como mordiente y agente reductor, y en procesos de curtido para obtener acabados deseados [4] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing) y [Ácido Oxálico para Curtido y Teñido de Cuero](/es/blog/oxalic-acid-leather-tanning)).
+*   **Extracción de Tierras Raras**: En regiones con minería de tierras raras, el ácido oxálico juega un papel fundamental en la precipitación y purificación de elementos de tierras raras [5] (véase también [Ácido Oxálico para Extracción de Tierras Raras](/es/blog/oxalic-acid-rare-earth-extraction)).
 
 ### SinoPeakChem: Su Socio Confiable para Norteamérica
 
 SinoPeakChem está comprometido en atender el mercado norteamericano con ácido oxálico de alta calidad y un servicio excepcional. Nuestras ventajas incluyen:
 
-1.  **Calidad Consistente**: Suministramos ácido oxálico con una pureza mínima del 99,6%, cumpliendo con los estándares internacionales de calidad. Cada lote va acompañado de un Certificado de Análisis (CoA) que garantiza las especificaciones del producto [6] (véase también [Grados y Especificaciones de Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Calidad Consistente**: Suministramos ácido oxálico con una pureza mínima del 99,6%, cumpliendo con los estándares internacionales de calidad. Cada lote va acompañado de un Certificado de Análisis (CoA) que garantiza las especificaciones del producto [6] (véase también [Grados y Especificaciones de Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 2.  **Logística Eficiente**: Aprovechamos rutas marítimas establecidas hacia los principales puertos norteamericanos como Los Ángeles, Nueva York, Vancouver y Veracruz, asegurando una entrega puntual y segura. Nuestro equipo logístico tiene experiencia en la gestión de envíos químicos internacionales, incluyendo el cumplimiento de regulaciones locales.
-3.  **Precios Competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos al por mayor de ácido oxálico, brindando soluciones rentables sin comprometer la calidad [7] (véase también [Tendencia de Precios del Ácido Oxálico 2025](/en/blog/oxalic-acid-price)).
-4.  **Soluciones de Empaque Flexibles**: Disponemos de diversas opciones de embalaje, desde sacos tejidos de polipropileno de 25 kg hasta sacos jumbo de 1 tonelada, para adaptarnos a las diversas necesidades de almacenamiento y manejo en todo el continente [8] (véase también [Empaque y Almacenamiento de Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Precios Competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos al por mayor de ácido oxálico, brindando soluciones rentables sin comprometer la calidad [7] (véase también [Tendencia de Precios del Ácido Oxálico 2025](/es/blog/oxalic-acid-price)).
+4.  **Soluciones de Empaque Flexibles**: Disponemos de diversas opciones de embalaje, desde sacos tejidos de polipropileno de 25 kg hasta sacos jumbo de 1 tonelada, para adaptarnos a las diversas necesidades de almacenamiento y manejo en todo el continente [8] (véase también [Empaque y Almacenamiento de Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 5.  **Conocimiento del Mercado**: Comprendemos los retos y oportunidades únicos en el mercado químico de Norteamérica, lo que nos permite ofrecer soluciones personalizadas y apoyo en sus procesos de adquisición.
 
 ### Atendiendo a los Países Clave de Norteamérica
@@ -51,7 +51,7 @@ SinoPeakChem está comprometido en atender el mercado norteamericano con ácido 
 
 Para empresas en EE. UU., Canadá, México y en todo el continente norteamericano, SinoPeakChem es un proveedor confiable y experimentado de ácido oxálico. Nuestra dedicación a la calidad, la cadena de suministro eficiente y el entendimiento de la dinámica regional del mercado garantizan que su adquisición de productos químicos sea ágil y efectiva.
 
-**¿Busca un proveedor confiable de ácido oxálico en Norteamérica? [Contacte a SinoPeakChem hoy mismo →](/en/contact)**
+**¿Busca un proveedor confiable de ácido oxálico en Norteamérica? [Contacte a SinoPeakChem hoy mismo →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

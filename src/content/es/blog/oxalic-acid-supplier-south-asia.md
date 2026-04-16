@@ -40,20 +40,20 @@ El mercado de Asia Meridional, en particular India, Pakistán y Bangladesh, repr
 
 En toda Asia Meridional, el ácido oxálico se utiliza en varios procesos industriales y comerciales críticos:
 
-*   **Teñido e impresión textil**: Ampliamente utilizado como mordiente, agente reductor y regulador de pH en la industria textil, especialmente en India y Bangladesh, que son importantes centros de fabricación textil [1] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/en/blog/oxalic-acid-textile-dyeing)).
-*   **Curtido y procesamiento del cuero**: Empleado en la industria del cuero para curtido, blanqueo y eliminación de manchas, contribuyendo a la calidad y acabado de los productos de cuero en Pakistán e India [2] (véase también [Ácido Oxálico para Curtido y Teñido del Cuero](/en/blog/oxalic-acid-leather-tanning)).
-*   **Intermedios farmacéuticos**: Utilizado en la síntesis de diversos compuestos farmacéuticos, especialmente en el sólido sector farmacéutico de India [3] (véase también [Ácido Oxálico en Intermedios Farmacéuticos](/en/blog/oxalic-acid-pharmaceutical-intermediates)).
-*   **Limpieza industrial y eliminación de óxido**: Efectivo para eliminar óxido y manchas de equipos y superficies industriales, una aplicación común en todos los sectores industriales de la región [4] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/en/blog/oxalic-acid-cleaning-descaling) y [Ácido Oxálico para Eliminación de Óxido](/en/blog/oxalic-acid-rust-removal)).
-*   **Tratamiento de agua**: Utilizado en procesos de tratamiento de agua para eliminar hierro y manganeso, garantizando agua limpia para uso industrial y municipal [5] (véase también [Ácido Oxálico para Tratamiento de Agua](/en/blog/oxalic-acid-water-treatment)).
+*   **Teñido e impresión textil**: Ampliamente utilizado como mordiente, agente reductor y regulador de pH en la industria textil, especialmente en India y Bangladesh, que son importantes centros de fabricación textil [1] (véase también [Ácido Oxálico para Teñido e Impresión Textil](/es/blog/oxalic-acid-textile-dyeing)).
+*   **Curtido y procesamiento del cuero**: Empleado en la industria del cuero para curtido, blanqueo y eliminación de manchas, contribuyendo a la calidad y acabado de los productos de cuero en Pakistán e India [2] (véase también [Ácido Oxálico para Curtido y Teñido del Cuero](/es/blog/oxalic-acid-leather-tanning)).
+*   **Intermedios farmacéuticos**: Utilizado en la síntesis de diversos compuestos farmacéuticos, especialmente en el sólido sector farmacéutico de India [3] (véase también [Ácido Oxálico en Intermedios Farmacéuticos](/es/blog/oxalic-acid-pharmaceutical-intermediates)).
+*   **Limpieza industrial y eliminación de óxido**: Efectivo para eliminar óxido y manchas de equipos y superficies industriales, una aplicación común en todos los sectores industriales de la región [4] (véase también [Ácido Oxálico para Limpieza y Desincrustación](/es/blog/oxalic-acid-cleaning-descaling) y [Ácido Oxálico para Eliminación de Óxido](/es/blog/oxalic-acid-rust-removal)).
+*   **Tratamiento de agua**: Utilizado en procesos de tratamiento de agua para eliminar hierro y manganeso, garantizando agua limpia para uso industrial y municipal [5] (véase también [Ácido Oxálico para Tratamiento de Agua](/es/blog/oxalic-acid-water-treatment)).
 
 ### SinoPeakChem: Su Socio Confiable para Asia Meridional
 
 SinoPeakChem está comprometido a servir al mercado de Asia Meridional con ácido oxálico de alta calidad y un servicio excepcional. Nuestras ventajas incluyen:
 
-1.  **Calidad constante**: Suministramos ácido oxálico con una pureza mínima del 99,6%, cumpliendo con los estándares internacionales de calidad. Cada lote viene acompañado de un Certificado de Análisis (CoA) para garantizar las especificaciones del producto [6] (véase también [Grados y Especificaciones del Ácido Oxálico](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Calidad constante**: Suministramos ácido oxálico con una pureza mínima del 99,6%, cumpliendo con los estándares internacionales de calidad. Cada lote viene acompañado de un Certificado de Análisis (CoA) para garantizar las especificaciones del producto [6] (véase también [Grados y Especificaciones del Ácido Oxálico](/es/blog/oxalic-acid-grades-specifications)).
 2.  **Logística eficiente**: Aprovechando las rutas de envío establecidas hacia los principales puertos de Asia Meridional como Mumbai, Karachi y Chittagong, garantizamos una entrega oportuna y segura. Nuestro equipo logístico tiene experiencia en manejar las complejidades de los envíos internacionales de productos químicos, incluyendo el cumplimiento de normativas locales.
-3.  **Precios competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos a granel de ácido oxálico, brindando soluciones rentables sin comprometer la calidad [7] (véase también [Tendencia de Precios del Ácido Oxálico 2025](/en/blog/oxalic-acid-price)).
-4.  **Soluciones flexibles de embalaje**: Ofrecemos diversas opciones de embalaje, desde sacos tejidos de polipropileno de 25 kg hasta sacos jumbo de 1 tonelada, para adaptarnos a las variadas necesidades de almacenamiento y manejo en todo el continente [8] (véase también [Embalaje y Almacenamiento del Ácido Oxálico](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Precios competitivos**: Como fabricante directo, ofrecemos precios competitivos para pedidos a granel de ácido oxálico, brindando soluciones rentables sin comprometer la calidad [7] (véase también [Tendencia de Precios del Ácido Oxálico 2025](/es/blog/oxalic-acid-price)).
+4.  **Soluciones flexibles de embalaje**: Ofrecemos diversas opciones de embalaje, desde sacos tejidos de polipropileno de 25 kg hasta sacos jumbo de 1 tonelada, para adaptarnos a las variadas necesidades de almacenamiento y manejo en todo el continente [8] (véase también [Embalaje y Almacenamiento del Ácido Oxálico](/es/blog/oxalic-acid-packaging-storage)).
 5.  **Comprensión del mercado**: Entendemos los desafíos y oportunidades únicos del mercado químico en Asia Meridional, lo que nos permite ofrecer soluciones personalizadas y soporte para sus procesos de adquisición.
 
 ### Atención a Países Clave de Asia Meridional
@@ -66,7 +66,7 @@ SinoPeakChem está comprometido a servir al mercado de Asia Meridional con ácid
 
 Para empresas en India, Pakistán, Bangladesh y en todo el continente de Asia Meridional, SinoPeakChem es un proveedor confiable y experimentado de ácido oxálico. Nuestra dedicación a la calidad, la cadena de suministro eficiente y el entendimiento de la dinámica del mercado regional garantizan que su aprovisionamiento químico sea fluido y efectivo.
 
-**¿Busca un proveedor confiable de ácido oxálico en Asia Meridional? [Contacte a SinoPeakChem hoy →](/en/contact)**
+**¿Busca un proveedor confiable de ácido oxálico en Asia Meridional? [Contacte a SinoPeakChem hoy →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

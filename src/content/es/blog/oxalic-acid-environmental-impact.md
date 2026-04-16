@@ -58,10 +58,10 @@ En ambientes acuáticos, el ácido oxálico puede disminuir el pH si está prese
 
 A pesar de su biodegradabilidad, las corrientes de residuos industriales que contienen altas concentraciones de ácido oxálico o sus complejos metálicos requieren un tratamiento adecuado antes de su descarga para evitar impactos ambientales localizados. Consideraciones clave incluyen:
 
-*   **Neutralización**: Ajuste del pH de corrientes de desecho ácidas a un rango neutro (pH 6-9) antes de su descarga (véase también [Cómo Diluir de Forma Segura el Ácido Oxálico](/en/blog/oxalic-acid-dilution-guide)).
+*   **Neutralización**: Ajuste del pH de corrientes de desecho ácidas a un rango neutro (pH 6-9) antes de su descarga (véase también [Cómo Diluir de Forma Segura el Ácido Oxálico](/es/blog/oxalic-acid-dilution-guide)).
 *   **Precipitación**: Si hay oxalatos metálicos presentes, puede ser necesario precipitar y removerlos, ya que algunos oxalatos de metales pesados pueden ser menos biodegradables o más tóxicos.
 *   **Tratamiento Biológico**: Uso de plantas de tratamiento de aguas residuales con capacidades de degradación biológica para descomponer aún más el ácido oxálico.
-*   **Cumplimiento**: Adherencia a normativas ambientales locales e internacionales para la eliminación de residuos químicos (véase también [Seguridad y Manejo del Ácido Oxálico](/en/blog/oxalic-acid-safety-handling)).
+*   **Cumplimiento**: Adherencia a normativas ambientales locales e internacionales para la eliminación de residuos químicos (véase también [Seguridad y Manejo del Ácido Oxálico](/es/blog/oxalic-acid-safety-handling)).
 
 SinoPeakChem enfatiza prácticas responsables de fabricación y manejo, asegurando que nuestros productos de ácido oxálico se produzcan y utilicen de manera ambientalmente consciente.
 
@@ -69,7 +69,7 @@ SinoPeakChem enfatiza prácticas responsables de fabricación y manejo, aseguran
 
 El ácido oxálico, un compuesto orgánico ubicuo, presenta un perfil ambiental generalmente favorable debido a su presencia natural y alta biodegradabilidad. Aunque sus aplicaciones industriales son diversas y valiosas, el manejo responsable y la gestión de residuos son esenciales para mitigar cualquier impacto localizado potencial. Su rápida degradación por microorganismos en suelo y agua ayuda a prevenir su persistencia a largo plazo en el ambiente, apoyando su papel en diversos procesos industriales sostenibles. SinoPeakChem está comprometido a proporcionar ácido oxálico de alta calidad con un enfoque en la gestión ambiental.
 
-**Para consultas sobre ácido oxálico de alta calidad y soluciones químicas sostenibles, [contacte a SinoPeakChem hoy mismo →](/en/contact)**
+**Para consultas sobre ácido oxálico de alta calidad y soluciones químicas sostenibles, [contacte a SinoPeakChem hoy mismo →](/es/contact)**
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
