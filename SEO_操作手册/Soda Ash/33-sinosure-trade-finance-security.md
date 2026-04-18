@@ -121,3 +121,11 @@ Sinopeakchem — Delivering the trust and financial flexibility that your busine
 8.  **Sinopeakchem Technical Data.** "Trade Finance and Credit Risk Management Framework." *Sinopeakchem Internal Report*, 2024.
 9.  **Journal of International Trade Law and Policy.** "The Role of Export Credit Agencies in Global Commodity Trade." *Emerald Publishing*, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

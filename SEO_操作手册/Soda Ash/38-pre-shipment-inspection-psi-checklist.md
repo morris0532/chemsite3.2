@@ -137,3 +137,11 @@ Sinopeakchem — Delivering the transparency and precision that your global busi
 8.  **Sinopeakchem Technical Data.** "Pre-Shipment Inspection and Quality Assurance Framework." *Sinopeakchem Internal Report*, 2024.
 9.  **SGS Group.** "Chemical Inspection and Testing Services." *SGS Technical Bulletin*, 2024. [https://www.sgs.com/en/chemical](https://www.sgs.com/en/chemical)
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

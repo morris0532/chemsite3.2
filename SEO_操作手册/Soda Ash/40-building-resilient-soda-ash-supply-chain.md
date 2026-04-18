@@ -127,3 +127,11 @@ Sinopeakchem — Delivering the results and reliability that your business deman
 8.  **Sinopeakchem Technical Data.** "Strategic Sourcing and Supply Chain Resilience Framework." *Sinopeakchem Internal Report*, 2024.
 9.  **Journal of Purchasing and Supply Management.** "Risk Management in Global Commodity Sourcing." *Elsevier*, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

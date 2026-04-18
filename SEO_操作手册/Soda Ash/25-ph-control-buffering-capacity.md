@@ -128,3 +128,11 @@ Sinopeakchem — Delivering the buffering power that keeps your process on track
 8.  **Sinopeakchem Technical Data.** "Buffering Capacity and Titration Curves for Industrial Soda Ash." *Sinopeakchem Internal Report*, 2024.
 9.  **Standard Methods for the Examination of Water and Wastewater.** "Alkalinity (2320)." *APHA/AWWA/WEF*, 24th Edition, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

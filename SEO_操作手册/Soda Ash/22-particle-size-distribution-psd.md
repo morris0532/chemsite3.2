@@ -118,3 +118,11 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 8.  **Sinopeakchem Technical Data.** "Sieve Analysis and PSD Standards for Glass and Detergent Grades." *Sinopeakchem Internal Report*, 2024.
 9.  **American Society for Testing and Materials (ASTM).** "Standard Test Method for Sieve Analysis of Soda Ash." *ASTM D501-23*, 2023.
 10. **World Bank.** "Best Available Techniques (BAT) for the Inorganic Chemical Industry." *World Bank Group*, 2024.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

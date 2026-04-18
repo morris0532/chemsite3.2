@@ -123,3 +123,11 @@ Sinopeakchem — Delivering the chemical consistency that powers your production
 8.  **Sinopeakchem Technical Data.** "Solubility Curves and Mixing Guidelines for Industrial Grades." *Sinopeakchem Internal Report*, 2024.
 9.  **Handbook of Chemistry and Physics.** "Solubility of Inorganic Compounds in Water." *CRC Press*, 104th Edition, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

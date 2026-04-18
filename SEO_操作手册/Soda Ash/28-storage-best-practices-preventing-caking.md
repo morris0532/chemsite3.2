@@ -130,3 +130,11 @@ Sinopeakchem — Delivering the quality and protection that your process demands
 8.  **Sinopeakchem Technical Data.** "Moisture Absorption Rates and Caking Prevention Standards." *Sinopeakchem Internal Report*, 2024.
 9.  **American Society for Testing and Materials (ASTM).** "Standard Test Method for Caking Tendency of Inorganic Salts." *ASTM D501-23*, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.

@@ -127,3 +127,11 @@ Sinopeakchem — Delivering the intelligence and security that your global busin
 8.  **Sinopeakchem Technical Data.** "Risk Assessment and Supply Chain Resilience Framework." *Sinopeakchem Internal Report*, 2024.
 9.  **Journal of Purchasing and Supply Management.** "Hedging Strategies for Energy-Intensive Commodities." *Elsevier*, 2023.
 10. **ISO.** "ISO 31000:2018 Risk management — Guidelines." *International Organization for Standardization*, 2018.
+
+
+---
+
+**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
+
+
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
