@@ -1,6 +1,6 @@
 ---
 Id: 0MJapTFGQE
-Excerpt: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for [Soda Ash](/products/soda-ash) (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
+Excerpt: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
 title: "The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash"
 description: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for Soda Ash (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
 image: "/images/blog/soda-ash-psi-inspection.webp"
@@ -142,6 +142,6 @@ Sinopeakchem — Delivering the transparency and precision that your global busi
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

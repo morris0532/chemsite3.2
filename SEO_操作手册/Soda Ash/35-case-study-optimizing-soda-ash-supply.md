@@ -1,6 +1,6 @@
 ---
 Id: Wke0fXZv6z
-Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its [Soda Ash](/products/soda-ash) (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
+Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 title: "Case Study: Optimizing Soda Ash Supply for a Global Glass Group"
 description: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 image: "/images/blog/soda-ash-case-study-glass.webp"
@@ -125,5 +125,5 @@ Sinopeakchem — Delivering the results and reliability that your business deman
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 

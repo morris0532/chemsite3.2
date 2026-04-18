@@ -1,6 +1,6 @@
 ---
 Id: v3Z8NUxYo8
-Excerpt: "A technical guide for logistics managers and plant engineers on the critical role of Bulk Density in [Soda Ash](/products/soda-ash) procurement. Learn how density affects silo capacity, pneumatic conveying, and ocean freight costs for Light and Dense grades."
+Excerpt: "A technical guide for logistics managers and plant engineers on the critical role of Bulk Density in [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) procurement. Learn how density affects silo capacity, pneumatic conveying, and ocean freight costs for Light and Dense grades."
 title: "Bulk Density vs. Apparent Density: Optimizing Soda Ash Storage & Logistics"
 description: "A technical guide for logistics managers and plant engineers on the critical role of Bulk Density in Soda Ash procurement. Learn how density affects silo capacity, pneumatic conveying, and ocean freight costs for Light and Dense grades."
 image: "/images/blog/soda-ash-density-logistics.webp"
@@ -129,6 +129,6 @@ Sinopeakchem — Delivering the physical consistency that powers your supply cha
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

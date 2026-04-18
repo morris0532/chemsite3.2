@@ -1,6 +1,6 @@
 ---
 Id: 7snFz5z98d
-Excerpt: "A technical guide for quality control managers on the impact of impurities in [Soda Ash](/products/soda-ash) (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
+Excerpt: "A technical guide for quality control managers on the impact of impurities in [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
 title: "Impurity Analysis: Fe, Cl, and SO4 in Soda Ash"
 description: "A technical guide for quality control managers on the impact of impurities in Soda Ash (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
 image: "/images/blog/soda-ash-impurity-analysis.webp"
@@ -135,6 +135,6 @@ Sinopeakchem — Delivering the precision and purity that your high-end process 
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

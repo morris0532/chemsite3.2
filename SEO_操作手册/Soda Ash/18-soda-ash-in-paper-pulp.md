@@ -1,6 +1,6 @@
 ---
 Id: jlNvOyF9uw
-Excerpt: "A strategic guide for paper and pulp procurement managers on sourcing [Soda Ash](/products/soda-ash) (Sodium Carbonate). Explore its critical role in de-inking, pH buffering, and bleaching processes, and the benefits of bulk sourcing from China's leading manufacturers."
+Excerpt: "A strategic guide for paper and pulp procurement managers on sourcing [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Explore its critical role in de-inking, pH buffering, and bleaching processes, and the benefits of bulk sourcing from China's leading manufacturers."
 title: "Soda Ash in Paper & Pulp: Sourcing for Large-Scale Mills"
 description: "A strategic guide for paper and pulp procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in de-inking, pH buffering, and bleaching processes, and the benefits of bulk sourcing from China's leading manufacturers."
 image: "/images/blog/soda-ash-paper-pulp.webp"
@@ -130,5 +130,5 @@ Sinopeakchem — Delivering the reliability and purity that global paper mills t
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 

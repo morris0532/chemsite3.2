@@ -1,6 +1,6 @@
 ---
 Id: ntkhQZKoxv
-Excerpt: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in [Soda Ash](/products/soda-ash). Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
+Excerpt: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate). Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
 title: "Particle Size Distribution (PSD) in Soda Ash: Why it Matters for Your Batch"
 description: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in Soda Ash. Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
 image: "/images/blog/soda-ash-psd-analysis.webp"
@@ -123,6 +123,6 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

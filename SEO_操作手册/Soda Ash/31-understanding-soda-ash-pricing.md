@@ -1,6 +1,6 @@
 ---
 Id: r5CdoQbULn
-Excerpt: "A strategic guide for procurement managers on the pricing dynamics of [Soda Ash](/products/soda-ash) (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
+Excerpt: "A strategic guide for procurement managers on the pricing dynamics of [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
 title: "Understanding Soda Ash Pricing: FOB, CIF, and Market Trends"
 description: "A strategic guide for procurement managers on the pricing dynamics of Soda Ash (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
 image: "/images/blog/soda-ash-pricing-trends.webp"
@@ -121,5 +121,5 @@ Sinopeakchem — Delivering the transparency and market intelligence that powers
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 

@@ -1,6 +1,6 @@
 ---
 Id: 9W7fQrjMdb
-Excerpt: "A technical guide for metallurgical procurement managers on sourcing [Soda Ash](/products/soda-ash) (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
+Excerpt: "A technical guide for metallurgical procurement managers on sourcing [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement"
 description: "A technical guide for metallurgical procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-metallurgy.webp"
@@ -129,5 +129,5 @@ Sinopeakchem — Delivering the reliability and purity required for global metal
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 

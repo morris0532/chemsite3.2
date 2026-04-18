@@ -1,6 +1,6 @@
 ---
 Id: h4wxGJtzF6
-Excerpt: "A strategic summary for procurement directors on building a resilient and cost-effective [Soda Ash](/products/soda-ash) (Sodium Carbonate) supply chain. Learn the key takeaways from our 40-part series on global chemical [Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)."
+Excerpt: "A strategic summary for procurement directors on building a resilient and cost-effective [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) supply chain. Learn the key takeaways from our 40-part series on global chemical [Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)."
 title: "Building a Resilient Soda Ash Supply Chain: Final Thoughts"
 description: "A strategic summary for procurement directors on building a resilient and cost-effective Soda Ash (Sodium Carbonate) supply chain. Learn the key takeaways from our 40-part series on global chemical sourcing."
 image: "/images/blog/resilient-soda-ash-supply-chain.webp"
@@ -132,5 +132,5 @@ Sinopeakchem — Delivering the results and reliability that your business deman
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.
 
