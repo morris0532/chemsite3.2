@@ -78,7 +78,7 @@ The packaging is the "shield" that protects your Soda Ash from the elements.
 
 A professional PSI report should be delivered within 24-48 hours of the inspection and must include:
 1.  **Photographic Evidence**: Clear photos of the material, the bags, the scales, and the container loading process.
-2.  **Laboratory Results**: A detailed comparison of the test results vs. the contract specifications.
+2.  **Laboratory Results**: A detailed comparison of the test results vs. the contract [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md).
 3.  **Inspector's Recommendation**: A clear "Pass" or "Fail" based on the agreed-upon criteria.
 
 ---
@@ -145,3 +145,14 @@ Sinopeakchem — Delivering the transparency and precision that your global busi
 
 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+
+
+
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
+### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
+- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
+- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
+- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
+- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
+- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
+- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)

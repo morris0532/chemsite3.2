@@ -135,4 +135,15 @@ Sinopeakchem — Delivering the buffering power that keeps your process on track
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
 
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+**Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
+
+
+
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
+### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
+- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
+- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
+- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
+- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
+- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
+- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)

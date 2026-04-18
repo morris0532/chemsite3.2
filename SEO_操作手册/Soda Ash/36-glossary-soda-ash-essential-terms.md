@@ -1,6 +1,6 @@
 ---
 Id: BjhonakhYd
-Excerpt: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical specifications, production processes, and trade terminology for global procurement."
+Excerpt: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md), production processes, and trade terminology for global procurement."
 title: "The A-Z of Soda Ash: Essential Terms for Procurement Managers"
 description: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical specifications, production processes, and trade terminology for global procurement."
 image: "/images/blog/soda-ash-glossary-terms.webp"
@@ -146,3 +146,14 @@ Sinopeakchem — Delivering the clarity and expertise that your global business 
 
 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+
+
+
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
+### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
+- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
+- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
+- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
+- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
+- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
+- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)

@@ -133,3 +133,16 @@ Sinopeakchem — Delivering the reliability and purity that global garment brand
 
 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+
+
+### Soda Ash A Series: 2. Industrial Soda Ash Uses & Applications: A Global Sourcing Guide
+- [10-soda-ash-for-glass-manufacturing](10-soda-ash-for-glass-manufacturing.md)
+- [11-soda-ash-for-flat-float-glass](11-soda-ash-for-flat-float-glass.md)
+- [12-solar-glass-soda-ash](12-solar-glass-soda-ash.md)
+- [13-soda-ash-for-detergent-soap](13-soda-ash-for-detergent-soap.md)
+- [14-soda-ash-for-water-treatment](14-soda-ash-for-water-treatment.md)
+- [15-soda-ash-in-chemical-synthesis](15-soda-ash-in-chemical-synthesis.md)
+- [16-soda-ash-for-metallurgy](16-soda-ash-for-metallurgy.md)
+- [18-soda-ash-in-paper-pulp](18-soda-ash-in-paper-pulp.md)
+- [19-soda-ash-for-food-industry](19-soda-ash-for-food-industry.md)
+- [20-soda-ash-for-mining-flotation](20-soda-ash-for-mining-flotation.md)

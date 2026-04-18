@@ -78,7 +78,7 @@ When reviewing a **Certificate of Analysis (COA)** from a China supplier, look b
 
 ## Strategic Sourcing: Precision Control from China
 
-China's leading Soda Ash manufacturers utilize state-of-the-art purification and monitoring technologies to meet the world's most demanding impurity specifications.
+China's leading Soda Ash manufacturers utilize state-of-the-art purification and monitoring technologies to meet the world's most demanding impurity [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md).
 
 *   **Advanced Hou Process Technology**: China's mastery of the Hou (Combined) process allows for the production of Soda Ash with inherently lower chloride and sulfate levels.
 *   **Magnetic Separation**: To achieve ultra-low iron levels (≤ 20 ppm), top-tier factories utilize high-intensity magnetic separators during the final processing stages to remove any trace metallic iron.
@@ -138,3 +138,14 @@ Sinopeakchem — Delivering the precision and purity that your high-end process 
 
 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+
+
+
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
+### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
+- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
+- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
+- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
+- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
+- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
+- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)

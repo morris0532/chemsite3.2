@@ -19,7 +19,7 @@ slug: packaging-options-50kg-vs-1000kg
 
 In the global trade of **Soda Ash (Sodium Carbonate, Na₂CO₃)**, the choice of packaging is far more than a logistical detail—it is a critical factor in maintaining product purity, optimizing warehouse labor, and minimizing the total "landed cost" per ton. Soda Ash is highly hygroscopic (moisture-absorbing), meaning that inadequate packaging can lead to caking, loss of alkalinity, and significant material waste.
 
-For procurement managers, the decision between **50kg PP bags** and **1000kg (1MT) Jumbo bags** depends on your plant's unloading infrastructure, storage environment, and the final application of the material. This guide provides a technical comparison of these two dominant packaging formats and offers strategic advice for global sourcing.
+For procurement managers, the decision between **50kg PP bags** and **1000kg (1MT) Jumbo bags** depends on your plant's unloading infrastructure, storage environment, and the final application of the material. This guide provides a technical comparison of these two dominant packaging formats and offers strategic advice for global [Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md).
 
 ## Core Specification: Packaging Comparison Matrix
 
@@ -136,3 +136,15 @@ Sinopeakchem — Delivering the protection and efficiency your supply chain dema
 
 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
+
+
+### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
+- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
+- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
+- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
+- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
+- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
+- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
+- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
+- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
+- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
