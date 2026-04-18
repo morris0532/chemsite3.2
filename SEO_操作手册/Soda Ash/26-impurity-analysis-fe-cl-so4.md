@@ -17,7 +17,7 @@ rootnotouch: impurity-analysis-fe-cl-so4
 slug: impurity-analysis-fe-cl-so4
 ---
 
-In high-end industrial manufacturing, the difference between a "good" product and a "perfect" one often comes down to parts per million (ppm). For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, while the total alkali content is usually ≥ 99.2%, the remaining 0.8% contains trace impurities that can have a disproportionate impact on your process. **Iron (Fe)**, **Chloride (Cl)**, and **Sulfate (SO₄)** are the three most critical impurities that quality control managers and process engineers must monitor.
+In high-end industrial manufacturing, the difference between a "good" product and a "perfect" one often comes down to parts per million (ppm). For **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, while the total alkali content is usually ≥ 99.2%, the remaining 0.8% contains trace impurities that can have a disproportionate impact on your process. **Iron (Fe)**, **Chloride (Cl)**, and **Sulfate (SO₄)** are the three most critical impurities that quality control managers and process engineers must monitor.
 
 For B2B procurement, understanding how these impurities affect your specific application is essential for selecting the right grade and supplier. This guide explores the technical impact of Fe, Cl, and SO₄, the industry-standard control limits, and why sourcing from precision-focused [China manufacturers](30-top-10-china-soda-ash-manufacturers.md) is a strategic advantage for high-purity requirements.
 

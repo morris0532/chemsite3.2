@@ -17,7 +17,7 @@ rootnotouch: soda-ash-for-detergent-soap
 slug: soda-ash-for-detergent-soap
 ---
 
-In the highly competitive **Fast-Moving Consumer Goods (FMCG)** sector, the formulation of laundry detergents and soaps requires a delicate balance of performance and cost-efficiency. **Soda Ash (Sodium Carbonate, Na₂CO₃)**, specifically the **Light Grade**, is a cornerstone ingredient in this industry. Acting as a builder, water softener, and alkalinity source, Soda Ash ensures that surfactants can perform optimally even in challenging water conditions.
+In the highly competitive **Fast-Moving Consumer Goods (FMCG)** sector, the formulation of laundry detergents and soaps requires a delicate balance of performance and cost-efficiency. **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, specifically the **Light Grade**, is a cornerstone ingredient in this industry. Acting as a builder, water softener, and alkalinity source, Soda Ash ensures that surfactants can perform optimally even in challenging water conditions.
 
 For procurement managers at global detergent brands, securing a consistent, high-purity supply of **Soda Ash Light** is vital for maintaining product quality and brand reputation. This guide explores the technical functions of Soda Ash in detergent formulations, the specific advantages of the Light grade, and the strategic benefits of bulk sourcing from China's leading chemical manufacturers.
 

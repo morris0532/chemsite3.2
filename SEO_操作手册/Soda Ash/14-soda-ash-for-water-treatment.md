@@ -17,7 +17,7 @@ rootnotouch: soda-ash-for-water-treatment
 slug: soda-ash-for-water-treatment
 ---
 
-In the critical field of **Water Treatment**, maintaining precise chemical balance is essential for public health, environmental protection, and infrastructure longevity. **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a versatile and cost-effective chemical used extensively in both municipal drinking water plants and industrial wastewater treatment facilities. Its primary functions—pH adjustment, water softening, and alkalinity control—make it an indispensable tool for water engineers worldwide.
+In the critical field of **Water Treatment**, maintaining precise chemical balance is essential for public health, environmental protection, and infrastructure longevity. **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is a versatile and cost-effective chemical used extensively in both municipal drinking water plants and industrial wastewater treatment facilities. Its primary functions—pH adjustment, water softening, and alkalinity control—make it an indispensable tool for water engineers worldwide.
 
 For procurement managers in the water sector, sourcing high-purity **[Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)** or **Dense** is a strategic priority. This guide examines the technical applications of Soda Ash in water treatment, its advantages over alternative alkalis, and the strategic benefits of bulk sourcing from China's leading chemical manufacturers.
 

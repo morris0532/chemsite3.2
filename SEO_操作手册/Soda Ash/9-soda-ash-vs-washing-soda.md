@@ -17,7 +17,7 @@ rootnotouch: soda-ash-vs-washing-soda
 slug: soda-ash-vs-washing-soda
 ---
 
-For chemical distributors and industrial procurement managers, the terms **Soda Ash** and **Washing Soda** are often used interchangeably, but they represent distinct chemical states of the same base compound: **Sodium Carbonate (Na₂CO₃)**. The primary difference lies in their **hydration state**—the amount of water molecules chemically bound to the sodium carbonate molecule.
+For chemical distributors and industrial procurement managers, the terms **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate)** and **Washing Soda** are often used interchangeably, but they represent distinct chemical states of the same base compound: **Sodium Carbonate (Na₂CO₃)**. The primary difference lies in their **hydration state**—the amount of water molecules chemically bound to the sodium carbonate molecule.
 
 Understanding the difference between **Anhydrous Sodium Carbonate (Soda Ash)** and **Sodium Carbonate Decahydrate (Washing Soda)** is critical for optimizing logistics, storage, and application efficiency. This guide provides a technical breakdown of these two forms, their industrial uses, and key considerations for bulk procurement from China.
 

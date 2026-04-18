@@ -17,7 +17,7 @@ rootnotouch: soda-ash-for-mining-flotation
 slug: soda-ash-for-mining-flotation
 ---
 
-In the global **Mining and Mineral Processing Industry**, achieving high recovery rates and concentrate grades is the primary objective. **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a fundamental reagent used extensively in the **Froth Flotation** process for base metals (copper, lead, zinc), precious metals, and industrial minerals. Acting as a pH regulator, dispersant, and depressant, Soda Ash ensures the optimal chemical environment for collectors and frothers to selectively attach to valuable minerals.
+In the global **Mining and Mineral Processing Industry**, achieving high recovery rates and concentrate grades is the primary objective. **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is a fundamental reagent used extensively in the **Froth Flotation** process for base metals (copper, lead, zinc), precious metals, and industrial minerals. Acting as a pH regulator, dispersant, and depressant, Soda Ash ensures the optimal chemical environment for collectors and frothers to selectively attach to valuable minerals.
 
 For procurement managers at large-scale mining operations, securing a consistent, high-volume supply of **[Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)** or **Dense** is a strategic necessity. This guide examines the technical applications of Soda Ash in mining, its impact on flotation efficiency, and the strategic advantages of bulk sourcing from China's leading chemical manufacturers.
 

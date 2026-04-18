@@ -17,7 +17,7 @@ rootnotouch: case-study-optimizing-soda-ash-supply
 slug: case-study-optimizing-soda-ash-supply
 ---
 
-In the glass industry, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
+In the glass industry, **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
 
 This case study explores how a leading multi-national glass manufacturer partnered with **Sinopeakchem** to transform its Soda Ash procurement from a transactional "spot-buying" model to a strategic, high-efficiency supply chain.
 

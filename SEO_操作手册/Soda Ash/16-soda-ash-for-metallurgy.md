@@ -17,7 +17,7 @@ rootnotouch: soda-ash-for-metallurgy
 slug: soda-ash-for-metallurgy
 ---
 
-In the global **Metallurgical Industry**, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a vital process chemical used for fluxing, desulfurization, and chemical refining. From the massive alumina refineries that feed the aluminum industry to the specialized facilities recycling lead-acid batteries, Soda Ash provides the necessary alkalinity and sodium content to optimize metal recovery and reduce environmental impact.
+In the global **Metallurgical Industry**, **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is a vital process chemical used for fluxing, desulfurization, and chemical refining. From the massive alumina refineries that feed the aluminum industry to the specialized facilities recycling lead-acid batteries, Soda Ash provides the necessary alkalinity and sodium content to optimize metal recovery and reduce environmental impact.
 
 For procurement managers in the smelting and recycling sectors, securing a stable, high-volume supply of **[Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)** or **Light** is essential for maintaining continuous furnace operations and meeting production targets. This guide examines the technical applications of Soda Ash in metallurgy, its role in the circular economy through lead recycling, and the strategic advantages of sourcing from China's leading chemical manufacturers.
 

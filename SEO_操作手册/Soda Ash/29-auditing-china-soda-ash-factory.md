@@ -17,7 +17,7 @@ rootnotouch: auditing-china-soda-ash-factory
 slug: auditing-china-soda-ash-factory
 ---
 
-In the global chemical market, China is the undisputed leader in **Soda Ash (Sodium Carbonate, Na₂CO₃)** production, accounting for nearly half of the world's capacity. However, for an international procurement manager, the challenge is not finding a supplier, but finding the *right* partner who can consistently meet your quality, safety, and compliance standards. A million-dollar procurement decision should never be based on a website alone; it requires a rigorous **Factory Audit**.
+In the global chemical market, China is the undisputed leader in **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** production, accounting for nearly half of the world's capacity. However, for an international procurement manager, the challenge is not finding a supplier, but finding the *right* partner who can consistently meet your quality, safety, and compliance standards. A million-dollar procurement decision should never be based on a website alone; it requires a rigorous **Factory Audit**.
 
 Whether you are conducting a physical site visit or a remote "desktop" audit, you must look beyond the price per ton. This guide provides a comprehensive checklist of the critical KPIs (Key Performance Indicators) for auditing a China Soda Ash factory, ensuring your supply chain is built on a foundation of reliability and transparency.
 

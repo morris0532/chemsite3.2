@@ -17,7 +17,7 @@ rootnotouch: solar-glass-soda-ash
 slug: solar-glass-soda-ash
 ---
 
-The global transition to renewable energy has placed the **Photovoltaic (PV) Industry** at the forefront of industrial growth. Central to this revolution is **Solar Glass**, a specialized high-transmittance glass that protects solar cells while maximizing light absorption. To achieve the extreme clarity required for efficient energy conversion, the production process demands a specific grade of **Soda Ash (Sodium Carbonate, Na₂CO₃)** with ultra-low [iron content](26-impurity-analysis-fe-cl-so4.md) and exceptional chemical consistency.
+The global transition to renewable energy has placed the **Photovoltaic (PV) Industry** at the forefront of industrial growth. Central to this revolution is **Solar Glass**, a specialized high-transmittance glass that protects solar cells while maximizing light absorption. To achieve the extreme clarity required for efficient energy conversion, the production process demands a specific grade of **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** with ultra-low [iron content](26-impurity-analysis-fe-cl-so4.md) and exceptional chemical consistency.
 
 For procurement managers in the PV supply chain, sourcing **Solar Grade Soda Ash** is not just about price; it is about ensuring the long-term performance and efficiency of the solar modules. This guide examines the technical specifications required for solar glass, the impact of impurities on PV yield, and why China remains the global hub for solar-grade chemical sourcing.
 
