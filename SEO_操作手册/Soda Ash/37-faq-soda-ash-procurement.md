@@ -129,7 +129,3 @@ Sinopeakchem's technical team is ready to provide the precise answers you need f
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
 ---
-
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.

@@ -119,7 +119,3 @@ Sinopeakchem — Delivering the strategic foresight and reliability that your gl
 10. **ISO.** "ISO 14064-1:2018 Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals." *International Organization for Standardization*, 2018.
 
 ---
-
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.

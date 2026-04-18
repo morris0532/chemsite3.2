@@ -125,7 +125,3 @@ Sinopeakchem — Delivering the compliance and transparency that your global bra
 10. **ISO.** "ISO 14001:2015 Environmental management systems — Requirements with guidance for use." *International Organization for Standardization*, 2015.
 
 ---
-
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.

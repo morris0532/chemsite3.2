@@ -148,7 +148,3 @@ Sinopeakchem — Delivering reliability, specification compliance, and logistics
 10. **Sinopeakchem Technical Data.** "[Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) vs. Dense Specifications." *Sinopeakchem Internal Report*, 2024.
 
 ---
-
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.

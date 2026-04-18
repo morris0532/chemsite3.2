@@ -117,7 +117,3 @@ Sinopeakchem — Delivering high-purity Soda Ash Dense to power the global const
 10. **World Bank.** "Global Construction Outlook 2030: Demand for Architectural Glass." *World Bank Group*, 2024.
 
 ---
-
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical specifications and bulk pricing.

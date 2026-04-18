@@ -121,8 +121,4 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 
 ---
 
-**Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
-
-**Product Information**: View our [Soda Ash (Sodium Carbonate)](/enhttps://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
-
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
