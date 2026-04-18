@@ -36,19 +36,19 @@ Africa, a continent rich in natural resources and experiencing significant indus
 
 The diverse industrial sectors across Africa utilize oxalic acid in several critical processes:
 
-*   **Mining and Mineral Extraction**: Particularly in South Africa, oxalic acid is vital for the extraction and purification of various minerals, including rare earths, due to its chelating properties [1] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
-*   **Water Treatment**: With growing populations and industrialization, water treatment is a priority. Oxalic acid is used to remove iron and manganese from water, improving its quality for both industrial and potable uses [2] (see also [Oxalic Acid for Water Treatment](/en/blog/oxalic-acid-water-treatment)).
-*   **Industrial Cleaning and Rust Removal**: Across various industries, oxalic acid is an effective agent for cleaning equipment, descaling, and removing rust, ensuring machinery longevity and operational efficiency [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
-*   **Textile Industry**: In countries with developing textile sectors, oxalic acid serves as a mordant and reducing agent in dyeing and printing processes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
+*   **Mining and Mineral Extraction**: Particularly in South Africa, oxalic acid is vital for the extraction and purification of various minerals, including rare earths, due to its chelating properties [1] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
+*   **Water Treatment**: With growing populations and industrialization, water treatment is a priority. Oxalic acid is used to remove iron and manganese from water, improving its quality for both industrial and potable uses [2] (see also [Oxalic Acid for Water Treatment](oxalic-acid-water-treatment)).
+*   **Industrial Cleaning and Rust Removal**: Across various industries, oxalic acid is an effective agent for cleaning equipment, descaling, and removing rust, ensuring machinery longevity and operational efficiency [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
+*   **Textile Industry**: In countries with developing textile sectors, oxalic acid serves as a mordant and reducing agent in dyeing and printing processes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
 
 ### SinoPeakChem: Your Reliable Partner for Africa
 
 SinoPeakChem is dedicated to serving the African market with high-quality oxalic acid and exceptional service. Our advantages include:
 
-1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, adhering to international quality standards. Each consignment is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [5] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, adhering to international quality standards. Each consignment is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [5] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
 2.  **Efficient Logistics**: Leveraging established shipping routes to major African ports like Durban (South Africa), Alexandria (Egypt), and Lagos (Nigeria), we ensure timely and secure delivery. Our logistics team is experienced in navigating the complexities of international chemical transport, including adherence to local regulations.
-3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [6] (see also [Oxalic Acid Price Trend 2025](/en/blog/oxalic-acid-price)).
-4.  **Flexible Packaging**: We provide various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to suit the diverse storage and handling needs across the continent [7] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [6] (see also [Oxalic Acid Price Trend 2025](oxalic-acid-price)).
+4.  **Flexible Packaging**: We provide various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to suit the diverse storage and handling needs across the continent [7] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
 5.  **Market Insight**: We understand the unique challenges and opportunities within the African chemical market, allowing us to offer tailored solutions and support for your procurement processes.
 
 ### Serving Key African Nations

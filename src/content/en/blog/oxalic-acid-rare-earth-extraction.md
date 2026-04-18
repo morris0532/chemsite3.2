@@ -66,7 +66,7 @@ Oxalic acid (C₂H₂O₄) is a dicarboxylic acid that forms highly insoluble pr
 
 ### Challenges and Considerations
 
--   **Waste Management**: The process generates acidic wastewater and solid residues that require proper treatment and disposal, aligning with environmental regulations. Refer to our guide on [oxalic acid safety and handling](/en/blog/oxalic-acid-safety-handling) for general guidelines.
+-   **Waste Management**: The process generates acidic wastewater and solid residues that require proper treatment and disposal, aligning with environmental regulations. Refer to our guide on [oxalic acid safety and handling](oxalic-acid-safety-handling) for general guidelines.
 -   **Process Optimization**: Optimizing parameters like pH, temperature, and oxalic acid concentration is crucial for maximizing yield and purity.
 
 ### Conclusion

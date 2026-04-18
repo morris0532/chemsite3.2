@@ -70,7 +70,7 @@ In certain reaction steps, precise pH control is essential. Oxalic acid can be u
 
 #### 4. Cleaning and Maintenance of Equipment
 
-Beyond direct synthesis, oxalic acid is also used for cleaning and descaling pharmaceutical equipment, ensuring a sterile and contamination-free environment for drug production. Its ability to remove rust and mineral deposits is crucial for maintaining the integrity of stainless steel reactors and piping [6] (see also [Oxalic Acid for Cleaning & Descaling](/en/blog/oxalic-acid-cleaning-descaling)).
+Beyond direct synthesis, oxalic acid is also used for cleaning and descaling pharmaceutical equipment, ensuring a sterile and contamination-free environment for drug production. Its ability to remove rust and mineral deposits is crucial for maintaining the integrity of stainless steel reactors and piping [6] (see also [Oxalic Acid for Cleaning & Descaling](oxalic-acid-cleaning-descaling)).
 
 ### Safety and Handling in Pharmaceutical Settings
 
@@ -78,7 +78,7 @@ Given its corrosive nature and toxicity, strict safety protocols are paramount w
 
 -   **Personal Protective Equipment (PPE)**: Use of gloves, eye protection, and protective clothing.
 -   **Ventilation**: Ensuring adequate local exhaust ventilation to prevent inhalation of dust or fumes.
--   **Storage**: Storing in a cool, dry, well-ventilated area, away from incompatible materials [7] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+-   **Storage**: Storing in a cool, dry, well-ventilated area, away from incompatible materials [7] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 -   **Waste Management**: Proper disposal of oxalic acid waste in accordance with environmental regulations.
 
 ### Conclusion

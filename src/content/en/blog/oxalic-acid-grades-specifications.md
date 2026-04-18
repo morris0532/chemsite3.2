@@ -54,11 +54,11 @@ Oxalic acid is generally available in several grades, each tailored to meet the 
 **Typical Purity**: 99.0% min (often 99.5% or 99.6% min)
 
 **Key Applications**:
--   **Rust Removal**: Effective for cleaning metal surfaces, removing rust stains from concrete, and restoring wood (see [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
--   **Textile Industry**: Used as a bleaching agent, mordant, and pH regulator in dyeing and printing processes (see [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
+-   **Rust Removal**: Effective for cleaning metal surfaces, removing rust stains from concrete, and restoring wood (see [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
+-   **Textile Industry**: Used as a bleaching agent, mordant, and pH regulator in dyeing and printing processes (see [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
 -   **Leather Tanning**: Acts as a chelating agent to remove iron stains and improve leather quality.
 -   **Metal Treatment**: Used in metal cleaning, polishing, and as a component in some electroplating baths.
--   **Rare Earth Extraction**: Plays a crucial role in the precipitation and separation of rare earth elements (see [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
+-   **Rare Earth Extraction**: Plays a crucial role in the precipitation and separation of rare earth elements (see [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
 
 #### 2. Food Grade Oxalic Acid
 

@@ -37,19 +37,19 @@ South America, a continent characterized by its vast natural resources and diver
 The varied industrial and agricultural sectors across South America utilize oxalic acid in several crucial processes:
 
 *   **Agriculture**: In countries like Brazil, oxalic acid is used in certain agricultural applications, including pH adjustment and as a chelating agent for micronutrients, contributing to soil health and crop yield.
-*   **Leather Processing**: South America has a prominent leather industry, particularly in Brazil and Colombia. Oxalic acid is employed in leather tanning and dyeing processes, contributing to the quality and finish of leather products [1] (see also [Oxalic Acid for Leather Tanning & Dyeing](/en/blog/oxalic-acid-leather-tanning)).
-*   **Mining Industry**: Chile, a global leader in copper production, along with other mining nations in the region, utilizes oxalic acid in mineral extraction and purification processes, especially for certain metal ores [2] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
-*   **Industrial Cleaning and Rust Removal**: Across various industries, oxalic acid is an effective agent for cleaning equipment, descaling, and removing rust, ensuring machinery longevity and operational efficiency [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
-*   **Textile Industry**: In developing textile sectors, oxalic acid serves as a mordant and reducing agent in dyeing and printing processes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
+*   **Leather Processing**: South America has a prominent leather industry, particularly in Brazil and Colombia. Oxalic acid is employed in leather tanning and dyeing processes, contributing to the quality and finish of leather products [1] (see also [Oxalic Acid for Leather Tanning & Dyeing](oxalic-acid-leather-tanning)).
+*   **Mining Industry**: Chile, a global leader in copper production, along with other mining nations in the region, utilizes oxalic acid in mineral extraction and purification processes, especially for certain metal ores [2] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
+*   **Industrial Cleaning and Rust Removal**: Across various industries, oxalic acid is an effective agent for cleaning equipment, descaling, and removing rust, ensuring machinery longevity and operational efficiency [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
+*   **Textile Industry**: In developing textile sectors, oxalic acid serves as a mordant and reducing agent in dyeing and printing processes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
 
 ### SinoPeakChem: Your Reliable Partner for South America
 
 SinoPeakChem is dedicated to serving the South American market with high-quality oxalic acid and exceptional service. Our advantages include:
 
-1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, adhering to international quality standards. Each consignment is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [5] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
+1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, adhering to international quality standards. Each consignment is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [5] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
 2.  **Efficient Logistics**: Leveraging established shipping routes to major South American ports like Santos (Brazil), Valparaíso (Chile), and Cartagena (Colombia), we ensure timely and secure delivery. Our logistics team is experienced in navigating the complexities of international chemical transport, including adherence to local regulations.
-3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [6] (see also [Oxalic Acid Price Trend 2025](/en/blog/oxalic-acid-price)).
-4.  **Flexible Packaging**: We provide various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to suit the diverse storage and handling needs across the continent [7] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
+3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [6] (see also [Oxalic Acid Price Trend 2025](oxalic-acid-price)).
+4.  **Flexible Packaging**: We provide various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to suit the diverse storage and handling needs across the continent [7] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
 5.  **Market Insight**: We understand the unique challenges and opportunities within the South American chemical market, allowing us to offer tailored solutions and support for your procurement processes.
 
 ### Serving Key South American Nations

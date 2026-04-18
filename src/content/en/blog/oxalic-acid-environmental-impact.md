@@ -58,10 +58,10 @@ In aquatic environments, oxalic acid can lower pH if present in high concentrati
 
 Despite its biodegradability, industrial waste streams containing high concentrations of oxalic acid or its metal complexes require proper treatment before discharge to prevent localized environmental impacts. Key considerations include:
 
-*   **Neutralization**: Adjusting the pH of acidic waste streams to a neutral range (pH 6-9) before discharge (see also [How to Safely Dilute Oxalic Acid](/en/blog/oxalic-acid-dilution-guide)).
+*   **Neutralization**: Adjusting the pH of acidic waste streams to a neutral range (pH 6-9) before discharge (see also [How to Safely Dilute Oxalic Acid](oxalic-acid-dilution-guide)).
 *   **Precipitation**: If metal oxalates are present, they may need to be precipitated and removed, as some heavy metal oxalates can be less biodegradable or more toxic.
 *   **Biological Treatment**: Utilizing wastewater treatment plants with biological degradation capabilities to further break down oxalic acid.
-*   **Compliance**: Adhering to local and international environmental regulations for chemical waste disposal (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+*   **Compliance**: Adhering to local and international environmental regulations for chemical waste disposal (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 SinoPeakChem emphasizes responsible manufacturing and handling practices, ensuring that our oxalic acid products are produced and used in an environmentally conscious manner.
 

@@ -51,7 +51,7 @@ Oxalic acid (C₂H₂O₄) is a dicarboxylic acid that, when used as an electrol
 2.  **Pore Structure and Dyeing**: The anodic film formed in oxalic acid electrolytes tends to have a more uniform and finer pore structure. This can lead to better dye absorption and more vibrant, consistent colors when the anodized aluminum is subsequently dyed. The natural color of oxalic acid anodized aluminum can range from light yellow to bronze, depending on the alloy and process parameters.
 3.  **Corrosion Resistance**: The dense and hard oxide layer provides excellent corrosion protection, making the anodized aluminum suitable for harsh environments.
 4.  **Reduced Etching**: Compared to some other strong acids, oxalic acid can offer a more controlled etching process, leading to a smoother surface finish and better film quality.
-5.  **Environmental Considerations**: While still an acid, oxalic acid is generally considered less aggressive than some other mineral acids, and its byproducts can sometimes be easier to manage, though proper waste treatment is always essential (refer to [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+5.  **Environmental Considerations**: While still an acid, oxalic acid is generally considered less aggressive than some other mineral acids, and its byproducts can sometimes be easier to manage, though proper waste treatment is always essential (refer to [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 ### Process Parameters and Considerations
 

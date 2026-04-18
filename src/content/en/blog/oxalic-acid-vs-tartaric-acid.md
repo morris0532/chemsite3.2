@@ -88,11 +88,11 @@ The distinct chemical profiles lead to varied applications for each acid.
 
 Oxalic acid's reducing and chelating properties are leveraged in industrial and cleaning applications:
 
-*   **Rust Removal**: Highly effective in dissolving iron oxides, making it a popular choice for removing rust stains from various surfaces, including metals, stone, and fabrics [5] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+*   **Rust Removal**: Highly effective in dissolving iron oxides, making it a popular choice for removing rust stains from various surfaces, including metals, stone, and fabrics [5] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
 *   **Cleaning and Bleaching**: Used as a cleaning agent for minerals, a wood bleach to lighten stained or weathered wood, and in some household cleaning products.
 *   **Metal Treatment**: Employed in metal polishing, cleaning, and passivation processes, particularly for stainless steel and aluminum [6] (see also [Oxalic Acid for Metal Cleaning](/en/blog/oxalic-acid-metal-cleaning)).
-*   **Textile Industry**: Used as a mordant in dyeing and printing textiles, and as a bleaching agent [7] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
-*   **Rare Earth Element Extraction**: Utilized in the separation and purification of rare earth elements due to its ability to form insoluble oxalates [8] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
+*   **Textile Industry**: Used as a mordant in dyeing and printing textiles, and as a bleaching agent [7] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
+*   **Rare Earth Element Extraction**: Utilized in the separation and purification of rare earth elements due to its ability to form insoluble oxalates [8] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
 
 ### Applications of Tartaric Acid
 

@@ -49,7 +49,7 @@ Contact at least 3-5 reputable suppliers to compare pricing and terms. When requ
 - Preferred payment terms and delivery timeline
 - Any special requirements (e.g., custom packaging, certifications)
 
-For a [reliable supplier](/en/blog/oxalic-acid-supplier-china), ensure they can provide detailed quotations including unit price, MOQ, and total landed cost.
+For a [reliable supplier](oxalic-acid-supplier-china), ensure they can provide detailed quotations including unit price, MOQ, and total landed cost.
 
 #### Step 3: Request & Test Samples
 
@@ -69,7 +69,7 @@ Once you've verified sample quality, negotiate the commercial terms:
 - **Payment Method**: Agree on T/T, L/C, or other payment terms
 - **Delivery Timeline**: Establish expected lead times and shipping schedules
 
-Reference current [oxalic acid price trends](/en/blog/oxalic-acid-price) to ensure you're getting competitive rates.
+Reference current [oxalic acid price trends](oxalic-acid-price) to ensure you're getting competitive rates.
 
 #### Step 5: Place Order & Arrange Shipping
 

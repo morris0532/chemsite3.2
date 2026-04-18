@@ -44,7 +44,7 @@ Oxalic acid contributes to several of these stages, offering an effective and of
 
 #### 1. Rust and Oxide Removal
 
-Oxalic acid is an excellent agent for removing rust (iron oxides) from various metal surfaces, particularly iron and steel. It reacts with iron oxides to form soluble iron oxalates, which can then be easily rinsed away. This process is milder than using strong mineral acids, reducing the risk of hydrogen embrittlement or excessive metal loss [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+Oxalic acid is an excellent agent for removing rust (iron oxides) from various metal surfaces, particularly iron and steel. It reacts with iron oxides to form soluble iron oxalates, which can then be easily rinsed away. This process is milder than using strong mineral acids, reducing the risk of hydrogen embrittlement or excessive metal loss [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
 
 > "The chelating ability of oxalic acid with iron ions makes it highly effective in dissolving rust without aggressively attacking the base metal, making it a preferred choice for delicate or precision metal components." [4]
 
@@ -57,7 +57,7 @@ While not a primary degreaser, oxalic acid solutions can be used in conjunction 
 For certain metals, oxalic acid can act as a passivation agent or a surface activator:
 
 *   **Stainless Steel Passivation**: Oxalic acid can be used to passivate stainless steel, removing free iron from the surface and forming a protective chromium oxide layer that enhances corrosion resistance. This is particularly useful when nitric acid passivation is not feasible or desired [5].
-*   **Aluminum Surface Treatment**: In aluminum pre-treatment, oxalic acid can be used to etch the surface, creating a micro-roughened profile that improves the mechanical interlocking of coatings. It can also be part of anodizing processes, influencing the pore structure of the anodic film (see also [Oxalic Acid for Aluminum Anodizing](/en/blog/oxalic-acid-aluminum-anodizing)).
+*   **Aluminum Surface Treatment**: In aluminum pre-treatment, oxalic acid can be used to etch the surface, creating a micro-roughened profile that improves the mechanical interlocking of coatings. It can also be part of anodizing processes, influencing the pore structure of the anodic film (see also [Oxalic Acid for Aluminum Anodizing](oxalic-acid-aluminum-anodizing)).
 *   **Copper and Brass Cleaning**: It effectively removes tarnish and oxides from copper and brass, restoring their original luster before plating or protective coating.
 
 #### 4. Enhancing Adhesion for Coatings and Paints
@@ -68,12 +68,12 @@ By effectively cleaning, de-rusting, and sometimes micro-etching the metal surfa
 
 *   **Milder Action**: Less aggressive than strong mineral acids, reducing damage to the base metal.
 *   **Effective Chelator**: Forms stable complexes with metal ions, aiding in their removal.
-*   **Biodegradable**: Generally considered biodegradable, simplifying waste treatment compared to some other chemicals (see also [Oxalic Acid's Environmental Impact & Biodegradability](/en/blog/oxalic-acid-environmental-impact)).
+*   **Biodegradable**: Generally considered biodegradable, simplifying waste treatment compared to some other chemicals (see also [Oxalic Acid's Environmental Impact & Biodegradability](oxalic-acid-environmental-impact)).
 *   **Versatility**: Applicable to a range of metals and pre-treatment stages.
 
 ### Safety and Handling
 
-Despite its milder nature compared to some acids, oxalic acid is corrosive and toxic. Proper personal protective equipment (PPE) and ventilation are essential during handling. Waste solutions must be treated according to environmental regulations, often involving neutralization and precipitation of metal oxalates [7] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+Despite its milder nature compared to some acids, oxalic acid is corrosive and toxic. Proper personal protective equipment (PPE) and ventilation are essential during handling. Waste solutions must be treated according to environmental regulations, often involving neutralization and precipitation of metal oxalates [7] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 ### Conclusion
 

@@ -69,7 +69,7 @@ An efficient export process is vital for timely delivery. Chinese manufacturers 
 
 **Main Export Ports**: Shanghai, Qingdao, Tianjin, and Ningbo are primary hubs for chemical exports, offering extensive global shipping routes.
 
-**Export Documents**: A complete set of documents includes Commercial Invoice, Packing List, Bill of Lading, COA, MSDS, and Certificate of Origin. For more details on [shipping costs](/en/blog/chemical-shipping-logistics-china-guide) and logistics, refer to our comprehensive guide.
+**Export Documents**: A complete set of documents includes Commercial Invoice, Packing List, Bill of Lading, COA, MSDS, and Certificate of Origin. For more details on [shipping costs](chemical-shipping-logistics-china-guide) and logistics, refer to our comprehensive guide.
 
 ### About SinoPeakChem
 
@@ -78,7 +78,7 @@ SinoPeakChem has been a leading oxalic acid manufacturer and exporter from China
 -   **Extensive Experience**: Decades of expertise in oxalic acid production and international trade.
 -   **Guaranteed Quality**: Adherence to ISO 9001 standards and provision of comprehensive COAs for every batch.
 -   **Global Reach**: Exporting to over 80 countries, with a deep understanding of diverse market requirements.
--   **Competitive Pricing**: As a direct manufacturer, we offer [competitive pricing](/en/blog/oxalic-acid-price) without middleman markups.
+-   **Competitive Pricing**: As a direct manufacturer, we offer [competitive pricing](oxalic-acid-price) without middleman markups.
 -   **Reliable Logistics**: Strong partnerships with major shipping lines ensure efficient and timely delivery worldwide.
 
 ### Frequently Asked Questions

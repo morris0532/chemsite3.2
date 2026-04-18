@@ -55,7 +55,7 @@ Dyeing is crucial for imparting desired colors to leather. Oxalic acid assists i
 
 ### Safety and Environmental Considerations
 
-As with all industrial chemicals, proper handling and safety protocols are essential when using oxalic acid in leather processing (refer to [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+As with all industrial chemicals, proper handling and safety protocols are essential when using oxalic acid in leather processing (refer to [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 -   **Personal Protective Equipment (PPE)**: Workers must wear appropriate PPE, including chemical-resistant gloves, eye protection, and protective clothing.
 -   **Ventilation**: Adequate ventilation in processing areas is crucial to prevent inhalation of fumes or dust.

@@ -73,7 +73,7 @@ Oxalic acid can be applied in various stages of water treatment, depending on th
 
 ### Safety Considerations
 
-While effective, oxalic acid is a corrosive substance and requires careful handling (see [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+While effective, oxalic acid is a corrosive substance and requires careful handling (see [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 -   **Personal Protective Equipment (PPE)**: Always wear chemical-resistant gloves, eye protection, and appropriate clothing.
 -   **Ventilation**: Ensure adequate ventilation in application areas.

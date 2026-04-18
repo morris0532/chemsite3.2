@@ -62,7 +62,7 @@ Beyond permanganometry, oxalic acid can reduce other oxidizing agents, such as d
 
 ### Oxalic Acid in Complexometry
 
-While not a direct complexometric titrant, oxalic acid and its salts (oxalates) are excellent **chelating agents**. They can form stable complexes with various metal ions (e.g., iron, calcium, magnesium, rare earths). This property is utilized in analytical separations and gravimetric analyses where metal ions are precipitated as insoluble oxalates for quantitative determination [4] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
+While not a direct complexometric titrant, oxalic acid and its salts (oxalates) are excellent **chelating agents**. They can form stable complexes with various metal ions (e.g., iron, calcium, magnesium, rare earths). This property is utilized in analytical separations and gravimetric analyses where metal ions are precipitated as insoluble oxalates for quantitative determination [4] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
 
 ### Other Laboratory Uses
 
@@ -72,7 +72,7 @@ While not a direct complexometric titrant, oxalic acid and its salts (oxalates) 
 
 ### Safety Considerations
 
-Despite its widespread use, oxalic acid is corrosive and toxic. Proper laboratory safety practices, including the use of personal protective equipment (PPE) such as gloves and eye protection, and working in a well-ventilated area, are crucial. Spills should be neutralized promptly, and waste disposal must comply with local regulations [5] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
+Despite its widespread use, oxalic acid is corrosive and toxic. Proper laboratory safety practices, including the use of personal protective equipment (PPE) such as gloves and eye protection, and working in a well-ventilated area, are crucial. Spills should be neutralized promptly, and waste disposal must comply with local regulations [5] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
 
 ### Conclusion
 

@@ -44,13 +44,13 @@ Oxalic acid is versatile but not universally applicable. It is highly effective 
 
 -   **Ferrous Metals**: Carbon steel, stainless steel, cast iron, and wrought iron.
 -   **Tools & Equipment**: Wrenches, pipes, garden tools, and automotive parts.
--   **Wood**: Excellent for removing iron stains and water spots from wood (as detailed in our guide on [wood bleaching with oxalic acid](/en/blog/oxalic-acid-wood-bleaching)).
+-   **Wood**: Excellent for removing iron stains and water spots from wood (as detailed in our guide on [wood bleaching with oxalic acid](oxalic-acid-wood-bleaching)).
 
 However, it should generally **not** be used on:
 
 -   **Aluminum**: Can cause discoloration or etching.
 -   **Galvanized or Plated Surfaces**: May damage the protective coating.
--   **Soft Stones**: Can etch or damage certain types of stone (refer to [oxalic acid for marble polishing](/en/blog/oxalic-acid-marble-polishing) for suitable stone applications).
+-   **Soft Stones**: Can etch or damage certain types of stone (refer to [oxalic acid for marble polishing](oxalic-acid-marble-polishing) for suitable stone applications).
 
 ### Step-by-Step Rust Removal Guide
 

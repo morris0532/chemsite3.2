@@ -56,7 +56,7 @@ Proper storage is paramount for maintaining the quality of oxalic acid and ensur
 
 1.  **Cool and Dry Environment**: Store in a cool, dry, and well-ventilated area. Humidity should be kept as low as possible to prevent moisture absorption.
 2.  **Temperature Control**: Avoid extreme temperatures. While oxalic acid is stable, prolonged exposure to high temperatures can lead to decomposition.
-3.  **Away from Incompatible Materials**: Do not store near strong oxidizing agents (e.g., peroxides, nitrates), strong bases (e.g., sodium hydroxide), or certain metals (e.g., iron, aluminum), as hazardous reactions can occur. For more details on incompatible materials, refer to our guide on [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling).
+3.  **Away from Incompatible Materials**: Do not store near strong oxidizing agents (e.g., peroxides, nitrates), strong bases (e.g., sodium hydroxide), or certain metals (e.g., iron, aluminum), as hazardous reactions can occur. For more details on incompatible materials, refer to our guide on [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling).
 4.  **Secure and Segregated**: Store in a dedicated area, preferably in a locked facility, to prevent unauthorized access. Segregate from food, feed, and other sensitive materials.
 5.  **Elevated Storage**: Keep containers off the floor on pallets or shelves to protect against moisture and potential flooding.
 6.  **Proper Ventilation**: Ensure adequate ventilation to prevent the accumulation of dust or any potential fumes, especially if packaging is compromised.

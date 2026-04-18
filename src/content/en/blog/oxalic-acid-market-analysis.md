@@ -36,9 +36,9 @@ The global oxalic acid market is a dynamic segment of the chemical industry, dri
 
 The demand for oxalic acid is steadily growing, fueled by several key factors:
 
-1.  **Pharmaceutical Industry Growth**: Oxalic acid is a crucial intermediate in the synthesis of various pharmaceuticals, including antibiotics (like tetracycline) and vitamins. The expanding global healthcare sector directly boosts demand [1] (see also [Oxalic Acid in Pharmaceutical Intermediates](/en/blog/oxalic-acid-pharmaceutical-intermediates)).
-2.  **Rare Earth Elements (REE) Extraction**: The booming electronics, electric vehicle (EV), and renewable energy sectors rely heavily on rare earth magnets. Oxalic acid is indispensable for precipitating and purifying these elements, making this a significant growth driver [2] (see also [Oxalic Acid in Rare Earth Magnets](/en/blog/oxalic-acid-rare-earth-magnets)).
-3.  **Industrial Cleaning and Metal Treatment**: Its effectiveness as a rust remover, descaling agent, and metal surface pre-treatment chemical ensures consistent demand from manufacturing and maintenance sectors [3] (see also [Oxalic Acid in Metal Surface Pre-treatment](/en/blog/oxalic-acid-metal-pre-treatment)).
+1.  **Pharmaceutical Industry Growth**: Oxalic acid is a crucial intermediate in the synthesis of various pharmaceuticals, including antibiotics (like tetracycline) and vitamins. The expanding global healthcare sector directly boosts demand [1] (see also [Oxalic Acid in Pharmaceutical Intermediates](oxalic-acid-pharmaceutical-intermediates)).
+2.  **Rare Earth Elements (REE) Extraction**: The booming electronics, electric vehicle (EV), and renewable energy sectors rely heavily on rare earth magnets. Oxalic acid is indispensable for precipitating and purifying these elements, making this a significant growth driver [2] (see also [Oxalic Acid in Rare Earth Magnets](oxalic-acid-rare-earth-magnets)).
+3.  **Industrial Cleaning and Metal Treatment**: Its effectiveness as a rust remover, descaling agent, and metal surface pre-treatment chemical ensures consistent demand from manufacturing and maintenance sectors [3] (see also [Oxalic Acid in Metal Surface Pre-treatment](oxalic-acid-metal-pre-treatment)).
 4.  **Textile and Leather Industries**: Traditional uses in textile dyeing (as a mordant) and leather tanning continue to contribute to baseline consumption, particularly in developing regions.
 
 ### Key Producing Regions
@@ -51,7 +51,7 @@ China is by far the largest producer and exporter of oxalic acid globally. The c
 
 *   **Production Capacity**: Chinese manufacturers account for a significant majority of global capacity.
 *   **Export Dominance**: China supplies oxalic acid to markets worldwide, including Europe, North America, and other parts of Asia.
-*   **SinoPeakChem's Role**: As a leading manufacturer based in China, SinoPeakChem leverages these regional advantages to provide high-quality, competitively priced oxalic acid to the international market (see also [China Oxalic Acid Manufacturer & Exporter](/en/blog/oxalic-acid-manufacturer-china)).
+*   **SinoPeakChem's Role**: As a leading manufacturer based in China, SinoPeakChem leverages these regional advantages to provide high-quality, competitively priced oxalic acid to the international market (see also [China Oxalic Acid Manufacturer & Exporter](oxalic-acid-manufacturer-china)).
 
 #### 2. India and Other Asian Countries
 
@@ -74,7 +74,7 @@ The trade flow of oxalic acid is predominantly characterized by exports from Asi
 Several trends are shaping the future of the oxalic acid market:
 
 *   **Shift Towards Greener Production**: Environmental regulations are pushing manufacturers to adopt cleaner production methods, such as the synthesis gas route, which produces less waste compared to traditional carbohydrate oxidation [4].
-*   **Price Volatility**: Prices can be influenced by raw material costs (e.g., coal, natural gas, sugar), energy prices, and freight rates. Buyers often seek long-term contracts or reliable suppliers to mitigate this volatility (see also [Oxalic Acid Price Trend](/en/blog/oxalic-acid-price)).
+*   **Price Volatility**: Prices can be influenced by raw material costs (e.g., coal, natural gas, sugar), energy prices, and freight rates. Buyers often seek long-term contracts or reliable suppliers to mitigate this volatility (see also [Oxalic Acid Price Trend](oxalic-acid-price)).
 *   **Increasing Purity Requirements**: As applications in electronics and advanced pharmaceuticals grow, the demand for high-purity and ultra-high-purity oxalic acid is increasing.
 
 ### Conclusion
