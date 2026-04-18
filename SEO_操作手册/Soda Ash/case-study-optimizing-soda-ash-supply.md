@@ -3,7 +3,7 @@ Id: Wke0fXZv6z
 Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 title: "Case Study: Optimizing Soda Ash Supply for a Global Glass Group"
 description: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
-image: "/images/blog/soda-ash-case-study-glass.webp"
+image: "/images/blog/case-study-optimizing-soda-ash-supply.webp"
 imageAlt: "A modern glass manufacturing facility showing the automated batching system and the storage silos for Soda Ash"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
@@ -17,7 +17,7 @@ rootnotouch: case-study-optimizing-soda-ash-supply
 slug: case-study-optimizing-soda-ash-supply
 ---
 
-As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the glass industry, **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in the glass industry, **[Soda Ash](/en/blog/https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
 
 This case study explores how a leading multi-national glass manufacturer partnered with **Sinopeakchem** to transform its Soda Ash procurement from a transactional "spot-buying" model to a strategic, high-efficiency supply chain.
 
@@ -28,7 +28,7 @@ This case study explores how a leading multi-national glass manufacturer partner
 | **Price Volatility** | Spot Market (High) | Formula-Based (Stable) | **-15% Annual Cost** |
 | **Quality Consistency** | Multiple Suppliers (Variable) | Audited Top 10 (Stable) | **99.9% Batch Pass Rate** |
 | **Lead Time** | 45-60 Days | 30-40 Days | **-30% Lead Time** |
-| **Safety Stock** | 15 Days | 45 Days ([Sinosure](sinosure-trade-finance-security.md)-Backed) | **+200% Resilience** |
+| **Safety Stock** | 15 Days | 45 Days ([Sinosure](/en/blog/sinosure-trade-finance-security)-Backed) | **+200% Resilience** |
 | **Logistics Cost** | FOB (Buyer-Managed) | CIF (Sinopeakchem-Managed) | **-8% Freight Cost** |
 
 ---
@@ -37,7 +37,7 @@ This case study explores how a leading multi-national glass manufacturer partner
 
 The client, a global leader in float and container glass, was facing three primary challenges in their Soda Ash supply chain:
 1.  **Price Spikes**: Relying on the spot market meant they were highly exposed to the seasonal price fluctuations of the China market.
-2.  **PSD Inconsistency**: Variations in **[Particle Size Distribution](particle-size-distribution-psd.md) (PSD)** between different suppliers were causing "batch segregation" in their furnaces, leading to stones and bubbles in the final glass product.
+2.  **PSD Inconsistency**: Variations in **[Particle Size Distribution](/en/blog/particle-size-distribution-psd) (PSD)** between different suppliers were causing "batch segregation" in their furnaces, leading to stones and bubbles in the final glass product.
 3.  **Logistical Bottlenecks**: Frequent delays at the port and a lack of container availability were forcing them to run on dangerously low inventory levels.
 
 ---
@@ -61,7 +61,7 @@ We shifted the Incoterm from FOB to **CIF (Sinopeakchem-Managed)**. By leveragin
 
 Within 12 months of implementing the new strategy, the client achieved significant operational and financial gains:
 *   **Zero Production Downtime**: The 45-day safety stock and reliable shipping schedule ensured that their furnaces never ran out of material, even during the "Red Sea Crisis."
-*   **Improved Glass Quality**: The consistent PSD and ultra-low [iron content](impurity-analysis-fe-cl-so4.md) of the Soda Ash led to a measurable reduction in glass defects and a higher yield of premium "ultra-clear" glass.
+*   **Improved Glass Quality**: The consistent PSD and ultra-low [iron content](/en/blog/impurity-analysis-fe-cl-so4) of the Soda Ash led to a measurable reduction in glass defects and a higher yield of premium "ultra-clear" glass.
 *   **Financial Predictability**: The formula-based pricing allowed their finance team to accurately forecast their COGS (Cost of Goods Sold) for the entire year, improving their overall profitability.
 
 ---
@@ -112,14 +112,14 @@ Sinopeakchem — Delivering the results and reliability that your business deman
 
 ---
 
-Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md)**.
+Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**.
 
 ## References
 
 1.  **Society of Glass Technology (SGT).** "Optimizing Raw Material Batching for Float Glass Production." *SGT Technical Series*, 2023.
-2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/en/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
 3.  **Supply Chain Management Review.** "Case Studies in Global Chemical Procurement Excellence." *Peerless Media*, 2023.
-4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
+4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](/en/blog/https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
 5.  **IHS Markit.** "Chemical Economics Handbook: Soda Ash Markets and Pricing." *S&P Global*, 2023.
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
@@ -133,6 +133,6 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 
 ## Strategic Sourcing Resources
 
-*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
-*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
-*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.
+*   **[Ultimate Soda Ash Guide](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](/en/blog/top-10-china-soda-ash-manufacturers)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)**: Understanding physical properties for your application.

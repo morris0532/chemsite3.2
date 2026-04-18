@@ -3,7 +3,7 @@ Id: ntkhQZKoxv
 Excerpt: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in Soda Ash. Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
 title: "Particle Size Distribution (PSD) in Soda Ash: Why it Matters for Your Batch"
 description: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in Soda Ash. Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
-image: "/images/blog/soda-ash-psd-analysis.webp"
+image: "/images/blog/particle-size-distribution-psd.webp"
 imageAlt: "Microscopic view of Soda Ash Dense granules and a sieve analysis chart showing optimal particle size distribution"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
@@ -17,13 +17,13 @@ rootnotouch: particle-size-distribution-psd
 slug: particle-size-distribution-psd
 ---
 
-As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in industrial manufacturing, the chemical purity of a raw material is only half the story. For **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, the physical form—specifically its **Particle Size Distribution (PSD)**—is often the deciding factor in production efficiency, product quality, and operational safety. Whether you are melting glass at 1,500°C or formulating a rapid-dissolve detergent, the size and uniformity of the Soda Ash particles dictate how the material behaves in your process.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in industrial manufacturing, the chemical purity of a raw material is only half the story. For **[Soda Ash](/en/blog/https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, the physical form—specifically its **Particle Size Distribution (PSD)**—is often the deciding factor in production efficiency, product quality, and operational safety. Whether you are melting glass at 1,500°C or formulating a rapid-dissolve detergent, the size and uniformity of the Soda Ash particles dictate how the material behaves in your process.
 
-For procurement managers and process engineers, understanding PSD is essential for preventing "batch segregation," minimizing dust loss, and ensuring consistent reaction kinetics. This guide explores the technical significance of PSD, how to interpret sieve analysis data, and why sourcing from precision-focused [China manufacturers](top-10-china-soda-ash-manufacturers.md) is a strategic advantage.
+For procurement managers and process engineers, understanding PSD is essential for preventing "batch segregation," minimizing dust loss, and ensuring consistent reaction kinetics. This guide explores the technical significance of PSD, how to interpret sieve analysis data, and why sourcing from precision-focused [China manufacturers](/en/blog/top-10-china-soda-ash-manufacturers) is a strategic advantage.
 
 ## Core Specification: Typical Sieve Analysis (PSD)
 
-| Sieve Size (Mesh/μm) | [Soda Ash Dense](Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) (Granular) | Soda Ash Light (Powder) | Impact on Process |
+| Sieve Size (Mesh/μm) | [Soda Ash Dense](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry) (Granular) | Soda Ash Light (Powder) | Impact on Process |
 | :--- | :--- | :--- | :--- |
 | **> 1.0 mm (18 mesh)** | ≤ 5% | Trace | Large particles may slow down melting/dissolution. |
 | **0.18 - 1.0 mm** | **≥ 85% (Target)** | ≤ 15% | The "Sweet Spot" for glass batch stability. |
@@ -34,7 +34,7 @@ For procurement managers and process engineers, understanding PSD is essential f
 
 ## 1. The Glass Industry: Preventing Batch Segregation
 
-In [glass manufacturing](soda-ash-for-glass-manufacturing.md), the batch is a mixture of silica sand, Soda Ash, limestone, and other minerals. If the particle sizes of these components are significantly different, they will "segregate" during transport and charging into the furnace.
+In [glass manufacturing](/en/blog/soda-ash-for-glass-manufacturing), the batch is a mixture of silica sand, Soda Ash, limestone, and other minerals. If the particle sizes of these components are significantly different, they will "segregate" during transport and charging into the furnace.
 
 ### Why PSD Matching is Critical:
 *   **Homogeneity**: Soda Ash Dense is engineered to match the particle size of high-quality silica sand (typically 0.1mm to 0.6mm). When the sizes match, the batch remains a uniform mixture, ensuring that every square inch of the melt has the correct chemical composition.
@@ -45,7 +45,7 @@ In [glass manufacturing](soda-ash-for-glass-manufacturing.md), the batch is a mi
 
 ## 2. Detergents and Chemicals: Dissolution and Carrying Capacity
 
-For the detergent and [chemical synthesis](soda-ash-in-chemical-synthesis.md) industries, **Soda Ash Light** is the preferred form, and its PSD is optimized for surface area and solubility.
+For the detergent and [chemical synthesis](/en/blog/soda-ash-in-chemical-synthesis) industries, **Soda Ash Light** is the preferred form, and its PSD is optimized for surface area and solubility.
 
 ### The Role of "Fines" in Light Soda Ash:
 *   **Rapid Dissolution**: The fine powder form of Soda Ash Light provides a massive surface area-to-volume ratio. This allows it to dissolve almost instantly in water, which is critical for laundry detergents and rapid neutralization reactions in chemical plants.
@@ -110,14 +110,14 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 
 ---
 
-Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md)**.
+Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**.
 
 ## References
 
 1.  **Glass Manufacturing Industry Council (GMIC).** "Batch Segregation: Causes, Effects, and Prevention." *GMIC Technical Report*, 2023.
-2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/en/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
 3.  **International Organization for Standardization (ISO).** "ISO 2591-1: Test sieving — Part 1: Methods using test sieves of woven wire cloth and perforated metal plate." *ISO*, 1988.
-4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
+4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](/en/blog/https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
 5.  **Powder Technology Journal.** "The Impact of Particle Size Distribution on the Flowability of Sodium Carbonate." *Elsevier*, 2023.
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
@@ -127,12 +127,12 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 
 ---
 
-> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](case-study-optimizing-soda-ash-supply.md).
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](/en/blog/case-study-optimizing-soda-ash-supply).
 
 ---
 
 ## Strategic Sourcing Resources
 
-*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
-*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
-*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.
+*   **[Ultimate Soda Ash Guide](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](/en/blog/top-10-china-soda-ash-manufacturers)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)**: Understanding physical properties for your application.

@@ -17,7 +17,7 @@ rootnotouch: faq-soda-ash-procurement
 slug: faq-soda-ash-procurement
 ---
 
-As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the complex world of industrial chemical sourcing, clarity is the ultimate currency. For a procurement manager, asking the right questions is the difference between a seamless supply chain and a million-dollar operational failure. Whether you are sourcing **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** for a global glass furnace or a regional detergent plant, you need precise, data-driven answers to technical, logistical, and financial queries.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in the complex world of industrial chemical sourcing, clarity is the ultimate currency. For a procurement manager, asking the right questions is the difference between a seamless supply chain and a million-dollar operational failure. Whether you are sourcing **[Soda Ash](/en/blog/https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** for a global glass furnace or a regional detergent plant, you need precise, data-driven answers to technical, logistical, and financial queries.
 
 This guide compiles the **Top 20 Questions** we receive from international B2B buyers, providing expert insights into the China Soda Ash market and the best practices for global procurement.
 
@@ -25,7 +25,7 @@ This guide compiles the **Top 20 Questions** we receive from international B2B b
 
 | Category | Most Frequent Question | Expert Answer |
 | :--- | :--- | :--- |
-| **Technical** | What is the difference between Dense and Light? | [Bulk density](bulk-density-vs-apparent-density.md) (1.0 vs 0.5 g/cm³) and particle size. |
+| **Technical** | What is the difference between Dense and Light? | [Bulk density](/en/blog/bulk-density-vs-apparent-density) (1.0 vs 0.5 g/cm³) and particle size. |
 | **Quality** | What is the standard iron (Fe) limit? | ≤ 0.0035% (Industrial); ≤ 0.0020% (Glass Grade). |
 | **Logistics** | How much can fit in a 20'GP container? | ~27MT (Dense); ~21MT (Light). |
 | **Compliance** | Is Soda Ash REACH registered? | Yes, under EC Number 207-838-8. |
@@ -119,15 +119,15 @@ Sinopeakchem's technical team is ready to provide the precise answers you need f
 
 ---
 
-Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md)**.
+Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**.
 
 ## References
 
 1.  **IHS Markit.** "Chemical Economics Handbook: Soda Ash FAQ and Market Dynamics." *S&P Global*, 2023.
-2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/en/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
 3.  **International Chamber of Commerce (ICC).** "Incoterms® 2020: Rules for the Use of Domestic and International Trade Terms." *ICC Services*, 2020.
-4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
-5.  **China Export & Credit Insurance Corporation ([Sinosure](sinosure-trade-finance-security.md)).** "Annual Report on Global Trade Credit and Sourcing FAQ." *Sinosure*, 2024.
+4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](/en/blog/https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
+5.  **China Export & Credit Insurance Corporation ([Sinosure](/en/blog/sinosure-trade-finance-security)).** "Annual Report on Global Trade Credit and Sourcing FAQ." *Sinosure*, 2024.
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
 8.  **Sinopeakchem Technical Data.** "Procurement FAQ and Technical Support Framework." *Sinopeakchem Internal Report*, 2024.
@@ -140,6 +140,6 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 
 ## Strategic Sourcing Resources
 
-*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
-*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
-*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.
+*   **[Ultimate Soda Ash Guide](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](/en/blog/top-10-china-soda-ash-manufacturers)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)**: Understanding physical properties for your application.
