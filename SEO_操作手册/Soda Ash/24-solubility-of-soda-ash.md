@@ -17,7 +17,7 @@ rootnotouch: solubility-of-soda-ash
 slug: solubility-of-soda-ash
 ---
 
-In many industrial processes—from water treatment and detergent manufacturing to chemical synthesis—**Soda Ash (Sodium Carbonate, Na₂CO₃)** is utilized in an aqueous solution. Understanding the **Solubility** of Soda Ash is not just a matter of chemistry; it is a critical factor in process design, energy efficiency, and operational safety. How much Soda Ash can you dissolve in a given volume of water? How does temperature impact the saturation point? And how can you prevent the dreaded "caking" during the mixing process?
+In many industrial processes—from water treatment and detergent manufacturing to [chemical synthesis](15-soda-ash-in-chemical-synthesis.md)—**Soda Ash (Sodium Carbonate, Na₂CO₃)** is utilized in an aqueous solution. Understanding the **Solubility** of Soda Ash is not just a matter of chemistry; it is a critical factor in process design, energy efficiency, and operational safety. How much Soda Ash can you dissolve in a given volume of water? How does temperature impact the saturation point? And how can you prevent the dreaded "caking" during the mixing process?
 
 For process engineers and procurement managers, mastering these variables is essential for optimizing production throughput and minimizing waste. This guide explores the solubility curve of Soda Ash, the formation of hydrates, and professional mixing tips to ensure a consistent, high-quality solution every time.
 
@@ -73,7 +73,7 @@ To ensure rapid, lump-free dissolution, follow these industry best practices:
 
 China's leading Soda Ash manufacturers provide a product that is optimized for rapid and consistent dissolution.
 
-*   **Soda Ash Light for Rapid Dissolution**: For processes requiring instant solutions, **Soda Ash Light** from China is the preferred choice due to its high surface area and fine particle size.
+*   **[Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) for Rapid Dissolution**: For processes requiring instant solutions, **Soda Ash Light** from China is the preferred choice due to its high surface area and fine particle size.
 *   **High Purity (Na₂CO₃ ≥ 99.2%)**: Lower impurity levels (especially low insoluble matter) ensure that your solutions are clear and free from grit that could damage sensitive dosing equipment.
 *   **Logistics Protection**: To prevent the material from absorbing atmospheric moisture and "pre-caking" in the bag, China exporters utilize high-quality **PE-lined bags**, ensuring the material arrives free-flowing and ready for use.
 
@@ -135,10 +135,6 @@ Sinopeakchem — Delivering the chemical consistency that powers your production
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
-- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
-- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
-- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
-- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
-- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
-- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)
+
+---
+**Deep Dive**: [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md) | [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)

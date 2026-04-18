@@ -51,7 +51,7 @@ The 50kg bag remains the global standard for small-to-medium-sized factories and
 
 ## 2. 1000kg (1MT) Jumbo Bags: Efficiency and Automation
 
-For large-scale glass plants, detergent manufacturers, and municipal water treatment facilities, Jumbo bags (also known as FIBCs) are the preferred choice.
+For large-scale glass plants, detergent manufacturers, and municipal [water treatment](14-soda-ash-for-water-treatment.md) facilities, Jumbo bags (also known as FIBCs) are the preferred choice.
 
 ### Advantages:
 *   **Rapid Unloading**: A 20-ton container can be unloaded in under 30 minutes using a forklift, significantly reducing demurrage risks and labor costs.
@@ -138,13 +138,6 @@ Sinopeakchem — Delivering the protection and efficiency your supply chain dema
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md) | [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)

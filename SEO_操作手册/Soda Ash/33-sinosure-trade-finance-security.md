@@ -62,7 +62,7 @@ A high Sinosure rating is a "badge of honor" in the China market. Once you are r
 Beyond payment terms, Sinosure-backed contracts provide an extra layer of security for your million-dollar investment.
 
 *   **Dispute Resolution**: In the rare event of a quality or quantity dispute, Sinosure's involvement ensures that both parties follow international trade laws and arbitration procedures.
-*   **Supply Chain Resilience**: A supplier who is backed by Sinosure is, by definition, a financially stable and government-vetted company. This minimizes the risk of your supplier going bankrupt or failing to deliver after you have made a deposit.
+*   **[Supply Chain Resilience](40-building-resilient-soda-ash-supply-chain.md)**: A supplier who is backed by Sinosure is, by definition, a financially stable and government-vetted company. This minimizes the risk of your supplier going bankrupt or failing to deliver after you have made a deposit.
 *   **Bank Financing**: Many international banks are more willing to provide trade finance (such as L/C confirmation) to buyers who are already rated and insured by Sinosure.
 
 ---
@@ -118,7 +118,7 @@ Sinopeakchem — Delivering the trust and financial flexibility that your busine
 5.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
-8.  **Sinopeakchem Technical Data.** "Trade Finance and Credit Risk Management Framework." *Sinopeakchem Internal Report*, 2024.
+8.  **Sinopeakchem Technical Data.** "Trade Finance and Credit [Risk Management](34-risk-management-chemical-sourcing.md) Framework." *Sinopeakchem Internal Report*, 2024.
 9.  **Journal of International Trade Law and Policy.** "The Role of Export Credit Agencies in Global Commodity Trade." *Emerald Publishing*, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
@@ -131,13 +131,6 @@ Sinopeakchem — Delivering the trust and financial flexibility that your busine
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)

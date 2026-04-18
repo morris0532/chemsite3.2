@@ -17,7 +17,7 @@ rootnotouch: reach-iso-compliance-regulations
 slug: reach-iso-compliance-regulations
 ---
 
-In the highly regulated world of international chemical trade, **Compliance** is not just a legal requirement—it is a fundamental pillar of supply chain resilience and brand protection. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, navigating the complex landscape of global regulations, from Europe's **REACH** to international **ISO** standards, is essential for ensuring uninterrupted market access and maintaining the highest quality benchmarks.
+In the highly regulated world of international chemical trade, **Compliance** is not just a legal requirement—it is a fundamental pillar of [supply chain resilience](40-building-resilient-soda-ash-supply-chain.md) and brand protection. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, navigating the complex landscape of global regulations, from Europe's **REACH** to international **ISO** standards, is essential for ensuring uninterrupted market access and maintaining the highest quality benchmarks.
 
 For procurement managers and compliance officers, a supplier's regulatory standing is a primary indicator of their professionalism and long-term stability. This guide provides a technical overview of the critical regulations governing Soda Ash and offers strategic advice for auditing a supplier's compliance portfolio.
 
@@ -29,7 +29,7 @@ For procurement managers and compliance officers, a supplier's regulatory standi
 | **ISO 9001:2015** | Global | Quality Management System (QMS). | Ensures batch-to-batch consistency. |
 | **ISO 14001:2015** | Global | Environmental Management System. | Minimizes environmental & shutdown risks. |
 | **GHS / SDS** | Global | Safety Data Sheet (16 Sections). | Essential for safe handling & transport. |
-| **NSF/ANSI 60** | North America | Drinking Water Treatment Chemicals. | Required for municipal water sourcing. |
+| **NSF/ANSI 60** | North America | Drinking [Water Treatment](14-soda-ash-for-water-treatment.md) Chemicals. | Required for municipal water sourcing. |
 | **FCC / E500(i)** | Global | Food Grade Compliance. | Mandatory for food & beverage applications. |
 
 ---
@@ -133,13 +133,6 @@ Sinopeakchem — Delivering the compliance and transparency that your global bra
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)

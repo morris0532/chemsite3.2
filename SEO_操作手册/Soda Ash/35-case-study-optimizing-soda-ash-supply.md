@@ -4,7 +4,7 @@ Excerpt: "A real-world case study on how a multi-national glass manufacturer opt
 title: "Case Study: Optimizing Soda Ash Supply for a Global Glass Group"
 description: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 image: "/images/blog/soda-ash-case-study-glass.webp"
-imageAlt: "A modern glass manufacturing facility showing the automated batching system and the storage silos for Soda Ash"
+imageAlt: "A modern [glass manufacturing](10-soda-ash-for-glass-manufacturing.md) facility showing the automated batching system and the storage silos for Soda Ash"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
@@ -28,7 +28,7 @@ This case study explores how a leading multi-national glass manufacturer partner
 | **Price Volatility** | Spot Market (High) | Formula-Based (Stable) | **-15% Annual Cost** |
 | **Quality Consistency** | Multiple Suppliers (Variable) | Audited Top 10 (Stable) | **99.9% Batch Pass Rate** |
 | **Lead Time** | 45-60 Days | 30-40 Days | **-30% Lead Time** |
-| **Safety Stock** | 15 Days | 45 Days (Sinosure-Backed) | **+200% Resilience** |
+| **Safety Stock** | 15 Days | 45 Days ([Sinosure](33-sinosure-trade-finance-security.md)-Backed) | **+200% Resilience** |
 | **Logistics Cost** | FOB (Buyer-Managed) | CIF (Sinopeakchem-Managed) | **-8% Freight Cost** |
 
 ---
@@ -37,7 +37,7 @@ This case study explores how a leading multi-national glass manufacturer partner
 
 The client, a global leader in float and container glass, was facing three primary challenges in their Soda Ash supply chain:
 1.  **Price Spikes**: Relying on the spot market meant they were highly exposed to the seasonal price fluctuations of the China market.
-2.  **PSD Inconsistency**: Variations in **Particle Size Distribution (PSD)** between different suppliers were causing "batch segregation" in their furnaces, leading to stones and bubbles in the final glass product.
+2.  **PSD Inconsistency**: Variations in **[Particle Size Distribution](22-particle-size-distribution-psd.md) (PSD)** between different suppliers were causing "batch segregation" in their furnaces, leading to stones and bubbles in the final glass product.
 3.  **Logistical Bottlenecks**: Frequent delays at the port and a lack of container availability were forcing them to run on dangerously low inventory levels.
 
 ---
@@ -61,7 +61,7 @@ We shifted the Incoterm from FOB to **CIF (Sinopeakchem-Managed)**. By leveragin
 
 Within 12 months of implementing the new strategy, the client achieved significant operational and financial gains:
 *   **Zero Production Downtime**: The 45-day safety stock and reliable shipping schedule ensured that their furnaces never ran out of material, even during the "Red Sea Crisis."
-*   **Improved Glass Quality**: The consistent PSD and ultra-low iron content of the Soda Ash led to a measurable reduction in glass defects and a higher yield of premium "ultra-clear" glass.
+*   **Improved Glass Quality**: The consistent PSD and ultra-low [iron content](26-impurity-analysis-fe-cl-so4.md) of the Soda Ash led to a measurable reduction in glass defects and a higher yield of premium "ultra-clear" glass.
 *   **Financial Predictability**: The formula-based pricing allowed their finance team to accurately forecast their COGS (Cost of Goods Sold) for the entire year, improving their overall profitability.
 
 ---
@@ -130,13 +130,6 @@ Sinopeakchem — Delivering the results and reliability that your business deman
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)

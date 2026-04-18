@@ -8,7 +8,7 @@ imageAlt: "A professional inspector performing a Pre-Shipment Inspection (PSI) f
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: "Pre-Shipment Inspection, Soda Ash Quality Control, Chemical Inspection Procedures, Sodium Carbonate Testing, Bulk Chemical Shipment, Soda Ash Particle Size Distribution, Industrial Chemical Packaging, International Chemical Trade"
+tag: "Pre-Shipment Inspection, Soda Ash Quality Control, Chemical Inspection Procedures, Sodium Carbonate Testing, Bulk Chemical Shipment, Soda Ash [Particle Size Distribution](22-particle-size-distribution-psd.md), Industrial Chemical Packaging, International Chemical Trade"
 Primary_Keyword: "PSI for Soda Ash"
 Keywords: "PSI for Soda Ash, Pre-Shipment Inspection Chemicals, SGS Inspection Soda Ash, Chemical Quality Assurance, Soda Ash Loading Inspection"
 Schema_Type: TechArticle
@@ -26,7 +26,7 @@ Whether you are using a third-party agency like **SGS or Intertek** or performin
 | Inspection Category | Critical KPI | Why it Matters for B2B Buyers |
 | :--- | :--- | :--- |
 | **1. Quality (Chemical)** | Na₂CO₃ ≥ 99.2%; Fe ≤ 20 ppm. | Ensures process stability and product clarity. |
-| **2. Quality (Physical)** | PSD (Sieve Analysis) & Bulk Density. | Prevents batch segregation and logistics issues. |
+| **2. Quality (Physical)** | PSD (Sieve Analysis) & [Bulk Density](23-bulk-density-vs-apparent-density.md). | Prevents batch segregation and logistics issues. |
 | **3. Quantity** | Net Weight (Scale Calibration). | Protects against short-shipment and financial loss. |
 | **4. Packaging** | Liner Thickness (min. 100μm) & Sealing. | Prevents moisture ingress and caking. |
 | **5. Container QC** | Cleanliness, Odor, & Water-Tightness. | Ensures the material survives the 45-day sea voyage. |
@@ -89,7 +89,7 @@ China's leading Soda Ash exporters, like **Sinopeakchem**, welcome and encourage
 
 *   **Transparency**: We provide full access to our production lines and laboratories for third-party inspectors.
 *   **Pre-Audited Quality**: Our internal QC team performs a "Pre-PSI" to ensure that the material is 100% ready before the external inspector arrives.
-*   **Sinosure-Backed Security**: If a PSI fails, our Sinosure-backed financial structure protects your advance payment and ensures that the material is replaced or the contract is adjusted.
+*   **[Sinosure](33-sinosure-trade-finance-security.md)-Backed Security**: If a PSI fails, our Sinosure-backed financial structure protects your advance payment and ensures that the material is replaced or the contract is adjusted.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -149,10 +149,6 @@ Sinopeakchem — Delivering the transparency and precision that your global busi
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
-- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
-- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
-- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
-- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
-- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
-- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
+
+---
+**Deep Dive**: [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md) | [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [24-[solubility](24-solubility-of-soda-ash.md)

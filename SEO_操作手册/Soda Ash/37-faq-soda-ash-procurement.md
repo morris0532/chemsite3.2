@@ -8,7 +8,7 @@ imageAlt: "A professional procurement manager reviewing a list of technical and 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: "Soda Ash Procurement, Sodium Carbonate Supply Chain, Industrial Chemical Sourcing, Soda Ash Dense vs Light, China Soda Ash Market, Soda Ash Quality Standards, Soda Ash Logistics and Packaging, Soda Ash Payment Terms"
+tag: "Soda Ash Procurement, Sodium Carbonate Supply Chain, Industrial Chemical Sourcing, [Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) vs Light, China Soda Ash Market, Soda Ash Quality Standards, Soda Ash Logistics and Packaging, Soda Ash Payment Terms"
 Primary_Keyword: "Soda Ash FAQ"
 Keywords: "Soda Ash FAQ, Procurement Questions Soda Ash, Buying Soda Ash from China, Soda Ash Technical FAQ, Chemical Sourcing Answers"
 Schema_Type: TechArticle
@@ -25,7 +25,7 @@ This guide compiles the **Top 20 Questions** we receive from international B2B b
 
 | Category | Most Frequent Question | Expert Answer |
 | :--- | :--- | :--- |
-| **Technical** | What is the difference between Dense and Light? | Bulk density (1.0 vs 0.5 g/cm³) and particle size. |
+| **Technical** | What is the difference between Dense and Light? | [Bulk density](23-bulk-density-vs-apparent-density.md) (1.0 vs 0.5 g/cm³) and particle size. |
 | **Quality** | What is the standard iron (Fe) limit? | ≤ 0.0035% (Industrial); ≤ 0.0020% (Glass Grade). |
 | **Logistics** | How much can fit in a 20'GP container? | ~27MT (Dense); ~21MT (Light). |
 | **Compliance** | Is Soda Ash REACH registered? | Yes, under EC Number 207-838-8. |
@@ -121,7 +121,7 @@ Sinopeakchem's technical team is ready to provide the precise answers you need f
 2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
 3.  **International Chamber of Commerce (ICC).** "Incoterms® 2020: Rules for the Use of Domestic and International Trade Terms." *ICC Services*, 2020.
 4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
-5.  **China Export & Credit Insurance Corporation (Sinosure).** "Annual Report on Global Trade Credit and Sourcing FAQ." *Sinosure*, 2024.
+5.  **China Export & Credit Insurance Corporation ([Sinosure](33-sinosure-trade-finance-security.md)).** "Annual Report on Global Trade Credit and Sourcing FAQ." *Sinosure*, 2024.
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
 8.  **Sinopeakchem Technical Data.** "Procurement FAQ and Technical Support Framework." *Sinopeakchem Internal Report*, 2024.

@@ -23,7 +23,7 @@ For B2B buyers, density is not just a technical specification; it is a direct dr
 
 ## Core Specification: Density Comparison (Light vs. Dense)
 
-| Parameter | Soda Ash Light (Powder) | Soda Ash Dense (Granular) | Impact on Logistics |
+| Parameter | Soda Ash Light (Powder) | [Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) (Granular) | Impact on Logistics |
 | :--- | :--- | :--- | :--- |
 | **Bulk Density (g/ml)** | **0.50 - 0.70** | **0.90 - 1.20** | Determines silo volume and bag size. |
 | **Apparent Density (g/cm³)** | ~2.53 (True Density) | ~2.53 (True Density) | Used for calculating void space and porosity. |
@@ -76,7 +76,7 @@ China's leading Soda Ash manufacturers utilize advanced calcination and granulat
 
 *   **Batch-to-Batch Consistency**: For automated dosing systems, density fluctuations can lead to weighing errors. China exporters provide detailed **TDS (Technical Data Sheets)** that specify the exact density range, ensuring your process remains stable.
 *   **High-Density "Super Dense" Grades**: Some China facilities offer premium "Super Dense" grades (up to 1.20 g/ml) specifically for long-distance export, maximizing container weight and minimizing freight costs for global buyers.
-*   **Logistics Protection**: To prevent the material from "settling" or "compacting" too much during transit (which can make bags difficult to handle), we utilize high-quality **Jumbo bags** that maintain the material's physical integrity from the factory to your warehouse.
+*   **Logistics Protection**: To prevent the material from "settling" or "compacting" too much during transit (which can make bags difficult to handle), we utilize high-quality **[Jumbo bags](27-packaging-options-50kg-vs-1000kg.md)** that maintain the material's physical integrity from the factory to your warehouse.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -136,10 +136,6 @@ Sinopeakchem — Delivering the physical consistency that powers your supply cha
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
-- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
-- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
-- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
-- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
-- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
-- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)
+
+---
+**Deep Dive**: [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md) | [24-[solubility](24-solubility-of-soda-ash.md) | [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)

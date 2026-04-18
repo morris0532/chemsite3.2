@@ -10,7 +10,7 @@ author: Sinopeakchem Technical Team
 category: "Glossary"
 tag: "Soda Ash, Sodium Carbonate, Procurement Manager, Dense Soda Ash, Light Soda Ash, Solvay Process, Hou Process, Chemical Industry Glossary"
 Primary_Keyword: "Soda Ash Glossary"
-Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, Dense vs Light Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
+Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, [Dense vs Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 rootnotouch: glossary-soda-ash-essential-terms
@@ -32,7 +32,7 @@ This glossary provides a comprehensive A-Z of the essential terms and technical 
 | **Hou Process** | A combined production method (Soda Ash + Ammonium Chloride). | Offers lower chloride and higher resource efficiency. |
 | **Solvay Process** | The traditional ammonia-soda production method. | The most common global production technology. |
 | **Hygroscopic** | The tendency to absorb moisture from the air. | Leads to caking and requires moisture-proof bags. |
-| **PSD** | Particle Size Distribution. | Affects mixing uniformity and furnace stability. |
+| **PSD** | [Particle Size Distribution](22-particle-size-distribution-psd.md). | Affects mixing uniformity and furnace stability. |
 
 ---
 
@@ -150,10 +150,6 @@ Sinopeakchem — Delivering the clarity and expertise that your global business 
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
-- [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md)
-- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
-- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
-- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
-- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
-- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)
+
+---
+**Deep Dive**: [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md) | [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [24-[solubility](24-solubility-of-soda-ash.md)

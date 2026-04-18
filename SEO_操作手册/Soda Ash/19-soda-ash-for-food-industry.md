@@ -67,7 +67,7 @@ Sourcing chemicals for food use carries significant responsibility. Procurement 
 
 China is a leading global producer of food-grade chemicals, offering food manufacturers a reliable and high-quality supply chain.
 
-*   **Advanced Purification Technology**: Leading China manufacturers utilize state-of-the-art synthetic processes and multi-stage purification to produce Soda Ash that consistently exceeds international food-grade standards.
+*   **Advanced Purification Technology**: Leading [China manufacturers](30-top-10-china-soda-ash-manufacturers.md) utilize state-of-the-art synthetic processes and multi-stage purification to produce Soda Ash that consistently exceeds international food-grade standards.
 *   **Dedicated Food-Grade Facilities**: Many exporters operate dedicated food-grade production lines and warehouses to prevent cross-contamination with industrial chemicals.
 *   **Logistics and Packaging**: Proximity to **Tianjin and Lianyungang Ports** ensures efficient global shipping. Food-grade Soda Ash is typically packed in **25kg or 50kg PE-lined bags** or **Jumbo bags** with high-barrier liners to ensure product integrity during transit.
 
@@ -138,14 +138,6 @@ Sinopeakchem — Delivering the purity and compliance that global food brands tr
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash A Series: 2. Industrial Soda Ash Uses & Applications: A Global Sourcing Guide
-- [10-soda-ash-for-glass-manufacturing](10-soda-ash-for-glass-manufacturing.md)
-- [11-soda-ash-for-flat-float-glass](11-soda-ash-for-flat-float-glass.md)
-- [12-solar-glass-soda-ash](12-solar-glass-soda-ash.md)
-- [13-soda-ash-for-detergent-soap](13-soda-ash-for-detergent-soap.md)
-- [14-soda-ash-for-water-treatment](14-soda-ash-for-water-treatment.md)
-- [15-soda-ash-in-chemical-synthesis](15-soda-ash-in-chemical-synthesis.md)
-- [16-soda-ash-for-metallurgy](16-soda-ash-for-metallurgy.md)
-- [17-soda-ash-for-textile-dyeing](17-soda-ash-for-textile-dyeing.md)
-- [18-soda-ash-in-paper-pulp](18-soda-ash-in-paper-pulp.md)
-- [20-soda-ash-for-mining-flotation](20-soda-ash-for-mining-flotation.md)
+
+---
+**Deep Dive**: [10-soda-ash-for-glass-manufacturing](10-soda-ash-for-glass-manufacturing.md) | [11-soda-ash-for-flat-float-glass](11-soda-ash-for-flat-float-glass.md) | [12-solar-glass-soda-ash](12-solar-glass-soda-ash.md)

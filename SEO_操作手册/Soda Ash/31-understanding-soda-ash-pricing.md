@@ -29,7 +29,7 @@ Whether you are negotiating a spot deal or a long-term contract, this guide prov
 | **Energy (Coal/Natural Gas)** | 25% - 35% | Global energy market and carbon taxes. | High volatility in winter months. |
 | **Inland Logistics (Factory to Port)** | 5% - 10% | Fuel prices and rail/truck availability. | Proximity to Tianjin/Lianyungang is key. |
 | **Ocean Freight (Port to Port)** | 10% - 25% | Container availability and shipping routes. | Major factor in CIF price fluctuations. |
-| **Insurance & Finance (Sinosure)** | 1% - 3% | Credit rating and Sinosure premiums. | Protects advance payments and enables credit. |
+| **Insurance & Finance ([Sinosure](33-sinosure-trade-finance-security.md))** | 1% - 3% | Credit rating and Sinosure premiums. | Protects advance payments and enables credit. |
 
 ---
 
@@ -126,13 +126,6 @@ Sinopeakchem — Delivering the transparency and market intelligence that powers
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)

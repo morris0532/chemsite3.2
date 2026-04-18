@@ -8,7 +8,7 @@ imageAlt: "A procurement director analyzing a risk management dashboard showing 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: "Risk Management, Chemical Sourcing, Soda Ash, Price Volatility Hedging, Supply Chain Resilience, Energy Costs, Sodium Carbonate Procurement, Strategic Sourcing"
+tag: "Risk Management, Chemical Sourcing, Soda Ash, Price Volatility Hedging, [Supply Chain Resilience](40-building-resilient-soda-ash-supply-chain.md), Energy Costs, Sodium Carbonate Procurement, Strategic Sourcing"
 Primary_Keyword: "Chemical Sourcing Risk Management"
 Keywords: "Chemical Sourcing Risk Management, Soda Ash Supply Chain Resilience, Hedging Chemical Prices, Supply Chain Volatility, Strategic Sourcing Chemicals"
 Schema_Type: TechArticle
@@ -29,7 +29,7 @@ Managing risk in chemical sourcing requires a shift from "transactional" buying 
 | **2. Supply Disruption** | Factory maintenance shutdowns. | Production downtime. | Multi-supplier strategy (SOE + Private). |
 | **3. Logistical Risk** | Port congestion & container shortages. | Delayed lead times. | Strategic inventory (30-day safety stock). |
 | **4. Regulatory Risk** | Environmental shutdowns in China. | Sudden supply gaps. | Audit for ISO 14001 & ESG compliance. |
-| **5. Financial Risk** | Currency fluctuations (USD/CNY). | Increased landed cost. | Forward contracts & Sinosure credit. |
+| **5. Financial Risk** | Currency fluctuations (USD/CNY). | Increased landed cost. | Forward contracts & [Sinosure](33-sinosure-trade-finance-security.md) credit. |
 
 ---
 
@@ -137,13 +137,6 @@ Sinopeakchem — Delivering the intelligence and security that your global busin
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)

@@ -29,7 +29,7 @@ Understanding the difference between **Anhydrous Sodium Carbonate (Soda Ash)** a
 | **Water Content** | < 1% (Anhydrous) | ~63% (Water of Crystallization) |
 | **Active Na₂CO₃ Content** | ≥ 99.2% | ~37% |
 | **Physical Appearance** | White Powder or Granules | Large, Translucent Crystals |
-| **Bulk Density** | 0.5 - 1.2 g/cm³ | 0.8 - 1.0 g/cm³ |
+| **[Bulk Density](23-bulk-density-vs-apparent-density.md)** | 0.5 - 1.2 g/cm³ | 0.8 - 1.0 g/cm³ |
 | **Solubility** | High (Exothermic) | High (Endothermic) |
 | **Stability** | Highly Stable (Hygroscopic) | Efflorescent (Loses water in dry air) |
 | **Primary Use** | Glass, Chemicals, Industrial | Detergents, Household, Water Softening |
@@ -70,7 +70,7 @@ Washing Soda is the decahydrate form, meaning each molecule of sodium carbonate 
 
 1.  **Household Cleaning**: Widely used as a laundry booster to remove grease, oil, and wine stains.
 2.  **Water Softening**: Highly effective at removing "hardness" (calcium and magnesium ions) from water, preventing lime scale buildup.
-3.  **Detergent Formulation**: Used in the production of powdered and liquid detergents where the crystalline structure or specific solubility profile is desired.
+3.  **Detergent Formulation**: Used in the production of powdered and liquid detergents where the crystalline structure or specific [solubility](24-solubility-of-soda-ash.md) profile is desired.
 
 ---
 
@@ -97,7 +97,7 @@ Regardless of the form, ensure your supplier provides a **Certificate of Analysi
 
 Sourcing from China offers significant advantages in terms of scale, quality, and logistics:
 *   **Strategic Port Access**: Direct export from **Tianjin and Lianyungang** ensures competitive ocean freight and frequent vessel schedules.
-*   **Advanced Production**: Utilizing the Solvay or Hou process to ensure consistent purity and particle size distribution.
+*   **Advanced Production**: Utilizing the Solvay or Hou process to ensure consistent purity and [particle size distribution](22-particle-size-distribution-psd.md).
 *   **Compliance**: Reliable suppliers provide **REACH registration** and **ISO 9001:2015** certification, ensuring your imports meet global regulatory standards.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -145,7 +145,7 @@ Sinopeakchem — Delivering reliability, specification compliance, and logistics
 7.  **Royal Society of Chemistry (RSC).** "Sodium Carbonate Decahydrate." *ChemSpider*, 2024.
 8.  **ScienceDirect.** "Hydration and Dehydration of Sodium Carbonate." *Journal of Chemical Thermodynamics*, 2023.
 9.  **World Bank.** "Global Commodity Markets: Fertilizer and Chemical Trends." *World Bank Group*, 2024.
-10. **Sinopeakchem Technical Data.** "Soda Ash Light vs. Dense Specifications." *Sinopeakchem Internal Report*, 2024.
+10. **Sinopeakchem Technical Data.** "[Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) vs. Dense Specifications." *Sinopeakchem Internal Report*, 2024.
 
 
 ---
@@ -156,11 +156,6 @@ Sinopeakchem — Delivering reliability, specification compliance, and logistics
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash D Series: 1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual
-- [Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)
-- [Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md)
-- [Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage](7. Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage.md)
-- [8-soda-ash-vs-caustic-soda](8-soda-ash-vs-caustic-soda.md)
-- [21-solvay-vs-hou-process](21-solvay-vs-hou-process.md)
-- [39-future-of-soda-ash-green-ammonia](39-future-of-soda-ash-green-ammonia.md)
-- [41-global-soda-ash-market-outlook-2026-2030](41-global-soda-ash-market-outlook-2026-2030.md)
+
+---
+**Deep Dive**: [Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) | [Natural vs [Synthetic Soda Ash](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md) | [Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage](7. Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage.md)

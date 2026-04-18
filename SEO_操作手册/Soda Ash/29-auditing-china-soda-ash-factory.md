@@ -29,7 +29,7 @@ Whether you are conducting a physical site visit or a remote "desktop" audit, yo
 | **2. Production Capacity** | Annual Output vs. Export Allocation. | Guarantees supply stability during market shortages. |
 | **3. Compliance & ESG** | ISO 9001, ISO 14001, REACH, & Safety Permits. | Minimizes legal and environmental risk for your brand. |
 | **4. Logistics & Port Access** | Proximity to Tianjin/Lianyungang & Loading QC. | Reduces lead times and ensures packaging integrity. |
-| **5. Financial Stability** | Sinosure (中信保) Rating & Credit History. | Protects your advance payments and enables credit terms. |
+| **5. Financial Stability** | [Sinosure](33-sinosure-trade-finance-security.md) (中信保) Rating & Credit History. | Protects your advance payments and enables credit terms. |
 
 ---
 
@@ -141,13 +141,6 @@ Sinopeakchem — Delivering the transparency and reliability that global buyers 
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)

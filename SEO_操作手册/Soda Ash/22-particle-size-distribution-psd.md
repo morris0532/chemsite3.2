@@ -8,7 +8,7 @@ imageAlt: "Microscopic view of Soda Ash Dense granules and a sieve analysis char
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: "Soda Ash, Particle Size Distribution, Soda Ash PSD, Sodium Carbonate, Glass Manufacturing, Detergent Production, Soda Ash Particle Size, Industrial Chemicals"
+tag: "Soda Ash, Particle Size Distribution, Soda Ash PSD, Sodium Carbonate, Glass Manufacturing, [Detergent Production](13-soda-ash-for-detergent-soap.md), Soda Ash Particle Size, Industrial Chemicals"
 Primary_Keyword: "Soda Ash PSD"
 Keywords: "Soda Ash PSD, Particle Size Distribution, Soda Ash Sieve Analysis, Glass Batch Consistency, Dense Soda Ash PSD"
 Schema_Type: TechArticle
@@ -19,11 +19,11 @@ slug: particle-size-distribution-psd
 
 In industrial manufacturing, the chemical purity of a raw material is only half the story. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, the physical form—specifically its **Particle Size Distribution (PSD)**—is often the deciding factor in production efficiency, product quality, and operational safety. Whether you are melting glass at 1,500°C or formulating a rapid-dissolve detergent, the size and uniformity of the Soda Ash particles dictate how the material behaves in your process.
 
-For procurement managers and process engineers, understanding PSD is essential for preventing "batch segregation," minimizing dust loss, and ensuring consistent reaction kinetics. This guide explores the technical significance of PSD, how to interpret sieve analysis data, and why sourcing from precision-focused China manufacturers is a strategic advantage.
+For procurement managers and process engineers, understanding PSD is essential for preventing "batch segregation," minimizing dust loss, and ensuring consistent reaction kinetics. This guide explores the technical significance of PSD, how to interpret sieve analysis data, and why sourcing from precision-focused [China manufacturers](30-top-10-china-soda-ash-manufacturers.md) is a strategic advantage.
 
 ## Core Specification: Typical Sieve Analysis (PSD)
 
-| Sieve Size (Mesh/μm) | Soda Ash Dense (Granular) | Soda Ash Light (Powder) | Impact on Process |
+| Sieve Size (Mesh/μm) | [Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) (Granular) | Soda Ash Light (Powder) | Impact on Process |
 | :--- | :--- | :--- | :--- |
 | **> 1.0 mm (18 mesh)** | ≤ 5% | Trace | Large particles may slow down melting/dissolution. |
 | **0.18 - 1.0 mm** | **≥ 85% (Target)** | ≤ 15% | The "Sweet Spot" for glass batch stability. |
@@ -34,7 +34,7 @@ For procurement managers and process engineers, understanding PSD is essential f
 
 ## 1. The Glass Industry: Preventing Batch Segregation
 
-In glass manufacturing, the batch is a mixture of silica sand, Soda Ash, limestone, and other minerals. If the particle sizes of these components are significantly different, they will "segregate" during transport and charging into the furnace.
+In [glass manufacturing](10-soda-ash-for-glass-manufacturing.md), the batch is a mixture of silica sand, Soda Ash, limestone, and other minerals. If the particle sizes of these components are significantly different, they will "segregate" during transport and charging into the furnace.
 
 ### Why PSD Matching is Critical:
 *   **Homogeneity**: Soda Ash Dense is engineered to match the particle size of high-quality silica sand (typically 0.1mm to 0.6mm). When the sizes match, the batch remains a uniform mixture, ensuring that every square inch of the melt has the correct chemical composition.
@@ -45,7 +45,7 @@ In glass manufacturing, the batch is a mixture of silica sand, Soda Ash, limesto
 
 ## 2. Detergents and Chemicals: Dissolution and Carrying Capacity
 
-For the detergent and chemical synthesis industries, **Soda Ash Light** is the preferred form, and its PSD is optimized for surface area and solubility.
+For the detergent and [chemical synthesis](15-soda-ash-in-chemical-synthesis.md) industries, **Soda Ash Light** is the preferred form, and its PSD is optimized for surface area and solubility.
 
 ### The Role of "Fines" in Light Soda Ash:
 *   **Rapid Dissolution**: The fine powder form of Soda Ash Light provides a massive surface area-to-volume ratio. This allows it to dissolve almost instantly in water, which is critical for laundry detergents and rapid neutralization reactions in chemical plants.
@@ -130,10 +130,6 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-### Soda Ash B Series: 5. Soda Ash Specifications: How to Read a COA & TDS for Procurement
-- [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md)
-- [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md)
-- [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)
-- [26-impurity-analysis-fe-cl-so4](26-impurity-analysis-fe-cl-so4.md)
-- [36-glossary-soda-ash-essential-terms](36-glossary-soda-ash-essential-terms.md)
-- [38-pre-shipment-inspection-psi-checklist](38-pre-shipment-inspection-psi-checklist.md)
+
+---
+**Deep Dive**: [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md) | [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)

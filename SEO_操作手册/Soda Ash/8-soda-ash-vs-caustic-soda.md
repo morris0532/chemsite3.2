@@ -33,7 +33,7 @@ This comprehensive guide provides a detailed comparison of **Soda Ash vs. Causti
 | **Primary Forms** | Light Powder, Dense Granular | Flakes, Pearls, Liquid Solution |
 | **Heat of Dissolution** | Low heat generation | Highly exothermic (releases significant heat) |
 | **Production Method** | Solvay Process, Natural Trona | Chlor-Alkali Process (Electrolysis) |
-| **Typical Applications** | Glass, Detergents, Water Treatment | Alumina, Pulp & Paper, Saponification |
+| **Typical Applications** | Glass, Detergents, [Water Treatment](14-soda-ash-for-water-treatment.md) | Alumina, Pulp & Paper, Saponification |
 | **Safety Handling** | Standard PPE required | Stringent PPE, specialized storage |
 | **Main China Ports** | Tianjin, Lianyungang, Qingdao | Tianjin, Qingdao, Shanghai |
 
@@ -41,7 +41,7 @@ This comprehensive guide provides a detailed comparison of **Soda Ash vs. Causti
 
 ## Soda Ash (Na₂CO₃): The Versatile Milder Alkali
 
-Soda Ash, or sodium carbonate, is a white, odorless powder or granular salt. It is one of the most commonly used alkaline salts in the industry. It typically exists in two main forms: **Soda Ash Light** and **Soda Ash Dense**, differing primarily in bulk density and particle size. Its milder alkalinity makes it ideal for processes requiring precise or buffered pH adjustment.
+Soda Ash, or sodium carbonate, is a white, odorless powder or granular salt. It is one of the most commonly used alkaline salts in the industry. It typically exists in two main forms: **Soda Ash Light** and **[Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)**, differing primarily in bulk density and particle size. Its milder alkalinity makes it ideal for processes requiring precise or buffered pH adjustment.
 
 ### Key Characteristics and Chemical Properties:
 
@@ -50,12 +50,12 @@ Soda Ash, or sodium carbonate, is a white, odorless powder or granular salt. It 
 *   **Solubility**: Readily soluble in water with relatively low heat generation, enhancing operational safety.
 *   **Purity Standards**: Industrial grade typically requires **purity ≥ 99.2%** and **Iron (Fe) ≤ 0.003%** to meet high-end glass and detergent standards.
 *   **Grades**:
-    *   **Soda Ash Light**: Bulk density ~0.5-0.8 g/cm³. Fine particles, fast dissolution. Ideal for detergents and chemical synthesis.
+    *   **Soda Ash Light**: Bulk density ~0.5-0.8 g/cm³. Fine particles, fast dissolution. Ideal for detergents and [chemical synthesis](15-soda-ash-in-chemical-synthesis.md).
     *   **Soda Ash Dense**: Bulk density ~0.9-1.2 g/cm³. Larger granules, low dust, excellent flowability. The preferred choice for the glass industry.
 
 ### Primary Applications in Chemical Plants:
 
-1.  **Glass Manufacturing**: The core raw material for flat, container, and solar glass. It acts as a flux, lowering the melting point of silica.
+1.  **[Glass Manufacturing](10-soda-ash-for-glass-manufacturing.md)**: The core raw material for flat, container, and solar glass. It acts as a flux, lowering the melting point of silica.
 2.  **Detergent & Soap Production**: Acts as a builder and water softener, enhancing cleaning efficiency.
 3.  **Water Treatment**: Used for pH adjustment, water softening (precipitating calcium/magnesium), and as a flocculation aid.
 4.  **Chemical Synthesis**: Essential for producing sodium silicates, sodium phosphates, chromates, and various dyes and pigments.
@@ -71,7 +71,7 @@ Caustic Soda, or sodium hydroxide, is a strong, highly corrosive base. It is ava
 *   **Chemical Formula**: NaOH
 *   **Alkalinity**: A very strong base that reacts violently with almost all acids.
 *   **Corrosivity**: Highly corrosive to organic tissues and certain metals like aluminum and zinc.
-*   **Solubility**: Extremely soluble in water, releasing significant heat (exothermic dissolution).
+*   **[Solubility](24-solubility-of-soda-ash.md)**: Extremely soluble in water, releasing significant heat (exothermic dissolution).
 *   **Forms**:
     *   **Flakes/Pearls**: Solid forms, convenient for storage but require dissolution before use.
     *   **Liquid (Lye)**: Ready-to-use solution, eliminates dissolution steps but has higher transport costs per unit of NaOH.
@@ -175,11 +175,6 @@ Sinopeakchem — Your trusted partner for high-purity Soda Ash and Caustic Soda.
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash D Series: 1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual
-- [Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)
-- [Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md)
-- [Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage](7. Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage.md)
-- [9-soda-ash-vs-washing-soda](9-soda-ash-vs-washing-soda.md)
-- [21-solvay-vs-hou-process](21-solvay-vs-hou-process.md)
-- [39-future-of-soda-ash-green-ammonia](39-future-of-soda-ash-green-ammonia.md)
-- [41-global-soda-ash-market-outlook-2026-2030](41-global-soda-ash-market-outlook-2026-2030.md)
+
+---
+**Deep Dive**: [Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) | [Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md) | [Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage](7. Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage.md)

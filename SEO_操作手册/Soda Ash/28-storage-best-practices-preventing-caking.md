@@ -4,7 +4,7 @@ Excerpt: "A technical guide for warehouse managers and plant engineers on the op
 title: "Soda Ash Storage Best Practices: Preventing Caking & Moisture"
 description: "A technical guide for warehouse managers and plant engineers on the optimal storage of Soda Ash (Sodium Carbonate). Learn how to prevent caking, manage humidity, and ensure long-term product stability in industrial facilities."
 image: "/images/blog/soda-ash-storage-best-practices.webp"
-imageAlt: "A well-organized chemical warehouse showing Soda Ash Jumbo bags stored on pallets with proper ventilation and moisture control"
+imageAlt: "A well-organized chemical warehouse showing Soda Ash [Jumbo bags](27-packaging-options-50kg-vs-1000kg.md) stored on pallets with proper ventilation and moisture control"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Logistics"
@@ -140,13 +140,6 @@ Sinopeakchem — Delivering the quality and protection that your process demands
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-### Soda Ash C Series: 3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China
-- [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md)
-- [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md)
-- [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
-- [31-understanding-soda-ash-pricing](31-understanding-soda-ash-pricing.md)
-- [32-reach-iso-compliance-regulations](32-reach-iso-compliance-regulations.md)
-- [33-sinosure-trade-finance-security](33-sinosure-trade-finance-security.md)
-- [34-risk-management-chemical-sourcing](34-risk-management-chemical-sourcing.md)
-- [35-case-study-optimizing-soda-ash-supply](35-case-study-optimizing-soda-ash-supply.md)
-- [40-building-resilient-soda-ash-supply-chain](40-building-resilient-soda-ash-supply-chain.md)
+
+---
+**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md) | [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
