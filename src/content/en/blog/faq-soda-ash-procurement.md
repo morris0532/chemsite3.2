@@ -3,7 +3,7 @@ Id: 6OGHwAX5O8
 Excerpt: "A comprehensive FAQ guide for chemical buyers on Soda Ash (Sodium Carbonate). Get expert answers to the most common questions regarding specifications, logistics, pricing, and China sourcing."
 title: "Top 20 Questions from Soda Ash Procurement Managers"
 description: "A comprehensive FAQ guide for chemical buyers on Soda Ash (Sodium Carbonate). Get expert answers to the most common questions regarding specifications, logistics, pricing, and China sourcing."
-image: "/images/blog/soda-ash-procurement-faq.webp"
+image: "/images/blog/future-of-soda-ash-green-ammonia.webp"
 imageAlt: "A professional procurement manager reviewing a list of technical and logistical questions for a Soda Ash supplier"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
