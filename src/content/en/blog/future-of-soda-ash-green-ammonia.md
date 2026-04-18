@@ -5,7 +5,7 @@ title: "The Future of Soda Ash: Green Ammonia & Carbon Neutrality"
 description: "A strategic guide for sustainability officers and procurement managers on the future of Soda Ash (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
 image: "/images/blog/future-of-soda-ash-green-ammonia.webp"
 imageAlt: "A futuristic Soda Ash production facility in China, powered by renewable energy and utilizing green ammonia for carbon-neutral manufacturing"
-Date: 2026-04-10
+Date: '2026-04-10'
 author: Sinopeakchem Technical Team
 category: "Trends"
 tag: "Soda Ash, Green Ammonia, Carbon Neutrality, Carbon Capture and Storage, Sustainable Chemical Industry, Hou Process, Solvay Process, Decarbonization"
