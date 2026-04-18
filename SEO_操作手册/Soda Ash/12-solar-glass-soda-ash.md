@@ -1,6 +1,6 @@
 ---
 Id: zQ0AHZiIGw
-Excerpt: "A specialized guide for solar glass manufacturers on sourcing high-purity [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Explore the critical role of ultra-low iron content (Fe ≤ 0.002%) in maximizing photovoltaic efficiency and the strategic advantages of China's solar-grade supply chain."
+Excerpt: "A specialized guide for solar glass manufacturers on sourcing high-purity Soda Ash (Sodium Carbonate). Explore the critical role of ultra-low iron content (Fe ≤ 0.002%) in maximizing photovoltaic efficiency and the strategic advantages of China's solar-grade supply chain."
 title: "Solar Glass Soda Ash: Sourcing for the Photovoltaic Revolution"
 description: "A specialized guide for solar glass manufacturers on sourcing high-purity Soda Ash (Sodium Carbonate). Explore the critical role of ultra-low iron content (Fe ≤ 0.002%) in maximizing photovoltaic efficiency and the strategic advantages of China's solar-grade supply chain."
 image: "/images/blog/solar-glass-soda-ash.webp"
@@ -8,7 +8,7 @@ imageAlt: "Solar panel farm with high-transmittance glass, highlighting the impo
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "solar glass soda ash, solar grade soda ash, photovoltaic industry chemicals, soda ash for solar panels, high purity soda ash, solar [glass manufacturing](10-soda-ash-for-glass-manufacturing.md), pv module efficiency, soda ash sourcing china"
+tag: "solar glass soda ash, solar grade soda ash, photovoltaic industry chemicals, soda ash for solar panels, high purity soda ash, solar glass manufacturing, pv module efficiency, soda ash sourcing china"
 Primary_Keyword: "Solar Glass Soda Ash"
 Keywords: "Solar Glass Soda Ash, Photovoltaic Glass Chemicals, Ultra Clear Glass Sourcing, Low Iron Soda Ash, PV Industry Supply Chain"
 Schema_Type: TechArticle

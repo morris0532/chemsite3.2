@@ -1,6 +1,6 @@
 ---
 Id: oOKDIowDDD
-Excerpt: "A strategic guide for textile and dyeing procurement managers on sourcing [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Explore its critical role as a reactive dye fixative, pH adjuster, and scouring agent, and the benefits of bulk sourcing from China."
+Excerpt: "A strategic guide for textile and dyeing procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role as a reactive dye fixative, pH adjuster, and scouring agent, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Textile & Dyeing: Bulk Fixatives for Garment Factories"
 description: "A strategic guide for textile and dyeing procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role as a reactive dye fixative, pH adjuster, and scouring agent, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-textile-dyeing.webp"

@@ -1,13 +1,13 @@
 ---
 Id: r5CdoQbULn
-Excerpt: "A strategic guide for procurement managers on the pricing dynamics of [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
+Excerpt: "A strategic guide for procurement managers on the pricing dynamics of Soda Ash (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
 title: "Understanding Soda Ash Pricing: FOB, CIF, and Market Trends"
 description: "A strategic guide for procurement managers on the pricing dynamics of Soda Ash (Sodium Carbonate). Learn about the factors influencing FOB and CIF prices, Incoterms, and the key market trends to watch for in 2024-2026."
 image: "/images/blog/soda-ash-pricing-trends.webp"
 imageAlt: "A financial chart showing the price fluctuations of Soda Ash in the China market, with indicators for energy costs and ocean freight"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
-category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
+category: "Soda Ash Sourcing & Procurement: How to Buy Bulk from China"
 tag: "Soda Ash Pricing, FOB vs CIF, Sodium Carbonate Market, Chemical Industry Trends, Soda Ash Procurement, Logistics and Freight Costs, Energy Impact on Chemicals, China Soda Ash Exports"
 Primary_Keyword: "Soda Ash Pricing"
 Keywords: "Soda Ash Pricing, FOB Soda Ash China, CIF Soda Ash Price, Soda Ash Market Trends, Chemical Price Volatility"

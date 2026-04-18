@@ -1,13 +1,13 @@
 ---
 Id: GVmsUSepg9
-Excerpt: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
+Excerpt: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for Soda Ash (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
 title: "REACH & ISO Compliance: Navigating Regulations for Soda Ash"
 description: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for Soda Ash (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
 image: "/images/blog/soda-ash-reach-iso-compliance.webp"
 imageAlt: "A professional compliance officer reviewing REACH registration documents and ISO certificates for a Soda Ash export shipment"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
-category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
+category: "Soda Ash Sourcing & Procurement: How to Buy Bulk from China"
 tag: "Soda Ash Compliance, REACH Registration, ISO 9001 Quality Management, ISO 14001 Environmental Standards, Sodium Carbonate Regulations, Chemical Industry Standards, Soda Ash Procurement, Global Chemical Trade Compliance"
 Primary_Keyword: "REACH Registration Soda Ash"
 Keywords: "REACH Registration Soda Ash, ISO 9001 Chemical Supplier, Chemical Regulatory Compliance, Soda Ash SDS GHS, EU REACH Soda Ash"

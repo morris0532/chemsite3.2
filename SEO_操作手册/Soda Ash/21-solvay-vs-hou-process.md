@@ -1,6 +1,6 @@
 ---
 Id: MhwqcXy9Af
-Excerpt: "A technical comparison of the two dominant synthetic methods for [The Ultimate [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
+Excerpt: "A technical comparison of the two dominant synthetic methods for The Ultimate [Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 title: "Solvay vs. Hou Process: Which Soda Ash is Better for You?"
 description: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 image: "/images/blog/solvay-vs-hou-process.webp"
@@ -10,7 +10,7 @@ author: Sinopeakchem Technical Team
 category: "Technical"
 tag: "Soda Ash Production, Solvay Process, Hou Process, Sodium Carbonate, Chemical Manufacturing, Industrial Chemicals, Soda Ash Purity, Environmental Impact Soda Ash"
 Primary_Keyword: "Solvay vs Hou Process"
-Keywords: "Solvay vs Hou Process, Soda Ash Production Technology, Hou Process Advantages, China Soda Ash Technology, [Synthetic Soda Ash](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md) Sourcing"
+Keywords: "Solvay vs Hou Process, Soda Ash Production Technology, Hou Process Advantages, China Soda Ash Technology, Synthetic Soda Ash Sourcing"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 rootnotouch: solvay-vs-hou-process

@@ -1,13 +1,13 @@
 ---
 Id: HAylakQL6E
-Excerpt: "A strategic guide for CFOs and procurement managers on the role of Sinosure (China Export & Credit Insurance Corporation) in [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) trade. Learn how to leverage credit insurance for better payment terms and supply chain security."
+Excerpt: "A strategic guide for CFOs and procurement managers on the role of Sinosure (China Export & Credit Insurance Corporation) in Soda Ash (Sodium Carbonate) trade. Learn how to leverage credit insurance for better payment terms and supply chain security."
 title: "Sinosure & Trade Finance: Securing Your Soda Ash Investment"
 description: "A strategic guide for CFOs and procurement managers on the role of Sinosure (China Export & Credit Insurance Corporation) in Soda Ash (Sodium Carbonate) trade. Learn how to leverage credit insurance for better payment terms and supply chain security."
 image: "/images/blog/sinosure-trade-finance-security.webp"
 imageAlt: "A financial professional reviewing a Sinosure credit insurance policy for a large-scale Soda Ash export contract from China"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
-category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
+category: "Soda Ash Sourcing & Procurement: How to Buy Bulk from China"
 tag: "Sinosure, Trade Finance, Soda Ash, Sodium Carbonate, Export Credit Insurance, Payment Terms, Financial Security, Soda Ash Procurement"
 Primary_Keyword: "Sinosure Chemical Trade"
 Keywords: "Sinosure Chemical Trade, Trade Finance Soda Ash, Payment Terms for Chemicals, OA 90 Days Soda Ash, China Export Credit Insurance"

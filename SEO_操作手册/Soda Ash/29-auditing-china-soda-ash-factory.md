@@ -1,13 +1,13 @@
 ---
 Id: xNylJerIzM
-Excerpt: "A strategic guide for procurement managers on auditing [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) manufacturers in China. Learn the critical KPIs for quality control, environmental compliance, and supply chain reliability to ensure a successful long-term partnership."
+Excerpt: "A strategic guide for procurement managers on auditing Soda Ash (Sodium Carbonate) manufacturers in China. Learn the critical KPIs for quality control, environmental compliance, and supply chain reliability to ensure a successful long-term partnership."
 title: "Auditing a China Soda Ash Factory: A Buyer’s Checklist"
 description: "A strategic guide for procurement managers on auditing Soda Ash (Sodium Carbonate) manufacturers in China. Learn the critical KPIs for quality control, environmental compliance, and supply chain reliability to ensure a successful long-term partnership."
 image: "/images/blog/auditing-china-soda-ash-factory.webp"
 imageAlt: "A professional auditor inspecting a modern Soda Ash production facility in China, focusing on quality control and safety standards"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
-category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
+category: "Soda Ash Sourcing & Procurement: How to Buy Bulk from China"
 tag: "Soda Ash Factory Audit, China Soda Ash Supplier, Sodium Carbonate Quality Control, Chemical Industry Compliance, Soda Ash Procurement Checklist, Factory Audit KPIs, Environmental Safety ESG China, Soda Ash Production Capacity"
 Primary_Keyword: "Auditing China Soda Ash Factory"
 Keywords: "Auditing China Soda Ash Factory, Chemical Supplier Checklist, Factory Audit China, Soda Ash Quality Control, Supplier Vetting Chemicals"

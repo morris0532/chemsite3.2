@@ -1,6 +1,6 @@
 ---
 Id: yZtO6EoUag
-Excerpt: "A strategic sourcing guide for glass manufacturers on [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) procurement. Learn about the critical role of [Soda Ash Dense](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md), purity requirements (Fe ≤ 0.003%), and how to audit China suppliers for flat, container, and solar glass production."
+Excerpt: "A strategic sourcing guide for glass manufacturers on Soda Ash (Sodium Carbonate) procurement. Learn about the critical role of Soda Ash Dense, purity requirements (Fe ≤ 0.003%), and how to audit China suppliers for flat, container, and solar glass production."
 title: "Soda Ash for Glass Manufacturing: High-Purity Sourcing from China"
 description: "A strategic sourcing guide for glass manufacturers on Soda Ash (Sodium Carbonate) procurement. Learn about the critical role of Soda Ash Dense, purity requirements (Fe ≤ 0.003%), and how to audit China suppliers for flat, container, and solar glass production."
 image: "/images/blog/soda-ash-for-glass-manufacturing.webp"

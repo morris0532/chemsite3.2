@@ -1,6 +1,6 @@
 ---
 Id: RcLmZwXkNM
-Excerpt: "A deep dive into the critical role of [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) in the production of flat and float glass for the construction and automotive industries. Learn about technical specifications, batch consistency, and strategic sourcing from China's leading manufacturers."
+Excerpt: "A deep dive into the critical role of Soda Ash (Sodium Carbonate) in the production of flat and float glass for the construction and automotive industries. Learn about technical specifications, batch consistency, and strategic sourcing from China's leading manufacturers."
 title: "Soda Ash for Flat & Float Glass: Meeting Global Construction Demand"
 description: "A deep dive into the critical role of Soda Ash (Sodium Carbonate) in the production of flat and float glass for the construction and automotive industries. Learn about technical specifications, batch consistency, and strategic sourcing from China's leading manufacturers."
 image: "/images/blog/soda-ash-for-flat-float-glass.webp"
@@ -8,7 +8,7 @@ imageAlt: "Modern float glass production line showing a continuous ribbon of gla
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "Soda Ash, Float Glass, Flat [Glass Manufacturing](10-soda-ash-for-glass-manufacturing.md), Soda Ash Dense, Glass Production Chemicals, Construction Glass Materials, Soda Ash Suppliers China, Sodium Carbonate for Glass"
+tag: "Soda Ash, Float Glass, Flat Glass Manufacturing, Soda Ash Dense, Glass Production Chemicals, Construction Glass Materials, Soda Ash Suppliers China, Sodium Carbonate for Glass"
 Primary_Keyword: "Soda Ash for Flat Glass"
 Keywords: "Soda Ash for Flat Glass, Float Glass Manufacturing, Construction Glass Chemicals, Bulk Soda Ash Dense, China Float Glass Supply"
 Schema_Type: TechArticle

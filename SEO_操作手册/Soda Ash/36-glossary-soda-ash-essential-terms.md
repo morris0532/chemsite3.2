@@ -1,6 +1,6 @@
 ---
 Id: BjhonakhYd
-Excerpt: "A comprehensive glossary of the essential terms and technical definitions for [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn the A-Z of chemical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md), production processes, and trade terminology for global procurement."
+Excerpt: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical Soda Ash Specifications: How to Read a COA & TDS for Procurement, production processes, and trade terminology for global procurement."
 title: "The A-Z of Soda Ash: Essential Terms for Procurement Managers"
 description: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical specifications, production processes, and trade terminology for global procurement."
 image: "/images/blog/soda-ash-glossary-terms.webp"
@@ -10,7 +10,7 @@ author: Sinopeakchem Technical Team
 category: "Glossary"
 tag: "Soda Ash, Sodium Carbonate, Procurement Manager, Dense Soda Ash, Light Soda Ash, Solvay Process, Hou Process, Chemical Industry Glossary"
 Primary_Keyword: "Soda Ash Glossary"
-Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, [Dense vs Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
+Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, Dense vs Light Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 rootnotouch: glossary-soda-ash-essential-terms

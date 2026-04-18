@@ -1,13 +1,13 @@
 ---
 Id: Wke0fXZv6z
-Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
+Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 title: "Case Study: Optimizing Soda Ash Supply for a Global Glass Group"
 description: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 image: "/images/blog/soda-ash-case-study-glass.webp"
-imageAlt: "A modern [glass manufacturing](10-soda-ash-for-glass-manufacturing.md) facility showing the automated batching system and the storage silos for Soda Ash"
+imageAlt: "A modern glass manufacturing facility showing the automated batching system and the storage silos for Soda Ash"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
-category: "[Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md)"
+category: "Soda Ash Sourcing & Procurement: How to Buy Bulk from China"
 tag: "Soda Ash Supply Chain, Glass Industry Raw Materials, Soda Ash Quality Optimization, Soda Ash Pricing Strategy, Chemical Supply Chain Management, Sinopeakchem Case Study, Soda Ash Procurement, Glass Manufacturing Efficiency"
 Primary_Keyword: "Soda Ash Case Study"
 Keywords: "Soda Ash Case Study, Optimizing Chemical Supply, Glass Industry Sourcing, Soda Ash Procurement Success, B2B Chemical Case Study"

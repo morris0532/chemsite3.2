@@ -1,6 +1,6 @@
 ---
 Id: W0lYRiQOs5
-Excerpt: "A technical guide for process engineers on the solubility characteristics of [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
+Excerpt: "A technical guide for process engineers on the solubility characteristics of Soda Ash (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
 title: "Solubility of Soda Ash: Temperature, Concentration & Mixing Tips"
 description: "A technical guide for process engineers on the solubility characteristics of Soda Ash (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
 image: "/images/blog/soda-ash-solubility-mixing.webp"

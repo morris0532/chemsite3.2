@@ -1,14 +1,14 @@
 ---
 Id: OgdYaBob1g
-Excerpt: "A strategic guide for procurement directors on managing risks in the [Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) supply chain. Learn how to hedge against price volatility, energy costs, and logistical disruptions in the global chemical market."
-title: "Risk Management in Chemical [Soda Ash Sourcing & Procurement: How to Buy Bulk from China](3. Soda Ash Sourcing & Procurement: How to Buy Bulk from China.md): Hedging Against Volatility"
+Excerpt: "A strategic guide for procurement directors on managing risks in the Soda Ash (Sodium Carbonate) supply chain. Learn how to hedge against price volatility, energy costs, and logistical disruptions in the global chemical market."
+title: "Risk Management in Chemical Soda Ash Sourcing & Procurement: How to Buy Bulk from China: Hedging Against Volatility"
 description: "A strategic guide for procurement directors on managing risks in the Soda Ash (Sodium Carbonate) supply chain. Learn how to hedge against price volatility, energy costs, and logistical disruptions in the global chemical market."
 image: "/images/blog/soda-ash-risk-management.webp"
 imageAlt: "A procurement director analyzing a risk management dashboard showing Soda Ash price trends, energy costs, and shipping route stability"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: "Risk Management, Chemical Sourcing, Soda Ash, Price Volatility Hedging, [Supply Chain Resilience](40-building-resilient-soda-ash-supply-chain.md), Energy Costs, Sodium Carbonate Procurement, Strategic Sourcing"
+tag: "Risk Management, Chemical Sourcing, Soda Ash, Price Volatility Hedging, Supply Chain Resilience, Energy Costs, Sodium Carbonate Procurement, Strategic Sourcing"
 Primary_Keyword: "Chemical Sourcing Risk Management"
 Keywords: "Chemical Sourcing Risk Management, Soda Ash Supply Chain Resilience, Hedging Chemical Prices, Supply Chain Volatility, Strategic Sourcing Chemicals"
 Schema_Type: TechArticle
