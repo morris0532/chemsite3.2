@@ -3,7 +3,7 @@ Id: OgdYaBob1g
 Excerpt: "A strategic guide for procurement directors on managing risks in the Soda Ash (Sodium Carbonate) supply chain. Learn how to hedge against price volatility, energy costs, and logistical disruptions in the global chemical market."
 title: "Risk Management in Chemical Soda Ash Sourcing & Procurement: How to Buy Bulk from China: Hedging Against Volatility"
 description: "A strategic guide for procurement directors on managing risks in the Soda Ash (Sodium Carbonate) supply chain. Learn how to hedge against price volatility, energy costs, and logistical disruptions in the global chemical market."
-image: "/images/blog/soda-ash-risk-management.webp"
+image: "/images/blog/risk-management-chemical-sourcing.webp"
 imageAlt: "A procurement director analyzing a risk management dashboard showing Soda Ash price trends, energy costs, and shipping route stability"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team

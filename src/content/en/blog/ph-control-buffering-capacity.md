@@ -3,7 +3,7 @@ Id: eFuFrIZPmP
 Excerpt: "A technical guide for process engineers on using Soda Ash (Sodium Carbonate) for pH regulation. Explore the chemical principles of buffering capacity, alkalinity, and pKa values in water treatment and chemical synthesis."
 title: "pH Control with Soda Ash: Buffering Capacity & Alkalinity"
 description: "A technical guide for process engineers on using Soda Ash (Sodium Carbonate) for pH regulation. Explore the chemical principles of buffering capacity, alkalinity, and pKa values in water treatment and chemical synthesis."
-image: "/images/blog/soda-ash-ph-control.webp"
+image: "/images/blog/ph-control-buffering-capacity.webp"
 imageAlt: "Industrial pH monitoring system showing the stable buffering effect of Soda Ash in a large-scale water treatment facility"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team

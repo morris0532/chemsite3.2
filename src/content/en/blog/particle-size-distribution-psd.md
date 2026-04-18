@@ -3,7 +3,7 @@ Id: ntkhQZKoxv
 Excerpt: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in Soda Ash. Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
 title: "Particle Size Distribution (PSD) in Soda Ash: Why it Matters for Your Batch"
 description: "A technical guide for chemical engineers and procurement managers on the critical role of Particle Size Distribution (PSD) in Soda Ash. Learn how PSD affects batch homogeneity, melting efficiency in glass, and dissolution rates in detergents."
-image: "/images/blog/soda-ash-psd-analysis.webp"
+image: "/images/blog/particle-size-distribution-psd.webp"
 imageAlt: "Microscopic view of Soda Ash Dense granules and a sieve analysis chart showing optimal particle size distribution"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team

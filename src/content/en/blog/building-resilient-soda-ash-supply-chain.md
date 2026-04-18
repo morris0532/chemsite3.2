@@ -3,7 +3,7 @@ Id: h4wxGJtzF6
 Excerpt: "A strategic summary for procurement directors on building a resilient and cost-effective Soda Ash (Sodium Carbonate) supply chain. Learn the key takeaways from our 40-part series on global chemical Soda Ash Sourcing & Procurement: How to Buy Bulk from China."
 title: "Building a Resilient Soda Ash Supply Chain: Final Thoughts"
 description: "A strategic summary for procurement directors on building a resilient and cost-effective Soda Ash (Sodium Carbonate) supply chain. Learn the key takeaways from our 40-part series on global chemical sourcing."
-image: "/images/blog/resilient-soda-ash-supply-chain.webp"
+image: "/images/blog/sinopeak-soda-ash-supply-solutions.webp"
 imageAlt: "A professional procurement director reviewing a comprehensive supply chain map for Soda Ash, highlighting key sourcing hubs and logistics routes"
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
