@@ -125,6 +125,3 @@ Sinopeakchem — Delivering high-purity Soda Ash Dense to power the global const
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-
----
-**Deep Dive**: [10-soda-ash-for-glass-manufacturing](10-soda-ash-for-glass-manufacturing.md) | [12-solar-glass-soda-ash](12-solar-glass-soda-ash.md) | [13-soda-ash-for-detergent-soap](13-soda-ash-for-detergent-soap.md)

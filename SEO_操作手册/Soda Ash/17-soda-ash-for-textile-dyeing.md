@@ -135,6 +135,3 @@ Sinopeakchem — Delivering the reliability and purity that global garment brand
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-
----
-**Deep Dive**: [10-soda-ash-for-glass-manufacturing](10-soda-ash-for-glass-manufacturing.md) | [11-soda-ash-for-flat-float-glass](11-soda-ash-for-flat-float-glass.md) | [12-solar-glass-soda-ash](12-solar-glass-soda-ash.md)

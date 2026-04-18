@@ -138,6 +138,3 @@ Sinopeakchem — Delivering the protection and efficiency your supply chain dema
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-
----
-**Deep Dive**: [28-storage-best-practices-preventing-caking](28-storage-best-practices-preventing-caking.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md) | [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)

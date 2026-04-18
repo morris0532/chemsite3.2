@@ -135,6 +135,3 @@ Sinopeakchem — Delivering the chemical consistency that powers your production
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-
----
-**Deep Dive**: [22-particle-size-distribution-psd](22-particle-size-distribution-psd.md) | [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)

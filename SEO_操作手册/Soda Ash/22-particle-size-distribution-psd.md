@@ -130,6 +130,3 @@ Sinopeakchem — Delivering the physical consistency your process demands.
 
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).
-
----
-**Deep Dive**: [23-bulk-density-vs-apparent-density](23-bulk-density-vs-apparent-density.md) | [24-solubility-of-soda-ash](24-solubility-of-soda-ash.md) | [25-ph-control-buffering-capacity](25-ph-control-buffering-capacity.md)

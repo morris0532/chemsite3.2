@@ -175,6 +175,3 @@ Sinopeakchem — Your trusted partner for high-purity Soda Ash and Caustic Soda.
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-
----
-**Deep Dive**: [Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) | [Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability](6. Natural vs Synthetic Soda Ash: Carbon Footprint & Sustainability.md) | [Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage](7. Soda Ash vs Baking Soda: Industrial Differences & Bulk Usage.md)

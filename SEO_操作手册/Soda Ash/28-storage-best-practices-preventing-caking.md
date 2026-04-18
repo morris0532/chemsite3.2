@@ -140,6 +140,3 @@ Sinopeakchem — Delivering the quality and protection that your process demands
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
 
 
-
----
-**Deep Dive**: [27-packaging-options-50kg-vs-1000kg](27-packaging-options-50kg-vs-1000kg.md) | [29-auditing-china-soda-ash-factory](29-auditing-china-soda-ash-factory.md) | [30-top-10-china-soda-ash-manufacturers](30-top-10-china-soda-ash-manufacturers.md)
