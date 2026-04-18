@@ -3,7 +3,7 @@ Id: TLtU6LO2xh
 Excerpt: "A strategic guide for sustainability officers and procurement managers on the future of The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
 title: "The Future of Soda Ash: Green Ammonia & Carbon Neutrality"
 description: "A strategic guide for sustainability officers and procurement managers on the future of Soda Ash (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
-image: /images/blog/caustic-soda-biofuel-production.webp
+image: /images/blog/future-of-soda-ash-green-ammonia.webp
 imageAlt: "A futuristic Soda Ash production facility in China, powered by renewable energy and utilizing green ammonia for carbon-neutral manufacturing"
 Date: '2026-04-10'
 author: Sinopeakchem Technical Team
