@@ -7,7 +7,7 @@ description: >-
   A detailed comparison of caustic soda (NaOH) and soda ash (Na₂CO₃),
   highlighting their chemical differences, applications, and helping industrial
   buyers choose the right alkali for their processes.
-image: public/images/blog/future-of-soda-ash-green-ammonia.webp
+image: /images/blog/caustic-soda-vs-soda-ash.webp
 imageAlt: >-
   Comparative illustration of caustic soda and soda ash with chemical structures
   and industrial applications
