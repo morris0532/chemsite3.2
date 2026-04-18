@@ -156,5 +156,5 @@ Sinopeakchem — Your trusted caustic soda partner.
 6.  **Environmental Protection Agency (EPA).** "Development Document for Effluent Limitations Guidelines and New Source Performance Standards for the Pulp, Paper, and Paperboard Point Source Category." *EPA*, 2001.
 7.  **Singh, R.P.** "The Bleaching of Pulp." *TAPPI Press*, 1979.
 8.  **Hubbe, M.A., et al.** "The 'Charge' of Paper: A Review of the Role of Surface Charge in Papermaking, Part 1. The Fiber, the Fines, and the Filler." *BioResources*, Vol. 3, No. 3, 2008, pp. 752-823.
-9.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-10. **World Wide Fund for Nature (WWF).** "Pulp and Paper Industry." *WWF*, 2023. [https://www.worldwildlife.org/industries/pulp-and-paper](https://www.worldwildlife.org/industries/pulp-and-paper)
+9.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
+10. **World Wide Fund for Nature (WWF).** "Pulp and Paper Industry." *WWF*, 2023. [https://www.worldwildlife.org/industries/pulp-and-paper](/en/blog/https://www.worldwildlife.org/industries/pulp-and-paper)

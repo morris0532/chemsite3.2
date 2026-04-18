@@ -34,7 +34,7 @@ Oxalic acid (C₂H₂O₄) is a powerful organic acid widely recognized for its 
 
 The effectiveness of oxalic acid in cleaning and descaling stems primarily from two key chemical properties:
 
-1.  **Chelating Agent**: Oxalic acid is a strong chelating agent, meaning it can form stable, soluble complexes with metal ions, particularly iron (Fe) and calcium (Ca). When it encounters rust (iron oxides) or limescale (calcium carbonate), it binds to these metal ions, effectively dissolving the deposits and allowing them to be rinsed away. This is why it's so effective as a rust remover (as discussed in [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
+1.  **Chelating Agent**: Oxalic acid is a strong chelating agent, meaning it can form stable, soluble complexes with metal ions, particularly iron (Fe) and calcium (Ca). When it encounters rust (iron oxides) or limescale (calcium carbonate), it binds to these metal ions, effectively dissolving the deposits and allowing them to be rinsed away. This is why it's so effective as a rust remover (as discussed in [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
 2.  **Acidic Properties**: As an acid, it can dissolve alkaline deposits and break down organic matter. Its relatively mild nature compared to stronger mineral acids makes it safer for certain surfaces while still being highly effective.
 
 ### Household Cleaning Applications
@@ -46,7 +46,7 @@ Oxalic acid is a secret weapon for many tough household cleaning challenges:
     -   **Bathtubs and Showers**: Tackles rust marks left by hard water or metal objects.
     -   **Concrete and Driveways**: Lifts rust stains caused by metal furniture or fertilizer.
     -   **Fabrics**: Can be used as a laundry additive to remove rust spots from clothes (use with caution and test on an inconspicuous area first).
--   **Wood Bleaching and Restoration**: As highlighted in [Oxalic Acid for Wood Bleaching & Cleaning](oxalic-acid-wood-bleaching), it's excellent for removing dark water stains, graying, and tannin stains from wood, restoring its natural color.
+-   **Wood Bleaching and Restoration**: As highlighted in [Oxalic Acid for Wood Bleaching & Cleaning](/en/blog/oxalic-acid-wood-bleaching), it's excellent for removing dark water stains, graying, and tannin stains from wood, restoring its natural color.
 -   **Boat Hull Cleaning**: Effective for removing yellowing and waterline stains from fiberglass boat hulls, often caused by iron in the water.
 -   **Mineral Deposit Removal**: Can help dissolve hard water stains and calcium deposits on various surfaces.
 
@@ -54,15 +54,15 @@ Oxalic acid is a secret weapon for many tough household cleaning challenges:
 
 In industrial settings, oxalic acid's descaling capabilities are crucial for maintaining equipment efficiency and longevity:
 
--   **Heat Exchanger and Boiler Descaling**: Limescale and rust buildup in heat exchangers, boilers, and cooling towers significantly reduce their efficiency and can lead to costly breakdowns. Oxalic acid solutions are used to dissolve these deposits, restoring optimal heat transfer and flow (also relevant to [Oxalic Acid for Water Treatment](oxalic-acid-water-treatment)).
+-   **Heat Exchanger and Boiler Descaling**: Limescale and rust buildup in heat exchangers, boilers, and cooling towers significantly reduce their efficiency and can lead to costly breakdowns. Oxalic acid solutions are used to dissolve these deposits, restoring optimal heat transfer and flow (also relevant to [Oxalic Acid for Water Treatment](/en/blog/oxalic-acid-water-treatment)).
 -   **Radiator Cleaning**: Used to flush out rust and scale from automotive and industrial radiators.
 -   **Metal Cleaning and Polishing**: In metal fabrication, oxalic acid can be used to clean and brighten various metals, including stainless steel, aluminum, and brass, often as a pre-treatment before further processing.
 -   **Industrial Laundry**: Utilized in commercial laundries to remove rust stains from textiles and improve overall fabric brightness.
--   **Rare Earth Processing Equipment**: In the specialized field of rare earth extraction, equipment can accumulate mineral deposits. Oxalic acid, being central to the process (see [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)), is also used for cleaning and maintaining the processing machinery.
+-   **Rare Earth Processing Equipment**: In the specialized field of rare earth extraction, equipment can accumulate mineral deposits. Oxalic acid, being central to the process (see [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)), is also used for cleaning and maintaining the processing machinery.
 
 ### Application Guidelines and Safety
 
-Regardless of the application, proper use and safety precautions are paramount when working with oxalic acid (refer to [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
+Regardless of the application, proper use and safety precautions are paramount when working with oxalic acid (refer to [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
 
 -   **Dilution**: Always start with a dilute solution and increase concentration if necessary. Typical household use might involve 1-2 tablespoons per liter of water, while industrial applications may use higher concentrations.
 -   **Application**: Apply the solution to the affected area, allow it to sit for a period (e.g., 15-30 minutes), then scrub and rinse thoroughly. For stubborn stains, repeat the process.
@@ -87,7 +87,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -49,7 +49,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/contact) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -38,7 +38,7 @@ In the modern industrial landscape and daily life, countless chemical substances
 
 ## Chapter 1: Oxalic Acid - Physicochemical Properties, Diverse Applications, and Key Roles
 
-Oxalic Acid, chemically known as ethanedioic acid, is a significant organic acid existing as a colorless, transparent crystalline solid, highly soluble in water [1]. Its prominent physicochemical properties include strong acidity [1], the ability to form soluble or stable complexes (chelation) with various metal ions [1], and reducing properties. These characteristics make it indispensable across numerous industrial sectors. As a leading supplier of high-purity oxalic acid, **Sinopeakchem** ensures quality and reliability for all industrial needs. For more information on our products, please visit our [Oxalic Acid product page](https://www.sinopeakchem.com/en/products/oxalic-acid).
+Oxalic Acid, chemically known as ethanedioic acid, is a significant organic acid existing as a colorless, transparent crystalline solid, highly soluble in water [1]. Its prominent physicochemical properties include strong acidity [1], the ability to form soluble or stable complexes (chelation) with various metal ions [1], and reducing properties. These characteristics make it indispensable across numerous industrial sectors. As a leading supplier of high-purity oxalic acid, **Sinopeakchem** ensures quality and reliability for all industrial needs. For more information on our products, please visit our [Oxalic Acid product page](/en/blog/https://www.sinopeakchem.com/en/products/oxalic-acid).
 
 ### Physicochemical Properties of Oxalic Acid
 
@@ -308,7 +308,7 @@ In essence, oxalic acid's enduring value lies in its fundamental chemical proper
 
 **Sinopeakchem** is a trusted global supplier of premium quality Oxalic Acid, offering various grades to meet your specific requirements. With our commitment to quality, safety, and sustainable practices, we ensure reliable supply and technical support for your business. 
 
-[**Contact us today for a quote!**](https://www.sinopeakchem.com/en/contact) | [**Explore our Oxalic Acid products**](https://www.sinopeakchem.com/en/products/oxalic-acid)
+[**Contact us today for a quote!**](/en/blog/https://www.sinopeakchem.com/en/contact) | [**Explore our Oxalic Acid products**](/en/blog/https://www.sinopeakchem.com/en/products/oxalic-acid)
 
 ---
 
@@ -320,13 +320,13 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## References
 
-[1] Fortune Business Insights. (n.d.). *Oxalic Acid Market Size, Share, Industry Analysis, By Application (Pharmaceuticals, Agrochemicals, Dyes & Inks, Cleaning Agents, Others), By End-Use Industry (Textile, Chemical, Others), Regional Outlook, and Global Forecast 2023-2030*. Retrieved from [https://www.fortunebusinessinsights.com/oxalic-acid-market-112388](https://www.fortunebusinessinsights.com/oxalic-acid-market-112388)
-[2] Fortune Business Insights. (n.d.). *草酸市场规模、份额、行业分析，2034 年*. Retrieved from [https://www.fortunebusinessinsights.com/zh/oxalic-acid-market-112388](https://www.fortunebusinessinsights.com/zh/oxalic-acid-market-112388)
-[3] 环境工程. (2019). *采用草酸和EDTA去除农田土壤中砷和镉污染*. Retrieved from [http://hjgc.ic-mag.com/html/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905014.html](http://hjgc.ic-mag.com/html/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905014.html)
-[4] 观研报告网. (n.d.). *我国草酸行业现状分析：市场规模庞大 精制草酸带来额外需求增量*. Retrieved from [https://www.chinabaogao.com/detail/713636.html](https://www.chinabaogao.com/detail/713636.html)
+[1] Fortune Business Insights. (n.d.). *Oxalic Acid Market Size, Share, Industry Analysis, By Application (Pharmaceuticals, Agrochemicals, Dyes & Inks, Cleaning Agents, Others), By End-Use Industry (Textile, Chemical, Others), Regional Outlook, and Global Forecast 2023-2030*. Retrieved from [https://www.fortunebusinessinsights.com/oxalic-acid-market-112388](/en/blog/https://www.fortunebusinessinsights.com/oxalic-acid-market-112388)
+[2] Fortune Business Insights. (n.d.). *草酸市场规模、份额、行业分析，2034 年*. Retrieved from [https://www.fortunebusinessinsights.com/zh/oxalic-acid-market-112388](/en/blog/https://www.fortunebusinessinsights.com/zh/oxalic-acid-market-112388)
+[3] 环境工程. (2019). *采用草酸和EDTA去除农田土壤中砷和镉污染*. Retrieved from [http://hjgc.ic-mag.com/html/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905014.html](/en/blog/http://hjgc.ic-mag.com/html/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B201905014.html)
+[4] 观研报告网. (n.d.). *我国草酸行业现状分析：市场规模庞大 精制草酸带来额外需求增量*. Retrieved from [https://www.chinabaogao.com/detail/713636.html](/en/blog/https://www.chinabaogao.com/detail/713636.html)

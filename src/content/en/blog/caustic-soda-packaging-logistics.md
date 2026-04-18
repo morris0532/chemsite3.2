@@ -211,11 +211,11 @@ Sinopeakchem — Your trusted caustic soda partner.
 
 1.  **International Maritime Organization (IMO).** "International Maritime Dangerous Goods (IMDG) Code." *IMO*, 2022.
 2.  **International Air Transport Association (IATA).** "Dangerous Goods Regulations (DGR)." *IATA*, 2023.
-3.  **U.S. Department of Transportation (DOT).** "Hazardous Materials Regulations (49 CFR Parts 171-180)." *PHMSA*, 2023. [https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr](https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr)
-4.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928](https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928)
-5.  **Global Harmonized System (GHS).** "A Guide to The Globally Harmonized System of Classification and Labelling of Chemicals (GHS)." *OSHA*, 2023. [https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf](https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf)
-6.  **International Chamber of Commerce (ICC).** "Incoterms® 2020." *ICC*, 2020. [https://iccwbo.org/resources-for-business/incoterms-rules/](https://iccwbo.org/resources-for-business/incoterms-rules/)
+3.  **U.S. Department of Transportation (DOT).** "Hazardous Materials Regulations (49 CFR Parts 171-180)." *PHMSA*, 2023. [https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr](/en/blog/https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr)
+4.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928)
+5.  **Global Harmonized System (GHS).** "A Guide to The Globally Harmonized System of Classification and Labelling of Chemicals (GHS)." *OSHA*, 2023. [https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf](/en/blog/https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf)
+6.  **International Chamber of Commerce (ICC).** "Incoterms® 2020." *ICC*, 2020. [https://iccwbo.org/resources-for-business/incoterms-rules/](/en/blog/https://iccwbo.org/resources-for-business/incoterms-rules/)
 7.  **World Customs Organization (WCO).** "Harmonized System (HS) Nomenclature." *WCO*, 2022.
-8.  **United Nations Economic Commission for Europe (UNECE).** "Recommendations on the Transport of Dangerous Goods." *UNECE*, 2023. [https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations](https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations)
+8.  **United Nations Economic Commission for Europe (UNECE).** "Recommendations on the Transport of Dangerous Goods." *UNECE*, 2023. [https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations](/en/blog/https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations)
 9.  **International Plant Protection Convention (IPPC).** "ISPM 15: Regulation of wood packaging material in international trade." *FAO*, 2019.
 10. **Chemical Distribution Institute (CDI).** "CDI-Marine Inspection Programme." *CDI*, 2023.

@@ -55,7 +55,7 @@ While traditional silver halide photography has largely been replaced by digital
 
 #### 3. Stain Removal and Cleaning
 
--   **Darkroom Cleanup**: Oxalic acid is an excellent rust remover (as discussed in [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)). In a darkroom setting, it can be used to clean rust stains from stainless steel sinks, trays, and other equipment, ensuring a pristine environment for chemical processes.
+-   **Darkroom Cleanup**: Oxalic acid is an excellent rust remover (as discussed in [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)). In a darkroom setting, it can be used to clean rust stains from stainless steel sinks, trays, and other equipment, ensuring a pristine environment for chemical processes.
 -   **Paper Bleaching**: For restoring old photographic papers or documents, a very dilute solution of oxalic acid can sometimes be used as a mild bleaching agent to remove stains, though extreme caution is required to avoid damaging the paper fibers.
 
 ### Chemical Function and Safety Considerations
@@ -64,7 +64,7 @@ While traditional silver halide photography has largely been replaced by digital
 -   **Chelating Agent**: It forms stable complexes with metal ions, which can be beneficial in preventing unwanted reactions or in removing metallic impurities from solutions or surfaces.
 -   **Acidic Properties**: As a strong organic acid, it can adjust pH in solutions, influencing chemical reactions and solubility.
 
-**Safety is paramount** when working with oxalic acid in any context, including photography. It is corrosive and toxic if ingested or absorbed through the skin. Proper personal protective equipment (PPE) such as gloves and eye protection is essential. Adequate ventilation is also crucial, especially when preparing solutions or working in a darkroom environment (refer to [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
+**Safety is paramount** when working with oxalic acid in any context, including photography. It is corrosive and toxic if ingested or absorbed through the skin. Proper personal protective equipment (PPE) such as gloves and eye protection is essential. Adequate ventilation is also crucial, especially when preparing solutions or working in a darkroom environment (refer to [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
 
 ### Conclusion
 
@@ -82,7 +82,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

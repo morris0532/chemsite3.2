@@ -166,11 +166,11 @@ Sinopeakchem — Your trusted caustic soda partner.
 
 ## References
 
-1.  **Euro Chlor.** "The Chlor-Alkali Industry." *Euro Chlor*, 2023. [https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/](https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/)
-2.  **American Chemical Society (ACS).** "Sodium Carbonate." *ACS*, 2023. [https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html](https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html)
+1.  **Euro Chlor.** "The Chlor-Alkali Industry." *Euro Chlor*, 2023. [https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/](/en/blog/https://www.eurochlor.org/chlorine-industry/the-chlor-alkali-industry/)
+2.  **American Chemical Society (ACS).** "Sodium Carbonate." *ACS*, 2023. [https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html](/en/blog/https://www.acs.org/content/acs/en/molecule-of-the-week/archive/s/sodium-carbonate.html)
 3.  **U.S. Environmental Protection Agency (EPA).** "Sodium Hydroxide Fact Sheet." *Chemical Safety Data Sheets*, 2023.
-4.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+4.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/en/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Hydroxide." *Wiley-VCH*, 2005.
 8.  **Water Quality Association (WQA).** "Water Softening with Soda Ash." *WQA*, 2023.

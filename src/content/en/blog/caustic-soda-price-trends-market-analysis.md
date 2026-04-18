@@ -210,12 +210,12 @@ Sinopeakchem — Your trusted caustic soda partner.
 ## References
 
 1.  **IHS Markit.** "Caustic Soda Market Report." *IHS Markit Chemical*, 2024.
-2.  **Grand View Research.** "Caustic Soda Market Size, Share & Trends Analysis Report." *Grand View Research*, 2023. [https://www.grandviewresearch.com/industry-analysis/caustic-soda-market](https://www.grandviewresearch.com/industry-analysis/caustic-soda-market)
+2.  **Grand View Research.** "Caustic Soda Market Size, Share & Trends Analysis Report." *Grand View Research*, 2023. [https://www.grandviewresearch.com/industry-analysis/caustic-soda-market](/en/blog/https://www.grandviewresearch.com/industry-analysis/caustic-soda-market)
 3.  **Statista.** "Global Caustic Soda Market Revenue." *Statista*, 2024.
-4.  **U.S. Energy Information Administration (EIA).** "Electricity Price Trends." *EIA*, 2024. [https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
-5.  **World Bank.** "Global Economic Prospects." *World Bank Group*, 2024. [https://www.worldbank.org/en/publication/global-economic-prospects](https://www.worldbank.org/en/publication/global-economic-prospects)
+4.  **U.S. Energy Information Administration (EIA).** "Electricity Price Trends." *EIA*, 2024. [https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a](/en/blog/https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+5.  **World Bank.** "Global Economic Prospects." *World Bank Group*, 2024. [https://www.worldbank.org/en/publication/global-economic-prospects](/en/blog/https://www.worldbank.org/en/publication/global-economic-prospects)
 6.  **Alumina Industry Association.** "Global Alumina Production Statistics." *Alumina Association*, 2024.
 7.  **Pulp and Paper Industry Association.** "Global Pulp & Paper Market Outlook." *Pulp and Paper Association*, 2024.
 8.  **Chemical Week.** "Chlor-Alkali Market Update." *Chemical Week*, various issues 2023-2024.
 9.  **Drewry Shipping Consultants.** "Container Shipping Market Annual Review and Forecast." *Drewry*, 2024.
-10. **International Monetary Fund (IMF).** "World Economic Outlook." *IMF*, 2024. [https://www.imf.org/en/Publications/WEO](https://www.imf.org/en/Publications/WEO)
+10. **International Monetary Fund (IMF).** "World Economic Outlook." *IMF*, 2024. [https://www.imf.org/en/Publications/WEO](/en/blog/https://www.imf.org/en/Publications/WEO)

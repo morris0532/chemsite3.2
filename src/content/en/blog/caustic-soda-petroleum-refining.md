@@ -159,10 +159,10 @@ Sinopeakchem — Your trusted caustic soda partner.
 1.  **Speight, J.G.** "Handbook of Petroleum Processing." *CRC Press*, 2006.
 2.  **Gary, J.H., et al.** "Petroleum Refining: Technology and Economics." *CRC Press*, 2007.
 3.  **Hydrocarbon Processing.** "Caustic Treatment in Refineries." various issues.
-4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 5.  **American Petroleum Institute (API).** "API Recommended Practice 752: Management of Hazards Associated with Location of Process Plant Buildings." *API*, 2009.
 6.  **U.S. Environmental Protection Agency (EPA).** "Control Techniques for Sulfur Dioxide Emissions from Stationary Sources." *EPA*, 1998.
 7.  **Chemical Engineering Progress.** "Advances in Desulfurization Technologies." various issues.
-8.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+8.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
 9.  **Elsevier.** "Petroleum Refining Technology and Economics." *Elsevier Science*, 2019.
 10. **World Health Organization (WHO).** "Air Quality Guidelines: Global Update 2005." *WHO*, 2006.

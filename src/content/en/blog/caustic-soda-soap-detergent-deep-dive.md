@@ -118,9 +118,9 @@ Sinopeakchem — Your trusted caustic soda partner.
 1.  **Warra, A.A.** "Saponification Value and Iodine Value of Some Selected Seed Oils." *American Journal of Analytical Chemistry*, Vol. 3, No. 10, 2012, pp. 770-773.
 2.  **Cutler, W.G., & Kissa, E.** "Detergency: Theory and Test Methods." *Marcel Dekker*, 1987.
 3.  **Jones, F.N., et al.** "Organic Chemistry." *W. W. Norton & Company*, 2014.
-4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-5.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
-6.  **American Cleaning Institute (ACI).** "Soaps & Detergents: The Basics." *ACI*, 2023. [https://www.cleaninginstitute.org/industry-priorities/science/soaps-detergents-basics](https://www.cleaninginstitute.org/industry-priorities/science/soaps-detergents-basics)
+4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
+5.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+6.  **American Cleaning Institute (ACI).** "Soaps & Detergents: The Basics." *ACI*, 2023. [https://www.cleaninginstitute.org/industry-priorities/science/soaps-detergents-basics](/en/blog/https://www.cleaninginstitute.org/industry-priorities/science/soaps-detergents-basics)
 7.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Soaps." *John Wiley & Sons*, 2004.
 8.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Detergents." *Wiley-VCH*, 2000.
 9.  **Food and Drug Administration (FDA).** "Guidance for Industry: Cosmetic Good Manufacturing Practice (GMP) Guidelines." *FDA*, 2013.

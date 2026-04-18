@@ -35,19 +35,19 @@ Exporting oxalic acid to the European market is a strategic move for chemical su
 
 REACH is a European Union regulation that aims to improve the protection of human health and the environment from the risks that can be posed by chemicals. It applies to all chemical substances manufactured or imported into the EU in quantities of one tonne or more per year. For oxalic acid, key aspects of REACH compliance include:
 
-*   **Registration**: All substances, including oxalic acid, must be registered with the European Chemicals Agency (ECHA) if they are manufactured or imported in quantities above one tonne per year. This involves submitting a comprehensive dossier containing information on the substance's properties, uses, and safe handling [1] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
+*   **Registration**: All substances, including oxalic acid, must be registered with the European Chemicals Agency (ECHA) if they are manufactured or imported in quantities above one tonne per year. This involves submitting a comprehensive dossier containing information on the substance's properties, uses, and safe handling [1] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
 *   **Safety Data Sheets (SDS)**: A compliant SDS, in the correct language for each destination country, must accompany all shipments. This document provides critical information on the chemical's hazards, safe use, and emergency procedures.
 *   **Authorization and Restriction**: While oxalic acid is not currently on the Authorization List (Annex XIV) or the Candidate List of Substances of Very High Concern (SVHC), it is crucial to stay updated on any potential changes to its regulatory status. Restrictions (Annex XVII) may apply to certain uses.
-*   **Classification, Labelling and Packaging (CLP)**: Oxalic acid must be classified, labelled, and packaged according to the CLP Regulation, which aligns with the Globally Harmonized System (GHS) [2] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+*   **Classification, Labelling and Packaging (CLP)**: Oxalic acid must be classified, labelled, and packaged according to the CLP Regulation, which aligns with the Globally Harmonized System (GHS) [2] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 
 ### SinoPeakChem's Commitment to European Standards
 
 SinoPeakChem prioritizes compliance and quality in all its exports, especially to the discerning European market. Our commitment includes:
 
-1.  **High Purity Standards**: We supply oxalic acid with a minimum purity of 99.6%, meeting the stringent quality requirements of European industries. Our products are consistently tested and certified [3] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
+1.  **High Purity Standards**: We supply oxalic acid with a minimum purity of 99.6%, meeting the stringent quality requirements of European industries. Our products are consistently tested and certified [3] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
 2.  **REACH-Ready Documentation**: We provide comprehensive documentation, including up-to-date SDS in multiple European languages, Certificates of Analysis (CoA), and other necessary technical data to facilitate smooth customs clearance and regulatory checks.
-3.  **Sustainable Practices**: We understand Europe's emphasis on environmental protection. Our production processes are designed to minimize environmental impact, and we can provide information on oxalic acid's biodegradability where relevant [4] (see also [Oxalic Acid's Environmental Impact](oxalic-acid-environmental-impact)).
-4.  **Robust Logistics**: Our experienced logistics team manages the complexities of shipping to major European ports like Hamburg (Germany), Rotterdam (Netherlands), Marseille (France), and Valencia (Spain), ensuring efficient and compliant delivery [5] (see also [Global Oxalic Acid Market Analysis](oxalic-acid-market-analysis)).
+3.  **Sustainable Practices**: We understand Europe's emphasis on environmental protection. Our production processes are designed to minimize environmental impact, and we can provide information on oxalic acid's biodegradability where relevant [4] (see also [Oxalic Acid's Environmental Impact](/en/blog/oxalic-acid-environmental-impact)).
+4.  **Robust Logistics**: Our experienced logistics team manages the complexities of shipping to major European ports like Hamburg (Germany), Rotterdam (Netherlands), Marseille (France), and Valencia (Spain), ensuring efficient and compliant delivery [5] (see also [Global Oxalic Acid Market Analysis](/en/blog/oxalic-acid-market-analysis)).
 
 ### Key European Markets for Oxalic Acid
 
@@ -72,7 +72,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

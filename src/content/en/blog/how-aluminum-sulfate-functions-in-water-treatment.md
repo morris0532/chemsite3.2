@@ -22,13 +22,13 @@ slug: how-aluminum-sulfate-functions-in-water-treatment
 ---
  
 
-**[Aluminum sulfate](https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, with the chemical formula Al₂(SO₄)₃ and a molecular weight of 342.15, is a widely recognized inorganic compound appearing as a white crystalline solid. As a critical chemical agent, its primary function in water treatment involves generating colloidal particles through hydrolysis reactions. These particles effectively adsorb and precipitate suspended solids, colloids, and various dissolved impurities, leading to comprehensive water purification. Its applications are diverse, spanning drinking water treatment, industrial wastewater management, the preparation of rosin sizing agents in the papermaking industry, and petroleum decolorization.
+**[Aluminum sulfate](/en/blog/https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, with the chemical formula Al₂(SO₄)₃ and a molecular weight of 342.15, is a widely recognized inorganic compound appearing as a white crystalline solid. As a critical chemical agent, its primary function in water treatment involves generating colloidal particles through hydrolysis reactions. These particles effectively adsorb and precipitate suspended solids, colloids, and various dissolved impurities, leading to comprehensive water purification. Its applications are diverse, spanning drinking water treatment, industrial wastewater management, the preparation of rosin sizing agents in the papermaking industry, and petroleum decolorization.
 
 ## Technical Principles and Core Functions
 
 Upon dissolving in water, aluminum sulfate releases aluminum ions (Al³⁺). These ions hydrate and subsequently undergo hydrolysis, forming aluminum hydroxide colloids. The surfaces of these colloids possess a positive charge, which is crucial for neutralizing the negative charges present on suspended particles in the water. This neutralization process destabilizes the particles, encouraging them to aggregate into larger, more manageable flocs. These flocs can then be efficiently removed through sedimentation or filtration. This fundamental process is known as "coagulation-sedimentation" and is a cornerstone of effective water treatment. Additionally, aluminum sulfate has the capacity to react with certain heavy metal ions, such as iron and manganese, forming insoluble precipitates that aid in the removal of these dissolved pollutants.
 
-**Sinopeakchem** offers a comprehensive range of high-quality water treatment products, including premium **[aluminum sulfate](https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, **[ferrous sulfate](https://www.sinopeakchem.com/en/products/ferrous-sulfate)**, **[Polyaluminum Chloride (PAC)](https://www.sinopeakchem.com/en/products/polyaluminum-chloride)**, and **[Polyacrylamide (PAM)](https://www.sinopeakchem.com/en/products/polyacrylamide)**. We encourage our clients to select products tailored to their specific water treatment requirements. For all your industrial chemical needs, we invite you to contact Sinopeakchem.
+**Sinopeakchem** offers a comprehensive range of high-quality water treatment products, including premium **[aluminum sulfate](/en/blog/https://www.sinopeakchem.com/en/products/aluminum-sulfate)**, **[ferrous sulfate](/en/blog/https://www.sinopeakchem.com/en/products/ferrous-sulfate)**, **[Polyaluminum Chloride (PAC)](/en/blog/https://www.sinopeakchem.com/en/products/polyaluminum-chloride)**, and **[Polyacrylamide (PAM)](/en/blog/https://www.sinopeakchem.com/en/products/polyacrylamide)**. We encourage our clients to select products tailored to their specific water treatment requirements. For all your industrial chemical needs, we invite you to contact Sinopeakchem.
 
 ## Application Scenarios and Operational Considerations
 
@@ -50,7 +50,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/aluminum-sulfate) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

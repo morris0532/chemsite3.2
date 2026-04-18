@@ -48,7 +48,7 @@ When oxalic acid is added to a solution containing a mixture of rare earth ions,
 
 #### 2. Purification of Individual Rare Earths
 
-After initial separation, further purification steps often involve re-dissolving the crude oxalate precipitates and repeating the selective precipitation process under even more stringent conditions. This iterative process, sometimes combined with solvent extraction, allows for the isolation of individual REEs with purities exceeding 99.9% – a requirement for high-performance magnets like Neodymium magnets [6] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
+After initial separation, further purification steps often involve re-dissolving the crude oxalate precipitates and repeating the selective precipitation process under even more stringent conditions. This iterative process, sometimes combined with solvent extraction, allows for the isolation of individual REEs with purities exceeding 99.9% – a requirement for high-performance magnets like Neodymium magnets [6] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
 
 ### Role in Neodymium Magnet Production
 
@@ -62,7 +62,7 @@ The purity of the neodymium and other rare earth additives (like dysprosium or t
 
 ### Environmental and Safety Considerations
 
-While highly effective, the use of oxalic acid in large-scale industrial processes like rare earth extraction requires careful management due to its corrosive and toxic nature. Proper handling, waste treatment, and environmental regulations must be strictly adhered to [8] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)). Efforts are continuously made to optimize the process for efficiency and minimize environmental impact.
+While highly effective, the use of oxalic acid in large-scale industrial processes like rare earth extraction requires careful management due to its corrosive and toxic nature. Proper handling, waste treatment, and environmental regulations must be strictly adhered to [8] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)). Efforts are continuously made to optimize the process for efficiency and minimize environmental impact.
 
 ### Conclusion
 
@@ -80,7 +80,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -167,7 +167,7 @@ Sinopeakchem — Your trusted caustic soda partner.
 2.  **American Water Works Association (AWWA).** "Water Quality and Treatment: A Handbook on Drinking Water." *McGraw-Hill Education*, 2011.
 3.  **U.S. Environmental Protection Agency (EPA).** "Wastewater Technology Fact Sheet: Chemical Precipitation." *EPA*, 1999.
 4.  **BetzDearborn.** "The Betz Handbook of Industrial Water Treatment." *BetzDearborn*, 1997.
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 6.  **Purdue University.** "Industrial Wastewater Treatment." *Purdue University Civil Engineering*, 2018.
 7.  **Veolia Water Technologies.** "Water Treatment Handbook." *Veolia*, 2019.
 8.  **Ion Exchange (India) Ltd.** "Ion Exchange Resins: Principles and Applications." *Ion Exchange*, 2015.

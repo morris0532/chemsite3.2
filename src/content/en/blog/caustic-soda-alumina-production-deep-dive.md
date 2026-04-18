@@ -118,13 +118,13 @@ Sinopeakchem — Your trusted caustic soda partner.
 
 ## References
 
-1.  **International Aluminium Institute (IAI).** "The Bayer Process." *IAI*, 2023. [https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/](https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/)
+1.  **International Aluminium Institute (IAI).** "The Bayer Process." *IAI*, 2023. [https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/](/en/blog/https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/)
 2.  **Habashi, F.** "Handbook of Extractive Metallurgy." *Wiley-VCH*, 1997.
 3.  **Wills, B.A., & Napier-Munn, T.J.** "Wills' Mineral Processing Technology: An Introduction to the Practical Aspects of Ore Treatment and Mineral Recovery." *Elsevier Science & Technology*, 2006.
 4.  **Liu, Y., et al.** "Progress in the utilization of red mud: An overview." *Journal of Hazardous Materials*, Vol. 189, Issues 1-2, 2011, pp. 1-10.
-5.  **European Aluminium.** "Bauxite Residue (Red Mud)." *European Aluminium*, 2023. [https://www.european-aluminium.eu/sustainability/bauxite-residue/](https://www.european-aluminium.eu/sustainability/bauxite-residue/)
-6.  **Aluminium Association.** "Alumina Refining." *Aluminium Association*, 2023. [https://www.aluminum.org/industries/production/alumina-refining](https://www.aluminum.org/industries/production/alumina-refining)
-7.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+5.  **European Aluminium.** "Bauxite Residue (Red Mud)." *European Aluminium*, 2023. [https://www.european-aluminium.eu/sustainability/bauxite-residue/](/en/blog/https://www.european-aluminium.eu/sustainability/bauxite-residue/)
+6.  **Aluminium Association.** "Alumina Refining." *Aluminium Association*, 2023. [https://www.aluminum.org/industries/production/alumina-refining](/en/blog/https://www.aluminum.org/industries/production/alumina-refining)
+7.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 8.  **Greenwood, N.N., & Earnshaw, A.** "Chemistry of the Elements." *Butterworth-Heinemann*, 1997.
 9.  **King, J.A.** "Alumina Production: The Bayer Process." *Journal of Metals*, Vol. 37, No. 10, 1985, pp. 56-60.
-10. **World Aluminium.** "Alumina Production." *World Aluminium*, 2023. [https://www.world-aluminium.org/statistics/alumina-production/](https://www.world-aluminium.org/statistics/alumina-production/)
+10. **World Aluminium.** "Alumina Production." *World Aluminium*, 2023. [https://www.world-aluminium.org/statistics/alumina-production/](/en/blog/https://www.world-aluminium.org/statistics/alumina-production/)

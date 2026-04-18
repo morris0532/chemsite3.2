@@ -139,10 +139,10 @@ Sinopeakchem — Your trusted caustic soda partner.
 ## References
 
 1.  **Food Chemicals Codex (FCC).** "Sodium Hydroxide." *U.S. Pharmacopeial Convention*, latest edition.
-2.  **U.S. Food and Drug Administration (FDA).** "Substances Generally Recognized as Safe (GRAS)." *21 CFR Part 184.1763, Sodium Hydroxide.* [https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763)
+2.  **U.S. Food and Drug Administration (FDA).** "Substances Generally Recognized as Safe (GRAS)." *21 CFR Part 184.1763, Sodium Hydroxide.* [https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763](/en/blog/https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=184.1763)
 3.  **Fellows, P.J.** "Food Processing Technology: Principles and Practice." *Woodhead Publishing*, 2017.
 4.  **Brennan, J.G., et al.** "Food Processing Handbook." *Wiley-VCH*, 2006.
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 6.  **European Food Safety Authority (EFSA).** "Scientific Opinion on the re-evaluation of sodium hydroxide (E 524) as a food additive." *EFSA Journal*, Vol. 13, No. 10, 2015.
 7.  **International Dairy Federation (IDF).** "Monograph on Cleaning and Disinfection in Dairy Plants." *IDF*, 2004.
 8.  **Journal of Food Science.** "Chemical Peeling of Fruits and Vegetables." various issues.

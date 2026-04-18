@@ -37,7 +37,7 @@ Rust, scientifically known as iron oxide, forms when iron or its alloys (like st
 
 ### Oxalic Acid as a Rust Remover
 
-Oxalic acid (C₂H₂O₄) is an organic acid widely used for rust removal, particularly on delicate surfaces like wood, fiberglass, and certain metals. Its effectiveness stems from its ability to chelate (bind to) iron ions, forming a soluble complex that can be rinsed away. For a detailed guide on its application, refer to our article on [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal).
+Oxalic acid (C₂H₂O₄) is an organic acid widely used for rust removal, particularly on delicate surfaces like wood, fiberglass, and certain metals. Its effectiveness stems from its ability to chelate (bind to) iron ions, forming a soluble complex that can be rinsed away. For a detailed guide on its application, refer to our article on [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal).
 
 **Pros:**
 -   **Effective on various surfaces**: Excellent for wood, fiberglass, concrete, and some metals.
@@ -46,7 +46,7 @@ Oxalic acid (C₂H₂O₄) is an organic acid widely used for rust removal, part
 -   **Brightening effect**: Can also whiten and brighten surfaces, especially wood.
 
 **Cons:**
--   **Corrosive**: Still an acid; requires proper PPE and careful handling (see [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
+-   **Corrosive**: Still an acid; requires proper PPE and careful handling (see [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
 -   **Slower acting**: May require longer dwell times compared to stronger acids.
 -   **Not ideal for heavy rust**: May struggle with extremely thick or deeply pitted rust without multiple applications.
 
@@ -159,7 +159,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

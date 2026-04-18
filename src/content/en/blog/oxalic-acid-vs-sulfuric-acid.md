@@ -69,11 +69,11 @@ The distinct chemical properties of oxalic acid and sulfuric acid lead to very d
 
 Oxalic acid's mild acidity, reducing properties, and chelating ability make it suitable for specialized applications:
 
-*   **Rust Removal**: One of its most well-known uses. Oxalic acid reacts with iron oxides (rust) to form a soluble complex, effectively removing rust stains from various surfaces without damaging the underlying material [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
+*   **Rust Removal**: One of its most well-known uses. Oxalic acid reacts with iron oxides (rust) to form a soluble complex, effectively removing rust stains from various surfaces without damaging the underlying material [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
 *   **Cleaning Agent**: Used in many household and industrial cleaning products, particularly for wood bleaching, stain removal (e.g., ink, food stains), and general cleaning of minerals.
 *   **Metal Treatment**: Employed in metal cleaning, polishing, and passivation processes, especially for stainless steel and aluminum [4] (see also [Oxalic Acid for Metal Cleaning](/en/blog/oxalic-acid-metal-cleaning)).
-*   **Textile Industry**: Acts as a mordant in dyeing processes and as a bleaching agent for textiles [5] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
-*   **Rare Earth Element Extraction**: Used in the hydrometallurgical process for the separation and purification of rare earth elements due to its ability to form insoluble oxalates with these metals [6] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
+*   **Textile Industry**: Acts as a mordant in dyeing processes and as a bleaching agent for textiles [5] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
+*   **Rare Earth Element Extraction**: Used in the hydrometallurgical process for the separation and purification of rare earth elements due to its ability to form insoluble oxalates with these metals [6] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
 *   **Beekeeping**: Used as a treatment against Varroa mites in beehives.
 
 ### Applications of Sulfuric Acid
@@ -141,7 +141,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

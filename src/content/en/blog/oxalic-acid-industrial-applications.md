@@ -22,7 +22,7 @@ slug: oxalic-acid-industrial-applications
 ---
 
 ## What is Oxalic Acid?
-Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid supplier](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is supplied industrially for numerous applications.
+Oxalic Acid (C₂H₂O₄) is the simplest dicarboxylic acid and one of the strongest organic acids. As a leading [high-purity Oxalic Acid supplier](/en/blog/https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem ensures that this versatile chemical meets the stringent requirements of global industrial buyers. It occurs naturally in many plants and is supplied industrially for numerous applications.
 
 ## Key Industrial Applications
 ### 1. Metal Cleaning and Rust Removal
@@ -69,7 +69,7 @@ Used as an intermediate in:
 - Keep away from strong oxidizers and bases
 
 ## Conclusion
-As a trusted [Oxalic Acid supplier from China](https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation and global logistics support. Whether you need bulk quantities for rare earth extraction or specialized industrial cleaning, contact us for pricing and availability.
+As a trusted [Oxalic Acid supplier from China](/en/blog/https://www.sinopeakchem.com/en/products/oxalic-acid), Sinopeakchem supplies high-purity oxalic acid (≥99.6%) with complete safety documentation and global logistics support. Whether you need bulk quantities for rare earth extraction or specialized industrial cleaning, contact us for pricing and availability.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -79,7 +79,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

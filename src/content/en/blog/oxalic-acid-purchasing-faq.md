@@ -33,11 +33,11 @@ Procuring industrial chemicals like oxalic acid in bulk can be a complex process
 
 ### 1. What grades of oxalic acid does SinoPeakChem offer?
 
-SinoPeakChem primarily offers **industrial-grade oxalic acid**, typically with a purity of 99.6% min. We also supply **pharmaceutical-grade** and **electronic-grade** oxalic acid for specialized applications, meeting stringent purity requirements. Please specify your required grade when making an inquiry [1] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
+SinoPeakChem primarily offers **industrial-grade oxalic acid**, typically with a purity of 99.6% min. We also supply **pharmaceutical-grade** and **electronic-grade** oxalic acid for specialized applications, meeting stringent purity requirements. Please specify your required grade when making an inquiry [1] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
 
 ### 2. What are the minimum order quantity (MOQ) for bulk purchases?
 
-Our standard **Minimum Order Quantity (MOQ)** for oxalic acid is typically **20 metric tons (one 20-foot container load)**. However, we can discuss flexible arrangements for specific projects or long-term partnerships. Please contact our sales team to discuss your specific volume requirements [2] (see also [How to Buy Oxalic Acid in Bulk](buy-oxalic-acid-bulk)).
+Our standard **Minimum Order Quantity (MOQ)** for oxalic acid is typically **20 metric tons (one 20-foot container load)**. However, we can discuss flexible arrangements for specific projects or long-term partnerships. Please contact our sales team to discuss your specific volume requirements [2] (see also [How to Buy Oxalic Acid in Bulk](/en/blog/buy-oxalic-acid-bulk)).
 
 ### 3. What packaging options are available?
 
@@ -45,7 +45,7 @@ We offer various packaging options to suit your logistical and storage needs:
 
 *   **25 kg PP woven bags** with inner PE liner.
 *   **1000 kg (1 MT) jumbo bags** (FIBC bags) with inner PE liner.
-*   Customized packaging can be arranged upon request, subject to order volume [3] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+*   Customized packaging can be arranged upon request, subject to order volume [3] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 
 ### 4. What are your typical lead times for bulk orders?
 
@@ -84,7 +84,7 @@ SinoPeakChem is committed to delivering high-quality oxalic acid. Our quality as
 *   Comprehensive **pre-shipment inspection** and analysis by our in-house laboratory.
 *   Provision of **Certificate of Analysis (CoA)** with every shipment.
 
-We adhere to international quality standards to ensure product consistency and reliability [4] (see also [China Oxalic Acid Manufacturer & Exporter](oxalic-acid-manufacturer-china)).
+We adhere to international quality standards to ensure product consistency and reliability [4] (see also [China Oxalic Acid Manufacturer & Exporter](/en/blog/oxalic-acid-manufacturer-china)).
 
 ### 9. Can you handle customs clearance and import documentation?
 
@@ -110,7 +110,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

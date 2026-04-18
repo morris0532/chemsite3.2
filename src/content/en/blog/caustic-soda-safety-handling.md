@@ -221,13 +221,13 @@ Sinopeakchem — Your trusted caustic soda partner.
 
 ## References
 
-1.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-2.  **National Institute for Occupational Safety and Health (NIOSH).** "NIOSH Pocket Guide to Chemical Hazards: Sodium Hydroxide." *NIOSH*, 2023. [https://www.cdc.gov/niosh/npg/npgd0565.html](https://www.cdc.gov/niosh/npg/npgd0565.html)
-3.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928](https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928)
+1.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
+2.  **National Institute for Occupational Safety and Health (NIOSH).** "NIOSH Pocket Guide to Chemical Hazards: Sodium Hydroxide." *NIOSH*, 2023. [https://www.cdc.gov/niosh/npg/npgd0565.html](/en/blog/https://www.cdc.gov/niosh/npg/npgd0565.html)
+3.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.004.928)
 4.  **U.S. Environmental Protection Agency (EPA).** "Sodium Hydroxide Fact Sheet." *Chemical Safety Data Sheets*, 2023.
-5.  **American Chemical Society (ACS).** "Chemical Safety: Sodium Hydroxide." *ACS*, 2023. [https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html](https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html)
-6.  **Department of Transportation (DOT).** "Hazardous Materials Regulations (49 CFR Parts 171-180)." *PHMSA*, 2023. [https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr](https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr)
-7.  **Global Harmonized System (GHS).** "A Guide to The Globally Harmonized System of Classification and Labelling of Chemicals (GHS)." *OSHA*, 2023. [https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf](https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf)
-8.  **Canadian Centre for Occupational Health and Safety (CCOHS).** "Sodium Hydroxide." *CCOHS*, 2023. [https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html](https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html)
+5.  **American Chemical Society (ACS).** "Chemical Safety: Sodium Hydroxide." *ACS*, 2023. [https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html](/en/blog/https://www.acs.org/content/acs/en/chemical-safety/basics/sodium-hydroxide.html)
+6.  **Department of Transportation (DOT).** "Hazardous Materials Regulations (49 CFR Parts 171-180)." *PHMSA*, 2023. [https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr](/en/blog/https://www.phmsa.dot.gov/regulations/hazardous-materials/hmr)
+7.  **Global Harmonized System (GHS).** "A Guide to The Globally Harmonized System of Classification and Labelling of Chemicals (GHS)." *OSHA*, 2023. [https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf](/en/blog/https://www.osha.gov/sites/default/files/publications/OSHA3678.pdf)
+8.  **Canadian Centre for Occupational Health and Safety (CCOHS).** "Sodium Hydroxide." *CCOHS*, 2023. [https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html](/en/blog/https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/sodium_hydroxide.html)
 9.  **National Fire Protection Association (NFPA).** "NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response." *NFPA*, 2022.
 10. **World Health Organization (WHO).** "Environmental Health Criteria 100: Sodium Hydroxide." *WHO*, 1990.

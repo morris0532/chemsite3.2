@@ -73,7 +73,7 @@ Oxalic acid can be applied in various stages of water treatment, depending on th
 
 ### Safety Considerations
 
-While effective, oxalic acid is a corrosive substance and requires careful handling (see [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)).
+While effective, oxalic acid is a corrosive substance and requires careful handling (see [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)).
 
 -   **Personal Protective Equipment (PPE)**: Always wear chemical-resistant gloves, eye protection, and appropriate clothing.
 -   **Ventilation**: Ensure adequate ventilation in application areas.
@@ -96,7 +96,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

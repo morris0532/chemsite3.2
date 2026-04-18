@@ -94,7 +94,7 @@ Oxalic acid is corrosive and can be harmful if ingested, inhaled, or comes into 
 -   **Ventilation**: Work in a well-ventilated area, preferably outdoors.
 -   **Follow Dosage**: Adhere strictly to recommended dosages. Overdosing can harm bees.
 -   **Timing**: Apply during broodless periods for best efficacy and minimal impact on bees and honey. Avoid treating during nectar flows to prevent contamination of honey intended for human consumption.
--   **Storage**: Store oxalic acid in a cool, dry, and secure place, away from children, pets, and food items (see [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+-   **Storage**: Store oxalic acid in a cool, dry, and secure place, away from children, pets, and food items (see [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 -   **First Aid**: In case of contact, rinse affected areas thoroughly with water. Seek medical attention if ingested or if irritation persists.
 
 ### Conclusion
@@ -113,7 +113,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -36,19 +36,19 @@ The Middle East, a region characterized by its robust energy sector, rapid urban
 
 The diverse industrial landscape of the Middle East utilizes oxalic acid in several critical areas:
 
-*   **Stone Care and Polishing**: With extensive use of marble and natural stone in construction and luxury finishes, oxalic acid is highly valued for its effectiveness in polishing, cleaning, and removing rust stains from stone surfaces [1] (see also [Oxalic Acid for Marble Polishing & Stone Care](oxalic-acid-marble-polishing)).
-*   **Oil & Gas Industry**: Oxalic acid finds applications in the oil and gas sector for cleaning equipment, descaling, and as a chelating agent in certain processes [2] (see also [Oxalic Acid for Cleaning & Descaling](oxalic-acid-cleaning-descaling)).
-*   **Industrial Cleaning**: From large-scale facilities to specialized equipment, oxalic acid is a powerful agent for rust removal and general industrial cleaning, crucial for maintaining operational efficiency [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
-*   **Water Treatment**: In a region where water scarcity is a concern, oxalic acid can be used in water treatment processes to remove iron and manganese, improving water quality for industrial and municipal use [4] (see also [Oxalic Acid for Water Treatment](oxalic-acid-water-treatment)).
+*   **Stone Care and Polishing**: With extensive use of marble and natural stone in construction and luxury finishes, oxalic acid is highly valued for its effectiveness in polishing, cleaning, and removing rust stains from stone surfaces [1] (see also [Oxalic Acid for Marble Polishing & Stone Care](/en/blog/oxalic-acid-marble-polishing)).
+*   **Oil & Gas Industry**: Oxalic acid finds applications in the oil and gas sector for cleaning equipment, descaling, and as a chelating agent in certain processes [2] (see also [Oxalic Acid for Cleaning & Descaling](/en/blog/oxalic-acid-cleaning-descaling)).
+*   **Industrial Cleaning**: From large-scale facilities to specialized equipment, oxalic acid is a powerful agent for rust removal and general industrial cleaning, crucial for maintaining operational efficiency [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+*   **Water Treatment**: In a region where water scarcity is a concern, oxalic acid can be used in water treatment processes to remove iron and manganese, improving water quality for industrial and municipal use [4] (see also [Oxalic Acid for Water Treatment](/en/blog/oxalic-acid-water-treatment)).
 
 ### SinoPeakChem: Your Preferred Partner in the Middle East
 
 SinoPeakChem is committed to providing exceptional service and products to our clients in the Middle East. Our advantages include:
 
-1.  **Guaranteed Quality**: We supply oxalic acid of consistent purity (99.6% min), meeting stringent international quality standards. Each shipment is accompanied by a Certificate of Analysis (CoA) to ensure transparency and reliability [5] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
+1.  **Guaranteed Quality**: We supply oxalic acid of consistent purity (99.6% min), meeting stringent international quality standards. Each shipment is accompanied by a Certificate of Analysis (CoA) to ensure transparency and reliability [5] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
 2.  **Robust Supply Chain**: Leveraging efficient shipping routes through the Suez Canal and major ports like Jebel Ali (UAE), Jeddah (Saudi Arabia), and Mersin (Turkey), we ensure timely and secure delivery of your orders. Our logistics team is experienced in handling international chemical shipments.
-3.  **Competitive Pricing**: Our direct manufacturing capabilities allow us to offer highly competitive pricing for bulk oxalic acid, providing significant cost advantages to our Middle Eastern partners [6] (see also [Oxalic Acid Price Trend 2025](oxalic-acid-price)).
-4.  **Flexible Packaging Solutions**: We offer various packaging options, including 25kg PP woven bags and 1-ton jumbo bags, to accommodate different storage and handling requirements in the region [7] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+3.  **Competitive Pricing**: Our direct manufacturing capabilities allow us to offer highly competitive pricing for bulk oxalic acid, providing significant cost advantages to our Middle Eastern partners [6] (see also [Oxalic Acid Price Trend 2025](/en/blog/oxalic-acid-price)).
+4.  **Flexible Packaging Solutions**: We offer various packaging options, including 25kg PP woven bags and 1-ton jumbo bags, to accommodate different storage and handling requirements in the region [7] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 5.  **Market Understanding**: We understand the specific market dynamics and regulatory requirements of the Middle East, enabling us to provide tailored solutions and support for your procurement needs.
 
 ### Serving Key Countries in the Middle East
@@ -73,7 +73,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

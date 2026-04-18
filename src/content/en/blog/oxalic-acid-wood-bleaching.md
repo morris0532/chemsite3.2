@@ -34,7 +34,7 @@ Wood, a timeless and versatile material, can often lose its luster due to exposu
 Oxalic acid (C₂H₂O₄) is a dicarboxylic acid that acts as a chelating agent. In wood treatment, its primary functions are:
 
 -   **Bleaching**: Oxalic acid reacts with the chromophores (color-producing compounds) in wood, particularly those responsible for graying due to UV exposure and oxidation, effectively lightening the wood's natural color without damaging its fibers.
--   **Stain Removal**: It is highly effective at dissolving iron stains (black spots caused by metal contact with wet wood) by forming soluble iron oxalate complexes, similar to its action in [rust removal](oxalic-acid-rust-removal). It also breaks down water stains and tannin stains, which are common in woods like oak and redwood.
+-   **Stain Removal**: It is highly effective at dissolving iron stains (black spots caused by metal contact with wet wood) by forming soluble iron oxalate complexes, similar to its action in [rust removal](/en/blog/oxalic-acid-rust-removal). It also breaks down water stains and tannin stains, which are common in woods like oak and redwood.
 
 ### Applications of Oxalic Acid in Wood
 
@@ -105,7 +105,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -29,7 +29,7 @@ slug: how-to-dissolve-oxalic-acid
 
 ## How to Dissolve Oxalic Acid Properly: A Step-by-Step Guide
 
-Oxalic acid, a versatile organic compound, is widely used in various applications, from [rust removal](oxalic-acid-rust-removal) and wood bleaching to metal cleaning and [rare earth extraction](oxalic-acid-rare-earth-extraction). While it is highly effective, proper handling and dissolution are crucial for both safety and optimal performance. Dissolving oxalic acid is a straightforward process, but it requires attention to detail and adherence to safety protocols. This comprehensive guide will walk you through the correct steps to dissolve oxalic acid, ensuring you achieve the desired concentration safely and efficiently.
+Oxalic acid, a versatile organic compound, is widely used in various applications, from [rust removal](/en/blog/oxalic-acid-rust-removal) and wood bleaching to metal cleaning and [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction). While it is highly effective, proper handling and dissolution are crucial for both safety and optimal performance. Dissolving oxalic acid is a straightforward process, but it requires attention to detail and adherence to safety protocols. This comprehensive guide will walk you through the correct steps to dissolve oxalic acid, ensuring you achieve the desired concentration safely and efficiently.
 
 ## Understanding Oxalic Acid Solubility
 
@@ -95,7 +95,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

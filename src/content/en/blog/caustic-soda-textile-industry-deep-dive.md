@@ -124,8 +124,8 @@ Sinopeakchem — Your trusted caustic soda partner.
 3.  **Lewin, M., & Pearce, E.M.** "Handbook of Fiber Chemistry." *Marcel Dekker*, 1998.
 4.  **Clark, M.** "Handbook of Textile and Industrial Dyeing: Principles, Processes and Types of Dyes." *Woodhead Publishing*, 2011.
 5.  **Sarkar, B.P.** "Mercerization of Cotton." *Textile Progress*, Vol. 26, No. 1, 1995, pp. 1-48.
-6.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+6.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 7.  **Environmental Protection Agency (EPA).** "Development Document for Effluent Limitations Guidelines and New Source Performance Standards for the Textile Mills Point Source Category." *EPA*, 1982.
 8.  **Textile World.** Various articles on textile processing and chemical applications.
-9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
 10. **International Textile Manufacturers Federation (ITMF).** Various publications on textile industry trends and technology.

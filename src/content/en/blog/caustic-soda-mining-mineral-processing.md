@@ -137,9 +137,9 @@ Sinopeakchem — Your trusted caustic soda partner.
 2.  **Habashi, F.** "Handbook of Extractive Metallurgy." *Wiley-VCH*, 1997.
 3.  **Adams, M.D.** "Gold Ore Processing: All-Hydrometallurgy." *Elsevier Science*, 2005.
 4.  **Liu, J., et al.** "Recent Advances in Flotation Reagents for Sulfide Minerals." *Minerals Engineering*, Vol. 100, 2016, pp. 1-15.
-5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
-6.  **International Aluminium Institute (IAI).** "The Bayer Process." *IAI*, 2023. [https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/](https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/)
+5.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
+6.  **International Aluminium Institute (IAI).** "The Bayer Process." *IAI*, 2023. [https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/](/en/blog/https://international-aluminium.org/lifecycle/bauxite-alumina/bayer-process/)
 7.  **Environmental Protection Agency (EPA).** "Development Document for Effluent Limitations Guidelines and New Source Performance Standards for the Ore Mining and Dressing Point Source Category." *EPA*, 2009.
 8.  **Chemical Engineering Journal.** "pH Control in Mineral Processing." various issues.
-9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
 10. **SME Mining Engineering Handbook.** "Mineral Processing." *Society for Mining, Metallurgy, and Exploration (SME)*, 2011.

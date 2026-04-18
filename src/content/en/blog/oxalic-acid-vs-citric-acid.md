@@ -60,12 +60,12 @@ The differing chemical profiles of these two acids lead to distinct primary appl
 
 Oxalic acid is predominantly used in industrial and heavy-duty cleaning applications:
 
--   **Rust Removal**: Its most well-known application. Oxalic acid reacts with iron oxides to form a soluble complex, effectively removing rust stains from various surfaces, including metals, concrete, and fabrics [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
--   **Wood Bleaching and Cleaning**: Excellent for removing dark water stains, graying, and tannin stains from wood, restoring its natural color [4] (see also [Oxalic Acid for Wood Bleaching & Cleaning](oxalic-acid-wood-bleaching)).
+-   **Rust Removal**: Its most well-known application. Oxalic acid reacts with iron oxides to form a soluble complex, effectively removing rust stains from various surfaces, including metals, concrete, and fabrics [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+-   **Wood Bleaching and Cleaning**: Excellent for removing dark water stains, graying, and tannin stains from wood, restoring its natural color [4] (see also [Oxalic Acid for Wood Bleaching & Cleaning](/en/blog/oxalic-acid-wood-bleaching)).
 -   **Metal Cleaning and Polishing**: Used for cleaning and brightening various metals, especially stainless steel and aluminum.
--   **Water Treatment**: Effective in removing iron and manganese from water [5] (see also [Oxalic Acid for Water Treatment](oxalic-acid-water-treatment)).
--   **Rare Earth Extraction**: A crucial reagent in the separation and purification of rare earth elements [6] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
--   **Textile Industry**: Used as a mordant, dyeing auxiliary, and for removing rust stains from fabrics [7] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
+-   **Water Treatment**: Effective in removing iron and manganese from water [5] (see also [Oxalic Acid for Water Treatment](/en/blog/oxalic-acid-water-treatment)).
+-   **Rare Earth Extraction**: A crucial reagent in the separation and purification of rare earth elements [6] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
+-   **Textile Industry**: Used as a mordant, dyeing auxiliary, and for removing rust stains from fabrics [7] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
 
 #### Citric Acid Applications
 
@@ -81,7 +81,7 @@ Citric acid is widely used in the food, pharmaceutical, and cosmetic industries,
 
 Both acids require careful handling, but their safety profiles differ significantly.
 
-**Oxalic Acid**: Due to its stronger acidity and chelating properties, oxalic acid is corrosive and moderately toxic if ingested. It can cause irritation to skin and eyes and is harmful if inhaled. Proper personal protective equipment (PPE) and ventilation are essential when handling oxalic acid [8] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)). Environmental disposal must also be managed carefully to prevent harm to aquatic life.
+**Oxalic Acid**: Due to its stronger acidity and chelating properties, oxalic acid is corrosive and moderately toxic if ingested. It can cause irritation to skin and eyes and is harmful if inhaled. Proper personal protective equipment (PPE) and ventilation are essential when handling oxalic acid [8] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)). Environmental disposal must also be managed carefully to prevent harm to aquatic life.
 
 **Citric Acid**: Generally considered safe for consumption and topical use in diluted forms. It is a mild irritant to skin and eyes in concentrated forms but far less hazardous than oxalic acid. It is readily biodegradable and poses less environmental risk [9].
 
@@ -110,7 +110,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

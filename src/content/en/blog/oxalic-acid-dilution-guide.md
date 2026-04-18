@@ -34,7 +34,7 @@ Oxalic acid is a powerful organic acid widely used in various industrial and hou
 
 ### 1. Essential Safety Precautions
 
-Before you begin any dilution process, prioritize safety. Oxalic acid, especially in its concentrated form, can cause severe burns and is harmful if ingested or inhaled. Always follow these precautions [1] (see also [Oxalic Acid Safety & Handling](oxalic-acid-safety-handling)):
+Before you begin any dilution process, prioritize safety. Oxalic acid, especially in its concentrated form, can cause severe burns and is harmful if ingested or inhaled. Always follow these precautions [1] (see also [Oxalic Acid Safety & Handling](/en/blog/oxalic-acid-safety-handling)):
 
 -   **Personal Protective Equipment (PPE)**:
     *   **Gloves**: Wear chemical-resistant gloves (e.g., nitrile or neoprene).
@@ -45,7 +45,7 @@ Before you begin any dilution process, prioritize safety. Oxalic acid, especiall
 -   **First Aid**: Have access to an eyewash station and a safety shower. Know the location of emergency contacts and first aid procedures.
 -   **"Always Add Acid to Water" Rule**: This is a fundamental rule in chemistry. Adding water to concentrated acid can cause a violent exothermic reaction, leading to splashing and potential burns. Always add the acid slowly to water, never the other way around.
 -   **Labeling**: Clearly label all containers with the chemical name, concentration, date, and any relevant hazards.
--   **Storage**: Store oxalic acid in a cool, dry, well-ventilated area, away from incompatible materials like strong oxidizers and alkalis [2] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+-   **Storage**: Store oxalic acid in a cool, dry, well-ventilated area, away from incompatible materials like strong oxidizers and alkalis [2] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 
 ### 2. Materials Needed
 
@@ -109,9 +109,9 @@ So, you would dissolve 50 grams of oxalic acid powder in enough water to make a 
 
 ### 5. Specific Dilution Recommendations for Common Applications
 
--   **Rust Removal**: Typically 5-10% (w/v) solution. For heavy rust, up to 15% might be used, but always test on an inconspicuous area first [3] (see also [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
--   **Wood Bleaching**: Often 5-10% (w/v) solution. For lighter stains, 2-5% might suffice [4] (see also [Oxalic Acid for Wood Bleaching & Cleaning](oxalic-acid-wood-bleaching)).
--   **General Cleaning/Descaling**: 2-5% (w/v) solution for milder tasks [5] (see also [Oxalic Acid for Cleaning & Descaling](oxalic-acid-cleaning-descaling)).
+-   **Rust Removal**: Typically 5-10% (w/v) solution. For heavy rust, up to 15% might be used, but always test on an inconspicuous area first [3] (see also [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+-   **Wood Bleaching**: Often 5-10% (w/v) solution. For lighter stains, 2-5% might suffice [4] (see also [Oxalic Acid for Wood Bleaching & Cleaning](/en/blog/oxalic-acid-wood-bleaching)).
+-   **General Cleaning/Descaling**: 2-5% (w/v) solution for milder tasks [5] (see also [Oxalic Acid for Cleaning & Descaling](/en/blog/oxalic-acid-cleaning-descaling)).
 
 Always refer to the specific application guidelines and start with a lower concentration if unsure, gradually increasing if needed.
 
@@ -131,7 +131,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

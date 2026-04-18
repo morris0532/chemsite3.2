@@ -231,11 +231,11 @@ Sinopeakchem — Your trusted caustic soda partner.
 
 ## References
 
-1.  **U.S. Food and Drug Administration (FDA).** "Food Additives Permitted for Direct Addition to Food for Human Consumption." *FDA*, 2024. [https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption](https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption)
-2.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](https://www.semiconductors.org/)
-3.  **International Organization for Standardization (ISO).** "ISO 9001: Quality management systems." *ISO*, 2024. [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
-4.  **European Chemicals Agency (ECHA).** "REACH Regulation." *ECHA*, 2024. [https://echa.europa.eu/regulations/reach/understanding-reach](https://echa.europa.eu/regulations/reach/understanding-reach)
-5.  **International Chamber of Commerce (ICC).** "Incoterms® 2020." *ICC*, 2020. [https://iccwbo.org/resources-for-business/incoterms-rules/](https://iccwbo.org/resources-for-business/incoterms-rules/)
-6.  **UN Comtrade Database.** "International Trade Statistics." *United Nations Statistics Division*, 2024. [https://comtradeplus.un.org/](https://comtradeplus.un.org/)
-7.  **Investopedia.** "Letter of Credit (LC)." *Investopedia*, 2024. [https://www.investopedia.com/terms/l/letterofcredit.asp](https://www.investopedia.com/terms/l/letterofcredit.asp)
-8.  **United Nations Economic Commission for Europe (UNECE).** "Recommendations on the Transport of Dangerous Goods." *UNECE*, 2023. [https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations](https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations)
+1.  **U.S. Food and Drug Administration (FDA).** "Food Additives Permitted for Direct Addition to Food for Human Consumption." *FDA*, 2024. [https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption](/en/blog/https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption)
+2.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](/en/blog/https://www.semiconductors.org/)
+3.  **International Organization for Standardization (ISO).** "ISO 9001: Quality management systems." *ISO*, 2024. [https://www.iso.org/iso-9001-quality-management.html](/en/blog/https://www.iso.org/iso-9001-quality-management.html)
+4.  **European Chemicals Agency (ECHA).** "REACH Regulation." *ECHA*, 2024. [https://echa.europa.eu/regulations/reach/understanding-reach](/en/blog/https://echa.europa.eu/regulations/reach/understanding-reach)
+5.  **International Chamber of Commerce (ICC).** "Incoterms® 2020." *ICC*, 2020. [https://iccwbo.org/resources-for-business/incoterms-rules/](/en/blog/https://iccwbo.org/resources-for-business/incoterms-rules/)
+6.  **UN Comtrade Database.** "International Trade Statistics." *United Nations Statistics Division*, 2024. [https://comtradeplus.un.org/](/en/blog/https://comtradeplus.un.org/)
+7.  **Investopedia.** "Letter of Credit (LC)." *Investopedia*, 2024. [https://www.investopedia.com/terms/l/letterofcredit.asp](/en/blog/https://www.investopedia.com/terms/l/letterofcredit.asp)
+8.  **United Nations Economic Commission for Europe (UNECE).** "Recommendations on the Transport of Dangerous Goods." *UNECE*, 2023. [https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations](/en/blog/https://unece.org/transport/dangerous-goods/un-recommendations-transport-dangerous-goods-model-regulations)

@@ -209,8 +209,8 @@ Sinopeakchem — Your trusted caustic soda partner.
 2.  **European Chemicals Agency (ECHA).** "REACH Dossier on Sodium Hydroxide." *ECHA Database*, 2023.
 3.  **Food Chemicals Codex (FCC).** "Sodium Hydroxide." *United States Pharmacopeia (USP)*, 13th Edition, 2022.
 4.  **European Union.** "Regulation (EC) No 1333/2008 on food additives." *Official Journal of the European Union*, 2008.
-5.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](https://www.semiconductors.org/)
-6.  **International Organization for Standardization (ISO).** "ISO 9001: Quality management systems." *ISO*, 2024. [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
+5.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](/en/blog/https://www.semiconductors.org/)
+6.  **International Organization for Standardization (ISO).** "ISO 9001: Quality management systems." *ISO*, 2024. [https://www.iso.org/iso-9001-quality-management.html](/en/blog/https://www.iso.org/iso-9001-quality-management.html)
 7.  **Journal of Industrial & Engineering Chemistry.** "Advances in Chlor-Alkali Technology and Caustic Soda Purity." Vol. 48, 2024.
 8.  **Karl Fischer Titration.** "Determination of Water Content in Chemicals." *Analytical Chemistry Review*, 2023.
 9.  **Atomic Absorption Spectroscopy (AAS).** "Trace Metal Analysis in Industrial Chemicals." *Spectroscopy Journal*, 2023.

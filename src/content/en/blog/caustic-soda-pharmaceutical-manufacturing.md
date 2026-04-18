@@ -143,8 +143,8 @@ Sinopeakchem — Your trusted caustic soda partner.
 3.  **ICH Q7.** "Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients." *International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use*, 2000.
 4.  **Aulton, M.E.** "Aulton's Pharmaceutics: The Design and Manufacture of Medicines." *Elsevier Health Sciences*, 2018.
 5.  **Gennaro, A.R.** "Remington: The Science and Practice of Pharmacy." *Lippincott Williams & Wilkins*, 2000.
-6.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+6.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 7.  **Pharmaceutical Technology.** "Cleaning Validation in Pharmaceutical Manufacturing." various issues.
 8.  **Chemical Engineering Progress.** "pH Control in Biopharmaceutical Processes." various issues.
-9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+9.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
 10. **FDA.** "Guidance for Industry: Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients." *U.S. Department of Health and Human Services*, 2016.

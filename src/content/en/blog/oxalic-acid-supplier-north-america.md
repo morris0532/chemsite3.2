@@ -38,20 +38,20 @@ The North American market, encompassing the United States, Canada, and Mexico, r
 
 Across North America, oxalic acid is utilized in several critical industrial and commercial processes:
 
-*   **Industrial Cleaning and Maintenance**: Widely used as a cleaning agent for removing rust, stains, and mineral deposits from various surfaces and equipment in industries ranging from automotive to construction [1] (see also [Oxalic Acid for Cleaning & Descaling](oxalic-acid-cleaning-descaling)).
-*   **Wood Treatment and Restoration**: A popular choice for bleaching and restoring wood, effectively removing water stains, black spots, and tannin stains from decks, furniture, and flooring [2] (see also [Oxalic Acid for Wood Bleaching & Cleaning](oxalic-acid-wood-bleaching)).
-*   **Metal Processing**: Employed in metal surface pre-treatment to enhance adhesion and corrosion resistance, particularly in the automotive and aerospace industries [3] (see also [Oxalic Acid in Metal Surface Pre-treatment](oxalic-acid-metal-pre-treatment)).
-*   **Textile and Leather Industries**: Used in textile dyeing and printing as a mordant and reducing agent, and in leather tanning processes to achieve desired finishes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing) and [Oxalic Acid for Leather Tanning & Dyeing](oxalic-acid-leather-tanning)).
-*   **Rare Earth Extraction**: In regions with rare earth mining, oxalic acid plays a crucial role in the precipitation and purification of rare earth elements [5] (see also [Oxalic Acid for Rare Earth Extraction](oxalic-acid-rare-earth-extraction)).
+*   **Industrial Cleaning and Maintenance**: Widely used as a cleaning agent for removing rust, stains, and mineral deposits from various surfaces and equipment in industries ranging from automotive to construction [1] (see also [Oxalic Acid for Cleaning & Descaling](/en/blog/oxalic-acid-cleaning-descaling)).
+*   **Wood Treatment and Restoration**: A popular choice for bleaching and restoring wood, effectively removing water stains, black spots, and tannin stains from decks, furniture, and flooring [2] (see also [Oxalic Acid for Wood Bleaching & Cleaning](/en/blog/oxalic-acid-wood-bleaching)).
+*   **Metal Processing**: Employed in metal surface pre-treatment to enhance adhesion and corrosion resistance, particularly in the automotive and aerospace industries [3] (see also [Oxalic Acid in Metal Surface Pre-treatment](/en/blog/oxalic-acid-metal-pre-treatment)).
+*   **Textile and Leather Industries**: Used in textile dyeing and printing as a mordant and reducing agent, and in leather tanning processes to achieve desired finishes [4] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing) and [Oxalic Acid for Leather Tanning & Dyeing](/en/blog/oxalic-acid-leather-tanning)).
+*   **Rare Earth Extraction**: In regions with rare earth mining, oxalic acid plays a crucial role in the precipitation and purification of rare earth elements [5] (see also [Oxalic Acid for Rare Earth Extraction](/en/blog/oxalic-acid-rare-earth-extraction)).
 
 ### SinoPeakChem: Your Reliable Partner for North America
 
 SinoPeakChem is committed to serving the North American market with high-quality oxalic acid and exceptional service. Our advantages include:
 
-1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, meeting international quality standards. Each batch is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [6] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
+1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, meeting international quality standards. Each batch is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [6] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
 2.  **Efficient Logistics**: Leveraging established shipping routes to major North American ports such as Los Angeles, New York, Vancouver, and Veracruz, we ensure timely and secure delivery. Our logistics team is experienced in navigating the complexities of international chemical shipments, including compliance with local regulations.
-3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [7] (see also [Oxalic Acid Price Trend 2025](oxalic-acid-price)).
-4.  **Flexible Packaging Solutions**: We offer various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to accommodate diverse storage and handling needs across the continent [8] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [7] (see also [Oxalic Acid Price Trend 2025](/en/blog/oxalic-acid-price)).
+4.  **Flexible Packaging Solutions**: We offer various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to accommodate diverse storage and handling needs across the continent [8] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 5.  **Market Understanding**: We understand the unique challenges and opportunities in the North American chemical market, enabling us to offer tailored solutions and support for your procurement processes.
 
 ### Serving Key North American Countries
@@ -76,7 +76,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -39,7 +39,7 @@ The following table provides a reference for current FOB China price ranges base
 | Technical Grade | ≥99.6% | $XXX - $XXX / MT | Textiles, Leather, Rare Earth |
 | Reagent Grade | ≥99.8% | $XXX - $XXX / MT | Laboratory, Pharmaceuticals |
 
-*Note: For the most accurate and up-to-date pricing, please [contact our sales team](mailto:sales@sinopeakchem.com) for a formal quotation.*
+*Note: For the most accurate and up-to-date pricing, please [contact our sales team](/en/blog/mailto:sales@sinopeakchem.com) for a formal quotation.*
 
 ### 6 Key Factors Affecting Oxalic Acid Price
 
@@ -58,10 +58,10 @@ The global demand for oxalic acid is growing, driven by sectors like rare earth 
 Higher purity levels require more rigorous refining processes. As discussed in our guide on [oxalic acid dihydrate vs anhydrous](/en/blog/oxalic-acid-dihydrate-vs-anhydrous), choosing the right [purity and grade](/en/blog/oxalic-acid-dihydrate-vs-anhydrous) for your specific application is essential to avoid overpaying for unnecessary specifications.
 
 #### 5. Order Quantity
-Economies of scale apply significantly in the chemical industry. [Bulk purchases](buy-oxalic-acid-bulk) typically enjoy lower unit prices compared to smaller, less frequent orders.
+Economies of scale apply significantly in the chemical industry. [Bulk purchases](/en/blog/buy-oxalic-acid-bulk) typically enjoy lower unit prices compared to smaller, less frequent orders.
 
 #### 6. Shipping & Logistics Costs
-Global [shipping costs](chemical-shipping-logistics-china-guide) and port fees can fluctuate based on fuel prices and geopolitical factors. The choice of destination port and the mode of transport (FCL vs. LCL) also affect the landed cost.
+Global [shipping costs](/en/blog/chemical-shipping-logistics-china-guide) and port fees can fluctuate based on fuel prices and geopolitical factors. The choice of destination port and the mode of transport (FCL vs. LCL) also affect the landed cost.
 
 ### Price Trend Analysis 2023-2025
 
@@ -71,7 +71,7 @@ Over the past few years, the oxalic acid market has seen moderate fluctuations. 
 
 To optimize your procurement costs, consider the following strategies:
 
-*   **Direct Sourcing:** Work directly with a [reliable supplier](oxalic-acid-supplier-china) or manufacturer like SinoPeakChem to eliminate middleman markups.
+*   **Direct Sourcing:** Work directly with a [reliable supplier](/en/blog/oxalic-acid-supplier-china) or manufacturer like SinoPeakChem to eliminate middleman markups.
 *   **Volume Discounts:** Consolidate your requirements to place larger orders and negotiate better volume-based pricing.
 *   **Long-term Contracts:** Secure stable pricing and supply by entering into annual or multi-year supply agreements.
 *   **Optimized Logistics:** Choose Full Container Load (FCL) shipping whenever possible to minimize unit transport costs.
@@ -92,7 +92,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -37,7 +37,7 @@ Oxalic acid (C₂H₂O₄) is a dicarboxylic acid known for its chelating and re
 
 -   **Dyeing Auxiliary**: It acts as a pH regulator and a chelating agent, controlling the acidity of dye baths and preventing metal ions from interfering with dye uptake. This ensures more uniform and vibrant colors, especially with acid dyes and chrome dyes.
 -   **Reducing Agent in Printing**: In certain printing processes, oxalic acid can be used as a reducing agent to achieve specific color effects or to remove excess dye from printed fabrics.
--   **Cleaning and Stain Removal**: Its ability to chelate metal ions makes it highly effective in removing rust stains (iron stains) from fabrics, which can occur during processing or storage. This is similar to its application in [rust removal](oxalic-acid-rust-removal) from other surfaces.
+-   **Cleaning and Stain Removal**: Its ability to chelate metal ions makes it highly effective in removing rust stains (iron stains) from fabrics, which can occur during processing or storage. This is similar to its application in [rust removal](/en/blog/oxalic-acid-rust-removal) from other surfaces.
 -   **Fiber Treatment**: It can be used in the pre-treatment of certain fibers to improve their receptivity to dyes or to modify their properties.
 
 ### Specific Applications in Textile Dyeing
@@ -75,7 +75,7 @@ Textile materials can acquire rust stains from machinery, water pipes, or other 
 
 ### Safety Considerations
 
-As with any industrial chemical, proper handling and safety precautions are paramount when using oxalic acid in textile applications. Refer to our comprehensive guide on [oxalic acid safety and handling](oxalic-acid-safety-handling) for detailed information on PPE, storage, first aid, and disposal.
+As with any industrial chemical, proper handling and safety precautions are paramount when using oxalic acid in textile applications. Refer to our comprehensive guide on [oxalic acid safety and handling](/en/blog/oxalic-acid-safety-handling) for detailed information on PPE, storage, first aid, and disposal.
 
 ### Conclusion
 
@@ -93,7 +93,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -17,7 +17,7 @@ rootnotouch: pre-shipment-inspection-psi-checklist
 slug: pre-shipment-inspection-psi-checklist
 ---
 
-As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in the global chemical trade, the **Pre-Shipment Inspection (PSI)** is the final and most critical line of defense for a procurement manager. For **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, a million-dollar shipment can be compromised by a single oversight—from a punctured PE liner to a slight deviation in **Particle Size Distribution (PSD)**. A PSI ensures that the material you receive at your plant gate is exactly what you ordered and paid for.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in the global chemical trade, the **Pre-Shipment Inspection (PSI)** is the final and most critical line of defense for a procurement manager. For **[Soda Ash](/en/blog/https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)**, a million-dollar shipment can be compromised by a single oversight—from a punctured PE liner to a slight deviation in **Particle Size Distribution (PSD)**. A PSI ensures that the material you receive at your plant gate is exactly what you ordered and paid for.
 
 Whether you are using a third-party agency like **SGS or Intertek** or performing the inspection yourself, you need a rigorous, data-driven checklist. This guide provides the ultimate PSI framework for Soda Ash, covering quality, quantity, and packaging to ensure a risk-free international transaction.
 
@@ -26,7 +26,7 @@ Whether you are using a third-party agency like **SGS or Intertek** or performin
 | Inspection Category | Critical KPI | Why it Matters for B2B Buyers |
 | :--- | :--- | :--- |
 | **1. Quality (Chemical)** | Na₂CO₃ ≥ 99.2%; Fe ≤ 20 ppm. | Ensures process stability and product clarity. |
-| **2. Quality (Physical)** | PSD (Sieve Analysis) & [Bulk Density](bulk-density-vs-apparent-density). | Prevents batch segregation and logistics issues. |
+| **2. Quality (Physical)** | PSD (Sieve Analysis) & [Bulk Density](/en/blog/bulk-density-vs-apparent-density). | Prevents batch segregation and logistics issues. |
 | **3. Quantity** | Net Weight (Scale Calibration). | Protects against short-shipment and financial loss. |
 | **4. Packaging** | Liner Thickness (min. 100μm) & Sealing. | Prevents moisture ingress and caking. |
 | **5. Container QC** | Cleanliness, Odor, & Water-Tightness. | Ensures the material survives the 45-day sea voyage. |
@@ -78,7 +78,7 @@ The packaging is the "shield" that protects your Soda Ash from the elements.
 
 A professional PSI report should be delivered within 24-48 hours of the inspection and must include:
 1.  **Photographic Evidence**: Clear photos of the material, the bags, the scales, and the container loading process.
-2.  **Laboratory Results**: A detailed comparison of the test results vs. the contract [Soda Ash Specifications: How to Read a COA & TDS for Procurement](soda-ash-specifications-how-to-read-a-coa-tds-for-procurement).
+2.  **Laboratory Results**: A detailed comparison of the test results vs. the contract [Soda Ash Specifications: How to Read a COA & TDS for Procurement](/en/blog/soda-ash-specifications-how-to-read-a-coa-tds-for-procurement).
 3.  **Inspector's Recommendation**: A clear "Pass" or "Fail" based on the agreed-upon criteria.
 
 ---
@@ -89,7 +89,7 @@ China's leading Soda Ash exporters, like **Sinopeakchem**, welcome and encourage
 
 *   **Transparency**: We provide full access to our production lines and laboratories for third-party inspectors.
 *   **Pre-Audited Quality**: Our internal QC team performs a "Pre-PSI" to ensure that the material is 100% ready before the external inspector arrives.
-*   **[Sinosure](sinosure-trade-finance-security)-Backed Security**: If a PSI fails, our Sinosure-backed financial structure protects your advance payment and ensures that the material is replaced or the contract is adjusted.
+*   **[Sinosure](/en/blog/sinosure-trade-finance-security)-Backed Security**: If a PSI fails, our Sinosure-backed financial structure protects your advance payment and ensures that the material is replaced or the contract is adjusted.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -129,29 +129,29 @@ Sinopeakchem — Delivering the transparency and precision that your global busi
 
 ---
 
-Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**.
+Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**.
 
 ## References
 
 1.  **International Federation of Inspection Agencies (IFIA).** "Guidelines for Pre-Shipment Inspection of Chemicals." *IFIA Technical Series*, 2023.
-2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+2.  **U.S. Geological Survey (USGS).** "Soda Ash (Sodium Carbonate) Statistics and Information." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/en/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
 3.  **International Organization for Standardization (ISO).** "ISO 2859-1: Sampling procedures for inspection by attributes." *ISO*, 1999.
-4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
+4.  **European Chemicals Agency (ECHA).** "Sodium Carbonate (EC number: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](/en/blog/https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
 5.  **American Society for Quality (ASQ).** "The Quality Audit: A Tool for Supplier Management." *ASQ Quality Press*, 2023.
 6.  **Kirk-Othmer Encyclopedia of Chemical Technology.** "Sodium Carbonate." *John Wiley & Sons*, 2007.
 7.  **Ullmann's Encyclopedia of Industrial Chemistry.** "Sodium Carbonate." *Wiley-VCH*, 2005.
 8.  **Sinopeakchem Technical Data.** "Pre-Shipment Inspection and Quality Assurance Framework." *Sinopeakchem Internal Report*, 2024.
-9.  **SGS Group.** "Chemical Inspection and Testing Services." *SGS Technical Bulletin*, 2024. [https://www.sgs.com/en/chemical](https://www.sgs.com/en/chemical)
+9.  **SGS Group.** "Chemical Inspection and Testing Services." *SGS Technical Bulletin*, 2024. [https://www.sgs.com/en/chemical](/en/blog/https://www.sgs.com/en/chemical)
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
 ---
 
-> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](case-study-optimizing-soda-ash-supply).
+> **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](/en/blog/case-study-optimizing-soda-ash-supply).
 
 ---
 
 ## Strategic Sourcing Resources
 
-*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**: The complete strategic manual for global procurement.
-*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers)**: A guide to selecting reliable suppliers in China.
-*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)**: Understanding physical properties for your application.
+*   **[Ultimate Soda Ash Guide](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](/en/blog/top-10-china-soda-ash-manufacturers)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)**: Understanding physical properties for your application.

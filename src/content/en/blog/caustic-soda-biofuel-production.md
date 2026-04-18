@@ -139,10 +139,10 @@ Sinopeakchem — Your trusted caustic soda partner.
 1.  **Ma, F., & Hanna, M.A.** "Biodiesel Production: A Review." *Bioresource Technology*, Vol. 70, No. 1, 1999, pp. 1-15.
 2.  **Van Gerpen, J.** "Biodiesel Production Technology." *Journal of the American Oil Chemists' Society*, Vol. 78, No. 7, 2001, pp. 701-705.
 3.  **Moser, B.R.** "Biodiesel Production, Properties, and Feedstocks." *In Vitro Cellular & Developmental Biology - Plant*, Vol. 45, No. 3, 2009, pp. 229-266.
-4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](https://www.osha.gov/sodium-hydroxide)
+4.  **Occupational Safety and Health Administration (OSHA).** "Safety and Health Topics: Sodium Hydroxide." *OSHA*, 2023. [https://www.osha.gov/sodium-hydroxide](/en/blog/https://www.osha.gov/sodium-hydroxide)
 5.  **Knothe, G., et al.** "The Biodiesel Handbook." *AOCS Press*, 2015.
-6.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
-7.  **Renewable Energy Group (REG).** "Biodiesel Production Process." *REG*, 2023. [https://www.regi.com/what-we-do/biodiesel/production-process](https://www.regi.com/what-we-do/biodiesel/production-process)
+6.  **European Chemicals Agency (ECHA).** "Sodium Hydroxide (Caustic Soda)." *ECHA*, 2023. [https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362](/en/blog/https://echa.europa.eu/substance-information/-/substanceinfo/100.028.362)
+7.  **Renewable Energy Group (REG).** "Biodiesel Production Process." *REG*, 2023. [https://www.regi.com/what-we-do/biodiesel/production-process](/en/blog/https://www.regi.com/what-we-do/biodiesel/production-process)
 8.  **American Society for Testing and Materials (ASTM).** "ASTM D6751 - Standard Specification for Biodiesel Fuel Blend Stock (B100) for Middle Distillate Fuels." *ASTM International*, latest revision.
 9.  **Bioresource Technology.** "Advances in Biodiesel Catalysis." various issues.
-10. **Environmental Protection Agency (EPA).** "Renewable Fuel Standard Program." *EPA*, 2023. [https://www.epa.gov/renewable-fuel-standard-program](https://www.epa.gov/renewable-fuel-standard-program)
+10. **Environmental Protection Agency (EPA).** "Renewable Fuel Standard Program." *EPA*, 2023. [https://www.epa.gov/renewable-fuel-standard-program](/en/blog/https://www.epa.gov/renewable-fuel-standard-program)

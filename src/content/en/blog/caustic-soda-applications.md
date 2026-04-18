@@ -199,13 +199,13 @@ Sinopeakchem supplies all industries.
 
 ## References
 
-1.  **Grand View Research.** "Global Caustic Soda Market Size, Share & Trends Analysis Report." *Grand View Research*, 2023. [https://www.grandviewresearch.com/industry-analysis/caustic-soda-market](https://www.grandviewresearch.com/industry-analysis/caustic-soda-market)
+1.  **Grand View Research.** "Global Caustic Soda Market Size, Share & Trends Analysis Report." *Grand View Research*, 2023. [https://www.grandviewresearch.com/industry-analysis/caustic-soda-market](/en/blog/https://www.grandviewresearch.com/industry-analysis/caustic-soda-market)
 2.  **Lithium Battery Industry Association.** "Global Lithium-ion Battery Market Forecast 2023-2027." *Lithium Battery Industry Association*, 2023.
-3.  **American Chemistry Council.** "Chemical Industry Economic Outlook." *American Chemistry Council*, 2024. [https://www.americanchemistry.com/chemistry-in-america/news-events/tuesday-morning-brief/economic-outlook](https://www.americanchemistry.com/chemistry-in-america/news-events/tuesday-morning-brief/economic-outlook)
-4.  **International Textile Manufacturers Federation (ITMF).** "Global Textile Industry Statistics." *ITMF*, 2023. [https://www.itmf.org/](https://www.itmf.org/)
+3.  **American Chemistry Council.** "Chemical Industry Economic Outlook." *American Chemistry Council*, 2024. [https://www.americanchemistry.com/chemistry-in-america/news-events/tuesday-morning-brief/economic-outlook](/en/blog/https://www.americanchemistry.com/chemistry-in-america/news-events/tuesday-morning-brief/economic-outlook)
+4.  **International Textile Manufacturers Federation (ITMF).** "Global Textile Industry Statistics." *ITMF*, 2023. [https://www.itmf.org/](/en/blog/https://www.itmf.org/)
 5.  **Pulp and Paper Products Council.** "Global Pulp and Paper Industry Report." *Pulp and Paper Products Council*, 2023.
-6.  **U.S. Food and Drug Administration (FDA).** "Food Additives Permitted for Direct Addition to Food for Human Consumption." *FDA*, 2024. [https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption](https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption)
-7.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](https://www.semiconductors.org/)
-8.  **International Energy Agency (IEA).** "Renewable Energy Market Update." *IEA*, 2023. [https://www.iea.org/reports/renewable-energy-market-update-june-2023](https://www.iea.org/reports/renewable-energy-market-update-june-2023)
-9.  **Statista.** "Cleaning Chemicals Market Worldwide." *Statista*, 2023. [https://www.statista.com/](https://www.statista.com/)
-10. **United Nations Environment Programme (UNEP).** "Circular Economy and Resource Efficiency." *UNEP*, 2023. [https://www.unep.org/explore-topics/resource-efficiency/what-we-do/circular-economy](https://www.unep.org/explore-topics/resource-efficiency/what-we-do/circular-economy)
+6.  **U.S. Food and Drug Administration (FDA).** "Food Additives Permitted for Direct Addition to Food for Human Consumption." *FDA*, 2024. [https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption](/en/blog/https://www.fda.gov/food/food-additives-petitions/food-additives-permitted-direct-addition-food-human-consumption)
+7.  **Semiconductor Industry Association (SIA).** "Global Semiconductor Sales Report." *SIA*, 2024. [https://www.semiconductors.org/](/en/blog/https://www.semiconductors.org/)
+8.  **International Energy Agency (IEA).** "Renewable Energy Market Update." *IEA*, 2023. [https://www.iea.org/reports/renewable-energy-market-update-june-2023](/en/blog/https://www.iea.org/reports/renewable-energy-market-update-june-2023)
+9.  **Statista.** "Cleaning Chemicals Market Worldwide." *Statista*, 2023. [https://www.statista.com/](/en/blog/https://www.statista.com/)
+10. **United Nations Environment Programme (UNEP).** "Circular Economy and Resource Efficiency." *UNEP*, 2023. [https://www.unep.org/explore-topics/resource-efficiency/what-we-do/circular-economy](/en/blog/https://www.unep.org/explore-topics/resource-efficiency/what-we-do/circular-economy)

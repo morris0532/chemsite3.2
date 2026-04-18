@@ -38,20 +38,20 @@ The South Asian market, particularly India, Pakistan, and Bangladesh, represents
 
 Across South Asia, oxalic acid is utilized in several critical industrial and commercial processes:
 
-*   **Textile Dyeing and Printing**: Widely used as a mordant, reducing agent, and pH regulator in the textile industry, especially in India and Bangladesh, which are major textile manufacturing hubs [1] (see also [Oxalic Acid for Textile Dyeing & Printing](oxalic-acid-textile-dyeing)).
-*   **Leather Tanning and Processing**: Employed in the leather industry for tanning, bleaching, and stain removal, contributing to the quality and finish of leather products in Pakistan and India [2] (see also [Oxalic Acid for Leather Tanning & Dyeing](oxalic-acid-leather-tanning)).
-*   **Pharmaceutical Intermediates**: Used in the synthesis of various pharmaceutical compounds, particularly in India's robust pharmaceutical sector [3] (see also [Oxalic Acid in Pharmaceutical Intermediates](oxalic-acid-pharmaceutical-intermediates)).
-*   **Industrial Cleaning and Rust Removal**: Effective for removing rust and stains from industrial equipment and surfaces, a common application across all industrial sectors in the region [4] (see also [Oxalic Acid for Cleaning & Descaling](oxalic-acid-cleaning-descaling) and [Oxalic Acid for Rust Removal](oxalic-acid-rust-removal)).
-*   **Water Treatment**: Utilized in water treatment processes for removing iron and manganese, ensuring clean water for industrial and municipal use [5] (see also [Oxalic Acid for Water Treatment](oxalic-acid-water-treatment)).
+*   **Textile Dyeing and Printing**: Widely used as a mordant, reducing agent, and pH regulator in the textile industry, especially in India and Bangladesh, which are major textile manufacturing hubs [1] (see also [Oxalic Acid for Textile Dyeing & Printing](/en/blog/oxalic-acid-textile-dyeing)).
+*   **Leather Tanning and Processing**: Employed in the leather industry for tanning, bleaching, and stain removal, contributing to the quality and finish of leather products in Pakistan and India [2] (see also [Oxalic Acid for Leather Tanning & Dyeing](/en/blog/oxalic-acid-leather-tanning)).
+*   **Pharmaceutical Intermediates**: Used in the synthesis of various pharmaceutical compounds, particularly in India's robust pharmaceutical sector [3] (see also [Oxalic Acid in Pharmaceutical Intermediates](/en/blog/oxalic-acid-pharmaceutical-intermediates)).
+*   **Industrial Cleaning and Rust Removal**: Effective for removing rust and stains from industrial equipment and surfaces, a common application across all industrial sectors in the region [4] (see also [Oxalic Acid for Cleaning & Descaling](/en/blog/oxalic-acid-cleaning-descaling) and [Oxalic Acid for Rust Removal](/en/blog/oxalic-acid-rust-removal)).
+*   **Water Treatment**: Utilized in water treatment processes for removing iron and manganese, ensuring clean water for industrial and municipal use [5] (see also [Oxalic Acid for Water Treatment](/en/blog/oxalic-acid-water-treatment)).
 
 ### SinoPeakChem: Your Reliable Partner for South Asia
 
 SinoPeakChem is committed to serving the South Asian market with high-quality oxalic acid and exceptional service. Our advantages include:
 
-1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, meeting international quality standards. Each batch is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [6] (see also [Oxalic Acid Grades & Specifications](oxalic-acid-grades-specifications)).
+1.  **Consistent Quality**: We supply oxalic acid with a minimum purity of 99.6%, meeting international quality standards. Each batch is accompanied by a Certificate of Analysis (CoA) to guarantee product specifications [6] (see also [Oxalic Acid Grades & Specifications](/en/blog/oxalic-acid-grades-specifications)).
 2.  **Efficient Logistics**: Leveraging established shipping routes to major South Asian ports such as Mumbai, Karachi, and Chittagong, we ensure timely and secure delivery. Our logistics team is experienced in navigating the complexities of international chemical shipments, including compliance with local regulations.
-3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [7] (see also [Oxalic Acid Price Trend 2025](oxalic-acid-price)).
-4.  **Flexible Packaging Solutions**: We offer various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to accommodate diverse storage and handling needs across the continent [8] (see also [Oxalic Acid Packaging & Storage](oxalic-acid-packaging-storage)).
+3.  **Competitive Pricing**: As a direct manufacturer, we offer competitive pricing for bulk orders of oxalic acid, providing cost-effective solutions without compromising on quality [7] (see also [Oxalic Acid Price Trend 2025](/en/blog/oxalic-acid-price)).
+4.  **Flexible Packaging Solutions**: We offer various packaging options, from 25kg PP woven bags to 1-ton jumbo bags, to accommodate diverse storage and handling needs across the continent [8] (see also [Oxalic Acid Packaging & Storage](/en/blog/oxalic-acid-packaging-storage)).
 5.  **Market Understanding**: We understand the unique challenges and opportunities in the South Asian chemical market, enabling us to offer tailored solutions and support for your procurement processes.
 
 ### Serving Key South Asian Countries
@@ -76,7 +76,7 @@ SinoPeakChem is at the forefront of providing high-quality chemical solutions, i
 
 [Discover Our Sustainable Production Practices →](/en/products/oxalic-acid) [Contact Our Innovation Team →](/en/contact)
 
-📧 Email: [sales@sinopeakchem.com](mailto:sales@sinopeakchem.com)
+📧 Email: [sales@sinopeakchem.com](/en/blog/mailto:sales@sinopeakchem.com)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
