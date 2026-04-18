@@ -1,5 +1,5 @@
 ---
-Id: 90GOdbO1Rp
+Id: v3Z8NUxYo8
 Excerpt: "A technical guide for logistics managers and plant engineers on the critical role of Bulk Density in Soda Ash procurement. Learn how density affects silo capacity, pneumatic conveying, and ocean freight costs for Light and Dense grades."
 title: "Bulk Density vs. Apparent Density: Optimizing Soda Ash Storage & Logistics"
 description: "A technical guide for logistics managers and plant engineers on the critical role of Bulk Density in Soda Ash procurement. Learn how density affects silo capacity, pneumatic conveying, and ocean freight costs for Light and Dense grades."
@@ -8,12 +8,12 @@ imageAlt: "Industrial silos and bulk loading of Soda Ash, illustrating the impor
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: "[\"soda ash bulk density\", \"apparent density sodium carbonate\", \"soda ash logistics\", \"silo capacity calculation\", \"pneumatic conveying chemicals\", \"China soda ash export\", \"bulk chemical storage\"]"
+tag: ""
 Primary_Keyword: "Soda Ash Bulk Density"
 Keywords: "Soda Ash Bulk Density, Apparent Density Chemicals, Soda Ash Logistics Optimization, Storage Silo Calculation, Soda Ash Transport Efficiency"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: bulk-density-vs-apparent-density
 slug: bulk-density-vs-apparent-density
 ---
 # Bulk Density vs. Apparent Density: Optimizing Soda Ash Storage & Logistics

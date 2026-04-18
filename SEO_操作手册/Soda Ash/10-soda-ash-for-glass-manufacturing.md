@@ -1,5 +1,5 @@
 ---
-Id: NEIJZvitGW
+Id: yZtO6EoUag
 Excerpt: "A strategic sourcing guide for glass manufacturers on Soda Ash (Sodium Carbonate) procurement. Learn about the critical role of Soda Ash Dense, purity requirements (Fe ≤ 0.003%), and how to audit China suppliers for flat, container, and solar glass production."
 title: "Soda Ash for Glass Manufacturing: High-Purity Sourcing from China"
 description: "A strategic sourcing guide for glass manufacturers on Soda Ash (Sodium Carbonate) procurement. Learn about the critical role of Soda Ash Dense, purity requirements (Fe ≤ 0.003%), and how to audit China suppliers for flat, container, and solar glass production."
@@ -8,12 +8,12 @@ imageAlt: "High-temperature glass furnace with molten glass and Soda Ash Dense g
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"glass grade soda ash\", \"soda ash dense for glass\", \"sodium carbonate for glass manufacturing\", \"solar glass chemicals\", \"flat glass raw materials\", \"China soda ash supplier\", \"low iron soda ash\"]"
+tag: ""
 Primary_Keyword: "Soda Ash for Glass Manufacturing"
 Keywords: "Soda Ash for Glass Manufacturing, Glass Grade Soda Ash, High Purity Sodium Carbonate, China Glass Chemical Supplier, Dense Soda Ash Sourcing"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-for-glass-manufacturing
 slug: soda-ash-for-glass-manufacturing
 ---
 # Soda Ash for Glass Manufacturing: High-Purity Sourcing from China

@@ -1,5 +1,5 @@
 ---
-Id: QHu2rCcmg5
+Id: 8zGgNXGhHG
 Excerpt: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing"
 description: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
@@ -8,12 +8,12 @@ imageAlt: "Large-scale mining flotation cells processing copper and zinc ore usi
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"mining soda ash\", \"flotation chemicals\", \"ore processing sodium carbonate\", \"pH regulator mining\", \"mineral processing reagents\", \"China soda ash supplier\", \"bulk mining chemicals\"]"
+tag: ""
 Primary_Keyword: "Soda Ash for Mining"
 Keywords: "Soda Ash for Mining, Flotation Chemicals Sourcing, Ore Processing Alkali, Mining Grade Soda Ash, Froth Flotation pH Control"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-for-mining-flotation
 slug: soda-ash-for-mining-flotation
 ---
 # Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing

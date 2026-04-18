@@ -1,5 +1,5 @@
 ---
-Id: eKZ4WiNty8
+Id: RoFgfxCEDi
 Excerpt: "A comprehensive guide for food manufacturers on sourcing Food Grade Soda Ash (Sodium Carbonate). Explore its role as an acidity regulator, leavening agent, and noodle improver, and learn about E500(i) compliance and safety standards for global procurement."
 title: "Soda Ash for Food Industry: E500(i) Compliance & Safety"
 description: "A comprehensive guide for food manufacturers on sourcing Food Grade Soda Ash (Sodium Carbonate). Explore its role as an acidity regulator, leavening agent, and noodle improver, and learn about E500(i) compliance and safety standards for global procurement."
@@ -8,12 +8,12 @@ imageAlt: "High-purity Food Grade Soda Ash being used in a professional food pro
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"food grade soda ash\", \"sodium carbonate E500(i)\", \"acidity regulator food\", \"noodle improver chemicals\", \"food additive sourcing\", \"China food grade chemicals\", \"FCC compliant soda ash\"]"
+tag: ""
 Primary_Keyword: "Food Grade Soda Ash"
 Keywords: "Food Grade Soda Ash, E500i Compliance, Food Additive Sourcing, Sodium Carbonate Food Safety, FCC Compliant Soda Ash"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-for-food-industry
 slug: soda-ash-for-food-industry
 ---
 # Soda Ash for Food Industry: E500(i) Compliance & Safety

@@ -1,5 +1,5 @@
 ---
-Id: impRqNNTlI
+Id: i9QCSUZMXM
 Excerpt: "A technical comparison of Soda Ash (Anhydrous Sodium Carbonate) and Washing Soda (Sodium Carbonate Decahydrate), focusing on chemical hydration, industrial applications, and bulk procurement strategies for global distributors."
 title: "Soda Ash vs Washing Soda: Understanding Hydrates for Bulk Buying"
 description: "A technical comparison of Soda Ash (Anhydrous Sodium Carbonate) and Washing Soda (Sodium Carbonate Decahydrate), focusing on chemical hydration, industrial applications, and bulk procurement strategies for global distributors."
@@ -8,12 +8,12 @@ imageAlt: "Comparative illustration of Soda Ash and Washing Soda crystals with c
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Compare"
-tag: "[\"soda ash vs washing soda\", \"sodium carbonate anhydrous\", \"sodium carbonate decahydrate\", \"washing soda bulk buy\", \"chemical hydrates\", \"detergent chemicals\", \"China chemical supplier\"]"
+tag: ""
 Primary_Keyword: "Soda Ash vs Washing Soda"
 Keywords: "Soda Ash vs Washing Soda, Sodium Carbonate Hydrates, Bulk Chemical Buying, Washing Soda Sourcing, Industrial Alkali Grades"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-vs-washing-soda
 slug: soda-ash-vs-washing-soda
 ---
 # Soda Ash vs Washing Soda: Understanding Hydrates for Bulk Buying

@@ -1,5 +1,5 @@
 ---
-Id: e4Lr4F9UBr
+Id: 7snFz5z98d
 Excerpt: "A technical guide for quality control managers on the impact of impurities in Soda Ash (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
 title: "Impurity Analysis: Fe, Cl, and SO4 in Soda Ash"
 description: "A technical guide for quality control managers on the impact of impurities in Soda Ash (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
@@ -8,12 +8,12 @@ imageAlt: "High-precision laboratory analysis of Soda Ash impurities using ICP-O
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: "[\"soda ash impurities\", \"iron in sodium carbonate\", \"chloride in soda ash\", \"sulfate in soda ash\", \"glass grade soda ash\", \"chemical synthesis impurities\", \"China soda ash quality\"]"
+tag: ""
 Primary_Keyword: "Soda Ash Impurity Analysis"
 Keywords: "Soda Ash Impurity Analysis, Low Iron Soda Ash, Chloride in Sodium Carbonate, Sulfate in Soda Ash, High Purity Chemical Analysis"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: impurity-analysis-fe-cl-so4
 slug: impurity-analysis-fe-cl-so4
 ---
 # Impurity Analysis: Fe, Cl, and SO4 in Soda Ash

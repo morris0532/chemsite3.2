@@ -1,5 +1,5 @@
 ---
-Id: lEASJeJ7gk
+Id: kXDEmitIPF
 Excerpt: "A strategic procurement guide for FMCG detergent and soap manufacturers on sourcing Soda Ash (Sodium Carbonate). Explore the critical role of Soda Ash Light as a builder, water softener, and surfactant carrier, and how to optimize bulk sourcing from China."
 title: "Soda Ash for Detergent & Soap: Bulk Sourcing for FMCG Brands"
 description: "A strategic procurement guide for FMCG detergent and soap manufacturers on sourcing Soda Ash (Sodium Carbonate). Explore the critical role of Soda Ash Light as a builder, water softener, and surfactant carrier, and how to optimize bulk sourcing from China."
@@ -8,12 +8,12 @@ imageAlt: "Industrial detergent production line with high-purity Soda Ash Light 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"detergent grade soda ash\", \"soda ash light for soap\", \"sodium carbonate for detergents\", \"FMCG chemical sourcing\", \"water softener chemicals\", \"China soda ash supplier\", \"bulk detergent raw materials\"]"
+tag: ""
 Primary_Keyword: "Soda Ash for Detergent"
 Keywords: "Soda Ash for Detergent, Detergent Grade Soda Ash, FMCG Chemical Sourcing, Soda Ash Light Bulk, Soap Manufacturing Chemicals"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-for-detergent-soap
 slug: soda-ash-for-detergent-soap
 ---
 # Soda Ash for Detergent & Soap: Bulk Sourcing for FMCG Brands

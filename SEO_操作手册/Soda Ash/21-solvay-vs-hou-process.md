@@ -1,5 +1,5 @@
 ---
-Id: GktyVl1kic
+Id: MhwqcXy9Af
 Excerpt: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 title: "Solvay vs. Hou Process: Which Soda Ash is Better for You?"
 description: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
@@ -8,12 +8,12 @@ imageAlt: "Industrial diagram comparing the Solvay and Hou processes for Soda As
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: "[\"Solvay process soda ash\", \"Hou process sodium carbonate\", \"combined soda ash process\", \"synthetic soda ash production\", \"ammonia-soda process\", \"China soda ash technology\", \"soda ash impurities\"]"
+tag: ""
 Primary_Keyword: "Solvay vs Hou Process"
 Keywords: "Solvay vs Hou Process, Soda Ash Production Technology, Hou Process Advantages, China Soda Ash Technology, Synthetic Soda Ash Sourcing"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: solvay-vs-hou-process
 slug: solvay-vs-hou-process
 ---
 # Solvay vs. Hou Process: Which Soda Ash is Better for You?

@@ -1,5 +1,5 @@
 ---
-Id: MZWpOLfOib
+Id: baVsatyivM
 Excerpt: "A technical guide for chemical manufacturers on using Soda Ash (Sodium Carbonate) as a primary raw material for synthesizing sodium silicates, phosphates, and other inorganic chemicals. Explore reaction kinetics, purity requirements, and bulk sourcing strategies."
 title: "Soda Ash in Chemical Synthesis: Sodium Silicates & Phosphates"
 description: "A technical guide for chemical manufacturers on using Soda Ash (Sodium Carbonate) as a primary raw material for synthesizing sodium silicates, phosphates, and other inorganic chemicals. Explore reaction kinetics, purity requirements, and bulk sourcing strategies."
@@ -8,12 +8,12 @@ imageAlt: "Industrial chemical reactor and raw material silos for the synthesis 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"soda ash for chemical synthesis\", \"sodium silicate raw materials\", \"sodium phosphate production\", \"inorganic chemical manufacturing\", \"sodium carbonate for industry\", \"China chemical supplier\", \"bulk alkali sourcing\"]"
+tag: ""
 Primary_Keyword: "Soda Ash in Chemical Synthesis"
 Keywords: "Soda Ash in Chemical Synthesis, Sodium Silicate Production, Sodium Phosphate Sourcing, Inorganic Salt Manufacturing, Industrial Alkali Synthesis"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-in-chemical-synthesis
 slug: soda-ash-in-chemical-synthesis
 ---
 # Soda Ash in Chemical Synthesis: Sodium Silicates & Phosphates

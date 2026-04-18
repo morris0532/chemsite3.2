@@ -1,5 +1,5 @@
 ---
-Id: x1nhxWaC6z
+Id: 9W7fQrjMdb
 Excerpt: "A technical guide for metallurgical procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement"
 description: "A technical guide for metallurgical procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
@@ -8,12 +8,12 @@ imageAlt: "High-temperature metallurgical furnace and metal recycling facility u
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: "[\"metallurgy soda ash\", \"alumina production chemicals\", \"lead recycling soda ash\", \"iron desulfurization\", \"sodium carbonate for smelting\", \"China chemical supplier\", \"bulk metallurgical chemicals\"]"
+tag: ""
 Primary_Keyword: "Soda Ash for Metallurgy"
 Keywords: "Soda Ash for Metallurgy, Alumina Production Chemicals, Lead Recycling Sourcing, Metallurgical Grade Soda Ash, Steel Desulfurization Chemicals"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: soda-ash-for-metallurgy
 slug: soda-ash-for-metallurgy
 ---
 # Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement

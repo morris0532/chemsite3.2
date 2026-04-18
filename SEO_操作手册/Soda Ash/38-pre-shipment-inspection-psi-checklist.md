@@ -1,5 +1,5 @@
 ---
-Id: HPKC1ABKwR
+Id: 0MJapTFGQE
 Excerpt: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for Soda Ash (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
 title: "The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash"
 description: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for Soda Ash (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
@@ -8,12 +8,12 @@ imageAlt: "A professional inspector performing a Pre-Shipment Inspection (PSI) f
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: "[\"PSI for Soda Ash\", \"pre-shipment inspection chemical\", \"SGS inspection Soda Ash\", \"chemical quality control\", \"Soda Ash export inspection\", \"China chemical sourcing\", \"B2B chemical trade\"]"
+tag: ""
 Primary_Keyword: "PSI for Soda Ash"
 Keywords: "PSI for Soda Ash, Pre-Shipment Inspection Chemicals, SGS Inspection Soda Ash, Chemical Quality Assurance, Soda Ash Loading Inspection"
 Schema_Type: TechArticle
 Target_Region: Global (EN)
-rootnotouch: 
+rootnotouch: pre-shipment-inspection-psi-checklist
 slug: pre-shipment-inspection-psi-checklist
 ---
 # The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash
