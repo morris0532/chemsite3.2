@@ -35,7 +35,7 @@ Whether you are conducting a physical site visit or a remote "desktop" audit, yo
 
 ## 1. Quality Control (QC) and Laboratory Capabilities
 
-A world-class Soda Ash factory must have a laboratory that is as sophisticated as its production line.
+A leading Soda Ash factory must have a laboratory that is as sophisticated as its production line.
 
 ### What to Verify:
 *   **Testing Frequency**: Does the factory test every batch (approx. every 2-4 hours) or only once per day? High-frequency testing is essential for maintaining consistent PSD (Particle Size Distribution).

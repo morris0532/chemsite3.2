@@ -60,7 +60,7 @@ When reviewing a **Certificate of Analysis (COA)** from a China supplier, the PS
 
 1.  **The "Main Fraction"**: For Soda Ash Dense, you want to see the highest percentage (typically >85%) between 18 mesh and 80 mesh. This indicates a highly uniform, granular product.
 2.  **The "Fines" Content**: Always check the percentage passing through the finest sieve (e.g., <180μm). For Dense grade, this should be kept as low as possible (ideally <10%) to minimize dust.
-3.  **Consistency Over Time**: A world-class supplier will provide PSD data that remains stable from batch to batch. Fluctuations in PSD are often a sign of poor screening maintenance or inconsistent calcination in the factory.
+3.  **Consistency Over Time**: A leading supplier will provide PSD data that remains stable from batch to batch. Fluctuations in PSD are often a sign of poor screening maintenance or inconsistent calcination in the factory.
 
 ---
 

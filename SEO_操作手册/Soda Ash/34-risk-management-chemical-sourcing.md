@@ -17,7 +17,7 @@ rootnotouch: risk-management-chemical-sourcing
 slug: risk-management-chemical-sourcing
 ---
 
-In the global **Soda Ash (Sodium Carbonate, Na₂CO₃)** market, "business as usual" is a myth. The industry is defined by constant volatility—from sudden spikes in coal and natural gas prices to geopolitical disruptions in major shipping lanes. For a procurement director, a million-dollar decision is not just about the price today, but about the **Risk Profile** of the supply chain over the next 12 to 24 months.
+In the global **Soda Ash (Sodium Carbonate, Na₂CO₃)** market, "business as usual" is a myth. The industry is defined by constant volatility—from sudden spikes in coal and natural gas prices to geopolitical disruptions in major shipping lanes. For a procurement director, a critical procurement decision is not just about the price today, but about the **Risk Profile** of the supply chain over the next 12 to 24 months.
 
 Managing risk in chemical sourcing requires a shift from "transactional" buying to "strategic" supply chain management. This guide provides a technical framework for identifying, quantifying, and hedging against the primary risks in the Soda Ash market, ensuring your plant remains operational and profitable even in the most turbulent times.
 

@@ -142,7 +142,7 @@ Using caustic soda in refineries offers significant environmental benefits, prim
 
 ### 5. What safety measures are critical when handling caustic soda in a refinery environment?
 
-Critical safety measures for handling caustic soda in a refinery environment include mandatory use of **rigorous Personal Protective Equipment (PPE)** (chemical-resistant suits, face shields, gloves, boots). **Specialized storage tanks** with secondary containment, **heated transfer lines** for concentrated solutions, and **readily available emergency showers and eyewash stations** are essential. Furthermore, comprehensive **spill response plans** and thorough **personnel training** on hazards and safe operating procedures are paramount to prevent accidents and ensure safety.
+Critical safety measures for handling caustic soda in a refinery environment include mandatory use of **rigorous Personal Protective Equipment (PPE)** (chemical-resistant suits, face shields, gloves, boots). **Specialized storage tanks** with secondary containment, **heated transfer lines** for concentrated solutions, and **readily available emergency showers and eyewash stations** are essential. Additionally, comprehensive **spill response plans** and thorough **personnel training** on hazards and safe operating procedures are paramount to prevent accidents and ensure safety.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -64,6 +64,6 @@ In **food processing**, food-grade Ammonium Sulphate is used as a **dough condit
 
 The **pharmaceutical industry** employs Ammonium Sulphate as a **precipitating agent** for proteins and as a component in various medications. It is also used in **biotechnology** for the purification of enzymes and other biological molecules.
 
-Furthermore, Ammonium Sulphate finds applications in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
+Additionally, Ammonium Sulphate finds applications in **metallurgy** for the refining of various metals and in **construction** as a concrete retarder to slow down the setting time of concrete. Its high solubility and stable nature make it an ideal choice for many applications.
 
 Our Ammonium Sulphate is available in various grades, including agricultural grade (caprolactam grade, steel grade) and industrial grade, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Ammonium Sulphate to our global partners.

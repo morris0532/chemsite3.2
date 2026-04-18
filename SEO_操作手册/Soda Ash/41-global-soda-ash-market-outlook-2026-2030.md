@@ -88,7 +88,7 @@ While total global capacity is sufficient, there may be regional shortages of **
 Initially, Green Soda Ash will carry a premium. However, as carbon taxes increase and green technology scales, it will become the most cost-effective option for global brands.
 
 ### 3. Is China still the best sourcing hub for the next decade?
-Yes. China's massive investment in green technology and its world-class logistics infrastructure ensure that it will remain the most reliable and sustainable sourcing hub for the 2026-2030 period.
+Yes. China's massive investment in green technology and its leading logistics infrastructure ensure that it will remain the most reliable and sustainable sourcing hub for the 2026-2030 period.
 
 ### 4. How do I prepare my team for CBAM?
 Start by requesting "Carbon Footprint Data" from your current suppliers. Sinopeakchem can help you audit your supply chain and transition to CBAM-compliant material.

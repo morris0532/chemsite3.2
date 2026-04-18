@@ -55,7 +55,7 @@ The distinct properties of oxalic acid and EDTA dictate their optimal use cases 
 
 ### Oxalic Acid as a Chelating Agent
 
-Oxalic acid excels in applications requiring targeted metal removal and environmental sustainability. It is highly effective for iron ion removal, making it a staple in [rust removal](/en/blog/oxalic-acid-rust-removal) and metal surface preparation. Its strong affinity for calcium makes it valuable for descaling operations. Furthermore, oxalic acid is crucial in [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction), where it selectively precipitates rare earth elements from complex mixtures. In [wastewater treatment](/en/blog/oxalic-acid-water-treatment), it is increasingly utilized for targeted heavy metal removal, particularly where biodegradable solutions are mandated.
+Oxalic acid excels in applications requiring targeted metal removal and environmental sustainability. It is highly effective for iron ion removal, making it a staple in [rust removal](/en/blog/oxalic-acid-rust-removal) and metal surface preparation. Its strong affinity for calcium makes it valuable for descaling operations. Additionally, oxalic acid is crucial in [rare earth extraction](/en/blog/oxalic-acid-rare-earth-extraction), where it selectively precipitates rare earth elements from complex mixtures. In [wastewater treatment](/en/blog/oxalic-acid-water-treatment), it is increasingly utilized for targeted heavy metal removal, particularly where biodegradable solutions are mandated.
 
 ### EDTA as a Chelating Agent
 

@@ -71,7 +71,7 @@ While sometimes used as a refining agent in glass, uncontrolled sulfate levels i
 When reviewing a **Certificate of Analysis (COA)** from a China supplier, look beyond the "Total Alkali" and focus on the following:
 
 1.  **Detection Limits**: Ensure the laboratory uses high-precision methods like **ICP-OES (Inductively Coupled Plasma Optical Emission Spectroscopy)** for iron and heavy metals, rather than simple colorimetric tests.
-2.  **Batch Consistency**: Request historical data for the last 10 shipments. A world-class supplier will show minimal variance in Fe, Cl, and SO₄ levels, indicating a highly stable production process.
+2.  **Batch Consistency**: Request historical data for the last 10 shipments. A leading supplier will show minimal variance in Fe, Cl, and SO₄ levels, indicating a highly stable production process.
 3.  **Third-Party Verification**: For critical applications, ensure the supplier provides regular reports from independent labs like **SGS or Intertek** to verify their internal QC data.
 
 ---

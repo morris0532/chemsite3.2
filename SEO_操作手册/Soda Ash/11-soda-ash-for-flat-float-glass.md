@@ -19,7 +19,7 @@ slug: soda-ash-for-flat-float-glass
 
 The global construction and automotive industries rely heavily on **Flat Glass**, primarily produced through the **Float Glass Process**. At the heart of this sophisticated manufacturing method is **Soda Ash (Sodium Carbonate, Na₂CO₃)**. As the primary fluxing agent, Soda Ash is responsible for approximately 15% of the glass batch by weight, but its impact on the final product's quality, surface finish, and production efficiency is far greater.
 
-For procurement managers sourcing for large-scale float glass plants, the challenge lies in securing a consistent, high-purity supply of **Soda Ash Dense** that can withstand the rigorous demands of continuous, 24/7 furnace operations. This guide examines the technical requirements for flat glass production, the importance of batch consistency, and the strategic advantages of sourcing from China's world-class Soda Ash facilities.
+For procurement managers sourcing for large-scale float glass plants, the challenge lies in securing a consistent, high-purity supply of **Soda Ash Dense** that can withstand the rigorous demands of continuous, 24/7 furnace operations. This guide examines the technical requirements for flat glass production, the importance of batch consistency, and the strategic advantages of sourcing from China's leading Soda Ash facilities.
 
 ## Core Specification Summary: Soda Ash for Flat & Float Glass
 

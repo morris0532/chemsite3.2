@@ -60,6 +60,6 @@ In **agriculture**, Borax is used as a **boron fertilizer** to provide a readily
 
 The **chemical industry** employs Borax as a raw material for the supply of various other borates and as a building block for other inorganic chemicals. It is also used in the **textile industry** as a flame retardant and in the **pulp and paper industry** as a bleaching assistant.
 
-Furthermore, Borax finds applications in **personal care products**, such as soaps and lotions, where it acts as an emulsifier and buffering agent. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
+Additionally, Borax finds applications in **personal care products**, such as soaps and lotions, where it acts as an emulsifier and buffering agent. Its ability to maintain a stable pH (buffering) makes it valuable in numerous chemical processes.
 
 Our Borax is available in various forms, including decahydrate and pentahydrate, to meet specific application requirements. We provide high-quality packaging in 25KG, 50KG, and 1000KG jumbo bags, ensuring product integrity during international shipping. With reliable logistics from major Chinese ports like Tianjin, Qingdao, and Lianyungang, we offer a consistent and cost-effective supply of Borax to our global partners.
