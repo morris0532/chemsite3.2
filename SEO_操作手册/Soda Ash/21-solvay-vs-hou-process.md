@@ -1,6 +1,6 @@
 ---
 Id: MhwqcXy9Af
-Excerpt: "A technical comparison of the two dominant synthetic methods for [The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
+Excerpt: "A technical comparison of the two dominant synthetic methods for [The Ultimate [Soda Ash](/products/soda-ash) (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 title: "Solvay vs. Hou Process: Which Soda Ash is Better for You?"
 description: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 image: "/images/blog/solvay-vs-hou-process.webp"
@@ -136,12 +136,9 @@ Sinopeakchem — Delivering the right chemistry for your industrial success.
 9.  **World Bank.** "Sustainable Chemical Manufacturing: Best Available Techniques (BAT)." *World Bank Group*, 2024.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 

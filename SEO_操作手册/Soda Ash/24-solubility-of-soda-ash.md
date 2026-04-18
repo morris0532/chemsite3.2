@@ -1,6 +1,6 @@
 ---
 Id: W0lYRiQOs5
-Excerpt: "A technical guide for process engineers on the solubility characteristics of Soda Ash (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
+Excerpt: "A technical guide for process engineers on the solubility characteristics of [Soda Ash](/products/soda-ash) (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
 title: "Solubility of Soda Ash: Temperature, Concentration & Mixing Tips"
 description: "A technical guide for process engineers on the solubility characteristics of Soda Ash (Sodium Carbonate). Learn how temperature affects concentration, the formation of hydrates, and professional tips for rapid, lump-free mixing in industrial applications."
 image: "/images/blog/soda-ash-solubility-mixing.webp"
@@ -124,14 +124,10 @@ Sinopeakchem — Delivering the chemical consistency that powers your production
 9.  **Handbook of Chemistry and Physics.** "Solubility of Inorganic Compounds in Water." *CRC Press*, 104th Edition, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
-
-
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

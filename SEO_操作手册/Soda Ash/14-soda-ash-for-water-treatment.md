@@ -1,6 +1,6 @@
 ---
 Id: aFlNUdfiGx
-Excerpt: "A comprehensive guide for municipal and industrial water treatment procurement on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in pH adjustment, water softening, and alkalinity control, and the benefits of bulk sourcing from China."
+Excerpt: "A comprehensive guide for municipal and industrial water treatment procurement on sourcing [Soda Ash](/products/soda-ash) (Sodium Carbonate). Explore its critical role in pH adjustment, water softening, and alkalinity control, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Water Treatment: [pH Control](25-ph-control-buffering-capacity.md) & Municipal Sourcing"
 description: "A comprehensive guide for municipal and industrial water treatment procurement on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in pH adjustment, water softening, and alkalinity control, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-water-treatment.webp"
@@ -125,12 +125,9 @@ Sinopeakchem — Delivering the reliability and purity required for global water
 9.  **Sinopeakchem Technical Data.** "Soda Ash for Municipal Water Treatment: Purity and Solubility Standards." *Sinopeakchem Internal Report*, 2024.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 

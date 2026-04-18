@@ -1,6 +1,6 @@
 ---
 Id: GVmsUSepg9
-Excerpt: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for Soda Ash (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
+Excerpt: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for [Soda Ash](/products/soda-ash) (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
 title: "REACH & ISO Compliance: Navigating Regulations for Soda Ash"
 description: "A comprehensive guide for compliance officers and procurement managers on the regulatory requirements for Soda Ash (Sodium Carbonate). Learn about REACH registration, ISO 9001/14001 standards, and the importance of SDS in global chemical trade."
 image: "/images/blog/soda-ash-reach-iso-compliance.webp"
@@ -124,12 +124,9 @@ Sinopeakchem — Delivering the compliance and transparency that your global bra
 9.  **European Food Safety Authority (EFSA).** "Scientific Opinion on the re-evaluation of sodium carbonates (E 500i, ii) as food additives." *EFSA Journal*, 2023.
 10. **ISO.** "ISO 14001:2015 Environmental management systems — Requirements with guidance for use." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 

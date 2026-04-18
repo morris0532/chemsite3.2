@@ -1,6 +1,6 @@
 ---
 Id: TLtU6LO2xh
-Excerpt: "A strategic guide for sustainability officers and procurement managers on the future of [The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
+Excerpt: "A strategic guide for sustainability officers and procurement managers on the future of [The Ultimate [Soda Ash](/products/soda-ash) (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual](1. The Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers: 2025-2026 Strategic Sourcing Manual.md) (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
 title: "The Future of Soda Ash: Green Ammonia & Carbon Neutrality"
 description: "A strategic guide for sustainability officers and procurement managers on the future of Soda Ash (Sodium Carbonate). Explore the impact of green ammonia, carbon capture, and the transition to carbon neutrality in the global chemical industry."
 image: "/images/blog/future-of-soda-ash-green-ammonia.webp"
@@ -115,12 +115,9 @@ Sinopeakchem — Delivering the green chemistry and reliability that your global
 9.  **Bloomberg Intelligence.** "Green Ammonia: The Next Frontier in the Global Chemical Supply Chain." *Bloomberg*, 2024.
 10. **ISO.** "ISO 14064-1:2018 Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals." *International Organization for Standardization*, 2018.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 

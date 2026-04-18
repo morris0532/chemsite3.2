@@ -1,6 +1,6 @@
 ---
 Id: eFuFrIZPmP
-Excerpt: "A technical guide for process engineers on using Soda Ash (Sodium Carbonate) for pH regulation. Explore the chemical principles of buffering capacity, alkalinity, and pKa values in water treatment and [chemical synthesis](15-soda-ash-in-chemical-synthesis.md)."
+Excerpt: "A technical guide for process engineers on using [Soda Ash](/products/soda-ash) (Sodium Carbonate) for pH regulation. Explore the chemical principles of buffering capacity, alkalinity, and pKa values in water treatment and [chemical synthesis](15-soda-ash-in-chemical-synthesis.md)."
 title: "pH Control with Soda Ash: Buffering Capacity & Alkalinity"
 description: "A technical guide for process engineers on using Soda Ash (Sodium Carbonate) for pH regulation. Explore the chemical principles of buffering capacity, alkalinity, and pKa values in water treatment and chemical synthesis."
 image: "/images/blog/soda-ash-ph-control.webp"
@@ -129,14 +129,10 @@ Sinopeakchem — Delivering the buffering power that keeps your process on track
 9.  **Standard Methods for the Examination of Water and Wastewater.** "Alkalinity (2320)." *APHA/AWWA/WEF*, 24th Edition, 2023.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical [Soda Ash Specifications: How to Read a COA & TDS for Procurement](5. Soda Ash Specifications: How to Read a COA & TDS for Procurement.md) and bulk pricing.
-
-
 
 > **Pro Tip**: To see how these technical specifications impact real-world supply chain efficiency, check out our [Soda Ash Supply Optimization Case Study](35-case-study-optimizing-soda-ash-supply.md).

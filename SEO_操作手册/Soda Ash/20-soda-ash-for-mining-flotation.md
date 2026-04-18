@@ -1,6 +1,6 @@
 ---
 Id: 8zGgNXGhHG
-Excerpt: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
+Excerpt: "A technical guide for mining procurement managers on sourcing [Soda Ash](/products/soda-ash) (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing"
 description: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-mining-flotation.webp"
@@ -125,12 +125,9 @@ Sinopeakchem — Delivering the reliability and purity required for global minin
 9.  **World Bank.** "The Growing Role of Minerals and Metals for a Low Carbon Future." *World Bank Group*, 2024.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 

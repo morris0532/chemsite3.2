@@ -1,6 +1,6 @@
 ---
 Id: kXDEmitIPF
-Excerpt: "A strategic procurement guide for FMCG detergent and soap manufacturers on sourcing Soda Ash (Sodium Carbonate). Explore the critical role of [Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) as a builder, water softener, and surfactant carrier, and how to optimize bulk sourcing from China."
+Excerpt: "A strategic procurement guide for FMCG detergent and soap manufacturers on sourcing [Soda Ash](/products/soda-ash) (Sodium Carbonate). Explore the critical role of [Soda Ash Light](4. Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md) as a builder, water softener, and surfactant carrier, and how to optimize bulk sourcing from China."
 title: "Soda Ash for Detergent & Soap: Bulk Sourcing for FMCG Brands"
 description: "A strategic procurement guide for FMCG detergent and soap manufacturers on sourcing Soda Ash (Sodium Carbonate). Explore the critical role of Soda Ash Light as a builder, water softener, and surfactant carrier, and how to optimize bulk sourcing from China."
 image: "/images/blog/soda-ash-for-detergent-soap.webp"
@@ -115,12 +115,9 @@ Sinopeakchem — Delivering the purity and reliability that global detergent bra
 9.  **World Bank.** "Global FMCG Market Trends: Raw Material [Supply Chain Resilience](40-building-resilient-soda-ash-supply-chain.md)." *World Bank Group*, 2024.
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
-
 ---
 
 **Related Reading**: [Strategic Sourcing Guide for Soda Ash Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)
 
-
 **Product Information**: View our [Soda Ash (Sodium Carbonate)](/en/products/soda-ash) technical specifications and bulk pricing.
-
 
