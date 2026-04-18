@@ -1,15 +1,21 @@
 ---
+Id: GktyVl1kic
+Excerpt: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 title: "Solvay vs. Hou Process: Which Soda Ash is Better for You?"
 description: "A technical comparison of the two dominant synthetic methods for Soda Ash production: the Solvay Process and the Hou (Combined) Process. Learn about the chemical differences, impurity profiles, and which process best suits your industrial application."
 image: "/images/blog/solvay-vs-hou-process.webp"
 imageAlt: "Industrial diagram comparing the Solvay and Hou processes for Soda Ash production, highlighting resource efficiency and by-products"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Technical"
-tags: ["Solvay process soda ash", "Hou process sodium carbonate", "combined soda ash process", "synthetic soda ash production", "ammonia-soda process", "China soda ash technology", "soda ash impurities"]
-keywords: ['Solvay vs Hou Process', 'Soda Ash Production Technology', 'Hou Process Advantages', 'China Soda Ash Technology', 'Synthetic Soda Ash Sourcing']
+tag: "[\"Solvay process soda ash\", \"Hou process sodium carbonate\", \"combined soda ash process\", \"synthetic soda ash production\", \"ammonia-soda process\", \"China soda ash technology\", \"soda ash impurities\"]"
+Primary_Keyword: "Solvay vs Hou Process"
+Keywords: "Solvay vs Hou Process, Soda Ash Production Technology, Hou Process Advantages, China Soda Ash Technology, Synthetic Soda Ash Sourcing"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: solvay-vs-hou-process
 ---
-
 # Solvay vs. Hou Process: Which Soda Ash is Better for You?
 
 In the global chemical market, over 70% of **Soda Ash (Sodium Carbonate, Na₂CO₃)** is produced synthetically. While the end product is chemically identical, the manufacturing process used can significantly impact the impurity profile, environmental footprint, and cost-efficiency of the material. For procurement managers and chemical engineers, understanding the differences between the **Solvay Process** and the **Hou (Combined) Process** is essential for selecting the right grade for specific industrial applications.

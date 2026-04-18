@@ -1,15 +1,21 @@
 ---
+Id: QHu2rCcmg5
+Excerpt: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing"
 description: "A technical guide for mining procurement managers on sourcing Soda Ash (Sodium Carbonate) for ore processing. Explore its critical role in froth flotation, pH regulation, and gangue dispersion, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-mining-flotation.webp"
 imageAlt: "Large-scale mining flotation cells processing copper and zinc ore using high-purity Soda Ash for pH control and mineral separation"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Industry"
-tags: ["mining soda ash", "flotation chemicals", "ore processing sodium carbonate", "pH regulator mining", "mineral processing reagents", "China soda ash supplier", "bulk mining chemicals"]
-keywords: ['Soda Ash for Mining', 'Flotation Chemicals Sourcing', 'Ore Processing Alkali', 'Mining Grade Soda Ash', 'Froth Flotation pH Control']
+tag: "[\"mining soda ash\", \"flotation chemicals\", \"ore processing sodium carbonate\", \"pH regulator mining\", \"mineral processing reagents\", \"China soda ash supplier\", \"bulk mining chemicals\"]"
+Primary_Keyword: "Soda Ash for Mining"
+Keywords: "Soda Ash for Mining, Flotation Chemicals Sourcing, Ore Processing Alkali, Mining Grade Soda Ash, Froth Flotation pH Control"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: soda-ash-for-mining-flotation
 ---
-
 # Soda Ash for Mining & Flotation: Sourcing for Global Ore Processing
 
 In the global **Mining and Mineral Processing Industry**, achieving high recovery rates and concentrate grades is the primary objective. **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a fundamental reagent used extensively in the **Froth Flotation** process for base metals (copper, lead, zinc), precious metals, and industrial minerals. Acting as a pH regulator, dispersant, and depressant, Soda Ash ensures the optimal chemical environment for collectors and frothers to selectively attach to valuable minerals.

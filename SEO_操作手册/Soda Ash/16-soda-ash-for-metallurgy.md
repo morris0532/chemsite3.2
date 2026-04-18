@@ -1,15 +1,21 @@
 ---
+Id: x1nhxWaC6z
+Excerpt: "A technical guide for metallurgical procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
 title: "Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement"
 description: "A technical guide for metallurgical procurement managers on sourcing Soda Ash (Sodium Carbonate). Explore its critical role in alumina production, lead-acid battery recycling, and iron desulfurization, and the benefits of bulk sourcing from China."
 image: "/images/blog/soda-ash-for-metallurgy.webp"
 imageAlt: "High-temperature metallurgical furnace and metal recycling facility using Soda Ash for fluxing and desulfurization"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Industry"
-tags: ["metallurgy soda ash", "alumina production chemicals", "lead recycling soda ash", "iron desulfurization", "sodium carbonate for smelting", "China chemical supplier", "bulk metallurgical chemicals"]
-keywords: ['Soda Ash for Metallurgy', 'Alumina Production Chemicals', 'Lead Recycling Sourcing', 'Metallurgical Grade Soda Ash', 'Steel Desulfurization Chemicals']
+tag: "[\"metallurgy soda ash\", \"alumina production chemicals\", \"lead recycling soda ash\", \"iron desulfurization\", \"sodium carbonate for smelting\", \"China chemical supplier\", \"bulk metallurgical chemicals\"]"
+Primary_Keyword: "Soda Ash for Metallurgy"
+Keywords: "Soda Ash for Metallurgy, Alumina Production Chemicals, Lead Recycling Sourcing, Metallurgical Grade Soda Ash, Steel Desulfurization Chemicals"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: soda-ash-for-metallurgy
 ---
-
 # Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement
 
 In the global **Metallurgical Industry**, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a vital process chemical used for fluxing, desulfurization, and chemical refining. From the massive alumina refineries that feed the aluminum industry to the specialized facilities recycling lead-acid batteries, Soda Ash provides the necessary alkalinity and sodium content to optimize metal recovery and reduce environmental impact.

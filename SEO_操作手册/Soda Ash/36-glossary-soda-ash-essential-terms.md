@@ -1,15 +1,21 @@
 ---
+Id: FXziGuOiJ2
+Excerpt: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical specifications, production processes, and trade terminology for global procurement."
 title: "The A-Z of Soda Ash: Essential Terms for Procurement Managers"
 description: "A comprehensive glossary of the essential terms and technical definitions for Soda Ash (Sodium Carbonate). Learn the A-Z of chemical specifications, production processes, and trade terminology for global procurement."
 image: "/images/blog/soda-ash-glossary-terms.webp"
 imageAlt: "A professional glossary of Soda Ash terms, highlighting key definitions like Dense, Light, Solvay, and Hou"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Glossary"
-tags: ["Soda Ash glossary", "chemical terms sodium carbonate", "Dense vs Light Soda Ash", "Solvay vs Hou process", "chemical trade terminology", "Soda Ash specifications", "China chemical export"]
-keywords: ['Soda Ash Glossary', 'Sodium Carbonate Terms', 'Dense vs Light Soda Ash', 'Chemical Trade Definitions', 'Procurement Manager Dictionary']
+tag: "[\"Soda Ash glossary\", \"chemical terms sodium carbonate\", \"Dense vs Light Soda Ash\", \"Solvay vs Hou process\", \"chemical trade terminology\", \"Soda Ash specifications\", \"China chemical export\"]"
+Primary_Keyword: "Soda Ash Glossary"
+Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, Dense vs Light Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: glossary-soda-ash-essential-terms
 ---
-
 # The A-Z of Soda Ash: Essential Terms for Procurement Managers
 
 In the global **Soda Ash (Sodium Carbonate, Na₂CO₃)** market, clear communication is the foundation of a successful procurement strategy. For a procurement manager, understanding the technical nuances between "Dense" and "Light," or the difference between "Solvay" and "Hou," is essential for ensuring you receive the right material for your specific application. A million-dollar decision should never be lost in translation.

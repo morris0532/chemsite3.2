@@ -1,15 +1,21 @@
 ---
+Id: e4Lr4F9UBr
+Excerpt: "A technical guide for quality control managers on the impact of impurities in Soda Ash (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
 title: "Impurity Analysis: Fe, Cl, and SO4 in Soda Ash"
 description: "A technical guide for quality control managers on the impact of impurities in Soda Ash (Sodium Carbonate). Learn how trace levels of Iron (Fe), Chloride (Cl), and Sulfate (SO4) affect glass clarity, corrosion, and chemical synthesis."
 image: "/images/blog/soda-ash-impurity-analysis.webp"
 imageAlt: "High-precision laboratory analysis of Soda Ash impurities using ICP-OES, highlighting the control of Fe, Cl, and SO4"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Technical"
-tags: ["soda ash impurities", "iron in sodium carbonate", "chloride in soda ash", "sulfate in soda ash", "glass grade soda ash", "chemical synthesis impurities", "China soda ash quality"]
-keywords: ['Soda Ash Impurity Analysis', 'Low Iron Soda Ash', 'Chloride in Sodium Carbonate', 'Sulfate in Soda Ash', 'High Purity Chemical Analysis']
+tag: "[\"soda ash impurities\", \"iron in sodium carbonate\", \"chloride in soda ash\", \"sulfate in soda ash\", \"glass grade soda ash\", \"chemical synthesis impurities\", \"China soda ash quality\"]"
+Primary_Keyword: "Soda Ash Impurity Analysis"
+Keywords: "Soda Ash Impurity Analysis, Low Iron Soda Ash, Chloride in Sodium Carbonate, Sulfate in Soda Ash, High Purity Chemical Analysis"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: impurity-analysis-fe-cl-so4
 ---
-
 # Impurity Analysis: Fe, Cl, and SO4 in Soda Ash
 
 In high-end industrial manufacturing, the difference between a "good" product and a "perfect" one often comes down to parts per million (ppm). For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, while the total alkali content is usually ≥ 99.2%, the remaining 0.8% contains trace impurities that can have a disproportionate impact on your process. **Iron (Fe)**, **Chloride (Cl)**, and **Sulfate (SO₄)** are the three most critical impurities that quality control managers and process engineers must monitor.

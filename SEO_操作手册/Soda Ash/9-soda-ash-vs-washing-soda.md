@@ -1,15 +1,21 @@
 ---
+Id: impRqNNTlI
+Excerpt: "A technical comparison of Soda Ash (Anhydrous Sodium Carbonate) and Washing Soda (Sodium Carbonate Decahydrate), focusing on chemical hydration, industrial applications, and bulk procurement strategies for global distributors."
 title: "Soda Ash vs Washing Soda: Understanding Hydrates for Bulk Buying"
 description: "A technical comparison of Soda Ash (Anhydrous Sodium Carbonate) and Washing Soda (Sodium Carbonate Decahydrate), focusing on chemical hydration, industrial applications, and bulk procurement strategies for global distributors."
 image: "/images/blog/soda-ash-vs-washing-soda.webp"
 imageAlt: "Comparative illustration of Soda Ash and Washing Soda crystals with chemical structures and industrial applications"
-date: 2026-04-11
-author: "Sinopeakchem Technical Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Compare"
-tags: ["soda ash vs washing soda", "sodium carbonate anhydrous", "sodium carbonate decahydrate", "washing soda bulk buy", "chemical hydrates", "detergent chemicals", "China chemical supplier"]
-keywords: ['Soda Ash vs Washing Soda', 'Sodium Carbonate Hydrates', 'Bulk Chemical Buying', 'Washing Soda Sourcing', 'Industrial Alkali Grades']
+tag: "[\"soda ash vs washing soda\", \"sodium carbonate anhydrous\", \"sodium carbonate decahydrate\", \"washing soda bulk buy\", \"chemical hydrates\", \"detergent chemicals\", \"China chemical supplier\"]"
+Primary_Keyword: "Soda Ash vs Washing Soda"
+Keywords: "Soda Ash vs Washing Soda, Sodium Carbonate Hydrates, Bulk Chemical Buying, Washing Soda Sourcing, Industrial Alkali Grades"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: soda-ash-vs-washing-soda
 ---
-
 # Soda Ash vs Washing Soda: Understanding Hydrates for Bulk Buying
 
 For chemical distributors and industrial procurement managers, the terms **Soda Ash** and **Washing Soda** are often used interchangeably, but they represent distinct chemical states of the same base compound: **Sodium Carbonate (Na₂CO₃)**. The primary difference lies in their **hydration state**—the amount of water molecules chemically bound to the sodium carbonate molecule.

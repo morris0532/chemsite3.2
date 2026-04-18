@@ -1,15 +1,21 @@
 ---
+Id: HPKC1ABKwR
+Excerpt: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for Soda Ash (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
 title: "The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash"
 description: "A technical guide for quality control managers on performing a Pre-Shipment Inspection (PSI) for Soda Ash (Sodium Carbonate). Learn the critical checkpoints for quality, quantity, and packaging to ensure a risk-free shipment."
 image: "/images/blog/soda-ash-psi-inspection.webp"
 imageAlt: "A professional inspector performing a Pre-Shipment Inspection (PSI) for a Soda Ash export shipment, focusing on bag integrity and sampling"
-date: 2026-04-11
-author: "Sinopeakchem Quality Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Sourcing"
-tags: ["PSI for Soda Ash", "pre-shipment inspection chemical", "SGS inspection Soda Ash", "chemical quality control", "Soda Ash export inspection", "China chemical sourcing", "B2B chemical trade"]
-keywords: ['PSI for Soda Ash', 'Pre-Shipment Inspection Chemicals', 'SGS Inspection Soda Ash', 'Chemical Quality Assurance', 'Soda Ash Loading Inspection']
+tag: "[\"PSI for Soda Ash\", \"pre-shipment inspection chemical\", \"SGS inspection Soda Ash\", \"chemical quality control\", \"Soda Ash export inspection\", \"China chemical sourcing\", \"B2B chemical trade\"]"
+Primary_Keyword: "PSI for Soda Ash"
+Keywords: "PSI for Soda Ash, Pre-Shipment Inspection Chemicals, SGS Inspection Soda Ash, Chemical Quality Assurance, Soda Ash Loading Inspection"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: pre-shipment-inspection-psi-checklist
 ---
-
 # The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash
 
 In the global chemical trade, the **Pre-Shipment Inspection (PSI)** is the final and most critical line of defense for a procurement manager. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, a million-dollar shipment can be compromised by a single oversight—from a punctured PE liner to a slight deviation in **Particle Size Distribution (PSD)**. A PSI ensures that the material you receive at your plant gate is exactly what you ordered and paid for.

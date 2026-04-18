@@ -1,15 +1,21 @@
 ---
+Id: ifGfEnNkX7
+Excerpt: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 title: "Case Study: Optimizing Soda Ash Supply for a Global Glass Group"
 description: "A real-world case study on how a multi-national glass manufacturer optimized its Soda Ash (Sodium Carbonate) supply chain. Learn about the challenges of price volatility, quality consistency, and logistical efficiency in large-scale chemical procurement."
 image: "/images/blog/soda-ash-case-study-glass.webp"
 imageAlt: "A modern glass manufacturing facility showing the automated batching system and the storage silos for Soda Ash"
-date: 2026-04-11
-author: "Sinopeakchem Sourcing Team"
+Date: 2026-04-10
+author: Sinopeakchem Technical Team
 category: "Sourcing"
-tags: ["Soda Ash case study", "glass manufacturing supply chain", "optimizing chemical procurement", "Soda Ash Dense sourcing", "logistics efficiency chemicals", "China Soda Ash export", "bulk chemical sourcing"]
-keywords: ['Soda Ash Case Study', 'Optimizing Chemical Supply', 'Glass Industry Sourcing', 'Soda Ash Procurement Success', 'B2B Chemical Case Study']
+tag: "[\"Soda Ash case study\", \"glass manufacturing supply chain\", \"optimizing chemical procurement\", \"Soda Ash Dense sourcing\", \"logistics efficiency chemicals\", \"China Soda Ash export\", \"bulk chemical sourcing\"]"
+Primary_Keyword: "Soda Ash Case Study"
+Keywords: "Soda Ash Case Study, Optimizing Chemical Supply, Glass Industry Sourcing, Soda Ash Procurement Success, B2B Chemical Case Study"
+Schema_Type: TechArticle
+Target_Region: Global (EN)
+rootnotouch: 
+slug: case-study-optimizing-soda-ash-supply
 ---
-
 # Case Study: Optimizing Soda Ash Supply for a Global Glass Group
 
 In the glass industry, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
