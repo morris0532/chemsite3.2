@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: pre-shipment-inspection-psi-checklist
 slug: pre-shipment-inspection-psi-checklist
 ---
-# The Ultimate Pre-Shipment Inspection (PSI) for Soda Ash
 
 In the global chemical trade, the **Pre-Shipment Inspection (PSI)** is the final and most critical line of defense for a procurement manager. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, a million-dollar shipment can be compromised by a single oversight—from a punctured PE liner to a slight deviation in **Particle Size Distribution (PSD)**. A PSI ensures that the material you receive at your plant gate is exactly what you ordered and paid for.
 

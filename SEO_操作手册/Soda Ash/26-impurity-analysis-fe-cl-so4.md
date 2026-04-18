@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: impurity-analysis-fe-cl-so4
 slug: impurity-analysis-fe-cl-so4
 ---
-# Impurity Analysis: Fe, Cl, and SO4 in Soda Ash
 
 In high-end industrial manufacturing, the difference between a "good" product and a "perfect" one often comes down to parts per million (ppm). For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, while the total alkali content is usually ≥ 99.2%, the remaining 0.8% contains trace impurities that can have a disproportionate impact on your process. **Iron (Fe)**, **Chloride (Cl)**, and **Sulfate (SO₄)** are the three most critical impurities that quality control managers and process engineers must monitor.
 

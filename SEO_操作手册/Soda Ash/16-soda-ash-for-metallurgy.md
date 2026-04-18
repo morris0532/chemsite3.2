@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: soda-ash-for-metallurgy
 slug: soda-ash-for-metallurgy
 ---
-# Soda Ash for Metallurgy: Alumina & Lead Recycling Procurement
 
 In the global **Metallurgical Industry**, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a vital process chemical used for fluxing, desulfurization, and chemical refining. From the massive alumina refineries that feed the aluminum industry to the specialized facilities recycling lead-acid batteries, Soda Ash provides the necessary alkalinity and sodium content to optimize metal recovery and reduce environmental impact.
 

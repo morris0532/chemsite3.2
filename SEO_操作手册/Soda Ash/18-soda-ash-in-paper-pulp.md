@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: soda-ash-in-paper-pulp
 slug: soda-ash-in-paper-pulp
 ---
-# Soda Ash in Paper & Pulp: Sourcing for Large-Scale Mills
 
 In the global **Paper and Pulp Industry**, maintaining precise chemical control is essential for producing high-quality paper products while optimizing operational costs. **Soda Ash (Sodium Carbonate, Na₂CO₃)** is a versatile and cost-effective alkali used extensively in both virgin pulp production and recycled paper processing. Its primary functions—de-inking, pH buffering, and as a component in bleaching—make it an indispensable tool for paper mill engineers worldwide.
 

@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: auditing-china-soda-ash-factory
 slug: auditing-china-soda-ash-factory
 ---
-# Auditing a China Soda Ash Factory: A Buyer’s Checklist
 
 In the global chemical market, China is the undisputed leader in **Soda Ash (Sodium Carbonate, Na₂CO₃)** production, accounting for nearly half of the world's capacity. However, for an international procurement manager, the challenge is not finding a supplier, but finding the *right* partner who can consistently meet your quality, safety, and compliance standards. A million-dollar procurement decision should never be based on a website alone; it requires a rigorous **Factory Audit**.
 

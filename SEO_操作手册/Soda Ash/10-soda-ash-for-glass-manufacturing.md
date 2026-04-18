@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: soda-ash-for-glass-manufacturing
 slug: soda-ash-for-glass-manufacturing
 ---
-# Soda Ash for Glass Manufacturing: High-Purity Sourcing from China
 
 In the global glass industry, **Soda Ash (Sodium Carbonate, Na₂CO₃)** is more than just a raw material; it is the fundamental flux that determines melting efficiency, energy consumption, and final product clarity. Representing approximately 15-20% of the total batch weight, Soda Ash lowers the melting point of silica (sand) from over 1,700°C to approximately 1,400°C-1,500°C, significantly reducing the carbon footprint and operational costs of glass furnaces.
 

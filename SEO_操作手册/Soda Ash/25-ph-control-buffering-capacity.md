@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: ph-control-buffering-capacity
 slug: ph-control-buffering-capacity
 ---
-# pH Control with Soda Ash: Buffering Capacity & Alkalinity
 
 In industrial chemistry, controlling the acidity or alkalinity of a solution is rarely as simple as adding a base to neutralize an acid. For processes ranging from municipal water treatment to complex organic synthesis, the goal is often **pH Stability**. **Soda Ash (Sodium Carbonate, Na₂CO₃)** is one of the most effective and widely used reagents for this purpose, valued not just for its alkaline strength, but for its superior **Buffering Capacity**.
 

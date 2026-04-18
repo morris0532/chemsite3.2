@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: soda-ash-for-food-industry
 slug: soda-ash-for-food-industry
 ---
-# Soda Ash for Food Industry: E500(i) Compliance & Safety
 
 In the global **Food Industry**, maintaining the highest standards of purity and safety is non-negotiable. **Soda Ash (Sodium Carbonate, Na₂CO₃)**, classified as the food additive **E500(i)**, is a vital ingredient used across a wide range of applications, from traditional noodle making to modern bakery and cocoa processing. Acting as an acidity regulator, leavening agent, and stabilizer, Food Grade Soda Ash ensures consistent texture, flavor, and shelf-life in processed foods.
 

@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: particle-size-distribution-psd
 slug: particle-size-distribution-psd
 ---
-# Particle Size Distribution (PSD) in Soda Ash: Why it Matters for Your Batch
 
 In industrial manufacturing, the chemical purity of a raw material is only half the story. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, the physical form—specifically its **Particle Size Distribution (PSD)**—is often the deciding factor in production efficiency, product quality, and operational safety. Whether you are melting glass at 1,500°C or formulating a rapid-dissolve detergent, the size and uniformity of the Soda Ash particles dictate how the material behaves in your process.
 

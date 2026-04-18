@@ -16,7 +16,6 @@ Target_Region: Global (EN)
 rootnotouch: bulk-density-vs-apparent-density
 slug: bulk-density-vs-apparent-density
 ---
-# Bulk Density vs. Apparent Density: Optimizing Soda Ash Storage & Logistics
 
 In the world of bulk chemical procurement, the physical space a material occupies is just as important as its chemical purity. For **Soda Ash (Sodium Carbonate, Na₂CO₃)**, the primary physical differentiator between the "Light" and "Dense" grades is **Bulk Density**. Understanding the nuances of density—and the difference between bulk and apparent density—is critical for logistics managers, warehouse supervisors, and plant engineers who must optimize storage capacity, design conveying systems, and minimize transportation costs.
 
