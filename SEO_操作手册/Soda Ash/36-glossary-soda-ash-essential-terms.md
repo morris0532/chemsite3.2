@@ -8,7 +8,7 @@ imageAlt: "A professional glossary of Soda Ash terms, highlighting key definitio
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Glossary"
-tag: ""
+tag: "Soda Ash, Sodium Carbonate, Procurement Manager, Dense Soda Ash, Light Soda Ash, Solvay Process, Hou Process, Chemical Industry Glossary"
 Primary_Keyword: "Soda Ash Glossary"
 Keywords: "Soda Ash Glossary, Sodium Carbonate Terms, Dense vs Light Soda Ash, Chemical Trade Definitions, Procurement Manager Dictionary"
 Schema_Type: TechArticle

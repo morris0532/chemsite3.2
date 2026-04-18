@@ -8,7 +8,7 @@ imageAlt: "A modern glass manufacturing facility showing the automated batching 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: ""
+tag: "Soda Ash Supply Chain, Glass Industry Raw Materials, Soda Ash Quality Optimization, Soda Ash Pricing Strategy, Chemical Supply Chain Management, Sinopeakchem Case Study, Soda Ash Procurement, Glass Manufacturing Efficiency"
 Primary_Keyword: "Soda Ash Case Study"
 Keywords: "Soda Ash Case Study, Optimizing Chemical Supply, Glass Industry Sourcing, Soda Ash Procurement Success, B2B Chemical Case Study"
 Schema_Type: TechArticle

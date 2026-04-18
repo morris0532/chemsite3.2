@@ -8,7 +8,7 @@ imageAlt: "Microscopic view of Soda Ash Dense granules and a sieve analysis char
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: ""
+tag: "Soda Ash, Particle Size Distribution, Soda Ash PSD, Sodium Carbonate, Glass Manufacturing, Detergent Production, Soda Ash Particle Size, Industrial Chemicals"
 Primary_Keyword: "Soda Ash PSD"
 Keywords: "Soda Ash PSD, Particle Size Distribution, Soda Ash Sieve Analysis, Glass Batch Consistency, Dense Soda Ash PSD"
 Schema_Type: TechArticle

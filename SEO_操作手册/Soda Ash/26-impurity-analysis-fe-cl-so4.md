@@ -8,7 +8,7 @@ imageAlt: "High-precision laboratory analysis of Soda Ash impurities using ICP-O
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Technical"
-tag: ""
+tag: "Soda Ash Impurities, Iron in Soda Ash, Chloride Contamination, Sulfate Levels Soda Ash, High Purity Soda Ash, Soda Ash for Glass Manufacturing, Industrial Soda Ash Quality, Soda Ash Chemical Analysis"
 Primary_Keyword: "Soda Ash Impurity Analysis"
 Keywords: "Soda Ash Impurity Analysis, Low Iron Soda Ash, Chloride in Sodium Carbonate, Sulfate in Soda Ash, High Purity Chemical Analysis"
 Schema_Type: TechArticle

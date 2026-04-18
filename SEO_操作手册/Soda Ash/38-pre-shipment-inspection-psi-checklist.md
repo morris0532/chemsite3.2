@@ -8,7 +8,7 @@ imageAlt: "A professional inspector performing a Pre-Shipment Inspection (PSI) f
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: ""
+tag: "Pre-Shipment Inspection, Soda Ash Quality Control, Chemical Inspection Procedures, Sodium Carbonate Testing, Bulk Chemical Shipment, Soda Ash Particle Size Distribution, Industrial Chemical Packaging, International Chemical Trade"
 Primary_Keyword: "PSI for Soda Ash"
 Keywords: "PSI for Soda Ash, Pre-Shipment Inspection Chemicals, SGS Inspection Soda Ash, Chemical Quality Assurance, Soda Ash Loading Inspection"
 Schema_Type: TechArticle

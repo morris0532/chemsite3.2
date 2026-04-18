@@ -8,7 +8,7 @@ imageAlt: "Industrial detergent production line with high-purity Soda Ash Light 
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: ""
+tag: "Soda Ash Light, Detergent Grade Soda Ash, Soda Ash for FMCG, Bulk Soda Ash Sourcing, Soda Ash in Soap Formulation, Laundry Detergent Ingredients, Chemical Suppliers for FMCG, Water Softener Chemicals"
 Primary_Keyword: "Soda Ash for Detergent"
 Keywords: "Soda Ash for Detergent, Detergent Grade Soda Ash, FMCG Chemical Sourcing, Soda Ash Light Bulk, Soap Manufacturing Chemicals"
 Schema_Type: TechArticle

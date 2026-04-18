@@ -8,7 +8,7 @@ imageAlt: "Large-scale mining flotation cells processing copper and zinc ore usi
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: ""
+tag: "Soda Ash Mining, Flotation Reagents, Ore Processing Chemicals, Mining Grade Soda Ash, Sodium Carbonate Applications, Froth Flotation Chemistry, Mining Chemical Sourcing, Industrial Mineral Processing"
 Primary_Keyword: "Soda Ash for Mining"
 Keywords: "Soda Ash for Mining, Flotation Chemicals Sourcing, Ore Processing Alkali, Mining Grade Soda Ash, Froth Flotation pH Control"
 Schema_Type: TechArticle

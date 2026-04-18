@@ -8,7 +8,7 @@ imageAlt: "A financial chart showing the price fluctuations of Soda Ash in the C
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Sourcing"
-tag: ""
+tag: "Soda Ash Pricing, FOB vs CIF, Sodium Carbonate Market, Chemical Industry Trends, Soda Ash Procurement, Logistics and Freight Costs, Energy Impact on Chemicals, China Soda Ash Exports"
 Primary_Keyword: "Soda Ash Pricing"
 Keywords: "Soda Ash Pricing, FOB Soda Ash China, CIF Soda Ash Price, Soda Ash Market Trends, Chemical Price Volatility"
 Schema_Type: TechArticle

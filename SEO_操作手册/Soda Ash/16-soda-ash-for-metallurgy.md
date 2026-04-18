@@ -8,7 +8,7 @@ imageAlt: "High-temperature metallurgical furnace and metal recycling facility u
 Date: 2026-04-10
 author: Sinopeakchem Technical Team
 category: "Industry"
-tag: ""
+tag: "Soda Ash Metallurgy, Metallurgical Grade Soda Ash, Alumina Production Chemicals, Lead Acid Battery Recycling, Soda Ash Procurement, Desulfurization in Metallurgy, Soda Ash in Steel Industry, Sodium Carbonate Applications"
 Primary_Keyword: "Soda Ash for Metallurgy"
 Keywords: "Soda Ash for Metallurgy, Alumina Production Chemicals, Lead Recycling Sourcing, Metallurgical Grade Soda Ash, Steel Desulfurization Chemicals"
 Schema_Type: TechArticle
