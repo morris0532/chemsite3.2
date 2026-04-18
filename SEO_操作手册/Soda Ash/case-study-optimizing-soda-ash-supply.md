@@ -17,7 +17,7 @@ rootnotouch: case-study-optimizing-soda-ash-supply
 slug: case-study-optimizing-soda-ash-supply
 ---
 
-In the glass industry, **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the glass industry, **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is the second most important raw material after silica sand, accounting for up to **25% of the total batch weight**. For a global glass group with multiple production lines across Southeast Asia and the Middle East, the challenge is not just the price per ton, but the **Consistency of Quality** and the **Reliability of the Supply Chain**. A single batch of off-spec Soda Ash can lead to millions of dollars in defective glass and furnace downtime.
 
 This case study explores how a leading multi-national glass manufacturer partnered with **Sinopeakchem** to transform its Soda Ash procurement from a transactional "spot-buying" model to a strategic, high-efficiency supply chain.
 
@@ -128,3 +128,11 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
 ---
+
+---
+
+## Strategic Sourcing Resources
+
+*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.

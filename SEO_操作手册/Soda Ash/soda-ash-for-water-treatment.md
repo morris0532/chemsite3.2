@@ -17,7 +17,7 @@ rootnotouch: soda-ash-for-water-treatment
 slug: soda-ash-for-water-treatment
 ---
 
-In the critical field of **Water Treatment**, maintaining precise chemical balance is essential for public health, environmental protection, and infrastructure longevity. **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is a versatile and cost-effective chemical used extensively in both municipal drinking water plants and industrial wastewater treatment facilities. Its primary functions—pH adjustment, water softening, and alkalinity control—make it an indispensable tool for water engineers worldwide.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the critical field of **Water Treatment**, maintaining precise chemical balance is essential for public health, environmental protection, and infrastructure longevity. **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** is a versatile and cost-effective chemical used extensively in both municipal drinking water plants and industrial wastewater treatment facilities. Its primary functions—pH adjustment, water softening, and alkalinity control—make it an indispensable tool for water engineers worldwide.
 
 For procurement managers in the water sector, sourcing high-purity **[Soda Ash Light](Soda Ash Dense vs Light: Choosing the Right Grade for Your Industry.md)** or **Dense** is a strategic priority. This guide examines the technical applications of Soda Ash in water treatment, its advantages over alternative alkalis, and the strategic benefits of bulk sourcing from China's leading chemical manufacturers.
 
@@ -132,3 +132,11 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
 ---
+
+---
+
+## Strategic Sourcing Resources
+
+*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.

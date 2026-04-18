@@ -17,7 +17,7 @@ rootnotouch: auditing-china-soda-ash-factory
 slug: auditing-china-soda-ash-factory
 ---
 
-In the global chemical market, China is the undisputed leader in **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** production, accounting for nearly half of the world's capacity. However, for an international procurement manager, the challenge is not finding a supplier, but finding the *right* partner who can consistently meet your quality, safety, and compliance standards. A million-dollar procurement decision should never be based on a website alone; it requires a rigorous **Factory Audit**.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the global chemical market, China is the undisputed leader in **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** production, accounting for nearly half of the world's capacity. However, for an international procurement manager, the challenge is not finding a supplier, but finding the *right* partner who can consistently meet your quality, safety, and compliance standards. A million-dollar procurement decision should never be based on a website alone; it requires a rigorous **Factory Audit**.
 
 Whether you are conducting a physical site visit or a remote "desktop" audit, you must look beyond the price per ton. This guide provides a comprehensive checklist of the critical KPIs (Key Performance Indicators) for auditing a China Soda Ash factory, ensuring your supply chain is built on a foundation of reliability and transparency.
 
@@ -139,3 +139,11 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 10. **ISO.** "ISO 9001:2015 Quality management systems — Requirements." *International Organization for Standardization*, 2015.
 
 ---
+
+---
+
+## Strategic Sourcing Resources
+
+*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.

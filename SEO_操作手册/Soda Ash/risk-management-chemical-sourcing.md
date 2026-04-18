@@ -17,7 +17,7 @@ rootnotouch: risk-management-chemical-sourcing
 slug: risk-management-chemical-sourcing
 ---
 
-In the global **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** market, "business as usual" is a myth. The industry is defined by constant volatility—from sudden spikes in coal and natural gas prices to geopolitical disruptions in major shipping lanes. For a procurement director, a critical procurement decision is not just about the price today, but about the **Risk Profile** of the supply chain over the next 12 to 24 months.
+As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**, in the global **[Soda Ash](https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate, Na₂CO₃)** market, "business as usual" is a myth. The industry is defined by constant volatility—from sudden spikes in coal and natural gas prices to geopolitical disruptions in major shipping lanes. For a procurement director, a critical procurement decision is not just about the price today, but about the **Risk Profile** of the supply chain over the next 12 to 24 months.
 
 Managing risk in chemical sourcing requires a shift from "transactional" buying to "strategic" supply chain management. This guide provides a technical framework for identifying, quantifying, and hedging against the primary risks in the Soda Ash market, ensuring your plant remains operational and profitable even in the most turbulent times.
 
@@ -135,3 +135,11 @@ Looking for a complete overview? Check out our **[Ultimate Soda Ash (Sodium Carb
 10. **ISO.** "ISO 31000:2018 Risk management — Guidelines." *International Organization for Standardization*, 2018.
 
 ---
+
+---
+
+## Strategic Sourcing Resources
+
+*   **[Ultimate Soda Ash Guide](the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual.md)**: The complete strategic manual for global procurement.
+*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.

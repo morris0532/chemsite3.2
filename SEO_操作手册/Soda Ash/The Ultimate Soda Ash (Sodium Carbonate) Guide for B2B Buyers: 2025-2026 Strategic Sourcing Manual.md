@@ -251,3 +251,10 @@ Always request the most recent **Batch-Specific COA** from your supplier to veri
 - [Soda Ash Sourcing & Procurement from China](/en/blog/soda-ash-sourcing-procurement-how-to-buy-bulk-from-china)
 - [Dense vs Light Soda Ash: Choosing the Right Grade](/en/blog/soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry)
 - [Understanding Soda Ash Specifications (COA & TDS)](/en/blog/soda-ash-specifications-how-to-read-a-coa-tds-for-procurement)
+
+---
+
+## Strategic Sourcing Resources
+
+*   **[China Soda Ash Manufacturers](top-10-china-soda-ash-manufacturers.md)**: A guide to selecting reliable suppliers in China.
+*   **[Soda Ash Dense vs Light](soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry.md)**: Understanding physical properties for your application.
