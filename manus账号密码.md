@@ -1,6 +1,6 @@
 |序号| 账号 | 密码 | 邮箱密码 |
 |---| --- | --- | --- |
-|01| [gvjeacpsxannki9453@outlook.com] | hBgiR8hHQS#Q |  |
+|01| gvjeacpsxannki9453@outlook.com | hBgiR8hHQS#Q |  |
 |02| [trtuhsnpn61@outlook.com](mailto:trtuhsnpn61@outlook.com) | 2cbos#joEs#U |  |
 |03| [ynwvwqdlnpwoguw14@outlook.com](mailto:ynwvwqdlnpwoguw14@outlook.com) | s8WF*97Qk4xg |  |
 |04| [qgdyrxpwq7@outlook.com](mailto:qgdyrxpwq7@outlook.com) | Mo3s1&S1qIz% |  |
