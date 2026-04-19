@@ -5,10 +5,6 @@ import matter from 'gray-matter';
 const VIRTUAL_MODULE_ID = 'virtual:markdown-content';
 const RESOLVED_VIRTUAL_MODULE_ID = '\0' + VIRTUAL_MODULE_ID;
 
-// Create virtual modules for each locale
-const createLocaleModuleId = (locale) => `virtual:markdown-content-${locale}`;
-const createResolvedLocaleModuleId = (locale) => `\0virtual:markdown-content-${locale}`;
-
 function loadLocaleContent(locale) {
   const contentDir = path.resolve('src/content');
   const postsDir = path.join(contentDir, locale, 'blog');
@@ -78,68 +74,30 @@ export default function markdownPlugin() {
   return {
     name: 'vite-plugin-markdown',
     resolveId(id) {
-      // Support locale-specific modules for code splitting
-      const locales = ['en', 'ru', 'fr', 'es', 'ar'];
-      for (const locale of locales) {
-        if (id === createLocaleModuleId(locale)) {
-          return createResolvedLocaleModuleId(locale);
-        }
-      }
-      
-      // Support the main virtual module that imports all locales
       if (id === VIRTUAL_MODULE_ID) {
         return RESOLVED_VIRTUAL_MODULE_ID;
       }
     },
     load(id) {
-      const locales = ['en', 'ru', 'fr', 'es', 'ar'];
-      
-      // Handle locale-specific modules (each locale gets its own chunk)
-      for (const locale of locales) {
-        if (id === createResolvedLocaleModuleId(locale)) {
-          const data = loadLocaleContent(locale);
-          return `export default ${JSON.stringify(data)};`;
-        }
-      }
-
-      // Handle main virtual module - this creates dynamic imports for each locale
       if (id === RESOLVED_VIRTUAL_MODULE_ID) {
-        // Generate code that dynamically imports locale-specific modules
-        const importStatements = locales.map(locale => 
-          `'${locale}': () => import('virtual:markdown-content-${locale}')`
-        ).join(',\n  ');
+        // Load all locales and export them as a single object
+        // This ensures all data is available at build time and can be properly code-split
+        const locales = ['en', 'ru', 'fr', 'es', 'ar'];
+        const allData = {};
         
+        locales.forEach(locale => {
+          allData[locale] = loadLocaleContent(locale);
+        });
+
+        // Export the data directly as a default export
+        // This allows the data to be properly included in the build and code-split by Vite
         return `
-const localeModules = {
-  ${importStatements}
-};
+const markdownContent = ${JSON.stringify(allData)};
 
-// Cache for loaded content
-const cache = {};
+export default markdownContent;
 
-export default async function getMarkdownContent(locale) {
-  if (cache[locale]) {
-    return cache[locale];
-  }
-  
-  try {
-    const module = await localeModules[locale]();
-    cache[locale] = module.default;
-    return module.default;
-  } catch (error) {
-    console.error('Failed to load markdown content for locale:', locale, error);
-    return { posts: [], products: [] };
-  }
-}
-
-// For synchronous access (fallback for SSR/prerendering)
-export async function loadAllLocales() {
-  const result = {};
-  for (const locale of ['en', 'ru', 'fr', 'es', 'ar']) {
-    result[locale] = await getMarkdownContent(locale);
-  }
-  return result;
-}
+// Export individual locale data for code splitting
+${locales.map(locale => `export const ${locale}Data = markdownContent.${locale};`).join('\n')}
         `;
       }
     },

@@ -47,23 +47,6 @@ export default function ProductDetailPage() {
       .slice(0, 4);
   }, [product, markdownProducts]);
 
-  if (isLoading) {
-    return (
-      <Layout title="Loading...">
-        <div className="container mx-auto px-4 py-16">
-          <div className="animate-pulse space-y-8">
-            <div className="h-96 bg-gray-200 rounded-xl" />
-            <div className="space-y-4">
-              <div className="h-8 bg-gray-200 rounded w-2/3" />
-              <div className="h-4 bg-gray-200 rounded w-full" />
-              <div className="h-4 bg-gray-200 rounded w-5/6" />
-            </div>
-          </div>
-        </div>
-      </Layout>
-    );
-  }
-
   if (!product) {
     return (
       <Layout title={isRu ? "Продукт не найден" : (isFr ? "Produit non trouvé" : (isEs ? "Producto no encontrado" : (isAr ? "المنتج غير موجود" : "Product Not Found")))}>

@@ -1,4 +1,5 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
+import markdownContent from 'virtual:markdown-content';
 
 export interface MarkdownContent {
   posts: any[];
@@ -8,86 +9,42 @@ export interface MarkdownContent {
   isLoading: boolean;
 }
 
-// Cache for loaded content to avoid re-fetching
+// Cache for loaded content
 const contentCache: Record<string, any> = {};
-const loadingPromises: Record<string, Promise<any>> = {};
 
 export function useMarkdownContent(locale: 'en' | 'ru' | 'fr' | 'es' | 'ar'): MarkdownContent {
-  const [content, setContent] = useState<any>(null);
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    // If content is already cached, use it immediately
+  // Get data synchronously from the virtual module
+  // This ensures SSG/Prerendering works correctly and content is included in the static HTML
+  const syncData = useMemo(() => {
     if (contentCache[locale]) {
-      setContent(contentCache[locale]);
-      setIsLoading(false);
-      return;
+      return contentCache[locale];
     }
-
-    // If loading is already in progress, wait for it
-    if (loadingPromises[locale]) {
-      loadingPromises[locale]
-        .then((data) => {
-          setContent(data);
-          setIsLoading(false);
-        })
-        .catch(() => {
-          setContent({ posts: [], products: [] });
-          setIsLoading(false);
-        });
-      return;
+    
+    try {
+      const data = markdownContent[locale] || { posts: [], products: [] };
+      contentCache[locale] = data;
+      return data;
+    } catch (error) {
+      console.error(`Failed to load markdown content for locale: ${locale}`, error);
+      return { posts: [], products: [] };
     }
-
-    // Start new loading
-    setIsLoading(true);
-
-    // Create a promise for this locale's data
-    const loadPromise = (async () => {
-      try {
-        // Dynamically import the locale-specific module
-        const module = await import(`virtual:markdown-content-${locale}`);
-        const data = module.default || { posts: [], products: [] };
-        
-        // Cache the result
-        contentCache[locale] = data;
-        
-        return data;
-      } catch (error) {
-        console.warn(`Failed to load markdown content for locale: ${locale}`, error);
-        
-        // Fallback: try to load from the combined module
-        try {
-          const markdownContent = await import('virtual:markdown-content');
-          const data = markdownContent.default[locale] || { posts: [], products: [] };
-          contentCache[locale] = data;
-          return data;
-        } catch (fallbackError) {
-          console.error('Failed to load markdown content from fallback', fallbackError);
-          return { posts: [], products: [] };
-        }
-      }
-    })();
-
-    loadingPromises[locale] = loadPromise;
-
-    loadPromise
-      .then((data) => {
-        setContent(data);
-        setIsLoading(false);
-      })
-      .catch(() => {
-        setContent({ posts: [], products: [] });
-        setIsLoading(false);
-      });
   }, [locale]);
 
-  const resolvedContent = content || { posts: [], products: [] };
+  // For client-side optimization, we can add a brief loading state
+  // but the data is already available from syncData
+  const [isLoading, setIsLoading] = useState(false);
+
+  useEffect(() => {
+    // Data is already loaded synchronously, so we don't need to load it again
+    // Just ensure isLoading is false
+    setIsLoading(false);
+  }, [locale]);
 
   return {
-    posts: resolvedContent.posts || [],
-    products: resolvedContent.products || [],
-    getPostBySlug: (slug: string) => resolvedContent.posts?.find((p: any) => p.slug === slug),
-    getProductBySlug: (slug: string) => resolvedContent.products?.find((p: any) => p.slug === slug),
+    posts: syncData.posts || [],
+    products: syncData.products || [],
+    getPostBySlug: (slug: string) => syncData.posts?.find((p: any) => p.slug === slug),
+    getProductBySlug: (slug: string) => syncData.products?.find((p: any) => p.slug === slug),
     isLoading,
   };
 }

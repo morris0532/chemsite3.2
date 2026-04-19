@@ -151,9 +151,7 @@ export default function BlogPage() {
         <section className="py-12 md:py-20">
           <div className="container mx-auto px-4">
             {/* Featured Post */}
-            {isLoading ? (
-              <BlogPostSkeleton featured={true} />
-            ) : featuredPost ? (
+            {featuredPost ? (
               <div className="mb-16">
                 <Link
                   to={`${langPrefix}/blog/${featuredPost.slug}`}
@@ -199,12 +197,7 @@ export default function BlogPage() {
 
             {/* Grid Posts */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {isLoading ? (
-                Array.from({ length: 6 }).map((_, i) => (
-                  <BlogPostSkeleton key={i} />
-                ))
-              ) : (
-                gridPosts.map((post) => (
+              {gridPosts.map((post) => (
                 <Link
                   key={post.slug}
                   to={`${langPrefix}/blog/${post.slug}`}
@@ -245,8 +238,7 @@ export default function BlogPage() {
                     </div>
                   </div>
                 </Link>
-              ))
-              )}
+              ))}
             </div>
 
             {/* Pagination */}
