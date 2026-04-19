@@ -60,3 +60,8 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
+
+
+## Optimization Note
+- Performance Optimization applied: Data Splitting, SSG Fix, and PageSpeed Improvements.
+- Triggered Vercel Deployment: 2026-04-19.
