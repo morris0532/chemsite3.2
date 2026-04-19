@@ -13,7 +13,7 @@ author: Sinopeakchem Technical Team
 category: Guía de Abastecimiento
 Primary_Keyword: comprar sosa cáustica
 Schema_Type: TechArticle
-date: "2026-04-15"
+date: "2026-04-19"
 rootnotouch: how-to-buy-caustic-soda
 ---
 

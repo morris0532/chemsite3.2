@@ -20,7 +20,7 @@ author: Техническая команда Sinopeakchem
 category: Применения
 id: CS-X7rM5oO0P4
 slug: caustic-soda-soap-detergent-deep-dive
-date: "2026-04-15"
+date: "2026-04-19"
 tags:
   - каустическая сода для мыла
   - гидроксид натрия для моющих средств

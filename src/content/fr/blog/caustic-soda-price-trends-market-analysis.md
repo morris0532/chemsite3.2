@@ -14,7 +14,7 @@ author: Sinopeakchem Technical Team
 category: Analyse du Marché
 Primary_Keyword: prix de la soude caustique
 Schema_Type: TechArticle
-date: "2026-04-15"
+date: "2026-04-19"
 rootnotouch: caustic-soda-price-trends-market-analysis
 ---
 
