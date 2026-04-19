@@ -114,3 +114,15 @@ Sinopeakchem — Entregando la transparencia y la inteligencia de mercado que im
 *   **[Guía Definitiva de Ceniza de Sosa](/es/blog/guia-b2b-ceniza-sosa)**: El manual estratégico completo para la adquisición global.
 *   **[Fabricantes de Ceniza de Sosa en China](/es/blog/los-10-principales-fabricantes-chinos-ceniza-sosa)**: Una guía para seleccionar proveedores confiables en China.
 *   **[Ceniza de Sosa Densa vs Ligera](/es/blog/ceniza-sosa-densa-vs-ligera)**: Comprender las propiedades físicas para su aplicación.
+## Referencias
+
+1.  **IHS Markit.** "Manual de Economía Química: Precios y Mercados de Ceniza de Sosa." *S&P Global*, 2023.
+2.  **Servicio Geológico de EE. UU. (USGS).** "Estadísticas e Información de Ceniza de Sosa (Carbonato de Sodio)." *USGS*, 2024. [https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information](/es/blog/https://www.usgs.gov/centers/nmic/soda-ash-statistics-and-information)
+3.  **Cámara de Comercio Internacional (ICC).** "Incoterms® 2020: Reglas para el Uso de Términos Comerciales Nacionales e Internacionales." *ICC Services*, 2020.
+4.  **Agencia Europea de Sustancias Químicas (ECHA).** "Carbonato de Sodio (Número CE: 207-838-8)." *ECHA*, 2024. [https://echa.europa.eu/registration-dossier/-/registered-dossier/15446](/es/blog/https://echa.europa.eu/registration-dossier/-/registered-dossier/15446)
+5.  **Corporación China de Seguros de Crédito a la Exportación (Sinosure).** "Informe Anual sobre las Tendencias Globales de Crédito Comercial y Precios." *Sinosure*, 2024.
+6.  **Enciclopedia de Tecnología Química de Kirk-Othmer.** "Carbonato de Sodio." *John Wiley & Sons*, 2007.
+7.  **Enciclopedia de Química Industrial de Ullmann.** "Carbonato de Sodio." *Wiley-VCH*, 2005.
+8.  **Datos Técnicos de Sinopeakchem.** "Análisis Histórico de Precios y Benchmarking de Impulsores del Mercado." *Informe Interno de Sinopeakchem*, 2024.
+9.  **Banco Mundial.** "Perspectivas de los Mercados de Productos Básicos: Energía y Productos Químicos Industriales." *Grupo del Banco Mundial*, 2024.
+10. **ISO.** "ISO 9001:2015 Sistemas de gestión de calidad — Requisitos." *Organización Internacional de Normalización*, 2015.
