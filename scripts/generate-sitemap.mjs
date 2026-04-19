@@ -54,7 +54,7 @@ async function generateSitemap() {
 
   // 1. Static Pages Sitemap
   let staticXml = getXmlHeader();
-  const staticPages = ['', '/products', '/blog', '/about', '/contact', '/privacy-policy', '/terms-of-service'];
+  const staticPages = ['', '/products', '/blog', '/about', '/contact', '/privacy-policy', '/terms-of-service', '/packaging-gallery'];
   
   staticPages.forEach(page => {
     const alternates = {};

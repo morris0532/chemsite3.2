@@ -45,6 +45,7 @@ const App = () => (
             <Route path="/en/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/en/about" element={<About />} />
             <Route path="/en/blog" element={<Blog />} />
+            <Route path="/en/blog/page/:page" element={<Blog />} />
             <Route path="/en/blog/:slug" element={<BlogDetail />} />
             <Route path="/en/contact" element={<Contact />} />
             <Route path="/en/privacy-policy" element={<PrivacyPolicy />} />
@@ -57,6 +58,7 @@ const App = () => (
             <Route path="/ru/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/ru/about" element={<About />} />
             <Route path="/ru/blog" element={<Blog />} />
+            <Route path="/ru/blog/page/:page" element={<Blog />} />
             <Route path="/ru/blog/:slug" element={<BlogDetail />} />
             <Route path="/ru/contact" element={<Contact />} />
             <Route path="/ru/privacy-policy" element={<PrivacyPolicy />} />
@@ -69,6 +71,7 @@ const App = () => (
             <Route path="/fr/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/fr/about" element={<About />} />
             <Route path="/fr/blog" element={<Blog />} />
+            <Route path="/fr/blog/page/:page" element={<Blog />} />
             <Route path="/fr/blog/:slug" element={<BlogDetail />} />
             <Route path="/fr/contact" element={<Contact />} />
             <Route path="/fr/privacy-policy" element={<PrivacyPolicy />} />
@@ -81,6 +84,7 @@ const App = () => (
             <Route path="/es/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/es/about" element={<About />} />
             <Route path="/es/blog" element={<Blog />} />
+            <Route path="/es/blog/page/:page" element={<Blog />} />
             <Route path="/es/blog/:slug" element={<BlogDetail />} />
             <Route path="/es/contact" element={<Contact />} />
             <Route path="/es/privacy-policy" element={<PrivacyPolicy />} />
@@ -93,6 +97,7 @@ const App = () => (
             <Route path="/ar/packaging-gallery" element={<PackagingGallery />} />
             <Route path="/ar/about" element={<About />} />
             <Route path="/ar/blog" element={<Blog />} />
+            <Route path="/ar/blog/page/:page" element={<Blog />} />
             <Route path="/ar/blog/:slug" element={<BlogDetail />} />
             <Route path="/ar/contact" element={<Contact />} />
             <Route path="/ar/privacy-policy" element={<PrivacyPolicy />} />

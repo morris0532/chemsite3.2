@@ -188,7 +188,7 @@ export default function PackagingGalleryPage() {
                     <div className="aspect-square bg-gray-50 overflow-hidden relative">
                       <img
                         src={item.image}
-                        alt={item.name}
+                        alt={`${item.name} Packaging - ${item.category} Industrial Chemical`}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                         loading="lazy"
                       />
@@ -249,7 +249,7 @@ export default function PackagingGalleryPage() {
                 <div className="mb-6">
                   <img
                     src={selectedProduct.image}
-                    alt={selectedProduct.name}
+                    alt={`${selectedProduct.name} Packaging - ${selectedProduct.category} Industrial Chemical`}
                     className="w-full h-auto rounded-lg border border-gray-200"
                   />
                 </div>
