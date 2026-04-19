@@ -14,7 +14,7 @@ Keywords: "Природная против синтетической кальц
 Schema_Type: TechArticle
 Target_Region: Global (RU)
 rootnotouch: natural-vs-synthetic-soda-ash-carbon-footprint-and-sustainability
-slug: natural-vs-synthetic-soda-ash-carbon-footprint-and-sustainability
+slug: natural-vs-synthetic-soda-ash
 ---
 
 Как подробно описано в нашем **[Полном руководстве по кальцинированной соде (карбонату натрия) для B2B-покупателей](/ru/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, по мере того как мировое производство переходит к целям по достижению нулевых выбросов, воздействие сырья на окружающую среду стало основным показателем при закупках. [Кальцинированная сода](/ru/products/soda-ash-sodium-carbonate) (карбонат натрия) производится двумя основными способами: природным (добыча троны) и синтетическим (процессы Сольве/Хоу). Для B2B-покупателей понимание углеродного следа, энергоемкости и устойчивости цепочки поставок каждого метода имеет решающее значение для соблюдения требований ESG и долгосрочных стратегических закупок.

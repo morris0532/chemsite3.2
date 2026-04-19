@@ -14,7 +14,7 @@ Keywords: "Полное руководство по кальцинированн
 Schema_Type: TechArticle
 Target_Region: Global (RU)
 rootnotouch: the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual
-slug: the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual
+slug: soda-ash-b2b-guide
 ---
 
 В глобальном ландшафте промышленной химии немногие товары являются столь же фундаментальными, как **[кальцинированная сода](/ru/products/soda-ash-sodium-carbonate) (карбонат натрия)**. Независимо от того, являетесь ли вы менеджером по закупкам у производителя стекла первого уровня или дистрибьютором химикатов для [очистки воды](/ru/blog/soda-ash-for-water-treatment), понимание нюансов **Na2CO3** имеет решающее значение для принятия инвестиционных решений на миллионы долларов.

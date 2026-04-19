@@ -14,7 +14,7 @@ Keywords: "Soda Ash Specifications, How to Read Soda Ash COA, Sodium Carbonate T
 Schema_Type: TechArticle
 Target_Region: Global (EN)
 rootnotouch: soda-ash-specifications-how-to-read-a-coa-tds-for-procurement
-slug: soda-ash-specifications-how-to-read-a-coa-tds-for-procurement
+slug: soda-ash-specifications
 ---
 
 As detailed in our **[Ultimate Soda Ash (Sodium Carbonate) Guide for B2B Buyers](/en/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, in the global chemical trade, a Certificate of Analysis (COA) and Technical Data Sheet (TDS) are the only legal guarantees of product quality. For [Soda Ash](/en/blog/https://www.sinopeakchem.com/en/products/soda-ash-sodium-carbonate) (Sodium Carbonate) procurement, understanding trace impurities like Iron (Fe), Chlorides (Cl), and Sulfates (SO4) is critical to preventing production failures. This guide breaks down the essential parameters every B2B buyer must verify before signing a bulk contract.

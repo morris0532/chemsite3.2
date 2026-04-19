@@ -14,7 +14,7 @@ Keywords: "Кальцинированная сода Тяжелая против
 Schema_Type: TechArticle
 Target_Region: Global (RU)
 rootnotouch: soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry
-slug: soda-ash-dense-vs-light-choosing-the-right-grade-for-your-industry
+slug: soda-ash-dense-vs-light
 ---
 
 Как подробно описано в нашем **[Полном руководстве по кальцинированной соде (карбонату натрия) для B2B-покупателей](/ru/blog/the-ultimate-soda-ash-sodium-carbonate-guide-for-b2b-buyers-2025-2026-strategic-sourcing-manual)**, хотя химически идентичные (Na2CO3), [тяжелая кальцинированная сода](/ru/products/soda-ash-sodium-carbonate) и легкая кальцинированная сода значительно различаются по физическим свойствам, насыпной плотности и промышленному применению. Для менеджеров по закупкам выбор неправильной марки может привести к повреждению печи при [производстве стекла](/ru/blog/soda-ash-for-glass-manufacturing) или плохой растворимости при производстве моющих средств. Это руководство предоставляет техническое сравнение, чтобы гарантировать, что вы выберете оптимальную марку для конкретных требований вашего завода.
