@@ -78,21 +78,23 @@ export default function markdownPlugin() {
   return {
     name: 'vite-plugin-markdown',
     resolveId(id) {
-      // Support both old and new virtual module IDs for backward compatibility
-      if (id === VIRTUAL_MODULE_ID) {
-        return RESOLVED_VIRTUAL_MODULE_ID;
-      }
-      // Support locale-specific modules
+      // Support locale-specific modules for code splitting
       const locales = ['en', 'ru', 'fr', 'es', 'ar'];
       for (const locale of locales) {
         if (id === createLocaleModuleId(locale)) {
           return createResolvedLocaleModuleId(locale);
         }
       }
+      
+      // Support the main virtual module that imports all locales
+      if (id === VIRTUAL_MODULE_ID) {
+        return RESOLVED_VIRTUAL_MODULE_ID;
+      }
     },
     load(id) {
-      // Handle locale-specific modules (new approach - per-locale data)
       const locales = ['en', 'ru', 'fr', 'es', 'ar'];
+      
+      // Handle locale-specific modules (each locale gets its own chunk)
       for (const locale of locales) {
         if (id === createResolvedLocaleModuleId(locale)) {
           const data = loadLocaleContent(locale);
@@ -100,13 +102,45 @@ export default function markdownPlugin() {
         }
       }
 
-      // Handle old virtual module for backward compatibility
+      // Handle main virtual module - this creates dynamic imports for each locale
       if (id === RESOLVED_VIRTUAL_MODULE_ID) {
-        const data = {};
-        locales.forEach(locale => {
-          data[locale] = loadLocaleContent(locale);
-        });
-        return `export default ${JSON.stringify(data)};`;
+        // Generate code that dynamically imports locale-specific modules
+        const importStatements = locales.map(locale => 
+          `'${locale}': () => import('virtual:markdown-content-${locale}')`
+        ).join(',\n  ');
+        
+        return `
+const localeModules = {
+  ${importStatements}
+};
+
+// Cache for loaded content
+const cache = {};
+
+export default async function getMarkdownContent(locale) {
+  if (cache[locale]) {
+    return cache[locale];
+  }
+  
+  try {
+    const module = await localeModules[locale]();
+    cache[locale] = module.default;
+    return module.default;
+  } catch (error) {
+    console.error('Failed to load markdown content for locale:', locale, error);
+    return { posts: [], products: [] };
+  }
+}
+
+// For synchronous access (fallback for SSR/prerendering)
+export async function loadAllLocales() {
+  const result = {};
+  for (const locale of ['en', 'ru', 'fr', 'es', 'ar']) {
+    result[locale] = await getMarkdownContent(locale);
+  }
+  return result;
+}
+        `;
       }
     },
   };

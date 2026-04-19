@@ -19,7 +19,7 @@ export default function BlogDetailPage() {
   const locale = isRu ? "ru" : (isFr ? "fr" : (isEs ? "es" : (isAr ? "ar" : "en")));
   const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { posts, getPostBySlug } = useMarkdownContent(locale);
+  const { posts, getPostBySlug, isLoading } = useMarkdownContent(locale);
   const { ui } = useSiteConfig(locale);
   const post = getPostBySlug(slug || "");
 
@@ -30,6 +30,23 @@ export default function BlogDetailPage() {
       .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, 3);
   }, [post, posts]);
+
+  if (isLoading) {
+    return (
+      <Layout title="Loading...">
+        <div className="container mx-auto px-4 py-16">
+          <div className="animate-pulse space-y-8">
+            <div className="h-96 bg-gray-200 rounded-xl" />
+            <div className="space-y-4">
+              <div className="h-8 bg-gray-200 rounded w-2/3" />
+              <div className="h-4 bg-gray-200 rounded w-full" />
+              <div className="h-4 bg-gray-200 rounded w-5/6" />
+            </div>
+          </div>
+        </div>
+      </Layout>
+    );
+  }
 
   if (!post) {
     return (

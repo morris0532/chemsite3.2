@@ -1,5 +1,5 @@
 import { useLocation, Link } from "react-router-dom";
-import { ArrowLeft, ArrowRight, Calendar, User, ChevronLeft, ChevronRight } from "lucide-react";
+import { ArrowLeft, ArrowRight, Calendar, User, ChevronLeft, ChevronRight, Home } from "lucide-react";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 import { useState, useMemo, useEffect } from "react";
@@ -7,6 +7,19 @@ import { Button } from "@/components/ui/button";
 
 const PAGE_1_COUNT = 10; // 1 featured + 9 grid items
 const PAGE_REST_COUNT = 12; // 12 grid items for page 2+
+
+// Skeleton loader component for blog posts
+const BlogPostSkeleton = ({ featured = false }) => (
+  <div className={`bg-white rounded-xl border border-gray-200 overflow-hidden animate-pulse ${featured ? 'md:col-span-2' : ''}`}>
+    <div className={`${featured ? 'h-96' : 'h-48'} bg-gray-200`} />
+    <div className="p-6 space-y-3">
+      <div className="h-4 bg-gray-200 rounded w-32" />
+      <div className="h-6 bg-gray-200 rounded w-full" />
+      <div className="h-4 bg-gray-200 rounded w-5/6" />
+      <div className="h-10 bg-gray-200 rounded w-24 mt-4" />
+    </div>
+  </div>
+);
 
 export default function BlogPage() {
   const location = useLocation();
@@ -16,7 +29,7 @@ export default function BlogPage() {
   const isAr = location.pathname.startsWith("/ar");
   const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { posts: markdownPosts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
+  const { posts: markdownPosts, isLoading } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
   const [currentPage, setCurrentPage] = useState(1);
 
   const sorted = useMemo(() => {
@@ -138,7 +151,9 @@ export default function BlogPage() {
         <section className="py-12 md:py-20">
           <div className="container mx-auto px-4">
             {/* Featured Post */}
-            {featuredPost && (
+            {isLoading ? (
+              <BlogPostSkeleton featured={true} />
+            ) : featuredPost ? (
               <div className="mb-16">
                 <Link
                   to={`${langPrefix}/blog/${featuredPost.slug}`}
@@ -180,11 +195,16 @@ export default function BlogPage() {
                   </div>
                 </Link>
               </div>
-            )}
+            ) : null}
 
             {/* Grid Posts */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {gridPosts.map((post) => (
+              {isLoading ? (
+                Array.from({ length: 6 }).map((_, i) => (
+                  <BlogPostSkeleton key={i} />
+                ))
+              ) : (
+                gridPosts.map((post) => (
                 <Link
                   key={post.slug}
                   to={`${langPrefix}/blog/${post.slug}`}
@@ -225,7 +245,8 @@ export default function BlogPage() {
                     </div>
                   </div>
                 </Link>
-              ))}
+              ))
+              )}
             </div>
 
             {/* Pagination */}

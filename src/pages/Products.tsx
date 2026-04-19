@@ -5,6 +5,19 @@ import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 
+// Skeleton loader component for product grid
+const ProductSkeleton = () => (
+  <div className="bg-white rounded-xl border border-gray-200 overflow-hidden animate-pulse">
+    <div className="aspect-[4/3] bg-gray-200 m-3 rounded-2xl" />
+    <div className="p-4 space-y-2">
+      <div className="h-4 bg-gray-200 rounded w-20" />
+      <div className="h-5 bg-gray-200 rounded w-40" />
+      <div className="h-3 bg-gray-200 rounded w-24" />
+      <div className="h-4 bg-gray-200 rounded w-full" />
+    </div>
+  </div>
+);
+
 export default function ProductsPage() {
   const location = useLocation();
   const isRu = location.pathname.startsWith("/ru");
@@ -13,7 +26,7 @@ export default function ProductsPage() {
   const isAr = location.pathname.startsWith("/ar");
   const langPrefix = isRu ? "/ru" : (isFr ? "/fr" : (isEs ? "/es" : (isAr ? "/ar" : "/en")));
   
-  const { products: markdownProducts } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
+  const { products: markdownProducts, isLoading } = useMarkdownContent(isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en'))));
   const currentProducts = markdownProducts;
   const defaultCategory = isRu ? "Все" : (isFr ? "Tous" : (isEs ? "Todos" : (isAr ? "جميع المنتجات" : "All Products")));
   const currentCategories = useMemo(() => {
@@ -182,8 +195,14 @@ export default function ProductsPage() {
             </div>
           </div>
 
-          {/* Product Grid */}
-          {filtered.length > 0 ? (
+          {/* Loading state */}
+          {isLoading ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {Array.from({ length: 8 }).map((_, i) => (
+                <ProductSkeleton key={i} />
+              ))}
+            </div>
+          ) : filtered.length > 0 ? (
             viewMode === "grid" ? (
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 {filtered.map((product) => (
