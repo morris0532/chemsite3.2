@@ -1,0 +1,118 @@
+diff --git a/src/components/Layout.tsx b/src/components/Layout.tsx
+index a7fafb2d..69de79ca 100644
+--- a/src/components/Layout.tsx
++++ b/src/components/Layout.tsx
+@@ -34,6 +34,26 @@ export default function Layout({ children, title, description, image, jsonLd }:
+   
+   const currentLang = isRu ? 'ru' : (isFr ? 'fr' : (isEs ? 'es' : (isAr ? 'ar' : 'en')));
+   const currentContent = useMarkdownContent(currentLang);
++  const { products: enProducts } = useMarkdownContent('en');
++  
++  // Create a combined list of products for the topics index
++  // This ensures that even if a locale has 0 products, the topics index shows the English ones
++  const displayProducts = useMemo(() => {
++    if (currentLang === 'en') return currentContent.products;
++    
++    // Start with English products as base
++    const baseProducts = [...enProducts];
++    
++    // Replace with translated versions where available
++    return baseProducts.map(enP => {
++      const translated = currentContent.products.find((p: any) => 
++        (p.id && enP.id && p.id === enP.id) || 
++        (p.RootnoTouch && enP.RootnoTouch && p.RootnoTouch === enP.RootnoTouch) ||
++        (p.slug === enP.slug)
++      );
++      return translated ? translated : { ...enP, isFallback: true };
++    });
++  }, [currentLang, currentContent.products, enProducts]);
+   
+   // OPTIMIZATION: We only load the contents for the language switcher when needed.
+   // This drastically reduces the initial render and subsequent update cost.
+@@ -113,35 +133,35 @@ export default function Layout({ children, title, description, image, jsonLd }:
+     { href: "/ru/products", label: "Продукты" },
+     { href: "/ru/about", label: "О нас" },
+     { href: "/ru/topics", label: "Ресурсы", isMega: true },
+-    { href: "/ru/blog", label: "Блог" },
++
+     { href: "/ru/contact", label: "Контакты" },
+   ] : (isFr ? [
+     { href: "/fr", label: "Accueil" },
+     { href: "/fr/products", label: "Produits" },
+     { href: "/fr/about", label: "À propos" },
+     { href: "/fr/topics", label: "Ressources", isMega: true },
+-    { href: "/fr/blog", label: "Blog" },
++
+     { href: "/fr/contact", label: "Contact" },
+   ] : isEs ? [
+     { href: "/es", label: "Inicio" },
+     { href: "/es/products", label: "Productos" },
+     { href: "/es/about", label: "Sobre Nosotros" },
+     { href: "/es/topics", label: "Recursos", isMega: true },
+-    { href: "/es/blog", label: "Blog" },
++
+     { href: "/es/contact", label: "Contacto" },
+   ] : isAr ? [
+     { href: "/ar", label: "الرئيسية" },
+     { href: "/ar/products", label: "المنتجات" },
+     { href: "/ar/about", label: "من نحن" },
+     { href: "/ar/topics", label: "الموارد", isMega: true },
+-    { href: "/ar/blog", label: "المدونة" },
++
+     { href: "/ar/contact", label: "اتصل بنا" },
+   ] : [
+     { href: "/en", label: "Home" },
+     { href: "/en/products", label: "Products" },
+     { href: "/en/about", label: "About Us" },
+     { href: "/en/topics", label: "Resources", isMega: true },
+-    { href: "/en/blog", label: "Blog" },
++
+     { href: "/en/contact", label: "Contact" },
+   ]);
+ 
+@@ -195,6 +215,23 @@ export default function Layout({ children, title, description, image, jsonLd }:
+       }
+     }
+ 
++    if (location.pathname.includes("/topics/")) {
++      const currentSlug = location.pathname.split("/topics/")[1];
++      // Topics share the same slug/id mapping as products in our data structure
++      const currentProduct = currentContent.products.find((p: any) => p.slug === currentSlug);
++      if (currentProduct) {
++        const targetContent = getSyncContent(targetLocale);
++        const targetProduct = targetContent.products.find((p: any) => 
++          (p.id && currentProduct.id && p.id === currentProduct.id) || 
++          (p.RootnoTouch && currentProduct.RootnoTouch && p.RootnoTouch === currentProduct.RootnoTouch)
++        );
++        if (targetProduct) {
++          navigate(`${targetPrefix}/topics/${targetProduct.slug}`);
++          return;
++        }
++      }
++    }
++
+     const pathParts = location.pathname.split('/').filter(Boolean);
+     const isKnownLang = ['en', 'ru', 'fr', 'es', 'ar'].includes(pathParts[0]);
+     const newPath = isKnownLang 
+@@ -263,7 +300,7 @@ export default function Layout({ children, title, description, image, jsonLd }:
+                     <div className="absolute top-full left-0 w-full pt-0 z-50">
+                       <MegaMenu 
+                         lang={currentLang as any} 
+-                        products={currentContent.products} 
++                        products={displayProducts} 
+                         posts={currentContent.posts}
+                         onClose={() => setMegaMenuOpen(false)}
+                       />
+@@ -390,6 +427,12 @@ export default function Layout({ children, title, description, image, jsonLd }:
+                     </Link>
+                   </li>
+                 ))}
++                <li>
++                  <Link to={`${langPrefix}/blog`} className={`text-gray-400 hover:text-white transition-colors flex items-center gap-2 group ${isAr ? 'flex-row-reverse' : ''}`}>
++                    <ChevronDown className={`w-4 h-4 opacity-0 group-hover:opacity-100 transition-all ${isAr ? 'rotate-90' : '-rotate-90'}`} />
++                    {isRu ? "Блог" : (isFr ? "Blog" : (isEs ? "Blog" : (isAr ? "المدونة" : "Blog")))}
++                  </Link>
++                </li>
+               </ul>
+             </div>
+ 

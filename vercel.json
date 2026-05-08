@@ -1,0 +1,554 @@
+{
+  "redirects": [
+    {
+      "source": "/en/products/ammonium-chloride",
+      "destination": "/en/products/ammonium-chloride-cas-12125-02-9",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/ammonium-chloride",
+      "destination": "/ru/products/ammonium-chloride-cas-12125-02-9",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/ammonium-chloride",
+      "destination": "/fr/products/ammonium-chloride-cas-12125-02-9",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/ammonium-chloride",
+      "destination": "/es/products/ammonium-chloride-cas-12125-02-9",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/ammonium-chloride",
+      "destination": "/ar/products/ammonium-chloride-cas-12125-02-9",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/ammonium-sulphate",
+      "destination": "/en/products/ammonium-sulphate-cas-7783-20-2",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/ammonium-sulphate",
+      "destination": "/ru/products/ammonium-sulphate-cas-7783-20-2",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/ammonium-sulphate",
+      "destination": "/fr/products/ammonium-sulphate-cas-7783-20-2",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/ammonium-sulphate",
+      "destination": "/es/products/ammonium-sulphate-cas-7783-20-2",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/ammonium-sulphate",
+      "destination": "/ar/products/ammonium-sulphate-cas-7783-20-2",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/borax",
+      "destination": "/en/products/borax-cas-1303-96-4",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/borax",
+      "destination": "/ru/products/borax-cas-1303-96-4",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/borax",
+      "destination": "/fr/products/borax-cas-1303-96-4",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/borax",
+      "destination": "/es/products/borax-cas-1303-96-4",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/borax",
+      "destination": "/ar/products/borax-cas-1303-96-4",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/calcium-chloride",
+      "destination": "/en/products/calcium-chloride-cas-10043-52-4-10035-04-8",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/calcium-chloride",
+      "destination": "/ru/products/calcium-chloride-cas-10043-52-4-10035-04-8",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/calcium-chloride",
+      "destination": "/fr/products/calcium-chloride-cas-10043-52-4-10035-04-8",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/calcium-chloride",
+      "destination": "/es/products/calcium-chloride-cas-10043-52-4-10035-04-8",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/calcium-chloride",
+      "destination": "/ar/products/calcium-chloride-cas-10043-52-4-10035-04-8",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/caustic-soda",
+      "destination": "/en/products/caustic-soda-cas-1310-73-2",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/caustic-soda",
+      "destination": "/ru/products/caustic-soda-cas-1310-73-2",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/caustic-soda",
+      "destination": "/fr/products/caustic-soda-cas-1310-73-2",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/caustic-soda",
+      "destination": "/es/products/caustic-soda-cas-1310-73-2",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/caustic-soda",
+      "destination": "/ar/products/caustic-soda-cas-1310-73-2",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/citric-acid-anhydrous",
+      "destination": "/en/products/citric-acid-anhydrous-cas-77-92-9-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/citric-acid-anhydrous",
+      "destination": "/ru/products/citric-acid-anhydrous-cas-77-92-9-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/citric-acid-anhydrous",
+      "destination": "/fr/products/citric-acid-anhydrous-cas-77-92-9-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/citric-acid-anhydrous",
+      "destination": "/es/products/citric-acid-anhydrous-cas-77-92-9-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/citric-acid-anhydrous",
+      "destination": "/ar/products/citric-acid-anhydrous-cas-77-92-9-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/citric-acid-monohydrate",
+      "destination": "/en/products/citric-acid-monohydrate-cas-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/citric-acid-monohydrate",
+      "destination": "/ru/products/citric-acid-monohydrate-cas-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/citric-acid-monohydrate",
+      "destination": "/fr/products/citric-acid-monohydrate-cas-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/citric-acid-monohydrate",
+      "destination": "/es/products/citric-acid-monohydrate-cas-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/citric-acid-monohydrate",
+      "destination": "/ar/products/citric-acid-monohydrate-cas-5949-29-1",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/oxalic-acid",
+      "destination": "/en/products/oxalic-acid-cas-144-62-7-6153-56-6",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/oxalic-acid",
+      "destination": "/ru/products/oxalic-acid-cas-144-62-7-6153-56-6",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/oxalic-acid",
+      "destination": "/fr/products/oxalic-acid-cas-144-62-7-6153-56-6",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/oxalic-acid",
+      "destination": "/es/products/oxalic-acid-cas-144-62-7-6153-56-6",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/oxalic-acid",
+      "destination": "/ar/products/oxalic-acid-cas-144-62-7-6153-56-6",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/polyaluminum-chloride-pac",
+      "destination": "/en/products/polyaluminum-chloride-pac-cas-1327-41-9",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/polyaluminum-chloride-pac",
+      "destination": "/ru/products/polyaluminum-chloride-pac-cas-1327-41-9",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/polyaluminum-chloride-pac",
+      "destination": "/fr/products/polyaluminum-chloride-pac-cas-1327-41-9",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/polyaluminum-chloride-pac",
+      "destination": "/es/products/polyaluminum-chloride-pac-cas-1327-41-9",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/polyaluminum-chloride-pac",
+      "destination": "/ar/products/polyaluminum-chloride-pac-cas-1327-41-9",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/soda-ash-sodium-carbonate",
+      "destination": "/en/products/soda-ash-sodium-carbonate-cas-497-19-8",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/soda-ash-sodium-carbonate",
+      "destination": "/ru/products/soda-ash-sodium-carbonate-cas-497-19-8",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/soda-ash-sodium-carbonate",
+      "destination": "/fr/products/soda-ash-sodium-carbonate-cas-497-19-8",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/soda-ash-sodium-carbonate",
+      "destination": "/es/products/soda-ash-sodium-carbonate-cas-497-19-8",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/soda-ash-sodium-carbonate",
+      "destination": "/ar/products/soda-ash-sodium-carbonate-cas-497-19-8",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-acetate-anhydrous",
+      "destination": "/en/products/sodium-acetate-anhydrous-cas-127-09-3-6131-90-4",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-acetate-anhydrous",
+      "destination": "/ru/products/sodium-acetate-anhydrous-cas-127-09-3-6131-90-4",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-acetate-anhydrous",
+      "destination": "/fr/products/sodium-acetate-anhydrous-cas-127-09-3-6131-90-4",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-acetate-anhydrous",
+      "destination": "/es/products/sodium-acetate-anhydrous-cas-127-09-3-6131-90-4",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-acetate-anhydrous",
+      "destination": "/ar/products/sodium-acetate-anhydrous-cas-127-09-3-6131-90-4",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-bicarbonate-baking-soda",
+      "destination": "/en/products/sodium-bicarbonate-baking-soda-cas-144-55-8",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-bicarbonate-baking-soda",
+      "destination": "/ru/products/sodium-bicarbonate-baking-soda-cas-144-55-8",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-bicarbonate-baking-soda",
+      "destination": "/fr/products/sodium-bicarbonate-baking-soda-cas-144-55-8",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-bicarbonate-baking-soda",
+      "destination": "/es/products/sodium-bicarbonate-baking-soda-cas-144-55-8",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-bicarbonate-baking-soda",
+      "destination": "/ar/products/sodium-bicarbonate-baking-soda-cas-144-55-8",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-bisulfite",
+      "destination": "/en/products/sodium-bisulfite-cas-7631-90-5",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-bisulfite",
+      "destination": "/ru/products/sodium-bisulfite-cas-7631-90-5",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-bisulfite",
+      "destination": "/fr/products/sodium-bisulfite-cas-7631-90-5",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-bisulfite",
+      "destination": "/es/products/sodium-bisulfite-cas-7631-90-5",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-bisulfite",
+      "destination": "/ar/products/sodium-bisulfite-cas-7631-90-5",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-hexametaphosphate-shmp",
+      "destination": "/en/products/sodium-hexametaphosphate-shmp-cas-10124-56-8",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-hexametaphosphate-shmp",
+      "destination": "/ru/products/sodium-hexametaphosphate-shmp-cas-10124-56-8",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-hexametaphosphate-shmp",
+      "destination": "/fr/products/sodium-hexametaphosphate-shmp-cas-10124-56-8",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-hexametaphosphate-shmp",
+      "destination": "/es/products/sodium-hexametaphosphate-shmp-cas-10124-56-8",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-hexametaphosphate-shmp",
+      "destination": "/ar/products/sodium-hexametaphosphate-shmp-cas-10124-56-8",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-metabisulphite-smbs",
+      "destination": "/en/products/sodium-metabisulphite-smbs-cas-7681-57-4",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-metabisulphite-smbs",
+      "destination": "/ru/products/sodium-metabisulphite-smbs-cas-7681-57-4",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-metabisulphite-smbs",
+      "destination": "/fr/products/sodium-metabisulphite-smbs-cas-7681-57-4",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-metabisulphite-smbs",
+      "destination": "/es/products/sodium-metabisulphite-smbs-cas-7681-57-4",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-metabisulphite-smbs",
+      "destination": "/ar/products/sodium-metabisulphite-smbs-cas-7681-57-4",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-sulfate-anhydrous-ssa",
+      "destination": "/en/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-sulfate-anhydrous-ssa",
+      "destination": "/ru/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-sulfate-anhydrous-ssa",
+      "destination": "/fr/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-sulfate-anhydrous-ssa",
+      "destination": "/es/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-sulfate-anhydrous-ssa",
+      "destination": "/ar/products/sodium-sulfate-anhydrous-ssa-cas-7757-82-6",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-sulfite-anhydrous",
+      "destination": "/en/products/sodium-sulfite-anhydrous-cas-7757-83-7",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-sulfite-anhydrous",
+      "destination": "/ru/products/sodium-sulfite-anhydrous-cas-7757-83-7",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-sulfite-anhydrous",
+      "destination": "/fr/products/sodium-sulfite-anhydrous-cas-7757-83-7",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-sulfite-anhydrous",
+      "destination": "/es/products/sodium-sulfite-anhydrous-cas-7757-83-7",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-sulfite-anhydrous",
+      "destination": "/ar/products/sodium-sulfite-anhydrous-cas-7757-83-7",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-thiosulphate-hypo",
+      "destination": "/en/products/sodium-thiosulphate-hypo-cas-7772-98-7-10102-17-7",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-thiosulphate-hypo",
+      "destination": "/ru/products/sodium-thiosulphate-hypo-cas-7772-98-7-10102-17-7",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-thiosulphate-hypo",
+      "destination": "/fr/products/sodium-thiosulphate-hypo-cas-7772-98-7-10102-17-7",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-thiosulphate-hypo",
+      "destination": "/es/products/sodium-thiosulphate-hypo-cas-7772-98-7-10102-17-7",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-thiosulphate-hypo",
+      "destination": "/ar/products/sodium-thiosulphate-hypo-cas-7772-98-7-10102-17-7",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sodium-tripolyphosphate-stpp",
+      "destination": "/en/products/sodium-tripolyphosphate-stpp-cas-7758-29-4",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sodium-tripolyphosphate-stpp",
+      "destination": "/ru/products/sodium-tripolyphosphate-stpp-cas-7758-29-4",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sodium-tripolyphosphate-stpp",
+      "destination": "/fr/products/sodium-tripolyphosphate-stpp-cas-7758-29-4",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sodium-tripolyphosphate-stpp",
+      "destination": "/es/products/sodium-tripolyphosphate-stpp-cas-7758-29-4",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sodium-tripolyphosphate-stpp",
+      "destination": "/ar/products/sodium-tripolyphosphate-stpp-cas-7758-29-4",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/sulfamic-acid",
+      "destination": "/en/products/sulfamic-acid-cas-5329-14-6",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/sulfamic-acid",
+      "destination": "/ru/products/sulfamic-acid-cas-5329-14-6",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/sulfamic-acid",
+      "destination": "/fr/products/sulfamic-acid-cas-5329-14-6",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/sulfamic-acid",
+      "destination": "/es/products/sulfamic-acid-cas-5329-14-6",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/sulfamic-acid",
+      "destination": "/ar/products/sulfamic-acid-cas-5329-14-6",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/tri-sodium-citrate-tsc",
+      "destination": "/en/products/tri-sodium-citrate-tsc-cas-68-04-2",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/tri-sodium-citrate-tsc",
+      "destination": "/ru/products/tri-sodium-citrate-tsc-cas-68-04-2",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/tri-sodium-citrate-tsc",
+      "destination": "/fr/products/tri-sodium-citrate-tsc-cas-68-04-2",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/tri-sodium-citrate-tsc",
+      "destination": "/es/products/tri-sodium-citrate-tsc-cas-68-04-2",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/tri-sodium-citrate-tsc",
+      "destination": "/ar/products/tri-sodium-citrate-tsc-cas-68-04-2",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/trisodium-phosphate-tsp",
+      "destination": "/en/products/trisodium-phosphate-tsp-cas-7601-54-9",
+      "permanent": true
+    },
+    {
+      "source": "/ru/products/trisodium-phosphate-tsp",
+      "destination": "/ru/products/trisodium-phosphate-tsp-cas-7601-54-9",
+      "permanent": true
+    },
+    {
+      "source": "/fr/products/trisodium-phosphate-tsp",
+      "destination": "/fr/products/trisodium-phosphate-tsp-cas-7601-54-9",
+      "permanent": true
+    },
+    {
+      "source": "/es/products/trisodium-phosphate-tsp",
+      "destination": "/es/products/trisodium-phosphate-tsp-cas-7601-54-9",
+      "permanent": true
+    },
+    {
+      "source": "/ar/products/trisodium-phosphate-tsp",
+      "destination": "/ar/products/trisodium-phosphate-tsp-cas-7601-54-9",
+      "permanent": true
+    }
+  ]
+}

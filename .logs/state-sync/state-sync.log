@@ -1,0 +1,34 @@
+{"time":"2026-05-07T10:21:19.200368976-04:00","level":"INFO","msg":"Sentry initialized","dsn":"https://962d173a894d***","environment":"PROD","release":"7.2.17","sandbox_id":"i7n9grvz86dxdy79v4c6j"}
+{"time":"2026-05-07T10:21:19.200454194-04:00","level":"INFO","msg":"Sentry initialized successfully"}
+{"time":"2026-05-07T10:21:19.200531524-04:00","level":"INFO","msg":"State sync service starting","log_file":"/home/ubuntu/.logs/state-sync/state-sync.log"}
+{"time":"2026-05-07T10:21:19.200672563-04:00","level":"INFO","msg":"Starting state sync service"}
+{"time":"2026-05-07T10:21:19.200688378-04:00","level":"INFO","msg":"Pulling initial state from S3"}
+{"time":"2026-05-07T10:21:19.200698129-04:00","level":"INFO","msg":"Pull not allowed currently, will retry when config changes"}
+{"time":"2026-05-07T10:21:19.200703953-04:00","level":"INFO","msg":"Connecting to browser","port":"9222"}
+{"time":"2026-05-07T10:21:19.208342765-04:00","level":"INFO","msg":"Found chrome://newtab/ to reuse","target_id":"B3C194715AF4D6B33AB2A3DB38B4F20E"}
+{"time":"2026-05-07T10:21:19.208387726-04:00","level":"INFO","msg":"Reusing existing target for cookie sync","target_id":"B3C194715AF4D6B33AB2A3DB38B4F20E"}
+{"time":"2026-05-07T10:21:19.208402954-04:00","level":"INFO","msg":"Successfully connected to browser"}
+{"time":"2026-05-07T10:21:19.208406564-04:00","level":"INFO","msg":"Syncing state to browser"}
+{"time":"2026-05-07T10:21:19.208409945-04:00","level":"INFO","msg":"Syncing cookies to browser","cookie_count":0}
+{"time":"2026-05-07T10:21:19.230769234-04:00","level":"INFO","msg":"Successfully synced cookies to browser"}
+{"time":"2026-05-07T10:21:19.230791482-04:00","level":"INFO","msg":"Successfully synced state to browser"}
+{"time":"2026-05-07T10:21:19.230795284-04:00","level":"INFO","msg":"Setting up state watchers"}
+{"time":"2026-05-07T10:21:19.230800257-04:00","level":"INFO","msg":"Starting CDP watcher"}
+{"time":"2026-05-07T10:21:19.231124711-04:00","level":"ERROR","msg":"Failed to create hidden monitoring target","error":"Hidden target cannot be created in a new window (-32602)"}
+{"time":"2026-05-07T10:21:19.231164764-04:00","level":"INFO","msg":"State watchers setup complete"}
+{"time":"2026-05-07T10:21:19.231168943-04:00","level":"INFO","msg":"Waiting for browser to stabilize after cookie sync","delay":5000000000}
+{"time":"2026-05-07T10:21:19.231184187-04:00","level":"INFO","msg":"Starting target monitoring"}
+{"time":"2026-05-07T10:21:19.267910596-04:00","level":"INFO","msg":"Handling target","target_id":"B3C194715AF4D6B33AB2A3DB38B4F20E","url":"chrome://newtab/"}
+{"time":"2026-05-07T10:21:24.236357115-04:00","level":"INFO","msg":"Browser stabilization complete, cookie polling started with current state as baseline"}
+{"time":"2026-05-07T10:21:24.236974784-04:00","level":"INFO","msg":"Starting cookie polling","interval":1000000000}
+{"time":"2026-05-07T10:21:24.2371346-04:00","level":"INFO","msg":"Wrote sync ready marker","path":"/home/ubuntu/.config/state-sync/.sync-ready"}
+{"time":"2026-05-07T10:21:24.237144629-04:00","level":"INFO","msg":"State sync service started successfully"}
+{"time":"2026-05-07T10:21:24.237183036-04:00","level":"INFO","msg":"Started watching config file","path":"/home/ubuntu/.config/state-sync/state-sync-config.yaml"}
+{"time":"2026-05-07T11:03:40.39515631-04:00","level":"INFO","msg":"Config file changed, reloading","path":"/home/ubuntu/.config/state-sync/state-sync-config.yaml","operation":"CREATE"}
+{"time":"2026-05-07T11:45:22.442752687-04:00","level":"INFO","msg":"Handling target","target_id":"F20816D6710A121B363ACC01D5427A7E","url":"https://chemsite3-2-glsbykwn3-morris0532s-projects.vercel.app/en"}
+{"time":"2026-05-07T11:45:25.395509677-04:00","level":"INFO","msg":"Handling target","target_id":"F20816D6710A121B363ACC01D5427A7E","url":"https://chemsite3-2-glsbykwn3-morris0532s-projects.vercel.app/en"}
+{"time":"2026-05-07T11:45:25.974266149-04:00","level":"INFO","msg":"Handling target","target_id":"B3C194715AF4D6B33AB2A3DB38B4F20E","url":"chrome://newtab/"}
+{"time":"2026-05-07T11:45:25.982248674-04:00","level":"ERROR","msg":"Failed to enable DOM storage events","target_id":"B3C194715AF4D6B33AB2A3DB38B4F20E","error":"No target with given id found (-32602)"}
+{"time":"2026-05-07T11:46:43.914453105-04:00","level":"INFO","msg":"Handling target","target_id":"F20816D6710A121B363ACC01D5427A7E","url":"https://chemsite3-2-glsbykwn3-morris0532s-projects.vercel.app/lp"}
+{"time":"2026-05-07T11:46:44.408249166-04:00","level":"INFO","msg":"Handling target","target_id":"F20816D6710A121B363ACC01D5427A7E","url":"https://chemsite3-2-glsbykwn3-morris0532s-projects.vercel.app/lp"}
+{"time":"2026-05-07T11:46:44.412903415-04:00","level":"INFO","msg":"Handling target","target_id":"F20816D6710A121B363ACC01D5427A7E","url":"https://chemsite3-2-glsbykwn3-morris0532s-projects.vercel.app/lp/sodium-thiosulfate"}

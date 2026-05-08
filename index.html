@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Optimized Google Tag Manager: Load after initial paint -->
+    <script>
+      window.addEventListener('load', function() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=G-0GJEM87JTM";
+        document.head.appendChild(script);
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-0GJEM87JTM');
+      });
+    </script>
+    <link rel="icon" type="image/x-icon" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="/" />
+    <title>Premier Chemical Supplier from China | Sinopeakchem</title>
+    <meta name="description" content="Sinopeakchem is a leading B2B chemical supplier from China." />
+    <meta name="author" content="Sinopeakchem" />
+
+    <!-- Performance Optimizations -->
+    <link rel="dns-prefetch" href="https://sinopeakchem.com">
+    
+    <!-- LCP Preload: Hero Image (Responsive) -->
+    <link rel="preload" as="image" href="/images/remote/hero.webp?w=480&q=65" imagesrcset="/images/remote/hero.webp?w=480&q=65 480w, /images/remote/hero.webp?w=768&q=70 768w, /images/remote/hero.webp?w=1024&q=75 1024w" imagesizes="(max-width: 480px) 480px, (max-width: 768px) 768px, 1024px" fetchpriority="high">
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    
+    <!-- Critical CSS & Zero-Download Fonts -->
+    <style>
+      :root {
+        --brand-blue: #0066B3;
+        --header-height: 64px;
+        --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #ffffff;
+        font-family: var(--font-sans);
+        overflow-x: hidden;
+      }
+      /* Progressive Rendering Skeleton */
+      #initial-ui {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 100;
+        background: #fff;
+        pointer-events: none;
+        transition: opacity 0.4s ease-out;
+      }
+      .header-stub {
+        height: var(--header-height);
+        background: #fff;
+        border-bottom: 1px solid #f1f5f9;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        padding: 0 1.5rem;
+        box-sizing: border-box;
+      }
+      .logo-stub {
+        width: 140px;
+        height: 32px;
+        background: #f1f5f9;
+        border-radius: 4px;
+      }
+      .nav-stub {
+        margin-left: auto;
+        display: flex;
+        gap: 1.5rem;
+      }
+      .nav-item-stub {
+        width: 60px;
+        height: 16px;
+        background: #f8fafc;
+        border-radius: 2px;
+      }
+      .content-stub {
+        height: 300px; /* Generic content height */
+        background: #f8fafc;
+        margin: 20px;
+        border-radius: 8px;
+      }
+      .hero-stub-home {
+        width: 100%;
+        height: 600px;
+        background: linear-gradient(135deg, #004494 0%, #0066cc 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 1.5rem;
+        box-sizing: border-box;
+      }
+      .hero-content-stub {
+        max-width: 800px;
+        width: 100%;
+        text-align: center;
+      }
+      .hero-title-stub {
+        height: 48px;
+        background: rgba(255,255,255,0.2);
+        margin-bottom: 1.5rem;
+        border-radius: 8px;
+      }
+      .hero-text-stub {
+        height: 20px;
+        background: rgba(255,255,255,0.1);
+        margin-bottom: 0.5rem;
+        border-radius: 4px;
+      }
+      /* Root Container - Use white background to match header and body */
+      #root {
+        opacity: 0;
+        background-color: #ffffff;
+        min-height: 100vh;
+      }
+      #root.ready {
+        opacity: 1;
+        transition: opacity 0.5s ease-in;
+      }
+    </style>
+
+    <script>
+      (function() {
+        var theme = localStorage.getItem("theme") || 
+                    (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        if (theme === "dark") document.documentElement.classList.add("dark");
+
+        function renderSkeleton() {
+          const path = window.location.pathname;
+          let skeletonHtml = `
+            <div class="header-stub">
+              <div class="logo-stub"></div>
+              <div class="nav-stub">
+                <div class="nav-item-stub"></div>
+                <div class="nav-item-stub"></div>
+                <div class="nav-item-stub"></div>
+              </div>
+            </div>
+          `;
+
+          if (path === "/" || path === "/en") {
+            skeletonHtml += `
+              <div class="hero-stub-home">
+                <div class="hero-content-stub">
+                  <div style="width: 180px; height: 24px; background: rgba(255,255,255,0.2); margin: 0 auto 2rem; border-radius: 99px;"></div>
+                  <div class="hero-title-stub"></div>
+                  <div class="hero-text-stub" style="width: 80%; margin: 0 auto 0.5rem;"></div>
+                  <div class="hero-text-stub" style="width: 60%; margin: 0 auto 2rem;"></div>
+                  <div style="display: flex; gap: 1rem; justify-content: center;">
+                    <div style="width: 140px; height: 48px; background: white; border-radius: 8px;"></div>
+                    <div style="width: 140px; height: 48px; background: rgba(255,255,255,0.1); border-radius: 8px; border: 1px solid white;"></div>
+                  </div>
+                </div>
+              </div>
+            `;
+          } else if (path.startsWith("/en/about") || path.startsWith("/en/contact") || path.startsWith("/en/blog")) {
+            // Generic skeleton for other pages, matching the About/Contact Hero style
+            skeletonHtml += `
+              <div class="hero-stub-home" style="height: 250px; background: linear-gradient(135deg, #0066B3 0%, #004A82 100%);">
+                <div class="hero-content-stub">
+                  <div class="hero-title-stub" style="height: 32px; margin-bottom: 1rem;"></div>
+                  <div class="hero-text-stub" style="width: 70%; margin: 0 auto;"></div>
+                </div>
+              </div>
+            `;
+          } else {
+            // Fallback for other pages, just a simple content area
+            // Fallback for other pages, just a simple content area
+            skeletonHtml += `
+              <div class="content-stub"></div>
+            `;
+          }
+
+          const initialUiDiv = document.getElementById("initial-ui");
+          if (initialUiDiv) {
+            initialUiDiv.innerHTML = skeletonHtml;
+          }
+        }
+        document.addEventListener("DOMContentLoaded", renderSkeleton);
+        window.addEventListener("popstate", renderSkeleton); // Handle browser back/forward
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- Initial UI overlay (Progressive Skeleton) -->
+    <div id="initial-ui"></div>
+    
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx" defer></script>
+  </body>
+</html>

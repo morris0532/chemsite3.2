@@ -1,0 +1,388 @@
+import { useState, useEffect } from "react";
+import { useLocation } from "react-router-dom";
+import { Mail, Phone, MapPin, MessageCircle, Send, CheckCircle } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
+import Layout from "@/components/Layout";
+
+const jsonLdEn = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  name: "Contact Sinopeakchem",
+  description: "Get in touch with Sinopeakchem for chemical product inquiries, pricing, and technical support.",
+  mainEntity: {
+    "@type": "Organization",
+    name: "Sinopeakchem",
+    email: "info@sinopeakchem.com",
+    telephone: "+86-13583262050",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "No. 182, Jinshui Road, Licang District",
+      addressLocality: "Qingdao",
+      addressRegion: "Shandong",
+      postalCode: "266000",
+      addressCountry: "CN",
+    },
+  },
+};
+
+const jsonLdRu = {
+  ...jsonLdEn,
+  name: "Связаться с Sinopeakchem",
+  description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке.",
+};
+
+const jsonLdFr = {
+  ...jsonLdEn,
+  name: "Contacter Sinopeakchem",
+  description: "Contactez Sinopeakchem pour des demandes de produits chimiques, des tarifs et un support technique.",
+};
+
+const jsonLdEs = {
+  ...jsonLdEn,
+  name: "Contactar a Sinopeakchem",
+  description: "Póngase en contacto con Sinopeakchem para consultas sobre productos químicos, precios y soporte técnico.",
+};
+
+const jsonLdAr = {
+  ...jsonLdEn,
+  name: "اتصل بـ Sinopeakchem",
+  description: "تواصل مع Sinopeakchem للاستفسارات عن المنتجات الكيميائية والأسعار والدعم الفني.",
+};
+
+export default function ContactPage() {
+  const location = useLocation();
+  const isRu = location.pathname.startsWith("/ru");
+  const isFr = location.pathname.startsWith("/fr");
+  const isEs = location.pathname.startsWith("/es");
+  const isAr = location.pathname.startsWith("/ar");
+  
+  const [formData, setFormData] = useState({ name: "", email: "", company: "", message: "" });
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const product = params.get("product");
+    if (product) {
+      setFormData(prev => ({
+        ...prev,
+        message: isRu ? `Я заинтересован в ${product}. Пожалуйста, пришлите мне предложение.` : 
+                 (isFr ? `Je suis intéressé par ${product}. Veuillez m'envoyer un devis.` : 
+                 (isEs ? `Estoy interesado en ${product}. Por favor, envíeme una cotización.` : 
+                 (isAr ? `أنا مهتم بـ ${product}. يرجى إرسال عرض سعر لي.` : 
+                 `I am interested in ${product}. Please send me a quote.`)))
+      }));
+    }
+  }, [location.search, isRu, isFr, isEs, isAr]);
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [waLink, setWaLink] = useState("");
+  const [waDisplay, setWaDisplay] = useState("");
+
+  // Anti-scraping logic for WhatsApp/Phone
+  useEffect(() => {
+    const country = "86";
+    const part1 = "135";
+    const part2 = "8326";
+    const part3 = "2050";
+    const full = country + part1 + part2 + part3;
+    setWaLink(`https://wa.me/${full}?text=Hello%2C%20I%27m%20interested%20in%20your%20products.`);
+    setWaDisplay(`+${country} ${part1} ${part2} ${part3}`);
+  }, []);
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setSubmitting(true);
+    try {
+      const response = await fetch("/api/send-email", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          subject: `New Inquiry from ${formData.company || "N/A"}`,
+          message: formData.message,
+        }),
+      });
+      
+      if (!response.ok) {
+        throw new Error("Failed to send email");
+      }
+      
+      setSubmitted(true);
+      setFormData({ name: "", email: "", company: "", message: "" });
+      setTimeout(() => {
+        setSubmitted(false);
+      }, 5000);
+    } catch (error) {
+      console.error("Error submitting form:", error);
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
+  };
+
+  const content = isRu ? {
+    title: "Свяжитесь с нами - Получите предложение на промышленные химикаты",
+    description: "Свяжитесь с Sinopeakchem для запросов о химической продукции, ценах и технической поддержке. Свяжитесь с нами по электронной почте, WhatsApp или через нашу контактную форму.",
+    heroTitle: "Свяжитесь с нами",
+    heroDesc: "Готовы закупать качественные химикаты? Свяжитесь с нашей командой для получения информации о ценах, продукции и технической поддержке.",
+    getInTouch: "Связаться",
+    getInTouchDesc: "Мы здесь, чтобы помочь. Свяжитесь с нами по любому из следующих каналов.",
+    email: "Электронная почта",
+    whatsapp: "WhatsApp",
+    address: "Адрес",
+    addressValue: "№ 182, ул. Цзиньшуй, район Лицан, Циндао, провинция Шаньдун, Китай",
+    sendMessage: "Отправьте нам сообщение",
+    sendMessageDesc: "Заполните форму ниже, и наша команда свяжется с вами в течение 24 часов.",
+    successTitle: "Сообщение успешно отправлено!",
+    successDesc: "Благодарим вас за обращение. Мы ответим на ваш запрос в течение 24 часов.",
+    fullName: "Полное имя *",
+    emailAddress: "Адрес электронной почты *",
+    companyName: "Название компании (необязательно)",
+    message: "Сообщение *",
+    messagePlaceholder: "Расскажите нам о ваших требованиях, интересующих продуктах, необходимом количестве...",
+    sending: "Отправка...",
+    sendButton: "Отправить сообщение",
+    mapTitle: "Наше местоположение",
+  } : (isFr ? {
+    title: "Contactez-nous - Obtenez un Devis pour des Produits Chimiques Industriels",
+    description: "Contactez Sinopeakchem pour des demandes de produits chimiques, des tarifs et un support technique. Joignez-nous par e-mail, WhatsApp ou via notre formulaire.",
+    heroTitle: "Contactez-nous",
+    heroDesc: "Prêt à vous approvisionner en produits chimiques de qualité ? Contactez notre équipe pour obtenir des tarifs et des informations techniques.",
+    getInTouch: "Entrer en Contact",
+    getInTouchDesc: "Nous sommes là pour vous aider. Contactez-nous via l'un des canaux suivants.",
+    email: "E-mail",
+    whatsapp: "WhatsApp",
+    address: "Adresse",
+    addressValue: "No. 182, Jinshui Road, Licang District, Qingdao, Province du Shandong, Chine",
+    sendMessage: "Envoyez-nous un Message",
+    sendMessageDesc: "Remplissez le formulaire ci-dessous et notre équipe vous répondra dans les 24 heures.",
+    successTitle: "Message Envoyé avec Succès !",
+    successDesc: "Merci de nous avoir contactés. Nous répondrons à votre demande dans les 24 heures.",
+    fullName: "Nom Complet *",
+    emailAddress: "Adresse E-mail *",
+    companyName: "Nom de l'Entreprise (Optionnel)",
+    message: "Message *",
+    messagePlaceholder: "Parlez-nous de vos besoins, des produits d'intérêt, de la quantité nécessaire...",
+    sending: "Envoi en cours...",
+    sendButton: "Envoyer le Message",
+    mapTitle: "Notre Emplacement",
+  } : isEs ? {
+    title: "Contáctenos - Obtenga una Cotización de Productos Químicos Industriales",
+    description: "Póngase en contacto con Sinopeakchem para consultas sobre productos químicos, precios y soporte técnico. Contáctenos por correo electrónico, WhatsApp o nuestro formulario.",
+    heroTitle: "Contáctenos",
+    heroDesc: "¿Listo para adquirir productos químicos de calidad? Póngase en contacto con nuestro equipo para obtener precios, información de productos y soporte técnico.",
+    getInTouch: "Póngase en Contacto",
+    getInTouchDesc: "Estamos aquí para ayudar. Comuníquese con nosotros a través de cualquiera de los siguientes canales.",
+    email: "Correo Electrónico",
+    whatsapp: "WhatsApp",
+    address: "Dirección",
+    addressValue: "No. 182, Jinshui Road, Distrito de Licang, Qingdao, Provincia de Madrid, China",
+    sendMessage: "Envíenos un Mensaje",
+    sendMessageDesc: "Complete el formulario a continuación y nuestro equipo se comunicará con usted en un plazo de 24 horas.",
+    successTitle: "¡Mensaje Enviado con Éxito!",
+    successDesc: "Gracias por contactarnos. Responderemos a su consulta en un plazo de 24 horas.",
+    fullName: "Nombre Complet *",
+    emailAddress: "Correo Electrónico *",
+    companyName: "Nombre de la Empresa (Opcional)",
+    message: "Mensaje *",
+    messagePlaceholder: "Cuéntenos sobre sus requisitos, productos de interés, cantidad necesaria...",
+    sending: "Enviando...",
+    sendButton: "Enviar Mensaje",
+    mapTitle: "Nuestra Ubicación",
+  } : isAr ? {
+    title: "اتصل بنا - احصل على عرض سعر للمواد الكيميائية الصناعية",
+    description: "تواصل مع Sinopeakchem للاستفسارات عن المنتجات الكيميائية والأسعار والدعم الفني. تواصل معنا عبر البريد الإلكتروني أو WhatsApp أو نموذج الاتصال الخاص بنا.",
+    heroTitle: "اتصل بنا",
+    heroDesc: "هل أنت جاهز لتوريد مواد كيميائية عالية الجودة؟ تواصل مع فريقنا للحصول على الأسعار ومعلومات المنتجات والدعم الفني.",
+    getInTouch: "تواصل معنا",
+    getInTouchDesc: "نحن هنا للمساعدة. تواصل معنا عبر أي من القنوات التالية.",
+    email: "البريد الإلكتروني",
+    whatsapp: "واتساب",
+    address: "العنوان",
+    addressValue: "رقم 182، طريق جينشوي، منطقة ليتسانغ، تشينغداو، مقاطعة شاندونغ، الصين",
+    sendMessage: "أرسل لنا رسالة",
+    sendMessageDesc: "املأ النموذج أدناه وسيعاود فريقنا الاتصال بك في غضون 24 ساعة.",
+    successTitle: "تم إرسال الرسالة بنجاح!",
+    successDesc: "شكراً لتواصلك معنا. سنرد على استفسارك في غضون 24 ساعة.",
+    fullName: "الاسم الكامل *",
+    emailAddress: "البريد الإلكتروني *",
+    companyName: "اسم الشركة (اختياري)",
+    message: "الرسالة *",
+    messagePlaceholder: "أخبرنا عن متطلباتك، المنتجات التي تهمك، الكمية المطلوبة...",
+    sending: "جاري الإرسال...",
+    sendButton: "إرسال الرسالة",
+    mapTitle: "موقعنا",
+  } : {
+    title: "Contact Us - Get a Quote for Industrial Chemicals",
+    description: "Contact Sinopeakchem for chemical product inquiries, pricing, and technical support. Reach us via email, WhatsApp, or our contact form.",
+    heroTitle: "Contact Us",
+    heroDesc: "Ready to source quality chemicals? Get in touch with our team for pricing, product information, and technical support.",
+    getInTouch: "Get In Touch",
+    getInTouchDesc: "We are here to help. Reach out to us through any of the following channels.",
+    email: "Email",
+    whatsapp: "WhatsApp",
+    address: "Address",
+    addressValue: "No. 182, Jinshui Road, Licang District, Qingdao, Shandong Province, China",
+    sendMessage: "Send Us a Message",
+    sendMessageDesc: "Fill out the form below and our team will get back to you within 24 hours.",
+    successTitle: "Message Sent Successfully!",
+    successDesc: "Thank you for contacting us. We will respond to your inquiry within 24 hours.",
+    fullName: "Full Name *",
+    emailAddress: "Email Address *",
+    companyName: "Company Name (Optional)",
+    message: "Message *",
+    messagePlaceholder: "Tell us about your requirements, products of interest, quantity needed...",
+    sending: "Sending...",
+    sendButton: "Send Message",
+    mapTitle: "Our Location",
+  });
+
+  // Hardcoded map URL for specific location
+  const mapSearchUrl = `https://www.google.com/maps?q=${encodeURIComponent("李沧区院士港2期")}&output=embed`;
+
+  return (
+    <Layout
+      title={content.title}
+      description={content.description}
+      jsonLd={isRu ? jsonLdRu : (isFr ? jsonLdFr : (isEs ? jsonLdEs : (isAr ? jsonLdAr : jsonLdEn)))}
+    >
+      <div className={isAr ? 'text-right' : ''}>
+        {/* Hero */}
+        <section className="bg-gradient-to-br from-[#0066B3] to-[#004A82] text-white py-16">
+          <div className="container mx-auto px-4">
+            <h1 className={`text-3xl md:text-4xl font-bold mb-4 ${isAr ? 'font-arabic' : ''}`}>{content.heroTitle}</h1>
+            <p className={`text-blue-100 max-w-2xl text-lg ${isAr ? 'font-arabic' : ''}`}>
+              {content.heroDesc}
+            </p>
+          </div>
+        </section>
+
+        <section className="py-12 md:py-16">
+          <div className="container mx-auto px-4">
+            <div className={`grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 ${isAr ? 'font-arabic' : ''}`}>
+              {/* Contact Info */}
+              <div className="lg:col-span-4">
+                <div className="h-full flex flex-col pt-6 md:pt-8">
+                  <h2 className="text-2xl font-bold text-[#1A1A2E] mb-2">{content.getInTouch}</h2>
+                  <p className="text-gray-600 mb-6">{content.getInTouchDesc}</p>
+                  <div className="space-y-4 flex-grow">
+                    {/* Email */}
+                    <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
+                        <Mail className="w-5 h-5 text-white" />
+                      </div>
+                      <div className={isAr ? 'text-right' : ''}>
+                        <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.email}</h3>
+                        <a href="mailto:info@sinopeakchem.com" className="text-[#0066B3] hover:underline text-sm">
+                          info@sinopeakchem.com
+                        </a>
+                      </div>
+                    </div>
+
+                    {/* WhatsApp */}
+                    <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <div className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center flex-shrink-0">
+                        <MessageCircle className="w-5 h-5 text-white" />
+                      </div>
+                      <div className={isAr ? 'text-right' : ''}>
+                        <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.whatsapp}</h3>
+                        <a href={waLink} target="_blank" rel="noopener noreferrer" className="text-[#0066B3] hover:underline text-sm" dir="ltr" style={{ unicodeBidi: 'isolate' }}>
+                          {waDisplay || "Loading..."}
+                        </a>
+                      </div>
+                    </div>
+
+                    <div className={`flex items-start gap-4 p-4 bg-[#F5F7FA] rounded-xl ${isAr ? 'flex-row-reverse' : ''}`}>
+                      <div className="w-10 h-10 bg-[#0066B3] rounded-lg flex items-center justify-center flex-shrink-0">
+                        <MapPin className="w-5 h-5 text-white" />
+                      </div>
+                      <div className={isAr ? 'text-right' : ''}>
+                        <h3 className="font-semibold text-[#1A1A2E] text-sm">{content.address}</h3>
+                        <p className="text-gray-600 text-sm">{content.addressValue}</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Contact Form */}
+              <div className="lg:col-span-8">
+                <div className="bg-white rounded-2xl border border-gray-200 p-6 md:p-8 shadow-sm h-full">
+                  <h2 className={`text-2xl font-bold text-[#1A1A2E] mb-2 ${isAr ? 'font-arabic' : ''}`}>{content.sendMessage}</h2>
+                  <p className={`text-gray-600 text-sm mb-6 ${isAr ? 'font-arabic' : ''}`}>{content.sendMessageDesc}</p>
+
+                  {submitted ? (
+                    <div className="text-center py-12">
+                      <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <CheckCircle className="w-8 h-8 text-green-600" />
+                      </div>
+                      <h3 className={`text-xl font-semibold text-gray-900 mb-2 ${isAr ? 'font-arabic' : ''}`}>{content.successTitle}</h3>
+                      <p className={`text-gray-600 ${isAr ? 'font-arabic' : ''}`}>{content.successDesc}</p>
+                    </div>
+                  ) : (
+                    <form onSubmit={handleSubmit} className="space-y-5">
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+                        <div>
+                          <Label htmlFor="name" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.fullName}</Label>
+                          <Input id="name" name="name" required value={formData.name} onChange={handleChange} placeholder={isAr ? "فلان الفلاني" : "John Doe"} className={isAr ? 'text-right' : ''} />
+                        </div>
+                        <div>
+                          <Label htmlFor="email" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.emailAddress}</Label>
+                          <Input id="email" name="email" type="email" required value={formData.email} onChange={handleChange} placeholder="john@company.com" className={isAr ? 'text-right' : ''} />
+                        </div>
+                      </div>
+                      <div>
+                        <Label htmlFor="company" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.companyName}</Label>
+                        <Input id="company" name="company" value={formData.company} onChange={handleChange} placeholder={isAr ? "اسم الشركة المحدودة" : (isRu ? "Название вашей компании" : (isFr ? "Nom de votre entreprise" : (isEs ? "Nombre de su empresa" : "Your company name")))} className={isAr ? 'text-right' : ''} />
+                      </div>
+                      <div>
+                        <Label htmlFor="message" className={`mb-1 ${isAr ? 'block text-right font-arabic' : ''}`}>{content.message}</Label>
+                        <Textarea id="message" name="message" required value={formData.message} onChange={handleChange} placeholder={content.messagePlaceholder} rows={5} className={isAr ? 'text-right' : ''} />
+                      </div>
+                      <div className={isAr ? 'text-right' : ''}>
+                        <Button type="submit" disabled={submitting} className={`bg-[#0066B3] hover:bg-[#004A82] text-white w-full md:w-auto px-8 ${isAr ? 'flex-row-reverse font-arabic' : ''}`}>
+                          {submitting ? content.sending : <><Send className={`w-4 h-4 ${isAr ? 'ml-2 rotate-180' : 'mr-2'}`} /> {content.sendButton}</>}
+                        </Button>
+                      </div>
+                    </form>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Map Section - Full Width Map with Contained Header */}
+        <section className="pt-4 md:pt-6">
+          <div className="container mx-auto px-4 mb-4">
+            <div className="flex items-center gap-2">
+              <MapPin className="w-4 h-4 text-[#0066B3]" />
+              <h3 className={`font-bold text-[#1A1A2E] text-sm ${isAr ? 'font-arabic' : ''}`}>{content.mapTitle}</h3>
+            </div>
+          </div>
+          <div className="w-full bg-white border-t border-gray-200 overflow-hidden">
+            <div className="aspect-[16/9] md:aspect-[21/6] w-full bg-gray-100 relative">
+              <iframe
+                title="Sinopeakchem Location"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                src={mapSearchUrl}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                className="absolute inset-0"
+              ></iframe>
+            </div>
+          </div>
+        </section>
+      </div>
+    </Layout>
+  );
+}

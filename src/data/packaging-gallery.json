@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "packaging-1",
+      "slug": "ggg-soda-ash-light-25kg-sinopeakchem",
+      "name": "GGG Soda Ash Light 25kg SINOPEAKCHEM",
+      "image": "/images/packaging-gallery/GGG-Soda-Ash-Light-25kg-SINOPEAKCHEM.webp",
+      "category": "Product Packaging",
+      "cas": "",
+      "shortDescription": "Professional packaging image for GGG Soda Ash Light 25kg SINOPEAKCHEM",
+      "order": 1
+    },
+    {
+      "id": "packaging-2",
+      "slug": "sodium-tripolyphosphate-25kg-sinopeakchem",
+      "name": "Sodium Tripolyphosphate 25KG SINOPEAKCHEM",
+      "image": "/images/packaging-gallery/Sodium-Tripolyphosphate-25KG-SINOPEAKCHEM.webp",
+      "category": "Product Packaging",
+      "cas": "",
+      "shortDescription": "Professional packaging image for Sodium Tripolyphosphate 25KG SINOPEAKCHEM",
+      "order": 2
+    },
+    {
+      "id": "packaging-3",
+      "slug": "sodium-thiosulfate-50kg",
+      "name": "Sodium Thiosulfate 50kg",
+      "image": "/images/packaging-gallery/sodium_thiosulfate_50kg.webp",
+      "category": "Product Packaging",
+      "cas": "",
+      "shortDescription": "Professional packaging image for Sodium Thiosulfate 50kg",
+      "order": 3
+    }
+  ],
+  "lastUpdated": "2026-04-29T14:31:30.922Z",
+  "totalItems": 3
+}
