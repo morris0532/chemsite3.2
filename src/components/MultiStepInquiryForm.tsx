@@ -296,10 +296,8 @@ export default function MultiStepInquiryForm({
     }
   };
 
-  const handleSubmit = async (e?: React.FormEvent | React.MouseEvent) => {
-    if (e) {
-      e.preventDefault();
-    }
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
 
     if (!validateStep(3)) {
       toast({
@@ -596,14 +594,13 @@ export default function MultiStepInquiryForm({
               <ChevronRight className="w-4 h-4 ml-2" />
             </Button>
           ) : (
-            <button
-              type="button"
+            <Button
+              type="submit"
               disabled={submitting}
-              onClick={(e) => handleSubmit(e)}
-              className="flex-1 h-12 bg-[#0066B3] hover:bg-[#004a82] disabled:bg-slate-300 text-white rounded-xl font-bold transition-all"
+              className="flex-1 h-12 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold"
             >
               {submitting ? "Submitting..." : content.submit}
-            </button>
+            </Button>
           )
         </div>
       </form>
