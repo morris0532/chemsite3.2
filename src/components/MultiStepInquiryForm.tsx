@@ -588,13 +588,14 @@ export default function MultiStepInquiryForm({
               <ChevronRight className="w-4 h-4 ml-2" />
             </Button>
           ) : (
-            <Button
+            <button
               type="submit"
               disabled={submitting}
-              className="flex-1 h-12 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold"
+              onClick={handleSubmit}
+              className="flex-1 h-12 bg-[#0066B3] hover:bg-[#004a82] disabled:bg-slate-300 text-white rounded-xl font-bold transition-all"
             >
               {submitting ? "Submitting..." : content.submit}
-            </Button>
+            </button>
           )}
         </div>
       </form>
