@@ -296,8 +296,10 @@ export default function MultiStepInquiryForm({
     }
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const handleSubmit = async (e?: React.FormEvent | React.MouseEvent) => {
+    if (e) {
+      e.preventDefault();
+    }
 
     if (!validateStep(3)) {
       toast({
@@ -311,6 +313,8 @@ export default function MultiStepInquiryForm({
     setSubmitting(true);
 
     try {
+      console.log("📤 Submitting form with data:", formData);
+      
       const response = await fetch("/api/send-email", {
         method: "POST",
         headers: {
@@ -330,7 +334,10 @@ export default function MultiStepInquiryForm({
         }),
       });
 
+      console.log("📥 Response status:", response.status);
+
       if (response.ok) {
+        console.log("✅ Form submitted successfully");
         setSubmitted(true);
         toast({
           title: content.success,
@@ -341,6 +348,7 @@ export default function MultiStepInquiryForm({
           onClose?.();
         }, 3000);
       } else {
+        console.error("❌ Server returned error:", response.status);
         toast({
           variant: "destructive",
           title: "Error",
@@ -348,7 +356,7 @@ export default function MultiStepInquiryForm({
         });
       }
     } catch (error) {
-      console.error("Error submitting inquiry:", error);
+      console.error("❌ Error submitting inquiry:", error);
       toast({
         variant: "destructive",
         title: "Error",
@@ -589,14 +597,14 @@ export default function MultiStepInquiryForm({
             </Button>
           ) : (
             <button
-              type="submit"
+              type="button"
               disabled={submitting}
-              onClick={handleSubmit}
+              onClick={(e) => handleSubmit(e)}
               className="flex-1 h-12 bg-[#0066B3] hover:bg-[#004a82] disabled:bg-slate-300 text-white rounded-xl font-bold transition-all"
             >
               {submitting ? "Submitting..." : content.submit}
             </button>
-          )}
+          )
         </div>
       </form>
     </div>
