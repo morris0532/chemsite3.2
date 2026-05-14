@@ -21,7 +21,6 @@ import remarkBreaks from "remark-breaks";
 import Layout from "@/components/Layout";
 import { useMarkdownContent } from "@/hooks/useMarkdownContent";
 import { JsonLd, generateProductSchema } from "../components/JsonLd";
-import MultiStepInquiryForm from "@/components/MultiStepInquiryForm";
 
 export default function ProductDetailPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -45,6 +44,14 @@ export default function ProductDetailPage() {
   const [docModalOpen, setDocModalOpen] = useState(false);
 
   // Inquiry Modal State
+  const [inquiryName, setInquiryName] = useState("");
+  const [inquiryEmail, setInquiryEmail] = useState("");
+  const [inquiryCompany, setInquiryCompany] = useState("");
+  const [inquiryPhone, setInquiryPhone] = useState("");
+  const [inquiryQuantity, setInquiryQuantity] = useState("");
+  const [inquiryMessage, setInquiryMessage] = useState("");
+  const [inquirySubscribe, setInquirySubscribe] = useState(true);
+  const [inquirySubmitted, setInquirySubmitted] = useState(false);
   const [inquiryModalOpen, setInquiryModalOpen] = useState(false);
   const { toast } = useToast();
 
@@ -105,7 +112,61 @@ export default function ProductDetailPage() {
     }
   };
 
+  const handleInquirySubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: inquiryName,
+          email: inquiryEmail,
+          company: inquiryCompany,
+          phone: inquiryPhone,
+          quantity: inquiryQuantity,
+          message: inquiryMessage,
+          type: 'product_inquiry',
+          product: product.name,
+          subscribe: inquirySubscribe
+        }),
+      });
 
+      if (response.ok) {
+        setInquirySubmitted(true);
+        toast({
+          title: "Inquiry Sent",
+          description: "We have received your request and sent a confirmation email.",
+        });
+        setTimeout(() => {
+          setInquirySubmitted(false);
+          setInquiryModalOpen(false);
+          // Reset fields
+          setInquiryName("");
+          setInquiryEmail("");
+          setInquiryCompany("");
+          setInquiryPhone("");
+          setInquiryQuantity("");
+          setInquiryMessage("");
+        }, 3000);
+      } else {
+        toast({
+          variant: "destructive",
+          title: "Error",
+          description: "Failed to send inquiry. Please try again.",
+        });
+      }
+    } catch (error) {
+      console.error('Error submitting inquiry:', error);
+      toast({
+        variant: "destructive",
+        title: "Error",
+        description: "An error occurred. Please try again later.",
+      });
+    }
+  };
 
   const currentUrl = `https://sinopeakchem.com${location.pathname}`;
 
@@ -318,18 +379,64 @@ export default function ProductDetailPage() {
                         {content.getQuote} <ArrowRight className="ml-2 w-5 h-5" />
                       </Button>
                     </DialogTrigger>
-                    <DialogContent className="sm:max-w-[600px] rounded-[2rem] p-8 max-h-[90vh] overflow-y-auto">
+                    <DialogContent className="sm:max-w-[550px] rounded-[2rem] p-8 max-h-[90vh] overflow-y-auto">
                       <DialogHeader>
-                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}</DialogTitle>
+                        <DialogTitle className="text-2xl font-black text-slate-900">{content.getQuote}: {product.name}</DialogTitle>
                       </DialogHeader>
-                      <MultiStepInquiryForm
-                        productName={product.name}
-                        isRu={isRu}
-                        isFr={isFr}
-                        isEs={isEs}
-                        isAr={isAr}
-                        onClose={() => setInquiryModalOpen(false)}
-                      />
+                      {inquirySubmitted ? (
+                        <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
+                          <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <CheckCircle2 className="w-10 h-10 text-green-500" />
+                          </div>
+                          <h3 className="text-xl font-bold text-slate-900 mb-2">{isRu ? "Запрос успешно отправлен!" : (isFr ? "Demande envoyée avec succès !" : (isEs ? "¡Consulta enviada con éxito!" : (isAr ? "تم إرسال الطلب بنجاح!" : "Inquiry Sent Successfully!")))}</h3>
+                          <p className="text-slate-500">{isRu ? "Мы отправили подтверждение на вашу почту. Наша команда скоро свяжется с вами." : (isFr ? "Nous avons envoyé une confirmation à votre adresse e-mail. Notre équipe vous contactera sous peu." : (isEs ? "Hemos enviado una confirmación a su correo electrónico. Nuestro equipo se pondrá en contacto con usted en breve." : (isAr ? "لقد أرسلنا تأكيداً إلى بريدك الإلكتروني. سيتصل بك فريقنا قريباً." : "We've sent a confirmation to your email. Our team will contact you shortly.")))}</p>
+                        </div>
+                      ) : (
+                        <form onSubmit={handleInquirySubmit} className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+                          <div className="space-y-2 md:col-span-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Полное имя *" : (isFr ? "Nom complet *" : (isEs ? "Nombre completo *" : (isAr ? "الاسم الكامل *" : "Full Name *")))}</Label>
+                            <Input required placeholder="John Doe" className="h-12 rounded-xl border-slate-200" value={inquiryName} onChange={e => setInquiryName(e.target.value)} />
+                          </div>
+                          <div className="space-y-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Электронная почта *" : (isFr ? "Adresse e-mail *" : (isEs ? "Correo electrónico *" : (isAr ? "البريد الإلكتروني *" : "Email Address *")))}</Label>
+                            <Input required type="email" placeholder="john@company.com" className="h-12 rounded-xl border-slate-200" value={inquiryEmail} onChange={e => setInquiryEmail(e.target.value)} />
+                          </div>
+                          <div className="space-y-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Номер телефона *" : (isFr ? "Numéro de téléphone *" : (isEs ? "Número de teléfono *" : (isAr ? "رقم الهاتف *" : "Phone Number *")))}</Label>
+                            <Input required type="tel" placeholder="+1 234 567 890" className="h-12 rounded-xl border-slate-200" value={inquiryPhone} onChange={e => setInquiryPhone(e.target.value)} />
+                          </div>
+                          <div className="space-y-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Целевое количество *" : (isFr ? "Quantité cible *" : (isEs ? "Cantidad objetivo *" : (isAr ? "الكمية المطلوبة *" : "Target Quantity *")))}</Label>
+                            <Input required placeholder="e.g. 25 MT" className="h-12 rounded-xl border-slate-200" value={inquiryQuantity} onChange={e => setInquiryQuantity(e.target.value)} />
+                          </div>
+                          <div className="space-y-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Название компании" : (isFr ? "Nom de l'entreprise" : (isEs ? "Nombre de la empresa" : (isAr ? "اسم الشركة" : "Company Name")))}</Label>
+                            <Input placeholder="Optional" className="h-12 rounded-xl border-slate-200" value={inquiryCompany} onChange={e => setInquiryCompany(e.target.value)} />
+                          </div>
+                          <div className="space-y-2 md:col-span-2">
+                            <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{isRu ? "Дополнительные требования" : (isFr ? "Exigences supplémentaires" : (isEs ? "Requisitos adicionales" : (isAr ? "متطلبات إضافية" : "Additional Requirements")))}</Label>
+                            <Textarea 
+                              className="min-h-[100px] rounded-xl border-slate-200"
+                              placeholder={isRu ? "Опишите ваши потребности..." : (isFr ? "Décrivez vos besoins..." : (isEs ? "Describa sus necesidades..." : (isAr ? "صف احتياجاتك الخاصة..." : "Describe your specific needs...")))}
+                              value={inquiryMessage}
+                              onChange={e => setInquiryMessage(e.target.value)}
+                            />
+                          </div>
+                          <div className="flex items-center space-x-2 md:col-span-2 py-2">
+                            <Checkbox 
+                              id="inquiry-subscribe" 
+                              checked={inquirySubscribe} 
+                              onCheckedChange={(checked) => setInquirySubscribe(checked === true)}
+                            />
+                            <Label htmlFor="inquiry-subscribe" className="text-xs text-slate-500 font-medium cursor-pointer">
+                              {content.subscribeText}
+                            </Label>
+                          </div>
+                          <Button type="submit" className="md:col-span-2 h-14 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold text-base mt-2">
+                            {isRu ? "Отправить запрос" : (isFr ? "Envoyer la demande" : (isEs ? "Enviar solicitud" : (isAr ? "إرسال الطلب" : "Submit Inquiry")))}
+                          </Button>
+                        </form>
+                      )}
                     </DialogContent>
                   </Dialog>
                   

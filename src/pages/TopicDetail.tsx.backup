@@ -18,7 +18,6 @@ import { useToast } from "@/hooks/use-toast";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import remarkBreaks from "remark-breaks";
-import MultiStepInquiryForm from "@/components/MultiStepInquiryForm";
 
 export default function TopicDetailPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -54,7 +53,16 @@ export default function TopicDetailPage() {
   const { toast } = useToast();
 
   // Inquiry Form State
+  const [inquiryName, setInquiryName] = useState("");
+  const [inquiryEmail, setInquiryEmail] = useState("");
+  const [inquiryCompany, setInquiryCompany] = useState("");
+  const [inquiryPhone, setInquiryPhone] = useState("");
+  const [inquiryQuantity, setInquiryQuantity] = useState("");
+  const [inquiryMessage, setInquiryMessage] = useState("");
+  const [inquirySubscribe, setInquirySubscribe] = useState(true);
+  const [inquirySubmitted, setInquirySubmitted] = useState(false);
   const [inquiryModalOpen, setInquiryModalOpen] = useState(false);
+  const [isFormExpanded, setIsFormExpanded] = useState(false);
 
   const product = useMemo(() => 
     getProductBySlug(slug || "")
@@ -109,7 +117,60 @@ export default function TopicDetailPage() {
     en: "This content is currently only available in English and is being translated."
   };
 
+  const handleInquirySubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!product) return;
+    
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: inquiryName,
+          email: inquiryEmail,
+          company: inquiryCompany,
+          phone: inquiryPhone,
+          quantity: inquiryQuantity,
+          message: inquiryMessage,
+          type: 'product_inquiry',
+          product: product.name,
+          subscribe: inquirySubscribe
+        }),
+      });
 
+      if (response.ok) {
+        setInquirySubmitted(true);
+        toast({
+          title: isRu ? "Запрос отправлен" : (isFr ? "Demande envoyée" : (isEs ? "Consulta enviada" : (isAr ? "تم إرسال الطلب" : "Inquiry Sent"))),
+          description: isRu ? "Мы получили ваш запрос и отправили письмо с подтверждением." : (isFr ? "Nous avons reçu votre demande et envoyé un e-mail de confirmation." : (isEs ? "Hemos recibido su solicitud y enviado un correo electrónico de confirmación." : (isAr ? "لقد تلقينا طلبك وأرسلنا بريدًا إلكترونيًا للتأكيد." : "We have received your request and sent a confirmation email."))),
+        });
+        setTimeout(() => {
+          setInquirySubmitted(false);
+          setInquiryName("");
+          setInquiryEmail("");
+          setInquiryCompany("");
+          setInquiryPhone("");
+          setInquiryQuantity("");
+          setInquiryMessage("");
+        }, 3000);
+      } else {
+        toast({
+          variant: "destructive",
+          title: "Error",
+          description: "Failed to send inquiry. Please try again.",
+        });
+      }
+    } catch (error) {
+      console.error('Error submitting inquiry:', error);
+      toast({
+        variant: "destructive",
+        title: "Error",
+        description: "An error occurred. Please try again later.",
+      });
+    }
+  };
 
   const content = isRu ? {
     products: "Продукты",
@@ -401,34 +462,120 @@ export default function TopicDetailPage() {
             {/* Right Sidebar */}
             <div className="w-full lg:w-[380px] space-y-8">
               {/* Quick Inquiry Card */}
-              <Dialog open={inquiryModalOpen} onOpenChange={setInquiryModalOpen}>
-                <DialogTrigger asChild>
-                  <div className="bg-white rounded-[2.5rem] p-8 border border-slate-200 shadow-xl shadow-blue-900/5 relative overflow-hidden cursor-pointer hover:shadow-2xl transition-all">
-                    <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-full -translate-y-1/2 translate-x-1/2 pointer-events-none" />
-                    
-                    <h3 className="text-xl font-black text-slate-900 mb-2 relative z-10">{content.quickInquiry}</h3>
-                    <p className="text-sm text-slate-500 font-medium mb-8 relative z-10">{content.inquiryDesc}</p>
-                    <Button className="w-full h-12 bg-[#0066B3] hover:bg-[#004a82] text-white rounded-xl font-bold">
+              <div className="bg-white rounded-[2.5rem] p-8 border border-slate-200 shadow-xl shadow-blue-900/5 relative overflow-hidden">
+                <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-full -translate-y-1/2 translate-x-1/2 pointer-events-none" />
+                
+                <h3 className="text-xl font-black text-slate-900 mb-2 relative z-10">{content.quickInquiry}</h3>
+                <p className="text-sm text-slate-500 font-medium mb-8 relative z-10">{content.inquiryDesc}</p>
+                
+                {inquirySubmitted ? (
+                  <div className="py-12 text-center animate-in fade-in zoom-in duration-500">
+                    <div className="w-20 h-20 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-6">
+                      <CheckCircle2 className="w-10 h-10 text-green-500" />
+                    </div>
+                    <h3 className="text-xl font-bold text-slate-900 mb-2">{isRu ? "Запрос успешно отправлен!" : (isFr ? "Demande envoyée avec succès !" : (isEs ? "¡Consulta enviada con éxito!" : (isAr ? "تم إرسال الطلب بنجاح!" : "Inquiry Sent Successfully!")))}</h3>
+                    <p className="text-slate-500">{isRu ? "Мы отправили подтверждение на вашу почту. Наша команда скоро свяжется с вами." : (isFr ? "Nous avons envoyé une confirmation à votre adresse e-mail. Notre équipe vous contactera sous peu." : (isEs ? "Hemos enviado una confirmación a su correo electrónico. Nuestro equipo se pondrá en contacto con usted en breve." : (isAr ? "لقد أرسلنا تأكيداً إلى بريدك الإلكتروني. سيتصل بك فريقنا قريباً." : "We've sent a confirmation to your email. Our team will contact you shortly.")))}</p>
+                  </div>
+                ) : (
+	                  <form 
+	                    onSubmit={handleInquirySubmit} 
+	                    className="space-y-4 relative z-10"
+	                    onBlur={(e) => {
+	                      // 如果焦点移出了整个表单，且关键字段为空，则折叠
+	                      if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+	                        if (!inquiryName && !inquiryEmail && !inquiryPhone && !inquiryQuantity && !inquiryMessage) {
+	                          setIsFormExpanded(false);
+	                        }
+	                      }
+	                    }}
+	                  >
+                    <div className="space-y-4">
+                      {/* Always visible: Name and Email */}
+                      <div className="space-y-2">
+                        <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.name}</Label>
+                        <Input 
+                          required 
+                          placeholder="John Doe" 
+                          className="h-12 rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all" 
+                          value={inquiryName} 
+                          onChange={e => setInquiryName(e.target.value)}
+                          onFocus={() => setIsFormExpanded(true)}
+                        />
+                      </div>
+                      <div className="space-y-2">
+                        <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.email}</Label>
+                        <Input 
+                          required 
+                          type="email" 
+                          placeholder="john@company.com" 
+                          className="h-12 rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all" 
+                          value={inquiryEmail} 
+                          onChange={e => setInquiryEmail(e.target.value)}
+                          onFocus={() => setIsFormExpanded(true)}
+                        />
+                      </div>
+
+                      {/* Expandable fields */}
+                      <div className={`space-y-4 overflow-hidden transition-all duration-500 ease-in-out ${isFormExpanded ? "max-h-[800px] opacity-100" : "max-h-0 opacity-0"}`}>
+                        <div className="space-y-2">
+                          <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.phone}</Label>
+                          <Input 
+                            required={isFormExpanded}
+                            type="tel" 
+                            placeholder="+1 234 567 890" 
+                            className="h-12 rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all" 
+                            value={inquiryPhone} 
+                            onChange={e => setInquiryPhone(e.target.value)} 
+                          />
+                        </div>
+                        <div className="space-y-2">
+                          <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.quantity}</Label>
+                          <Input 
+                            required={isFormExpanded}
+                            placeholder="e.g. 25 MT" 
+                            className="h-12 rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all" 
+                            value={inquiryQuantity} 
+                            onChange={e => setInquiryQuantity(e.target.value)} 
+                          />
+                        </div>
+                        <div className="space-y-2">
+                          <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.company}</Label>
+                          <Input 
+                            placeholder="Optional" 
+                            className="h-12 rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all" 
+                            value={inquiryCompany} 
+                            onChange={e => setInquiryCompany(e.target.value)} 
+                          />
+                        </div>
+                        <div className="space-y-2">
+                          <Label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{content.message}</Label>
+                          <Textarea 
+                            required={isFormExpanded}
+                            placeholder="Tell us about your requirements..." 
+                            className="min-h-[100px] rounded-xl border-slate-200 bg-slate-50 focus:bg-white transition-all"
+                            value={inquiryMessage}
+                            onChange={e => setInquiryMessage(e.target.value)}
+                          />
+                        </div>
+                        <div className="flex items-center space-x-2 py-2">
+                          <Checkbox 
+                            id="inquiry-subscribe" 
+                            checked={inquirySubscribe} 
+                            onCheckedChange={(checked) => setInquirySubscribe(checked === true)}
+                          />
+                          <Label htmlFor="inquiry-subscribe" className="text-xs text-slate-500 font-medium cursor-pointer">
+                            {content.subscribeText}
+                          </Label>
+                        </div>
+                      </div>
+                    </div>
+
+	                    <Button type="submit" className="w-full h-14 bg-[#0066B3] hover:bg-[#005596] text-white rounded-xl font-black uppercase tracking-widest text-sm shadow-lg shadow-blue-900/10 mt-4">
                       {content.submit}
                     </Button>
-                  </div>
-                </DialogTrigger>
-                <DialogContent className="sm:max-w-[600px] rounded-[2rem] p-8 max-h-[90vh] overflow-y-auto">
-                  <DialogHeader>
-                    <DialogTitle className="text-2xl font-black text-slate-900">{content.quickInquiry}</DialogTitle>
-                  </DialogHeader>
-                  {product && (
-                    <MultiStepInquiryForm
-                      productName={product.name}
-                      isRu={isRu}
-                      isFr={isFr}
-                      isEs={isEs}
-                      isAr={isAr}
-                      onClose={() => setInquiryModalOpen(false)}
-                    />
-                  )}
-                </DialogContent>
-              </Dialog>
+                  </form>
+                )}
+              </div>
 
               {/* Related Products Sidebar */}
               <div className="bg-slate-900 rounded-[2.5rem] p-8 text-white">
